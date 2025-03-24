@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "keyword": "chris derubeis art value",
+  "totalResults": 7,
+  "minPrice": 1000,
+  "auctionResults": [
+    {
+      "title": "ENAMEL ON METAL, CHRIS DERUBEIS (AMERICAN 1978)",
+      "price": {
+        "amount": 1400,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "J. James Auctioneers and Appraisers",
+      "date": "2020-02-29 11:00:00",
+      "lotNumber": "103",
+      "saleType": "Live"
+    },
+    {
+      "title": "CHRIS DERUBEIS \"MONARCH OF FROST\" UNIQUE MIXED MEDIA ON METAL",
+      "price": {
+        "amount": 1200,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Bradford's",
+      "date": "2024-04-14 09:00:00",
+      "lotNumber": "1220",
+      "saleType": "Timed"
+    },
+    {
+      "title": "Chris Derubeis Mixed Media Mini Burst Suite (2015-2016)",
+      "price": {
+        "amount": 1200,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Artemis Gallery",
+      "date": "2021-09-16 08:00:00",
+      "lotNumber": "360",
+      "saleType": "Live"
+    },
+    {
+      "title": "CHRIS DERUBEIS, MIXED MEDIA \"TREE\" PAINTING, 2017",
+      "price": {
+        "amount": 1200,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Ahlers & Ogletree Inc.",
+      "date": "2020-06-25 03:00:00",
+      "lotNumber": "67",
+      "saleType": "Live"
+    },
+    {
+      "title": "DERUBEIS PAINTING \"OPPOSITES ATTRACT\"",
+      "price": {
+        "amount": 1200,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Burchard Galleries Inc",
+      "date": "2024-03-17 12:00:00",
+      "lotNumber": "1210",
+      "saleType": "Live"
+    },
+    {
+      "title": "Chris DeRubeis (American, b. 1978) Mixed Media",
+      "price": {
+        "amount": 1050,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Akiba Galleries",
+      "date": "2020-06-16 04:00:00",
+      "lotNumber": "22",
+      "saleType": "Live"
+    },
+    {
+      "title": "Chris DeRubeis Abstract Sensualism Metal Art",
+      "price": {
+        "amount": 1000,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Atlanta Auction Gallery, ltd",
+      "date": "2021-01-02 10:00:00",
+      "lotNumber": "369A",
+      "saleType": "Live"
+    }
+  ],
+  "responseTime": 13794,
+  "timestamp": "2025-03-23T16:06:02.880Z"
+}

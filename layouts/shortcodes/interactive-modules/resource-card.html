@@ -1,0 +1,131 @@
+{{ $title := .Get "title" }}
+{{ $url := .Get "url" }}
+{{ $icon := .Get "icon" | default "" }}
+{{ $type := .Get "type" | default "article" }}
+
+<a href="{{ $url }}" target="_blank" rel="noopener noreferrer" class="resource-card resource-card--{{ $type }}">
+  <div class="resource-card__content">
+    <div class="resource-card__header">
+      {{ if $icon }}
+        <span class="resource-card__icon">{{ $icon }}</span>
+      {{ end }}
+      <div class="resource-card__type">{{ $type }}</div>
+    </div>
+    
+    <h4 class="resource-card__title">{{ $title }}</h4>
+    
+    <div class="resource-card__description">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+  
+  <div class="resource-card__footer">
+    <span class="resource-card__link">Visit resource</span>
+    <span class="resource-card__arrow">→</span>
+  </div>
+</a>
+
+<style>
+.resource-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: white;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+}
+
+.resource-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.05);
+}
+
+.resource-card__content {
+  padding: 1.5rem;
+  flex-grow: 1;
+}
+
+.resource-card__header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.resource-card__icon {
+  margin-right: 0.5rem;
+  font-size: 1.25rem;
+  color: var(--accent-color);
+}
+
+.resource-card__type {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+}
+
+.resource-card--article .resource-card__type {
+  background-color: var(--light-blue);
+  color: var(--accent-color);
+}
+
+.resource-card--video .resource-card__type {
+  background-color: #fee2e2;
+  color: #dc2626;
+}
+
+.resource-card--tool .resource-card__type {
+  background-color: #d1fae5;
+  color: #059669;
+}
+
+.resource-card--guide .resource-card__type {
+  background-color: #fef3c7;
+  color: #d97706;
+}
+
+.resource-card__title {
+  font-size: 1.125rem;
+  color: var(--primary-color);
+  margin: 0 0 0.75rem 0;
+  line-height: 1.4;
+}
+
+.resource-card__description {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.resource-card__description p:last-child {
+  margin-bottom: 0;
+}
+
+.resource-card__footer {
+  padding: 1rem 1.5rem;
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.resource-card__link {
+  color: var(--accent-color);
+}
+
+.resource-card__arrow {
+  transition: transform 0.3s ease;
+}
+
+.resource-card:hover .resource-card__arrow {
+  transform: translateX(5px);
+}
+</style>

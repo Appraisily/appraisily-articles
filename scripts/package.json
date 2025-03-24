@@ -1,0 +1,12 @@
+{
+  "name": "article-generator",
+  "version": "1.0.0",
+  "description": "AI-powered article generator for Appraisily",
+  "main": "generate-article.js",
+  "scripts": {
+    "generate": "node generate-article.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}

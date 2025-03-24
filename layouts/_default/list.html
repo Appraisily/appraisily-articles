@@ -1,0 +1,110 @@
+{{ define "main" }}
+<section class="article-list">
+    <header class="section-header">
+        <h1 class="section-title">{{ .Title }}</h1>
+        {{ with .Description }}
+        <p class="section-description">{{ . }}</p>
+        {{ end }}
+    </header>
+
+    <!-- For the home page, display featured articles first, then all other articles -->
+    {{ if .IsHome }}
+    {{ $articles := where .Site.RegularPages "Section" "eq" "articles" }}
+    
+    <!-- Display all articles in a grid -->
+    <div class="featured-articles">
+        <h2 class="featured-articles-title">Featured Articles</h2>
+        <div class="article-grid">
+            {{ range first 6 $articles }}
+            <div class="article-card">
+                {{ if .Params.featured_image }}
+                <div class="article-card-image">
+                    <a href="{{ .Permalink }}">
+                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" />
+                    </a>
+                </div>
+                {{ end }}
+                <div class="article-card-content">
+                    <h2 class="article-card-title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h2>
+                    <div class="article-card-meta">
+                        <time datetime="{{ .Date.Format "2006-01-02" }}">
+                            {{ .Date.Format "January 2, 2006" }}
+                        </time>
+                    </div>
+                    <div class="article-card-excerpt">
+                        {{ .Summary }}
+                    </div>
+                    <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+    
+    <!-- Display more articles if there are more than 6 -->
+    {{ if gt (len $articles) 6 }}
+    <div class="featured-articles">
+        <h2 class="featured-articles-title">More Articles</h2>
+        <div class="article-grid">
+            {{ range after 6 $articles }}
+            <div class="article-card">
+                {{ if .Params.featured_image }}
+                <div class="article-card-image">
+                    <a href="{{ .Permalink }}">
+                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" />
+                    </a>
+                </div>
+                {{ end }}
+                <div class="article-card-content">
+                    <h2 class="article-card-title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h2>
+                    <div class="article-card-meta">
+                        <time datetime="{{ .Date.Format "2006-01-02" }}">
+                            {{ .Date.Format "January 2, 2006" }}
+                        </time>
+                    </div>
+                    <div class="article-card-excerpt">
+                        {{ .Summary }}
+                    </div>
+                    <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+    {{ else }}
+    <!-- For section pages, display only pages in this section -->
+    <div class="article-grid">
+        {{ range .Pages }}
+        <div class="article-card">
+            {{ if .Params.featured_image }}
+            <div class="article-card-image">
+                <a href="{{ .Permalink }}">
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" />
+                </a>
+            </div>
+            {{ end }}
+            <div class="article-card-content">
+                <h2 class="article-card-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h2>
+                <div class="article-card-meta">
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">
+                        {{ .Date.Format "January 2, 2006" }}
+                    </time>
+                </div>
+                <div class="article-card-excerpt">
+                    {{ .Summary }}
+                </div>
+                <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+</section>
+{{ end }}

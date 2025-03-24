@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chris DeRubeis Art Value: Expert Guide to Appraisal and Collection</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <style>
+        .article-content h2 {
+            color: var(--primary-color);
+            font-size: 1.8rem;
+            margin-top: 2.5rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 0.75rem;
+        }
+        
+        .article-content h3 {
+            color: var(--secondary-color);
+            font-size: 1.5rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .hero-image {
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 2rem;
+            max-width: 100%;
+        }
+        
+        .hero-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        
+        .hero-image figcaption {
+            background-color: var(--bg-secondary);
+            padding: 1rem;
+            font-size: 0.875rem;
+            color: var(--text-muted);
+            text-align: center;
+        }
+        
+        .table-of-contents {
+            background-color: var(--bg-secondary);
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+        }
+        
+        .table-of-contents h2 {
+            font-size: 1.25rem;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            color: var(--primary-color);
+            border-bottom: none;
+        }
+        
+        .table-of-contents ul {
+            list-style-type: none;
+            padding-left: 1rem;
+        }
+        
+        .table-of-contents ul ul {
+            padding-left: 1.5rem;
+        }
+        
+        .table-of-contents li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .timeline {
+            margin: 2rem 0;
+            padding: 1rem;
+            border-left: 3px solid var(--accent-color);
+            background-color: var(--bg-secondary);
+            border-radius: 8px;
+        }
+        
+        .timeline-title {
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+            color: var(--primary-color);
+        }
+        
+        .timeline-item {
+            margin-bottom: 2rem;
+            position: relative;
+            padding-left: 2rem;
+        }
+        
+        .timeline-item:before {
+            content: "";
+            position: absolute;
+            left: -0.5rem;
+            top: 0.5rem;
+            width: 1rem;
+            height: 1rem;
+            background-color: var(--accent-color);
+            border-radius: 50%;
+        }
+        
+        .timeline-date {
+            font-weight: 600;
+            color: var(--accent-color);
+            margin-bottom: 0.25rem;
+        }
+        
+        .timeline-item-title {
+            font-size: 1.25rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .price-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+        }
+        
+        .price-table th, 
+        .price-table td {
+            padding: 0.75rem;
+            border: 1px solid var(--border-color);
+        }
+        
+        .price-table th {
+            background-color: var(--bg-secondary);
+            font-weight: 600;
+            text-align: left;
+        }
+        
+        .price-table tr:nth-child(even) {
+            background-color: var(--bg-secondary);
+        }
+        
+        .price-table tr.highlight {
+            background-color: rgba(49, 130, 206, 0.1);
+        }
+        
+        .faq-section {
+            margin: 2rem 0;
+        }
+        
+        .faq-item {
+            margin-bottom: 1.5rem;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        .faq-question {
+            background-color: var(--bg-secondary);
+            padding: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .faq-question:after {
+            content: "+";
+            font-size: 1.25rem;
+        }
+        
+        .faq-answer {
+            padding: 1rem;
+            display: none;
+        }
+        
+        .faq-item.open .faq-question:after {
+            content: "−";
+        }
+        
+        .faq-item.open .faq-answer {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <header class="site-header bg-white-80 backdrop-blur-sm sticky top-0 z-50 border-b border-gray-200">
+        <div class="container">
+            <div class="flex h-16 items-center justify-between">
+                <div class="header-logo">
+                    <a href="/">
+                        <img 
+                            src="https://ik.imagekit.io/appraisily/WebPage/logo_new.png?updatedAt=1731919266638" 
+                            alt="Appraisily Articles" 
+                            class="h-8 w-auto mr-3"
+                        />
+                        <span class="text-xl font-bold text-gray-900">APPRAISILY</span>
+                    </a>
+                </div>
+                
+                <nav class="main-nav">
+                    <button class="menu-toggle" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <ul class="menu">
+                        <li class="menu-item">
+                            <a href="/">Home</a>
+                        </li>
+                        <li class="menu-item active">
+                            <a href="/articles/">Articles</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="https://appraisily.com">Main Site</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="https://appraisily.com/start" class="btn-primary">Start Appraisal</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <article class="article">
+            <header class="article-header">
+                <h1 class="article-title">Chris DeRubeis Art Value: Expert Guide to Appraisal and Collection</h1>
+                <div class="article-meta">
+                    <time datetime="2025-03-24">
+                        March 24, 2025
+                    </time>
+                    <span class="article-author">by Appraisily Expert Team</span>
+                </div>
+            </header>
+
+            <figure class="hero-image">
+                <img src="https://ik.imagekit.io/appraisily/SEO/chris-derubeis-art-value/chris-derubeis-art-value-image-1_Y_anDFdXp.png" alt="Close-up of a Chris DeRubeis artwork showing vibrant, swirling colors and metal textures" />
+                <figcaption>Detail of a Chris DeRubeis Abstract Sensualism® artwork showcasing his signature metal grinding technique</figcaption>
+            </figure>
+
+            <div class="table-of-contents">
+                <h2>Table of Contents</h2>
+                <ul>
+                    <li><a href="#introduction">Introduction to Chris DeRubeis Art Value</a></li>
+                    <li><a href="#history">Historical Development and Career Trajectory</a></li>
+                    <li><a href="#types">Types and Categories of DeRubeis Artwork</a></li>
+                    <li><a href="#factors">Factors Determining Value</a></li>
+                    <li><a href="#authentication">Authenticating Chris DeRubeis Artwork</a></li>
+                    <li><a href="#market-trends">Market Trends and Pricing</a></li>
+                    <li><a href="#buy-sell">Where to Buy and Sell DeRubeis Artwork</a></li>
+                    <li><a href="#care">Care and Maintenance of DeRubeis Metal Art</a></li>
+                    <li><a href="#investment">Investment Potential and Long-Term Value</a></li>
+                    <li><a href="#conclusion">Conclusion</a></li>
+                    <li><a href="#faq">Frequently Asked Questions</a></li>
+                </ul>
+            </div>
+
+            <div class="article-content">
+                <h2 id="introduction">Introduction to Chris DeRubeis Art Value</h2>
+                <p>Chris DeRubeis has revolutionized contemporary art with his groundbreaking <strong>Abstract Sensualism®</strong> style, creating dynamic metal-based works that command significant attention in the art market. His innovative fusion of sculpture and painting on metal, combined with proprietary techniques involving chemicals, power tools, and natural elements like fire and ice, has established him as a unique voice in the art world.</p>
+                
+                <p>The value of DeRubeis' artwork stems from several key factors: his technical innovation, emotional resonance, and cultural impact. Each piece represents an irreplicable artistic achievement due to the unpredictable chemical reactions and hand-ground metal surfaces that define his style. This combination of technical mastery and emotional depth positions his work as both collectible and investment-grade.</p>
+
+                <h2 id="history">Historical Development and Career Trajectory</h2>
+                
+                <div class="timeline">
+                    <h3 class="timeline-title">Chris DeRubeis' Artistic Journey</h3>
+                    
+                    <div class="timeline-item">
+                        <div class="timeline-date">1978</div>
+                        <h4 class="timeline-item-title">Early Beginnings</h4>
+                        <p>Born in 1978 in Southern California, Chris DeRubeis showed artistic talent from an early age.</p>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <div class="timeline-date">Early 1990s</div>
+                        <h4 class="timeline-item-title">First Artistic Ventures</h4>
+                        <p>By age 13, DeRubeis was using his grandfather's airbrush to paint motorcycles, demonstrating early technical skill.</p>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <div class="timeline-date">Late 1990s</div>
+                        <h4 class="timeline-item-title">Formal Education</h4>
+                        <p>Attended Pasadena Art Center and Associates in Art school, funding his studies through custom Harley-Davidson paintings.</p>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <div class="timeline-date">Early 2000s</div>
+                        <h4 class="timeline-item-title">Abstract Sensualism® Development</h4>
+                        <p>Developed his signature style after noticing light patterns on a grinded motorcycle gas tank, leading to experimentation with metal as an artistic medium.</p>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <div class="timeline-date">2005</div>
+                        <h4 class="timeline-item-title">Major Recognition</h4>
+                        <p>Won the prestigious MUSE Award for "New Movement" at the First Annual Fine Art Awards, establishing his place in contemporary art.</p>
+                    </div>
+                </div>
+
+                <p>This evolutionary path from motorcycle painter to internationally recognized artist has significantly impacted the value of DeRubeis' work. His 2005 MUSE Award particularly stands as a milestone that elevated his market position and cemented his reputation as an innovator.</p>
+                
+                <h2 id="types">Types and Categories of DeRubeis Artwork</h2>
+                
+                <figure class="hero-image">
+                    <img src="https://ik.imagekit.io/appraisily/SEO/chris-derubeis-art-value/chris-derubeis-art-value-image-3_CaXr93Z64.png" alt="Artist's studio with metal sheets, power tools, and a partially finished DeRubeis-style artwork" />
+                    <figcaption>Recreation of a DeRubeis-style studio workspace showing the tools and materials used in his artistic process</figcaption>
+                </figure>
+                
+                <p>DeRubeis' artwork can be categorized in several ways, each affecting its market value:</p>
+                
+                <h3>By Medium</h3>
+                <p>DeRubeis primarily works with metal, but the specific type of metal significantly impacts the artwork's value:</p>
+                <ul>
+                    <li>Aircraft aluminum (most common)</li>
+                    <li>Silver</li>
+                    <li>Gold (highest value)</li>
+                    <li>Brass</li>
+                    <li>Copper</li>
+                </ul>
+                
+                <h3>By Size and Format</h3>
+                <p>The scale of his works ranges considerably:</p>
+                <ul>
+                    <li>Small pieces (e.g., <em>Mini Burst</em> series at approximately 20×20 inches)</li>
+                    <li>Medium works (single panels 24×36 inches)</li>
+                    <li>Large installations (multi-panel works spanning several feet)</li>
+                    <li>Quadtych arrangements (four coordinated panels)</li>
+                </ul>
+                
+                <h3>By Technique</h3>
+                <p>His distinctive techniques create varying visual effects:</p>
+                <ul>
+                    <li>Chemical reactions with metal</li>
+                    <li>Fire-treated surfaces</li>
+                    <li>Water and ice textures</li>
+                    <li>Grinding patterns</li>
+                    <li>Multi-layered urethane coatings</li>
+                </ul>
+                
+                <h2 id="market-trends">Market Trends and Pricing</h2>
+                
+                <p>Current market data reveals consistent patterns in the valuation of Chris DeRubeis artwork:</p>
+                
+                <table class="price-table">
+                    <thead>
+                        <tr>
+                            <th>Category</th>
+                            <th>Price Range</th>
+                            <th>Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Small Single Panels (Mini Series)</td>
+                            <td>$1,000 - $1,700</td>
+                            <td>Most commonly available at auction</td>
+                        </tr>
+                        <tr>
+                            <td>Medium Single Panels</td>
+                            <td>$1,800 - $4,500</td>
+                            <td>Pricing varies by technique and metal type</td>
+                        </tr>
+                        <tr class="highlight">
+                            <td>Signature Abstract Works</td>
+                            <td>$3,000 - $8,000</td>
+                            <td>Higher for works with documented provenance</td>
+                        </tr>
+                        <tr>
+                            <td>Large Multi-Panel Installations</td>
+                            <td>$5,000 - $15,000+</td>
+                            <td>Rare at auction, typically gallery sales</td>
+                        </tr>
+                        <tr>
+                            <td>Precious Metal Works (Gold/Silver)</td>
+                            <td>$10,000 - $20,000+</td>
+                            <td>Limited availability, highest collector demand</td>
+                        </tr>
+                    </tbody>
+                </table>
+                
+                <h2 id="faq">Frequently Asked Questions About Chris DeRubeis Art</h2>
+                
+                <div class="faq-section">
+                    <div class="faq-item open">
+                        <div class="faq-question">How much is Chris DeRubeis art worth?</div>
+                        <div class="faq-answer">
+                            <p>Chris DeRubeis artwork varies significantly in value based on several factors. Recent auction records show smaller works selling between $1,000-$1,700, while medium-sized pieces typically range from $1,800-$4,500. His signature abstract works on metal command $3,000-$8,000, with large multi-panel installations reaching $15,000 or more. Pieces incorporating precious metals like gold or silver can exceed $20,000. The artwork's size, material, technique, provenance, and condition all significantly impact its market value.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question">How can I tell if a Chris DeRubeis artwork is authentic?</div>
+                        <div class="faq-answer">
+                            <p>Authenticating a Chris DeRubeis artwork involves several verification points:</p>
+                            <ol>
+                                <li>Look for his distinctive metal treatment techniques including unique grinding patterns and chemical reactions</li>
+                                <li>Check for a certificate of authenticity from a reputable gallery like Park West</li>
+                                <li>Examine for his signature, typically on the back or edge of the metal</li>
+                                <li>Verify the artwork has the characteristic protective urethane coating</li>
+                                <li>Confirm the materials match the description (aircraft aluminum, gold, silver, etc.)</li>
+                            </ol>
+                            <p>For valuable pieces, consulting a professional art appraiser specializing in contemporary metal art is recommended.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question">Where can I buy or sell Chris DeRubeis art?</div>
+                        <div class="faq-answer">
+                            <p>Chris DeRubeis artwork can be purchased or sold through several reputable channels:</p>
+                            
+                            <p><strong>For buying new works:</strong></p>
+                            <ul>
+                                <li>DeRubeis Fine Art Gallery in Key West</li>
+                                <li>Park West Gallery (both physical locations and cruise ship galleries)</li>
+                                <li>Wyecliffe Galleries (UK)</li>
+                            </ul>
+                            
+                            <p><strong>For secondary market purchases or sales:</strong></p>
+                            <ul>
+                                <li>Art Brokerage</li>
+                                <li>Auction houses like Invaluable, MutualArt, and specialized fine art auctioneers</li>
+                                <li>1stDibs and other curated online marketplaces</li>
+                            </ul>
+                            
+                            <p>Always verify authenticity and provenance documentation before purchasing.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </main>
+
+    <footer class="site-footer relative overflow-hidden bg-white">
+        <!-- Background Elements -->
+        <div class="absolute inset-0">
+            <!-- Base gradient -->
+            <div class="absolute inset-0 bg-gradient-to-b from-gray-50 to-white"></div>
+            
+            <!-- Animated gradient blobs -->
+            <div class="absolute top-0 -left-4 w-3/4 h-3/4 rounded-full opacity-8 animation-delay-2000"></div>
+            <div class="absolute -bottom-8 right-0 w-3/4 h-3/4 rounded-full opacity-8 animation-delay-4000"></div>
+            <div class="absolute -bottom-8 -left-4 w-3/4 h-3/4 rounded-full opacity-8"></div>
+            
+            <!-- Grid overlay -->
+            <div class="absolute inset-0 bg-grid"></div>
+        </div>
+    
+        <div class="container relative py-12">
+            <div class="footer-grid">
+                <!-- Company Info -->
+                <div class="footer-about col-span-4">
+                    <div class="footer-logo">
+                        <img 
+                            src="https://ik.imagekit.io/appraisily/WebPage/logo_new.png?updatedAt=1731919266638"
+                            alt="Appraisily Logo"
+                            class="h-8 w-auto mr-3"
+                            loading="lazy"
+                        />
+                        <span class="text-2xl font-bold text-gray-900">Appraisily</span>
+                    </div>
+                    <p class="text-gray-600 max-w-md">
+                        Professional online art and antique appraisals. Get accurate valuations from certified experts within 48 hours.
+                    </p>
+                    <a href="https://appraisily.com/start" class="btn-primary">
+                        Start Appraisal
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-2 inline-block" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                    </a>
+                </div>
+                
+                <!-- Quick Links -->
+                <div class="footer-links col-span-2">
+                    <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider">
+                        Quick Links
+                    </h3>
+                    <ul class="space-y-3">
+                        <li><a href="/" class="text-gray-600 hover:text-gray-900 transition-colors text-sm">Home</a></li>
+                        <li><a href="/articles/" class="text-gray-600 hover:text-gray-900 transition-colors text-sm">Articles</a></li>
+                        <li><a href="https://appraisily.com/services" class="text-gray-600 hover:text-gray-900 transition-colors text-sm">Services</a></li>
+                        <li><a href="https://appraisily.com/how-it-works" class="text-gray-600 hover:text-gray-900 transition-colors text-sm">How It Works</a></li>
+                        <li><a href="https://screener.appraisily.com/" target="_blank" rel="noopener noreferrer" class="text-gray-600 hover:text-gray-900 transition-colors text-sm">Free AI Art Analysis</a></li>
+                    </ul>
+                </div>
+                
+                <!-- Our Network -->
+                <div class="footer-network col-span-3">
+                    <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider flex items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-2 text-blue-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg> 
+                        Our Network
+                    </h3>
+                    <ul class="space-y-3">
+                        <li><a href="https://screener.appraisily.com/" target="_blank" rel="noopener noreferrer" class="text-gray-600 hover:text-gray-900 transition-colors text-sm">Screener</a></li>
+                        <li><a href="https://landing-appraisers.appraisily.com/" target="_blank" rel="noopener noreferrer" class="text-gray-600 hover:text-gray-900 transition-colors text-sm">Appraiser Service</a></li>
+                        <li><a href="https://art-appraiser-directory.appraisily.com/" target="_blank" rel="noopener noreferrer" class="text-gray-600 hover:text-gray-900 transition-colors text-sm">Art Appraisers Directory</a></li>
+                        <li><a href="https://antique-appraiser-directory.appraisily.com/" target="_blank" rel="noopener noreferrer" class="text-gray-600 hover:text-gray-900 transition-colors text-sm">Antique Appraisers Directory</a></li>
+                    </ul>
+                </div>
+                
+                <!-- Contact Info -->
+                <div class="footer-contact col-span-3">
+                    <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider">
+                        Contact Us
+                    </h3>
+                    <div class="space-y-3">
+                        <a 
+                            href="mailto:info@appraisily.com"
+                            class="flex items-center text-gray-600 hover:text-gray-900 transition-colors text-sm"
+                        >
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                            info@appraisily.com
+                        </a>
+                        <div class="footer-social flex space-x-4">
+                            <a href="#" class="text-gray-600 hover:text-gray-900 transition-colors" aria-label="Visit our Facebook page">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+                            </a>
+                            <a href="#" class="text-gray-600 hover:text-gray-900 transition-colors" aria-label="Visit our Twitter page">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"></path></svg>
+                            </a>
+                            <a href="#" class="text-gray-600 hover:text-gray-900 transition-colors" aria-label="Visit our Instagram page">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Bottom Bar -->
+            <div class="footer-bottom mt-8 pt-8 border-t border-gray-200">
+                <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+                    <div class="flex items-center space-x-1 text-sm">
+                        <span class="text-gray-600">&copy;</span>
+                        <span class="text-gray-900 font-medium">2025 Appraisily.</span>
+                        <span class="text-gray-600">All rights reserved.</span>
+                    </div>
+                    <div class="footer-legal flex items-center gap-6">
+                        <a href="https://appraisily.com/privacy" class="text-sm text-gray-600 hover:text-gray-900 transition-colors">Privacy Policy</a>
+                        <a href="https://appraisily.com/terms" class="text-sm text-gray-600 hover:text-gray-900 transition-colors">Terms of Service</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Navigation menu toggle
+            const menuToggle = document.querySelector('.menu-toggle');
+            const menu = document.querySelector('.menu');
+            
+            if (menuToggle && menu) {
+                menuToggle.addEventListener('click', function() {
+                    const expanded = this.getAttribute('aria-expanded') === 'true';
+                    this.setAttribute('aria-expanded', !expanded);
+                    menu.classList.toggle('show');
+                });
+            }
+            
+            // FAQ accordion functionality
+            const faqQuestions = document.querySelectorAll('.faq-question');
+            
+            faqQuestions.forEach(question => {
+                question.addEventListener('click', () => {
+                    const faqItem = question.parentNode;
+                    faqItem.classList.toggle('open');
+                });
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+{{ $title := .Get "title" | default "Useful Resources" }}
+{{ $columns := .Get "columns" | default "2" }}
+{{ $description := .Get "description" | default "" }}
+
+<div class="resource-links">
+  <h3 class="resource-links__title">{{ $title }}</h3>
+  
+  {{ if $description }}
+    <div class="resource-links__description">{{ $description }}</div>
+  {{ end }}
+  
+  <div class="resource-links__grid resource-links__grid--{{ $columns }}">
+    {{ .Inner }}
+  </div>
+</div>
+
+<style>
+.resource-links {
+  margin: 3rem 0;
+  padding: 2rem;
+  background-color: var(--bg-secondary);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.resource-links__title {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.resource-links__description {
+  margin-bottom: 1.5rem;
+  color: var(--text-muted);
+}
+
+.resource-links__grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.resource-links__grid--1 {
+  grid-template-columns: 1fr;
+}
+
+.resource-links__grid--2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.resource-links__grid--3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+@media (max-width: 768px) {
+  .resource-links__grid--2,
+  .resource-links__grid--3 {
+    grid-template-columns: 1fr;
+  }
+  
+  .resource-links {
+    padding: 1.5rem;
+  }
+}
+</style>

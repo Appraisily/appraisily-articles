@@ -1,0 +1,96 @@
+<div class="auction-results">
+  <h3 class="results-title">{{ .Get "title" | default "Recent Auction Results" }}</h3>
+  <div class="results-description">{{ .Get "description" }}</div>
+  
+  <div class="table-responsive">
+    <table class="auction-table">
+      <thead>
+        <tr>
+          <th>Item</th>
+          <th>Price</th>
+          <th>Date</th>
+          <th>Auction House</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ .Inner }}
+      </tbody>
+    </table>
+  </div>
+  
+  <div class="results-note">
+    <p><em>Note: Auction results represent past sales and may not reflect current market values. Always consult with a professional appraiser for accurate valuations.</em></p>
+  </div>
+</div>
+
+<style>
+.auction-results {
+  margin: 3rem 0;
+  background-color: #f7fafc;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.results-title {
+  color: #1a365d;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.results-description {
+  margin-bottom: 1.5rem;
+  color: #4a5568;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+.auction-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+.auction-table th {
+  background-color: #ebf8ff;
+  color: #2a4365;
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid #bee3f8;
+}
+
+.auction-table td {
+  padding: 1rem;
+  border-bottom: 1px solid #e2e8f0;
+  color: #1a202c;
+}
+
+.auction-table tr:nth-child(even) {
+  background-color: #f7fafc;
+}
+
+.auction-table tr:hover {
+  background-color: #ebf8ff;
+}
+
+.results-note {
+  font-size: 0.875rem;
+  color: #718096;
+}
+
+@media (max-width: 640px) {
+  .auction-results {
+    padding: 1rem;
+  }
+  
+  .auction-table th,
+  .auction-table td {
+    padding: 0.75rem 0.5rem;
+    font-size: 0.875rem;
+  }
+}
+</style>

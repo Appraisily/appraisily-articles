@@ -1,0 +1,123 @@
+{{ $date := .Get "date" }}
+{{ $title := .Get "title" }}
+{{ $icon := .Get "icon" | default "" }}
+
+<div class="timeline-item">
+  <div class="timeline-item__dot">
+    {{ if $icon }}
+      <span class="timeline-item__icon">{{ $icon }}</span>
+    {{ end }}
+  </div>
+  
+  <div class="timeline-item__content">
+    <div class="timeline-item__date">{{ $date }}</div>
+    <h4 class="timeline-item__title">{{ $title }}</h4>
+    <div class="timeline-item__body">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+</div>
+
+<style>
+.timeline-item {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 2rem;
+  position: relative;
+}
+
+.timeline-item__dot {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  background-color: white;
+  border: 3px solid var(--accent-color);
+  border-radius: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.timeline-item__icon {
+  font-size: 14px;
+  color: var(--accent-color);
+}
+
+.timeline-item__content {
+  background-color: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  max-width: 45%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  border: 1px solid var(--border-color);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timeline-item__content:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.05);
+}
+
+.timeline-item__date {
+  display: inline-block;
+  background-color: var(--light-blue);
+  color: var(--accent-color);
+  font-weight: 600;
+  font-size: 0.875rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  margin-bottom: 0.75rem;
+}
+
+.timeline-item__title {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+}
+
+.timeline-item__body {
+  color: var(--text-color);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.timeline-item__body p:last-child {
+  margin-bottom: 0;
+}
+
+/* Left-aligned timeline styles */
+.timeline--left .timeline-item {
+  justify-content: flex-start;
+  padding-left: 64px;
+}
+
+.timeline--left .timeline-item__dot {
+  left: 30px;
+  transform: none;
+}
+
+.timeline--left .timeline-item__content {
+  max-width: 100%;
+}
+
+@media (max-width: 768px) {
+  .timeline-item {
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-left: 64px;
+  }
+  
+  .timeline-item__dot {
+    left: 30px;
+    transform: none;
+  }
+  
+  .timeline-item__content {
+    max-width: 100%;
+  }
+}
+</style>

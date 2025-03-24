@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+    {{ partial "head.html" . }}
+    <style>
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSLHDGM"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {{ partial "header.html" . }}
+    <main class="container">
+        {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+    
+    {{ block "scripts" . }}{{ end }}
+    
+    <script>
+        // Helper function to set active menu items based on current path
+        document.addEventListener('DOMContentLoaded', function() {
+            const currentPath = window.location.pathname;
+            const menuItems = document.querySelectorAll('.menu-item a');
+            
+            menuItems.forEach(item => {
+                const itemPath = item.getAttribute('href');
+                if (itemPath && currentPath.startsWith(itemPath) && itemPath !== '/') {
+                    item.parentElement.classList.add('active');
+                }
+                if (itemPath === '/' && currentPath === '/') {
+                    item.parentElement.classList.add('active');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

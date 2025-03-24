@@ -1,0 +1,10 @@
+{{ $category := .Get "category" | default "" }}
+{{ $range := .Get "range" | default "" }}
+{{ $notes := .Get "notes" | default "" }}
+{{ $highlight := .Get "highlight" | default "false" }}
+
+<tr class="{{ if eq $highlight "true" }}price-row--highlight{{ end }}">
+  <td>{{ $category }}</td>
+  <td>{{ $range }}</td>
+  {{ if $notes }}<td>{{ $notes | markdownify }}</td>{{ end }}
+</tr>

@@ -1,0 +1,150 @@
+{{ $title := .Get "title" | default "Frequently Asked Questions" }}
+{{ $id := .Get "id" | default "faq-section" }}
+{{ $schema := .Get "schema" | default true }}
+
+<div id="{{ $id }}" class="faq-module">
+  <h2 class="faq-module__title">{{ $title }}</h2>
+  
+  <div class="faq-accordion">
+    {{ .Inner }}
+  </div>
+</div>
+
+{{ if eq $schema "true" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ $faqItems := findRE "<div class=\"faq-item\">.*?<h3 class=\"faq-item__question\".*?>(.*?)</h3>.*?<div class=\"faq-item__answer\".*?>(.*?)</div>.*?</div>" .Inner }}
+    {{ $length := len $faqItems }}
+    {{ range $index, $item := $faqItems }}
+      {{ $question := index (findRE "<h3 class=\"faq-item__question\".*?>(.*?)</h3>" $item) 0 | replaceRE "<h3 class=\"faq-item__question\".*?>(.*?)</h3>" "$1" }}
+      {{ $answer := index (findRE "<div class=\"faq-item__answer\".*?>(.*?)</div>" $item) 0 | replaceRE "<div class=\"faq-item__answer\".*?>(.*?)</div>" "$1" }}
+      {
+        "@type": "Question",
+        "name": "{{ $question }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ $answer }}"
+        }
+      }{{ if ne (add $index 1) $length }},{{ end }}
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+<style>
+.faq-module {
+  margin: 3rem 0;
+  padding: 2rem;
+  background-color: var(--bg-secondary);
+  border-radius: 8px;
+  box-shadow: var(--box-shadow);
+}
+
+.faq-module__title {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.faq-accordion {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.faq-item {
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  background-color: white;
+  overflow: hidden;
+}
+
+.faq-item__question {
+  margin: 0;
+  padding: 1.25rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-color);
+  background-color: white;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.faq-item__question:hover {
+  background-color: var(--light-blue);
+}
+
+.faq-item__question::after {
+  content: "+";
+  font-size: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.faq-item.active .faq-item__question::after {
+  transform: rotate(45deg);
+}
+
+.faq-item__answer {
+  padding: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.faq-item.active .faq-item__answer {
+  padding: 0 1.25rem 1.25rem;
+  max-height: 1000px;
+}
+
+.faq-item__answer p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 640px) {
+  .faq-module {
+    padding: 1.5rem;
+  }
+  
+  .faq-module__title {
+    font-size: 1.5rem;
+  }
+  
+  .faq-item__question {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const faqItems = document.querySelectorAll('.faq-item');
+  
+  faqItems.forEach(item => {
+    const question = item.querySelector('.faq-item__question');
+    
+    question.addEventListener('click', () => {
+      const isActive = item.classList.contains('active');
+      
+      // Close all items
+      faqItems.forEach(otherItem => {
+        otherItem.classList.remove('active');
+      });
+      
+      // Open clicked item if it wasn't active
+      if (!isActive) {
+        item.classList.add('active');
+      }
+    });
+  });
+});
+</script>

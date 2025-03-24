@@ -1,0 +1,58 @@
+[build]
+  command = "npm run build:simple"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.121.1"
+  HUGO_ENV = "production"
+
+# Custom domain setup
+[[redirects]]
+  from = "https://articles.appraisily.com/*"
+  to = "/:splat"
+  status = 200
+  force = true
+
+# Performance optimizations
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https://ik.imagekit.io data:; connect-src 'self' https://www.google-analytics.com; frame-ancestors 'none';"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+
+[[headers]]
+  for = "*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+    
+[context.production]
+  command = "npm run build:simple"
+  [context.production.environment]
+    HUGO_ENV = "production"
+    # API keys and other sensitive variables should be set in Netlify dashboard
+    # Required: ANTHROPIC_API_KEY
+    
+[context.deploy-preview]
+  command = "npm run build:simple"
+  [context.deploy-preview.environment]
+    HUGO_ENV = "production"
+    # API keys should be set in Netlify dashboard
+  
+[context.branch-deploy]
+  command = "npm run build:simple"
+  [context.branch-deploy.environment]
+    HUGO_ENV = "production"
+    # API keys should be set in Netlify dashboard

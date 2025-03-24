@@ -1,0 +1,38 @@
+{{ define "main" }}
+<article class="article">
+    {{ partial "article-schema.html" . }}
+    
+    <header class="article-header">
+        <h1 class="article-title">{{ .Title }}</h1>
+        <div class="article-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "January 2, 2006" }}
+            </time>
+            {{ with .Params.author }}
+            <span class="article-author">by {{ . }}</span>
+            {{ end }}
+        </div>
+    </header>
+
+    {{ if .Params.featured_image }}
+    <div class="article-featured-image">
+        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" />
+    </div>
+    {{ end }}
+
+    <div class="article-content">
+        {{ .Content }}
+    </div>
+
+    <footer class="article-footer">
+        {{ with .Params.tags }}
+        <div class="article-tags">
+            <span>Tags:</span>
+            {{ range . }}
+            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+    </footer>
+</article>
+{{ end }}

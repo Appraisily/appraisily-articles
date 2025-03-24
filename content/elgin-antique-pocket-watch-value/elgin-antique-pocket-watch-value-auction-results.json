@@ -1,0 +1,130 @@
+{
+  "success": true,
+  "keyword": "elgin antique pocket watch value",
+  "totalResults": 10,
+  "minPrice": 1000,
+  "auctionResults": [
+    {
+      "title": "BAT MASTERSON'S COLT SINGLE ACTION ARMY REVOLVER, CUSTOM ORDERED FROM THE OPERA HOUSE SALOON, DODGE CITY, July 24, 1885. Serial no. 112737 for 1884, .45 caliber 4 3/4 inch barrel.",
+      "price": {
+        "amount": 300000,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Bonhams",
+      "date": "2021-08-27 12:00:00",
+      "lotNumber": "14",
+      "saleType": "Live"
+    },
+    {
+      "title": "Elgin",
+      "price": {
+        "amount": 11680,
+        "currency": "PHP",
+        "symbol": "₱"
+      },
+      "auctionHouse": "Leon Gallery",
+      "date": "2022-07-29 11:00:00",
+      "lotNumber": "11",
+      "saleType": "Live"
+    },
+    {
+      "title": "(Paul Newman) | A Pocket Watch Gifted to Newman for his birthday",
+      "price": {
+        "amount": 6985,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Sotheby's",
+      "date": "2023-06-12 11:00:00",
+      "lotNumber": "25",
+      "saleType": "View Only"
+    },
+    {
+      "title": "R.M.S. LUSITANIA:",
+      "price": {
+        "amount": 6000,
+        "currency": "GBP",
+        "symbol": "£"
+      },
+      "auctionHouse": "Henry Aldridge & Son Ltd",
+      "date": "2024-11-16 12:00:00",
+      "lotNumber": "66",
+      "saleType": "Live"
+    },
+    {
+      "title": "A fine Vacheron & Constantin enameled pendant watch with matching chain",
+      "price": {
+        "amount": 4500,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Schmitt Horan & Co.",
+      "date": "2021-11-20 11:00:00",
+      "lotNumber": "247",
+      "saleType": "Live"
+    },
+    {
+      "title": "14k Watch Chain w/Slider 51.4 dwt and Elgin Hunting Pocket Watch",
+      "price": {
+        "amount": 3500,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Circle Auction",
+      "date": "2024-12-07 10:00:00",
+      "lotNumber": "68",
+      "saleType": "Live"
+    },
+    {
+      "title": "Estate Jewelry Gold and Diamonds",
+      "price": {
+        "amount": 3300,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Weiss Auctions",
+      "date": "2024-01-31 10:00:00",
+      "lotNumber": "90B",
+      "saleType": "Live"
+    },
+    {
+      "title": "A 14K GOLD ELGIN POCKET WATCH",
+      "price": {
+        "amount": 3200,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Tiroche Auction House",
+      "date": "2024-09-23 07:00:00",
+      "lotNumber": "637",
+      "saleType": "Live"
+    },
+    {
+      "title": "EIGHT GOLD POCKETWATCHES",
+      "price": {
+        "amount": 3200,
+        "currency": "AUD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Bonhams",
+      "date": "2023-08-08 06:00:00",
+      "lotNumber": "166",
+      "saleType": "Live"
+    },
+    {
+      "title": "An Elgin gold pocket watch",
+      "price": {
+        "amount": 2600,
+        "currency": "AUD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Gibson's",
+      "date": "2024-05-19 11:00:00",
+      "lotNumber": "410",
+      "saleType": "Live"
+    }
+  ],
+  "responseTime": 29978,
+  "timestamp": "2025-03-23T23:38:53.142Z"
+}

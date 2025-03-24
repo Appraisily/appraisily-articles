@@ -1,0 +1,63 @@
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+    },
+    "headline": "{{ with .Params.meta_title }}{{ . }}{{ else }}{{ .Title }}{{ end }}",
+    "description": "{{ with .Params.meta_description }}{{ . }}{{ else }}{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}{{ end }}",
+    "image": [
+        "{{ with .Params.featured_image }}{{ . }}{{ else }}{{ "images/default-og-image.jpg" | absURL }}{{ end }}"
+    ],
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}",
+    "author": {
+        "@type": "Organization",
+        "name": "Appraisily",
+        "url": "https://www.appraisily.com",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://ik.imagekit.io/appraisily/WebPage/logo_new.png?updatedAt=1731919266638"
+        }
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Appraisily",
+        "url": "https://www.appraisily.com",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://ik.imagekit.io/appraisily/WebPage/logo_new.png?updatedAt=1731919266638"
+        }
+    },
+    "keywords": "{{ with .Params.keywords }}{{ delimit . ", " }}{{ end }}",
+    "articleSection": "{{ with .Params.category }}{{ . }}{{ else }}Antiques & Art Appraisal{{ end }}",
+    {{ if .Params.rating }}
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ .Params.rating.value }}",
+        "ratingCount": "{{ .Params.rating.count }}",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    {{ end }}
+    {{ if .Params.faq }}
+    "mainEntity": [
+        {{ range $index, $faq := .Params.faq }}
+        {{ if $index }},{{ end }}
+        {
+            "@type": "Question",
+            "name": "{{ $faq.question }}",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "{{ $faq.answer }}"
+            }
+        }
+        {{ end }}
+    ],
+    {{ end }}
+    "isAccessibleForFree": "True",
+    "inLanguage": "en-US"
+}
+</script>

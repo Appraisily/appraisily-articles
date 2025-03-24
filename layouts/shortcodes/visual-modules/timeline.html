@@ -1,0 +1,76 @@
+{{ $title := .Get "title" | default "Timeline" }}
+{{ $theme := .Get "theme" | default "default" }}
+
+<div class="timeline timeline--{{ $theme }}">
+  {{ if $title }}
+    <h3 class="timeline__title">{{ $title }}</h3>
+  {{ end }}
+  
+  <div class="timeline__container">
+    {{ .Inner }}
+  </div>
+</div>
+
+<style>
+.timeline {
+  margin: 3rem 0;
+  position: relative;
+}
+
+.timeline__title {
+  color: var(--primary-color);
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.timeline__container {
+  position: relative;
+}
+
+.timeline__container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 3px;
+  background-color: var(--accent-color);
+  transform: translateX(-50%);
+}
+
+.timeline--default .timeline-item:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.timeline--left .timeline__container::before {
+  left: 32px;
+}
+
+.timeline--alternating .timeline-item:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+@media (max-width: 768px) {
+  .timeline__container::before {
+    left: 32px;
+  }
+  
+  .timeline--default .timeline-item,
+  .timeline--alternating .timeline-item {
+    flex-direction: row !important;
+  }
+  
+  .timeline-item {
+    padding-left: 64px !important;
+  }
+  
+  .timeline-item__dot {
+    left: 30px !important;
+  }
+  
+  .timeline-item__content {
+    max-width: 100% !important;
+  }
+}
+</style>

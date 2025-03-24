@@ -1,0 +1,94 @@
+{{ $label := .Get "label" }}
+{{ $weight := .Get "weight" | default "1" }}
+
+<div class="checklist-item">
+  <label class="checklist-item__label">
+    <input type="checkbox" class="checklist-item__input" data-weight="{{ $weight }}">
+    <span class="checklist-item__checkbox"></span>
+    <span class="checklist-item__text">{{ $label }}</span>
+  </label>
+  
+  {{ if .Inner }}
+    <div class="checklist-item__description">
+      {{ .Inner | markdownify }}
+    </div>
+  {{ end }}
+</div>
+
+<style>
+.checklist-item {
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  background-color: white;
+}
+
+.checklist-item__label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.checklist-item__input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checklist-item__checkbox {
+  position: relative;
+  height: 20px;
+  width: 20px;
+  background-color: #fff;
+  border: 2px solid var(--border-color);
+  border-radius: 4px;
+  margin-right: 0.75rem;
+  transition: all 0.3s ease;
+}
+
+.checklist-item__checkbox:after {
+  content: "";
+  position: absolute;
+  display: none;
+  left: 6px;
+  top: 2px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.checklist-item__input:checked ~ .checklist-item__checkbox {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+.checklist-item__input:checked ~ .checklist-item__checkbox:after {
+  display: block;
+}
+
+.checklist-item__input:focus ~ .checklist-item__checkbox {
+  box-shadow: 0 0 0 3px rgba(49, 130, 206, 0.25);
+}
+
+.checklist-item__text {
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.checklist-item__description {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin-left: 2.75rem;
+}
+
+.checklist-item__description p:last-child {
+  margin-bottom: 0;
+}
+</style>

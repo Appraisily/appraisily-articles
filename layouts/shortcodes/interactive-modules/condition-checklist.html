@@ -1,0 +1,181 @@
+{{ $title := .Get "title" | default "Condition Assessment Checklist" }}
+
+<div class="condition-checklist">
+  <h3 class="condition-checklist__title">{{ $title }}</h3>
+  
+  <div class="condition-checklist__description">
+    {{ .Get "description" }}
+  </div>
+  
+  <form class="condition-checklist__form">
+    <div class="condition-checklist__items">
+      {{ .Inner }}
+    </div>
+    
+    <div class="condition-checklist__results">
+      <div class="condition-checklist__score">
+        <span class="condition-checklist__score-label">Condition Score:</span>
+        <span class="condition-checklist__score-value">0%</span>
+      </div>
+      
+      <div class="condition-checklist__rating">
+        <span class="condition-checklist__rating-label">Rating:</span>
+        <span class="condition-checklist__rating-value">Not Assessed</span>
+      </div>
+      
+      <button type="reset" class="condition-checklist__reset">Reset</button>
+    </div>
+  </form>
+</div>
+
+<style>
+.condition-checklist {
+  margin: 3rem 0;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--border-color);
+}
+
+.condition-checklist__title {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.condition-checklist__description {
+  margin-bottom: 1.5rem;
+  color: var(--text-muted);
+}
+
+.condition-checklist__items {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.condition-checklist__results {
+  padding: 1.5rem;
+  background-color: var(--bg-secondary);
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.condition-checklist__score,
+.condition-checklist__rating {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.condition-checklist__score-label,
+.condition-checklist__rating-label {
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+.condition-checklist__score-value {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--accent-color);
+}
+
+.condition-checklist__rating-value {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.condition-checklist__reset {
+  margin-left: auto;
+  background-color: #e2e8f0;
+  border: none;
+  color: var(--text-muted);
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.condition-checklist__reset:hover {
+  background-color: #cbd5e0;
+}
+
+@media (max-width: 640px) {
+  .condition-checklist {
+    padding: 1.5rem;
+  }
+  
+  .condition-checklist__results {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  
+  .condition-checklist__reset {
+    margin-left: 0;
+    width: 100%;
+  }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const forms = document.querySelectorAll('.condition-checklist__form');
+  
+  forms.forEach(form => {
+    const checkboxes = form.querySelectorAll('.checklist-item__input');
+    const scoreValue = form.querySelector('.condition-checklist__score-value');
+    const ratingValue = form.querySelector('.condition-checklist__rating-value');
+    const resetButton = form.querySelector('.condition-checklist__reset');
+    
+    // Update score and rating when a checkbox is changed
+    checkboxes.forEach(checkbox => {
+      checkbox.addEventListener('change', updateScore);
+    });
+    
+    // Reset form and scores
+    resetButton.addEventListener('click', () => {
+      setTimeout(() => {
+        updateScore();
+      }, 10);
+    });
+    
+    function updateScore() {
+      const total = checkboxes.length;
+      const checked = Array.from(checkboxes).filter(cb => cb.checked).length;
+      
+      if (total === 0) return;
+      
+      const score = Math.round((checked / total) * 100);
+      scoreValue.textContent = score + '%';
+      
+      // Update rating based on score
+      let rating = 'Poor';
+      let color = '#e53e3e'; // red
+      
+      if (score >= 90) {
+        rating = 'Excellent';
+        color = '#38a169'; // green
+      } else if (score >= 75) {
+        rating = 'Good';
+        color = '#3182ce'; // blue
+      } else if (score >= 50) {
+        rating = 'Fair';
+        color = '#d69e2e'; // yellow
+      }
+      
+      ratingValue.textContent = rating;
+      ratingValue.style.color = color;
+    }
+    
+    // Initial update
+    updateScore();
+  });
+});
+</script>
