@@ -65,6 +65,21 @@ Before generating an article, you need to prepare the research data:
    - `your-keyword-generated-images.json`: Generated image descriptions
    - `your-keyword-auction-results.json`: Auction results if applicable
 
+3. **IMPORTANT**: Create an `images-data.json` file with ImageKit URLs:
+   ```json
+   [
+     {
+       "name": "your-keyword-image-1.png",
+       "imagekitUrl": "https://ik.imagekit.io/appraisily/SEO/your-keyword/your-keyword-image-1.png"
+     },
+     {
+       "name": "your-keyword-image-2.png",
+       "imagekitUrl": "https://ik.imagekit.io/appraisily/SEO/your-keyword/your-keyword-image-2.png"
+     }
+   ]
+   ```
+   The generation script is configured to use ALL images from the `imagekitUrl` parameter in your article, so make sure to include exactly the images you want.
+
 ## Generating an Article
 
 1. Run the generation command for your keyword:
@@ -83,6 +98,29 @@ Before generating an article, you need to prepare the research data:
    ```bash
    npm run generate:force
    ```
+
+## Image Usage Requirements
+
+The article generation script has been configured to:
+
+1. Include ALL ImageKit URLs from your `images-data.json` file
+2. Add proper Markdown image formatting for each image
+3. Distribute images throughout the article for better visual engagement
+4. Use ONLY the `imagekitUrl` parameter for images - no other image sources are allowed
+
+Example of how images are used in the generated article:
+
+```markdown
+## Section Title
+
+Content text here...
+
+![Descriptive alt text for image 1](https://ik.imagekit.io/appraisily/SEO/your-keyword/your-keyword-image-1.png)
+
+*Caption for the image*
+
+More content text...
+```
 
 ## Validating Articles
 

@@ -14,15 +14,17 @@
             
             <nav class="main-nav hidden md:block">
                 <ul class="menu flex items-center">
-                    <div class="flex items-center space-x-16">
-                        {{ range .Site.Menus.main }}
-                        <li class="menu-item{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
-                            <a href="{{ .URL }}" class="text-gray-800 hover:text-blue-600 font-medium text-lg">{{ .Name }}</a>
-                        </li>
-                        {{ end }}
-                    </div>
-                    <li class="menu-item ml-16">
-                        <a href="https://appraisily.com/start" class="btn-primary bg-black hover:bg-gray-800 text-white font-medium py-2 px-4 rounded-lg inline-flex items-center transition duration-150 ease-in-out">
+                    <li class="menu-item ml-8">
+                        <a href="{{ .Site.BaseURL }}" class="text-gray-900 hover:text-blue-600 font-semibold text-lg">Home</a>
+                    </li>
+                    <li class="menu-item ml-8">
+                        <a href="{{ .Site.BaseURL }}articles/" class="text-gray-900 hover:text-blue-600 font-semibold text-lg">Articles</a>
+                    </li>
+                    <li class="menu-item ml-8">
+                        <a href="{{ .Site.Params.mainSiteURL }}" class="text-gray-900 hover:text-blue-600 font-semibold text-lg">Main Site</a>
+                    </li>
+                    <li class="menu-item ml-8">
+                        <a href="{{ .Site.Params.mainSiteURL }}/start" class="btn-primary bg-black hover:bg-gray-800 text-white font-semibold py-2 px-4 rounded-lg inline-flex items-center transition duration-150 ease-in-out">
                             Start Appraisal
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-2 inline-block" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="M12 5l7 7-7 7"></path></svg>
                         </a>
@@ -45,13 +47,17 @@
     <!-- Mobile menu, show/hide based on menu state. -->
     <div class="mobile-menu hidden md:hidden border-t border-gray-200 bg-white">
         <div class="container py-3 space-y-1">
-            {{ range .Site.Menus.main }}
-            <a href="{{ .URL }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50">
-                {{ .Name }}
+            <a href="{{ .Site.BaseURL }}" class="block px-3 py-2 rounded-md text-base font-semibold text-gray-900 hover:text-blue-600 hover:bg-gray-50">
+                Home
             </a>
-            {{ end }}
+            <a href="{{ .Site.BaseURL }}articles/" class="block px-3 py-2 rounded-md text-base font-semibold text-gray-900 hover:text-blue-600 hover:bg-gray-50">
+                Articles
+            </a>
+            <a href="{{ .Site.Params.mainSiteURL }}" class="block px-3 py-2 rounded-md text-base font-semibold text-gray-900 hover:text-blue-600 hover:bg-gray-50">
+                Main Site
+            </a>
             <div class="pt-2">
-                <a href="https://appraisily.com/start" class="block w-full text-center bg-black hover:bg-gray-800 text-white font-medium py-2 px-4 rounded-lg transition duration-150 ease-in-out">
+                <a href="{{ .Site.Params.mainSiteURL }}/start" class="block w-full text-center bg-black hover:bg-gray-800 text-white font-semibold py-2 px-4 rounded-lg transition duration-150 ease-in-out">
                     Start Appraisal
                 </a>
             </div>

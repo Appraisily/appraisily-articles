@@ -9,9 +9,9 @@
 
     <!-- For the home page, display featured articles first, then all other articles -->
     {{ if .IsHome }}
-    {{ $articles := where .Site.RegularPages "Section" "eq" "articles" }}
+    {{ $allArticles := where .Site.RegularPages "Section" "eq" "articles" }}
     
-    <!-- Display featured articles in a grid -->
+    <!-- Display all articles in a grid -->
     <div class="featured-articles mb-16">
         <h2 class="featured-articles-title text-2xl font-bold text-gray-900 mb-8 flex items-center">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2 text-blue-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -20,7 +20,13 @@
             Featured Articles
         </h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {{ range first 6 $articles }}
+            <!-- Get featured articles - either those marked as featured or the most recent ones -->
+            {{ $featuredArticles := where $allArticles "Params.featured" "eq" true }}
+            {{ if eq (len $featuredArticles) 0 }}
+                {{ $featuredArticles = first 6 $allArticles }}
+            {{ end }}
+            
+            {{ range $featuredArticles }}
             <div class="article-card bg-white rounded-lg overflow-hidden shadow-md transition-transform hover:shadow-lg hover:-translate-y-1 flex flex-col">
                 {{ if .Params.featured_image }}
                 <div class="article-card-image aspect-w-16 aspect-h-9 overflow-hidden">
@@ -66,8 +72,20 @@
         </div>
     </div>
     
-    <!-- Display more articles if there are more than 6 -->
-    {{ if gt (len $articles) 6 }}
+    <!-- Display all remaining articles -->
+    {{ $remainingArticles := $allArticles }}
+    {{ $featuredSlugs := slice }}
+    {{ range where $allArticles "Params.featured" "eq" true }}
+        {{ $featuredSlugs = $featuredSlugs | append .Params.slug }}
+    {{ end }}
+    
+    {{ if gt (len $featuredSlugs) 0 }}
+        {{ $remainingArticles = where $allArticles "Params.slug" "not in" $featuredSlugs }}
+    {{ else }}
+        {{ $remainingArticles = after 6 $allArticles }}
+    {{ end }}
+    
+    {{ if gt (len $remainingArticles) 0 }}
     <div class="more-articles">
         <h2 class="more-articles-title text-2xl font-bold text-gray-900 mb-8 flex items-center">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2 text-blue-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -76,7 +94,7 @@
             More Articles
         </h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {{ range after 6 $articles }}
+            {{ range $remainingArticles }}
             <div class="article-card bg-white rounded-lg overflow-hidden shadow-md transition-transform hover:shadow-lg hover:-translate-y-1 flex flex-col">
                 {{ if .Params.featured_image }}
                 <div class="article-card-image aspect-w-16 aspect-h-9 overflow-hidden">

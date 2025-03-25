@@ -347,7 +347,11 @@ ${formattedImageData}
 
 This article must be highly linkable to improve search engine rankings. Extract useful URLs from the search results data and incorporate them naturally throughout the content.
 
-IMPORTANT: Do NOT wrap your response in markdown code blocks. Generate only the article markdown content as plain text, with the front matter and all module shortcodes, ready for Hugo to process.
+IMPORTANT: 
+1. Do NOT wrap your response in markdown code blocks. Generate only the article markdown content as plain text, with the front matter and all module shortcodes, ready for Hugo to process.
+2. You MUST use ALL of the provided ImageKit URLs in the article. Each image should be included with proper markdown syntax and descriptive alt text. Do not use any images that aren't from the imagekitUrl parameters.
+3. For EACH image in the ImageKit URLs list, include a standalone markdown image with this format: ![Descriptive alt text](image URL)
+4. Include at least one image in each major section of the article for better visual engagement.
 
 You have complete freedom to select which modules to use and how to structure the article. Use your judgment to create the most effective presentation of the information.
 
