@@ -481,35 +481,35 @@ Whether you're drawn to Lassen's work for its breathtaking underwater scenes, en
 Remember that while financial value is important, the true worth of art ultimately lies in the joy and inspiration it brings to those who view it—a quality that Lassen's luminous underwater worlds have provided to collectors and marine enthusiasts for decades.
 
 {{< interactive-modules/resource-links title="External Resources for Christian Lassen Art Collectors" columns="2" >}}
-  {{< interactive-modules/resource-card title="Christian Riese Lassen at Diva Art Group" url="https://www.divart.com/artists/100/christian-riese-lassen-consignment-artwork" type="gallery" >}}
+  {{< interactive-modules/resource-links title="Christian Riese Lassen at Diva Art Group" url="https://www.divart.com/artists/100/christian-riese-lassen-consignment-artwork" type="gallery" >}}
     Gallery offering Christian Lassen consignment artwork with current pricing and authenticity verification services.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="Invaluable: Christian Riese Lassen Auction Results" url="https://www.invaluable.com/artist/lassen-christian-riese-wl5iwkmppe/sold-at-auction-prices/" type="tool" >}}
+  {{< interactive-modules/resource-links title="Invaluable: Christian Riese Lassen Auction Results" url="https://www.invaluable.com/artist/lassen-christian-riese-wl5iwkmppe/sold-at-auction-prices/" type="tool" >}}
     Comprehensive database of past auction sales with realized prices, helping establish accurate market values.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="MutualArt: Christian Riese Lassen Artist Profile" url="https://www.mutualart.com/Artist/Christian-Riese-Lassen/A050D4E8F282E35D" type="database" >}}
+  {{< interactive-modules/resource-links title="MutualArt: Christian Riese Lassen Artist Profile" url="https://www.mutualart.com/Artist/Christian-Riese-Lassen/A050D4E8F282E35D" type="database" >}}
     Track auction results, exhibition history, and market trends for Christian Lassen's artwork through this comprehensive database.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="Artsy: Christian Lassen Artwork Listings" url="https://www.artsy.net/artist/christian-lassen" type="marketplace" >}}
+  {{< interactive-modules/resource-links title="Artsy: Christian Lassen Artwork Listings" url="https://www.artsy.net/artist/christian-lassen" type="marketplace" >}}
     Online marketplace featuring current listings of Christian Lassen artworks from various galleries and sellers.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="Art Brokerage: Christian Riese Lassen" url="https://www.artbrokerage.com/Christian-Riese-Lassen" type="marketplace" >}}
+  {{< interactive-modules/resource-links title="Art Brokerage: Christian Riese Lassen" url="https://www.artbrokerage.com/Christian-Riese-Lassen" type="marketplace" >}}
     Specialized broker for buying and selling Christian Lassen artwork, with educational resources and market insights.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="Herndon Fine Art: Christian Lassen Limited Editions" url="https://www.herndonfineart.com/lassen.htm" type="gallery" >}}
+  {{< interactive-modules/resource-links title="Herndon Fine Art: Christian Lassen Limited Editions" url="https://www.herndonfineart.com/lassen.htm" type="gallery" >}}
     Official dealer offering authentication services and valuation certificates for Christian Lassen artwork.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="JustAnswer: Expert Art Appraisals" url="https://www.justanswer.com/antiques/pv5lv-christian-lassen-framed-prints-trying.html" type="service" >}}
+  {{< interactive-modules/resource-links title="JustAnswer: Expert Art Appraisals" url="https://www.justanswer.com/antiques/pv5lv-christian-lassen-framed-prints-trying.html" type="service" >}}
     Professional art appraisers offering insights on Christian Lassen print valuation and authentication questions.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="Artprice: Christian Lassen Market Data" url="https://www.artprice.com/artist/484067/christian-lassen" type="database" >}}
+  {{< interactive-modules/resource-links title="Artprice: Christian Lassen Market Data" url="https://www.artprice.com/artist/484067/christian-lassen" type="database" >}}
     Market analysis and price index tracking for Christian Lassen's artwork across various mediums and time periods.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
 {{< /interactive-modules/resource-links >}}

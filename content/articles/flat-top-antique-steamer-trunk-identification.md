@@ -416,29 +416,29 @@ When in doubt about a flat-top steamer trunk's authenticity, several resources c
 - **Collector Forums**: Online communities of trunk collectors often provide invaluable insights based on collective experience.
 
 {{< interactive-modules/resource-links title="Essential Resources for Flat-Top Steamer Trunk Identification" columns="2" >}}
-  {{< interactive-modules/resource-card title="Antique Trunks: Identification & Value Guide" url="https://valuableantiques.org/antique-trunks-identification-value-guide/" type="article" >}}
+  {{< interactive-modules/resource-links title="Antique Trunks: Identification & Value Guide" url="https://valuableantiques.org/antique-trunks-identification-value-guide/" type="article" >}}
     Comprehensive guide covering trunk identification features, historical context, and valuation factors for collectors and enthusiasts.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="wikiHow: How to Value Antique Trunks" url="https://www.wikihow.com/Value-Antique-Trunks" type="guide" >}}
+  {{< interactive-modules/resource-links title="wikiHow: How to Value Antique Trunks" url="https://www.wikihow.com/Value-Antique-Trunks" type="guide" >}}
     Step-by-step guide for determining the age, type, and value of antique trunks, including flat-top steamer models.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="Of Graveyards and Things: Dating Antique Steamer Trunks" url="https://ofgraveyardsandthings.com/2022/11/18/how-to-determine-the-age-of-an-antique-steamer-trunk/" type="article" >}}
+  {{< interactive-modules/resource-links title="Of Graveyards and Things: Dating Antique Steamer Trunks" url="https://ofgraveyardsandthings.com/2022/11/18/how-to-determine-the-age-of-an-antique-steamer-trunk/" type="article" >}}
     Detailed techniques for determining the age of antique steamer trunks based on construction methods and historical markers.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="La Malle en Coin: Trunk Museum" url="https://la-malle-en-coin.com/en/museums-and-monuments/the-museum.html" type="resource" >}}
+  {{< interactive-modules/resource-links title="La Malle en Coin: Trunk Museum" url="https://la-malle-en-coin.com/en/museums-and-monuments/the-museum.html" type="resource" >}}
     Museum collection featuring different types of antique trunks including flat-top models, with historical context and identification information.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="1stDibs: Steamer Trunk Identification Guide" url="https://www.1stdibs.com/answers/how-do-you-identify-a-steamer-trunk/" type="tool" >}}
+  {{< interactive-modules/resource-links title="1stDibs: Steamer Trunk Identification Guide" url="https://www.1stdibs.com/answers/how-do-you-identify-a-steamer-trunk/" type="tool" >}}
     Expert advice from antique dealers on identifying authentic steamer trunks and determining their value in the current market.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
   
-  {{< interactive-modules/resource-card title="SeacoastNH: Antique Trunks Research" url="http://www.seacoastnh.com/The-Arts/Book-of-the-Week/Antique-Trunks/" type="database" >}}
+  {{< interactive-modules/resource-links title="SeacoastNH: Antique Trunks Research" url="http://www.seacoastnh.com/The-Arts/Book-of-the-Week/Antique-Trunks/" type="database" >}}
     Database of trunk makers and historical information to help with identification of antique flat-top and other style trunks.
-  {{< /interactive-modules/resource-card >}}
+  {{< /interactive-modules/resource-links >}}
 {{< /interactive-modules/resource-links >}}
 
 {{< content-modules/section-header title="Collecting and Investment Considerations" level="2" >}}

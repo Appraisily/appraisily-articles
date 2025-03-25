@@ -22,21 +22,17 @@ enableGitInfo = true
   
 [menu]
   [[menu.main]]
-    name = "About"
-    url = "https://appraisily.com/about"
+    name = "Home"
+    url = "/"
     weight = 1
   [[menu.main]]
-    name = "Services"
-    url = "https://appraisily.com/services"
+    name = "Articles"
+    url = "/articles/"
     weight = 2
   [[menu.main]]
-    name = "Expertise"
-    url = "https://appraisily.com/expertise"
+    name = "Main Site"
+    url = "https://appraisily.com"
     weight = 3
-  [[menu.main]]
-    name = "Team"
-    url = "https://appraisily.com/team"
-    weight = 4
 
 [markup]
   [markup.goldmark]

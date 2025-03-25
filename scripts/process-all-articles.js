@@ -30,8 +30,11 @@ if (API_KEY) {
   console.warn('WARNING: No ANTHROPIC_API_KEY found in environment variables!');
 }
 
+// Set working model and API version
+process.env.CLAUDE_MODEL = process.env.CLAUDE_MODEL || 'claude-3-7-sonnet-latest';
+process.env.ANTHROPIC_VERSION = process.env.ANTHROPIC_VERSION || '2023-06-01';
+
 const readdir = promisify(fs.readdir);
-const stat = promisify(fs.stat);
 const exists = promisify(fs.exists);
 
 // Constants
@@ -70,13 +73,7 @@ async function findKeywordFolders() {
          file === 'images-data.json')
       );
       
-      // Skip folders that already have an index.md file, unless force mode is enabled
-      const hasIndexMd = files.includes('index.md');
-      
-      if (hasJsonData && !hasIndexMd) {
-        keywordFolders.push(dir);
-      } else if (hasJsonData) {
-        // These are potentially regeneratable, mark them for force mode
+      if (hasJsonData) {
         keywordFolders.push(dir);
       }
     }
@@ -128,7 +125,7 @@ async function processKeyword(keyword, force = false) {
       console.log(`🔄 Generating article for "${keyword}"...`);
     }
     
-    await generateArticle(keyword);
+    await generateArticle(keyword, force);
     
     // Enhance with SEO metadata
     const articlePath = path.join(CONTENT_DIR, `${keyword}.md`);
@@ -138,6 +135,44 @@ async function processKeyword(keyword, force = false) {
   } catch (error) {
     console.error(`❌ Error processing "${keyword}":`, error);
   }
+}
+
+/**
+ * Get an analysis of the repository state
+ * @returns {Object} - Analysis object with available research folders and articles
+ */
+async function analyzeRepositoryState() {
+  // Find all keyword folders with research data
+  const researchFolders = await findKeywordFolders();
+  
+  // Get all markdown files in the articles directory
+  const articleFiles = fs.existsSync(CONTENT_DIR) 
+    ? fs.readdirSync(CONTENT_DIR)
+        .filter(file => file.endsWith('.md'))
+        .map(file => file.replace('.md', ''))
+    : [];
+  
+  // Find folders with research data but no articles
+  const pendingArticles = [];
+  for (const folder of researchFolders) {
+    const hasArticle = await articleExists(folder);
+    if (!hasArticle) {
+      pendingArticles.push(folder);
+    }
+  }
+  
+  // Find research folders that have articles
+  const completedArticles = researchFolders.filter(async folder => {
+    const hasArticle = await articleExists(folder);
+    return hasArticle;
+  });
+  
+  return {
+    researchFolders,
+    articleFiles,
+    pendingArticles,
+    completedArticles
+  };
 }
 
 /**
@@ -153,8 +188,11 @@ async function processAllPendingArticles(force = false) {
 - Force mode: ${force ? 'Enabled' : 'Disabled'}
 `);
     
+    // Get repository state analysis
+    const analysis = await analyzeRepositoryState();
+    
     // Find all keyword folders
-    const keywordFolders = await findKeywordFolders();
+    const keywordFolders = analysis.researchFolders;
     console.log(`Found ${keywordFolders.length} potential keyword folders`);
     
     if (force) {
@@ -173,32 +211,45 @@ async function processAllPendingArticles(force = false) {
       return;
     }
     
-    // Count pending articles
-    let pendingCount = 0;
-    for (const keyword of keywordFolders) {
-      const hasArticle = await articleExists(keyword);
-      if (!hasArticle) {
-        pendingCount++;
-      }
-    }
+    // Use the pendingArticles from our analysis
+    const pendingArticles = analysis.pendingArticles;
     
-    if (pendingCount === 0) {
+    if (pendingArticles.length === 0) {
       console.log('No pending articles to generate. All articles are up to date.');
       console.log('To force rebuild all articles, use: npm run generate:all -- --force');
+      
+      // Print repository state summary
+      const completedCount = keywordFolders.length - pendingArticles.length;
+      console.log(`\nRepository Summary:`);
+      console.log(`- Total keyword folders: ${keywordFolders.length}`);
+      console.log(`- Completed articles: ${completedCount}`);
+      console.log(`- Pending articles: ${pendingArticles.length}`);
       return;
     }
     
-    console.log(`Found ${pendingCount} pending articles to generate`);
+    console.log(`Found ${pendingArticles.length} pending articles to generate:`);
+    pendingArticles.forEach(keyword => console.log(`- ${keyword}`));
+    console.log('');
     
-    // Process each keyword folder
-    for (const keyword of keywordFolders) {
-      const hasArticle = await articleExists(keyword);
-      if (!hasArticle) {
-        await processKeyword(keyword);
-      }
+    // Process each pending article
+    for (const keyword of pendingArticles) {
+      await processKeyword(keyword);
     }
     
     console.log('All pending articles have been processed!');
+    
+    // Print final stats
+    const updatedAnalysis = await analyzeRepositoryState();
+    const remainingPending = updatedAnalysis.pendingArticles.length;
+    
+    console.log(`\nFinal Repository State:`);
+    console.log(`- Total keyword folders: ${updatedAnalysis.researchFolders.length}`);
+    console.log(`- Completed articles: ${updatedAnalysis.researchFolders.length - remainingPending}`);
+    console.log(`- Remaining pending: ${remainingPending}`);
+    
+    if (remainingPending > 0) {
+      console.log('\nThere are still some pending articles. Run the command again to process them.');
+    }
   } catch (error) {
     console.error('Error processing pending articles:', error);
   }
@@ -212,11 +263,6 @@ function parseArgs() {
   // Debug info
   console.log('Command line arguments:', args);
   console.log('Force mode:', force ? 'Enabled' : 'Disabled');
-  
-  // Additional debugging to understand what is being parsed
-  if (args.length > 0 && args[0] === '--force') {
-    console.log('Force flag detected as first argument');
-  }
   
   return { force };
 }
