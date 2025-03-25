@@ -44,7 +44,7 @@ To generate articles locally, you'll need:
 
 4. Edit the `.env` file to add your Claude API key:
    ```
-   ANTHROPIC_API_KEY=sk-ant-api-your-key-here
+   ANTHROPIC_API_KEY=your-api-key-here
    CLAUDE_MODEL=claude-3-7-sonnet-latest
    ```
 
