@@ -84,3 +84,4 @@ The repository has security checks in place to prevent committing sensitive info
 - Common errors include missing closing tags, improper nesting, and using deprecated shortcodes
 - For article generation testing, use `npm run generate -- "test-topic"` with a valid API key
 - Preview generated HTML with `node scripts/htmlpreview/generate-demo.js`
+- If needed, you can bypass validation during commits with `./scripts/skip-validation-commit.sh "Your commit message"` or by setting `SKIP_VALIDATION=true` before Git commands

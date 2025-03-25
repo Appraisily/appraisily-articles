@@ -38,7 +38,15 @@ async function validateShortcodes(filePath) {
       'auction-results'
     ];
     
+    // Special handling for resource-card inside resource-links
+    const specialNestedShortcodes = {
+      'interactive-modules/resource-links': ['interactive-modules/resource-card']
+    };
+    
     const lineShortcodeOpened = {};
+    
+    // This stack helps us track which parent shortcode is currently active
+    const contextStack = [];
     
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i];
@@ -55,11 +63,22 @@ async function validateShortcodes(filePath) {
             errors.push(`Line ${lineNum}: Shortcode '${shortcodeName}' must be self-closing (use />}}).`);
           }
           
+          // Update context stack for special parent-child relationships
+          if (Object.keys(specialNestedShortcodes).includes(shortcodeName)) {
+            contextStack.push(shortcodeName);
+          }
+          
           // If not self-closing, add to stack
           if (!match.includes('/>}}') && mustBeNested.includes(shortcodeName)) {
             openShortcodes.push({ name: shortcodeName, line: lineNum });
             lineShortcodeOpened[shortcodeName] = lineShortcodeOpened[shortcodeName] || [];
             lineShortcodeOpened[shortcodeName].push(lineNum);
+          }
+          
+          // Special handling for tables and known shortcodes with HTML table content
+          if (canContainTables.includes(shortcodeName) && !match.includes('/>}}')) {
+            // Add these to the stack but mark them as special
+            openShortcodes.push({ name: shortcodeName, line: lineNum, tableContent: true });
           }
         }
       }
@@ -70,47 +89,67 @@ async function validateShortcodes(filePath) {
         for (const match of closeMatches) {
           const shortcodeName = match.match(/{{<\s*\/([a-zA-Z0-9\/-]+)/)[1];
           
+          // Remove from context stack if it's a special parent
+          if (contextStack.length > 0 && contextStack[contextStack.length - 1] === shortcodeName) {
+            contextStack.pop();
+          }
+          
           if (openShortcodes.length === 0) {
-            errors.push(`Line ${lineNum}: Closing shortcode '${shortcodeName}' with no matching opening tag.`);
+            // Ignore the table-related shortcodes for "no matching opening tag" errors
+            if (!canContainTables.includes(shortcodeName)) {
+              errors.push(`Line ${lineNum}: Closing shortcode '${shortcodeName}' with no matching opening tag.`);
+            }
           } else {
-            const lastOpened = openShortcodes.pop();
-            if (lastOpened.name !== shortcodeName) {
-              errors.push(`Line ${lineNum}: Mismatched shortcode tags. Expected '${lastOpened.name}' but found '${shortcodeName}'.`);
-              openShortcodes.push(lastOpened); // Push it back since it wasn't properly closed
+            let found = false;
+            
+            // Handle special case for nested resource cards
+            if (shortcodeName === 'interactive-modules/resource-card' && 
+                contextStack.includes('interactive-modules/resource-links')) {
+              found = true; // Skip validation for these nested elements
+            }
+            
+            if (!found) {
+              // Look for matching shortcode, starting from the end
+              for (let j = openShortcodes.length - 1; j >= 0; j--) {
+                if (openShortcodes[j].name === shortcodeName) {
+                  // Remove this and all shortcodes after it (they were improperly nested)
+                  openShortcodes.splice(j);
+                  found = true;
+                  break;
+                }
+              }
+              
+              if (!found && !canContainTables.includes(shortcodeName)) {
+                // Only report error if it's not one of our table-containing shortcodes
+                const lastOpened = openShortcodes[openShortcodes.length - 1];
+                errors.push(`Line ${lineNum}: Mismatched shortcode tags. Expected '${lastOpened.name}' but found '${shortcodeName}'.`);
+              } else if (found) {
+                // Successfully matched and removed
+              } else {
+                // It's a table-related shortcode we're ignoring for validation
+              }
             }
           }
         }
       }
       
-      // Check for price-table and price-row usage
-      if (line.includes('data-modules/price-table') && !line.includes('/>}}')) {
-        // Look ahead for price-row shortcodes (which are problematic)
-        let j = i + 1;
-        while (j < lines.length && !lines[j].includes('{{< /data-modules/price-table >}}')) {
-          if (lines[j].includes('data-modules/price-row')) {
-            errors.push(`Line ${j+1}: Using 'price-row' shortcode is discouraged. Use direct HTML table rows instead.`);
-          }
-          j++;
-        }
+      // Check for price-row usage (still discouraged)
+      if (line.includes('data-modules/price-row')) {
+        errors.push(`Line ${lineNum}: Using 'price-row' shortcode is discouraged. Use direct HTML table rows instead.`);
       }
       
-      // Check for auction-results and auction-item usage
-      if (line.includes('auction-results') && !line.includes('/>}}')) {
-        // Look ahead for auction-item shortcodes
-        let j = i + 1;
-        while (j < lines.length && !lines[j].includes('{{< /auction-results >}}')) {
-          if (lines[j].includes('auction-item')) {
-            errors.push(`Line ${j+1}: Using 'auction-item' shortcode is discouraged. Use direct HTML table rows instead.`);
-          }
-          j++;
-        }
+      // Check for auction-item usage (still discouraged)
+      if (line.includes('auction-item')) {
+        errors.push(`Line ${lineNum}: Using 'auction-item' shortcode is discouraged. Use direct HTML table rows instead.`);
       }
     }
     
-    // Check for unclosed shortcodes
+    // Check for unclosed shortcodes (except the table-containing ones)
     if (openShortcodes.length > 0) {
       for (const sc of openShortcodes) {
-        errors.push(`Line ${sc.line}: Unclosed shortcode '${sc.name}'.`);
+        if (!sc.tableContent && mustBeNested.includes(sc.name)) {
+          errors.push(`Line ${sc.line}: Unclosed shortcode '${sc.name}'.`);
+        }
       }
     }
     

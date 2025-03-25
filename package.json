@@ -16,6 +16,8 @@
     "generate": "node scripts/generate-article.js",
     "generate:all": "node scripts/process-all-articles.js",
     "generate:force": "node scripts/force-generate.js",
+    "generate:limited": "node scripts/force-generate-limited.js",
+    "repo:status": "node scripts/force-generate-limited.js 0",
     "trigger": "node scripts/trigger-generation.js",
     "enhance-seo": "node scripts/generate-seo.js",
     "validate": "node scripts/validate-shortcodes.js",
