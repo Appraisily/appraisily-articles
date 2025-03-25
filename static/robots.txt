@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://articles.appraisily.com/sitemap.xml
+
+# Prevent crawling of admin section
+User-agent: *
+Disallow: /admin/

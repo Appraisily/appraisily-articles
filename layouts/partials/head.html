@@ -1,0 +1,121 @@
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSLHDGM');</script>
+<!-- End Google Tag Manager -->
+
+{{ $title := .Title }}
+{{ if .Params.meta_title }}
+  {{ $title = .Params.meta_title }}
+{{ else if not .IsHome }}
+  {{ $title = print .Site.Title " | " .Title }}
+{{ else }}
+  {{ $title = .Site.Title }}
+{{ end }}
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>{{ $title }}</title>
+
+<!-- Meta tags -->
+{{ with .Params.meta_description }}
+<meta name="description" content="{{ . }}">
+{{ else }}
+  {{ with .Description }}
+  <meta name="description" content="{{ . }}">
+  {{ else }}
+  <meta name="description" content="{{ .Site.Params.description }}">
+  {{ end }}
+{{ end }}
+
+{{ with .Params.keywords }}
+<meta name="keywords" content="{{ delimit . ", " }}">
+{{ else }}
+  {{ with .Keywords }}
+  <meta name="keywords" content="{{ delimit . ", " }}">
+  {{ end }}
+{{ end }}
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:url" content="{{ with .Params.canonical_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">
+{{ with .Params.meta_description }}
+<meta property="og:description" content="{{ . }}">
+{{ else }}
+  {{ with .Description }}
+  <meta property="og:description" content="{{ . }}">
+  {{ else }}
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+  {{ end }}
+{{ end }}
+
+{{ if .Params.featured_image }}
+<meta property="og:image" content="{{ .Params.featured_image | absURL }}">
+{{ with .Params.image_alt }}<meta property="og:image:alt" content="{{ . }}">{{ end }}
+{{ else }}
+<meta property="og:image" content="{{ "images/default-og-image.jpg" | absURL }}">
+{{ end }}
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+{{ with .Params.meta_description }}
+<meta name="twitter:description" content="{{ . }}">
+{{ else }}
+  {{ with .Description }}
+  <meta name="twitter:description" content="{{ . }}">
+  {{ else }}
+  <meta name="twitter:description" content="{{ .Site.Params.description }}">
+  {{ end }}
+{{ end }}
+
+{{ if .Params.featured_image }}
+<meta name="twitter:image" content="{{ .Params.featured_image | absURL }}">
+{{ with .Params.image_alt }}<meta name="twitter:image:alt" content="{{ . }}">{{ end }}
+{{ else }}
+<meta name="twitter:image" content="{{ "images/default-og-image.jpg" | absURL }}">
+{{ end }}
+<meta name="twitter:site" content="@appraisily">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ with .Params.canonical_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- CSS -->
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="https://ik.imagekit.io/appraisily/WebPage/favicon.ico">
+
+<!-- RSS -->
+{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
+<!-- Structured data for WebSite included in home page -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ end }}

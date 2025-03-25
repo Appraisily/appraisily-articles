@@ -1,0 +1,83 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "Featured image" }}
+{{ $caption := .Get "caption" | default "" }}
+{{ $credit := .Get "credit" | default "" }}
+{{ $width := .Get "width" | default "full" }}
+
+<figure class="hero-image hero-image--{{ $width }}">
+  <div class="hero-image__container">
+    <img src="{{ $src }}" alt="{{ $alt }}" class="hero-image__img" loading="lazy" />
+    
+    {{ if or $caption $credit }}
+      <figcaption class="hero-image__caption">
+        {{ $caption }}
+        {{ if $credit }}<span class="hero-image__credit">{{ $credit }}</span>{{ end }}
+      </figcaption>
+    {{ end }}
+  </div>
+</figure>
+
+<style>
+.hero-image {
+  margin: 2.5rem 0;
+}
+
+.hero-image--full {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.hero-image--wide {
+  width: 100%;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-image--normal {
+  width: 100%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-image__container {
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--box-shadow);
+}
+
+.hero-image__img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.hero-image__container:hover .hero-image__img {
+  transform: scale(1.03);
+}
+
+.hero-image__caption {
+  padding: 1rem;
+  color: var(--text-muted);
+  font-size: 0.875rem;
+  text-align: center;
+  background-color: white;
+}
+
+.hero-image__credit {
+  display: block;
+  font-style: italic;
+  margin-top: 0.25rem;
+  font-size: 0.75rem;
+}
+
+@media (max-width: 768px) {
+  .hero-image {
+    margin: 2rem 0;
+  }
+}
+</style>

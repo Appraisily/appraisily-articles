@@ -1,0 +1,9 @@
+{{ $question := .Get "question" }}
+{{ $initialOpen := .Get "open" | default "false" }}
+
+<div class="faq-item {{ if eq $initialOpen "true" }}active{{ end }}">
+  <h3 class="faq-item__question">{{ $question }}</h3>
+  <div class="faq-item__answer">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

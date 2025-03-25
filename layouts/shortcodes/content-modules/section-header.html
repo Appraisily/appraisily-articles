@@ -1,0 +1,101 @@
+{{ $title := .Get "title" }}
+{{ $level := .Get "level" | default "2" }}
+{{ $icon := .Get "icon" | default "" }}
+{{ $badge := .Get "badge" | default "" }}
+{{ $id := .Get "id" | default (anchorize $title) }}
+
+<div class="section-header section-header--h{{ $level }}">
+  {{ if eq $level "2" }}
+    <h2 id="{{ $id }}" class="section-header__title">
+      {{ if $icon }}<span class="section-header__icon">{{ $icon }}</span>{{ end }}
+      {{ $title }}
+      {{ if $badge }}<span class="section-header__badge">{{ $badge }}</span>{{ end }}
+    </h2>
+  {{ else if eq $level "3" }}
+    <h3 id="{{ $id }}" class="section-header__title">
+      {{ if $icon }}<span class="section-header__icon">{{ $icon }}</span>{{ end }}
+      {{ $title }}
+      {{ if $badge }}<span class="section-header__badge">{{ $badge }}</span>{{ end }}
+    </h3>
+  {{ else if eq $level "4" }}
+    <h4 id="{{ $id }}" class="section-header__title">
+      {{ if $icon }}<span class="section-header__icon">{{ $icon }}</span>{{ end }}
+      {{ $title }}
+      {{ if $badge }}<span class="section-header__badge">{{ $badge }}</span>{{ end }}
+    </h4>
+  {{ end }}
+  
+  {{ if .Inner }}
+    <div class="section-header__description">
+      {{ .Inner }}
+    </div>
+  {{ end }}
+</div>
+
+<style>
+.section-header {
+  margin: 2.5rem 0 1.5rem;
+}
+
+.section-header--h2 .section-header__title {
+  color: var(--primary-color);
+  font-size: 2rem;
+  line-height: 1.3;
+  font-weight: 700;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.75rem;
+}
+
+.section-header--h3 .section-header__title {
+  color: var(--secondary-color);
+  font-size: 1.5rem;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+.section-header--h4 .section-header__title {
+  color: var(--text-color);
+  font-size: 1.25rem;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.section-header__icon {
+  display: inline-block;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+.section-header__badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 500;
+  background-color: var(--light-blue);
+  color: var(--accent-color);
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+  margin-left: 0.75rem;
+  vertical-align: middle;
+}
+
+.section-header__description {
+  margin-top: 1rem;
+  color: var(--text-muted);
+  font-size: 1.125rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 640px) {
+  .section-header--h2 .section-header__title {
+    font-size: 1.75rem;
+  }
+  
+  .section-header--h3 .section-header__title {
+    font-size: 1.35rem;
+  }
+  
+  .section-header--h4 .section-header__title {
+    font-size: 1.2rem;
+  }
+}
+</style>

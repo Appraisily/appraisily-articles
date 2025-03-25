@@ -1,0 +1,128 @@
+{
+  "success": true,
+  "keyword": "christian lassen art value",
+  "totalResults": 10,
+  "minPrice": 1000,
+  "auctionResults": [
+    {
+      "title": "SKETCH OF DOLPHINS ON CANVAS by Christian Riese LASSEN",
+      "price": {
+        "amount": 200000,
+        "currency": "JPY",
+        "symbol": "¥"
+      },
+      "auctionHouse": "New Art Est-Ouest Auctions",
+      "date": "2024-05-18 12:00:00",
+      "lotNumber": "305",
+      "saleType": "Live"
+    },
+    {
+      "title": "Museale Elfenbeintafel „Konsulardiptychon“",
+      "price": {
+        "amount": 155000,
+        "currency": "EUR",
+        "symbol": "€"
+      },
+      "auctionHouse": "Hampel Fine Art Auctions",
+      "date": "2022-12-08 10:00:00",
+      "lotNumber": "850",
+      "saleType": "Live"
+    },
+    {
+      "title": "TOGETHERNESS by Christian Riese LASSEN",
+      "price": {
+        "amount": 70000,
+        "currency": "JPY",
+        "symbol": "¥"
+      },
+      "auctionHouse": "New Art Est-Ouest Auctions",
+      "date": "2024-05-18 12:00:00",
+      "lotNumber": "306",
+      "saleType": "Live"
+    },
+    {
+      "title": "PICASSO, PABLO(Málaga 1881 - 1973 Mougins)Portrait de fille (Portrait de la fill",
+      "price": {
+        "amount": 70000,
+        "currency": "CHF",
+        "symbol": "CHF"
+      },
+      "auctionHouse": "Koller Auctions",
+      "date": "2015-06-26 04:00:00",
+      "lotNumber": "3226",
+      "saleType": "Live"
+    },
+    {
+      "title": "Artwork by Christian Lassen",
+      "price": {
+        "amount": 65000,
+        "currency": "JPY",
+        "symbol": "¥"
+      },
+      "auctionHouse": "Shinwa Art Auction Co. Ltd",
+      "date": "2010-07-17 12:00:00",
+      "lotNumber": "580"
+    },
+    {
+      "title": "TEMPLE OF LIGHT",
+      "price": {
+        "amount": 65000,
+        "currency": "JPY",
+        "symbol": "¥"
+      },
+      "auctionHouse": "New Art Est-Ouest Auctions",
+      "date": "2024-08-31 11:00:00",
+      "lotNumber": "374",
+      "saleType": "Live"
+    },
+    {
+      "title": "ARTIST: Christian Riese Lassen TITLE: SORCERER OF",
+      "price": {
+        "amount": 55000,
+        "currency": "JPY",
+        "symbol": "¥"
+      },
+      "auctionHouse": "New Art Est-Ouest Auctions",
+      "date": "2008-03-09 12:00:00",
+      "lotNumber": "802"
+    },
+    {
+      "title": "CHRISTIAN ROHLFS Sonnenblumen in Vase.",
+      "price": {
+        "amount": 32000,
+        "currency": "EUR",
+        "symbol": "€"
+      },
+      "auctionHouse": "Karl & Faber",
+      "date": "2015-12-04 11:00:00",
+      "lotNumber": "421",
+      "saleType": "Live"
+    },
+    {
+      "title": "Schiller, Friedrich von: Brief 1787 an Körner",
+      "price": {
+        "amount": 30000,
+        "currency": "EUR",
+        "symbol": "€"
+      },
+      "auctionHouse": "Bassenge Auctions",
+      "date": "2015-10-23 03:00:00",
+      "lotNumber": "2131",
+      "saleType": "Live"
+    },
+    {
+      "title": "MOGENS LASSEN | Pair of Shoemaker's Stools",
+      "price": {
+        "amount": 28000,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "auctionHouse": "Sotheby's",
+      "date": "2017-06-06 03:00:00",
+      "lotNumber": "310",
+      "saleType": "Live"
+    }
+  ],
+  "responseTime": 14198,
+  "timestamp": "2025-03-17T23:51:50.920Z"
+}

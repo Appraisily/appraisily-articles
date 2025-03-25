@@ -1,0 +1,106 @@
+{{ $title := .Get "title" | default "Price Ranges" }}
+{{ $description := .Get "description" | default "" }}
+{{ $columns := .Get "columns" | default "category,range,notes" }}
+{{ $columnTitles := .Get "columnTitles" | default "Category,Price Range,Notes" }}
+
+{{ $columnsSlice := split $columns "," }}
+{{ $columnTitlesSlice := split $columnTitles "," }}
+
+<div class="price-table">
+  <h3 class="price-table__title">{{ $title }}</h3>
+  
+  {{ if $description }}
+    <div class="price-table__description">{{ $description }}</div>
+  {{ end }}
+  
+  <div class="table-responsive">
+    <table class="price-table__table">
+      <thead>
+        <tr>
+          {{ range $index, $column := $columnTitlesSlice }}
+            <th>{{ $column }}</th>
+          {{ end }}
+        </tr>
+      </thead>
+      <tbody>
+        {{ .Inner }}
+      </tbody>
+    </table>
+  </div>
+  
+  <div class="price-table__disclaimer">
+    <p><em>Note: Price ranges are approximate and can vary based on condition, rarity, and market demand.</em></p>
+  </div>
+</div>
+
+<style>
+.price-table {
+  margin: 3rem 0;
+  background-color: var(--bg-secondary);
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.price-table__title {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.price-table__description {
+  margin-bottom: 1.5rem;
+  color: var(--text-muted);
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+.price-table__table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+.price-table__table th {
+  background-color: var(--light-blue);
+  color: var(--secondary-color);
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid var(--accent-color);
+}
+
+.price-table__table td {
+  padding: 1rem;
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-color);
+}
+
+.price-table__table tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.price-table__table tr:hover {
+  background-color: var(--light-blue);
+}
+
+.price-table__disclaimer {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
+
+@media (max-width: 640px) {
+  .price-table {
+    padding: 1rem;
+  }
+  
+  .price-table__table th,
+  .price-table__table td {
+    padding: 0.75rem 0.5rem;
+    font-size: 0.875rem;
+  }
+}
+</style>

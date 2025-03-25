@@ -1,0 +1,55 @@
+{{ $columns := .Get "columns" | default "3" }}
+{{ $title := .Get "title" | default "" }}
+
+<div class="stats-highlight">
+  {{ if $title }}
+    <h3 class="stats-highlight__title">{{ $title }}</h3>
+  {{ end }}
+  
+  <div class="stats-highlight__grid stats-highlight__grid--{{ $columns }}">
+    {{ .Inner }}
+  </div>
+</div>
+
+<style>
+.stats-highlight {
+  margin: 3rem 0;
+}
+
+.stats-highlight__title {
+  color: var(--primary-color);
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.stats-highlight__grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.stats-highlight__grid--2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.stats-highlight__grid--3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.stats-highlight__grid--4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 768px) {
+  .stats-highlight__grid--3,
+  .stats-highlight__grid--4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .stats-highlight__grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+</style>

@@ -1,0 +1,57 @@
+{
+  "name": "appraisily-articles",
+  "version": "1.0.0",
+  "description": "Appraisily Articles - Expert resources for antiques and art appraisal",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo server -D",
+    "build": "hugo --gc --minify",
+    "build:smart": "node scripts/build.js",
+    "build:simple": "hugo --gc --minify && npm run sitemap",
+    "build:full": "node scripts/test-api-key.js && node scripts/build.js",
+    "build:all": "node scripts/build-with-generate.js",
+    "build:all:force": "node scripts/build-with-generate.js --force",
+    "clean": "rm -rf public resources",
+    "migrate": "node migrate-content.js",
+    "generate": "node scripts/generate-article.js",
+    "generate:all": "node scripts/process-all-articles.js",
+    "generate:force": "node scripts/force-generate.js",
+    "trigger": "node scripts/trigger-generation.js",
+    "enhance-seo": "node scripts/generate-seo.js",
+    "validate": "node scripts/validate-shortcodes.js",
+    "validate:article": "node scripts/validate-article.js",
+    "fix:article": "node fix-articles.js",
+    "fix:images": "node fix-image-urls.js",
+    "fix:all": "node fix-articles.js && node fix-image-urls.js",
+    "new": "node scripts/create-template.js",
+    "sitemap": "node scripts/generate-sitemap.js",
+    "test:api": "node scripts/test-api-key.js",
+    "lint": "npm run validate",
+    "test": "npm run validate",
+    "security:check": "node scripts/check-api-keys.js",
+    "security:check-staged": "node scripts/check-api-keys.js --staged",
+    "security:clean-history": "bash scripts/remove-api-keys.sh",
+    "precommit": "npm run security:check-staged"
+  },
+  "keywords": [
+    "appraisily",
+    "antiques",
+    "art",
+    "appraisal",
+    "hugo",
+    "netlify"
+  ],
+  "author": "Appraisily",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.6.8",
+    "crypto": "^1.0.1",
+    "gray-matter": "^4.0.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@netlify/plugin-lighthouse": "^5.0.0",
+    "@netlify/plugin-sitemap": "^0.8.1"
+  }
+}

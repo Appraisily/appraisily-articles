@@ -1,0 +1,55 @@
+baseURL = "https://articles.appraisily.com/"
+languageCode = "en-us"
+title = "Appraisily Articles"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "taxonomy"]
+enableGitInfo = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.8
+
+[params]
+  description = "Expert articles and resources on antiques and art appraisals"
+  imageBaseURL = "https://ik.imagekit.io/appraisily/"
+  mainSiteURL = "https://appraisily.com"
+  author = "Appraisily Expert Team"
+  facebook = "https://facebook.com/appraisily"
+  twitter = "https://twitter.com/appraisily"
+  instagram = "https://instagram.com/appraisily"
+  email = "info@appraisily.com"
+  
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "https://appraisily.com/about"
+    weight = 1
+  [[menu.main]]
+    name = "Services"
+    url = "https://appraisily.com/services"
+    weight = 2
+  [[menu.main]]
+    name = "Expertise"
+    url = "https://appraisily.com/expertise"
+    weight = 3
+  [[menu.main]]
+    name = "Team"
+    url = "https://appraisily.com/team"
+    weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[imaging]
+  quality = 85
+  resampleFilter = "Lanczos"

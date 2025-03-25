@@ -1,0 +1,31 @@
+#!/bin/sh
+
+# Pre-commit hook to check for API keys and other sensitive information
+# This script will run before each commit and block the commit if it finds sensitive information
+#
+# To install this hook, run:
+#   cp pre-commit-hook .git/hooks/pre-commit
+#   chmod +x .git/hooks/pre-commit
+
+# Run the security check script on staged files
+node ./scripts/check-api-keys.js --staged
+
+# If the script exits with a non-zero status, prevent the commit
+if [ $? -ne 0 ]; then
+  echo "❌ Security check failed. Commit aborted."
+  echo "Please remove sensitive information before committing."
+  exit 1
+fi
+
+# Optionally, run shortcode validation as well
+node ./scripts/validate-shortcodes.js
+
+if [ $? -ne 0 ]; then
+  echo "❌ Shortcode validation failed. Commit aborted."
+  echo "Please fix shortcode issues before committing."
+  exit 1
+fi
+
+# All checks passed
+echo "✅ Pre-commit checks passed."
+exit 0
