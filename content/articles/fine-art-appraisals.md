@@ -52,18 +52,13 @@ Many art owners underestimate the importance of professional appraisals, often r
 
 A qualified art appraiser brings expertise, market knowledge, and objectivity to the valuation process. Their assessment is based on comprehensive research rather than guesswork, providing documentation that stands up to scrutiny from insurance companies, the IRS, or potential buyers.
 
-{{< data-modules/stats-highlight title="Fine Art Appraisal Market Statistics" columns="3" / />}}
-  {{< data-modules/stat-card value="$125-$350" label="Hourly Rate" color="blue" >}}
-    Average professional appraiser fee per hour
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="5-10" label="Works Per Hour" color="green" >}}
-    Average number of art pieces assessed hourly
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="72" label="Hours" color="orange" >}}
-    Typical turnaround time for online appraisals
-  {{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Fine Art Appraisal Market Statistics" columns="3" />}}
+
+{{< data-modules/stat-card value="$125-$350" label="Hourly Rate" color="blue" description="Average professional appraiser fee per hour" />}}
+
+{{< data-modules/stat-card value="5-10" label="Works Per Hour" color="green" description="Average number of art pieces assessed hourly" />}}
+
+{{< data-modules/stat-card value="72" label="Hours" color="orange" description="Typical turnaround time for online appraisals" />}}
 
 {{< content-modules/section-header title="When Do You Need a Fine Art Appraisal?" level="2" >}}
 Understanding when to seek a professional appraisal can save you time, money, and potential legal complications. Here are the most common scenarios where art appraisals are essential.

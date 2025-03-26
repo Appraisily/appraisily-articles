@@ -63,18 +63,13 @@ For centuries, bells have served practical, ceremonial, and decorative purposes 
 
 Antique bells come in a fascinating variety of types, each with distinctive characteristics that help reveal their origin and age. Whether you've inherited a family heirloom, discovered an old bell at an estate sale, or are actively building a collection, this guide will provide the knowledge needed to properly identify and value these musical treasures from the past.
 
-{{< data-modules/stats-highlight title="Antique Bell Market Insights" columns="3"  />}}
-  {{< data-modules/stat-card value="1845-1920" label="Prime Era" color="blue" >}}
-    Peak period for antique sleigh bell production in America
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="16th c." label="Origin Date" color="green" >}}
-    When cast crotal bells began production in Europe
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="50-300%" label="Value Increase" color="orange" >}}
-    Premium for authentic petal-design sleigh bells vs. reproductions
-  {{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Antique Bell Market Insights" columns="3" />}}
+
+{{< data-modules/stat-card value="1845-1920" label="Prime Era" color="blue" description="Peak period for antique sleigh bell production in America" />}}
+
+{{< data-modules/stat-card value="16th c." label="Origin Date" color="green" description="When cast crotal bells began production in Europe" />}}
+
+{{< data-modules/stat-card value="50-300%" label="Value Increase" color="orange" description="Premium for authentic petal-design sleigh bells vs. reproductions" />}}
 
 
 {{< content-modules/section-header title="Types of Antique Bells" level="2" >}}
@@ -171,14 +166,14 @@ Authentic aging creates distinctive characteristics:
 3. **Strap Wear**: Leather straps should show appropriate aging and wear patterns at contact points
 
 {{< interactive-modules/condition-checklist title="Antique Sleigh Bell Authentication Checklist" description="Use this checklist to evaluate potential antique sleigh bells" >}}
-  {{< interactive-modules/checklist-item label="Bell has egg shape with gentle middle hump" / />}}
-  {{< interactive-modules/checklist-item label="Two holes present in the base" / />}}
-  {{< interactive-modules/checklist-item label="Crisp, detailed petal design (if not plain)" / />}}
-  {{< interactive-modules/checklist-item label="Even patination across all bells in set" / />}}
-  {{< interactive-modules/checklist-item label="Thinner metal shell than modern reproductions" / />}}
-  {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Leather strap shows appropriate aging" / />}}
-  {{< interactive-modules/checklist-item label="No dramatic color variations between adjacent bells" / />}}
+  {{< interactive-modules/checklist-item label="Bell has egg shape with gentle middle hump" />}}
+  {{< interactive-modules/checklist-item label="Two holes present in the base" />}}
+  {{< interactive-modules/checklist-item label="Crisp, detailed petal design (if not plain)" />}}
+  {{< interactive-modules/checklist-item label="Even patination across all bells in set" />}}
+  {{< interactive-modules/checklist-item label="Thinner metal shell than modern reproductions" />}}
+  {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age" />}}
+  {{< interactive-modules/checklist-item label="Leather strap shows appropriate aging" />}}
+  {{< interactive-modules/checklist-item label="No dramatic color variations between adjacent bells" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Recognizing Crotal Bells" level="2" >}}
