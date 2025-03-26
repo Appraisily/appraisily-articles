@@ -91,15 +91,7 @@ async function findKeywordFolders() {
  * @returns {Promise<boolean>} - True if article exists
  */
 async function articleExists(keyword) {
-  // First check if there's an index.md file in the keyword's folder
-  const indexPath = path.join(DATA_DIR, keyword, 'index.md');
-  const indexExists = await exists(indexPath);
-  
-  if (indexExists) {
-    return true;
-  }
-  
-  // Then check if there's a keyword.md file in the articles directory
+  // Only check if there's a keyword.md file in the articles directory
   const articlePath = path.join(CONTENT_DIR, `${keyword}.md`);
   return await exists(articlePath);
 }
@@ -162,10 +154,13 @@ async function analyzeRepositoryState() {
   }
   
   // Find research folders that have articles
-  const completedArticles = researchFolders.filter(async folder => {
+  const completedArticles = [];
+  for (const folder of researchFolders) {
     const hasArticle = await articleExists(folder);
-    return hasArticle;
-  });
+    if (hasArticle) {
+      completedArticles.push(folder);
+    }
+  }
   
   return {
     researchFolders,
