@@ -15,31 +15,32 @@ meta_title: "Fine Art Appraisals: Expert Guide to Art Valuation | Appraisily"
 meta_description: "Discover how professional fine art appraisals work, what factors determine artwork value, and when you need an appraisal for insurance, estates, or sales."
 canonical_url: "https://appraisily.com/fine-art-appraisals/"
 keywords: "fine art appraisals, art valuation, professional art appraiser, art appraisal cost, art value assessment, insurance art appraisal, estate art valuation"
-structured_data: '{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://appraisily.com/fine-art-appraisals/"
-  },
-  "headline": "Fine Art Appraisals: Your Complete Guide to Valuing Artwork",
-  "description": "Learn how professional fine art appraisals work, what they cost, and why they're essential for insurance, estate planning, or selling valuable artwork.",
-  "image": "https://ik.imagekit.io/appraisily/SEO/fine-art-appraisals/fine-art-appraisals-image-1_bVly15-67.png",
-  "author": {
-    "@type": "Organization",
-    "name": "Appraisily Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Appraisily",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://appraisily.com/logo.png"
-    }
-  },
-  "datePublished": "2023-08-10T10:30:00-04:00",
-  "dateModified": "2023-08-10T10:30:00-04:00"
-}'
+structured_data: |
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://appraisily.com/fine-art-appraisals/"
+    },
+    "headline": "Fine Art Appraisals: Your Complete Guide to Valuing Artwork",
+    "description": "Learn how professional fine art appraisals work, what they cost, and why they're essential for insurance, estate planning, or selling valuable artwork.",
+    "image": "https://ik.imagekit.io/appraisily/SEO/fine-art-appraisals/fine-art-appraisals-image-1_bVly15-67.png",
+    "author": {
+      "@type": "Organization",
+      "name": "Appraisily Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Appraisily",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://appraisily.com/logo.png"
+      }
+    },
+    "datePublished": "2023-08-10T10:30:00-04:00",
+    "dateModified": "2023-08-10T10:30:00-04:00"
+  }
 ---
 
 {{< content-modules/section-header title="Understanding Fine Art Appraisals" level="2" >}}
@@ -123,12 +124,12 @@ The process typically begins with a consultation where you discuss your artwork 
 The appraiser will examine the artwork, either in person or through high-quality photographs for online appraisals. They'll document:
 
 {{< interactive-modules/condition-checklist title="Artwork Examination Checklist" description="Elements assessed during professional appraisals" >}}
-  {{< interactive-modules/checklist-item label="Medium and technique" / />}}
-  {{< interactive-modules/checklist-item label="Dimensions and framing" / />}}
-  {{< interactive-modules/checklist-item label="Signature and date" / />}}
-  {{< interactive-modules/checklist-item label="Condition issues (damage, repairs)" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation" / />}}
-  {{< interactive-modules/checklist-item label="Exhibition history" / />}}
+  {{< interactive-modules/checklist-item label="Medium and technique" />}}
+  {{< interactive-modules/checklist-item label="Dimensions and framing" />}}
+  {{< interactive-modules/checklist-item label="Signature and date" />}}
+  {{< interactive-modules/checklist-item label="Condition issues (damage, repairs)" />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation" />}}
+  {{< interactive-modules/checklist-item label="Exhibition history" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Research and Analysis

@@ -55,7 +55,7 @@ structured_data:
   mainEntityOfPage: 'https://articles.appraisily.com/articles/how-to-identify-antique-school-desk'
 ---
 
-{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-school-desk/how-to-identify-antique-school-desk-image-1_AnMUaw9_h.png" alt="Antique wooden school desk with cast iron legs and inkwell" caption="Classic American antique school desk with ornate cast iron frame and oak desktop - circa 1880-1900" />}}
+{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-school-desk/how-to-identify-antique-school-desk-image-1_AnMUaw9_h.png" alt="Antique wooden school desk with cast iron legs and inkwell" caption="Classic American antique school desk with ornate cast iron frame and oak desktop - circa 1880-1900" >}}
 
 ## Introduction to Antique School Desks
 
@@ -116,7 +116,7 @@ As noted by antiques experts at [LoveToKnow](https://www.lovetoknow.com/home/ant
 
 ### Metal Components and Features
 
-{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-school-desk/how-to-identify-antique-school-desk-image-3_uhECfCRux.png" alt="Close-up of ornate cast iron legs on an antique school desk" caption="Decorative cast iron legs featuring elaborate Victorian-era scrollwork - a key identifier of late 19th century school desks" />}}
+{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-school-desk/how-to-identify-antique-school-desk-image-3_uhECfCRux.png" alt="Close-up of ornate cast iron legs on an antique school desk" caption="Decorative cast iron legs featuring elaborate Victorian-era scrollwork - a key identifier of late 19th century school desks" >}}
 
 The metal framework is often the most distinctive feature of antique school desks. Look for:
 
@@ -214,12 +214,12 @@ Examine how the desk was put together:
 ### Patina and Wear Assessment
 
 {{< interactive-modules/condition-checklist title="Age Indicators Checklist" description="Look for these signs of authentic aging" >}}
-  {{< interactive-modules/checklist-item label="Natural wood darkening (patina) consistent throughout" / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns in logical locations (edges, writing surface)" / />}}
-  {{< interactive-modules/checklist-item label="Scratches, dents and marks that show actual use" / />}}
-  {{< interactive-modules/checklist-item label="Ink stains or student-created markings" / />}}
-  {{< interactive-modules/checklist-item label="Consistent aging of all hardware components" / />}}
-  {{< interactive-modules/checklist-item label="Original finish wearing thin in high-use areas" / />}}
+  {{< interactive-modules/checklist-item label="Natural wood darkening (patina) consistent throughout" />}}
+  {{< interactive-modules/checklist-item label="Wear patterns in logical locations (edges, writing surface)" />}}
+  {{< interactive-modules/checklist-item label="Scratches, dents and marks that show actual use" />}}
+  {{< interactive-modules/checklist-item label="Ink stains or student-created markings" />}}
+  {{< interactive-modules/checklist-item label="Consistent aging of all hardware components" />}}
+  {{< interactive-modules/checklist-item label="Original finish wearing thin in high-use areas" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to experts at [Invaluable](https://www.invaluable.com/blog/antique-desks/?srsltid=AfmBOorj1GP5OAsE6lNbl_J9GGWZfKO5BpJ507xDqiS-8FHpOfacOGFc), "Dovetail joints, maker's marks or labels, and handcrafted imperfections" are key indicators of an authentic antique desk. The site advises collectors to "take your time" and carefully "inspect craftsmanship" when evaluating potential antiques.

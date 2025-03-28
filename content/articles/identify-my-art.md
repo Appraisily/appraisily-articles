@@ -75,7 +75,7 @@ Properly identifying artwork is crucial for several reasons. Beyond satisfying c
 
 The identification process combines visual examination, historical knowledge, and sometimes technological assistance. Let's explore the most effective methods for solving the mystery of unknown artwork.
 
-{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/identify-my-art/identify-my-art-image-2_R4W6zLjBW.png" alt="Close-up of an artist's signature on a painting with identification tools nearby" caption="Examining an artist's signature is often the first step in art identification" />}}
+{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/identify-my-art/identify-my-art-image-2_R4W6zLjBW.png" alt="Close-up of an artist's signature on a painting with identification tools nearby" caption="Examining an artist's signature is often the first step in art identification" >}}
 
 {{< content-modules/section-header title="Visual Examination Techniques" level="2" >}}
 The first and most crucial step in identifying artwork is thorough visual examination. A careful inspection can reveal significant clues about the piece's origins, age, and creator.
@@ -93,11 +93,11 @@ The most direct way to identify an artwork is through the artist's signature. Ar
 When examining the signature:
 
 {{< interactive-modules/condition-checklist title="Signature Examination Checklist" description="Elements to check when examining an artwork's signature" >}}
-  {{< interactive-modules/checklist-item label="Check all four corners of the front surface" / />}}
-  {{< interactive-modules/checklist-item label="Look along the bottom edge of the artwork" / />}}
-  {{< interactive-modules/checklist-item label="Examine the back for signatures or labels" / />}}
-  {{< interactive-modules/checklist-item label="Use a magnifying glass for small or faded signatures" / />}}
-  {{< interactive-modules/checklist-item label="Look for gallery labels or exhibition stickers on the back" / />}}
+  {{< interactive-modules/checklist-item label="Check all four corners of the front surface" />}}
+  {{< interactive-modules/checklist-item label="Look along the bottom edge of the artwork" />}}
+  {{< interactive-modules/checklist-item label="Examine the back for signatures or labels" />}}
+  {{< interactive-modules/checklist-item label="Use a magnifying glass for small or faded signatures" />}}
+  {{< interactive-modules/checklist-item label="Look for gallery labels or exhibition stickers on the back" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to the [Smithsonian American Art Museum](https://americanart.si.edu/research/my-art), gallery labels, exhibition stickers, and auction house markings on the back of artwork can provide valuable provenance information, often more helpful than the signature alone.
@@ -280,7 +280,7 @@ For potentially valuable artwork, professional identification services offer exp
 
 The [FindArtInfo database](https://www.findartinfo.com/) states: "Just enter the name of the artist, click Search and value your artwork! On FindArtInfo.com you will find price information on 3,967,598 pieces of art sold over the years."
 
-{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/identify-my-art/identify-my-art-image-5_orm8exdWb.png" alt="Art expert examining painting details with specialized equipment in a museum conservation department" caption="Professional art authentication involves detailed examination by trained experts" />}}
+{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/identify-my-art/identify-my-art-image-5_orm8exdWb.png" alt="Art expert examining painting details with specialized equipment in a museum conservation department" caption="Professional art authentication involves detailed examination by trained experts" >}}
 
 {{< content-modules/section-header title="Advanced Identification Techniques" level="2" >}}
 For particularly valuable or puzzling artwork, advanced techniques can provide definitive answers about authenticity and attribution.
@@ -341,11 +341,11 @@ For unsigned pieces, focus on:
 Determining whether a piece is an original or reproduction requires careful examination:
 
 {{< interactive-modules/condition-checklist title="Original vs. Reproduction Checklist" description="Signs to look for when determining if artwork is original" >}}
-  {{< interactive-modules/checklist-item label="Visible brushstrokes or tool marks consistent with hand creation" / />}}
-  {{< interactive-modules/checklist-item label="Irregular paint application with texture and layering" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of artist's corrections or composition changes" / />}}
-  {{< interactive-modules/checklist-item label="Back of canvas or paper shows appropriate age indicators" / />}}
-  {{< interactive-modules/checklist-item label="No dot patterns or regular printing marks visible under magnification" / />}}
+  {{< interactive-modules/checklist-item label="Visible brushstrokes or tool marks consistent with hand creation" />}}
+  {{< interactive-modules/checklist-item label="Irregular paint application with texture and layering" />}}
+  {{< interactive-modules/checklist-item label="Evidence of artist's corrections or composition changes" />}}
+  {{< interactive-modules/checklist-item label="Back of canvas or paper shows appropriate age indicators" />}}
+  {{< interactive-modules/checklist-item label="No dot patterns or regular printing marks visible under magnification" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [wikiHow's guide on identifying paintings](https://www.wikihow.com/Identify-a-Painting), "Use an image recognition app or run a reverse image search. Ask an expert to identify the painting for you, or do it yourself using clues to narrow down the possibilities."

@@ -15,7 +15,28 @@ meta_title: "How to Identify Antique Furniture by Handles and Hardware | Expert 
 meta_description: "Master the art of dating and authenticating antique furniture through hardware analysis. Learn how handle styles, materials, and construction methods reveal a piece's true age and origin."
 canonical_url: "https://appraisily.com/identify-antique-furniture-by-handles/"
 keywords: "antique furniture handles, antique drawer pulls, identify furniture age by hardware, antique brass handles, furniture hardware dating, antique furniture authentication, historic brassware"
-structured_data: '{"@context":"https://schema.org","@type":"Article","headline":"A Collector's Guide to Identifying Antique Furniture by Handles","description":"Learn to accurately identify and date antique furniture by studying hardware characteristics, focusing on handles, pulls, and other metalwork details that reveal a piece's age and authenticity.","image":"https://ik.imagekit.io/appraisily/SEO/identify-antique-furniture-by-handles/identify-antique-furniture-by-handles-image-1_f5SSoW2dZ.png","author":{"@type":"Organization","name":"Appraisily Team"},"publisher":{"@type":"Organization","name":"Appraisily","logo":{"@type":"ImageObject","url":"https://appraisily.com/logo.png"}},"datePublished":"2023-09-19T10:30:00-04:00","dateModified":"2023-09-19T10:30:00-04:00"}'
+structured_data: |
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "A Collector's Guide to Identifying Antique Furniture by Handles",
+    "description": "Learn to accurately identify and date antique furniture by studying hardware characteristics, focusing on handles, pulls, and other metalwork details that reveal a piece's age and authenticity.",
+    "image": "https://ik.imagekit.io/appraisily/SEO/identify-antique-furniture-by-handles/identify-antique-furniture-by-handles-image-1_f5SSoW2dZ.png",
+    "author": {
+      "@type": "Organization",
+      "name": "Appraisily Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Appraisily",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://appraisily.com/logo.png"
+      }
+    },
+    "datePublished": "2023-09-19T10:30:00-04:00",
+    "dateModified": "2023-09-19T10:30:00-04:00"
+  }
 ---
 
 ![Collection of antique brass furniture handles and pulls from different historical periods](https://ik.imagekit.io/appraisily/SEO/identify-antique-furniture-by-handles/identify-antique-furniture-by-handles-image-1_f5SSoW2dZ.png)
