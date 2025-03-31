@@ -13,6 +13,12 @@ const matter = require('gray-matter');
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
 
+// Create logs directory if it doesn't exist
+const logsDir = path.join(__dirname, '..', 'logs');
+if (!fs.existsSync(logsDir)) {
+  fs.mkdirSync(logsDir, { recursive: true });
+}
+
 // Configure these parameters
 const API_KEY = process.env.ANTHROPIC_API_KEY || '';
 const MODEL = process.env.CLAUDE_MODEL || 'claude-3-7-sonnet-20240301';
@@ -36,7 +42,7 @@ async function enhanceArticleWithSEO(filePath) {
     
     // Call Claude API
     console.log('Calling Claude API for SEO enhancement...');
-    const seoData = await callClaudeAPI(prompt);
+    const seoData = await callClaudeAPI(prompt, keyword);
     
     // Parse the SEO data (expected in JSON format)
     const seoMetadata = JSON.parse(seoData);
@@ -100,9 +106,21 @@ Return ONLY valid JSON that can be directly parsed and used as front matter, wit
 }
 
 /**
- * Call Claude API to generate SEO data
+ * Log articles using fallback SEO data
  */
-async function callClaudeAPI(prompt) {
+function logFallbackUsage(keyword) {
+  const logPath = path.join(__dirname, '..', 'logs', 'fallback-seo.log');
+  const timestamp = new Date().toISOString();
+  const logEntry = `${timestamp} - Fallback SEO data used for: ${keyword}\n`;
+  
+  // Append to log file
+  fs.appendFileSync(logPath, logEntry);
+}
+
+/**
+ * Call Claude API to generate SEO data with retry logic
+ */
+async function callClaudeAPI(prompt, keyword) {
   // If no API key is available, return a basic SEO JSON
   if (!API_KEY) {
     console.warn('No ANTHROPIC_API_KEY found in environment variables. Skipping API call and using basic SEO data.');
@@ -112,46 +130,54 @@ async function callClaudeAPI(prompt) {
       keywords: ["appraisal", "value", "collectible", "antique", "worth", "price guide", "how much"],
       image_alt: "Detailed photograph showing item evaluation process"
     }, null, 2);
+    logFallbackUsage(keyword || 'unknown-no-api-key');
     return basicSeoJson;
   }
 
-  try {
-    const response = await axios.post(
-      'https://api.anthropic.com/v1/messages',
-      {
-        model: MODEL,
-        max_tokens: 4000,
-        messages: [
-          {
-            role: 'user',
-            content: prompt
+  const maxRetries = 5;
+  let retryCount = 0;
+  let backoffTime = 1000; // Start with 1 second
+
+  while (retryCount <= maxRetries) {
+    try {
+      const response = await axios.post(
+        'https://api.anthropic.com/v1/messages',
+        {
+          model: MODEL,
+          max_tokens: 4000,
+          messages: [
+            {
+              role: 'user',
+              content: prompt
+            }
+          ],
+          system: 'You are a specialized SEO expert for art and antiques content. Return only valid JSON without any explanations or markdown formatting.',
+          temperature: 0.3
+        },
+        {
+          headers: {
+            'Content-Type': 'application/json',
+            'x-api-key': API_KEY,
+            'anthropic-version': '2023-06-01'
           }
-        ],
-        system: 'You are a specialized SEO expert for art and antiques content. Return only valid JSON without any explanations or markdown formatting.',
-        temperature: 0.3
-      },
-      {
-        headers: {
-          'Content-Type': 'application/json',
-          'x-api-key': API_KEY,
-          'anthropic-version': '2023-06-01'
         }
+      );
+      
+      return response.data.content[0].text;
+    } catch (error) {
+      retryCount++;
+      console.warn(`API call failed (attempt ${retryCount}/${maxRetries}): ${error.message}`);
+      
+      if (retryCount <= maxRetries) {
+        console.log(`Retrying in ${backoffTime/1000} seconds...`);
+        await new Promise(resolve => setTimeout(resolve, backoffTime));
+        backoffTime *= 2; // Exponential backoff
+      } else {
+        console.error('All retry attempts failed.');
+        logFallbackUsage(keyword || 'unknown-after-retries');
+        throw error; // No fallback, as requested by user
       }
-    );
-    
-    return response.data.content[0].text;
-  } catch (error) {
-    console.error('Error calling Claude API:', error);
-    
-    // Return fallback SEO data instead of throwing error
-    console.warn('Using fallback SEO data due to API error');
-    const fallbackSeoJson = JSON.stringify({
-      meta_title: "Appraisily - Expert Guide for Art & Antique Valuation",
-      meta_description: "Get expert insights on valuing, appraising, and selling your collectibles with our comprehensive guide.",
-      keywords: ["appraisal", "value", "collectible", "antique", "worth", "price guide", "how much"],
-      image_alt: "Detailed photograph showing item evaluation process"
-    }, null, 2);
-    return fallbackSeoJson;
+    }
   }
 }
 
@@ -183,10 +209,57 @@ async function processSEO(articlePath = null) {
   }
 }
 
+/**
+ * List all articles that used fallback SEO data
+ */
+function listArticlesUsingFallbackData() {
+  const logPath = path.join(__dirname, '..', 'logs', 'fallback-seo.log');
+  
+  if (!fs.existsSync(logPath)) {
+    console.log('No fallback SEO data log found.');
+    return [];
+  }
+  
+  const logContent = fs.readFileSync(logPath, 'utf8');
+  const entries = logContent.split('\n').filter(line => line.trim());
+  
+  console.log('Articles using fallback SEO data:');
+  entries.forEach(entry => console.log(entry));
+  
+  // Extract just the keywords from the log entries
+  const keywords = entries.map(entry => {
+    const match = entry.match(/Fallback SEO data used for: (.+)$/);
+    return match ? match[1] : null;
+  }).filter(Boolean);
+  
+  return keywords;
+}
+
 // If run directly
 if (require.main === module) {
   const targetArticle = process.argv[2];
-  if (targetArticle) {
+  
+  if (targetArticle === '--list-fallback') {
+    // List all articles that used fallback SEO data
+    listArticlesUsingFallbackData();
+  } else if (targetArticle === '--regen-fallback') {
+    // Regenerate SEO for all articles that used fallback data
+    const fallbackArticles = listArticlesUsingFallbackData();
+    console.log(`Found ${fallbackArticles.length} articles to regenerate`);
+    
+    // Process each article that used fallback data
+    (async () => {
+      for (const keyword of fallbackArticles) {
+        const articlePath = path.join(__dirname, '..', 'content', 'articles', `${keyword}.md`);
+        if (fs.existsSync(articlePath)) {
+          console.log(`Regenerating SEO for ${keyword}`);
+          await enhanceArticleWithSEO(articlePath);
+        } else {
+          console.warn(`Article not found: ${keyword}`);
+        }
+      }
+    })();
+  } else if (targetArticle) {
     // Check if it's a relative path or just a filename
     const articlePath = targetArticle.endsWith('.md')
       ? path.resolve(targetArticle)
@@ -198,4 +271,4 @@ if (require.main === module) {
   }
 }
 
-module.exports = { enhanceArticleWithSEO, processSEO };
+module.exports = { enhanceArticleWithSEO, processSEO, listArticlesUsingFallbackData };
