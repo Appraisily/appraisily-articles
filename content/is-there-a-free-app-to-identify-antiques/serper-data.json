@@ -1,0 +1,105 @@
+{
+  "searchParameters": {
+    "q": "is there a free app to identify antiques",
+    "gl": "us",
+    "hl": "en",
+    "type": "search",
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Curio - Antique Identifier - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.dionysus_labs.antiqueid&hl=en_US",
+      "snippet": "Curio is designed to make antique identification effortless. Its sleek interface lets you focus on discovering the history, value, and worth of your items ...",
+      "rating": 4.6,
+      "ratingCount": 457,
+      "position": 1
+    },
+    {
+      "title": "Antique ID - Identify & Value on the App Store",
+      "link": "https://apps.apple.com/us/app/antique-id-identify-value/id6670337748",
+      "snippet": "Free to Try: Experience the magic of Antique ID without any commitment. Our free trial lets you explore all the features and see the value it brings to your ...",
+      "rating": 4.1,
+      "ratingCount": 42,
+      "position": 2
+    },
+    {
+      "title": "Antique Identifier: Antique ID - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.antiques.identifier.ai.antiquesnap&hl=en_US",
+      "snippet": "This app is designed to help users identify antiques, collectible coins, rare stamps, and valuable banknotes quickly and accurately.",
+      "date": "Jan 8, 2025",
+      "rating": 3.9,
+      "ratingCount": 83,
+      "position": 3
+    },
+    {
+      "title": "Are there any apps that you like to use to identify antiques in stores?",
+      "link": "https://www.reddit.com/r/Antiques/comments/18x21zh/are_there_any_apps_that_you_like_to_use_to/",
+      "snippet": "check out the Antique Identifier app at https://www.antiqueidentifier.com, it's available on iOS and Android!",
+      "date": "Jan 2, 2024",
+      "position": 4
+    },
+    {
+      "title": "Antique AI: Antique Identifier on the App Store",
+      "link": "https://apps.apple.com/us/app/antique-ai-antique-identifier/id6538728997",
+      "snippet": "Antique AI: Antique Identifier is your one-stop shop for identifying antiques and vintage treasures with the power of cutting-edge AI technology.",
+      "date": "Jul 21, 2024",
+      "rating": 4.5,
+      "ratingCount": 24,
+      "position": 5
+    },
+    {
+      "title": "What app is there that you take a picture and it tell you how much it ...",
+      "link": "https://www.quora.com/What-app-is-there-that-you-take-a-picture-and-it-tell-you-how-much-it-is-like-antiques",
+      "snippet": "The most readily available app to take a picture of an antique and get an estimated value is Google Lens; it's a built-in feature on most ...",
+      "date": "Apr 5, 2018",
+      "sitelinks": [
+        {
+          "title": "Is there an app to take a photo of an antique dish to identify the value?",
+          "link": "https://www.quora.com/Is-there-an-app-to-take-a-photo-of-an-antique-dish-to-identify-the-value"
+        },
+        {
+          "title": "Is there an app to identify antiques? - Quora",
+          "link": "https://www.quora.com/Is-there-an-app-to-identify-antiques"
+        }
+      ],
+      "position": 6
+    },
+    {
+      "title": "Curio - Antique Identifier",
+      "link": "https://www.antiqueidentifier.com/",
+      "snippet": "Curio - Identify and value antiques, vintage items with a snap. Discover price, origin & time! Available on iOS and Android.",
+      "position": 7
+    },
+    {
+      "title": "'Google Lens' can help determine worth of old collectibles - YouTube",
+      "link": "https://www.youtube.com/watch?v=-tYa6ID8VWE",
+      "snippet": "Google Lens is an app you probably already have on your phone as part of the Google search app.",
+      "date": "Dec 9, 2020",
+      "position": 8
+    },
+    {
+      "title": "This is the only and the most useful appraisal APP : r/AntiqueBooths",
+      "link": "https://www.reddit.com/r/AntiqueBooths/comments/1e469ls/this_is_the_only_and_the_most_useful_appraisal_app/",
+      "snippet": "Appraisal, App Store create professional appraisals, valuations, and certificates of authenticity! All in one app No subscription and no ...",
+      "date": "Jul 15, 2024",
+      "position": 9
+    },
+    {
+      "title": "How To Use Google Lens On An IPhone To Identify Vintage China ...",
+      "link": "https://www.youtube.com/watch?v=SPYHkYvG73o",
+      "snippet": "You can now identify a vintage or antique china pattern or pottery in seconds with this easy FREE to use hack which is built in the every ...",
+      "date": "Feb 9, 2024",
+      "position": 10
+    }
+  ],
+  "peopleAlsoAsk": [
+    {
+      "question": "What is the free app that identifies antiques by picture?",
+      "snippet": "With a user-friendly interface, Antique ID is designed for everyone. Just snap, scan, and discover—it's that simple!",
+      "title": "Antique ID - Identify & Value on the App Store",
+      "link": "https://apps.apple.com/us/app/antique-id-identify-value/id6670337748"
+    }
+  ],
+  "credits": 1
+}

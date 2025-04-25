@@ -1,0 +1,148 @@
+{
+  "searchParameters": {
+    "q": "artwork value",
+    "gl": "us",
+    "hl": "en",
+    "type": "search",
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "What's My Art Worth: Price Art - askART",
+      "link": "https://www.askart.com/Price_Artwork.aspx",
+      "snippet": "Knowing the lineage of ownership and exhibition history can add to the value of your artwork. Useful to establishing provenance, or 'history' of an artwork ...",
+      "position": 1
+    },
+    {
+      "title": "artprice.com, the world leader in Art market information",
+      "link": "https://www.artprice.com/",
+      "snippet": "Access 30 million auction results, indices and econometric analyses. Track past, current and upcoming auctions from 7,200 auction houses around the world.",
+      "position": 2
+    },
+    {
+      "title": "Art prices, art appraisal - Search free",
+      "link": "https://www.findartinfo.com/",
+      "snippet": "With this art appraisal tool you can value your fine art by comparing it with recent auction prices of similar pieces. FindArtInfo.com gives you the latest ...",
+      "sitelinks": [
+        {
+          "title": "Browse by Artist",
+          "link": "https://findartinfo.com/english/A/browse-by-artist.html"
+        },
+        {
+          "title": "Advanced search",
+          "link": "https://findartinfo.com/english/advanced-search.html"
+        },
+        {
+          "title": "Browse Signatures",
+          "link": "https://findartinfo.com/english/A/browse-signatures.html"
+        },
+        {
+          "title": "Forum",
+          "link": "https://forum.findartinfo.com/"
+        }
+      ],
+      "position": 3
+    },
+    {
+      "title": "How Much Is Your Object Worth? | Smithsonian American Art Museum",
+      "link": "https://americanart.si.edu/research/my-art/object-worth",
+      "snippet": "The following guidelines should help you find an approximate value for your artwork. First, consult price guides to determine current sale and auction prices.",
+      "position": 4
+    },
+    {
+      "title": "Search Art Prices and Auction Results - Artnet Price Database",
+      "link": "https://www.artnet.com/price-database/",
+      "snippet": "It provides easy and transparent price research from auction records dating back to 1985, allowing you to independently assess how much a work of art is worth.",
+      "position": 5
+    },
+    {
+      "title": "How to tell if your art is valuable in 5 easy steps - Austin Galleries",
+      "link": "https://www.austingalleries.com/post/how-to-tell-if-your-art-is-valuable?srsltid=AfmBOoqUG2-PImCOkVBn_t0kJcfqhSqvqOhyx_MB3ZnyaNZHzp0yZy6r",
+      "snippet": "Steps for determining the value of your art: · Step 1: Determine if your artwork is a painting or a print. · Step 2: Consider the provenance.",
+      "date": "Jun 29, 2023",
+      "position": 6
+    },
+    {
+      "title": "9 Signs Your Painting is Over $1K - Gray's Auctioneers",
+      "link": "https://www.graysauctioneers.com/blog-posts/2020/5/8/9-signs-that-your-painting-may-be-worth-over-1000?srsltid=AfmBOoqRJQgOan9cRbiAZRQntC399I_-EQaIuE5u0YDLBBOkInI41HGT",
+      "snippet": "We offer free virtual valuations and we will let you know the estimated value of the artwork at auction.",
+      "date": "May 8, 2020",
+      "position": 7
+    },
+    {
+      "title": "Art Value Guide – What is My Fine Art Worth?",
+      "link": "https://fineart.ha.com/worth/art-value.s",
+      "snippet": "How to find the value of fine art in 3 easy steps. Check the list of valuable fine art sold at auction, lookup the value in the auction archives, ...",
+      "position": 8
+    },
+    {
+      "title": "What determines the value of an art piece? : r/ArtistLounge - Reddit",
+      "link": "https://www.reddit.com/r/ArtistLounge/comments/xewg1m/what_determines_the_value_of_an_art_piece/",
+      "snippet": "The value of art in the commercial art market is determined by the artists milestones in their career, supply and demand for their art.",
+      "date": "Sep 15, 2022",
+      "position": 9
+    },
+    {
+      "title": "How can I value my print or picture? - the Fine Art Trade Guild",
+      "link": "https://www.fineart.co.uk/faq/how-can-i-value-my-print-or-picture-39.aspx",
+      "snippet": "If you suspect that your picture is valuable, take it to a specialist fine art auctioneer, such as Bonham's, Christie's or Sotheby's. Bonham's has offices in ...",
+      "position": 10
+    }
+  ],
+  "peopleAlsoAsk": [
+    {
+      "question": "How do I find the value of artwork?",
+      "snippet": "Consider finding an appraiser to determine the value of your artwork. Appraisers are trained specialists who work for a fee. They evaluate your piece and give you a written statement of its value.",
+      "title": "How Much Is Your Object Worth? | Smithsonian American Art Museum",
+      "link": "https://americanart.si.edu/research/my-art/object-worth"
+    },
+    {
+      "question": "How do you get artwork valued?",
+      "snippet": "If you know the name of the artist you can begin your research. There are several websites that list thousands of artists and literally millions of prices fetched at auction, to enable people to research pictures and value. These tend to charge for detailed information.",
+      "title": "How can I value my print or picture? - the Fine Art Trade Guild",
+      "link": "https://www.fineart.co.uk/faq/how-can-i-value-my-print-or-picture-39.aspx"
+    },
+    {
+      "question": "What is the app that checks painting value?",
+      "snippet": "Painter Values Check allows you to check values in realtime through your device camera and also analyze it or any other image imported from Photo Gallery.",
+      "title": "Painter Values Check on the App Store",
+      "link": "https://apps.apple.com/us/app/painter-values-check/id1531149807"
+    },
+    {
+      "question": "What are values in artwork?",
+      "snippet": "Value is the lightness or darkness of a color, and it adds dimension in a piece. Value is also a concept in color, as mentioned above. Artists can create value in line drawings through different shading techniques which use different types of line.",
+      "title": "ELEMENTS OF ART-VALUE - Cascadia Art Museum",
+      "link": "https://www.cascadiaartmuseum.org/elements-of-art-value/"
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "artsy"
+    },
+    {
+      "query": "Value my painting for free"
+    },
+    {
+      "query": "Value of paintings by artist name free"
+    },
+    {
+      "query": "Free artwork value"
+    },
+    {
+      "query": "Art price database free"
+    },
+    {
+      "query": "Free art appraisal app"
+    },
+    {
+      "query": "Art appraisal near me"
+    },
+    {
+      "query": "Art prices Chart"
+    },
+    {
+      "query": "Art value app"
+    }
+  ],
+  "credits": 1
+}

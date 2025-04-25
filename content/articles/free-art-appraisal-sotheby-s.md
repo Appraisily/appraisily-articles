@@ -268,29 +268,29 @@ Galleries specializing in specific artists or periods may offer informal valuati
 Local university art departments sometimes have experts who can provide educational insights, though these typically aren't formal appraisals.
 
 {{< interactive-modules/resource-links title="Art Appraisal Resources" columns="2" >}}
-  {{< interactive-modules/resource-links title="Sotheby's Online Submission Form" url="https://www.sothebys.com/en/sell" type="tool" >}}
+  {{< interactive-modules/resource-card title="Sotheby's Online Submission Form" url="https://www.sothebys.com/en/sell" type="tool" >}}
     Sotheby's official valuation submission portal for potential consignors.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="Christie's Free Valuation Service" url="https://www.youtube.com/watch?v=IoR2zdEWvp0" type="video" >}}
+  {{< interactive-modules/resource-card title="Christie's Free Valuation Service" url="https://www.youtube.com/watch?v=IoR2zdEWvp0" type="video" >}}
     Video overview of Christie's online appraisal tool for art and collectibles.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="Mearto Online Appraisal Platform" url="https://www.mearto.com/blog/how-to-get-a-free-online-appraisal-and-why-paying-might-be-better" type="article" >}}
+  {{< interactive-modules/resource-card title="Mearto Online Appraisal Platform" url="https://www.mearto.com/blog/how-to-get-a-free-online-appraisal-and-why-paying-might-be-better" type="article" >}}
     Comparison of free and paid online appraisal options with pros and cons.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="Appraisers Association of America" url="https://www.appraisersassociation.org/" type="tool" >}}
+  {{< interactive-modules/resource-card title="Appraisers Association of America" url="https://www.appraisersassociation.org/" type="tool" >}}
     Directory of certified fine art appraisers with advanced qualifications.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="VWART Free Appraisal Analysis" url="https://www.vwart.com/post/free-art-appraisals-not-so-free-after-all" type="article" >}}
+  {{< interactive-modules/resource-card title="VWART Free Appraisal Analysis" url="https://www.vwart.com/post/free-art-appraisals-not-so-free-after-all" type="article" >}}
     Critical examination of the limitations of free art appraisal services.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="Sotheby's Valuations Department" url="https://www.sothebys.com/en/about/services/valuations" type="tool" >}}
+  {{< interactive-modules/resource-card title="Sotheby's Valuations Department" url="https://www.sothebys.com/en/about/services/valuations" type="tool" >}}
     Information about Sotheby's formal valuation services beyond free estimates.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
 {{< /interactive-modules/resource-links >}}
 
 ## Tips for Getting the Most Accurate Art Appraisal

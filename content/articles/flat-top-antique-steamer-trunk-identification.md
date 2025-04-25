@@ -249,196 +249,30 @@ The materials used in a trunk's construction and covering can provide dating clu
 
 - **Interior Materials**: As mentioned earlier, interior linings evolved from simple paper to more elaborate fabric treatments.
 
-{{< data-modules/price-table title="Flat-Top Steamer Trunk Value Ranges by Era" description="Market values as of 2023 for trunks in good to excellent condition" >}}
-  <tr>
-    <td>Pre-1870s Flat-Top Trunks</td>
-    <td>$600-$1,500</td>
-    <td>Rare, typically simple construction with hand-forged hardware</td>
-  </tr>
-  <tr>
-    <td>1870s-1890s Flat-Top Trunks</td>
-    <td>$400-$1,200</td>
-    <td>Transitional period with improved hardware and standardized sizing</td>
-  </tr>
-  <tr>
-    <td>1890s-1910s Flat-Top Trunks</td>
-    <td>$300-$900</td>
-    <td>Peak production period with sophisticated features</td>
-  </tr>
-  <tr>
-    <td>1910s-1930s Flat-Top Trunks</td>
-    <td>$250-$800</td>
-    <td>Later examples with more modern hardware and features</td>
-  </tr>
-  <tr>
-    <td>Luxury Brand Trunks (All Eras)</td>
-    <td>$1,500-$15,000+</td>
-    <td>Louis Vuitton, Goyard, and other premium makers command significant premiums</td>
-  </tr>
-{{< /data-modules/price-table >}}
-
-{{< content-modules/section-header title="Valuation Factors for Flat-Top Steamer Trunks" level="2" >}}
-Several key factors influence the market value of antique flat-top steamer trunks beyond just their age.
-{{< /content-modules/section-header >}}
-
-### Condition Assessment
-
-The condition of a flat-top steamer trunk is perhaps the most significant factor affecting its value:
-
-{{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Evaluate these aspects when assessing a trunk's condition" >}}
-  {{< interactive-modules/checklist-item label="Structural integrity of the trunk body" / />}}
-  {{< interactive-modules/checklist-item label="Functionality of locks, latches, and hinges" / />}}
-  {{< interactive-modules/checklist-item label="Condition of the exterior covering (canvas, leather, or metal)" / />}}
-  {{< interactive-modules/checklist-item label="Presence of original interior components and trays" / />}}
-  {{< interactive-modules/checklist-item label="Condition of interior lining" / />}}
-  {{< interactive-modules/checklist-item label="Presence of original handles and hardware" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of repairs or restoration" / />}}
-{{< /interactive-modules/condition-checklist >}}
-
-Issues that significantly impact value include:
-
-- Significant damage to the body structure
-- Missing or non-functioning hardware
-- Extensive water damage or interior deterioration
-- Inappropriate repairs or restorations that compromise authenticity
-
-### Maker and Provenance
-
-The manufacturer of a flat-top steamer trunk has a significant impact on its value:
-
-- **Premium Makers**: Trunks from prestigious manufacturers like Louis Vuitton, Goyard, or Moynat can command prices that are ten or more times higher than similar trunks from lesser-known makers.
-
-- **American Manufacturers**: Well-known American manufacturers like Seward, Hartmann, or Oshkosh typically have established collector markets and command higher prices than generic examples.
-
-- **Documented Provenance**: Trunks with documented history, particularly those with connections to notable individuals or historical events, can command significant premiums.
-
-### Rarity and Distinctive Features
-
-Unusual or rare characteristics can significantly enhance a trunk's value:
-
-- **Uncommon Sizes or Shapes**: While still maintaining the flat-top design, unusually large or small examples can be more desirable to collectors.
-
-- **Specialized Types**: Trunks designed for specific purposes (such as artist trunks or military officer trunks) often appeal to specialized collector markets.
-
-- **Innovative Features**: Trunks with unusual or innovative interior arrangements or hardware can command premium prices.
-
-- **Original Labels and Markings**: Well-preserved manufacturer labels, owner's names, or shipping labels can add significantly to a trunk's value and historical interest.
-
-### Originality vs. Restoration
-
-The balance between originality and restoration can be tricky when it comes to valuation:
-
-- **All-Original Condition**: Trunks with all original components, even with appropriate wear, typically command higher prices than extensively restored examples.
-
-- **Sympathetic Restoration**: Careful, historically appropriate restoration that preserves the trunk's authentic character while making it functional can maintain much of its value.
-
-- **Over-Restoration**: Excessive refinishing, replacement of original materials with modern alternatives, or other inappropriate "improvements" can significantly reduce a trunk's value to serious collectors.
-
-{{< content-modules/section-header title="Common Restoration Issues and Best Practices" level="2" >}}
-Understanding appropriate restoration approaches is essential for both collectors and those looking to maintain or improve the value of their antique trunks.
-{{< /content-modules/section-header >}}
-
-### Ethical Restoration Principles
-
-When considering restoration for a flat-top steamer trunk, several key principles should guide the process:
-
-1. **Documentation**: Before beginning any restoration work, thoroughly document the trunk's original condition with detailed photographs and notes.
-
-2. **Reversibility**: Whenever possible, choose restoration techniques that can be reversed in the future if needed.
-
-3. **Minimum Intervention**: Address only the issues necessary to stabilize the trunk and preserve its integrity, avoiding unnecessary "improvements."
-
-4. **Historical Accuracy**: Use materials and techniques that are historically appropriate for the trunk's age and style.
-
-5. **Transparency**: Be honest about any restoration work when selling or appraising the trunk.
-
-### Common Restoration Challenges
-
-Flat-top steamer trunks often present specific restoration challenges:
-
-- **Canvas Repairs**: Torn or deteriorated canvas coverings require specialized techniques to repair or replace without compromising authenticity.
-
-- **Hardware Restoration**: Cleaning and restoring original hardware without removing appropriate patina requires careful approach.
-
-- **Interior Lining Replacement**: When original linings are beyond repair, choosing historically appropriate replacements is critical.
-
-- **Structural Repairs**: Addressing damage to the wooden structure while maintaining historical integrity requires specialized knowledge.
-
-### Finding Qualified Restorers
-
-For significant restoration work, finding a qualified specialist is essential:
-
-- Look for restorers with specific experience with antique trunks rather than general furniture restorers
-- Ask for examples of previous trunk restoration work and references
-- Discuss their philosophy regarding preservation versus restoration
-- Ensure they are willing to document their process and use historically appropriate materials
-
-{{< content-modules/section-header title="Common Reproductions and How to Spot Them" level="2" >}}
-The market for antique steamer trunks includes numerous reproductions that can sometimes be difficult to distinguish from authentic pieces.
-{{< /content-modules/section-header >}}
-
-### Types of Reproductions
-
-Reproductions of flat-top steamer trunks generally fall into several categories:
-
-1. **Decorative Replicas**: Modern pieces designed to look like antique trunks but constructed with contemporary methods and materials. These are usually made for decorative purposes rather than practical use.
-
-2. **Functional Reproductions**: New trunks built using some traditional methods but with modern materials, designed to be used as furniture while providing antique aesthetic appeal.
-
-3. **Deceptive Reproductions**: Items specifically created to mislead buyers into believing they are authentic antiques, sometimes using artificially aged materials and fake labels.
-
-4. **Composites**: These combine some authentic antique parts with modern additions or parts from other trunks, creating a "Frankenstein" piece that appears authentic at first glance.
-
-### Red Flags for Reproductions
-
-Several tell-tale signs can help identify reproduction flat-top steamer trunks:
-
-- **Inconsistent Aging**: Look for uniform aging patterns. Authentic trunks typically show different wear patterns on different parts based on use.
-
-- **Modern Materials**: Watch for materials that weren't available during the supposed production period, such as plywood (uncommon before the 1920s in trunks), particleboard, or modern adhesives.
-
-- **Hardware Inconsistencies**: Reproduction hardware often lacks the weight, detail, or appropriate patina of authentic pieces. Machine-made screws with perfectly centered slots are also indicators of modern reproduction.
-
-- **Construction Techniques**: Modern construction methods like staples, phillips-head screws, or precise machine cuts weren't used in antique trunks.
-
-- **Interior Inconsistencies**: Modern reproductions often have interiors that don't match the anticipated layout or materials for the style and period they're imitating.
-
-### Authentication Resources
-
-When in doubt about a flat-top steamer trunk's authenticity, several resources can help:
-
-- **Reference Books**: Specialized books on antique trunks often include detailed photographs and descriptions of authentic examples.
-
-- **Museum Collections**: Many museums maintain collections of authentic trunks that can serve as reference points.
-
-- **Professional Appraisers**: Appraisers specializing in antique furniture or specifically in trunks can provide expert authentication.
-
-- **Collector Forums**: Online communities of trunk collectors often provide invaluable insights based on collective experience.
-
 {{< interactive-modules/resource-links title="Essential Resources for Flat-Top Steamer Trunk Identification" columns="2" >}}
-  {{< interactive-modules/resource-links title="Antique Trunks: Identification & Value Guide" url="https://valuableantiques.org/antique-trunks-identification-value-guide/" type="article" >}}
+  {{< interactive-modules/resource-card title="Antique Trunks: Identification & Value Guide" url="https://valuableantiques.org/antique-trunks-identification-value-guide/" type="article" >}}
     Comprehensive guide covering trunk identification features, historical context, and valuation factors for collectors and enthusiasts.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="wikiHow: How to Value Antique Trunks" url="https://www.wikihow.com/Value-Antique-Trunks" type="guide" >}}
+  {{< interactive-modules/resource-card title="wikiHow: How to Value Antique Trunks" url="https://www.wikihow.com/Value-Antique-Trunks" type="guide" >}}
     Step-by-step guide for determining the age, type, and value of antique trunks, including flat-top steamer models.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="Of Graveyards and Things: Dating Antique Steamer Trunks" url="https://ofgraveyardsandthings.com/2022/11/18/how-to-determine-the-age-of-an-antique-steamer-trunk/" type="article" >}}
+  {{< interactive-modules/resource-card title="Of Graveyards and Things: Dating Antique Steamer Trunks" url="https://ofgraveyardsandthings.com/2022/11/18/how-to-determine-the-age-of-an-antique-steamer-trunk/" type="article" >}}
     Detailed techniques for determining the age of antique steamer trunks based on construction methods and historical markers.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="La Malle en Coin: Trunk Museum" url="https://la-malle-en-coin.com/en/museums-and-monuments/the-museum.html" type="resource" >}}
+  {{< interactive-modules/resource-card title="La Malle en Coin: Trunk Museum" url="https://la-malle-en-coin.com/en/museums-and-monuments/the-museum.html" type="resource" >}}
     Museum collection featuring different types of antique trunks including flat-top models, with historical context and identification information.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="1stDibs: Steamer Trunk Identification Guide" url="https://www.1stdibs.com/answers/how-do-you-identify-a-steamer-trunk/" type="tool" >}}
+  {{< interactive-modules/resource-card title="1stDibs: Steamer Trunk Identification Guide" url="https://www.1stdibs.com/answers/how-do-you-identify-a-steamer-trunk/" type="tool" >}}
     Expert advice from antique dealers on identifying authentic steamer trunks and determining their value in the current market.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="SeacoastNH: Antique Trunks Research" url="http://www.seacoastnh.com/The-Arts/Book-of-the-Week/Antique-Trunks/" type="database" >}}
+  {{< interactive-modules/resource-card title="SeacoastNH: Antique Trunks Research" url="http://www.seacoastnh.com/The-Arts/Book-of-the-Week/Antique-Trunks/" type="database" >}}
     Database of trunk makers and historical information to help with identification of antique flat-top and other style trunks.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
 {{< /interactive-modules/resource-links >}}
 
 {{< content-modules/section-header title="Collecting and Investment Considerations" level="2" >}}

@@ -1,0 +1,113 @@
+{
+  "searchParameters": {
+    "q": "what determines the value of art",
+    "gl": "us",
+    "hl": "en",
+    "type": "search",
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "What Determines the Price of an Artwork? - Artsy",
+      "link": "https://www.artsy.net/article/artsy-editorial-determines-price-artwork",
+      "position": 1
+    },
+    {
+      "title": "What determines the value of an art piece? : r/ArtistLounge - Reddit",
+      "link": "https://www.reddit.com/r/ArtistLounge/comments/xewg1m/what_determines_the_value_of_an_art_piece/",
+      "snippet": "The value of art in the commercial art market is determined by the artists milestones in their career, supply and demand for their art.",
+      "date": "Sep 15, 2022",
+      "sitelinks": [
+        {
+          "title": "What makes someone's art 'high value'? How does one become a ...",
+          "link": "https://www.reddit.com/r/explainlikeimfive/comments/187dzr3/eli5_what_makes_someones_art_high_value_how_does/"
+        },
+        {
+          "title": "How Do You Value Your Art? : r/ArtistLounge - Reddit",
+          "link": "https://www.reddit.com/r/ArtistLounge/comments/17xv7pm/how_do_you_value_your_art/"
+        }
+      ],
+      "position": 2
+    },
+    {
+      "title": "Who decides the value of an artwork? - Magazine Artsper",
+      "link": "https://blog.artsper.com/en/lifestyle/who-decides-the-value-of-an-artwork/",
+      "snippet": "In the primary market, independent artists or galleries are the key determiners of an artwork's value. If the artist is the vendor of their own ...",
+      "date": "May 8, 2023",
+      "position": 3
+    },
+    {
+      "title": "Value in Art – What Makes Art Valuable? - Artland Magazine",
+      "link": "https://magazine.artland.com/value-art/",
+      "snippet": "What makes art valuable? As mentioned, the market value is mainly determined by the galleries and auction houses. The consensuses that are born in this context ...",
+      "position": 4
+    },
+    {
+      "title": "How do we value a work of art? - Art and Collectors",
+      "link": "https://artandcollectors.com/pages/how-do-we-value-a-work-of-art?srsltid=AfmBOoog4ZVl_dH8Vj-jVnpwtKrEH7U0ZDxojLbOaXwSR0mn-Y6djssR",
+      "snippet": "A good valuer not only considers the market, but the work of art itself. In doing so, where a work comes from, who made it, and its visual and material ...",
+      "position": 5
+    },
+    {
+      "title": "7 Factors that Determine the Commercial Value of Art",
+      "link": "https://www.theeditgallery.com/blog/7-factors-that-determine-the-commercial-value-of-art/",
+      "snippet": "7 Factors that Determine the Commercial Value of Art · 1. Artist · 2. Scarcity · 3. Authenticity · 4. Subject / Style · 5. Condition · 6.",
+      "date": "Jan 16, 2025",
+      "position": 6
+    },
+    {
+      "title": "How is the value of an artwork determined? What are some ... - Quora",
+      "link": "https://www.quora.com/How-is-the-value-of-an-artwork-determined-What-are-some-reliable-resources-for-finding-out-the-worth-of-an-artwork",
+      "snippet": "An artwork's provenance, the documented history of who it has belonged to, is a huge determining factor in its value. For example, if a painting ...",
+      "date": "Jun 14, 2024",
+      "position": 7
+    },
+    {
+      "title": "What factors determine the value of artwork and how can ... - Quora",
+      "link": "https://www.quora.com/What-factors-determine-the-value-of-artwork-and-how-can-you-determine-if-your-artwork-is-valuable-enough-to-be-sold",
+      "snippet": "The value of artwork is determined by several factors, including the artist's reputation, the quality and uniqueness of the piece, ...",
+      "date": "Feb 2, 2024",
+      "position": 8
+    },
+    {
+      "title": "The Value of Art - What Determines an Artwork's Worth? - Widewalls",
+      "link": "https://www.widewalls.ch/magazine/how-to-value-an-artwork",
+      "snippet": "Important factors are any changes to the state, possible restorations, effects of any modifications to the physical integrity of a piece or its visual quality.",
+      "position": 9
+    },
+    {
+      "title": "Blog - Art value and price – Determining factors from Artalistic",
+      "link": "https://www.artalistic.com/en/blog/What-makes-art-valuable/",
+      "snippet": "An artist's value is influenced by their popularity, which is established in two ways: the importance of their work in regards to their impact on the history ...",
+      "date": "Jan 23, 2021",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "what is the value of art in society"
+    },
+    {
+      "query": "8 values of art"
+    },
+    {
+      "query": "value in art examples"
+    },
+    {
+      "query": "10 values of art"
+    },
+    {
+      "query": "what determines the value of a painting"
+    },
+    {
+      "query": "why do we study art"
+    },
+    {
+      "query": "what is art"
+    },
+    {
+      "query": "what makes art valuable"
+    }
+  ],
+  "credits": 1
+}

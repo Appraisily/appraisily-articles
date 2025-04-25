@@ -185,16 +185,11 @@ Red flags for potential counterfeits include:
 The market for Elgin pocket watches remains robust, with certain models experiencing significant appreciation in recent years. The following provides an overview of current market values based on recent auction results and dealer listings.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/price-table title="Elgin Pocket Watch Price Ranges (2025)" description="Based on recent auction results and dealer listings" >}}
+{{< data-modules/price-table title="Elgin Pocket Watch Value Guide by Type" description="Current market value ranges based on case material and movement quality" >}}
   <tr>
-    <td>14K Gold Case with High-Grade Movement</td>
-    <td>$2,500 - $5,000+</td>
-    <td>Prices higher for railroad grades and mint condition</td>
-  </tr>
-  <tr>
-    <td>10K Gold or Gold-Filled with Railroad Grade</td>
-    <td>$800 - $2,500</td>
-    <td>Higher end for watches with original boxes/papers</td>
+    <td>Solid Gold Case with High-Grade Movement</td>
+    <td>$1,500 - $5,000+</td>
+    <td>Premium for 21+ jewel railroad-grade movements</td>
   </tr>
   <tr>
     <td>Gold-Filled Case with Standard Movement</td>
@@ -538,37 +533,37 @@ For those looking to build a collection with investment potential:
 {{< /content-modules/faq >}}
 
 {{< interactive-modules/resource-links title="External Resources for Elgin Pocket Watch Research" columns="2" >}}
-  {{< interactive-modules/resource-links title="Pocket Watch Database - Elgin Serial Numbers" url="https://pocketwatchdatabase.com/search/serialnumber/elgin" type="tool" >}}
+  {{< interactive-modules/resource-card title="Pocket Watch Database - Elgin Serial Numbers" url="https://pocketwatchdatabase.com/search/serialnumber/elgin" type="tool" >}}
     Comprehensive database for looking up Elgin pocket watch information by serial number. Provides details on production date, movement grade, and original specifications.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="Elgin Watch History - National Association of Watch & Clock Collectors" url="https://www.nawcc.org/" type="article" >}}
+  {{< interactive-modules/resource-card title="Elgin Watch History - National Association of Watch & Clock Collectors" url="https://www.nawcc.org/" type="article" >}}
     Historical information on the Elgin National Watch Company, including production periods, technological innovations, and significant models.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="Invaluable - Elgin Watch Prices Guide" url="https://www.invaluable.com/blog/inside-archives-elgin-watch-prices/" type="article" >}}
+  {{< interactive-modules/resource-card title="Invaluable - Elgin Watch Prices Guide" url="https://www.invaluable.com/blog/inside-archives-elgin-watch-prices/" type="article" >}}
     Analysis of auction prices and market trends for Elgin watches, with insights on what drives value in the collectible watch market.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="eBay Elgin Pocket Watch Collection" url="https://www.ebay.com/b/Elgin-Pocket-Watch-Pocket-Watches/3937/bn_2178834" type="marketplace" >}}
+  {{< interactive-modules/resource-card title="eBay Elgin Pocket Watch Collection" url="https://www.ebay.com/b/Elgin-Pocket-Watch-Pocket-Watches/3937/bn_2178834" type="marketplace" >}}
     Current marketplace listings for Elgin pocket watches, providing perspective on asking prices and available inventory.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="1stDibs Elgin Pocket Watch Gallery" url="https://www.1stdibs.com/creators/elgin/jewelry/watches/pocket-watches/" type="marketplace" >}}
+  {{< interactive-modules/resource-card title="1stDibs Elgin Pocket Watch Gallery" url="https://www.1stdibs.com/creators/elgin/jewelry/watches/pocket-watches/" type="marketplace" >}}
     Curated selection of premium Elgin pocket watches with detailed descriptions and professional photography.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="PM Time Service Elgin Collection" url="https://www.pmtime.com/category/elgin.html" type="marketplace" >}}
+  {{< interactive-modules/resource-card title="PM Time Service Elgin Collection" url="https://www.pmtime.com/category/elgin.html" type="marketplace" >}}
     Specialist dealer offering restored Elgin pocket watches with detailed descriptions of condition and specifications.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="Levy's Fine Jewelry - Elgin Watches" url="https://levysfinejewelry.com/collections/watches-brands-elgin" type="marketplace" >}}
+  {{< interactive-modules/resource-card title="Levy's Fine Jewelry - Elgin Watches" url="https://levysfinejewelry.com/collections/watches-brands-elgin" type="marketplace" >}}
     Dealer specializing in fine antique watches including rare and collectible Elgin models.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
   
-  {{< interactive-modules/resource-links title="Ashton-Blakey Vintage Elgin Pocket Watches" url="https://ashton-blakey-antiques.com/collections/elgin-pocket-watches" type="marketplace" >}}
+  {{< interactive-modules/resource-card title="Ashton-Blakey Vintage Elgin Pocket Watches" url="https://ashton-blakey-antiques.com/collections/elgin-pocket-watches" type="marketplace" >}}
     Collection of vintage Elgin pocket watches with detailed historical context and condition reports.
-  {{< /interactive-modules/resource-links >}}
+  {{< /interactive-modules/resource-card >}}
 {{< /interactive-modules/resource-links >}}
 
 {{< content-modules/section-header title="Conclusion: The Enduring Value of Elgin Pocket Watches" level="2" >}}
