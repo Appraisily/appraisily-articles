@@ -68,19 +68,12 @@ Antique furniture can hold significant value—both monetary and sentimental. Ho
 
 According to experts at [Fontaine's Auction Gallery](https://www.fontainesauction.com/antique-furniture-appraisal/), "The best way to determine its worth is to bring it to a professional antique furniture appraiser who has specific knowledge of antique furniture pieces and knows all the period, material and style details that impact its value."
 
-{{< data-modules/stats-highlight title="Benefits of Professional Antique Furniture Appraisal" columns="3">}}
-{{< data-modules/stat-card value="Accuracy" label="Expert Evaluation" color="blue" >}}
-Professional appraisers provide valuations based on extensive knowledge and current market analysis
-{{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Key Furniture Appraisal Cost Factors" columns="3" />}}
+{{< data-modules/stat-card value="$150-$300" label="Hourly Rate" color="blue" description="Common billing method for certified appraisers" />}}
 
-{{< data-modules/stat-card value="Documentation" label="Official Records" color="green" >}}
-Receive detailed written documentation suitable for insurance, estates, or sales purposes
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="$500-$2,000+" label="Per Item Rate" color="green" description="Often used for single high-value pieces" />}}
 
-{{< data-modules/stat-card value="Confidence" label="Peace of Mind" color="orange" >}}
-Make informed decisions about your antiques based on reliable, objective assessments
-{{< /data-modules/stat-card >}}
-{{< /data-modules/stats-highlight >}}
+{{< data-modules/stat-card value="Travel Fees" label="Additional Costs" color="orange" description="May apply for on-site appraisals outside local area" />}}
 
 ![Interior of an antique appraisal office with furniture pieces being evaluated](https://ik.imagekit.io/appraisily/SEO/antique-furniture-appraiser-near-me/antique-furniture-appraiser-near-me-image-2_WXrg-FPn_s.png)
 

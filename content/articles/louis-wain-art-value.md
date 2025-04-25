@@ -88,19 +88,12 @@ The market for Louis Wain's artwork varies tremendously based on several factors
 
 According to data from MutualArt, Louis Wain's realized auction prices have ranged from 6 USD to 48,718 USD. The record price was achieved at Bonhams Knightsbridge in 2023 for "Come Birdie Come and Live with Me," demonstrating the continued strength of the market for his finest works.
 
-{{< data-modules/stats-highlight title="Louis Wain Market Statistics" columns="3" / />}}
-  {{< data-modules/stat-card value="78.9%" label="Sell-through Rate" color="green" >}}
-    High demand for authentic Wain works at auction
-  {{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Louis Wain Market Statistics" columns="3" />}}
+{{< data-modules/stat-card value="78.9%" label="Sell-through Rate" color="green" description="High demand for authentic Wain works at auction" />}}
   
-  {{< data-modules/stat-card value="154%" label="Price Over Estimate" color="blue" >}}
-    Average premium above pre-auction estimates
-  {{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="154%" label="Price Over Estimate" color="blue" description="Average premium above pre-auction estimates" />}}
   
-  {{< data-modules/stat-card value="$10K" label="Average Sale Price" color="orange" >}}
-    For original works in good condition
-  {{< /data-modules/stat-card >}}
-
+{{< data-modules/stat-card value="$10K" label="Average Sale Price" color="orange" description="For original works in good condition" />}}
 
 {{< data-modules/price-table title="Louis Wain Art Price Ranges" description="Current market values by medium and period" >}}
   <tr>

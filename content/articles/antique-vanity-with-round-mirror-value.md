@@ -127,14 +127,13 @@ Vanities that include matching stools or benches, all original hardware (handles
 
 Particularly unique or rare designs, especially from renowned furniture makers or designers, can significantly increase value. Art Deco waterfall vanities with round mirrors have become increasingly collectible in recent years, with certain manufacturers like Sligh, Johnson Carper, or Kroehler commanding higher values.
 
-{{< data-modules/stats-highlight 
-  >}}{{< data-modules/stat-card 
+{{< data-modules/stats-highlight title="Antique Vanity Valuation Factors" columns="3" />}}
+{{< data-modules/stat-card value="Condition" label="Preservation Quality" color="blue" description="Excellent original condition commands highest prices" />}}
 
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
-  0{{< /data-modules/stat-card >}}
-  1{{< /data-modules/stats-highlight >}}
-  2
-  3
+{{< data-modules/stat-card value="Rarity" label="Design Uniqueness" color="green" description="Unusual designs or limited production pieces are more valuable" />}}
+
+{{< data-modules/stat-card value="Provenance" label="Ownership History" color="orange" description="Documented history can significantly increase value" />}}
+
 {{< content-modules/section-header title="Current Market Values" level="2" >}}
 Understanding current market prices for antique vanities with round mirrors will help you determine if your piece is appropriately valued. These ranges reflect recent sales and auction results.
 {{< /content-modules/section-header >}}

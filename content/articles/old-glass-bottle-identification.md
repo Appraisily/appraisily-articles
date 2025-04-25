@@ -65,19 +65,14 @@ Antique glass bottles offer fascinating glimpses into our past, each with unique
 
 ![Collection of antique glass bottles in various shapes, colors and ages](https://ik.imagekit.io/appraisily/SEO/old-glass-bottle-identification/old-glass-bottle-identification-image-1_84BIyREa3.png)
 
-{{< data-modules/stats-highlight 
+{{< data-modules/stats-highlight title="Key Bottle Identification Factors" columns="3" />}}
+{{< data-modules/stat-card value="Seam Marks" label="Manufacturing Clues" color="blue" description="Presence/absence of seams helps date bottles" />}}
 
-  >}}{{< data-modules/stat-card 
+{{< data-modules/stat-card value="Base Markings" label="Maker & Date Codes" color="green" description="Logos, numbers, or symbols reveal manufacturer and age" />}}
 
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
+{{< data-modules/stat-card value="Pontil Marks" label="Early Glassblowing" color="orange" description="Scars from hand-blowing techniques indicate older bottles" />}}
 
-  0{{< /data-modules/stat-card >}}
-
-  1{{< /data-modules/stats-highlight >}}
-
-  2
-
-  3{{< content-modules/section-header title="Essential Dating Features for Antique Glass Bottles" level="2" >}}
+{{< content-modules/section-header title="Essential Dating Features for Antique Glass Bottles" level="2" >}}
 When examining an old glass bottle, several physical characteristics provide vital clues to its age. These manufacturing techniques evolved over time, making them excellent chronological indicators. Paying close attention to these features can help narrow down when your bottle was made, sometimes within a span of just a few decades.
 {{< /content-modules/section-header >}}
 

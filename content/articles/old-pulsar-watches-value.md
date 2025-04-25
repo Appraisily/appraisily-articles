@@ -163,14 +163,6 @@ Limited production runs, unusual features, or historically significant models (l
 
 Solid gold Pulsar watches carry inherent value in their precious metal content beyond their collectible status. Gold-plated models generally command higher prices than stainless steel versions but only when the plating remains in good condition.
 
-{{< data-modules/stats-highlight 
-  >}}{{< data-modules/stat-card 
-
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
-  0{{< /data-modules/stat-card >}}
-  1{{< /data-modules/stats-highlight >}}
-  2
-  3
 {{< content-modules/section-header title="How to Identify Vintage Pulsar Watch Models" level="2" >}}
 Properly identifying your Pulsar watch is crucial to determining its potential value. The following guidelines can help you identify the specific model and production era.
 {{< /content-modules/section-header >}}

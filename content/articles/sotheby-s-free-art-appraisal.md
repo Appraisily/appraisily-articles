@@ -57,18 +57,12 @@ According to Sotheby's own [help center](https://help.sothebys.com/en/support/so
 
 This means that while submitting your item for assessment doesn't cost anything, not all items will receive an estimate. Sotheby's specialists focus on pieces that meet their auction thresholds and align with their sales categories.
 
-{{< data-modules/stats-highlight title="Sotheby's Valuation Service Key Facts" columns="3" / />}}
-  {{< data-modules/stat-card value="1744" label="Founded" color="blue" >}}
-    Sotheby's has centuries of art market expertise
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="$0" label="Initial Submission" color="green" >}}
-    No cost to submit items for potential valuation
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="40+" label="Categories" color="purple" >}}
-    Broad range of collectible categories evaluated
-  {{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Sotheby's Valuation Service Key Facts" columns="3" />}}
+{{< data-modules/stat-card value="1744" label="Founded" color="blue" description="Sotheby's has centuries of art market expertise" />}}
+
+{{< data-modules/stat-card value="$0" label="Initial Submission" color="green" description="No cost to submit items for potential valuation" />}}
+
+{{< data-modules/stat-card value="40+" label="Categories" color="purple" description="Broad range of collectible categories evaluated" />}}
 
 ## How to Submit Art for Sotheby's Free Valuation
 

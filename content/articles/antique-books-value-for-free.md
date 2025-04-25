@@ -76,7 +76,10 @@ Not all old books are valuable. In fact, many antique books hold more sentimenta
 
 ![Rare book collector examining a first edition with a magnifying glass](https://ik.imagekit.io/appraisily/SEO/antique-books-value-for-free/antique-books-value-for-free-image-2_KX65oRtsf.png)
 
-{{< data-modules/stats-highlight title="Key Antique Book Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Antique Book Value Determinants" columns="3" />}}
+{{< data-modules/stat-card stat="70%" label="of a book's value can be determined by its condition" icon="condition" />}}
+{{< data-modules/stat-card stat="10x" label="price increase possible for first editions of popular works" icon="first-edition" />}}
+{{< data-modules/stat-card stat="80%" label="value added by original dust jackets on collectible books" icon="dust-jacket" />}}
 
 The three fundamental elements that determine a book's value are:
 
@@ -312,8 +315,6 @@ Some library systems provide access to specialized authentication and valuation 
 - **OCLC FirstSearch**
 - **Rare Book Transaction History**
 - **Heritage Auction Archives**
-
-{{< data-modules/stats-highlight title="Digital Valuation Tool Statistics" columns="3" / />}}
 
 When evaluating books using digital tools, remember:
 

@@ -1,0 +1,155 @@
+{
+  "searchParameters": {
+    "q": "how much is my art worth",
+    "gl": "us",
+    "hl": "en",
+    "type": "search",
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "What's My Art Worth: Price Art - askART",
+      "link": "https://www.askart.com/Price_Artwork.aspx",
+      "snippet": "Art auction prices, upcoming auction alerts, sales analysis tools, signatures, artist research and more",
+      "position": 1
+    },
+    {
+      "title": "Art prices, art appraisal - Search free",
+      "link": "https://www.findartinfo.com/",
+      "snippet": "With this art appraisal tool you can value your fine art by comparing it with recent auction prices of similar pieces.",
+      "sitelinks": [
+        {
+          "title": "Browse by Artist",
+          "link": "https://findartinfo.com/english/A/browse-by-artist.html"
+        },
+        {
+          "title": "Advanced search",
+          "link": "https://findartinfo.com/english/advanced-search.html"
+        },
+        {
+          "title": "Art Forum",
+          "link": "https://forum.findartinfo.com/"
+        },
+        {
+          "title": "Browse Signatures",
+          "link": "https://findartinfo.com/english/A/browse-signatures.html"
+        }
+      ],
+      "position": 2
+    },
+    {
+      "title": "How can i know the worth of my art? : r/artbusiness - Reddit",
+      "link": "https://www.reddit.com/r/artbusiness/comments/1exm06w/how_can_i_know_the_worth_of_my_art/",
+      "snippet": "Many, not all, artists price artwork by using this system: length x width, and then times an x factor. (The x factor depends on what stage you are in.)",
+      "date": "Aug 21, 2024",
+      "sitelinks": [
+        {
+          "title": "How much should I sell this for? : r/painting",
+          "link": "https://www.reddit.com/r/painting/comments/17onluj/how_much_should_i_sell_this_for/"
+        },
+        {
+          "title": "How much is my Art worth? : r/arthelp",
+          "link": "https://www.reddit.com/r/arthelp/comments/1ic7ye9/how_much_is_my_art_worth/"
+        }
+      ],
+      "position": 3
+    },
+    {
+      "title": "How Much Is Your Object Worth? | Smithsonian American Art Museum",
+      "link": "https://americanart.si.edu/research/my-art/object-worth",
+      "snippet": "The following guidelines should help you find an approximate value for your artwork. First, consult price guides to determine current sale and auction prices.",
+      "position": 4
+    },
+    {
+      "title": "Art Value Guide – What is My Fine Art Worth?",
+      "link": "https://fineart.ha.com/worth/art-value.s",
+      "snippet": "First; check the list of valuable fine art below, second; lookup the value of similar artwork sold by Heritage Auctions, and third; request a free appraisal.",
+      "position": 5
+    },
+    {
+      "title": "artprice.com, the world leader in Art market information",
+      "link": "https://www.artprice.com/",
+      "snippet": "Artprice is the world leader of art market information with a coverage of more than 700000 artists of fine art with over 30 millions auction results and ...",
+      "position": 6
+    },
+    {
+      "title": "How to tell if your art is valuable in 5 easy steps - Austin Galleries",
+      "link": "https://www.austingalleries.com/post/how-to-tell-if-your-art-is-valuable?srsltid=AfmBOopF3BSnNbhwBb8oL-Ma4HxwCncF0QdWRBhqJJufhr7HzRTrtCw9",
+      "snippet": "Steps for determining the value of your art: · Step 1: Determine if your artwork is a painting or a print. · Step 2: Consider the provenance.",
+      "date": "Jun 29, 2023",
+      "position": 7
+    },
+    {
+      "title": "9 Signs Your Painting is Over $1K - Gray's Auctioneers",
+      "link": "https://www.graysauctioneers.com/blog-posts/2020/5/8/9-signs-that-your-painting-may-be-worth-over-1000?srsltid=AfmBOopBqr5mbGLclUB_Xh1YYQas7_88uaoltiPz8gkbweAKbMSF9Pri",
+      "snippet": "Perhaps that old painting hanging on the wall has some real value. Here are 9 key factors real experts use to find the value of your artwork ...",
+      "date": "May 8, 2020",
+      "position": 8
+    },
+    {
+      "title": "How can I value my print or picture? - the Fine Art Trade Guild",
+      "link": "https://www.fineart.co.uk/faq/how-can-i-value-my-print-or-picture-39.aspx",
+      "snippet": "If your item has decorative value, but is unlikely to be worth more than £500, you can take it to your local general furniture auctioneer. They too should give ...",
+      "position": 9
+    },
+    {
+      "title": "How to Value Art How Much is My Art Worth? - ArtBusiness.com",
+      "link": "https://www.artbusiness.com/appsellart.html",
+      "snippet": "As mentioned above, your print is relatively common in the marketplace right now and currently sells at auction for between $800 and $1000, or about as much as ...",
+      "position": 10
+    }
+  ],
+  "peopleAlsoAsk": [
+    {
+      "question": "How can I find out how much a piece of art is worth?",
+      "snippet": "Consider finding an appraiser to determine the value of your artwork. Appraisers are trained specialists who work for a fee. They evaluate your piece and give you a written statement of its value.",
+      "title": "How Much Is Your Object Worth? | Smithsonian American Art Museum",
+      "link": "https://americanart.si.edu/research/my-art/object-worth"
+    },
+    {
+      "question": "How do you determine the value of an artwork?",
+      "snippet": "7 FACTORS THAT DETERMINE THE COMMERCIAL VALUE OF ART\n1\nArtist. The artist's position in the art world is among the most important aspects to consider. ...\n2\nScarcity. Another factor that affects the value is the prolificity of an artist. ...\n3\nAuthenticity. ...\n4\nSubject / Style. ...\n5\nCondition. ...\n6\nProvenance. ...\n7\nTechnique / Medium.",
+      "title": "7 Factors that Determine the Commercial Value of Art",
+      "link": "https://www.theeditgallery.com/blog/7-factors-that-determine-the-commercial-value-of-art/"
+    },
+    {
+      "question": "How do I calculate the price of my artwork?",
+      "snippet": "(Height + Width) × Price per linear inch It's a simple and straightforward way to price art — not just for you, but also for your buyers. It's also particularly useful if you are working with canvas or paper in a wide range of sizes, for instance, because there will be less price discrepancy between works.",
+      "title": "Pricing Your Art: A Comprehensive Guide for Artists [2023]",
+      "link": "https://www.magazine.artconnect.com/resources/how-to-price-your-art"
+    },
+    {
+      "question": "How do I get my artwork valued?",
+      "snippet": "You can search online for galleries and dealers who specialise in specific artists' work (if you know the name of your artist), or certain types of artwork, such as dealers in antique maps or Japanese woodblock prints. Galleries who are members of the Fine Art Trade Guild are bound by a code of ethics.",
+      "title": "How can I value my print or picture? - the Fine Art Trade Guild",
+      "link": "https://www.fineart.co.uk/faq/how-can-i-value-my-print-or-picture-39.aspx"
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Value my painting for free"
+    },
+    {
+      "query": "How much is my art worth online"
+    },
+    {
+      "query": "How much is my art worth free online"
+    },
+    {
+      "query": "How much is my art worth free"
+    },
+    {
+      "query": "How much is my art worth app"
+    },
+    {
+      "query": "Free art appraisal app"
+    },
+    {
+      "query": "How much is my art worth reddit"
+    },
+    {
+      "query": "How much is my painting worth app"
+    }
+  ],
+  "credits": 1
+}

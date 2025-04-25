@@ -95,19 +95,12 @@ Magazines featuring noteworthy cover art, especially by famous artists or photog
 
 Issues containing first appearances of famous authors, interviews with notable figures, or original works by renowned writers or artists can be worth significantly more than typical issues.
 
-{{< data-modules/stats-highlight title="Key Value Factors for Vintage Magazines" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Factors Affecting Magazine Value" columns="3" />}}
+  {{< data-modules/stat-card value="Rarity" label="Issue Scarcity" color="blue" description="Limited circulation or hard-to-find issues are more valuable" />}}
 
-{{< data-modules/stat-card value="Condition" label="Primary Factor" color="blue" >}}
-Magazine condition can impact value by 50-90%, with mint copies commanding significant premiums
-{{< /data-modules/stat-card >}}
+  {{< data-modules/stat-card value="Condition" label="Preservation Quality" color="green" description="Near-mint condition significantly increases value" />}}
 
-{{< data-modules/stat-card value="Historical Significance" label="Value Multiplier" color="green" >}}
-Magazines covering major historical events can be worth 2-10x more than standard issues
-{{< /data-modules/stat-card >}}
-
-{{< data-modules/stat-card value="First Issues" label="Premium Items" color="orange" >}}
-Premiere editions of popular magazines often sell for 5-20x the value of subsequent issues
-{{< /data-modules/stat-card >}}
+  {{< data-modules/stat-card value="Content" label="Historical Significance" color="orange" description="Magazines featuring iconic events or personalities command higher prices" />}}
 
 {{< content-modules/section-header title="Most Valuable Magazine Categories" level="2" >}}
 While various types of old magazines can have value, certain categories consistently command higher prices in the collector market.

@@ -88,19 +88,14 @@ The documented history of an artwork's ownership can dramatically affect its val
 
 The physical condition of an artwork significantly impacts its value. Damage, restoration, or alterations can substantially reduce worth, while pieces in pristine condition typically command higher prices. Professional condition reports detail any issues that might affect valuation.
 
-{{< data-modules/stats-highlight 
+{{< data-modules/stats-highlight title="Factors Influencing Artwork Value" columns="3" />}}
+{{< data-modules/stat-card value="Authenticity" label="Artist Confirmation" color="blue" description="Verified works by known artists command highest values" />}}
 
->}}{{< data-modules/stat-card 
+{{< data-modules/stat-card value="Condition" label="Preservation State" color="green" description="Excellent condition significantly increases value" />}}
 
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
+{{< data-modules/stat-card value="Provenance" label="Ownership History" color="orange" description="Documented history adds credibility and value" />}}
 
-0{{< /data-modules/stat-card >}}
-
-1{{< /data-modules/stats-highlight >}}
-
-2
-
-3### Market Demand and Trends
+### Market Demand and Trends
 
 Art values fluctuate with market trends and collector preferences. Some periods, styles, or subject matters become more desirable than others at different times. Current market conditions significantly influence what buyers are willing to pay.
 
@@ -386,19 +381,13 @@ Well-documented works command higher prices:
 
 - **Original receipts or documentation**: Primary source evidence of the work's history.
 
-{{< data-modules/stats-highlight title="Value Premium Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Premium Factors" columns="3" />}}
 
-{{< data-modules/stat-card value="20-50%" label="Museum Exhibition" color="blue" >}}
-Average premium for artworks with major museum exhibition history
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="20-50%" label="Museum Exhibition" color="blue" description="Average premium for artworks with major museum exhibition history" />}}
 
-{{< data-modules/stat-card value="15-40%" label="Celebrity Provenance" color="purple" >}}
-Typical value increase for works previously owned by famous collectors
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="15-40%" label="Celebrity Provenance" color="purple" description="Typical value increase for works previously owned by famous collectors" />}}
 
-{{< data-modules/stat-card value="30-100%" label="Documented Authentication" color="green" >}}
-Value premium for works with comprehensive authentication documentation
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="30-100%" label="Documented Authentication" color="green" description="Value premium for works with comprehensive authentication documentation" />}}
 
 {{< content-modules/section-header title="Common Pitfalls in Artwork Valuation" level="2" >}}
 Avoiding these common mistakes can help you obtain more accurate artwork value estimates and make better-informed decisions about your collection.

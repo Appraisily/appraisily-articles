@@ -79,14 +79,13 @@ Fire starter rocks were primarily used in two distinct ways. First, they served 
 
 According to archaeological research, these artifacts are particularly common in the Midwestern United States and typically date to the Early Archaic period, though they continued to be used for thousands of years across many indigenous cultures.
 
-{{< data-modules/stats-highlight 
->}}{{< data-modules/stat-card 
+{{< data-modules/stats-highlight title="Native American Fire Starter Tools" columns="3" />}}
+{{< data-modules/stat-card value="5,000+" label="Years of Use" color="blue" description="Archaeological evidence of these tools dating back thousands of years" />}}
 
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
-0{{< /data-modules/stat-card >}}
-1{{< /data-modules/stats-highlight >}}
-2
-3
+{{< data-modules/stat-card value="$40-$500" label="Value Range" color="green" description="Typical market prices for authentic fire starter rocks based on quality" />}}
+
+{{< data-modules/stat-card value="1-3in" label="Depression Size" color="orange" description="Common diameter of cup-shaped depressions found in authentic examples" />}}
+
 {{< content-modules/section-header title="How to Identify Authentic Fire Starter Rocks" level="2" >}}
 Distinguishing genuine Native American fire starter rocks from natural stones requires careful observation of specific characteristics. Authentic specimens display distinctive features resulting from human modification and use.
 {{< /content-modules/section-header >}}

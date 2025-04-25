@@ -162,19 +162,19 @@ Farm implements designed to be pulled by tractors vary widely in value, with ear
 - Specialty crop equipment
 - Two-row planters and cultivators
 
-{{< data-modules/stats-highlight title="Antique Farm Equipment Market Facts" columns="3" / />}}
-  {{< data-modules/stat-card value="10-15%" label="Annual Appreciation" color="green" >}}
-    Average appreciation rate for well-maintained rare tractors
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="$250,000+" label="Record Sales" color="blue" >}}
-    Price paid for extremely rare, pristine antique tractors
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="60%" label="Condition Impact" color="orange" >}}
-    Value difference between 'Original/Restored' and 'Poor' condition
-  {{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Key Value Factors for Old Farm Equipment" columns="3" />}}
+{{< data-modules/stat-card value="Condition" label="Operational Status" color="blue" description="Working equipment is significantly more valuable than non-functional pieces" />}}
 
+{{< data-modules/stat-card value="Rarity" label="Production Numbers" color="green" description="Limited production models or unique designs fetch higher prices" />}}
+
+{{< data-modules/stat-card value="Completeness" label="Original Parts" color="orange" description="Equipment with all original components is highly desirable" />}}
+
+{{< data-modules/stats-highlight title="Antique Farm Equipment Market Facts" columns="3" />}}
+  {{< data-modules/stat-card value="10-15%" label="Annual Appreciation" color="green" description="Average appreciation rate for well-maintained rare tractors" />}}
+  
+  {{< data-modules/stat-card value="$250,000+" label="Record Sales" color="blue" description="Price paid for extremely rare, pristine antique tractors" />}}
+  
+  {{< data-modules/stat-card value="60%" label="Condition Impact" color="orange" description="Value difference between 'Original/Restored' and 'Poor' condition" />}}
 
 {{< content-modules/section-header title="Factors That Determine Value" level="2" >}}
   The value of antique farm equipment is influenced by numerous factors beyond just age.

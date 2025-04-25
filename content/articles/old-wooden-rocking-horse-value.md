@@ -63,14 +63,7 @@ Wooden rocking horses have charmed generations of children since the 17th centur
 
 Whether inherited as a family heirloom or discovered at an estate sale, understanding what makes an old wooden rocking horse valuable can be challenging. This comprehensive guide will help you identify valuable antique rocking horses, recognize prestigious makers, and determine realistic market values in today's collector's market.
 
-{{< data-modules/stats-highlight 
->}}{{< data-modules/stat-card 
-
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
-0{{< /data-modules/stat-card >}}
-1{{< /data-modules/stats-highlight >}}
-2
-3{{< content-modules/section-header title="Identifying Authentic Antique Rocking Horses" level="2" >}}
+{{< content-modules/section-header title="Identifying Authentic Antique Rocking Horses" level="2" >}}
 Before assessing value, it's essential to determine if your wooden rocking horse is truly antique. Several key features can help distinguish genuine antiques from modern reproductions.
 {{< /content-modules/section-header >}}
 

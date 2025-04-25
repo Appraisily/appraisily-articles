@@ -67,18 +67,12 @@ Quilts are more than just functional bedcoverings; they're historical artifacts 
 
 When examining an old quilt, you're connecting with a piece of textile history. Quilts from the 1920s or earlier are generally considered antique, while those made between 1930 and 1965 fall into the vintage category. Identifying the pattern is a crucial first step in understanding a quilt's origin, age, and significance.
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Quilts" columns="3" / />}}
-{{< data-modules/stat-card value="1835" label="First Published Pattern" color="blue" >}}
-The honeycomb/hexagon pattern was the first quilt pattern published in an American periodical (Godey's Lady's Book)
-{{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Quilts" columns="3" />}}
+{{< data-modules/stat-card value="1835" label="First Published Pattern" color="blue" description="The honeycomb/hexagon pattern was the first quilt pattern published in an American periodical (Godey's Lady's Book)" />}}
 
-{{< data-modules/stat-card value="1920s" label="Antique Threshold" color="green" >}}
-Quilts made before this decade are generally considered true antiques
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="1920s" label="Antique Threshold" color="green" description="Quilts made before this decade are generally considered true antiques" />}}
 
-{{< data-modules/stat-card value="Mid-1960s" label="Machine Quilting" color="orange" >}}
-Before this period, most quilts were made primarily by hand rather than machine
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="Mid-1960s" label="Machine Quilting" color="orange" description="Before this period, most quilts were made primarily by hand rather than machine" />}}
 
 {{< content-modules/section-header title="Historical Timeline of Quilt Patterns" level="2" >}}
 Understanding the chronological development of quilt patterns provides valuable context for identification. Different eras featured distinct styles, techniques, and design influences that can help narrow down when a particular quilt was created.
@@ -287,6 +281,13 @@ The value of an antique or vintage quilt is determined by a combination of facto
 - Larger quilts (especially king-size) are generally more valuable
 - Unusual or non-standard sizes may affect marketability
 - Crib quilts can be valuable when in excellent condition with fine workmanship
+
+{{< data-modules/stats-highlight title="Key Quilt Valuation Factors" columns="3" />}}
+{{< data-modules/stat-card value="Condition" label="Preservation Quality" color="blue" description="Quilts in excellent, original condition command highest prices" />}}
+
+{{< data-modules/stat-card value="Workmanship" label="Stitching & Design" color="green" description="Fine hand-stitching and complex patterns increase value" />}}
+
+{{< data-modules/stat-card value="Provenance" label="Historical Context" color="orange" description="Documented history significantly boosts quilt value" />}}
 
 {{< content-modules/faq title="Common Questions About Identifying Old Quilts" id="quilt-identification-faq" >}}
   {{< content-modules/faq-item question="Is there an app to identify quilt patterns?" >}}

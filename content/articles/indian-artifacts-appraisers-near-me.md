@@ -66,19 +66,12 @@ Whether you've inherited Native American artifacts, are an active collector, or 
 
 Native American artifacts represent not only significant cultural heritage but can also hold substantial monetary value in today's market. From arrowheads and pottery to textiles and jewelry, these items require specialized knowledge for proper authentication and valuation. Working with a qualified appraiser ensures you receive an accurate assessment based on current market conditions, provenance, and historical significance.
 
-{{< data-modules/stats-highlight title="Indian Artifacts Appraisal Market Insights" columns="3" / />}}
-{{< data-modules/stat-card value="17+" label="ISA Appraisers" color="blue" >}}
-Specializing in American Indigenous Art appraisals nationwide
-{{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Factors Affecting Artifact Value" columns="3" />}}
+{{< data-modules/stat-card value="Authenticity" label="Genuine Verification" color="blue" description="Primary factor determining any artifact's value" />}}
 
-{{< data-modules/stat-card value="$125" label="Average Fee" color="green" >}}
-Typical starting cost for professional single-item appraisals
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="Condition" label="Preservation State" color="green" description="Well-preserved pieces command significantly higher prices" />}}
 
-{{< data-modules/stat-card value="5+" label="Specialties" color="orange" >}}
-Major categories including pottery, textiles, tools, beadwork, and weaponry
-{{< /data-modules/stat-card >}}
-
+{{< data-modules/stat-card value="Rarity" label="Unique Examples" color="orange" description="Less common artifact types are generally more valuable" />}}
 
 ## Why Professional Appraisal Matters
 

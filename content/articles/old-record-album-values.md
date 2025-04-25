@@ -79,19 +79,12 @@ The value of vintage vinyl records depends on several key factors:
 
 According to Victrola's vinyl records value guide, rock n' roll, blues, and jazz records from 1960 to 1970 are generally the most valuable, with prices ranging from $500 to $3,000 for rare specimens in excellent condition.
 
-{{< data-modules/stats-highlight title="Vinyl Record Market Statistics" columns="3" / />}}
-{{< data-modules/stat-card value="$15" label="Average eBay Sale" color="blue" >}}
-Typical price for most second-hand vinyl records
-{{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Vinyl Record Market Statistics" columns="3" />}}
+{{< data-modules/stat-card value="$15" label="Average eBay Sale" color="blue" description="Typical price for most second-hand vinyl records" />}}
 
-{{< data-modules/stat-card value="$500-$700" label="Vintage Jazz Value" color="green" >}}
-Potential worth of early Miles Davis albums from the 1950s-60s
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="$500-$700" label="Vintage Jazz Value" color="green" description="Potential worth of early Miles Davis albums from the 1950s-60s" />}}
 
-{{< data-modules/stat-card value="$100-$200" label="First Pressings" color="orange" >}}
-Typical value range for rare albums and first pressings in good condition
-{{< /data-modules/stat-card >}}
-
+{{< data-modules/stat-card value="$100-$200" label="First Pressings" color="orange" description="Typical value range for rare albums and first pressings in good condition" />}}
 
 {{< content-modules/section-header title="Record Grading: Understanding Condition Ratings" level="2" >}}
 Condition is paramount when determining vinyl record values. The industry uses standardized grading terminology to describe record conditions consistently.

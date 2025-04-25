@@ -170,7 +170,6 @@ Pieces with exceptional characteristics stand out in the market:
 <td>$5,000-$500,000+</td>
 <td>Intricate ceremonial items or high-value jewelry</td>
 </tr>
-</tr>
 <tr>
 <td>Museum-Quality Masterpieces</td>
 <td>$100,000-$1,500,000+</td>
@@ -284,14 +283,6 @@ These significant auction results demonstrate the high-end market:
 </tr>
 {{< /auction-results >}}
 
-{{< data-modules/stats-highlight 
->}}{{< data-modules/stat-card 
-
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
-0{{< /data-modules/stat-card >}}
-1{{< /data-modules/stats-highlight >}}
-2
-3
 {{< content-modules/section-header title="Cultural and Regional Value Differences" level="2" >}}
 Different Pre-Columbian cultures and artistic traditions command varying levels of collector interest and value in today's market.
 {{< /content-modules/section-header >}}

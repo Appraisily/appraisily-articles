@@ -256,14 +256,13 @@ The iconic Cornflower Blue pattern, featuring delicate blue cornflowers, was int
 - **Promotional Items**: Limited edition promotional pieces
 - **Grab-It Bowls**: These handled bowls with Cornflower patterns are particularly collectible
 
-{{< data-modules/stats-highlight 
-  >}}{{< data-modules/stat-card 
+{{< data-modules/stats-highlight title="Factors Influencing CorningWare Value" columns="3" />}}
+{{< data-modules/stat-card value="Rarity" label="Pattern Scarcity" color="blue" description="Less common patterns often command higher prices" />}}
 
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
-  0{{< /data-modules/stat-card >}}
-  1{{< /data-modules/stats-highlight >}}
-  2
-  3
+{{< data-modules/stat-card value="Condition" label="Preservation State" color="green" description="Excellent condition with minimal wear increases value" />}}
+
+{{< data-modules/stat-card value="Completeness" label="Original Lids & Sets" color="orange" description="Pieces with original lids or complete sets are more valuable" />}}
+
 While not as rare as some of the patterns listed earlier, Cornflower Blue remains the most recognizable and consistently collectable CorningWare pattern. Its iconic status in American kitchens has helped maintain its value over time.
 
 {{< content-modules/section-header title="Factors That Influence CorningWare Value" level="2" >}}

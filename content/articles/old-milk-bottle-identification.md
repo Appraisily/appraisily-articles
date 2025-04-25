@@ -214,14 +214,6 @@ The Wisconsin numbering system, described in [The Mysterious Number System](http
 
 > "By at least 1912, Wisconsin required the word 'SEALED' plus the name, initials, or trade mark 'in the side or bottom of the bottle,' along with a number assigned to the specific dairy."
 
-{{< data-modules/stats-highlight 
-  >}}{{< data-modules/stat-card 
-
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
-  0{{< /data-modules/stat-card >}}
-  1{{< /data-modules/stats-highlight >}}
-  2
-  3
 {{< content-modules/section-header title="Color Variations and Their Significance" level="2" id="color-variations-and-their-significance" >}}
 While most milk bottles are clear glass, color variations can provide important clues about age, purpose, and origin.
 {{< /content-modules/section-header >}}

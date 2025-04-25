@@ -121,14 +121,6 @@ At the highest end of the value spectrum are trunks produced by prestigious luxu
 Beyond the basic trunk type, numerous factors influence the market value of an antique trunk. Understanding these elements will help you more accurately assess your trunk's potential worth and make informed decisions about restoration, preservation, or sale.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight 
->}}{{< data-modules/stat-card 
-
->}}$4{{< /data-modules/stat-card >}}$5{{< data-modules/stat-card $6>}}$7{{< /data-modules/stat-card >}}$8{{< data-modules/stat-card $9>}}
-0{{< /data-modules/stat-card >}}
-1{{< /data-modules/stats-highlight >}}
-2
-3
 ### Age and Historical Period
 
 While all antique trunks have historical value, those from certain periods are more coveted by collectors:

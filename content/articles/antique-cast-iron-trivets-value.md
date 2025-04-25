@@ -61,19 +61,12 @@ Antique cast iron trivets have become highly sought-after collectibles, prized f
 
 Today's collectors value these utilitarian objects not just for their original purpose but also as decorative art pieces that showcase the evolution of American cast iron manufacturing. With values ranging from $20 for common designs to over $500 for rare specimens, understanding what makes a trivet valuable is essential for both collectors and sellers.
 
-{{< data-modules/stats-highlight title="Antique Cast Iron Trivet Market Statistics" columns="3">}}
-{{< data-modules/stat-card value="$20-$50" label="Common Trivet Value" color="blue" >}}
-Average price for ordinary antique trivets in good condition
-{{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Antique Cast Iron Trivet Market Statistics" columns="3" />}}
+{{< data-modules/stat-card value="$20-$50" label="Common Trivet Value" color="blue" description="Average price for ordinary antique trivets in good condition" />}}
 
-{{< data-modules/stat-card value="$300-$500+" label="Rare Trivet Value" color="green" >}}
-Price range for rare and unusual antique trivet designs
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="$300-$500+" label="Rare Trivet Value" color="green" description="Price range for rare and unusual antique trivet designs" />}}
 
-{{< data-modules/stat-card value="Pre-1865" label="Most Valuable Era" color="orange" >}}
-Trivets with visible sprue marks indicating early manufacturing
-{{< /data-modules/stat-card >}}
-{{< /data-modules/stats-highlight >}}
+{{< data-modules/stat-card value="Pre-1865" label="Most Valuable Era" color="orange" description="Trivets with visible sprue marks indicating early manufacturing" />}}
 
 {{< content-modules/section-header title="How to Identify Genuine Antique Cast Iron Trivets" level="2" >}}
 Distinguishing authentic antique cast iron trivets from newer reproductions requires attention to specific details. With the market flooded with reproductions as values have risen, knowing the telltale signs of genuine antiques can save collectors from costly mistakes.

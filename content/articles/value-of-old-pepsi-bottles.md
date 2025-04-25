@@ -30,21 +30,12 @@ When determining the value of a vintage Pepsi bottle, several key factors come i
 
 Pepsi bottle values can range dramatically—from a few dollars for common varieties to several thousand for the rarest specimens. A standard 1970s Pepsi bottle might fetch $10-20, while exceptional pre-1940s examples in perfect condition can command prices upwards of $1,000 or more. In exceptional cases, like the recent "holy grail" Pepsi bottle that sold for $9,300, the value comes from extreme rarity and historical significance.
 
-{{< data-modules/stats-highlight title="Key Vintage Pepsi Bottle Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Vintage Pepsi Bottle Value Factors" columns="3" />}}
+{{< data-modules/stat-card value="Age" label="Historical Period" color="blue" description="Generally, bottles from before 1940 are worth significantly more than later examples" />}}
 
-{{< data-modules/stat-card value="Age" label="Historical Period" color="blue" >}}
-Generally, bottles from before 1940 are worth significantly more than later examples
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="Rarity" label="Production Numbers" color="green" description="Limited regional releases, test designs, and short production runs command premium prices" />}}
 
-{{< data-modules/stat-card value="Rarity" label="Production Numbers" color="green" >}}
-Limited regional releases, test designs, and short production runs command premium prices
-{{< /data-modules/stat-card >}}
-
-{{< data-modules/stat-card value="Condition" label="Preservation Quality" color="orange" >}}
-Mint condition bottles with original contents can be worth 5-10x more than damaged examples
-{{< /data-modules/stat-card >}}
-
-
+{{< data-modules/stat-card value="Condition" label="Preservation Quality" color="orange" description="Mint condition bottles with original contents can be worth 5-10x more than damaged examples" />}}
 
 ## Identifying Vintage Pepsi Bottles
 

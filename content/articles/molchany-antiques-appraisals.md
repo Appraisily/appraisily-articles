@@ -81,19 +81,12 @@ Located in the Westside area of Las Vegas, Nevada, Molchany Antiques & Appraisal
 
 As both certified antique appraisers and real estate professionals, the team at Molchany provides comprehensive solutions for clients dealing with inherited property, downsizing, or simply seeking accurate valuations of their treasured items.
 
-{{< data-modules/stats-highlight title="Molchany Antiques & Appraisals at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Molchany Appraisal Highlights" columns="3" />}}
+{{< data-modules/stat-card value="30+" label="Years Experience" color="blue" description="Extensive knowledge in fine art and antiques" />}}
 
-{{< data-modules/stat-card value="2002" label="Established" color="blue" >}}
-  Over 20 years of professional appraisal experience in the antiques industry
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="USPAP" label="Compliance Standard" color="green" description="Adherence to Uniform Standards of Professional Appraisal Practice" />}}
 
-{{< data-modules/stat-card value="4.4/5" label="Customer Rating" color="green" >}}
-  Based on 31 verified customer reviews on Yelp
-{{< /data-modules/stat-card >}}
-
-{{< data-modules/stat-card value="A+" label="BBB Standing" color="orange" >}}
-  Maintaining excellent business standards and customer satisfaction
-{{< /data-modules/stat-card >}}
+{{< data-modules/stat-card value="15+" label="Specialized Areas" color="orange" description="Broad expertise from fine art to historical documents" />}}
 
 {{< content-modules/section-header title="Services Offered" level="2" >}}
   Molchany Antiques & Appraisals provides a comprehensive range of services beyond standard appraisals, including estate liquidation, real estate services, and specialized antique valuations.

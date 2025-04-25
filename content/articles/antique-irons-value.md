@@ -261,19 +261,12 @@ Occasionally, irons were created as presentation pieces, commemorative items, or
 
 Complete collections of miniature irons, particularly those with consistent themes or from specific manufacturers, command premium prices. According to listings on [1stDibs](https://www.1stdibs.com/buy/antique-iron-irons/), collections of seven or more miniature irons can sell for $500-$1,200 depending on quality and rarity.
 
-{{< data-modules/stats-highlight title="Antique Iron Market Statistics" columns="3">}}
-  {{< data-modules/stat-card value="$2,500+" label="Highest Values" color="green" >}}
-    Maximum prices for the rarest patent models and presentation pieces
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="200%" label="Value Increase" color="blue" >}}
-    Approximate value boost for irons with original packaging and instructions
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="$75" label="Average Sad Iron" color="orange" >}}
-    Typical market value for common antique sad irons in good condition
-  {{< /data-modules/stat-card >}}
-{{< /data-modules/stats-highlight >}}
+{{< data-modules/stats-highlight title="Value Factors for Antique Irons" columns="3" />}}
+{{< data-modules/stat-card value="$50-$200+" label="Rare/Unusual Designs" color="blue" description="Unique shapes or complex mechanisms fetch premium prices" />}}
+
+{{< data-modules/stat-card value="$15-$60" label="Common Designs" color="green" description="Standard sad irons, flat irons in good condition" />}}
+
+{{< data-modules/stat-card value="$100-$500+" label="Complete Sets" color="orange" description="Sets with original trivets, handles, or stoves are highly sought after" />}}
 
 {{< content-modules/section-header title="Where to Buy and Sell Antique Irons" level="2" >}}
 The market for antique irons spans various venues, from online platforms to specialty shops and collector events. Understanding where to buy and sell these collectibles can help you find the best values and reach interested buyers.

@@ -183,19 +183,12 @@ For help with identification, [JustAnswer's antiques experts](https://www.justan
 The condition of a vintage Tonka dump truck dramatically impacts its value, with mint examples commanding significant premiums over those with damage or restoration.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Condition Impact on Tonka Value" columns="3"  />}}
-  {{< data-modules/stat-card value="50-80%" label="Value Reduction" color="red" >}}
-    Potential decrease in value for trucks with significant rust, paint loss, or missing parts
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="100-200%" label="Value Premium" color="green" >}}
-    Potential increase for models in mint condition with original paint and decals intact
-  {{< /data-modules/stat-card >}}
-  
-  {{< data-modules/stat-card value="20-40%" label="Box Premium" color="blue" >}}
-    Additional value for trucks that include their original packaging
-  {{< /data-modules/stat-card >}}
+{{< data-modules/stats-highlight title="Key Factors Influencing Tonka Truck Value" columns="3" />}}
+{{< data-modules/stat-card value="Condition" label="Preservation Quality" color="blue" description="Excellent, original condition commands highest prices" />}}
 
+{{< data-modules/stat-card value="Rarity" label="Model Scarcity" color="green" description="Less common models or variations are more valuable" />}}
+
+{{< data-modules/stat-card value="Completeness" label="Original Parts & Box" color="orange" description="Trucks with original packaging and all parts are most desirable" />}}
 
 Collectors evaluate Tonka dump trucks using the following condition categories:
 
