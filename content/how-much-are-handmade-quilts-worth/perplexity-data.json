@@ -1,0 +1,15 @@
+{
+  "keyword": "how much are handmade quilts worth",
+  "content": "<think>\nOkay, I need to tackle this query about the worth of handmade quilts. Let me start by understanding exactly what the user is asking for. They want a comprehensive article covering eight specific aspects, from definitions and historical background to current market trends and care tips. \n\nFirst, I'll review the provided search results to gather relevant information. The search results include sources like YouTube videos, forums,",
+  "usage": {
+    "prompt_tokens": 249,
+    "completion_tokens": 80,
+    "total_tokens": 329,
+    "citation_tokens": 8993,
+    "num_search_queries": 9,
+    "reasoning_tokens": 50485
+  },
+  "model": "sonar-deep-research",
+  "timestamp": "2025-04-26T01:31:19.669Z",
+  "source": "Perplexity API"
+}

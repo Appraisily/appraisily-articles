@@ -1,8 +1,6 @@
 ---
 title: 'Antique Victrola Value Guide: What Your Phonograph Is Worth in 2023'
-description: >-
-  Discover how much your antique Victrola is worth with our comprehensive price
-  guide. Learn about valuation factors, model differences, and where to sell.
+description: Early 20th century phonographs produced by the Victor Talking Machine Company
 slug: how-much-is-an-antique-victrola-worth
 date: 2023-05-30T14:30:00.000Z
 lastmod: 2023-05-30T14:30:00.000Z
@@ -37,8 +35,15 @@ structured_data:
     Discover how much your antique Victrola is worth with our comprehensive
     price guide. Learn about valuation factors, model differences, and where to
     sell your vintage phonograph.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-victrola-worth/how-much-is-an-antique-victrola-worth-image-1_b1SNGYHp1.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-victrola-worth/how-much-is-an-antique-victrola-worth-image-1_b1SNGYHp1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Victor Victrola phonograph with ornate wooden cabinet and brass
+      horn from early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -48,12 +53,110 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-05-30T14:30:00.000Z'
   dateModified: '2023-05-30T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/how-much-is-an-antique-victrola-worth
+  about:
+    '@type': Thing
+    name: Antique Victrola Phonographs
+    description: >-
+      Early 20th century phonographs produced by the Victor Talking Machine
+      Company
+  keywords: >-
+    antique Victrola value, Victor talking machine worth, vintage phonograph
+    prices, Victrola identification guide, rare Victrola models, antique record
+    player appraisal, Victor Victrola collectibles
+  articleSection: Collectibles
+  alternativeHeadline: What Your Phonograph Is Worth in 2023
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-title
+      - .article-content
+  isPartOf:
+    '@type': Blog
+    name: Appraisily Articles
+    url: 'https://articles.appraisily.com'
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .price-table
+'@context': 'https://schema.org'
+'@type': Product
+mainEntity:
+  - '@type': Question
+    name: How much is an antique Victrola worth?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Antique Victrolas have a wide value range depending on several key
+        factors. External-Horn Victor Models range from $500-$6,000, with higher
+        values for rare models and exceptional condition. Victrola Cabinet
+        Models typically sell for $150-$1,650, with average good-condition
+        models selling for around $500. The most common VV-IV Entry Level
+        Victrola is worth $150-$400, while the premium VV-XVI model ranges from
+        $800-$2,000. Rare or unique models can fetch $2,500-$6,000+ for
+        museum-quality or historically significant examples.
+  - '@type': Question
+    name: What factors affect the value of an antique Victrola?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Several key factors determine the value of an antique Victrola
+        phonograph, including the model and type (with external horn models
+        generally being more valuable than cabinet models), condition, rarity,
+        and historical significance.
+name: Antique Victrola Phonograph
+brand:
+  '@type': Brand
+  name: Victor Talking Machine Company
+offers:
+  '@type': AggregateOffer
+  priceCurrency: USD
+  lowPrice: '150'
+  highPrice: '6000'
+  offerCount: '5'
+  offers:
+    - '@type': Offer
+      name: External-Horn Victor Models
+      priceCurrency: USD
+      lowPrice: '500'
+      highPrice: '6000'
+      availability: 'https://schema.org/InStock'
+    - '@type': Offer
+      name: Victrola Cabinet Models
+      priceCurrency: USD
+      lowPrice: '150'
+      highPrice: '1650'
+      availability: 'https://schema.org/InStock'
+    - '@type': Offer
+      name: VV-IV Entry Level Victrola
+      priceCurrency: USD
+      lowPrice: '150'
+      highPrice: '400'
+      availability: 'https://schema.org/InStock'
+    - '@type': Offer
+      name: VV-XVI Premium Victrola
+      priceCurrency: USD
+      lowPrice: '800'
+      highPrice: '2000'
+      availability: 'https://schema.org/InStock'
+    - '@type': Offer
+      name: Rare or Unique Models
+      priceCurrency: USD
+      lowPrice: '2500'
+      highPrice: '6000'
+      availability: 'https://schema.org/InStock'
+image:
+  - >-
+    https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-victrola-worth/how-much-is-an-antique-victrola-worth-image-1_b1SNGYHp1.png
+  - >-
+    https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-victrola-worth/how-much-is-an-antique-victrola-worth-image-2_sGcsgJjhE.png
 ---
 
 ## Introduction to Antique Victrola Phonographs

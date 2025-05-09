@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify, date, and value old bricks through size, texture,
     markings, and other key characteristics with our comprehensive guide for
     collectors and homeowners.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identifying-old-bricks/identifying-old-bricks-image-1_g35M6y8iP.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identifying-old-bricks/identifying-old-bricks-image-1_g35M6y8iP.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique bricks displaying various maker's marks, textures,
+      and historical manufacturing characteristics
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,14 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/identifying-old-bricks'
+  keywords:
+    - identifying old bricks
+    - antique brick identification
+    - historic brick value
+    - brick maker's marks
+    - dating antique bricks
+    - vintage brick authentication
+    - architectural salvage bricks
 ---
 
 ![Row of antique bricks showing various textures, colors and maker's marks](https://ik.imagekit.io/appraisily/SEO/identifying-old-bricks/identifying-old-bricks-image-1_g35M6y8iP.png)

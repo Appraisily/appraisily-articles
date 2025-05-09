@@ -39,8 +39,6 @@ structured_data:
     Discover the true value of old Schwinn bikes with our comprehensive guide.
     Learn identification tips, pricing factors, and how to maximize your vintage
     Schwinn's worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-schwinn-bikes-value/old-schwinn-bikes-value-image-1_qE3iZ9Y5h0.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,76 @@ structured_data:
   datePublished: '2024-05-16T14:30:00.000Z'
   dateModified: '2024-05-16T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-schwinn-bikes-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-schwinn-bikes-value/old-schwinn-bikes-value-image-1_qE3iZ9Y5h0.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage red Schwinn bicycle from the 1960s in excellent original condition
+      with chrome accessories
+  about:
+    '@type': Thing
+    name: Vintage Schwinn Bicycles
+    description: >-
+      Classic American bicycles manufactured by the Schwinn Bicycle Company,
+      known for their quality, design, and collectible value.
+  keywords:
+    - old Schwinn bikes value
+    - vintage Schwinn bicycle prices
+    - Schwinn Stingray worth
+    - classic Schwinn identification
+    - collectible Schwinn models
+    - antique bicycle appraisal
+    - Schwinn restoration value
+  mentions:
+    - '@type': Thing
+      name: Ignaz Schwinn
+      description: Founder of the Schwinn Bicycle Company in 1895
+    - '@type': Thing
+      name: Schwinn Sting-Ray
+      description: Iconic Schwinn bicycle model with banana seat and high-rise handlebars
+    - '@type': Thing
+      name: Schwinn Phantom
+      description: Classic Schwinn bicycle model from the Golden Age period
+    - '@type': Thing
+      name: Schwinn Aerocycle
+      description: Rare vintage Schwinn bicycle model
+    - '@type': Thing
+      name: Schwinn Autocycle
+      description: Collectible Schwinn bicycle model from the pre-war era
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors affect the value of vintage Schwinn bicycles?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of vintage Schwinn bikes varies dramatically based on
+            several key factors: model, condition, rarity, and historical
+            significance. While some common models in average condition might
+            fetch only $100-200, rare and pristine examples can command
+            thousands of dollars from serious collectors.
+      - '@type': Question
+        name: When was the Schwinn Bicycle Company founded?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The Schwinn Bicycle Company was founded in 1895 by Ignaz Schwinn in
+            Chicago, establishing itself as one of the most iconic bike
+            manufacturers in the United States.
+      - '@type': Question
+        name: Which era of Schwinn bicycles is considered the most valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The Golden Age (1930s-1950s) when Schwinn introduced iconic models
+            like the Aerocycle, Phantom, and Autocycle is generally considered
+            the most valuable period. These pre-war and immediate post-war
+            models are among the most valuable vintage Schwinns today.
 ---
 
 ## Introduction to Vintage Schwinn Bicycles

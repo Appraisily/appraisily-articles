@@ -48,13 +48,31 @@ structured_data:
     url: 'https://www.appraisily.com/'
   datePublished: '2023-10-20T14:30:00.000Z'
   dateModified: '2023-10-20T14:30:00.000Z'
-  image: 'https://www.appraisily.com/images/antique-toy-guns-collection.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://www.appraisily.com/images/antique-toy-guns-collection.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage cap guns including rare Kilgore, Nichols, and
+      Western-style toy pistols from the golden age of toy firearms
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-toy-guns-value'
+  keywords:
+    - antique toy guns value
+    - vintage cap guns worth
+    - collectible western toy pistols
+    - Kilgore cap gun prices
+    - Nichols Stallion value
+    - rare toy firearms
+    - post-war toy gun collecting
 ---
 
 ## Introduction to Antique Toy Guns

@@ -27,6 +27,79 @@ keywords:
   - worth
   - price guide
   - how much
+structured_data:
+  '@context': 'https://schema.org'
+  '@graph':
+    - '@type': Article
+      headline: >-
+        Value Of Old High School Class Rings: Expert Guide to Value and
+        Identification
+      description: >-
+        Comprehensive guide to understanding and valuing
+        value-of-old-high-school-class-rings. Learn about identification,
+        pricing factors, and where to sell.
+      author:
+        '@type': Organization
+        name: Appraisily Team
+      publisher:
+        '@type': Organization
+        name: Appraisily
+        logo:
+          '@type': ImageObject
+          url: 'https://articles.appraisily.com/logo.png'
+          width: '600'
+          height: '60'
+      datePublished: '2025-03-29T14:30:00.000Z'
+      dateModified: '2025-03-29T14:30:00.000Z'
+      mainEntityOfPage:
+        '@type': WebPage
+        '@id': >-
+          https://articles.appraisily.com/articles/value-of-old-high-school-class-rings
+      image:
+        '@type': ImageObject
+        url: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+        width: '1200'
+        height: '630'
+        caption: >-
+          Detailed photograph showing item evaluation process for old high
+          school class rings
+      keywords: 'appraisal, value, collectible, antique, worth, price guide, how much'
+    - '@type': FAQPage
+      mainEntity:
+        - '@type': Question
+          name: What factors affect the value of old high school class rings?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              Factors that affect the value of old high school class rings
+              include the metal type, presence of gemstones, historical
+              significance, age, condition, and brand or manufacturer.
+        - '@type': Question
+          name: Where can I buy and sell old high school class rings?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              Old high school class rings can be bought and sold through
+              specialized antique dealers, online marketplaces like eBay or
+              Etsy, auction houses, estate sales, and dedicated jewelry buyers.
+    - '@type': HowTo
+      name: How to Identify Authentic Old High School Class Rings
+      step:
+        - '@type': HowToStep
+          name: Check for maker's marks
+          text: >-
+            Look for manufacturer hallmarks or stamps inside the ring band to
+            identify the maker.
+        - '@type': HowToStep
+          name: Examine the metal composition
+          text: >-
+            Determine if the ring is made of gold, silver, or other materials by
+            checking for karat markings.
+        - '@type': HowToStep
+          name: Verify the school and graduation year
+          text: >-
+            Confirm the school name and graduation year engraved on the ring
+            match historical records.
 ---
 
 ## Introduction to value-of-old-high-school-class-rings

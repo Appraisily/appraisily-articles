@@ -42,8 +42,15 @@ structured_data:
     Discover the real value of antique Duraglas bottles with our comprehensive
     guide covering identification marks, valuation factors, price ranges, and
     expert collecting tips.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-duraglas-bottles-value/antique-duraglas-bottles-value-image-1_DhyAR_Wyw.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-duraglas-bottles-value/antique-duraglas-bottles-value-image-1_DhyAR_Wyw.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Duraglas bottles collection from Owens-Illinois Glass Company
+      showing different colors, shapes and embossed markings
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,21 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-09-01T14:30:00.000Z'
   dateModified: '2023-09-01T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Antique Duraglas Bottles
+    description: >-
+      Glass bottles manufactured by Owens-Illinois Glass Company from 1940
+      through the early 1960s featuring the Duraglas treatment process for
+      increased durability and scratch resistance.
+  keywords:
+    - antique Duraglas bottles value
+    - Owens-Illinois glass collectibles
+    - vintage Duraglas identification
+    - Duraglas bottle price guide
+    - collectible glass bottles
+    - Duraglas manufacturing marks
+    - rare Duraglas bottle types
 ---
 
 ## Introduction to Antique Duraglas Bottles

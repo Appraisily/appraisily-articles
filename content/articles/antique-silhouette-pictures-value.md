@@ -44,8 +44,14 @@ structured_data:
     centuries, including identification techniques, price factors, and market
     trends for collectors and sellers.
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/antique-silhouette-pictures-value/antique-silhouette-pictures-value-image-1_NPwoEorHY.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare 18th century framed black silhouette portrait showing detailed
+      Georgian profile
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,9 +61,47 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
-  datePublished: '2023-10-20'
-  dateModified: '2023-10-20'
+  datePublished: '2023-10-20T14:30:00.000Z'
+  dateModified: '2023-10-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-silhouette-pictures-value'
+  keywords:
+    - antique silhouette pictures value
+    - 18th century silhouette portraits
+    - Victorian silhouette values
+    - collectible profile portraits
+    - silhouette identification guide
+    - rare signed silhouettes
+    - antique shadow portraits
+  about:
+    '@type': Thing
+    name: Antique Silhouette Pictures
+    description: >-
+      18th and 19th century portrait art form featuring black profiles against
+      light backgrounds
+  timeRequired: PT10M
+  articleSection: Decorative Arts
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the value range of antique silhouette pictures?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique silhouette pictures range in value from under $100 for
+            common Victorian examples to several thousand dollars for rare,
+            signed pieces by renowned artists like John Miers and Auguste
+            Edouart.
+      - '@type': Question
+        name: When were silhouette portraits most popular?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Silhouette portraiture emerged in the mid-18th century and reached
+            peak popularity in the early 19th century (1770s-1830s), which is
+            considered the Golden Age of silhouettes. They experienced a revival
+            during the Victorian era (1860s-1900s).
 ---
 
 # Antique Silhouette Pictures Value: Collector's Guide

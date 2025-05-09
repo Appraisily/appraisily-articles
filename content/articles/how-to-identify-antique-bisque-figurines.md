@@ -40,8 +40,15 @@ structured_data:
     Learn how to identify genuine antique bisque figurines with our expert guide
     covering markings, texture, characteristics, and value indicators for
     collectors and enthusiasts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-bisque-figurines/how-to-identify-antique-bisque-figurines-image-1_VDt1xoLQ8O.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-bisque-figurines/how-to-identify-antique-bisque-figurines-image-1_VDt1xoLQ8O.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic antique bisque figurines displaying various period styles,
+      markings and characteristic matte finishes
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,32 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/how-to-identify-antique-bisque-figurines
+  about:
+    '@type': Thing
+    name: Antique Bisque Figurines
+    description: >-
+      Unglazed porcelain figurines primarily produced in the late 19th and early
+      20th centuries in Germany and France
+  keywords: >-
+    antique bisque figurine identification, bisque doll authentication, antique
+    porcelain figurine markings
+  articleSection: Figurines & Dolls
+  HowTo:
+    '@type': HowTo
+    name: How to Identify Antique Bisque Figurines
+    description: >-
+      A step-by-step guide to authenticating antique bisque figurines through
+      material, markings, and characteristics
+    step:
+      - '@type': HowToStep
+        name: Examine the Bisque Material
+        text: >-
+          Check for unglazed surface with a matte, somewhat grainy texture.
+          Authentic bisque is slightly porous with a subtle, sandy feel when
+          touched. Look for warm, slightly off-white tone rather than bright
+          white, and some translucency when held up to light in thin areas.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-bisque-figurines/how-to-identify-antique-bisque-figurines-image-3_-3BaZ0tei.png
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Bisque Figurines" level="2" >}}

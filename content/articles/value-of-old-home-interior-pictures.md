@@ -39,8 +39,6 @@ structured_data:
     Discover the worth of vintage Home Interior pictures. Learn to identify
     valuable pieces, current market prices, and where to sell these nostalgic
     collectibles from the 1970s through early 2000s.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-home-interior-pictures/value-of-old-home-interior-pictures-image-1_DRJGA9A6F.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +48,49 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/img/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-09-15T14:30:00.000Z'
   dateModified: '2023-09-15T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-home-interior-pictures/value-of-old-home-interior-pictures-image-1_DRJGA9A6F.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage Home Interior pictures showing nostalgic home decor
+      from the 1970s-1990s era
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://articles.appraisily.com/articles/value-of-old-home-interior-pictures
+  keywords:
+    - home interior pictures value
+    - vintage homco wall art
+    - home interiors and gifts collectibles
+    - 1970s home interior pictures worth
+    - nostalgic home decor collectibles
+    - home interior prints valuation
+    - retired home interior pieces
+  articleSection: Collectibles
+'@graph':
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the history of Home Interiors and Gifts?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Home Interiors and Gifts was founded in 1957 by Mary Crowley in
+            Dallas, Texas. The company utilized a direct sales model, with
+            representatives (often called "decorating consultants") hosting home
+            parties to sell their merchandise. At its peak in the 1990s, the
+            company had over 35,000 representatives nationwide and annual sales
+            exceeding $850 million. After changing hands several times and
+            filing for bankruptcy, Home Interiors merged with Celebrating Home
+            in 2008, effectively ending the original brand.
 ---
 
 ![Collection of vintage Home Interior pictures showing nostalgic home decor from the 1970s-1990s](https://ik.imagekit.io/appraisily/SEO/value-of-old-home-interior-pictures/value-of-old-home-interior-pictures-image-1_DRJGA9A6F.png)

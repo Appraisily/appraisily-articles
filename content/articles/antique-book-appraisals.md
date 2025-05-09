@@ -40,8 +40,14 @@ structured_data:
     on antique book appraisals, covering key factors that affect value, where to
     get books appraised, and tips for collectors.
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/antique-book-appraisals/antique-book-appraisals-image-1_J22lT3gRX.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining a rare antique book with white gloves and
+      magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,9 +57,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-06-16T14:30:00.000Z'
   dateModified: '2024-06-16T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-book-appraisals'
+  keywords:
+    - antique book appraisals
+    - rare book valuation
+    - book collection value
+    - first edition book worth
+    - professional book appraisal
+    - literary collectibles
+    - vintage book authentication
 ---
 
 {{< content-modules/section-header title="Understanding Antique Book Appraisals" level="2" >}}

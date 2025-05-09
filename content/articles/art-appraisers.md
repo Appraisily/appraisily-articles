@@ -39,8 +39,15 @@ structured_data:
     Discover everything you need to know about art appraisers - how to find
     qualified professionals, what they cost, and why proper fine art valuation
     matters for collectors and institutions.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-appraisers/art-appraisers-image-1_Vpichmb5wX.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-appraisers/art-appraisers-image-1_Vpichmb5wX.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser meticulously examining fine art painting with
+      specialized equipment
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-10-30T14:30:00.000Z'
   dateModified: '2023-10-30T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/art-appraisers'
+  keywords:
+    - art appraisers
+    - fine art valuation
+    - professional art appraisal
+    - artwork value assessment
+    - certified art appraiser
+    - art authentication services
+    - art insurance appraisal
 ---
 
 {{< content-modules/section-header title="Understanding Art Appraisers" level="2" >}}

@@ -43,8 +43,15 @@ structured_data:
     Learn how to accurately appraise your classic car with our comprehensive
     guide covering valuation factors, professional appraisal services, and
     trusted resources for determining collector car values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-car-appraisal/old-car-appraisal-image-1_wrvTUmXws.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-car-appraisal/old-car-appraisal-image-1_wrvTUmXws.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage red classic car being evaluated by a professional appraiser for
+      valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,42 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-car-appraisal'
+  about:
+    '@type': Thing
+    name: Classic Car Appraisal
+    description: >-
+      Professional valuation of vintage and collector automobiles to determine
+      their market worth
+  keywords: >-
+    classic car appraisal, vintage vehicle valuation, collector car worth,
+    antique automobile value
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why do classic car appraisals matter?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Classic car appraisals matter because they provide documentation for
+            insurance coverage, help establish fair market value for sales or
+            purchases, and can be essential for estate planning or tax purposes.
+            They also serve important purposes for insurance documentation,
+            purchase or sale validation, estate and tax planning, damage claims,
+            and divorce or legal settlements.
+      - '@type': Question
+        name: What factors affect classic car value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Multiple elements influence the appraisal value of a vintage
+            vehicle, with originality and authenticity being among the most
+            important factors. Vehicles with original factory parts, paint, and
+            interiors typically command higher values than those with
+            aftermarket modifications or non-original components.
+            Numbers-matching components are particularly important for
+            valuation.
 ---
 
 ![A vintage red classic car being appraised by a professional](https://ik.imagekit.io/appraisily/SEO/old-car-appraisal/old-car-appraisal-image-1_wrvTUmXws.png)

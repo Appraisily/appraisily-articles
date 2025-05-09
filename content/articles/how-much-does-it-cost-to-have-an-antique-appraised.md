@@ -40,8 +40,15 @@ structured_data:
     Discover what determines antique appraisal costs, from hourly rates to flat
     fees. Learn when appraisals are worth the investment and how to find
     affordable options.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-does-it-cost-to-have-an-antique-appraised/how-much-does-it-cost-to-have-an-antique-appraised-image-1_4QPklMFfH.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-much-does-it-cost-to-have-an-antique-appraised/how-much-does-it-cost-to-have-an-antique-appraised-image-1_4QPklMFfH.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining antique vase with magnifying glass and
+      wearing white gloves
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,7 +62,49 @@ structured_data:
   dateModified: '2024-07-11T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
-    '@id': 'https://appraisily.com/how-much-does-it-cost-to-have-an-antique-appraised/'
+    '@id': >-
+      https://articles.appraisily.com/articles/how-much-does-it-cost-to-have-an-antique-appraised
+  articleSection: Appraisals
+  keywords:
+    - antique appraisal cost
+    - professional appraisal fees
+    - antique valuation pricing
+    - how much do appraisers charge
+    - affordable antique appraisal
+    - antique authentication cost
+    - appraisal fee structures
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What are the common antique appraisal fee structures?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Antique appraisal services typically charge using one of three methods:
+        hourly rates (typically $150-$300 per hour), flat fees per item (ranging
+        from $150-$1,000+ depending on complexity), or percentage-based fees
+        (typically between 1% and 10% of the item's value, more common with
+        insurance appraisals or extremely high-value items).
+  - '@type': Question
+    name: How much do appraisers charge per hour?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Most professional appraisers charge by the hour, with rates typically
+        ranging from $150 to $300 per hour. Established appraisers with
+        specialized expertise or those affiliated with major auction houses may
+        charge up to $350 per hour.
+  - '@type': Question
+    name: What are the typical flat fees for antique appraisals?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        For standard items (common antiques with readily available comparables),
+        expect to pay $150-$250. Complex items (rare or unusual pieces requiring
+        extensive research) typically cost $250-$400. High-value items
+        (potentially valuable or museum-quality pieces) can cost $400-$1,000 or
+        more.
 ---
 
 # Antique Appraisal Costs: What You Should Expect to Pay

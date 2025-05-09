@@ -39,8 +39,6 @@ structured_data:
     Discover the value of old irons with our comprehensive guide covering sad
     irons, pressing irons, and vintage collectibles. Learn identification tips,
     pricing factors, and where to sell.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-irons-value/old-irons-value-image-1_uuUS6GE1H.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +48,79 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
-  datePublished: '2024-07-18'
-  dateModified: '2024-07-18'
+  datePublished: '2024-07-18T14:30:00.000Z'
+  dateModified: '2024-07-18T14:30:00.000Z'
   mainEntityOfPage: 'https://appraisily.com/old-irons-value/'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-irons-value/old-irons-value-image-1_uuUS6GE1H.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage and antique sad irons showing different styles and
+      manufacturers
+  keywords:
+    - antique iron values
+    - old sad iron worth
+    - vintage pressing iron prices
+    - antique flat iron identification
+    - collectible irons
+    - antique laundry tools
+    - sad iron collectors guide
+  about:
+    '@type': Thing
+    name: Antique Irons
+    description: >-
+      Historical household pressing implements including sad irons, flat irons,
+      and smoothing irons used before electric appliances
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Are Antique Irons?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique irons, also known as sad irons, flat irons, or smoothing
+            irons, are historical cast iron pressing implements used before
+            electric appliances. The term "sad iron" comes from an Old English
+            word meaning "solid," aptly describing these weighty tools. Before
+            electricity, these solid metal implements were heated on stoves or
+            in fires before pressing wrinkles from clothing and linens.
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: 'Pre-1800s: Early Iron Age'
+      description: >-
+        Simple solid cast iron blocks with handles, heated directly in fires or
+        on stoves, known as flat irons or sad irons.
+    - '@type': ListItem
+      position: 2
+      name: '1800-1870: Innovation Period'
+      description: >-
+        Introduction of specialized designs including slug irons (with removable
+        heating elements), charcoal irons (with internal heating), and fluting
+        irons for ruffles and pleats.
+    - '@type': ListItem
+      position: 3
+      name: '1870-1900: Golden Age'
+      description: >-
+        Peak production with numerous patents and manufacturers creating irons
+        with detachable handles, elaborate designs, and specialized functions.
+    - '@type': ListItem
+      position: 4
+      name: '1900-1930: Transition Era'
+      description: >-
+        Introduction of early electric irons while traditional sad irons
+        continued in use, especially in rural areas without electricity.
+    - '@type': ListItem
+      position: 5
+      name: '1930s onwards: Modern Era'
+      description: >-
+        Traditional sad irons gradually replaced by electric models; old irons
+        become collectibles.
 ---
 
 Before electric appliances transformed household chores, laundry day relied on cast iron pressing implements known as sad irons, flat irons, or smoothing irons. Today, these historical artifacts have become sought-after collectibles, with values ranging from a few dollars to several hundred depending on rarity, condition, and historical significance.

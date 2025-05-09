@@ -46,14 +46,34 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-12T14:30:00.000Z'
   dateModified: '2023-07-12T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-pepsi-machine/value-of-old-pepsi-machine-image-1_QgUEF8k75.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-pepsi-machine/value-of-old-pepsi-machine-image-1_QgUEF8k75.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      A fully restored 1960s Vendorlator Pepsi vending machine - a prized
+      collectible that can be worth $2,000-$4,000 in excellent condition
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/value-of-old-pepsi-machine'
+  about:
+    '@type': Thing
+    name: Vintage Pepsi Vending Machines
+    description: >-
+      Collectible soda vending machines from the 1950s-1970s manufactured by
+      companies like Vendo and Vendorlator
+  keywords: >-
+    old Pepsi machine value, vintage Pepsi vending machine prices, Vendorlator
+    Pepsi machine worth, collectible soda machines, 1950s Pepsi machine value,
+    Vendo 81 Pepsi value, antique vending machine appraisal
 ---
 
 Vintage Pepsi machines have become highly sought-after collectibles, appealing to both soda memorabilia enthusiasts and retro interior designers. These nostalgic vending machines that once dispensed ice-cold Pepsi for a dime or quarter can now command thousands of dollars in today's collectibles market. Whether you've discovered an old Pepsi machine in a garage, inherited one, or are looking to invest in this unique piece of Americana, understanding its value is essential.

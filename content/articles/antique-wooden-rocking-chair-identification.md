@@ -43,8 +43,6 @@ structured_data:
     Learn how to identify, date, and value antique wooden rocking chairs with
     our expert guide to styles, makers' marks, wood types, and key historical
     periods.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-wooden-rocking-chair-identification/antique-wooden-rocking-chair-identification-image-1_8-dI0q90l.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -60,6 +58,27 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-wooden-rocking-chair-identification
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-wooden-rocking-chair-identification/antique-wooden-rocking-chair-identification-image-1_8-dI0q90l.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian-era wooden rocking chair with ornate spindle back and curved
+      runners showing patina of age
+  about:
+    '@type': Thing
+    name: Antique Wooden Rocking Chairs
+    description: >-
+      Historical wooden rocking chairs from the 1700s through the early 20th
+      century, including various styles like Windsor, Shaker, and Victorian
+      designs.
+  keywords: >-
+    antique wooden rocking chair identification, vintage rocking chair values,
+    how to date antique rockers, antique chair makers marks, wooden rocking
+    chair styles, 19th century rocking chairs, furniture authentication
+    techniques
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Wooden Rocking Chairs" level="2" >}}

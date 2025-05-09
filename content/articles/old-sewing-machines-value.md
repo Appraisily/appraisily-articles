@@ -38,8 +38,6 @@ structured_data:
     Discover the true value of your antique sewing machine with our
     comprehensive guide on old sewing machine values, identification, and
     selling tips for vintage Singer, treadle, and collectible models.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-sewing-machines-value/old-sewing-machines-value-image-1_0teIhfPw0.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +49,43 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-10-26T14:30:00.000Z'
   dateModified: '2023-10-26T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-sewing-machines-value/old-sewing-machines-value-image-1_0teIhfPw0.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Singer sewing machine with ornate cast iron details and wooden
+      cabinet base
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-sewing-machines-value'
+  keywords:
+    - old sewing machine value
+    - antique Singer sewing machine worth
+    - vintage sewing machine identification
+    - treadle sewing machine values
+    - collectible sewing machines
+    - sewing machine appraisal
+    - rare Singer models
+  articleSection: Antiques
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the difference between antique and vintage sewing machines?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique sewing machines are generally considered to be machines
+            manufactured before 1900, including early hand-crank models, the
+            first treadle machines, and many ornate cast-iron models from the
+            Victorian era. Vintage sewing machines typically refer to machines
+            produced between 1900 and 1970, encompassing early electric models,
+            Art Deco designs from the 1930s-40s, and many popular mid-century
+            machines.
 ---
 
 ![Antique Singer sewing machine with ornate designs on a wooden cabinet](https://ik.imagekit.io/appraisily/SEO/old-sewing-machines-value/old-sewing-machines-value-image-1_0teIhfPw0.png)

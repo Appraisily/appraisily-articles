@@ -39,8 +39,6 @@ structured_data:
     Discover how to determine antique cash register values, from ornate brass
     National models to vintage registers by other makers. Includes price ranges,
     identification tips, and collector resources.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cash-register-value/antique-cash-register-value-image-1_USv6sLje6f.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,41 @@ structured_data:
   datePublished: '2023-06-11T14:30:00.000Z'
   dateModified: '2023-06-11T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-cash-register-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cash-register-value/antique-cash-register-value-image-1_USv6sLje6f.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate brass National Cash Register from early 1900s with intricate
+      decorative detailing and original keys
+  keywords:
+    - antique cash register value
+    - National Cash Register worth
+    - vintage NCR register prices
+    - brass cash register identification
+    - collectible cash register pricing
+    - antique till valuation
+    - rare cash register models
+  articleSection: Antiques
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors determine the value of an antique cash register?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique cash register is determined by several key
+            factors: manufacturer and brand prestige (with National Cash
+            Register/NCR models typically commanding the highest prices), age
+            and historical significance (registers from 1880s-1920s tend to be
+            more valuable), and material and construction (brass registers with
+            ornate detailing are typically the most valuable). Values can range
+            from $100 for basic models in poor condition to over $5,000 for
+            rare, ornate brass examples.
 ---
 
 ![Ornate brass National Cash Register with intricate detailing and keys](https://ik.imagekit.io/appraisily/SEO/antique-cash-register-value/antique-cash-register-value-image-1_USv6sLje6f.png)

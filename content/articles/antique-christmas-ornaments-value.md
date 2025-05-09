@@ -39,22 +39,56 @@ structured_data:
     Discover what makes vintage Christmas ornaments valuable and how to identify
     collectible holiday decorations worth money with our comprehensive price
     guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-christmas-ornaments-value/antique-christmas-ornaments-value-image-1_flqCgVJ0g.png
-  datePublished: '2024-10-18T14:30:00.000Z'
-  dateModified: '2024-10-18T14:30:00.000Z'
   author:
     '@type': Organization
     name: Appraisily Team
+  datePublished: '2024-10-18T14:30:00.000Z'
+  dateModified: '2024-10-18T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-christmas-ornaments-value/antique-christmas-ornaments-value-image-1_flqCgVJ0g.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable antique glass Christmas ornaments from Germany and other
+      collectible holiday decorations
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-christmas-ornaments-value'
+  keywords:
+    - antique Christmas ornaments value
+    - vintage Christmas decorations worth money
+    - collectible Christmas ornaments
+    - German glass ornaments value
+    - rare Christmas decorations
+    - antique holiday collectibles
+    - Christmas ornament price guide
+  about:
+    '@type': Thing
+    name: Antique Christmas Ornaments
+    description: >-
+      Collectible holiday decorations from the past that have historical and
+      monetary value
+  mentions:
+    - '@type': Thing
+      name: German Blown Glass Ornaments
+      description: >-
+        Handcrafted Christmas ornaments from Germany dating from the mid-1800s
+        through early 1900s
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
+  inLanguage: en-US
 ---
 
 ![Collection of valuable antique Christmas glass ornaments and decorations](https://ik.imagekit.io/appraisily/SEO/antique-christmas-ornaments-value/antique-christmas-ornaments-value-image-1_flqCgVJ0g.png)

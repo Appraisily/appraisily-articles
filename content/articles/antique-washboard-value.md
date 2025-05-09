@@ -43,8 +43,6 @@ structured_data:
     Discover what your antique washboard is worth with our detailed value guide.
     Learn about price factors, types, and how to identify valuable vintage
     washboards.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-washboard-value/antique-washboard-value-image-1_1EurhphZx.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +54,42 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-08-30T14:30:00.000Z'
   dateModified: '2023-08-30T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-washboard-value/antique-washboard-value-image-1_1EurhphZx.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique washboards featuring glass, wooden, and
+      metal varieties from different manufacturers
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-washboard-value'
+  keywords:
+    - antique washboard value
+    - vintage washboard prices
+    - glass washboard identification
+    - National Washboard Company collectibles
+    - wooden washboard worth
+    - metal washboard values
+    - antique laundry collectibles
+  about:
+    '@type': Thing
+    name: Antique Washboards
+    description: >-
+      Historical laundry implements used before electric washing machines, now
+      collected for their historical significance and decorative appeal.
+  mentions:
+    - '@type': Thing
+      name: National Washboard Company
+    - '@type': Thing
+      name: Glass Washboards
+    - '@type': Thing
+      name: Wooden Washboards
+    - '@type': Thing
+      name: Metal Washboards
+  temporalCoverage: 1797/1950
 ---
 
 From practical household tool to sought-after collectible, antique washboards have enjoyed a renaissance in popularity among collectors of vintage Americana. These humble laundry implements, once a staple in homes across America, now command interest for their historical significance, craftsmanship, and decorative appeal.

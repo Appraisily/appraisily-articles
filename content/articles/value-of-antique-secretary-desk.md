@@ -39,8 +39,15 @@ structured_data:
     Discover what influences antique secretary desk values, from period styles
     to condition. Learn typical price ranges and how to spot valuable features
     in this comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-secretary-desk/value-of-antique-secretary-desk-image-1__LZ4dgLIo.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-secretary-desk/value-of-antique-secretary-desk-image-1__LZ4dgLIo.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique mahogany secretary desk with drop front and bookcase top showing
+      classic 19th century craftsmanship
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,43 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-07-24T14:30:00.000Z'
   dateModified: '2024-07-24T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/value-of-antique-secretary-desk'
+  about:
+    '@type': Thing
+    name: Antique Secretary Desk
+  keywords:
+    - antique secretary desk value
+    - antique desk appraisal
+    - vintage secretary desk worth
+    - antique drop front desk prices
+    - secretary bookcase value
+    - antique furniture valuation
+    - 19th century secretary desk
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Is An Antique Secretary Desk?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A secretary desk, also known as a escritoire or bureau, originated
+            in the 17th century as an evolution of the writing desk. The
+            defining feature is a hinged writing surface that folds down or
+            pulls out to create a workspace, often revealing small drawers and
+            compartments designed for organizing correspondence and writing
+            implements. Most secretary desks include additional storage drawers
+            below and frequently feature a bookcase or display cabinet above.
+            Secretary desks come in several primary variations: drop-front
+            secretary, cylinder or roll-top secretary, secretary bookcase
+            (secretary desk with hutch), and secretary cabinet.
 ---
 
 Antique secretary desks remain among the most elegant and functional pieces of vintage furniture, combining sophisticated craftsmanship with practical utility. These versatile pieces have graced homes for centuries, evolving from simple writing surfaces to elaborate cabinets that showcase exquisite woodworking and design sensibilities of their respective eras.

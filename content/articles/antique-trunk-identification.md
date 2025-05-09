@@ -43,8 +43,15 @@ structured_data:
     Learn how to identify and value antique trunks with our expert guide.
     Discover key features, historical styles, and what makes a trunk valuable in
     today's market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-trunk-identification/antique-trunk-identification-image-1_n12M1sFTU.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-trunk-identification/antique-trunk-identification-image-1_n12M1sFTU.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique steamer trunk with original brass hardware, leather straps, and
+      patinated wood from the Victorian era
   author:
     '@type': Organization
     name: Appraisily Team

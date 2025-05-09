@@ -43,8 +43,15 @@ structured_data:
     Learn how to identify and value antique and vintage vises with our
     comprehensive guide covering maker marks, dating methods, and value factors
     for old bench vises.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-vise-identification/old-vise-identification-image-1_W4Y4iyQsn.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-vise-identification/old-vise-identification-image-1_W4Y4iyQsn.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique bench vise with visible patina and manufacturer markings for
+      identification
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,12 @@ structured_data:
       url: 'https://appraisily.com/images/logo.png'
   datePublished: '2023-08-08T14:30:00.000Z'
   dateModified: '2023-08-08T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-vise-identification'
+  keywords: >-
+    old vise identification, antique bench vise value, vintage vise makers,
+    Wilton vise dating, collectible workshop tools, vise maker marks, antique
+    tool appraisal
+  articleSection: Workshop Tools
 ---
 
 {{< content-modules/section-header title="Introduction to Vintage Vise Identification" level="2" >}}

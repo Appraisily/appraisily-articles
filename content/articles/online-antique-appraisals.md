@@ -42,8 +42,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-18T14:30:00.000Z'
   dateModified: '2023-08-18T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/online-antique-appraisals/online-antique-appraisals-image-1_ZROqEFHjn.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/online-antique-appraisals/online-antique-appraisals-image-1_ZROqEFHjn.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person photographing an antique vase for professional online appraisal
+      service
   publisher:
     '@type': Organization
     name: Appraisily
@@ -51,6 +58,55 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/online-antique-appraisals'
+  keywords:
+    - online antique appraisals
+    - virtual antique valuations
+    - digital appraisal services
+    - remote antique assessment
+    - online collectible valuation
+    - antique authentication online
+    - at-home antique appraisal
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How Online Antique Appraisals Work
+  description: >-
+    The process of getting your antiques appraised online to receive accurate
+    valuations
+  image: >-
+    https://ik.imagekit.io/appraisily/SEO/online-antique-appraisals/online-antique-appraisals-image-2_MBspnr10h.png
+  step:
+    - '@type': HowToStep
+      name: Photo Submission
+      text: >-
+        Take multiple clear photographs of your item from different angles,
+        ensuring all details, marks, signatures, and any damage are visible.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/online-antique-appraisals/online-antique-appraisals-image-2_MBspnr10h.png
+    - '@type': HowToStep
+      name: Item Description
+      text: >-
+        Provide detailed information about the object, including its dimensions,
+        condition, any known history or provenance, and manufacturer marks if
+        present.
+    - '@type': HowToStep
+      name: Submission and Payment
+      text: >-
+        After submitting your information and photographs through the service's
+        platform, you'll typically pay a fee based on the type of appraisal you
+        need.
+    - '@type': HowToStep
+      name: Expert Review
+      text: >-
+        A qualified appraiser specializing in your item's category will examine
+        your submission and conduct research to determine its authenticity and
+        value.
+    - '@type': HowToStep
+      name: Appraisal Report
+      text: >-
+        Within the specified timeframe (typically 24-72 hours), you'll receive a
+        detailed appraisal report that includes the item's estimated value and
+        supporting information.
 ---
 
 ![A person photographing an antique item for online appraisal](https://ik.imagekit.io/appraisily/SEO/online-antique-appraisals/online-antique-appraisals-image-1_ZROqEFHjn.png)

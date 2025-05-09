@@ -38,8 +38,6 @@ structured_data:
     Discover what affects the value of antique dressers with mirrors, from
     styles and periods to condition factors. Get price ranges and expert
     valuation tips.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-dresser-with-mirror/value-of-antique-dresser-with-mirror-image-1_txNceKENN.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +52,45 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://appraisily.com/value-of-antique-dresser-with-mirror/'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-dresser-with-mirror/value-of-antique-dresser-with-mirror-image-1_txNceKENN.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian-era antique dresser with ornate oval mirror showing detailed
+      woodwork and original hardware
+  about:
+    '@type': Thing
+    name: Antique Furniture
+    description: >-
+      Information about antique dressers with mirrors, their historical value,
+      and pricing factors
+  keywords: >-
+    antique dresser with mirror value, Victorian vanity worth, antique furniture
+    appraisal, vintage dresser valuation, Eastlake dresser prices
+  articleSection: Furniture Appraisal
+  alternativeHeadline: What Determines the Value of Antique Dressers with Mirrors in 2024
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+      - .introduction
+  mentions:
+    - '@type': Thing
+      name: Victorian Era
+      description: Historical period known for ornate furniture designs
+    - '@type': Thing
+      name: Empire Period
+      description: Early 19th century furniture style with classical influences
+    - '@type': Thing
+      name: Eastlake Style
+      description: Furniture design style popular in the late 19th century
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .introduction
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Dressers with Mirrors" level="2" >}}

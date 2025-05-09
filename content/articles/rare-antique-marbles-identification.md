@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify and value rare antique marbles with our comprehensive
     guide. Discover types, characteristics, and assessment techniques for these
     sought-after collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-antique-marbles-identification/rare-antique-marbles-identification-image-1_uUEPtxeY5.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-antique-marbles-identification/rare-antique-marbles-identification-image-1_uUEPtxeY5.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of rare antique marbles showcasing handmade and
+      machine-made varieties with distinctive patterns and colors
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,14 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/rare-antique-marbles-identification
+  keywords:
+    - rare antique marbles
+    - antique marble identification
+    - valuable collectible marbles
+    - handmade antique marbles
+    - machine-made marbles
+    - marble collecting guide
+    - antique marble values
 ---
 
 {{< content-modules/section-header title="Introduction to Rare Antique Marbles" level="2" >}}

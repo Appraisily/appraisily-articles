@@ -37,7 +37,6 @@ structured_data:
     Discover how to accurately determine antique values with our comprehensive
     guide covering price resources, valuation factors, and expert appraisal
     tips.
-  image: 'https://appraisily.com/images/antique-values-guide.jpg'
   author:
     '@type': Organization
     name: Appraisily Team
@@ -47,8 +46,23 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-15T14:30:00.000Z'
   dateModified: '2023-07-15T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/antique-values-guide.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antiques including furniture, jewelry, and
+      decorative arts with price indicators
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-values'
+  keywords: >-
+    antique values, antique appraisal, determine antique worth, antique
+    authentication, vintage item valuation, antique price guides, selling
+    valuable antiques
 ---
 
 {{< content-modules/section-header title="Understanding Antique Values" level="2" >}}

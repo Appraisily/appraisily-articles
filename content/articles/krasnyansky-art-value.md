@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to determining Anatole Krasnyansky art values, including
     market trends, authentication methods, and investment potential for
     collectors of this celebrated Ukrainian-American artist's distinctive works.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/krasnyansky-art-value/krasnyansky-art-value-image-1_J3HYBU_kn.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/krasnyansky-art-value/krasnyansky-art-value-image-1_J3HYBU_kn.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vibrant Anatole Krasnyansky surrealist artwork featuring architectural
+      elements and masked figures in his signature watercolor style
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,32 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/krasnyansky-art-value'
+  keywords:
+    - Anatole Krasnyansky art value
+    - Krasnyansky watercolor prices
+    - Krasnyansky serigraph authentication
+    - collecting Krasnyansky prints
+    - Krasnyansky art investment
+    - Ukrainian-American artist valuation
+    - Krasnyansky limited edition values
+  articleSection: Fine Art
+  about:
+    '@type': Thing
+    name: Anatole Krasnyansky
+    sameAs: 'https://en.wikipedia.org/wiki/Anatole_Krasnyansky'
+  mentions:
+    - '@type': Thing
+      name: watercolor techniques
+    - '@type': Thing
+      name: surrealism
+    - '@type': Thing
+      name: Ukrainian-American art
+  timeRequired: PT10M
 ---
 
 ## Introduction to Anatole Krasnyansky and His Art

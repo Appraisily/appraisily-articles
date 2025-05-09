@@ -39,8 +39,6 @@ structured_data:
     Explore the concept of value in art - from its technical meaning as
     lightness and darkness to its profound impact on artistic expression,
     cultural significance, and market worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-in-art-is/value-in-art-is-image-1_dOEz586ki6.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,60 @@ structured_data:
   datePublished: '2023-08-21T14:30:00.000Z'
   dateModified: '2023-08-21T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-in-art-is'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-in-art-is/value-in-art-is-image-1_dOEz586ki6.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Visual representation of value scale in art showing gradients from light
+      to dark tones in artistic composition
+  about:
+    '@type': Thing
+    name: Art Value
+    description: >-
+      The concept of value in art, including both technical aspects of light and
+      dark and cultural significance
+  keywords:
+    - value in art definition
+    - light and dark in artwork
+    - art value elements
+    - artistic value scale
+    - value in art composition
+    - art valuation principles
+    - importance of value in art
+  articleSection: Art Elements
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Is Value in Art?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Value in art has multiple meanings that range from technical
+            elements to cultural significance. In the formal elements of art,
+            value refers to the lightness or darkness of colors and tones within
+            a composition. It creates visual depth, dimension, and contrast that
+            bring artworks to life. Value is one of the seven fundamental
+            elements of art, alongside line, shape, form, space, texture, and
+            color.
+      - '@type': Question
+        name: How to Understand Value Scales?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A value scale is a visual representation of the progression from
+            light to dark. Artists use these scales to organize and understand
+            the full range of values available to them when creating artwork.
+            The standard value scale contains: High values (lights): Near white
+            or white, Middle values: Various shades of gray, Low values (darks):
+            Deep gray to black. The Virtual Instructor explains that 'we see
+            objects and understand objects because of how dark or light they
+            appear.' Value variations help create the illusion of
+            three-dimensional form on a two-dimensional surface.
 ---
 
 ## What Is Value in Art?

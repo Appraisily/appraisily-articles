@@ -41,7 +41,14 @@ structured_data:
     Discover the true value of your old Croton watch. Learn about vintage
     models, price factors, authentication tips, and current market prices for
     antique Croton timepieces.
-  image: 'https://www.appraisily.com/images/old-croton-watch-value.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://www.appraisily.com/images/old-croton-watch-value.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Croton Chronomaster Aviator Sea Diver wristwatch displaying
+      collectible value
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,27 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-08-20T14:30:00.000Z'
   dateModified: '2023-08-20T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Vintage Watches
+    description: >-
+      Collectible timepieces from the past, particularly Croton watches dating
+      back to 1878
+  keywords:
+    - old Croton watch value
+    - vintage Croton timepieces
+    - Croton Chronomaster value
+    - antique Croton watch prices
+    - Croton watch authentication
+    - collectible Croton watches
+    - Croton watch history
+  mentions:
+    - '@type': Product
+      name: Croton Chronomaster Aviator Sea Diver
+      description: >-
+        A multi-functional chronograph from the 1960s that has become highly
+        sought after by collectors
+  temporalCoverage: 1878/2023
 ---
 
 ## Introduction to Vintage Croton Watches

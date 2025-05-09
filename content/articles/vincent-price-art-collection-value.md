@@ -39,8 +39,6 @@ structured_data:
     Discover the fascinating history and current market value of the Vincent
     Price Art Collection, from the famous Sears collaboration to museum pieces
     and auction sales.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/vincent-price-art-collection-value/vincent-price-art-collection-value-image-1_EOIiVq9Ss.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,41 @@ structured_data:
   datePublished: '2023-06-28T14:30:00.000Z'
   dateModified: '2023-06-28T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/vincent-price-art-collection-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/vincent-price-art-collection-value/vincent-price-art-collection-value-image-1_EOIiVq9Ss.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vincent Price examining rare artworks from his renowned fine art
+      collection that was sold through Sears
+  keywords:
+    - Vincent Price art collection value
+    - Vincent Price Sears collaboration
+    - celebrity art collections
+    - fine art democratization
+    - Vincent Price as art curator
+    - collectible artwork valuation
+    - museum-quality affordable art
+  about:
+    - '@type': Thing
+      name: Art Collection
+      description: A collection of artwork curated by Vincent Price
+    - '@type': Thing
+      name: Fine Art
+      description: Museum-quality artwork made accessible to the general public
+    - '@type': Person
+      name: Vincent Price
+      description: >-
+        Horror film legend and art collector who collaborated with Sears to
+        democratize fine art
+  mentions:
+    - '@type': Organization
+      name: 'Sears, Roebuck and Co.'
+      description: >-
+        Retail company that partnered with Vincent Price to sell affordable fine
+        art
 ---
 
 ![Vincent Price examining artwork from his famous art collection](https://ik.imagekit.io/appraisily/SEO/vincent-price-art-collection-value/vincent-price-art-collection-value-image-1_EOIiVq9Ss.png)

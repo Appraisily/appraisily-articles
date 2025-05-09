@@ -45,14 +45,59 @@ structured_data:
   datePublished: '2023-10-29T14:30:00.000Z'
   dateModified: '2023-10-29T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/antique-glass-value/antique-glass-value-image-1__FtByEODD.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique glassware collection featuring Depression glass, milk
+      glass, and hand-cut crystal pieces
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/img/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-glass-value'
+  keywords:
+    - antique glass value
+    - collectible glassware identification
+    - depression glass worth
+    - vintage glass appraisal
+    - milk glass value
+    - cut crystal identification
+    - rare glass collectibles
+  articleSection: Collectibles
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the age requirement for true antique glass?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Truly antique glassware is at least 100 years old, while vintage
+            pieces are typically 40+ years old. The distinction matters
+            significantly for valuation purposes.
+      - '@type': Question
+        name: What is the price range for antique glassware?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            While some mass-produced vintage pieces might sell for under $50,
+            rare antique examples in excellent condition can command prices from
+            $5,000 to $10,000 or more.
+      - '@type': Question
+        name: What periods produced the most valuable antique glass?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Early American glass from the 1700s-1800s, Art Glass from the Art
+            Nouveau and Art Deco periods (1880s-1920s), and Depression Glass
+            from the 1920s-1940s are among the most valuable periods for antique
+            glass collecting.
 ---
 
 ![Collection of valuable antique glass pieces including depression glass, milk glass, and cut crystal](https://ik.imagekit.io/appraisily/SEO/antique-glass-value/antique-glass-value-image-1__FtByEODD.png)

@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to determining the value of vintage rotary telephones,
     including identification tips, pricing factors, and the most valuable models
     sought by collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-rotary-phone-value/old-rotary-phone-value-image-1_FFhtLBL_O.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-rotary-phone-value/old-rotary-phone-value-image-1_FFhtLBL_O.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage black rotary telephone from mid-century with dial mechanism and
+      coiled cord on wooden surface
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-08-28T14:30:00.000Z'
   dateModified: '2023-08-28T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-rotary-phone-value'
+  keywords:
+    - old rotary phone value
+    - vintage telephone worth
+    - antique rotary phone prices
+    - collectible telephone valuation
+    - rare rotary phone models
+    - Western Electric telephone value
+    - mid-century phone collectibles
 ---
 
 The nostalgic ring of a rotary telephone can transport many of us back to a simpler time—before smartphones, before caller ID, and before texting became our primary form of communication. Today, these vintage devices have found new life as collectibles, with some rare models fetching impressive prices in the market. Whether you've inherited an old phone or are considering starting a collection, understanding the value of vintage rotary telephones is essential.

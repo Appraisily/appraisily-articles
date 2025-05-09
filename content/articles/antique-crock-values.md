@@ -42,7 +42,14 @@ structured_data:
     name: Appraisily Team
   datePublished: '2025-04-15T14:30:00.000Z'
   dateModified: '2025-04-15T14:30:00.000Z'
-  image: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique stoneware crocks with blue decorations and
+      maker's marks
   publisher:
     '@type': Organization
     name: Appraisily
@@ -52,6 +59,23 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-crock-values'
+  keywords:
+    - antique crock values
+    - stoneware crock identification
+    - vintage crock pricing guide
+    - collectible crocks worth
+    - antique pottery values
+    - blue decorated crocks
+    - salt glazed stoneware prices
+  about:
+    '@type': Thing
+    name: Antique Crocks
+    description: Historical stoneware vessels used for food storage and preservation
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  inLanguage: en-US
 ---
 
 ## Introduction to antique-crock-values

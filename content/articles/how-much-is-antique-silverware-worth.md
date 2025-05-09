@@ -40,8 +40,22 @@ structured_data:
     guide to valuing sterling silver flatware, including factors that affect
     price and current market values.
   image:
-    - >-
-      https://ik.imagekit.io/appraisily/SEO/how-much-is-antique-silverware-worth/how-much-is-antique-silverware-worth-image-2_CfVH1vRC8.png
+    - '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/how-much-is-antique-silverware-worth/how-much-is-antique-silverware-worth-image-2_CfVH1vRC8.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Elegant collection of antique sterling silver flatware pieces displayed
+        on a wooden table
+    - '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/how-much-is-antique-silverware-worth/how-much-is-antique-silverware-worth-image-3_8FbeNayni.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Close-up of hallmarks and maker's marks on the back of antique sterling
+        silver spoons
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,10 +65,86 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://ik.imagekit.io/appraisily/logo.png'
-  datePublished: '2024-10-30'
-  dateModified: '2024-10-30'
+      width: '600'
+      height: '60'
+  datePublished: '2024-10-30T14:30:00.000Z'
+  dateModified: '2024-10-30T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/how-much-is-antique-silverware-worth
+  about:
+    '@type': Thing
+    name: Antique Silverware
+    description: >-
+      Sterling silver flatware and utensils from previous eras valued for their
+      craftsmanship, silver content, and historical significance
+  keywords:
+    - antique silverware value
+    - sterling silver flatware worth
+    - antique silver appraisal
+    - silver flatware pricing guide
+    - valuable antique silverware patterns
+    - sterling silver valuation
+    - collectible silver flatware
+  mentions:
+    - '@type': Thing
+      name: Sterling Silver
+      description: 'An alloy containing 92.5% silver and 7.5% other metals, typically copper'
+    - '@type': Thing
+      name: Silver Hallmarks
+      description: Official marks stamped on silver items to indicate purity and origin
+    - '@type': Thing
+      name: Silver Spot Price
+      description: The current market price for silver per troy ounce
+  hasPart:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the typical value range for antique silverware?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique silver values can vary dramatically, ranging from as little
+            as $5 for common items to well over $1 million for the rarest and
+            most historically significant pieces. The typical sterling silver
+            flatware pieces most families own generally fall somewhere in
+            between, with individual pieces often worth $5-$30 each depending on
+            various factors including weight, pattern, and manufacturer.
+      - '@type': Question
+        name: What factors determine the value of antique silverware?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors determine the value of antique silverware,
+            including silver content and purity (sterling silver contains 92.5%
+            pure silver), age, manufacturer, pattern, condition, and historical
+            significance. Genuine sterling silver is typically marked 'sterling'
+            or '.925', while older European pieces may have different silver
+            standards.
+      - '@type': Question
+        name: How much is a complete sterling silver flatware service worth?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A complete service for 8 in sterling silver flatware can be worth
+            between $1,000-$7,000, depending on the pattern and condition of the
+            pieces.
+      - '@type': Question
+        name: >-
+          What has been the price range of silver per troy ounce in recent
+          years?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The silver spot price has ranged from $12.01 to $37.23 per troy
+            ounce between 2012 and 2022.
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - h1
+      - h2
+      - h3
+      - .article-summary
+  isAccessibleForFree: 'True'
 ---
 
 {{< content-modules/section-header title="Understanding Antique Silverware Value" level="2" >}}

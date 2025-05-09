@@ -44,8 +44,16 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-03T14:30:00.000Z'
   dateModified: '2023-09-03T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/pre-columbian-art-value/pre-columbian-art-value-image-1_EbhtKG45X.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/pre-columbian-art-value/pre-columbian-art-value-image-1_EbhtKG45X.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Pre-Columbian ceramic figurine displaying intricate
+      craftsmanship and ceremonial significance from ancient Mesoamerican
+      culture
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +63,23 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/pre-columbian-art-value'
+  about:
+    - '@type': Thing
+      name: Pre-Columbian Art
+      description: >-
+        Visual arts created by indigenous peoples of the Americas prior to
+        European contact in 1492
+    - '@type': Thing
+      name: Art Valuation
+      description: Process of determining the monetary value of art pieces and artifacts
+  keywords:
+    - Pre-Columbian art valuation
+    - authentic Mesoamerican artifacts
+    - Maya art authentication
+    - Aztec artifact pricing
+    - Inca collectibles value
+    - Pre-Columbian pottery appraisal
+    - ancient American art collecting
 ---
 
 ![Ancient Pre-Columbian ceramic figurine showing detailed craftsmanship and ritual significance](https://ik.imagekit.io/appraisily/SEO/pre-columbian-art-value/pre-columbian-art-value-image-1_EbhtKG45X.png)

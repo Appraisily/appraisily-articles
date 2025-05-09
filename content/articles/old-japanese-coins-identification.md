@@ -50,11 +50,43 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-12-11T14:30:00.000Z'
   dateModified: '2023-12-11T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-japanese-coins-identification/old-japanese-coins-identification-image-1_N3jO_2nt5.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-japanese-coins-identification/old-japanese-coins-identification-image-1_N3jO_2nt5.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of historical Japanese coins showing square-holed cash
+      coins, Meiji era pieces, and modern yen with traditional designs
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-japanese-coins-identification'
+  about:
+    '@type': Thing
+    name: Japanese Numismatics
+    description: The study and collection of Japanese coins and currency throughout history
+  keywords: >-
+    old Japanese coins identification, antique Japanese currency, Japanese
+    numismatics, Meiji era coins, Japanese coin dating systems, square-holed
+    Japanese cash coins, Japanese coin value assessment
+  articleSection: Asian Coins
+  specialty: Coin Identification and Valuation
+hasPart:
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: How can I identify the era of a Japanese coin?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            You can identify the era of a Japanese coin by examining its shape,
+            material, and inscriptions. Square-holed coins typically date from
+            early periods (708-1868), while modern round coins began in the
+            Meiji era (1868-1912). Look for era names in kanji characters and
+            reference the timeline of Japanese coinage from ancient cash coins
+            through Edo Period pieces to modern yen denominations.
 ---
 
 Japanese coins represent a fascinating journey through the country's rich monetary history, from ancient Chinese-inspired cash coins with square holes to modern yen denominations. Whether you're a seasoned collector or just discovered an intriguing Japanese coin, understanding how to properly identify these numismatic treasures is essential for determining their historical significance and potential value.

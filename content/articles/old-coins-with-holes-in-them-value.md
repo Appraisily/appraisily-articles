@@ -39,8 +39,6 @@ structured_data:
     Discover how holes affect the value of old coins, from ancient pierced
     artifacts to modern damaged specimens. Learn valuation factors,
     collectibility, and price expectations.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-coins-with-holes-in-them-value/old-coins-with-holes-in-them-value-image-1_IKEahtyP_.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +54,23 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/old-coins-with-holes-in-them-value
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-coins-with-holes-in-them-value/old-coins-with-holes-in-them-value-image-1_IKEahtyP_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Assortment of historical and modern coins with holes showing various
+      piercing styles and conditions
+  keywords:
+    - holed coins value
+    - pierced coin collectibility
+    - ancient holed coins
+    - coin hole depreciation
+    - damaged coin valuation
+    - numismatic hole value
+    - holed coin price guide
 ---
 
 Finding an old coin with a hole in it often raises questions about its value and collectibility. Whether you've discovered a family heirloom or are considering adding holed coins to your collection, understanding how these modifications affect value is essential for both collectors and sellers.

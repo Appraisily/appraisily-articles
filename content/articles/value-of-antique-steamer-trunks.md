@@ -42,8 +42,15 @@ structured_data:
     Discover what antique steamer trunks are worth in today's market. Learn
     about identification, price factors, and how to determine if your trunk is
     valuable.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-steamer-trunks/value-of-antique-steamer-trunks-image-1_iQDvLGivkT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-steamer-trunks/value-of-antique-steamer-trunks-image-1_iQDvLGivkT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare Louis Vuitton antique steamer trunk with original brass hardware,
+      leather trim and patina from the early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -58,6 +65,17 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-antique-steamer-trunks'
+  about:
+    '@type': Thing
+    name: Antique Steamer Trunks
+    description: >-
+      Large, sturdy travel containers used from the late 1870s through the early
+      20th century, particularly during ocean voyages and train journeys.
+  keywords: >-
+    antique steamer trunk value, vintage trunk appraisal, Louis Vuitton steamer
+    trunk worth, how to date antique trunks, steamer trunk identification guide,
+    collectible travel trunks, antique luggage values
+  temporalCoverage: 1880/1930
 ---
 
 ![An ornate antique Louis Vuitton steamer trunk with original hardware and leather trim](https://ik.imagekit.io/appraisily/SEO/value-of-antique-steamer-trunks/value-of-antique-steamer-trunks-image-1_iQDvLGivkT.png)

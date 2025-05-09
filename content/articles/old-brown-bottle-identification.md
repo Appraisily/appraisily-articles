@@ -39,8 +39,6 @@ structured_data:
     Learn how to identify old brown bottles by examining seams, markings, age
     indicators, and manufacturing techniques. Our expert guide helps collectors
     determine value and authenticity.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-brown-bottle-identification/old-brown-bottle-identification-image-1_CGOMF9Atq.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,25 @@ structured_data:
   datePublished: '2023-07-12T14:30:00.000Z'
   dateModified: '2023-07-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-brown-bottle-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-brown-bottle-identification/old-brown-bottle-identification-image-1_CGOMF9Atq.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage amber glass bottles collection displaying various shapes,
+      embossing patterns and manufacturer's marks for identification
+  about:
+    '@type': Thing
+    name: Antique bottle identification
+    description: >-
+      Methods and techniques for identifying, dating and valuing vintage brown
+      glass bottles
+  keywords: >-
+    old brown bottle identification, amber glass bottle dating, antique bottle
+    markings, vintage bottle valuation, brown glass bottle collectors, bottle
+    manufacturing techniques, historic bottle authentication
 ---
 
 # Vintage Brown Bottle Identification Guide

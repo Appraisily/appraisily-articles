@@ -42,8 +42,6 @@ structured_data:
     Discover what your antique furniture is worth with our detailed price guide.
     Learn how to identify valuable pieces, understand pricing factors, and find
     reliable valuation resources.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-furniture-price-guide/value-of-antique-furniture-price-guide-image-1_eqNRIKPA1.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,12 +51,59 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-09-19T14:30:00.000Z'
   dateModified: '2023-09-19T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/value-of-antique-furniture-price-guide
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-furniture-price-guide/value-of-antique-furniture-price-guide-image-1_eqNRIKPA1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique furniture including Victorian dresser,
+      Queen Anne chair, and Chippendale table with price guide references
+  keywords:
+    - antique furniture values
+    - antique furniture price guide
+    - how to value antique furniture
+    - antique furniture appraisal
+    - antique furniture identification
+    - vintage furniture worth
+    - antique furniture market prices
+  about:
+    '@type': Thing
+    name: Antique Furniture
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors determine antique furniture value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of antique furniture is determined by several key factors:
+            age and authenticity (with pre-industrial revolution handcrafted
+            pieces typically worth more), condition (original finishes,
+            hardware, and minimal repairs command higher prices), craftsmanship
+            quality, rarity, provenance (ownership history), and current market
+            demand. Damage such as water marks, deep scratches, broken pieces,
+            or pest damage can dramatically decrease value.
+      - '@type': Question
+        name: How much is the global antique furniture market worth?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The global antique furniture market size was $6.4 billion in 2022,
+            with high-quality antique furniture appreciating at a rate of 8-12%
+            annually. However, damaged or heavily restored pieces can lose up to
+            75% of their potential value.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Furniture Valuation" level="2" >}}

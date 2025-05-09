@@ -43,8 +43,15 @@ structured_data:
     Comprehensive guide to valuing antique Singer sewing machines, including
     identification methods, condition assessment, and market valuations for rare
     models worth over $1,000.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machines-value/old-singer-sewing-machines-value-image-1_lqxbC2Bhs.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machines-value/old-singer-sewing-machines-value-image-1_lqxbC2Bhs.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique black Singer sewing machine with ornate gold decorative decals
+      showing its craftsmanship and value
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,9 +61,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-05-16T14:30:00.000Z'
   dateModified: '2023-05-16T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-singer-sewing-machines-value'
+  keywords:
+    - antique Singer sewing machine value
+    - vintage Singer sewing machine worth
+    - rare Singer sewing machine models
+    - Singer Featherweight value
+    - Singer treadle machine prices
+    - collectible Singer sewing machines
+    - Singer serial number identification
 ---
 
 ![Vintage Singer sewing machine with decorative gold decals on black body](https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machines-value/old-singer-sewing-machines-value-image-1_lqxbC2Bhs.png)

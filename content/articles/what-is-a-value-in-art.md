@@ -43,8 +43,15 @@ structured_data:
     Explore the concept of value in art - how light and dark create dimension,
     visual hierarchy, and emotional impact in artwork. Learn why value is a
     critical element for artists.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/what-is-a-value-in-art/what-is-a-value-in-art-image-1_2Jx4VSu89.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/what-is-a-value-in-art/what-is-a-value-in-art-image-1_2Jx4VSu89.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Value scale showing gradation from white to black demonstrating tonal
+      range in art
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,14 @@ structured_data:
   datePublished: '2023-06-12T14:30:00.000Z'
   dateModified: '2023-06-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/what-is-a-value-in-art'
+  keywords:
+    - value in art
+    - tonal value
+    - light and dark in art
+    - value scale
+    - chiaroscuro
+    - art elements
+    - visual hierarchy
 ---
 
 ## Introduction to Value in Art

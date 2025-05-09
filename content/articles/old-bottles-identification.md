@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-16T14:30:00.000Z'
   dateModified: '2023-08-16T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bottles-identification/old-bottles-identification-image-1_E0axpVApw.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-bottles-identification/old-bottles-identification-image-1_E0axpVApw.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique glass bottles showcasing various colors,
+      shapes, and historical manufacturing techniques
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,14 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bottles-identification'
+  keywords:
+    - old bottles identification
+    - antique bottle dating
+    - vintage glass bottles
+    - bottle collecting guide
+    - antique bottle markings
+    - bottle age determination
+    - glass bottle value factors
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Bottle Identification" level="2" >}}

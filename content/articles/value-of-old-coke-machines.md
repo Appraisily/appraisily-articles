@@ -39,8 +39,15 @@ structured_data:
     Discover the value of old Coke machines with our comprehensive guide to
     pricing, identification, restoration tips, and investment potential for
     these iconic collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-coke-machines/value-of-old-coke-machines-image-1_iYsaME_5y.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-coke-machines/value-of-old-coke-machines-image-1_iYsaME_5y.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Restored 1950s vintage Coca-Cola vending machine with classic red and
+      white branding and chrome details
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,69 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-old-coke-machines'
+  about:
+    '@type': Thing
+    name: Vintage Coca-Cola Vending Machines
+    description: >-
+      Collectible antique soda dispensers manufactured for Coca-Cola from the
+      1930s through 1970s
+  keywords: >-
+    vintage Coke machine values, antique Coca-Cola machine prices, collectible
+    soda vending machines, Vendo Coke machine worth, Cavalier Coca-Cola machine
+    value
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles Valuation Guides
+    url: 'https://articles.appraisily.com/articles/category/collectibles'
+  mentions:
+    - '@type': Product
+      name: Vendo 39
+      description: >-
+        1940s coin-operated Coca-Cola vending machine with distinctive rounded
+        top
+    - '@type': Product
+      name: Vendo 44
+      description: '1950s Coca-Cola vending machine, highly collectible model'
+    - '@type': Product
+      name: Vendo 56
+      description: '1950s Coca-Cola vending machine, highly collectible model'
+    - '@type': Product
+      name: Vendo 81
+      description: '1950s Coca-Cola vending machine, highly collectible model'
+  hasPart:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes vintage Coca-Cola machines valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Vintage Coca-Cola machines are valuable due to their historical
+            significance, iconic branding, limited availability, and connection
+            to American nostalgia. Factors affecting value include age, model
+            rarity, original condition, restoration quality, and working
+            functionality.
+      - '@type': Question
+        name: Which Coca-Cola machine models are most collectible?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The most collectible Coca-Cola machine models include the 1950s
+            Vendo 44, Vendo 56, and Vendo 81, which feature the classic red and
+            white color scheme with distinctive 'drink Coca-Cola' lettering. The
+            1940s Vendo 39 with its rounded top is also highly sought after, as
+            are early 1930s coolers from Glascock Brothers and The Liquid
+            Carbonic Company, which are extremely rare.
+      - '@type': Question
+        name: How can you identify authentic vintage Coca-Cola machines?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Authentic vintage Coca-Cola machines can be identified by examining
+            manufacturer tags (typically from companies like Vendo, Cavalier, or
+            Westinghouse), checking serial numbers, verifying period-correct
+            design elements and logos, and inspecting original cooling
+            mechanisms and coin slots characteristic of their era.
 ---
 
 ![Vintage Coca-Cola vending machine from the 1950s with iconic red and white branding](https://ik.imagekit.io/appraisily/SEO/value-of-old-coke-machines/value-of-old-coke-machines-image-1_iYsaME_5y.png)

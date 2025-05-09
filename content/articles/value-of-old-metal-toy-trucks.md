@@ -39,8 +39,6 @@ structured_data:
     Discover the value of old metal toy trucks from brands like Tonka, Marx, and
     Structo. Expert tips on identification, pricing, and where to sell these
     nostalgic collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-metal-toy-trucks/value-of-old-metal-toy-trucks-image-1_AJwyKliiX.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +48,64 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-05-29T14:30:00.000Z'
   dateModified: '2023-05-29T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-metal-toy-trucks'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-metal-toy-trucks/value-of-old-metal-toy-trucks-image-1_AJwyKliiX.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage metal toy trucks collection featuring rare Tonka, Marx, and
+      Structo models from the 1950s-1960s displayed on wooden shelves
+  keywords:
+    - vintage metal toy truck values
+    - old Tonka truck worth
+    - collectible pressed steel trucks
+    - Marx toy truck identification
+    - Structo toy truck prices
+    - antique metal toy appraisal
+    - rare toy truck collectors guide
+  about:
+    '@type': Thing
+    name: Vintage Metal Toy Trucks
+    description: >-
+      Collectible metal toy trucks from manufacturers like Tonka, Marx, and
+      Structo from the early to mid-20th century
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes vintage metal toy trucks valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Vintage metal toy trucks are valuable due to their durability,
+            craftsmanship, and nostalgic appeal. Factors affecting value include
+            age (with early cast iron and pressed steel models from the
+            1920s-1940s being particularly desirable), rarity, condition,
+            manufacturer (with brands like Buddy L, Tonka, and Structo being
+            highly collectible), and historical significance. Unlike modern
+            plastic toys, these were built to last with materials like pressed
+            steel, cast iron, and tin, making well-preserved specimens
+            particularly valuable to collectors.
+      - '@type': Question
+        name: When did metal toy trucks first appear?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The earliest metal toy trucks appeared in the late 19th century,
+            typically made from cast iron. By the 1920s and 1930s, pressed steel
+            manufacturing techniques allowed companies like Buddy L, Keystone,
+            and Structo to create larger, more detailed vehicles. The post-WWII
+            era saw the rise of companies like Tonka, which became synonymous
+            with durable metal toy trucks that many Baby Boomers remember
+            fondly.
 ---
 
 ## Introduction to Metal Toy Trucks: Nostalgic Collectibles with Rising Value

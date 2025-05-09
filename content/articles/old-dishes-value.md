@@ -43,8 +43,15 @@ structured_data:
     Discover the hidden value of old dishes in your collection. Learn how to
     identify valuable patterns, assess condition, and determine what makes
     certain vintage dishware worth significant money.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-dishes-value/old-dishes-value-image-1_gRoptPX4c.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-dishes-value/old-dishes-value-image-1_gRoptPX4c.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique china and porcelain dishes collection with decorative
+      patterns and gold trim
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,8 +61,66 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-04-15T14:30:00.000Z'
   dateModified: '2023-04-15T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-dishes-value'
+  about:
+    '@type': Thing
+    name: Antique Dishware
+    description: 'Collectible old dishes, china, and porcelain with potential value'
+  keywords: >-
+    old dishes value, antique dishware worth, valuable vintage china,
+    collectible porcelain dishes, rare antique plates
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes old dishes valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Not all old dishes are created equal when it comes to value. While
+            most antique and vintage dishes are worth under $100, certain
+            characteristics can significantly increase their value. These
+            include the manufacturer's reputation (prestigious makers like
+            Wedgwood, Limoges, Meissen, and Royal Copenhagen typically command
+            higher prices), pattern and design significance (limited production
+            runs, artistic merit, and historical significance), and condition.
+            Contrary to popular belief, age alone doesn't determine value - many
+            mass-produced dishes from the 1950s-1970s hold minimal value today.
+      - '@type': Question
+        name: How do you identify valuable antique dishes?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            To identify valuable antique dishes, examine the backstamp
+            (manufacturer's mark) on the underside of the dish. This mark can
+            provide critical information about the manufacturer's name or
+            symbol, country of origin, and production date. Prestigious
+            manufacturers like Wedgwood, Limoges, Meissen, and Royal Copenhagen
+            typically produce more valuable pieces. Also consider the pattern
+            and design significance - some patterns have become iconic and
+            highly collectible, especially those with limited production runs,
+            artistic merit, or historical significance.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Valuable Antique Dishes
+    step:
+      - '@type': HowToStep
+        name: Examine the Backstamp
+        text: >-
+          Turn the dish over and look for the backstamp – the manufacturer's
+          mark typically found on the underside. This mark can provide critical
+          information about: 1. The manufacturer's name or symbol 2. Country of
+          origin 3. Production date or period
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/old-dishes-value/old-dishes-value-image-2_oj4WWtSfC.png
 ---
 
 ## Introduction to Antique Dish Values

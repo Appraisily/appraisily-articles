@@ -44,17 +44,34 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-12-01T14:30:00.000Z'
   dateModified: '2023-12-01T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-piano-identification/antique-upright-piano.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-piano-identification/antique-upright-piano.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique upright piano with ornate Victorian woodwork, brass candleholders,
+      and ivory keys
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-piano-identification'
+  keywords:
+    - antique piano identification
+    - vintage piano value guide
+    - piano serial number lookup
+    - how to date antique pianos
+    - antique piano manufacturers
+    - antique upright piano identification
+    - piano age determination
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Piano Identification" level="2" >}}

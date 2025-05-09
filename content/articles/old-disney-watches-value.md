@@ -39,8 +39,15 @@ structured_data:
     Discover the value of vintage Disney watches with our comprehensive guide
     covering rare models, pricing factors, authentication tips, and investment
     potential.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-disney-watches-value/old-disney-watches-value-image-1_5ou9TAmgY.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-disney-watches-value/old-disney-watches-value-image-1_5ou9TAmgY.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage Disney Mickey Mouse watches showing various models
+      and their estimated values
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,24 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-disney-watches-value'
+  keywords:
+    - old disney watches value
+    - vintage disney timepieces
+    - mickey mouse watch collectibles
+    - rare disney watches
+    - disney watch authentication
+    - limited edition disney watches
+    - disney watch investment
+  about:
+    '@type': Thing
+    name: Disney Watches
+    description: >-
+      Collectible timepieces featuring Disney characters, particularly vintage
+      Mickey Mouse watches dating back to 1933
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles Valuation Guides
+    url: 'https://articles.appraisily.com/articles/category/collectibles'
 ---
 
 The magical world of Disney extends beyond movies and theme parks into the realm of collectible timepieces. Vintage Disney watches, particularly those featuring beloved characters like Mickey Mouse, have become highly sought-after items among collectors and Disney enthusiasts alike. With values ranging from just a few dollars to tens of thousands for rare specimens, understanding what makes these timepieces valuable is essential for collectors, sellers, and investors alike.

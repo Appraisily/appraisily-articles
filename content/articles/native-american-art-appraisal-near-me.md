@@ -37,8 +37,15 @@ structured_data:
   description: >-
     Learn how to find qualified Native American art appraisers in your area and
     understand the valuation process for authentic indigenous art and artifacts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/native-american-art-appraisal-near-me/native-american-art-appraisal-near-me-image-1_y98yM_qJX.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/native-american-art-appraisal-near-me/native-american-art-appraisal-near-me-image-1_y98yM_qJX.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Native American art collection featuring traditional pottery,
+      turquoise jewelry, and handwoven textiles for professional appraisal
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,6 +57,18 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-10-11T14:30:00.000Z'
   dateModified: '2023-10-11T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://articles.appraisily.com/articles/native-american-art-appraisal-near-me
+  keywords:
+    - Native American art appraisal near me
+    - indigenous artifact valuation
+    - tribal art authentication
+    - Native American pottery appraisal
+    - Native American jewelry value
+    - find local art appraiser
+    - Native American textile valuation
 ---
 
 ## Introduction to Native American Art Appraisal

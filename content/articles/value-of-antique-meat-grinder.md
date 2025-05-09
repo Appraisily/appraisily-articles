@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique meat grinders with our comprehensive guide.
     Learn to identify rare models, determine condition factors, and find current
     market prices for your vintage kitchen tool.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-meat-grinder/value-of-antique-meat-grinder-image-1_-ZgI5vB3M.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-meat-grinder/value-of-antique-meat-grinder-image-1_-ZgI5vB3M.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Enterprise No. 12 cast iron meat grinder with original tinning and
+      hand crank
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,14 @@ structured_data:
   datePublished: '2023-09-04T14:30:00.000Z'
   dateModified: '2023-09-04T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antique-meat-grinder'
+  keywords:
+    - antique meat grinder value
+    - vintage meat grinder worth
+    - Enterprise meat grinder value
+    - Griswold meat grinder prices
+    - collectible kitchen tools
+    - cast iron meat grinder identification
+    - antique kitchen collectibles
 ---
 
 ## Introduction to Antique Meat Grinders

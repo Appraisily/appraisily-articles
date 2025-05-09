@@ -35,8 +35,15 @@ structured_data:
     Discover how to get free art valuations online from qualified experts. Learn
     what to expect from digital appraisals and find the most trusted platforms
     to determine your artwork's value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-art-valuation-online/free-art-valuation-online-image-1_VFswFENSe.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-art-valuation-online/free-art-valuation-online-image-1_VFswFENSe.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person examining a painting while using a laptop for free online art
+      valuation services
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +58,46 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/free-art-valuation-online'
+  about:
+    '@type': Thing
+    name: Art Appraisal
+  keywords: >-
+    free art valuation online, online art appraisal, free painting valuation,
+    artwork value estimate, digital art assessment, online artwork pricing, art
+    authentication services
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What is a Free Online Art Valuation?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          A free online art valuation is a service that allows you to submit
+          photographs and information about your artwork to experts who can
+          provide a preliminary estimate of its value. Unlike traditional
+          in-person appraisals that might cost hundreds of dollars, these
+          services offer an accessible starting point for understanding what
+          your art might be worth.
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Get an Online Art Valuation
+  description: Process for submitting artwork for online valuation
+  step:
+    - '@type': HowToStep
+      name: Submit photographs
+      text: You submit clear photographs of your artwork
+    - '@type': HowToStep
+      name: Provide information
+      text: You provide as much information as you know about the piece
+    - '@type': HowToStep
+      name: Expert review
+      text: Art specialists review your submission
+    - '@type': HowToStep
+      name: Receive estimate
+      text: You receive an estimated value range or auction estimate
 ---
 
 ![Person holding a painting getting an online art valuation on their laptop](https://ik.imagekit.io/appraisily/SEO/free-art-valuation-online/free-art-valuation-online-image-1_VFswFENSe.png)

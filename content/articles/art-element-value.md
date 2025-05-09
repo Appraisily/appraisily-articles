@@ -48,14 +48,50 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-28T14:30:00.000Z'
   dateModified: '2023-06-28T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-element-value/art-element-value-image-1_ZUCywkU3I.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-element-value/art-element-value-image-1_ZUCywkU3I.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Value scale demonstrating the gradation from light to dark tones in
+      artistic composition
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/art-element-value'
+  keywords:
+    - value in art
+    - light and dark in art
+    - art elements
+    - value contrast
+    - artistic composition
+    - tonal values
+    - art appreciation
+  articleSection: Art Elements
+  about:
+    '@type': Thing
+    name: Value in Art
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Is Value in Art?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Value refers to the lightness or darkness of colors and tones within
+            an artwork. It creates the illusion of light, depth, and dimension,
+            allowing two-dimensional surfaces to appear three-dimensional. Value
+            in art is fundamentally about the relationship between light and
+            dark. Artists use value to create the illusion of form and volume,
+            direct the viewer's attention to focal points, establish mood and
+            atmosphere, and enhance contrast and visual interest.
 ---
 
 When examining artwork, whether a Renaissance masterpiece or contemporary digital creation, one element plays a crucial role in how we perceive and understand the piece: value. As one of the seven fundamental elements of art, value creates dimension, establishes mood, and drives visual focus in ways that other elements cannot achieve alone.

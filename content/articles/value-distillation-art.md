@@ -43,8 +43,15 @@ structured_data:
     Learn how value distillation in art simplifies complex images into limited
     value ranges, enhancing composition, understanding of light, and improving
     your artistic skills.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-distillation-art/value-distillation-art-image-1_ik0jVEN10.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-distillation-art/value-distillation-art-image-1_ik0jVEN10.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Value distillation technique demonstration showing complex image broken
+      down into limited tonal values
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,40 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-distillation-art'
+  about:
+    '@type': Thing
+    name: Value Distillation
+    description: >-
+      A technique in art that simplifies complex visual information into limited
+      value ranges to enhance understanding of light, form, and composition
+  keywords: >-
+    value distillation art, tonal value simplification, artistic value studies,
+    limited value range technique, value composition in art, Sinix value method,
+    art light and shadow
+  articleSection: Art Techniques
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .introduction
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .introduction
+      - .section-header
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is Value Distillation?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Value distillation is the process of analyzing an image and
+            simplifying it into a limited number of distinct tonal values.
+            Unlike detailed rendering with gradients and subtle transitions,
+            value distillation forces artists to make clear decisions about
+            where light and dark areas belong, focusing on the essential
+            elements that define form and composition.
 ---
 
 ## Introduction to Value Distillation in Art

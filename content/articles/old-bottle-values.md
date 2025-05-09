@@ -38,7 +38,6 @@ structured_data:
     Discover what makes antique bottles valuable, from rare colors to historical
     significance. Learn how to identify, price, and sell your old bottles with
     our expert guide.
-  image: 'https://www.appraisily.com/images/antique-bottle-collection.jpg'
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +50,41 @@ structured_data:
   datePublished: '2023-07-15T14:30:00.000Z'
   dateModified: '2023-07-15T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bottle-values'
+  image:
+    '@type': ImageObject
+    url: 'https://www.appraisily.com/images/antique-bottle-collection.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique bottles showing different colors,
+      embossing, and manufacturing techniques from the 19th and early 20th
+      centuries
+  about:
+    '@type': Thing
+    name: Antique Bottle Collecting
+    description: >-
+      Information about identifying, valuing, and collecting antique and vintage
+      bottles
+  keywords: >-
+    old bottle values, antique bottle identification, valuable vintage bottles,
+    antique bottle price guide, collectible glass bottles, rare bottle
+    appraisal, historical bottle worth
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes Old Bottles Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors determine an antique bottle's value: age and
+            historical significance (pre-1900 bottles are generally more
+            valuable, especially those with connections to important historical
+            events or figures), rarity and demand (following the economic
+            principle of supply and demand, with limited production runs or
+            well-preserved examples commanding higher prices), and color and
+            aesthetic appeal.
 ---
 
 ## Introduction to Antique Bottle Collecting and Valuation

@@ -39,8 +39,15 @@ structured_data:
     Discover the value of old Royal typewriters. This comprehensive guide covers
     pricing factors, identification, and current market trends for these coveted
     collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-royal-typewriters-value/old-royal-typewriters-value-image-1_Djgb-pogH.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-royal-typewriters-value/old-royal-typewriters-value-image-1_Djgb-pogH.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage 1930s Royal typewriter with glass panels and original
+      nickel-plated keys in excellent condition
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,29 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-07-15T14:30:00.000Z'
   dateModified: '2024-07-15T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-royal-typewriters-value'
+  keywords:
+    - old Royal typewriters value
+    - vintage Royal typewriter worth
+    - antique typewriter prices
+    - Royal typewriter identification
+    - collectible typewriters
+    - Royal Model P value
+    - Royal typewriter history
+  about:
+    '@type': Thing
+    name: Royal Typewriters
+    description: >-
+      Vintage typewriters manufactured by the Royal Typewriter Company, known
+      for their innovative design and historical significance.
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles
+    url: 'https://articles.appraisily.com/categories/collectibles'
 ---
 
 ![A vintage Royal typewriter from the 1930s with beveled glass sides and nickel keys](https://ik.imagekit.io/appraisily/SEO/old-royal-typewriters-value/old-royal-typewriters-value-image-1_Djgb-pogH.png)

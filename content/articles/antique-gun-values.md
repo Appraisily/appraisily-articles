@@ -39,8 +39,15 @@ structured_data:
     Discover what determines antique gun values with our expert guide. Learn how
     to identify valuable firearms, assess condition, and understand current
     market prices for collectors and investors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-gun-values/antique-gun-values-image-1_0Ojti1qs3.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-gun-values/antique-gun-values-image-1_0Ojti1qs3.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of valuable antique firearms including Civil War
+      revolvers and 20th century rifles
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,17 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-gun-values'
+  about:
+    '@type': Thing
+    name: Antique Firearms
+    description: >-
+      Historical firearms manufactured before 1899 that are valued by collectors
+      for their craftsmanship, historical significance, and investment
+      potential.
+  keywords: >-
+    antique gun values, historical firearm appraisal, vintage gun worth,
+    collectible firearms market, antique weapon identification, rare gun
+    valuation, firearm collector guide
 ---
 
 Antique firearms represent a fascinating intersection of history, craftsmanship, and investment potential. Whether you've inherited an old gun, are considering starting a collection, or simply want to understand the value of a vintage firearm, navigating the world of antique gun values requires specialized knowledge and attention to detail.

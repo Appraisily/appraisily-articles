@@ -41,8 +41,6 @@ structured_data:
     Discover the true value of antique bamboo fly rods with our expert guide.
     Learn about legendary makers, identification tips, price factors, and market
     values for collectors and anglers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-bamboo-fly-rods-value/antique-bamboo-fly-rods-value-image-1_9jJU3S-F-.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,51 @@ structured_data:
   datePublished: '2024-06-23T14:30:00.000Z'
   dateModified: '2024-06-23T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-bamboo-fly-rods-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-bamboo-fly-rods-value/antique-bamboo-fly-rods-value-image-1_9jJU3S-F-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Tonkin cane bamboo fly rod with brass ferrules and silk wrappings
+      from early 1900s
+  keywords:
+    - antique bamboo fly rods value
+    - vintage bamboo fly rod identification
+    - collectible bamboo fly rods
+    - Leonard bamboo fly rods
+    - Payne bamboo fly rod prices
+    - rare fishing tackle valuation
+    - split cane rod appraisal
+  about:
+    '@type': Thing
+    name: Antique Bamboo Fly Rods
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes antique bamboo fly rods valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique bamboo fly rods are valuable due to their handcrafted
+            artisanal quality, historical significance, and the countless hours
+            of skilled handwork that goes into making them. Premium makers,
+            condition, rarity, and provenance all contribute to their monetary
+            value, with the rarest examples commanding auction prices of $20,000
+            or more.
+      - '@type': Question
+        name: When did bamboo fly rods first appear?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The first six-strip bamboo rods appeared in America in the 1850s.
+            Samuel Philippe, a Pennsylvania gunsmith, is credited with creating
+            the first six-strip bamboo rod design around 1850, establishing the
+            hexagonal construction that would become the standard for bamboo fly
+            rods.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Bamboo Fly Rods" level="2" >}}

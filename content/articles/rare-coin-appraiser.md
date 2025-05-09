@@ -39,8 +39,15 @@ structured_data:
     Discover how rare coin appraisers determine the value of your coins, when to
     seek professional appraisal services, and how to avoid common pitfalls when
     getting your rare coins evaluated.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-coin-appraiser/rare-coin-appraiser-image-1_ZgyzXdvNV.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-coin-appraiser/rare-coin-appraiser-image-1_ZgyzXdvNV.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional numismatist examining valuable rare coins with specialized
+      tools and magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-08T14:30:00.000Z'
   dateModified: '2023-07-08T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/rare-coin-appraiser'
+  keywords:
+    - rare coin appraiser
+    - numismatic evaluation
+    - coin grading standards
+    - professional coin valuation
+    - coin appraisal services
+    - collectible coin assessment
+    - numismatic expertise
 ---
 
 ![Professional coin appraiser examining rare coins with magnifying glass and tools](https://ik.imagekit.io/appraisily/SEO/rare-coin-appraiser/rare-coin-appraiser-image-1_ZgyzXdvNV.png)

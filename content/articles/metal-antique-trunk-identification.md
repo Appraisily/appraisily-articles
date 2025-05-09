@@ -43,8 +43,15 @@ structured_data:
     Learn how to identify and value antique metal trunks with our comprehensive
     guide covering history, key features, pricing, and how to spot rare
     collectible trunks.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/metal-antique-trunk-identification/metal-antique-trunk-identification-image-1_ORRyAX7fj.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/metal-antique-trunk-identification/metal-antique-trunk-identification-image-1_ORRyAX7fj.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage metal steamer trunk with ornate hardware, lock mechanism and
+      decorative rivets
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,9 +61,15 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
-  datePublished: '2023-09-12'
-  dateModified: '2023-09-12'
+      width: '112'
+      height: '112'
+  datePublished: '2023-09-12T14:30:00.000Z'
+  dateModified: '2023-09-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/metal-antique-trunk-identification'
+  keywords: >-
+    metal antique trunk identification, vintage steamer trunk values, antique
+    trunk dating techniques, metal trunk manufacturer marks, collectible trunk
+    hardware, antique travel trunk authentication, rare metal trunk valuation
 ---
 
 Antique metal trunks tell stories of travel and craftsmanship from bygone eras. These sturdy pieces, once essential for transporting belongings on steamships and trains, have transformed into highly sought-after collectibles that can command impressive prices. Whether you've discovered an old trunk in your attic or are considering a purchase, understanding how to identify and date these vintage treasures is crucial to determining their value and authenticity.

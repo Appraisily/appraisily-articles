@@ -43,8 +43,15 @@ structured_data:
     Learn how to get accurate appraisals for Native American artifacts. Discover
     value factors, authentication methods, and trusted appraisal services for
     arrowheads, pottery, and more.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/native-american-artifacts-appraisal/native-american-artifacts-appraisal-image-1_1lSr1OY55.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/native-american-artifacts-appraisal/native-american-artifacts-appraisal-image-1_1lSr1OY55.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Native American artifacts collection featuring traditional
+      pottery, arrowheads, and ceremonial beadwork
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,51 @@ structured_data:
   datePublished: '2023-10-20T14:30:00.000Z'
   dateModified: '2023-10-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/native-american-artifacts-appraisal'
+  about:
+    '@type': Thing
+    name: Native American Artifacts
+  keywords: >-
+    Native American artifacts appraisal, tribal artifact authentication,
+    arrowhead valuation, indigenous pottery identification, Native American
+    collectibles value, ceremonial artifact assessment, tribal beadwork
+    appraisal
+  articleSection: Collectibles
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why is proper appraisal of Native American artifacts important?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Proper appraisal of Native American artifacts is important for
+            several reasons: insurance coverage to ensure proper protection,
+            estate planning for inheritance and tax purposes, making informed
+            selling decisions by knowing fair market value, authentication to
+            verify items are genuine and not reproductions, and cultural respect
+            to understand an item's cultural significance and provenance.
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Insurance Coverage
+      description: Accurate valuation ensures proper insurance protection
+    - '@type': ListItem
+      position: 2
+      name: Estate Planning
+      description: Proper documentation for inheritance and tax purposes
+    - '@type': ListItem
+      position: 3
+      name: Selling Decisions
+      description: Knowledge of fair market value before selling or purchasing
+    - '@type': ListItem
+      position: 4
+      name: Authentication
+      description: Verification that items are genuine and not reproductions
+    - '@type': ListItem
+      position: 5
+      name: Cultural Respect
+      description: Understanding of an item's cultural significance and provenance
 ---
 
 ## Introduction to Native American Artifacts Appraisal

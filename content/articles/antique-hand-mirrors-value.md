@@ -40,8 +40,15 @@ structured_data:
     Discover the true value of antique hand mirrors with our expert guide. Learn
     how to identify period styles, materials, and determine fair market prices
     for these decorative treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-hand-mirrors-value/antique-hand-mirrors-value-image-1_MK7d_lUOe.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-hand-mirrors-value/antique-hand-mirrors-value-image-1_MK7d_lUOe.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique hand mirrors collection featuring ornate Victorian, Art
+      Nouveau and Art Deco designs
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,9 +58,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-11-22T14:30:00.000Z'
   dateModified: '2023-11-22T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-hand-mirrors-value'
+  keywords:
+    - antique hand mirrors value
+    - vintage hand mirror identification
+    - Victorian hand mirrors
+    - Art Deco hand mirrors
+    - silver hand mirror worth
+    - collectible hand mirrors
+    - antique mirror appraisal
 ---
 
 Antique hand mirrors are more than just practical items—they're exquisite pieces of decorative art that reflect the craftsmanship and aesthetics of their era. From ornate Victorian silver designs to sleek Art Deco styles, these treasured accessories have become highly collectible. Whether you've inherited a family heirloom or discovered a potential treasure at an estate sale, understanding the value of antique hand mirrors can help you appreciate their worth.

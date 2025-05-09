@@ -46,8 +46,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-07T14:30:00.000Z'
   dateModified: '2023-09-07T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/intrinsic-value-of-art/intrinsic-value-of-art-image-1_l_em_wmwA.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/intrinsic-value-of-art/intrinsic-value-of-art-image-1_l_em_wmwA.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person contemplating abstract art in gallery, illustrating the intrinsic
+      value beyond monetary worth
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,14 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/intrinsic-value-of-art'
+  keywords:
+    - intrinsic value of art
+    - art valuation methods
+    - emotional value in artwork
+    - cultural significance of art
+    - subjective art appreciation
+    - art investment vs. inherent worth
+    - artistic merit evaluation
 ---
 
 ## Introduction to the Intrinsic Value of Art

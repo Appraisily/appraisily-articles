@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique and vintage piggy banks. Learn about
     collectible styles, price ranges, and how to identify rare and valuable
     pieces worth serious money.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-piggy-banks-value/old-piggy-banks-value-image-1_iA4wD48Fn.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-piggy-banks-value/old-piggy-banks-value-image-1_iA4wD48Fn.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique piggy banks collection featuring valuable cast iron
+      mechanical and ceramic designs from the 19th-20th centuries
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,14 @@ structured_data:
   datePublished: '2023-09-30T14:30:00.000Z'
   dateModified: '2023-09-30T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-piggy-banks-value'
+  keywords:
+    - antique piggy banks value
+    - old piggy banks worth money
+    - vintage mechanical banks
+    - collectible cast iron banks
+    - rare ceramic piggy banks
+    - antique bank collectors guide
+    - piggy bank price guide
 ---
 
 ## Introduction to Antique Piggy Banks

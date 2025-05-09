@@ -48,8 +48,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-04-06T14:30:00.000Z'
   dateModified: '2023-04-06T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-identification-app/free-antique-identification-app-image-1_YomJQnJqB.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-identification-app/free-antique-identification-app-image-1_YomJQnJqB.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person using a smartphone to identify antiques with a free identification
+      app
   publisher:
     '@type': Organization
     name: Appraisily
@@ -57,6 +64,37 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/free-antique-identification-app'
+  articleSection: Digital Tools
+  keywords:
+    - free antique identification app
+    - antique identifier app
+    - vintage item valuation
+    - identify antiques by photo
+    - smartphone antique appraisal
+    - best antique apps 2025
+    - Google Lens for antiques
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Are Antique Identification Apps?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            These smartphone applications use image recognition technology and
+            AI to identify antiques and collectibles from photos you take,
+            providing information about origin, age, and estimated value.
+            Antique identification apps work by analyzing photos of your items
+            and comparing them against vast databases of known antiques and
+            collectibles. Most utilize some combination of these technologies:
+            1. Artificial Intelligence (AI): Advanced algorithms that can
+            recognize patterns, shapes, and distinctive features of antiques 2.
+            Machine Learning: Systems that improve identification accuracy over
+            time as more users contribute to the database 3. Image Recognition:
+            Technology that analyzes visual characteristics to identify similar
+            items 4. Expert Knowledge Databases: Collections of information from
+            antique specialists, auction houses, and historical records
 ---
 
 ![Person using a smartphone to identify antiques with a free identification app](https://ik.imagekit.io/appraisily/SEO/free-antique-identification-app/free-antique-identification-app-image-1_YomJQnJqB.png)

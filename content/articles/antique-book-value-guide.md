@@ -39,8 +39,6 @@ structured_data:
     Discover how to accurately assess antique book values with our comprehensive
     guide covering first editions, condition factors, and professional appraisal
     resources.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-book-value-guide/antique-book-value-guide-image-1_zCj5849DU.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,48 @@ structured_data:
   datePublished: '2023-08-04T14:30:00.000Z'
   dateModified: '2023-08-04T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-book-value-guide'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-book-value-guide/antique-book-value-guide-image-1_zCj5849DU.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage leather-bound antique books with gold lettering showing various
+      conditions and bindings
+  about:
+    '@type': Thing
+    name: Antique Book Valuation
+    description: Methods and factors for determining the value of rare and antique books
+  keywords: >-
+    antique book valuation, rare book worth, first edition identification, book
+    collecting guide, antiquarian book market, book condition grading, old book
+    appraisal
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes an antique book valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique books derive their worth from a combination of factors
+            including rarity, condition, historical significance, and demand.
+            Key elements that add value include: first editions, limited
+            editions, signed copies, special features like unusual bindings or
+            illustrations, and historical significance.
+      - '@type': Question
+        name: How does condition affect antique book value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The physical condition of an antique book significantly impacts its
+            value. Collectors and dealers use standardized grading terminology,
+            with books in 'Fine' condition (exceptional with no defects)
+            retaining 100% of potential value, while books in 'Very Good'
+            condition (minor signs of wear but no major defects) typically
+            retain 70-90% of potential value.
 ---
 
 ![Collection of antique books with leather bindings and gold lettering](https://ik.imagekit.io/appraisily/SEO/antique-book-value-guide/antique-book-value-guide-image-1_zCj5849DU.png)

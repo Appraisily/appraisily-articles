@@ -41,8 +41,15 @@ structured_data:
     Discover the value of rare glass insulators with our comprehensive guide to
     identification, pricing, and what makes these vintage electrical components
     worth thousands to collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-glass-insulators-value/rare-glass-insulators-value-image-1_3RnrcoUxi.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-glass-insulators-value/rare-glass-insulators-value-image-1_3RnrcoUxi.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage colored glass insulators collection showing rare Hemingray and
+      other valuable specimens
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,21 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/rare-glass-insulators-value'
+  keywords:
+    - rare glass insulators value
+    - antique glass insulator prices
+    - Hemingray insulator worth
+    - colored glass insulators
+    - collectible telegraph insulators
+    - valuable electrical insulators
+    - glass insulator identification
+  about:
+    '@type': Thing
+    name: Glass Insulators
+    description: >-
+      Historical glass components used to insulate telegraph and power lines,
+      now collected as antiques and valued for their rarity, color, and design
+  timeRequired: PT10M
 ---
 
 ## Introduction to Glass Insulator Collecting

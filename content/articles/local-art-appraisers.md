@@ -37,8 +37,15 @@ structured_data:
   description: >-
     Learn how to find qualified local art appraisers, what to expect from the
     process, and how much professional art appraisal services typically cost.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/local-art-appraisers/local-art-appraisers-image-1_4Ua2dwAXX.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/local-art-appraisers/local-art-appraisers-image-1_4Ua2dwAXX.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser examining artwork details with client during
+      valuation consultation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -48,8 +55,56 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-21T14:30:00.000Z'
   dateModified: '2023-11-21T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/local-art-appraisers'
+  articleSection: Art Appraisal
+  keywords:
+    - local art appraisers
+    - certified art appraiser near me
+    - professional art valuation
+    - art appraisal costs
+    - fine art appraisal services
+    - finding art appraisers
+    - art collection valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why might I need an art appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            There are several situations where having your artwork
+            professionally appraised is essential: 1) Insurance Coverage: Most
+            insurance companies require professional appraisals to properly
+            insure valuable artwork. 2) Estate Planning: Accurate valuations are
+            crucial for dividing assets, estate tax preparation, and charitable
+            donations. 3) Buying or Selling: Whether you're considering a
+            purchase or planning to sell, knowing the fair market value helps
+            ensure you're making a sound decision. 4) Donations: For tax
+            deduction purposes when donating art to museums or charitable
+            organizations. 5) Divorce Settlements: Art collections often need to
+            be valued for equitable distribution. 6) Authentication: To verify
+            the authenticity and provenance of a piece.
+      - '@type': Question
+        name: What types of art appraisals are available?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Art appraisals aren't one-size-fits-all. The type of appraisal you
+            need depends on your specific situation: 1) Insurance Appraisal:
+            Determines replacement value if artwork is damaged, stolen, or
+            destroyed. This typically reflects retail replacement cost, which is
+            often higher than fair market value. 2) Fair Market Value Appraisal:
+            Estimates what a willing buyer would pay a willing seller when
+            neither is under pressure to complete the transaction. Common for
+            tax purposes, donations, and estate planning.
 ---
 
 ![Professional art appraiser examining a painting with client](https://ik.imagekit.io/appraisily/SEO/local-art-appraisers/local-art-appraisers-image-1_4Ua2dwAXX.png)

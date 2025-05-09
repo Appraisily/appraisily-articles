@@ -39,8 +39,15 @@ structured_data:
     Discover what determines antique grandfather clock values, from maker marks
     to movement types. Learn price ranges, authentication tips, and market
     trends for these timeless treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-grandfather-clocks/value-of-antique-grandfather-clocks-image-1_lsHrSMI3oS.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-grandfather-clocks/value-of-antique-grandfather-clocks-image-1_lsHrSMI3oS.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate 19th century antique grandfather clock with carved wooden case and
+      brass moon phase dial
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,16 @@ structured_data:
   datePublished: '2023-09-18T14:30:00.000Z'
   dateModified: '2023-09-18T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antique-grandfather-clocks'
+  about:
+    '@type': Thing
+    name: Antique Grandfather Clocks
+    description: >-
+      Tall freestanding pendulum clocks typically measuring 6 to 8 feet in
+      height with a weight-driven pendulum housed in a wooden case.
+  keywords: >-
+    antique grandfather clock values, grandfather clock appraisal, vintage tall
+    case clock worth, Howard Miller clock value, antique clock authentication,
+    longcase clock identification, grandfather clock price guide
 ---
 
 ![Ornate antique grandfather clock with wooden case and brass face](https://ik.imagekit.io/appraisily/SEO/value-of-antique-grandfather-clocks/value-of-antique-grandfather-clocks-image-1_lsHrSMI3oS.png)

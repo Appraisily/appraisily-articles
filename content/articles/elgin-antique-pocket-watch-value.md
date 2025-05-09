@@ -1,38 +1,87 @@
 ---
-title: "Elgin Antique Pocket Watch Value: Complete Collector's Guide & Price Analysis"
-description: "Discover the true value of your Elgin antique pocket watch with expert appraisal insights, price factors, and authentication tips. Includes current market values and identification guidance."
-slug: "elgin-antique-pocket-watch-value"
-date: 2025-03-23T10:30:00-04:00
-lastmod: 2025-03-23T10:30:00-04:00
+title: 'Elgin Antique Pocket Watch Value: Complete Collector''s Guide & Price Analysis'
+description: >-
+  Discover the true value of your Elgin antique pocket watch with expert
+  appraisal insights, price factors, and authentication tips. Includes current
+  market values and identification guidance.
+slug: elgin-antique-pocket-watch-value
+date: 2025-03-23T14:30:00.000Z
+lastmod: 2025-03-23T14:30:00.000Z
 draft: false
-featured_image: "https://ik.imagekit.io/appraisily/SEO/elgin-antique-pocket-watch-value/elgin-antique-pocket-watch-value-image-1_Fcizd7p02.png"
-image_alt: "Close-up of an open Elgin antique pocket watch showing intricate movement"
-category: "Watches & Timepieces"
-type: "article"
-author: "Appraisily Team"
+featured_image: >-
+  https://ik.imagekit.io/appraisily/SEO/elgin-antique-pocket-watch-value/elgin-antique-pocket-watch-value-image-1_Fcizd7p02.png
+image_alt: Close-up of an open Elgin antique pocket watch showing intricate movement
+category: Watches & Timepieces
+type: article
+author: Appraisily Team
 featured: true
-meta_title: "Elgin Antique Pocket Watch Value | Pricing Guide & Authenticity"
-meta_description: "Expert guide to determining Elgin antique pocket watch values. Learn about pricing factors, authentication, and current market rates for these historic timepieces."
-canonical_url: "https://appraisily.com/elgin-antique-pocket-watch-value/"
-keywords: "Elgin antique pocket watch value, Elgin pocket watch prices, vintage Elgin watch worth, antique pocket watch appraisal, Elgin watch identification, gold Elgin pocket watch value"
-structured_data: 
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Elgin Antique Pocket Watch Value: Complete Collector's Guide & Price Analysis"
-  "author": 
-    "@type": "Organization"
-    "name": "Appraisily Team"
-  "publisher": 
-    "@type": "Organization"
-    "name": "Appraisily"
-    "logo": 
-      "@type": "ImageObject"
-      "url": "https://appraisily.com/images/logo.png"
-  "datePublished": "2025-03-23"
-  "dateModified": "2025-03-23"
-  "image": "https://ik.imagekit.io/appraisily/SEO/elgin-antique-pocket-watch-value/elgin-antique-pocket-watch-value-image-1_Fcizd7p02.png"
-  "mainEntityOfPage": "https://appraisily.com/elgin-antique-pocket-watch-value/"
-  "description": "Discover the true value of your Elgin antique pocket watch with expert appraisal insights, price factors, and authentication tips. Includes current market values and identification guidance."
+meta_title: Elgin Antique Pocket Watch Value | Pricing Guide & Authenticity
+meta_description: >-
+  Expert guide to determining Elgin antique pocket watch values. Learn about
+  pricing factors, authentication, and current market rates for these historic
+  timepieces.
+canonical_url: 'https://appraisily.com/elgin-antique-pocket-watch-value/'
+keywords: >-
+  Elgin antique pocket watch value, Elgin pocket watch prices, vintage Elgin
+  watch worth, antique pocket watch appraisal, Elgin watch identification, gold
+  Elgin pocket watch value
+structured_data:
+  '@context': 'https://schema.org'
+  '@type': Article
+  headline: >-
+    Elgin Antique Pocket Watch Value: Complete Collector's Guide & Price
+    Analysis
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: 'https://appraisily.com/images/logo.png'
+  datePublished: '2025-03-23'
+  dateModified: '2025-03-23'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/elgin-antique-pocket-watch-value/elgin-antique-pocket-watch-value-image-1_Fcizd7p02.png
+    width: '1200'
+    height: '630'
+    caption: Close-up of an open Elgin antique pocket watch showing intricate movement
+  mainEntityOfPage: 'https://appraisily.com/elgin-antique-pocket-watch-value/'
+  description: >-
+    Discover the true value of your Elgin antique pocket watch with expert
+    appraisal insights, price factors, and authentication tips. Includes current
+    market values and identification guidance.
+'@graph':
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the value range of Elgin pocket watches?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Elgin pocket watches range in value from a few hundred to several
+            thousand dollars depending on various factors. Recent auction
+            results show Elgin pocket watches selling for anywhere from $200 for
+            common models to over $5,000 for rare specimens with precious metal
+            cases or special historical significance. In 2024, a 14K gold Elgin
+            hunter case pocket watch sold for $3,200 at Tiroche Auction House,
+            while another gold Elgin with matching chain fetched $3,500 at
+            Circle Auction.
+      - '@type': Question
+        name: When was the Elgin National Watch Company founded?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The Elgin National Watch Company was founded in 1864 as the National
+            Watch Company in Elgin, Illinois. The company's goal was to
+            mass-produce high-quality pocket watches at more affordable prices
+            than imported Swiss watches. It was officially renamed as the Elgin
+            National Watch Company in 1874, reflecting its connection to the
+            city of Elgin, Illinois.
 ---
 
 {{< content-modules/section-header title="Elgin Antique Pocket Watch Value: A Collector's Guide" level="2" >}}

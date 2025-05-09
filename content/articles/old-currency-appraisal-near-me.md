@@ -39,8 +39,15 @@ structured_data:
     Learn how to find reputable old currency appraisal services in your area,
     understand valuation factors, and get fair prices for your rare coins and
     paper money.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-currency-appraisal-near-me/old-currency-appraisal-near-me-image-1_q3jjLcr_C.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-currency-appraisal-near-me/old-currency-appraisal-near-me-image-1_q3jjLcr_C.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage coins and paper currency being examined by a professional
+      numismatist during an appraisal session
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,36 @@ structured_data:
   datePublished: '2023-09-29T14:30:00.000Z'
   dateModified: '2023-09-29T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-currency-appraisal-near-me'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why is professional currency appraisal important?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Professional currency appraisal matters because it provides accurate
+            valuation, authentication of rare pieces, and expert insights into
+            historical significance. A professional numismatist has the
+            expertise and resources to properly evaluate your items and provide
+            an accurate assessment of their worth.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Find Reputable Currency Appraisers Near You
+    description: >-
+      Several reliable resources exist to help you locate qualified numismatists
+      and coin dealers in your area who offer professional appraisal services.
+    step:
+      - '@type': HowToStep
+        name: Professional Associations and Directories
+        text: >-
+          Several organizations maintain directories of certified numismatists
+          and coin dealers, such as the American Numismatic Association (ANA)
+          Coin Dealer Directory.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/old-currency-appraisal-near-me/old-currency-appraisal-near-me-image-2_N5SvRFIHH.png
 ---
 
 ![Collection of rare coins and currency being appraised by a professional numismatist](https://ik.imagekit.io/appraisily/SEO/old-currency-appraisal-near-me/old-currency-appraisal-near-me-image-1_q3jjLcr_C.png)

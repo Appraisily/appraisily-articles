@@ -39,8 +39,6 @@ structured_data:
     Learn to identify antique table legs with our comprehensive guide covering
     cabriole, fluted, Marlborough, and other distinctive styles from different
     periods.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identify-antique-table-legs/identify-antique-table-legs-image-1_924ZM0ftI.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,134 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/identify-antique-table-legs'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identify-antique-table-legs/identify-antique-table-legs-image-1_924ZM0ftI.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of distinctive antique table leg styles including cabriole,
+      fluted, and Marlborough designs from different historical periods
+  keywords:
+    - antique table leg identification
+    - cabriole legs history
+    - Marlborough table legs
+    - antique furniture authentication
+    - period table leg styles
+    - fluted table legs
+    - identifying antique furniture
+  about:
+    '@type': Thing
+    name: Antique Furniture
+    description: >-
+      Historical furniture pieces with distinctive period styles and
+      craftsmanship
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  articleSection: Furniture
+  wordCount: '750'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  potentialAction:
+    '@type': ReadAction
+    target:
+      '@type': EntryPoint
+      urlTemplate: 'https://articles.appraisily.com/articles/identify-antique-table-legs'
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  accessMode:
+    - textual
+    - visual
+  accessibilityFeature:
+    - alternativeText
+    - readingOrder
+  accessibilityHazard:
+    - none
+  copyrightYear: '2024'
+  copyrightHolder:
+    '@type': Organization
+    name: Appraisily
+  inLanguage: en-US
+  audience:
+    '@type': Audience
+    audienceType: 'Antique Collectors, Furniture Enthusiasts, Appraisers'
+  educationalUse: Research
+  learningResourceType: Article
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Antique Table Legs
+  description: >-
+    A guide to identifying different styles and periods of antique table legs
+    for authentication and valuation purposes.
+  tool:
+    - Reference materials
+    - Magnifying glass
+    - Measuring tape
+    - Camera for documentation
+  step:
+    - '@type': HowToStep
+      name: Examine the overall shape and silhouette
+      text: >-
+        Look at the general form of the table legs to identify key style
+        characteristics like S-curves in cabriole legs or straight lines in
+        Marlborough legs.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/identify-antique-table-legs/identify-antique-table-legs-image-1_924ZM0ftI.png
+    - '@type': HowToStep
+      name: Analyze construction methods
+      text: >-
+        Inspect how the legs are attached to the table and look for signs of
+        period-appropriate joinery techniques.
+    - '@type': HowToStep
+      name: Identify decorative elements
+      text: >-
+        Note any carvings, turnings, or ornamental features that can help place
+        the piece in a specific style period.
+    - '@type': HowToStep
+      name: Determine the wood type
+      text: >-
+        Different periods favored certain woods, so identifying the material can
+        help narrow down the age.
+    - '@type': HowToStep
+      name: Look for signs of age
+      text: >-
+        Examine patina, wear patterns, and other indicators of authentic aging
+        versus artificial distressing.
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why are table legs important in antique identification?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Table legs serve as crucial identifiers in antique furniture
+          authentication. Their design aesthetics evolved significantly across
+          different periods, reflecting changing tastes, cultural influences,
+          and technological advancements in woodworking. They help determine the
+          approximate age of the piece, identify the furniture's style period,
+          assess potential value and collectibility, distinguish between
+          authentic antiques and reproductions, and make more informed
+          purchasing decisions.
+    - '@type': Question
+      name: What is a cabriole leg?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The cabriole leg is among the most recognizable antique table leg
+          styles, characterized by an elegant S-shaped curve with an
+          outward-curving "knee" and inward-curving "ankle." This graceful
+          design emerged in the early 18th century and became particularly
+          associated with Queen Anne and Chippendale furniture styles.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Table Legs" level="2" >}}

@@ -40,8 +40,15 @@ structured_data:
     Learn how to identify antique picture frames with our expert guide. Discover
     key indicators of authenticity, age, and value through materials,
     construction, and stylistic elements.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-picture-frames/how-to-identify-antique-picture-frames-image-1_CTt0K15zsx.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-picture-frames/how-to-identify-antique-picture-frames-image-1_CTt0K15zsx.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate 19th century gilded picture frame with intricate hand-carved floral
+      and scrollwork designs
   author:
     '@type': Organization
     name: Appraisily Team

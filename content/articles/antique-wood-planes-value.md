@@ -40,7 +40,6 @@ structured_data:
     Discover the worth of antique wood planes, from identifying valuable models
     to understanding the factors that influence their price in today's
     collector's market.
-  image: 'https://www.appraisily.com/images/antique-wood-planes-value.jpg'
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +49,23 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-04-18T14:30:00.000Z'
   dateModified: '2023-04-18T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: 'https://www.appraisily.com/images/antique-wood-planes-value.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage wooden hand planes showing patina, maker's marks and craftsmanship
+      details that affect their collector value
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-wood-planes-value'
+  keywords: >-
+    antique wood planes value, vintage wooden hand planes, Stanley plane
+    identification, woodworking collectibles, antique tool appraisal, wooden
+    plane makers, rare carpenter tools
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Wood Planes" level="2" >}}

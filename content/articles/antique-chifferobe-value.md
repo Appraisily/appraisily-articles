@@ -39,8 +39,15 @@ structured_data:
     Discover the factors that determine antique chifferobe value, from condition
     and materials to style and provenance, with price ranges from $200 to $3,000
     in this comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-chifferobe-value/antique-chifferobe-value-image-1_8-jwklziG.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-chifferobe-value/antique-chifferobe-value-image-1_8-jwklziG.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique wooden chifferobe with ornate carvings, mirror, and combination of
+      drawers and hanging space
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,14 @@ structured_data:
   datePublished: '2024-05-12T14:30:00.000Z'
   dateModified: '2024-05-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-chifferobe-value'
+  keywords:
+    - antique chifferobe value
+    - vintage chifferobe worth
+    - antique wardrobe values
+    - 1920s chifferobe prices
+    - oak chifferobe value
+    - mahogany chifferobe worth
+    - antique furniture appraisal
 ---
 
 A chifferobe—a unique furniture piece combining storage drawers with hanging space—represents a fascinating slice of early 20th-century American domestic life. Understanding antique chifferobe values requires knowledge of their distinctive features, historical significance, and the factors that influence their market worth today.

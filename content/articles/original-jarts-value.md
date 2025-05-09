@@ -39,8 +39,15 @@ structured_data:
     Discover the value of original Jarts lawn darts in today's collectibles
     market. Learn identification tips, current price ranges, and legal
     considerations for these banned vintage items.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/original-jarts-value/original-jarts-value-image-1_tO0GE2UgjD.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/original-jarts-value/original-jarts-value-image-1_tO0GE2UgjD.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage 1970s original Jarts lawn darts complete set with metal-tipped
+      darts and plastic target rings in original packaging
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,29 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-07-07T14:30:00.000Z'
   dateModified: '2023-07-07T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/original-jarts-value'
+  keywords:
+    - original jarts value
+    - banned lawn darts worth
+    - vintage jarts collectibles
+    - metal-tipped lawn darts
+    - jarts price guide
+    - collectible lawn games
+    - 1980s banned toys
+  about:
+    '@type': Thing
+    name: Jarts Lawn Darts
+    description: >-
+      Vintage outdoor game banned in 1988 due to safety concerns, now a
+      collectible item
+  isPartOf:
+    '@type': CollectionPage
+    name: Toys & Games Collectibles
+    url: 'https://articles.appraisily.com/categories/toys-games'
 ---
 
 ![Original vintage Jarts lawn darts set in box with metal-tipped darts and plastic rings](https://ik.imagekit.io/appraisily/SEO/original-jarts-value/original-jarts-value-image-1_tO0GE2UgjD.png)

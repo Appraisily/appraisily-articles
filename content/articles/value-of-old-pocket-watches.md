@@ -39,8 +39,6 @@ structured_data:
     Discover what your antique pocket watch is worth with our comprehensive
     guide to valuation, identification, and key factors that affect the value of
     old pocket watches.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-pocket-watches/value-of-old-pocket-watches-image-1_XZaLDkJUja.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +48,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-05-20T14:30:00.000Z'
   dateModified: '2024-05-20T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-pocket-watches/value-of-old-pocket-watches-image-1_XZaLDkJUja.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique gold pocket watch with exposed movement and chain on vintage
+      background
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/value-of-old-pocket-watches'
+  keywords: >-
+    antique pocket watch value, vintage pocket watch identification, pocket
+    watch appraisal, collectible timepieces, rare pocket watches, pocket watch
+    serial numbers, pocket watch makers
 ---
 
 {{< content-modules/section-header title="Introduction to Pocket Watch Valuation" level="2" >}}

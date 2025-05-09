@@ -46,15 +46,34 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-11T14:30:00.000Z'
   dateModified: '2023-08-11T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-gun-valuation/antique-gun-valuation-image-1-error_-akJvtkaG.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-gun-valuation/antique-gun-valuation-image-1-error_-akJvtkaG.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique firearms including a rare flintlock pistol
+      and 19th century revolver
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-gun-valuation'
+  about:
+    '@type': Thing
+    name: Antique Firearms
+    description: >-
+      Historical firearms manufactured in or before 1898, valued for their
+      historical significance, rarity, and condition.
+  keywords: >-
+    antique gun valuation, collectible firearm appraisal, vintage gun worth,
+    antique firearm identification, gun collector pricing guide, historical
+    weapon value, rare firearm authentication
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Gun Valuation" level="2" >}}

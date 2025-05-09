@@ -39,8 +39,6 @@ structured_data:
     Expert guide to determining antique doll values, covering identification
     methods, key price factors, and current market trends for collectors and
     inheritors of vintage dolls.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-antique-dolls-value/old-antique-dolls-value-image-1_KzXMvhQUu.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +50,24 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-07-23T14:30:00.000Z'
   dateModified: '2024-07-23T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-antique-dolls-value/old-antique-dolls-value-image-1_KzXMvhQUu.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique dolls collection showcasing various styles, materials and
+      eras of collectible vintage dolls
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-antique-dolls-value'
+  keywords:
+    - antique dolls value
+    - vintage doll identification
+    - collectible doll prices
+    - antique doll markings
+    - porcelain doll worth
+    - rare antique dolls
+    - old doll appraisal
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Doll Valuation" level="2" >}}

@@ -44,8 +44,14 @@ structured_data:
     comprehensive guide covering valuation factors, price ranges, and expert
     appraisal tips.
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/how-much-is-my-antique-radio-worth/how-much-is-my-antique-radio-worth-image-1_eofaz4r_Y.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage wooden tube radio with ornate cabinet details showcasing classic
+      1940s craftsmanship
   author:
     '@type': Organization
     name: Appraisily Team
@@ -61,6 +67,41 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/how-much-is-my-antique-radio-worth
+  keywords:
+    - antique radio value
+    - vintage radio worth
+    - tube radio prices
+    - antique radio appraisal
+    - collectible radio values
+    - old radio identification
+    - antique radio price guide
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: How much is my antique radio worth?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Most common antique radios typically range in value from as little as
+          $5 to several hundred dollars. However, rare models or those in
+          exceptional condition can command much higher prices, sometimes
+          reaching into the thousands. The value depends on factors like age,
+          historical significance, brand, model rarity, condition, and
+          completeness.
+    - '@type': Question
+      name: What factors determine an antique radio's value?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The key factors that determine an antique radio's value include: 1)
+          Age and historical significance - radios from the 1920s through the
+          1950s are generally considered the most collectible; 2) Brand and
+          model rarity - certain brands are particularly sought after; 3)
+          Condition and originality - radios in working condition with original
+          components are more valuable; 4) Aesthetics and design - unique or
+          representative designs from specific eras command higher prices.
 ---
 
 {{< content-modules/section-header title="Understanding Antique Radio Values" level="2" >}}

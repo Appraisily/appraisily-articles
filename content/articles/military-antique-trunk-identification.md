@@ -42,7 +42,14 @@ structured_data:
     Learn how to identify, authenticate, and value military antique trunks from
     different eras. Expert tips on spotting genuine military trunks and
     determining their worth.
-  image: 'https://appraisily.com/images/military-antique-trunk-identification.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/military-antique-trunk-identification.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic military antique trunk with period-specific markings, hardware,
+      and olive green paint
   author:
     '@type': Organization
     name: Appraisily Team
@@ -58,6 +65,16 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/military-antique-trunk-identification
+  about:
+    '@type': Thing
+    name: Military Antique Trunks
+    description: >-
+      Historical storage containers used by military personnel across different
+      eras
+  keywords: >-
+    military antique trunk identification, vintage military footlocker, army
+    trunk authentication, WWII military trunk value, Civil War military chest,
+    military collectibles, antique military storage
 ---
 
 Military antique trunks represent a fascinating crossroads of military history, craftsmanship, and practical design. These utilitarian pieces carried the personal belongings of soldiers across battlefields and oceans, witnessing history firsthand. Today, they're sought-after collectibles that offer a tangible connection to our military past.

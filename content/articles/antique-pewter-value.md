@@ -42,8 +42,15 @@ structured_data:
     Comprehensive guide to determining antique pewter value, identifying
     authentic pieces through maker's marks, and understanding current market
     prices for collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-pewter-value/antique-pewter-value-image-1_DAF8WT0Zv.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-pewter-value/antique-pewter-value-image-1_DAF8WT0Zv.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique pewter collection featuring 18th and 19th century plates,
+      tankards and decorative items
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,9 +60,58 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-pewter-value'
+  keywords:
+    - antique pewter value
+    - pewter collectibles worth
+    - vintage pewter identification
+    - pewter maker's marks
+    - selling antique pewter
+    - rare pewter items
+    - pewter price guide
+  articleSection: Collectibles
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Determines Antique Pewter Value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of antique pewter depends on several key factors including
+            age and provenance, maker's marks and touchmarks, condition, and
+            rarity and design. Older pewter pieces, especially those from the
+            18th century or earlier, command higher prices. Items with
+            documented provenance, quality maker's marks (touchmarks), good
+            condition without severe damage, and rare or intricate designs are
+            typically more valuable in the collectibles market.
+      - '@type': Question
+        name: How does age affect antique pewter value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Generally, older pewter pieces command higher prices. Items dating
+            from the 18th century or earlier are particularly desirable.
+            American pieces from colonial times and early English pewter are
+            among the most valuable in the marketplace. Documented provenance
+            significantly increases value, especially for pieces with a verified
+            history of ownership or those linked to notable historical figures.
+      - '@type': Question
+        name: Why are maker's marks important for pewter valuation?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Maker's marks, also known as touchmarks, are distinguishing
+            characteristics of quality antique pewter that help establish
+            authenticity, age, and origin. Most touchmarks made before 1820 are
+            sophisticated and artistic. These marks can significantly increase a
+            piece's value, particularly if they belong to renowned pewterers of
+            their time.
 ---
 
 ![Collection of antique pewter pieces including plates, tankards and decorative items](https://ik.imagekit.io/appraisily/SEO/antique-pewter-value/antique-pewter-value-image-1_DAF8WT0Zv.png)

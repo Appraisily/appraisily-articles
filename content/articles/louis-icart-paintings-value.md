@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of Louis Icart paintings and prints in today's
     market with this comprehensive guide to authentication, pricing, and
     investment potential.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/louis-icart-paintings-value/louis-icart-paintings-value-image-3_xjfHRxAZk.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/louis-icart-paintings-value/louis-icart-paintings-value-image-3_xjfHRxAZk.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Louis Icart Art Deco painting featuring elegant women in his
+      distinctive erotic style
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,29 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-07-03T14:30:00.000Z'
   dateModified: '2023-07-03T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/louis-icart-paintings-value'
+  keywords:
+    - Louis Icart paintings value
+    - Louis Icart authentication
+    - Art Deco artist values
+    - Louis Icart prints worth
+    - Louis Icart etchings prices
+    - vintage Icart appraisal
+    - Louis Icart investment
+  articleSection: Art
+  about:
+    '@type': Thing
+    name: Louis Icart
+    description: >-
+      French Art Deco artist known for his elegant, often erotic depictions of
+      fashionable women and pastoral scenes
+    sameAs: 'https://en.wikipedia.org/wiki/Louis_Icart'
 ---
 
 Louis Icart (1888-1950) stands as one of the most celebrated Art Deco artists of the early 20th century. His elegant, often erotic depictions of fashionable women and pastoral scenes have captivated collectors for generations. If you've discovered what might be an Icart piece or are considering investing in his work, understanding the current market values and authentication process is essential.

@@ -32,30 +32,67 @@ keywords:
   - native american jewelry appraisal
   - cultural artifact assessment
 structured_data:
-  '@context': 'http://schema.org'
+  '@context': 'https://schema.org'
   '@type': Article
   headline: 'Indian Artifacts Appraisers Near Me: Expert Valuation Services Guide'
   description: >-
     Find reputable Indian artifacts appraisers near you with our comprehensive
     guide to valuation services, authentication, and market value assessment of
     Native American art and artifacts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/indian-artifacts-appraisers-near-me/indian-artifacts-appraisers-near-me-image-1_Frwm7LlDx.png
   author:
     '@type': Organization
     name: Appraisily Team
+  datePublished: '2023-09-06T14:30:00.000Z'
+  dateModified: '2023-09-06T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/indian-artifacts-appraisers-near-me/indian-artifacts-appraisers-near-me-image-1_Frwm7LlDx.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional display of authentic Native American artifacts including
+      pottery, beadwork, and arrowheads arranged for expert appraisal
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
-  datePublished: '2023-09-06T14:30:00.000Z'
-  dateModified: '2023-09-06T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/indian-artifacts-appraisers-near-me
+  about:
+    '@type': Thing
+    name: Native American Artifacts
+    description: >-
+      Cultural and historical items created by indigenous peoples of North
+      America, including pottery, beadwork, arrowheads, textiles, and jewelry.
+  keywords:
+    - indian artifacts appraisers near me
+    - native american art valuation
+    - tribal artifact authentication
+    - arrowhead appraisal services
+    - indigenous pottery valuation
+    - native american jewelry appraisal
+    - cultural artifact assessment
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why is professional appraisal of Indian artifacts important?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Professional appraisal of Indian artifacts is important for multiple
+            purposes: 1) Authentication - distinguishing authentic artifacts
+            from reproductions, 2) Insurance coverage - documenting value for
+            proper insurance protection, 3) Estate planning - accurate valuation
+            for inheritance and distribution, 4) Potential sale - understanding
+            fair market value before listing items, 5) Tax implications -
+            providing documentation for charitable donations or tax purposes.
 ---
 
 {{< content-modules/section-header title="Finding Indian Artifacts Appraisers Near You" level="2" >}}

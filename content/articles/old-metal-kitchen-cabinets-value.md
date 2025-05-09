@@ -39,8 +39,15 @@ structured_data:
     Discover what your vintage metal kitchen cabinets are worth with our
     comprehensive guide to brands, identification, restoration, and current
     market values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-metal-kitchen-cabinets-value/old-metal-kitchen-cabinets-value-image-1_wSfN7JgGo.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-metal-kitchen-cabinets-value/old-metal-kitchen-cabinets-value-image-1_wSfN7JgGo.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Pristine 1950s mint green steel kitchen cabinets showing excellent
+      preservation and period design features
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,31 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-06-20T14:30:00.000Z'
   dateModified: '2023-06-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-metal-kitchen-cabinets-value'
+  keywords:
+    - old metal kitchen cabinets value
+    - vintage steel kitchen cabinets
+    - mid-century metal cabinets
+    - Geneva kitchen cabinets
+    - St. Charles cabinets worth
+    - 1950s kitchen collectibles
+    - retro kitchen restoration
+  about:
+    '@type': Thing
+    name: Vintage Metal Kitchen Cabinets
+    description: >-
+      Mid-century steel kitchen cabinets from the 1940s-1960s that have become
+      collectible items
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  timeRequired: PT10M
+  articleSection: Home & Kitchen
 ---
 
 In the mid-20th century, steel kitchen cabinets represented the pinnacle of modern household design. Today, these vintage metal kitchen cabinets have found new life as sought-after collectibles among mid-century enthusiasts and homeowners looking to create authentic retro kitchens. But exactly how much are these nostalgic treasures worth in today's market?

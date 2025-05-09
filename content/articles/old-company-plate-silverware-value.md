@@ -1,42 +1,67 @@
 ---
-title: "Old Company Plate Silverware Value: Collector's Guide & Price Analysis"
-description: "Discover the true value of Old Company Plate silverware patterns. Our comprehensive guide covers identification, pricing factors, and where to sell these collectible silver-plated flatware pieces."
-slug: "old-company-plate-silverware-value"
-date: 2023-09-11T10:30:00-04:00
-lastmod: 2023-09-11T10:30:00-04:00
+title: 'Old Company Plate Silverware Value: Collector''s Guide & Price Analysis'
+description: >-
+  Discover the true value of Old Company Plate silverware patterns. Our
+  comprehensive guide covers identification, pricing factors, and where to sell
+  these collectible silver-plated flatware pieces.
+slug: old-company-plate-silverware-value
+date: 2023-09-11T14:30:00.000Z
+lastmod: 2023-09-11T14:30:00.000Z
 draft: false
-featured_image: "https://ik.imagekit.io/appraisily/SEO/old-company-plate-silverware-value/old-company-plate-silverware-value-image-1_PlSSQuJii.png"
-image_alt: "Collection of Old Company Plate silverware including forks, knives and spoons arranged on a vintage cloth"
-category: "Silverware"
-type: "article"
-author: "Appraisily Team"
+featured_image: >-
+  https://ik.imagekit.io/appraisily/SEO/old-company-plate-silverware-value/old-company-plate-silverware-value-image-1_PlSSQuJii.png
+image_alt: >-
+  Collection of Old Company Plate silverware including forks, knives and spoons
+  arranged on a vintage cloth
+category: Silverware
+type: article
+author: Appraisily Team
 featured: true
-meta_title: "What Is Old Company Plate Silverware Worth? Complete Value Guide"
-meta_description: "Learn how to identify and value Old Company Plate silver-plated flatware, including the popular Signature pattern. Expert tips on determining worth and selling your collection."
-canonical_url: "https://appraisily.com/old-company-plate-silverware-value/"
-keywords: "Old Company Plate silverware value, Signature pattern silverware, silver-plated flatware worth, vintage silverware valuation, antique flatware prices, Old Company Plate identification, selling silverplate flatware"
-structured_data: |
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Old Company Plate Silverware Value: Collector's Guide & Price Analysis",
-    "description": "Discover the true value of Old Company Plate silverware patterns. Our comprehensive guide covers identification, pricing factors, and where to sell these collectible silver-plated flatware pieces.",
-    "image": "https://ik.imagekit.io/appraisily/SEO/old-company-plate-silverware-value/old-company-plate-silverware-value-image-1_PlSSQuJii.png",
-    "author": {
-      "@type": "Organization",
-      "name": "Appraisily Team"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Appraisily",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://appraisily.com/logo.png"
-      }
-    },
-    "datePublished": "2023-09-11T10:30:00-04:00",
-    "dateModified": "2023-09-11T10:30:00-04:00"
-  }
+meta_title: What Is Old Company Plate Silverware Worth? Complete Value Guide
+meta_description: >-
+  Learn how to identify and value Old Company Plate silver-plated flatware,
+  including the popular Signature pattern. Expert tips on determining worth and
+  selling your collection.
+canonical_url: 'https://appraisily.com/old-company-plate-silverware-value/'
+keywords: >-
+  Old Company Plate silverware value, Signature pattern silverware,
+  silver-plated flatware worth, vintage silverware valuation, antique flatware
+  prices, Old Company Plate identification, selling silverplate flatware
+structured_data:
+  '@context': 'https://schema.org'
+  '@type': Article
+  headline: 'Old Company Plate Silverware Value: Collector''s Guide & Price Analysis'
+  description: >-
+    Discover the true value of Old Company Plate silverware patterns. Our
+    comprehensive guide covers identification, pricing factors, and where to
+    sell these collectible silver-plated flatware pieces.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-company-plate-silverware-value/old-company-plate-silverware-value-image-1_PlSSQuJii.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of Old Company Plate silverware including forks, knives and
+      spoons arranged on a vintage cloth
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
+  datePublished: '2023-09-11T14:30:00.000Z'
+  dateModified: '2023-09-11T14:30:00.000Z'
+  mainEntityOfPage: 'https://appraisily.com/old-company-plate-silverware-value/'
+  keywords: >-
+    Old Company Plate silverware value, Signature pattern silverware,
+    silver-plated flatware worth, vintage silverware valuation, antique flatware
+    prices, Old Company Plate identification, selling silverplate flatware
 ---
 
 # Understanding Old Company Plate Silverware Value

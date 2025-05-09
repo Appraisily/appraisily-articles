@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-11T14:30:00.000Z'
   dateModified: '2023-11-11T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-brass-bed-value/antique-brass-bed-value-image-1_-YbH9L7pc.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-brass-bed-value/antique-brass-bed-value-image-1_-YbH9L7pc.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian-era ornate antique brass bed with intricate scrollwork and
+      patina showing historical craftsmanship
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,40 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-brass-bed-value'
+  keywords:
+    - antique brass bed value
+    - vintage brass bed worth
+    - brass bed authentication
+    - antique bed frame appraisal
+    - Victorian brass beds
+    - brass bed identification marks
+    - collectible brass furniture
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Determines the Value of an Antique Brass Bed?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Antique brass beds vary significantly in value based on several
+          critical factors. The age, condition, rarity, manufacturer, and
+          decorative elements all play crucial roles in determining the worth of
+          these vintage treasures.
+    - '@type': Question
+      name: How does age and authenticity affect brass bed value?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          True antique brass beds date from the late 19th century through the
+          early 20th century, with the most valuable examples typically coming
+          from the Victorian and Edwardian eras (1880s-1910s). The older the
+          bed, generally the more valuable it becomes, especially if it
+          maintains its original finish and components. According to experts at
+          1stDibs, brass beds from the 1970s with minimal ornamentation can cost
+          between $300 to $500, while genuine Victorian-era specimens in
+          excellent condition can fetch significantly more.
 ---
 
 ![Ornate antique brass bed with decorative details and patina](https://ik.imagekit.io/appraisily/SEO/antique-brass-bed-value/antique-brass-bed-value-image-1_-YbH9L7pc.png)

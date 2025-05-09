@@ -42,8 +42,15 @@ structured_data:
   description: >-
     Learn how to identify antique German wall clocks through maker's marks,
     movements, design features, and serial numbers with our expert guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-german-wall-clock-identification/antique-german-wall-clock-identification-image-1_UrVeOjhM1.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-german-wall-clock-identification/antique-german-wall-clock-identification-image-1_UrVeOjhM1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of authentic antique German wall clocks showcasing Black
+      Forest, Junghans, and regulator styles
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,10 +60,18 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
-  datePublished: '2024-04-24'
-  dateModified: '2024-04-24'
+  datePublished: '2024-04-24T14:30:00.000Z'
+  dateModified: '2024-04-24T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-german-wall-clock-identification
+  keywords:
+    - antique German wall clock identification
+    - German clock maker marks
+    - Black Forest cuckoo clocks
+    - Junghans regulator clocks
+    - German horology
+    - antique clock authentication
+    - German wall clock values
 ---
 
 ![Various antique German wall clocks showing different styles and makers](https://ik.imagekit.io/appraisily/SEO/antique-german-wall-clock-identification/antique-german-wall-clock-identification-image-1_UrVeOjhM1.png)

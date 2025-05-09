@@ -38,7 +38,14 @@ structured_data:
     Looking for antique furniture appraisals near you? Discover how to find
     qualified local appraisers, what to expect during the process, and how to
     maximize your furniture's value.
-  image: 'https://ik.imagekit.io/appraisily/articles/antique-furniture-appraisal.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/articles/antique-furniture-appraisal.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining detailed craftsmanship on vintage wooden
+      furniture
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,10 +58,79 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-furniture-appraisals-near-me
+  keywords:
+    - antique furniture appraisals near me
+    - professional furniture appraisers
+    - antique furniture valuation
+    - furniture authentication services
+    - estate furniture appraisal
+    - heirloom furniture assessment
+    - local antique experts
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why might I need an antique furniture appraisal?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Antique furniture can be valuable for many reasons beyond its utility.
+          Professional appraisals provide documentation of authenticity,
+          condition, and market value – critical information for insurance
+          purposes, estate planning, tax considerations, or potential sales.
+    - '@type': Question
+      name: What is an antique furniture appraisal?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          An antique furniture appraisal is a professional assessment that
+          determines the value of your furniture based on multiple factors
+          including age, condition, provenance, rarity, and current market
+          demand. Unlike casual estimates, formal appraisals provide documented
+          valuations that stand up to scrutiny for insurance, tax, and legal
+          purposes.
+    - '@type': Question
+      name: What types of furniture appraisals are available?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Different situations call for different types of appraisals: 1)
+          Insurance Appraisals: Documents replacement value for insurance
+          coverage, 2) Fair Market Value Appraisals: Determines the price a
+          willing buyer would pay a willing seller (used for tax purposes), 3)
+          Liquidation Value Appraisals: Establishes value in forced-sale
+          situations, 4) Donation Appraisals: Required for tax deductions on
+          donated items valued over $5,000.
+    - '@type': Question
+      name: How do I find qualified antique furniture appraisers near me?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Start with established professional organizations that maintain strict
+          standards for their members, such as the International Society of
+          Appraisers (ISA), American Society of Appraisers (ASA), and
+          Pennsylvania Antiques Appraisers Association. These organizations can
+          help you find certified appraisers specializing in antique furniture
+          with verified credentials and expertise.
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Find Qualified Antique Furniture Appraisers Near You
+  step:
+    - '@type': HowToStep
+      name: Check Professional Appraiser Associations
+      text: >-
+        Start with established professional organizations that maintain strict
+        standards for their members, such as the International Society of
+        Appraisers (ISA), American Society of Appraisers (ASA), and Pennsylvania
+        Antiques Appraisers Association.
 ---
 
 ## Why You Might Need an Antique Furniture Appraisal

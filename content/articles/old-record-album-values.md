@@ -35,8 +35,15 @@ structured_data:
   description: >-
     Discover what makes old record albums valuable, how to identify rare vinyl,
     and get expert tips on appraising your vintage vinyl collection's worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-record-album-values/old-record-album-values-image-1_zAxarfadf.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-record-album-values/old-record-album-values-image-1_zAxarfadf.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage vinyl record collection with price tags showing high-value rare
+      albums
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +58,37 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://appraisily.com/old-record-album-values/'
+  about:
+    '@type': Thing
+    name: Vinyl Record Collecting
+    description: >-
+      Information about collecting, valuing, and appraising vintage vinyl
+      records and albums
+  keywords: >-
+    old record album values, valuable vinyl records, rare record identification,
+    vinyl collection appraisal, first pressing values, vintage record worth,
+    collectible album prices
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-headline
+  inLanguage: en-US
+  copyrightYear: '2024'
+  copyrightHolder:
+    '@type': Organization
+    name: Appraisily
+  mentions:
+    - '@type': Thing
+      name: Vinyl Records
+    - '@type': Thing
+      name: Record Collecting
+    - '@type': Thing
+      name: Music Memorabilia
 ---
 
 ![Collection of valuable vintage vinyl records with price tags](https://ik.imagekit.io/appraisily/SEO/old-record-album-values/old-record-album-values-image-1_zAxarfadf.png)

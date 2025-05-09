@@ -39,8 +39,6 @@ structured_data:
     Discover the value of vintage brown Lysol bottles from the 1910s-1950s.
     Learn how to identify authentic pieces, price ranges, and what makes these
     amber glass bottles collectible.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-brown-lysol-bottle-value/old-brown-lysol-bottle-value-image-1_ZK4cNJAdP.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +50,20 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-06-14T14:30:00.000Z'
   dateModified: '2024-06-14T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-brown-lysol-bottle-value/old-brown-lysol-bottle-value-image-1_ZK4cNJAdP.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage amber brown Lysol bottle from the 1920s with original embossed
+      lettering and cork top closure
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-brown-lysol-bottle-value'
+  keywords: >-
+    old brown Lysol bottle value, vintage Lysol bottle worth, antique amber
+    Lysol bottles, 1920s Lysol bottle prices, collectible pharmaceutical
+    bottles, cork top Lysol bottle, amber glass disinfectant bottles
 ---
 
 {{< content-modules/section-header title="Introduction to Vintage Brown Lysol Bottles" level="2" >}}

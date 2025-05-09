@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of antique butter churn crocks with our
     comprehensive price guide. Learn identification tips, valuation factors, and
     current market prices for these cherished pieces of Americana.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-butter-churn-crock-value/antique-butter-churn-crock-value-image-1_VUkSIHB1u.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-butter-churn-crock-value/antique-butter-churn-crock-value-image-1_VUkSIHB1u.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      19th century stoneware butter churn crock with wooden dasher and
+      decorative blue markings
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,30 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-06-14T14:30:00.000Z'
   dateModified: '2024-06-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-butter-churn-crock-value'
+  about:
+    '@type': Thing
+    name: Antique Butter Churn Crocks
+    description: >-
+      Historical stoneware vessels used for butter making in 19th and early 20th
+      century America, now valued as collectibles
+  keywords:
+    - antique butter churn crock value
+    - stoneware butter churn prices
+    - collectible butter churns
+    - vintage butter churn identification
+    - antique crock values
+    - Red Wing butter churn worth
+    - American pottery butter churns
+  specialty: Antique Valuation
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Butter Churn Crocks" level="2" >}}

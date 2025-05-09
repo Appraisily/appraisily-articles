@@ -43,8 +43,15 @@ structured_data:
     Discover the value of antique cookie jars, from rare McCoy pieces to beloved
     character jars. Learn what makes vintage cookie jars valuable and how to
     identify collectible pieces worth hundreds or thousands.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cookie-jars-value/antique-cookie-jars-value-image-1_i7Zac986O.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cookie-jars-value/antique-cookie-jars-value-image-1_i7Zac986O.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage cookie jars including character designs and
+      decorative pieces from the mid-20th century
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,11 +61,41 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-18T14:30:00.000Z'
   dateModified: '2023-07-18T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-cookie-jars-value'
+  keywords:
+    - antique cookie jars value
+    - vintage McCoy cookie jars
+    - collectible character cookie jars
+    - rare cookie jar identification
+    - American Bisque cookie jars
+    - valuable ceramic cookie containers
+    - cookie jar price guide
+  about:
+    '@type': Thing
+    name: Antique Cookie Jars
+    description: >-
+      Decorative ceramic containers for storing cookies that have become
+      valuable collectibles, especially those from manufacturers like McCoy,
+      American Bisque, Brush Pottery, and Shawnee.
+  mentions:
+    - '@type': Thing
+      name: McCoy Cookie Jars
+    - '@type': Thing
+      name: American Bisque Cookie Jars
+    - '@type': Thing
+      name: Brush Pottery
+    - '@type': Thing
+      name: Shawnee Cookie Jars
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles
+    url: 'https://articles.appraisily.com/categories/collectibles'
 ---
 
 ![Collection of valuable vintage cookie jars including character designs and decorative pieces](https://ik.imagekit.io/appraisily/SEO/antique-cookie-jars-value/antique-cookie-jars-value-image-1_i7Zac986O.png)

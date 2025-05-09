@@ -42,8 +42,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-09T14:30:00.000Z'
   dateModified: '2023-08-09T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/what-determines-the-value-of-art/what-determines-the-value-of-art-image-1_0XWYKJ_-n.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/what-determines-the-value-of-art/what-determines-the-value-of-art-image-1_0XWYKJ_-n.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Fine art auction in progress with valuable artwork being bid on by
+      collectors
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,39 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/what-determines-the-value-of-art'
+  articleSection: Art Valuation
+  keywords:
+    - art valuation factors
+    - what determines art value
+    - art price determinants
+    - art investment value
+    - art appraisal criteria
+    - art market worth
+    - collectible art pricing
+  about:
+    '@type': Thing
+    name: Art Valuation
+  mentions:
+    - '@type': Thing
+      name: Artist Reputation
+    - '@type': Thing
+      name: Provenance
+    - '@type': Thing
+      name: Art Market
+  hasPart:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What determines the value of art?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of art is determined by seven key factors: the artist's
+            reputation and career trajectory, provenance and ownership history,
+            condition and conservation, rarity and uniqueness, market demand and
+            trends, size and medium, and historical and cultural significance.
+            Unlike commodities with practical utility, art's value comes from a
+            complex interplay of these tangible and intangible factors.
 ---
 
 ## Understanding Art Valuation: Beyond Beauty and Aesthetics

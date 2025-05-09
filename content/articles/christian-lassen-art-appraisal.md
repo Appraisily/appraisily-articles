@@ -41,8 +41,15 @@ structured_data:
     Discover the true value of your Christian Riese Lassen artwork with our
     comprehensive appraisal guide covering price ranges, authentication methods,
     and market trends for his distinctive marine art.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/christian-lassen-art-appraisal/christian-lassen-art-appraisal-image-1_w9ain7LaG.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/christian-lassen-art-appraisal/christian-lassen-art-appraisal-image-1_w9ain7LaG.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vibrant Christian Riese Lassen underwater artwork featuring dolphins
+      swimming through illuminated coral reefs
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,71 @@ structured_data:
   datePublished: '2023-11-27T14:30:00.000Z'
   dateModified: '2023-11-27T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/christian-lassen-art-appraisal'
+  about:
+    '@type': Thing
+    name: Christian Riese Lassen Art
+    description: >-
+      Marine-themed artwork by Hawaiian-based artist Christian Riese Lassen,
+      known for vibrant underwater scenes featuring dolphins, whales, and
+      tropical reefs
+  keywords:
+    - Christian Riese Lassen art value
+    - Lassen artwork authentication
+    - marine art appraisal
+    - Lassen dolphin paintings worth
+    - Christian Lassen original vs print
+    - Lassen art market trends
+    - underwater art valuation
+  articleSection: Art Appraisal
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: '#who-is-christian-riese-lassen'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - h1
+      - h2
+  isPartOf:
+    '@type': Blog
+    name: Appraisily Articles
+    url: 'https://articles.appraisily.com'
+  inLanguage: en-US
+  thumbnailUrl: >-
+    https://ik.imagekit.io/appraisily/SEO/christian-lassen-art-appraisal/christian-lassen-art-appraisal-image-1_w9ain7LaG.png
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: Who is Christian Riese Lassen?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Christian Riese Lassen, born in 1949, is a Hawaiian-based artist who has
+        gained international recognition for his striking, color-saturated
+        marine paintings. Originally from California, Lassen moved to Maui in
+        the 1970s where the island's natural beauty profoundly influenced his
+        artistic development. His signature style combines elements of realism
+        and fantasy, using acrylics, enamels, and oils to create luminous
+        underwater scenes featuring dolphins, whales, and tropical fish set
+        against vibrant coral reefs. Beyond his artistic achievements, Lassen is
+        known for his environmental activism, using his art to raise awareness
+        about ocean conservation.
+breadcrumb:
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Appraisily
+      item: 'https://articles.appraisily.com'
+    - '@type': ListItem
+      position: 2
+      name: Art
+      item: 'https://articles.appraisily.com/category/art'
+    - '@type': ListItem
+      position: 3
+      name: Christian Riese Lassen Art Appraisal
+      item: 'https://articles.appraisily.com/articles/christian-lassen-art-appraisal'
 ---
 
 # Christian Riese Lassen Art Appraisal: Expert Value Guide & Authentication Tips

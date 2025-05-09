@@ -43,8 +43,15 @@ structured_data:
     Comprehensive guide to determining the value of vintage watches, covering
     brand importance, condition assessment, rarity factors, and investment
     potential in today's collectible watch market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-watches/value-of-old-watches-image-1_qKW6ZWfjJi.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-watches/value-of-old-watches-image-1_qKW6ZWfjJi.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Curated collection of valuable vintage luxury watches including Rolex,
+      Patek Philippe and Omega timepieces
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,8 +61,15 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-08-28T14:30:00.000Z'
   dateModified: '2023-08-28T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-watches'
+  keywords: >-
+    vintage watch valuation, old watch value, antique timepiece worth,
+    collectible watch prices, luxury watch investment, Rolex vintage value,
+    watch appraisal guide
 ---
 
 {{< content-modules/section-header title="Introduction to Vintage Watch Valuation" level="2" >}}

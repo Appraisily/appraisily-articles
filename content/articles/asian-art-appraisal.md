@@ -39,8 +39,15 @@ structured_data:
     Discover how to accurately value Asian art with our comprehensive guide to
     Chinese, Japanese, and other Oriental art appraisals, including
     authentication methods and market insights.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/asian-art-appraisal/asian-art-appraisal-image-1_ESK-2vZ7U.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/asian-art-appraisal/asian-art-appraisal-image-1_ESK-2vZ7U.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable Asian art collection featuring antique Chinese porcelain,
+      Japanese woodblock prints, and Korean pottery
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,23 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-06-02T14:30:00.000Z'
   dateModified: '2023-06-02T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/asian-art-appraisal'
+  keywords: >-
+    Asian art appraisal, Chinese porcelain valuation, Japanese art
+    authentication, Oriental antique values, Korean pottery appraisal, Asian art
+    market trends, antique Asian art identification
+  articleSection: Art Appraisal
+  about:
+    '@type': Thing
+    name: Asian Art Appraisal
+    description: >-
+      Professional valuation and authentication of Asian art including Chinese,
+      Japanese, Korean and other Oriental art forms
+  isAccessibleForFree: 'True'
 ---
 
 ## Introduction to Asian Art Appraisal

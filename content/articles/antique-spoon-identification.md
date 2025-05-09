@@ -49,7 +49,75 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-07-25T14:30:00.000Z'
   dateModified: '2024-07-25T14:30:00.000Z'
-  image: 'https://ik.imagekit.io/appraisily/antique-spoons/silver-spoon-collection.jpg'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/antique-spoons/silver-spoon-collection.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage silver spoon collection displaying various hallmarks, patterns and
+      maker's marks for identification
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-spoon-identification'
+  keywords: >-
+    antique spoon identification, silver spoon hallmarks, rare antique spoons,
+    antique silverware values, collectible silver spoons, vintage spoon
+    patterns, antique spoon makers marks
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Antique Spoons
+  description: >-
+    A guide to identifying and evaluating antique spoons through examination of
+    age indicators, hallmarks, materials, and craftsmanship
+  step:
+    - '@type': HowToStep
+      name: Examine Age and Construction Indicators
+      text: >-
+        Check if the spoon has two-piece construction (handle and bowl joined
+        together), which indicates an early antique spoon from before the 18th
+        century. Also note the thickness and weight - handcrafted antique spoons
+        tend to be thicker (around 4-5mm) and heavier than modern ones.
+    - '@type': HowToStep
+      name: Look for Silver Hallmarks
+      text: >-
+        Examine the spoon for hallmarks that indicate silver purity, place of
+        manufacture, date, and maker. British silver typically includes four
+        main marks: Standard/Purity Mark, Town Mark, Date Letter, and Maker's
+        Mark.
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What makes a spoon truly antique?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          To be considered truly antique, a spoon must be at least 100 years
+          old, though many collectible spoons may be from the late 19th or early
+          20th century.
+    - '@type': Question
+      name: How can you tell if a spoon is an early antique?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          One of the most reliable ways to determine if a spoon is an early
+          antique is to examine its construction method. Before the 18th
+          century, spoons were typically made from two separate pieces - the
+          stem (or handle) and the bowl - which were then joined together. This
+          two-piece construction is a strong indicator of an early antique
+          spoon.
+    - '@type': Question
+      name: What are the key components of silver hallmarks?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The standard hallmarking system, especially in British silver,
+          typically included four main marks: Standard/Purity Mark (indicates
+          the silver content), Town Mark, Date Letter, and Maker's Mark.
 ---
 
 ## Introduction to Antique Spoon Identification

@@ -39,23 +39,59 @@ structured_data:
     Discover the value of antique leather top end tables with our comprehensive
     guide. Learn how to identify, appraise, and price these elegant furniture
     pieces based on style, condition, and provenance.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-leather-top-end-table-value/antique-leather-top-end-table-value-image-1_8Xf3EHONa.png
   author:
     '@type': Organization
     name: Appraisily Team
+  datePublished: '2023-08-07T14:30:00.000Z'
+  dateModified: '2023-08-07T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-leather-top-end-table-value/antique-leather-top-end-table-value-image-1_8Xf3EHONa.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique mahogany end table with tooled leather top surface from the 19th
+      century
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
-  datePublished: '2023-08-07T14:30:00.000Z'
-  dateModified: '2023-08-07T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-leather-top-end-table-value
+  keywords:
+    - antique leather top end table value
+    - leather inlay table worth
+    - vintage tooled leather furniture
+    - mahogany leather top tables
+    - antique end table identification
+    - leather top furniture appraisal
+    - 18th century leather tables
+  articleSection: Furniture
+  about:
+    '@type': Thing
+    name: Antique Furniture
+    description: Leather top end tables from the 18th century onward
+  mentions:
+    - '@type': Thing
+      name: Pembroke tables
+      description: Drop-leaf tables with leather tops
+    - '@type': Thing
+      name: Library tables
+      description: Larger tables with expansive leather surfaces
+    - '@type': Thing
+      name: Occasional tables
+      description: Small side or end tables
+    - '@type': Thing
+      name: Drum tables
+      description: Round tables often with drawers around the circumference
+    - '@type': Thing
+      name: Nest of tables
+      description: Sets of graduated tables that stack together
 ---
 
 Antique leather top end tables represent a perfect marriage of elegance and functionality that has endured for centuries. These distinctive furniture pieces, characterized by their wooden frames and inset leather surfaces, often embellished with gold tooling, have graced the homes of the well-to-do since the 18th century. Today, they remain highly sought after by collectors, interior designers, and antique enthusiasts alike.

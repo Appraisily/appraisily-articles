@@ -39,8 +39,15 @@ structured_data:
     Learn how to assess the value of old encyclopedias, from rare collectible
     sets to common editions. Discover which encyclopedia editions are worth
     money and where to sell them.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-encyclopedias/value-of-old-encyclopedias-image-1_DBprI6SQV.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-encyclopedias/value-of-old-encyclopedias-image-1_DBprI6SQV.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage leather-bound encyclopedia collection displayed on antique wooden
+      bookshelf
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,16 @@ structured_data:
   datePublished: '2023-11-02T14:30:00.000Z'
   dateModified: '2023-11-02T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-encyclopedias'
+  about:
+    '@type': Thing
+    name: Antique Encyclopedias
+    description: >-
+      Historical encyclopedia sets and their collectible value in the modern
+      market
+  keywords: >-
+    value of old encyclopedias, antique encyclopedia worth, rare encyclopedia
+    sets, Britannica value guide, selling vintage encyclopedias, collectible
+    reference books, World Book encyclopedia value
 ---
 
 Despite their historical significance, most old encyclopedias have limited monetary value in today's market. While the majority of sets from the mid-20th century sell for under $100, there are notable exceptions that can be worth hundreds or even thousands of dollars. This guide will help you determine if your old encyclopedias are among the rare valuable examples or if they're better suited for creative repurposing.

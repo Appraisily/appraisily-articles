@@ -43,8 +43,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-02T14:30:00.000Z'
   dateModified: '2023-11-02T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-ceramics/how-to-identify-antique-ceramics-image-1_advydbrUW.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-ceramics/how-to-identify-antique-ceramics-image-1_advydbrUW.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique ceramic pieces showing various makers'
+      marks, glazes, and period-specific design elements
   publisher:
     '@type': Organization
     name: Appraisily
@@ -52,6 +59,78 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/how-to-identify-antique-ceramics'
+  about:
+    '@type': Thing
+    name: Antique Ceramics
+    description: >-
+      Historical ceramic objects including pottery, porcelain, and stoneware
+      that are typically over 100 years old
+  keywords: >-
+    antique ceramics identification, pottery marks identification, antique
+    porcelain authentication, vintage ceramic valuation, ceramic maker marks
+    guide
+  articleSection: Antiques
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  HowTo:
+    '@type': HowTo
+    name: How to Identify Antique Ceramics
+    description: >-
+      A comprehensive guide to identifying and authenticating antique ceramic
+      pieces
+    step:
+      - '@type': HowToStep
+        name: Understand Ceramic Types
+        text: >-
+          Distinguish between pottery, porcelain, and stoneware by examining
+          their physical properties, manufacturing techniques, and historical
+          origins.
+      - '@type': HowToStep
+        name: Examine Earthenware
+        text: >-
+          Look for thicker, heavier pieces with coarse texture, typically fired
+          at lower temperatures (1,000-1,200°C). Historic examples include
+          terracotta, delftware, and majolica.
+      - '@type': HowToStep
+        name: Identify Porcelain
+        text: >-
+          Check for white color, translucency when thin, and a glass-like,
+          resonant quality when tapped. Made primarily from kaolin clay and
+          fired at extremely high temperatures (1,200-1,400°C).
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes a ceramic piece an antique?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A ceramic piece is considered a true antique when it is at least 100
+            years old, as indicated by the market statistics in the article.
+      - '@type': Question
+        name: What are the main types of antique ceramics?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The main types of antique ceramics are earthenware (the oldest and
+            most porous form, including terracotta, delftware, and majolica),
+            porcelain (fine, translucent ceramic first developed in China,
+            including Chinese porcelain, Meissen, and Sèvres), and stoneware
+            (mentioned but not detailed in the excerpt).
+      - '@type': Question
+        name: How does condition affect antique ceramic value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            According to the market facts mentioned, undamaged, original
+            condition pieces can see a 20-40% value increase compared to similar
+            pieces with damage or restoration.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Ceramics" level="2" >}}

@@ -45,14 +45,52 @@ structured_data:
   datePublished: '2023-06-09T14:30:00.000Z'
   dateModified: '2023-06-09T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/antique-rocking-chair-value/antique-rocking-chair-value-image-2_4bTP3faLw.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Victorian walnut rocking chair with ornate carvings and original
+      needlepoint upholstery
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-rocking-chair-value'
+  keywords:
+    - antique rocking chair value
+    - antique rocking chair identification
+    - Victorian rocking chairs
+    - Shaker rocking chairs
+    - Windsor rockers
+    - antique furniture appraisal
+    - collectible rocking chairs
+  articleSection: Furniture
+  about:
+    '@type': Thing
+    name: Antique Rocking Chairs
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-title
+      - .article-content
+  inLanguage: en-US
+  accessMode: textual
+  accessModeSufficient: textual
+  accessibilityFeature:
+    - readingOrder
+    - structuralNavigation
+    - tableOfContents
+  timeRequired: PT10M
 ---
 
 The gentle back-and-forth motion of a rocking chair has soothed generations of people across the centuries. Beyond their practical comfort, antique rocking chairs represent important pieces of furniture history that can hold significant value for collectors and enthusiasts. Whether you've inherited a family heirloom or discovered a potential treasure at an estate sale, understanding antique rocking chair values requires knowledge of styles, makers, materials, and market conditions.

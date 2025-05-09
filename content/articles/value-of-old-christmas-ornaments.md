@@ -43,8 +43,15 @@ structured_data:
     Discover the surprising value of vintage Christmas ornaments in this
     comprehensive guide. Learn to identify, price, and sell your antique holiday
     decorations worth hundreds or even thousands.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-christmas-ornaments/value-of-old-christmas-ornaments-image-1_XMj8kyUdu.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-christmas-ornaments/value-of-old-christmas-ornaments-image-1_XMj8kyUdu.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage glass Christmas ornaments from different eras displayed
+      around an antique Christmas tree
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,22 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-old-christmas-ornaments'
+  about:
+    - '@type': Thing
+      name: Vintage Christmas Ornaments
+      description: >-
+        Collectible holiday decorations from the past that may have significant
+        monetary value
+    - '@type': Thing
+      name: Antique Holiday Collectibles
+      description: >-
+        Christmas decorations and ornaments that have become valuable
+        collectibles over time
+  keywords: >-
+    vintage Christmas ornaments value, antique Christmas decorations worth,
+    collectible holiday ornaments, valuable Christmas heirlooms, rare Christmas
+    ornaments prices, selling vintage Christmas decorations, antique holiday
+    collectibles
 ---
 
 Those boxes of holiday decorations in your attic could be hiding valuable treasures. Vintage Christmas ornaments have become highly sought-after collectibles, with some rare pieces fetching hundreds or even thousands of dollars. From delicate glass baubles to ceramic trees and nostalgic decorations, the market for antique holiday items continues to grow as collectors seek to recapture the magic of Christmas past.

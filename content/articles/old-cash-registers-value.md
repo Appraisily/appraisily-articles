@@ -39,8 +39,15 @@ structured_data:
     Discover the world of antique cash register values with our comprehensive
     collector's guide. Learn how to identify valuable models, understand price
     factors, and navigate the collectibles market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-cash-registers-value/old-cash-registers-value-image-1_40MyLrxD-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-cash-registers-value/old-cash-registers-value-image-1_40MyLrxD-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare ornate brass National Cash Register (NCR) from early 1900s with
+      decorative cabinet and mechanical keys
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,39 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-11-09T14:30:00.000Z'
   dateModified: '2024-11-09T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://www.appraisily.com/old-cash-registers-value'
+  keywords:
+    - old cash registers value
+    - antique NCR register worth
+    - National Cash Register identification
+    - brass cash register prices
+    - vintage register collector guide
+    - antique cash register models
+    - cash register valuation factors
+  about:
+    '@type': Thing
+    name: Antique Cash Registers
+    description: >-
+      Historical cash registers from the 1880s-1950s era, particularly National
+      Cash Register (NCR) models known for their ornate brass details and
+      mechanical precision.
+  mentions:
+    - '@type': Thing
+      name: National Cash Register
+      alternateName: NCR
+      description: >-
+        A leading manufacturer of cash registers founded in the late 19th
+        century
+    - '@type': Thing
+      name: James Ritty
+      description: Inventor who patented the first cash register in 1879
+  temporalCoverage: 1879/1950
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Cash Register Values" level="2" >}}

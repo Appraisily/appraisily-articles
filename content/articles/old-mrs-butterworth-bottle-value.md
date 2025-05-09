@@ -48,14 +48,39 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-31T14:30:00.000Z'
   dateModified: '2023-07-31T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-mrs-butterworth-bottle-value/old-mrs-butterworth-bottle-value-image-1_fqLRzOGV6e.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-mrs-butterworth-bottle-value/old-mrs-butterworth-bottle-value-image-1_fqLRzOGV6e.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Mrs. Butterworth glass syrup bottles collection showing different
+      designs and eras from 1961 onwards
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-mrs-butterworth-bottle-value'
+  keywords:
+    - old Mrs Butterworth bottle value
+    - vintage Mrs Butterworth bottles
+    - Mrs Butterworth collectibles
+    - antique syrup bottle prices
+    - glass Mrs Butterworth value
+    - Mrs Butterworth bottle identification
+    - rare syrup bottle collectibles
+  articleSection: Glass Collectibles
+  about:
+    '@type': Thing
+    name: Mrs. Butterworth Bottles
+    description: >-
+      Collectible vintage syrup bottles shaped like a matronly woman, produced
+      since 1961
 ---
 
 ![Collection of vintage Mrs. Butterworth glass syrup bottles from different eras](https://ik.imagekit.io/appraisily/SEO/old-mrs-butterworth-bottle-value/old-mrs-butterworth-bottle-value-image-1_fqLRzOGV6e.png)

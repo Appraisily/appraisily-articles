@@ -43,8 +43,15 @@ structured_data:
     Learn how to identify valuable antique meat cleavers with our expert guide
     covering maker's marks, handle materials, forging techniques, and more to
     determine authentic vintage pieces worth collecting.
-  image: >-
-    https://www.newwestknifeworks.com/cdn/shop/collections/New_cleaver_photos-23.jpg?v=1611173347
+  image:
+    '@type': ImageObject
+    url: >-
+      https://www.newwestknifeworks.com/cdn/shop/collections/New_cleaver_photos-23.jpg?v=1611173347
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage meat cleaver with wooden handle showing authentic patina and
+      period-specific maker's marks
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,9 +61,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-10-10T14:30:00.000Z'
   dateModified: '2023-10-10T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-meat-cleaver-identification'
+  keywords:
+    - antique meat cleaver identification
+    - vintage butcher tools
+    - rare meat cleaver collectibles
+    - antique cleaver maker's marks
+    - Foster Bros cleavers
+    - 19th century meat cleavers
+    - valuable butcher collectibles
 ---
 
 Antique meat cleavers tell a fascinating story of culinary history and craftsmanship. These robust kitchen tools were essential for butchers and home cooks alike, designed to chop through meat, bones, and cartilage with precision and force. Today, vintage cleavers have become highly sought-after collectibles, with rare specimens fetching impressive sums at auction houses and specialty markets.

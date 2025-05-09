@@ -45,8 +45,15 @@ structured_data:
     Discover what your vintage women's Bulova watch is worth. Our comprehensive
     guide covers identification, pricing factors, history, and current market
     values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-womens-bulova-watches/value-of-old-women-s-bulova-watches-image-1_evY9Ffvuy.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-womens-bulova-watches/value-of-old-women-s-bulova-watches-image-1_evY9Ffvuy.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of elegant vintage women's Bulova watches showcasing different
+      eras and design styles from Art Deco to mid-century
   author:
     '@type': Organization
     name: Appraisily Team
@@ -58,6 +65,21 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-11-09T14:30:00.000Z'
   dateModified: '2023-11-09T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Vintage Women's Bulova Watches
+    description: >-
+      Collectible timepieces manufactured by Bulova for women throughout the
+      20th century, ranging from Art Deco styles of the 1920s to mid-century
+      designs
+  keywords:
+    - vintage women's Bulova watches value
+    - antique Bulova ladies watches
+    - Bulova watch identification guide
+    - Bulova watch serial numbers
+    - 1920s Art Deco Bulova watches
+    - mid-century Bulova women's watches
+    - Bulova diamond watch prices
 ---
 
 {{< content-modules/section-header title="Introduction to Vintage Women's Bulova Watches" level="2" >}}

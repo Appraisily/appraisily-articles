@@ -39,8 +39,15 @@ structured_data:
     Discover how to find reputable art evaluation services in your area,
     understand the appraisal process, and get accurate valuations for your
     artwork.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-evaluation-near-me/art-evaluation-near-me-image-1_U0gcdezE8.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-evaluation-near-me/art-evaluation-near-me-image-1_U0gcdezE8.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining a painting with specialized
+      tools
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,36 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-05T14:30:00.000Z'
   dateModified: '2023-07-05T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/art-evaluation-near-me'
+  keywords:
+    - art evaluation near me
+    - local art appraisal services
+    - professional artwork valuation
+    - fine art authentication
+    - art value assessment
+    - certified art appraisers
+    - artwork insurance appraisal
+  about:
+    '@type': Thing
+    name: Art Appraisal Services
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  articleSection: Appraisals
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body h2
+      - .article-body p
+  inLanguage: en-US
+  accessMode: textual
+  accessibilityFeature: readingOrder
+  accessibilityHazard: none
 ---
 
 ## Introduction to Art Evaluation Services

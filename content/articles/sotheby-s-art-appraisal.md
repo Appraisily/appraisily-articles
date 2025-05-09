@@ -44,17 +44,41 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-10-20T14:30:00.000Z'
   dateModified: '2023-10-20T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/sothebys-art-appraisal/sotheby-s-art-appraisal-image-1_Ml7jiXSZE.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/sothebys-art-appraisal/sotheby-s-art-appraisal-image-1_Ml7jiXSZE.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Sotheby's prestigious auction house exterior featuring elegant
+      architecture and signage where fine art appraisals take place
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/sothebys-art-appraisal'
+  keywords:
+    - Sotheby's art appraisal
+    - fine art valuation services
+    - auction house appraisals
+    - Sotheby's valuation process
+    - art market assessment
+    - professional art authentication
+    - art insurance appraisal
+  articleSection: Appraisals
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - h1
+      - h2
+      - h3
 ---
 
 {{< content-modules/section-header title="Introduction to Sotheby's Art Appraisal Services" level="2" >}}

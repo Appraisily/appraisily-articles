@@ -43,8 +43,6 @@ structured_data:
     Learn how to identify, date, and value old glass bottles with our expert
     guide covering seams, maker's marks, colors, shapes, and more features of
     vintage and antique bottles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-glass-bottle-identification/old-glass-bottle-identification-image-1_84BIyREa3.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +55,29 @@ structured_data:
   datePublished: '2023-11-03T14:30:00.000Z'
   dateModified: '2023-11-03T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-glass-bottle-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-glass-bottle-identification/old-glass-bottle-identification-image-1_84BIyREa3.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique glass bottles showing various manufacturing
+      techniques, colors, and historical periods
+  keywords:
+    - old glass bottle identification
+    - antique bottle dating methods
+    - pontil mark identification
+    - bottle mold seam analysis
+    - vintage bottle value guide
+    - embossed glass bottle markings
+    - historical bottle collecting
+  about:
+    '@type': Thing
+    name: Antique Glass Bottles
+    description: >-
+      Historical glass containers that provide insights into manufacturing
+      techniques and cultural history
 ---
 
 {{< content-modules/section-header title="Introduction to Old Glass Bottle Identification" level="2" >}}

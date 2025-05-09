@@ -39,8 +39,6 @@ structured_data:
     Discover the value of your antique glass dishes with our comprehensive guide
     to identifying, appraising, and selling valuable vintage glassware
     collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-glass-dishes-value/antique-glass-dishes-value-image-1_slEm-WYyd.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +48,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-06-25T14:30:00.000Z'
   dateModified: '2024-06-25T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-glass-dishes-value/antique-glass-dishes-value-image-1_slEm-WYyd.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique glass collection featuring Depression glass, Carnival
+      glass, and colored vintage glassware pieces
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-glass-dishes-value'
+  keywords: >-
+    antique glass dishes value, vintage glassware worth, Depression glass value,
+    Carnival glass prices, antique glassware identification, collectible glass
+    dishes, rare glass patterns
 ---
 
 ![Collection of valuable antique glass dishes including Depression glass and carnival glass pieces](https://ik.imagekit.io/appraisily/SEO/antique-glass-dishes-value/antique-glass-dishes-value-image-1_slEm-WYyd.png)

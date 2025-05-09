@@ -26,6 +26,44 @@ keywords:
   - worth
   - price guide
   - how much
+structured_data:
+  '@context': 'https://schema.org'
+  '@type': Article
+  headline: 'Value Of Old Lanterns: Expert Guide to Value and Identification'
+  description: >-
+    Comprehensive guide to understanding and valuing value-of-old-lanterns.
+    Learn about identification, pricing factors, and where to sell.
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  datePublished: '2025-03-29T14:30:00.000Z'
+  dateModified: '2025-03-29T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+    width: '1200'
+    height: '630'
+    caption: Detailed photograph showing item evaluation process for antique lanterns
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: 'https://articles.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/value-of-old-lanterns'
+  keywords:
+    - appraisal
+    - value
+    - collectible
+    - antique
+    - worth
+    - price guide
+    - how much
+    - old lanterns
 ---
 
 ## Introduction to value-of-old-lanterns

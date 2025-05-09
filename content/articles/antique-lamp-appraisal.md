@@ -47,8 +47,14 @@ structured_data:
   datePublished: '2023-07-21T14:30:00.000Z'
   dateModified: '2023-07-21T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/antique-lamp-appraisal/antique-lamp-appraisal-image-1_PDTTLRMv9.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Tiffany style antique lamp with vibrant stained glass shade and
+      ornate bronze base
   publisher:
     '@type': Organization
     name: Appraisily
@@ -58,6 +64,39 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-lamp-appraisal'
+  about:
+    '@type': Thing
+    name: Antique Lamp Appraisal
+    description: >-
+      Valuation and identification of vintage and antique lighting fixtures
+      including Tiffany, Victorian, Art Nouveau, and Art Deco lamps
+  keywords: >-
+    antique lamp appraisal, vintage lighting valuation, Tiffany lamp
+    authentication, antique lamp identification, collectible lamp worth,
+    Victorian oil lamp values, Art Nouveau lamp pricing
+  specialty: Antique Lighting Valuation
+  hasPart:
+    - '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/antique-lamp-appraisal/antique-lamp-appraisal-image-1_PDTTLRMv9.png
+      caption: Vintage Tiffany style lamp with colorful stained glass shade
+    - '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/antique-lamp-appraisal/antique-lamp-appraisal-image-2_W9XL7eePj.png
+      caption: Various types of antique lamps including table lamps and floor lamps
+  mentions:
+    - '@type': Thing
+      name: Tiffany Studios
+      description: Renowned American art glass company founded by Louis Comfort Tiffany
+    - '@type': Thing
+      name: Victorian oil lamps
+      description: Lighting fixtures from the Victorian era
+    - '@type': Thing
+      name: Art Nouveau lamps
+      description: Decorative lamps from the Art Nouveau period
+    - '@type': Thing
+      name: Art Deco lamps
+      description: Lighting fixtures from the Art Deco design movement
 ---
 
 ![Vintage Tiffany style lamp with colorful stained glass shade](https://ik.imagekit.io/appraisily/SEO/antique-lamp-appraisal/antique-lamp-appraisal-image-1_PDTTLRMv9.png)

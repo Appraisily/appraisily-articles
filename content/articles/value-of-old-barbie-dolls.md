@@ -39,8 +39,15 @@ structured_data:
     Discover the value of old Barbie dolls with our comprehensive pricing guide.
     Learn how to identify valuable vintage dolls and what factors affect their
     worth in today's collector market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-barbie-dolls/value-of-old-barbie-dolls-image-1_QMma6Crsq.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-barbie-dolls/value-of-old-barbie-dolls-image-1_QMma6Crsq.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage Barbie dolls showing their value and rarity from
+      1959-1970s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,24 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-05-14T14:30:00.000Z'
   dateModified: '2024-05-14T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
-    '@id': 'https://appraisily.com/value-of-old-barbie-dolls/'
+    '@id': 'https://articles.appraisily.com/articles/value-of-old-barbie-dolls'
+  about:
+    '@type': Thing
+    name: Vintage Barbie Dolls
+    description: >-
+      Collectible Barbie dolls produced from 1959 onwards, with particular focus
+      on rare and valuable models from the Vintage Era (1959-1966), Mod Era
+      (1967-1972), and later periods.
+  keywords: >-
+    vintage barbie value, old barbie doll worth, rare barbie dolls, barbie price
+    guide 2024, collectible barbie identification, valuable barbie models,
+    antique barbie valuation
 ---
 
 ![Collection of vintage Barbie dolls showing their value and rarity](https://ik.imagekit.io/appraisily/SEO/value-of-old-barbie-dolls/value-of-old-barbie-dolls-image-1_QMma6Crsq.png)

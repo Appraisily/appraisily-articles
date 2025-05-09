@@ -42,8 +42,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-10-13T14:30:00.000Z'
   dateModified: '2023-10-13T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/blog/antique-stoneware-jugs-value/antique-stoneware-jug-main.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/blog/antique-stoneware-jugs-value/antique-stoneware-jug-main.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      19th century blue-decorated salt-glazed antique stoneware jug with
+      traditional cobalt decoration
   publisher:
     '@type': Organization
     name: Appraisily
@@ -51,6 +58,26 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-stoneware-jugs-value'
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What Makes Stoneware Jugs Valuable?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Several key factors determine a jug's worth in today's market, including
+        age and historical significance, maker and origin, decorative elements
+        (especially cobalt blue decoration), rarity and uniqueness, and
+        condition. The oldest American stoneware jugs date back to the 18th
+        century, with pre-1900 jugs commanding higher prices. Jugs from renowned
+        potters or pottery centers like Edgefield District, South Carolina and
+        Albany, New York often fetch premium prices. Decorative elements
+        dramatically impact value, with cobalt blue decoration being the most
+        desirable. Uncommon forms, sizes, and decorative techniques generally
+        command higher prices, particularly face jugs, pieces with unusual
+        handles or spouts, and commemorative pieces. Stoneware with original,
+        undamaged surfaces commands the highest prices.
 ---
 
 ## Introduction to Antique Stoneware Jugs

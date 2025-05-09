@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to determining antique Elgin pocket watch values. Learn
     identification techniques, price factors, and what makes certain models
     worth $200 to $5,000 in today's collector market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-elgin-pocket-watch-value/antique-elgin-pocket-watch-value-image-1_DdEHzVT9Q.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-elgin-pocket-watch-value/antique-elgin-pocket-watch-value-image-1_DdEHzVT9Q.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Elgin pocket watch with open gold case displaying intricate
+      movement and white enamel dial
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,15 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-08-13T14:30:00.000Z'
   dateModified: '2024-08-13T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-elgin-pocket-watch-value'
+  keywords: >-
+    antique Elgin pocket watch value, Elgin watch serial number lookup, gold
+    Elgin pocket watch worth, railroad grade Elgin watches, vintage Elgin watch
+    identification, collectible Elgin timepieces, Elgin pocket watch price guide
 ---
 
 Antique Elgin pocket watches represent a fascinating piece of American watchmaking history. Renowned for their precision, reliability, and craftsmanship, these timepieces have become highly sought after by collectors worldwide. Understanding what makes an Elgin pocket watch valuable requires knowledge of the company's rich history, identification techniques, and the various factors that impact market prices.

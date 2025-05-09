@@ -46,8 +46,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-08-10T14:30:00.000Z'
   dateModified: '2024-08-10T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-watches-value/old-watches-value-image-1_rmCz1IZhm.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-watches-value/old-watches-value-image-1_rmCz1IZhm.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage luxury watches including Rolex, Omega, and
+      Patek Philippe timepieces
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,40 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-watches-value'
+  about:
+    '@type': Thing
+    name: Vintage Watch Valuation
+    description: >-
+      Information about determining the value of old and vintage watches based
+      on brand, rarity, condition, and market factors
+  keywords: >-
+    old watches value, vintage watch appraisal, antique timepiece worth,
+    valuable watch brands, Rolex vintage value, collectible watches, watch
+    investment guide
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes a Vintage Watch Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several critical factors determine whether an old watch is simply an
+            outdated timepiece or a valuable collector's item worth thousands—or
+            even hundreds of thousands—of dollars. These include brand prestige
+            and heritage, rarity and limited production, condition and
+            originality, historical significance, and market demand.
+      - '@type': Question
+        name: Which watch brands are most valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The most valuable watch brands include Patek Philippe
+            ($5,000-$500,000+), Rolex ($3,000-$250,000+), Audemars Piguet
+            ($4,000-$200,000+), and Omega ($1,000-$100,000+). Prestigious Swiss
+            brands consistently command the highest prices due to their
+            long-standing heritage of exceptional craftsmanship and innovation.
 ---
 
 ![Collection of vintage luxury watches including Rolex, Omega, and Patek Philippe models](https://ik.imagekit.io/appraisily/SEO/old-watches-value/old-watches-value-image-1_rmCz1IZhm.png)

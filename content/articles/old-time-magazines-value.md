@@ -43,8 +43,15 @@ structured_data:
     Discover the value of historic TIME magazines, from rare collector's
     editions to common issues. Learn what makes TIME magazines valuable and
     where to sell them.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-time-magazines-value/old-time-magazines-value-image-1__jl_Zo3wr.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-time-magazines-value/old-time-magazines-value-image-1__jl_Zo3wr.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage TIME magazines including rare historical covers and
+      collectible editions
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,7 +63,24 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage: 'https://appraisily.com/articles/old-time-magazines-value/'
+  keywords:
+    - old TIME magazines value
+    - vintage TIME magazine worth
+    - collectible TIME magazine issues
+    - rare TIME covers
+    - TIME magazine price guide
+    - historic TIME magazine values
+    - TIME Person of the Year value
+  about:
+    '@type': Thing
+    name: TIME Magazine Collecting
+    description: 'Information about collecting, valuing, and selling vintage TIME magazines'
+  isPartOf:
+    '@type': WebPage
+    url: 'https://appraisily.com/articles/old-time-magazines-value/'
 ---
 
 ![Collection of vintage TIME magazines including rare historical covers](https://ik.imagekit.io/appraisily/SEO/old-time-magazines-value/old-time-magazines-value-image-1__jl_Zo3wr.png)

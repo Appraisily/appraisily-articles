@@ -39,8 +39,15 @@ structured_data:
     Learn the value of old porcelain sinks with our comprehensive guide covering
     identification, price factors, and current market values for antique
     bathroom and kitchen fixtures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-porcelain-sink/value-of-old-porcelain-sink-image-1_QN3AdwmrO.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-porcelain-sink/value-of-old-porcelain-sink-image-1_QN3AdwmrO.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage white porcelain farmhouse sink with ornate decorative front panel
+      from early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,14 @@ structured_data:
   datePublished: '2023-09-20T14:30:00.000Z'
   dateModified: '2023-09-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-porcelain-sink'
+  keywords:
+    - antique porcelain sink value
+    - vintage bathroom sink worth
+    - old farmhouse sink prices
+    - cast iron porcelain sink appraisal
+    - antique kitchen sink identification
+    - vintage sink collectors market
+    - period bathroom fixtures value
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Porcelain Sinks" level="2" >}}

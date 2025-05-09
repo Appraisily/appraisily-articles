@@ -39,8 +39,6 @@ structured_data:
     Discover the true value of antique shuffleboard tables, from Rock-Ola
     classics to restored vintage models. Learn how to identify valuable tables,
     price factors, and what collectors are paying today.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-shuffleboard-table/value-of-antique-shuffleboard-table-image-1_5ytgQpdd2.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,42 @@ structured_data:
   datePublished: '2023-11-09T14:30:00.000Z'
   dateModified: '2023-11-09T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antique-shuffleboard-table'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-shuffleboard-table/value-of-antique-shuffleboard-table-image-1_5ytgQpdd2.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage 1950s Rock-Ola shuffleboard table with polished playing surface
+      and original wood cabinet
+  keywords:
+    - antique shuffleboard table value
+    - Rock-Ola shuffleboard worth
+    - vintage game table prices
+    - collectible shuffleboard identification
+    - American shuffleboard value
+    - 1950s shuffleboard tables
+    - antique game table appraisal
+  articleSection: Game Tables
+'@graph':
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Are Antique Shuffleboard Tables Worth?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique shuffleboard table varies dramatically based
+            on several key factors. Tables from the 1940s-1950s era,
+            particularly those made by Rock-Ola (famous for their jukeboxes),
+            are among the most sought-after models. Rock-Ola Tables from the
+            1950s in original unrestored condition typically sell for $2,000 -
+            $4,000, while professionally restored ones can fetch $8,000 -
+            $12,000+. American Shuffleboard tables from the 1940s-50s are valued
+            at $1,000 - $5,000 based on condition and size, and Champion/Other
+            Vintage Brands range from $3,000 - $7,000.
 ---
 
 Antique shuffleboard tables represent a fascinating intersection of gaming history, craftsmanship, and collectible furniture. These substantial pieces, often spanning 12 to 22 feet in length, have captivated enthusiasts for generations with their distinctive playing surfaces and elegant woodwork. Whether you're considering selling a family heirloom, looking to purchase a vintage model, or simply curious about the value of these remarkable gaming tables, understanding their true worth requires knowledge of their history, construction, and the current market.

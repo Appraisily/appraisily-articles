@@ -43,8 +43,15 @@ structured_data:
     Discover the value of vintage Old Timer pocket knives with our comprehensive
     guide. Learn about identification, pricing factors, and find out what makes
     these classic American knives so collectible.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/vintage-old-timer-pocket-knife-value/vintage-old-timer-pocket-knife-value-image-1_vWWNhT7IE.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/vintage-old-timer-pocket-knife-value/vintage-old-timer-pocket-knife-value-image-1_vWWNhT7IE.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Schrade Old Timer pocket knife with wooden handle displaying
+      multiple folding blades
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,26 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-09-20T14:30:00.000Z'
   dateModified: '2023-09-20T14:30:00.000Z'
+  mainEntityOfPage: >-
+    https://articles.appraisily.com/articles/vintage-old-timer-pocket-knife-value
+  keywords:
+    - old timer knife value
+    - vintage schrade knives
+    - collectible pocket knives
+    - old timer knife identification
+    - schrade old timer worth
+    - antique pocket knife prices
+    - pre-2004 old timer knives
+  about:
+    '@type': Thing
+    name: Vintage Old Timer Pocket Knives
+    description: >-
+      Traditional folding pocket knives manufactured by Schrade Cutlery Company,
+      particularly those made before the company's closure in 2004.
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles
+    url: 'https://articles.appraisily.com/categories/collectibles'
 ---
 
 ## Introduction to Old Timer Pocket Knives

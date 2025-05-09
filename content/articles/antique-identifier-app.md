@@ -38,7 +38,14 @@ structured_data:
     Discover the best antique identifier apps that use AI technology to help
     identify, value, and learn about vintage items and collectibles with just a
     photo.
-  image: 'https://appraisily.com/images/antique-identifier-app.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/antique-identifier-app.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Smartphone using an AI-powered antique identifier app to analyze and value
+      a vintage collectible
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +58,48 @@ structured_data:
   datePublished: '2024-01-29T14:30:00.000Z'
   dateModified: '2024-01-29T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-identifier-app'
+  about:
+    '@type': Thing
+    name: Antique Identification Technology
+  keywords:
+    - antique identifier app
+    - AI antique identification
+    - vintage item valuation app
+    - collectibles authentication tools
+    - digital antique appraisal
+    - mobile antique recognition
+    - smartphone collectibles valuation
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  hasPart:
+    - '@type': HowTo
+      name: How Antique Identifier Apps Work
+      description: >-
+        The process of how AI-powered antique identifier apps analyze and
+        identify vintage items
+      step:
+        - '@type': HowToStep
+          name: Image Capture
+          text: Users take a photo of the antique using their smartphone camera
+          position: 1
+        - '@type': HowToStep
+          name: Image Analysis
+          text: >-
+            The app's AI analyzes visual characteristics including shape,
+            pattern, markings, and style
+          position: 2
+        - '@type': HowToStep
+          name: Database Comparison
+          text: The image is compared against the app's database of known antiques
+          position: 3
+        - '@type': HowToStep
+          name: Results Generation
+          text: >-
+            Information about the likely identity, age, history, and potential
+            value is presented to the user
+          position: 4
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Identifier Apps" level="2" >}}

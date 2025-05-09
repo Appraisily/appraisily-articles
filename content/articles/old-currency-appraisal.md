@@ -39,8 +39,15 @@ structured_data:
     Learn how to get your old currency professionally appraised, determine its
     true market value, and find trusted resources for selling rare bills and
     notes with our comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-currency-appraisal/old-currency-appraisal-image-1_-4-DlBsmo.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-currency-appraisal/old-currency-appraisal-image-1_-4-DlBsmo.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage American and international currency notes arranged for
+      professional appraisal
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,53 @@ structured_data:
   datePublished: '2023-07-06T14:30:00.000Z'
   dateModified: '2023-07-06T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-currency-appraisal'
+  about:
+    '@type': Thing
+    name: Currency Appraisal
+    description: >-
+      Professional evaluation of old and rare currency to determine
+      authenticity, condition, rarity, and market value
+  keywords: >-
+    old currency appraisal, rare bill valuation, antique banknote worth, vintage
+    currency collection, paper money assessment, numismatic appraisal,
+    collectible currency value
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Is this old money actually worth something?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Many vintage bills and notes can be worth significantly more than
+            their face value, sometimes reaching thousands or even tens of
+            thousands of dollars depending on their rarity, condition, and
+            historical significance.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: Understanding Currency Appraisal
+    description: >-
+      Professional currency appraisal involves the expert evaluation of
+      banknotes and paper money to determine authenticity, condition, rarity,
+      and market value.
+    step:
+      - '@type': HowToStep
+        name: Authenticity
+        text: 'Determining if the note is genuine, not counterfeit'
+      - '@type': HowToStep
+        name: Condition
+        text: Assessing the physical state using standardized grading scales
+      - '@type': HowToStep
+        name: Rarity
+        text: 'Evaluating how uncommon the specific type, year, or serial number is'
+      - '@type': HowToStep
+        name: Historical significance
+        text: Considering the note's place in monetary history
+      - '@type': HowToStep
+        name: Market demand
+        text: Understanding current collector interest and buying trends
 ---
 
 ## Uncovering the Hidden Value in Your Old Currency

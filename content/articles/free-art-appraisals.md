@@ -46,8 +46,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-08-07T14:30:00.000Z'
   dateModified: '2024-08-07T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-art-appraisals/free-art-appraisals-image-1_QwXLSib0u.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-art-appraisals/free-art-appraisals-image-1_QwXLSib0u.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser examining artwork details with magnifying glass
+      for free valuation
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,49 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/free-art-appraisals'
+  articleSection: Art
+  keywords:
+    - free art appraisals
+    - no-cost artwork valuation
+    - online art appraisal services
+    - legitimate free art valuation
+    - art appraisal costs
+    - inherited artwork value
+    - professional art authentication
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Is an Art Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An art appraisal is a professional assessment of an artwork's
+            monetary value based on factors like authenticity, condition,
+            provenance, rarity, size, subject matter, and current market
+            conditions. Appraisals can serve different purposes, from insurance
+            documentation to estate valuation or determining fair market value
+            for sale.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: Getting Free Art Appraisals
+    description: >-
+      A guide to finding legitimate free art appraisal services and
+      understanding their value
+    step:
+      - '@type': HowToStep
+        name: Understand Types of Art Appraisals
+        text: >-
+          Before diving into free options, it's important to understand the
+          different types of art appraisals: Verbal Appraisals, Written
+          Appraisals, Insurance Appraisals, Fair Market Value Appraisals, and
+          Liquidation Value Appraisals. Free appraisals typically fall into the
+          'verbal' or simplified written category, offering estimates rather
+          than comprehensive valuations.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/free-art-appraisals/free-art-appraisals-image-2_PYVWhf0l1.png
 ---
 
 ## Introduction to Free Art Appraisals

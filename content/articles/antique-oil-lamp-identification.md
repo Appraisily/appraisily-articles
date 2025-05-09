@@ -42,8 +42,6 @@ structured_data:
     Learn how to identify antique oil lamps with our comprehensive guide
     covering key features, markings, materials, and valuation tips from expert
     collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-oil-lamp-identification/antique-oil-lamp-identification-image-3_ON9M7c8kK.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +54,44 @@ structured_data:
   datePublished: '2023-10-06T14:30:00.000Z'
   dateModified: '2023-10-06T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-oil-lamp-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-oil-lamp-identification/antique-oil-lamp-identification-image-3_ON9M7c8kK.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique oil lamps showcasing various
+      periods, styles and manufacturers
+  keywords:
+    - antique oil lamp identification
+    - vintage kerosene lamp values
+    - oil lamp makers marks
+    - antique lighting collectibles
+    - Victorian oil lamp dating
+    - Aladdin lamp identification
+    - antique lamp authentication
+  about:
+    '@type': Thing
+    name: Antique Oil Lamps
+    description: >-
+      Historical lighting devices used before electricity became widespread,
+      valued by collectors for their craftsmanship and historical significance.
+  timeRequired: PT10M
+  educationalUse: Research
+  audience:
+    '@type': Audience
+    audienceType: 'Collectors, Antique Enthusiasts, Appraisers'
+  hasPart:
+    - '@type': WebPageElement
+      isPartOf:
+        '@id': >-
+          https://articles.appraisily.com/articles/antique-oil-lamp-identification
+      name: Oil Lamp Development Timeline
+      position: 1
+      text: >-
+        Historical timeline showing the evolution of oil lamps from pre-1780s
+        through the early 20th century
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Oil Lamps" level="2" >}}

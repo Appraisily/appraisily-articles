@@ -38,8 +38,12 @@ structured_data:
     determine the worth of your sterling silver flatware with this expert
     valuation guide.
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/value-of-old-silverware/value-of-old-silverware-image-1_YsbD7m-i-.png
+    width: '1200'
+    height: '630'
+    caption: Collection of antique sterling silver flatware with ornate patterns
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +55,11 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-11-04T14:30:00.000Z'
   dateModified: '2023-11-04T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-silverware'
+  keywords: >-
+    antique silverware value, sterling silver identification, silver hallmarks
+    guide, vintage flatware worth, silverware appraisal, silver pattern
+    identification, collectible silverware prices
 ---
 
 ![Collection of antique sterling silver flatware with ornate patterns](https://ik.imagekit.io/appraisily/SEO/value-of-old-silverware/value-of-old-silverware-image-1_YsbD7m-i-.png)

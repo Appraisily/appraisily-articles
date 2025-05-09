@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-14T14:30:00.000Z'
   dateModified: '2023-06-14T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/become-an-antique-appraiser/become-an-antique-appraiser-image-1_dii0oDH0C_.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/become-an-antique-appraiser/become-an-antique-appraiser-image-1_dii0oDH0C_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining vintage furniture with a
+      magnifying glass in a well-lit antique shop
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,86 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/become-an-antique-appraiser'
+  about:
+    '@type': Thing
+    name: Antique Appraisal Career
+  keywords:
+    - antique appraiser certification
+    - how to become an antique appraiser
+    - antique appraisal career
+    - antique valuation training
+    - ISA certification appraiser
+    - professional antique authentication
+    - collectibles appraisal education
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Become an Antique Appraiser
+  description: >-
+    A step-by-step guide to building a career as a professional antique
+    appraiser
+  totalTime: P2Y
+  estimatedCost:
+    '@type': MonetaryAmount
+    currency: USD
+    value: Varies
+  step:
+    - '@type': HowToStep
+      name: Obtain Formal Education
+      text: >-
+        Pursue a bachelor's degree in art history, decorative arts, history, or
+        museum studies to provide valuable background knowledge.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/become-an-antique-appraiser/become-an-antique-appraiser-image-2_C8RcbbOnP.png
+    - '@type': HowToStep
+      name: Complete Specialized Appraisal Education
+      text: >-
+        Take specific training in appraisal theory, principles, procedures,
+        ethics, and applicable laws through institutions like the International
+        Society of Appraisers (ISA) or Asheford Institute of Antiques.
+    - '@type': HowToStep
+      name: Gain Practical Experience
+      text: >-
+        Work in antique shops, auction houses, museums, or with established
+        appraisers to develop hands-on experience with antiques and
+        collectibles.
+    - '@type': HowToStep
+      name: Obtain Professional Certification
+      text: >-
+        Pursue certification through organizations like the International
+        Society of Appraisers (ISA) or the American Society of Appraisers (ASA)
+        to establish credibility.
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What education is required to become an antique appraiser?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          While there is no single mandatory educational path, a bachelor's
+          degree in art history, decorative arts, history, or museum studies
+          provides valuable background knowledge. According to the International
+          Society of Appraisers, a college degree is not always required if you
+          have substantial practical experience and specialized training in
+          appraisal methodology. You'll also need specific training in appraisal
+          theory, principles, procedures, ethics, and applicable laws.
+    - '@type': Question
+      name: How much do antique appraisers earn?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The average annual salary for antique appraisers ranges from $60,000
+          to $72,000, though this varies by location and experience.
+    - '@type': Question
+      name: How long does it take to become a certified antique appraiser?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The typical timeline from education to certification is approximately
+          2-4 years, depending on your educational background and how quickly
+          you gain the necessary experience.
 ---
 
 {{< content-modules/section-header title="Becoming an Antique Appraiser: Career Overview" level="2" >}}

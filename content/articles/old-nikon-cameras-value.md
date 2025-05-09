@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of vintage Nikon cameras with our expert appraisal
     guide. Learn which models command premium prices and what factors affect
     their worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-nikon-cameras-value/old-nikon-cameras-value-image-1_Hb5g4KnvwP.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-nikon-cameras-value/old-nikon-cameras-value-image-1_Hb5g4KnvwP.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage Nikon cameras featuring rare F, F2, and
+      classic rangefinder models on display
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,68 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-10-24T14:30:00.000Z'
   dateModified: '2023-10-24T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-nikon-cameras-value'
+  keywords:
+    - vintage Nikon camera values
+    - rare Nikon cameras worth
+    - Nikon rangefinder value
+    - collectible Nikon F series
+    - antique Nikon price guide
+    - valuable Nikon film cameras
+    - Nikon camera collector market
+  articleSection: Cameras & Photography
+  timeRequired: PT10M
+  about:
+    '@type': Thing
+    name: Vintage Nikon Cameras
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What determines the value of vintage Nikon cameras in today's market?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of vintage Nikon cameras is determined by their historical
+            significance, rarity, condition, functionality, completeness with
+            original accessories, and provenance. Particularly valuable models
+            include the original Nikon I rangefinder, the revolutionary Nikon F
+            SLR, and special editions like the Nikon F Apollo.
+      - '@type': Question
+        name: How much are original Nikon I rangefinder cameras worth?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Original black Nikon I rangefinder models are extremely rare and
+            valuable, with one selling at auction for €95,000 (about $103,000)
+            in 2010.
+      - '@type': Question
+        name: What is the value range for Nikon F cameras?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Pristine examples of the Nikon F SLR with rare accessories can fetch
+            $1,000-$3,000, while specialized versions like the Nikon F Apollo
+            can exceed $5,000.
+      - '@type': Question
+        name: How much do Nikon F2 cameras typically sell for?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Nikon F2 cameras typically command $300-$800 depending on condition,
+            with rare black versions and special editions worth considerably
+            more.
+      - '@type': Question
+        name: What is the value of Nikon's 1980s consumer SLRs?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Models like the FM, FE, and FG series typically range from $150-$400
+            today, with mint condition examples in original packaging bringing
+            premium prices.
 ---
 
 ## Introduction to Vintage Nikon Camera Values

@@ -48,11 +48,28 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-06-11T14:30:00.000Z'
   dateModified: '2024-06-11T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cane-chairs-value/antique-cane-chairs-value-image-1_HQ0bKupUx.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cane-chairs-value/antique-cane-chairs-value-image-1_HQ0bKupUx.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian-era antique cane chair with ornate wooden frame and hand-woven
+      cane seat and backrest
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-cane-chairs-value'
+  keywords:
+    - antique cane chairs value
+    - vintage cane chair identification
+    - cane furniture appraisal
+    - antique chair pricing guide
+    - collectible cane seating
+    - period cane chair styles
+    - cane furniture restoration value
 ---
 
 Antique cane chairs represent a fascinating intersection of functionality, craftsmanship, and decorative art. With their distinctive woven seats and backs, these chairs have graced homes for centuries, evolving through various style periods while maintaining their elegant appeal. For collectors and enthusiasts, understanding the value of these pieces requires knowledge of their history, construction methods, and the many factors that influence their market price.

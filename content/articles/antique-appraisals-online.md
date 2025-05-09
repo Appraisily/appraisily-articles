@@ -43,8 +43,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-10T14:30:00.000Z'
   dateModified: '2023-08-10T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-appraisals-online/antique-appraisals-online-image-1_lUVBK4wZq.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-appraisals-online/antique-appraisals-online-image-1_lUVBK4wZq.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person using laptop for virtual antique appraisal service with vintage
+      collectible
   publisher:
     '@type': Organization
     name: Appraisily
@@ -52,6 +59,55 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-appraisals-online'
+  about:
+    '@type': Thing
+    name: Antique Appraisals
+  keywords: >-
+    online antique appraisals, virtual antique valuation, digital appraisal
+    services, remote antique assessment, online collectibles valuation, antique
+    worth online, home antique appraisal
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  HowTo:
+    '@type': HowTo
+    name: How Online Antique Appraisals Work
+    description: The process of getting an antique appraised online
+    step:
+      - '@type': HowToStep
+        name: Documentation
+        text: >-
+          Take clear, high-resolution photographs of your item from multiple
+          angles, capturing any marks, signatures, damage, or distinctive
+          features.
+        position: 1
+      - '@type': HowToStep
+        name: Information Gathering
+        text: >-
+          Compile any known history (provenance), measurements, and details
+          about the item's condition and any restoration work.
+        position: 2
+      - '@type': HowToStep
+        name: Service Selection
+        text: >-
+          Choose an online appraisal service that specializes in your item
+          category (furniture, jewelry, art, etc.).
+        position: 3
+      - '@type': HowToStep
+        name: Submission
+        text: >-
+          Upload your photos and information through the service's online
+          platform, along with any specific questions you have.
+        position: 4
+      - '@type': HowToStep
+        name: Expert Review
+        text: Wait for an expert to review your submission and provide a valuation.
+        position: 5
 ---
 
 ![Person using laptop to get an online antique appraisal of a vintage item](https://ik.imagekit.io/appraisily/SEO/antique-appraisals-online/antique-appraisals-online-image-1_lUVBK4wZq.png)

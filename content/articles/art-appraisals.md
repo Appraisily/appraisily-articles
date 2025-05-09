@@ -39,8 +39,15 @@ structured_data:
     Learn everything about professional art appraisals - from understanding
     valuation methodologies to finding qualified appraisers and what to expect
     during the process.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-appraisals/art-appraisals-image-1_rfT_d69Gu.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-appraisals/art-appraisals-image-1_rfT_d69Gu.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser examining a painting with magnifying glass and
+      specialized equipment
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,29 @@ structured_data:
   datePublished: '2023-09-14T14:30:00.000Z'
   dateModified: '2023-09-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/art-appraisals'
+  articleSection: Fine Art
+  keywords:
+    - art appraisals
+    - fine art valuation
+    - professional art appraiser
+    - artwork authentication
+    - insurance art appraisal
+    - estate art valuation
+    - art market value
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is an Art Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An art appraisal is a formal, written estimate of the fair market
+            value, replacement value, or other defined value of a work of art.
+            These evaluations are conducted by qualified professionals who
+            analyze the artwork's authenticity, condition, provenance, artistic
+            significance, and current market demand.
 ---
 
 ## Introduction to Art Appraisals

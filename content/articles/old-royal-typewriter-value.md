@@ -42,8 +42,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-10-19T14:30:00.000Z'
   dateModified: '2024-10-19T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-royal-typewriter-value/old-royal-typewriter-value-image-1_OBSh3wEUi.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-royal-typewriter-value/old-royal-typewriter-value-image-1_OBSh3wEUi.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Royal typewriter with glass keys showing classic 1930s design and
+      craftsmanship
   publisher:
     '@type': Organization
     name: Appraisily
@@ -51,6 +58,21 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-royal-typewriter-value'
+  about:
+    '@type': Thing
+    name: Royal Typewriters
+    description: >-
+      Vintage and antique Royal typewriters manufactured from 1904 through the
+      1970s
+  keywords: >-
+    old Royal typewriter value, vintage Royal typewriter identification, Royal
+    portable typewriter prices, antique typewriter appraisal, Royal typewriter
+    models worth, collectible typewriters value guide
+  isPartOf:
+    '@type': CollectionPage
+    name: Antiques
+    url: 'https://articles.appraisily.com/categories/antiques'
+  timeRequired: PT10M
 ---
 
 Royal typewriters represent an iconic piece of American industrial history, coveted by collectors for their craftsmanship, historical significance, and aesthetic appeal. Whether you've discovered a Royal typewriter in an attic, inherited one from a relative, or are looking to start a collection, understanding its potential value is essential. This comprehensive guide will help you identify your Royal typewriter model and determine its worth in today's collector market.

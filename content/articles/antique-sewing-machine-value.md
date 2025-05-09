@@ -43,8 +43,15 @@ structured_data:
     Discover what determines antique sewing machine value and learn how to
     identify, date, and accurately price your vintage Singer, White, or other
     collectible sewing machines.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-sewing-machine-value/antique-sewing-machine-value-image-1_udQVufRId.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-sewing-machine-value/antique-sewing-machine-value-image-1_udQVufRId.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate antique Singer sewing machine with decorative gold detailing and
+      cast iron base
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,17 @@ structured_data:
   datePublished: '2023-05-19T14:30:00.000Z'
   dateModified: '2023-05-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-sewing-machine-value'
+  about:
+    '@type': Thing
+    name: Antique Sewing Machines
+    description: >-
+      Historical sewing machines manufactured before 1900, often featuring
+      treadle or hand-crank operation and decorative elements
+  keywords: >-
+    antique sewing machine value, vintage Singer sewing machine worth,
+    collectible sewing machine prices, treadle sewing machine identification,
+    rare sewing machine models, antique White Rotary value, Singer sewing
+    machine dating
 ---
 
 Have you recently discovered a vintage sewing machine in your attic, inherited one from a relative, or spotted one at a garage sale? These charming mechanical devices often carry both historical significance and potentially substantial monetary value. Whether you're a collector, seller, or just curious about that old Singer in your basement, understanding antique sewing machine value is essential to appreciating these remarkable pieces of craftsmanship.

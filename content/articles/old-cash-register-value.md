@@ -39,8 +39,15 @@ structured_data:
     Discover what your antique cash register is worth with our comprehensive
     value guide. Learn about National Cash Register models, pricing factors, and
     where to sell your vintage till.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-cash-register-value/old-cash-register-value-image-1_HhYbMtmsR.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-cash-register-value/old-cash-register-value-image-1_HhYbMtmsR.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate brass National Cash Register from early 1900s with detailed
+      metalwork and numerical keys
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,7 +59,27 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-cash-register-value'
+  about:
+    '@type': Thing
+    name: Antique Cash Registers
+    description: >-
+      Historical cash registers, particularly National Cash Register models from
+      1880-1915, valued as collectibles
+  keywords: >-
+    old cash register value, antique cash register worth, National Cash Register
+    value, vintage till prices, brass cash register collectible, antique till
+    appraisal, collectible cash register identification
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  inLanguage: en-US
+  articleSection: Antiques
+  thumbnailUrl: >-
+    https://ik.imagekit.io/appraisily/SEO/old-cash-register-value/old-cash-register-value-image-1_HhYbMtmsR.png
 ---
 
 # Old Cash Register Value Guide: What Your Antique Till Is Worth in 2024

@@ -42,8 +42,15 @@ structured_data:
     Explore the multifaceted nature of art value, from aesthetic and cultural
     significance to financial worth. Learn how to determine what your artwork
     might be worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-art/value-of-art-image-2_OBZazE3We.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-art/value-of-art-image-2_OBZazE3We.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Fine art painting with value scale showing the relationship between
+      artistic merit and financial worth
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,35 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-10-22T14:30:00.000Z'
   dateModified: '2023-10-22T14:30:00.000Z'
+  keywords:
+    - value of art
+    - art valuation methods
+    - art market worth
+    - determining art value
+    - art appraisal factors
+    - aesthetic value
+    - art investment
+  about:
+    '@type': Thing
+    name: Art Valuation
+    description: >-
+      The process of determining the monetary, aesthetic, and cultural value of
+      artwork
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes art valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Art value is a complex concept that includes multiple dimensions:
+            intrinsic value (aesthetic merit, technical skill, and originality),
+            social value (cultural and historical significance), and market
+            value (commercial worth determined by market dynamics). These
+            different types of value intersect and influence one another to
+            determine an artwork's overall worth.
 ---
 
 ![Fine art painting with value scale demonstrating light and shadow](https://ik.imagekit.io/appraisily/SEO/value-of-art/value-of-art-image-2_OBZazE3We.png)

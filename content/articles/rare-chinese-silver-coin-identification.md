@@ -44,8 +44,6 @@ structured_data:
     Learn how to identify rare Chinese silver coins with our comprehensive guide
     covering authentication methods, key historical periods, and valuation tips
     from numismatic experts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-chinese-silver-coin-identification/rare-chinese-silver-coin-identification-image-1__VoSZPvVt.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -61,6 +59,19 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/rare-chinese-silver-coin-identification
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-chinese-silver-coin-identification/rare-chinese-silver-coin-identification-image-1__VoSZPvVt.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic rare Chinese silver dollar with intricate dragon motif from
+      imperial period
+  keywords: >-
+    rare chinese silver coin identification, chinese numismatics, chinese silver
+    dollar authentication, counterfeit chinese coins, dragon dollar value,
+    imperial chinese coins, republican era chinese silver
 ---
 
 The world of Chinese numismatics offers collectors some of the most fascinating and valuable coins in existence. With their rich history spanning thousands of years, Chinese coins—particularly silver specimens from the late imperial and early republican periods—have seen dramatic increases in value and collector interest. However, this popularity has also made them prime targets for counterfeiters, creating significant challenges for collectors and investors alike.

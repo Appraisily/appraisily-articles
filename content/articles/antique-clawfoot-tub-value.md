@@ -43,8 +43,6 @@ structured_data:
     Expert guide to valuing antique clawfoot tubs from the Victorian and
     Edwardian eras. Learn how material, condition, age, maker marks and design
     features affect market prices for these vintage bathroom fixtures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-clawfoot-tub-value/antique-clawfoot-tub-value-image-1_OzTPvE_4F.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +54,56 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-08-29T14:30:00.000Z'
   dateModified: '2023-08-29T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-clawfoot-tub-value/antique-clawfoot-tub-value-image-1_OzTPvE_4F.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Restored vintage cast iron clawfoot bathtub with ornate eagle claw feet
+      and pristine white enamel interior
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-clawfoot-tub-value'
+  keywords:
+    - antique clawfoot tub value
+    - vintage bathtub appraisal
+    - cast iron clawfoot tub worth
+    - antique bathtub identification
+    - clawfoot tub restoration value
+    - Victorian era bathtubs
+    - rare clawfoot tub prices
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes Antique Clawfoot Tubs Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors determine the value of antique clawfoot tubs,
+            including age and authenticity (genuine pre-1940s tubs command
+            higher prices), material quality (cast iron with porcelain enamel is
+            most desirable), condition (original finishes and minimal damage
+            significantly increase value), style and design (rarer styles like
+            double-ended or slipper tubs bring premium prices),
+            brand/manufacturer (tubs from renowned makers like Standard Sanitary
+            or Kohler often fetch more), size and dimensions (unusual sizes,
+            particularly larger tubs over 6 feet, can be more valuable), and
+            feet design (ornate, original claw feet in good condition add
+            substantial value).
+      - '@type': Question
+        name: What are the Common Clawfoot Tub Designs?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Different styles of antique clawfoot tubs command varying prices in
+            the collector's market. The most common style is the Classic Roll
+            Rim Tub, which features a rolled edge around the entire tub. These
+            were mass-produced and are generally the most affordable antique
+            option.
 ---
 
 ## Introduction to Antique Clawfoot Tubs

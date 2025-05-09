@@ -43,8 +43,15 @@ structured_data:
     Learn to identify old bottles by examining seams, pontil marks, makers
     marks, and distinctive shapes. Our guide helps collectors determine age,
     rarity, and value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bottle-identification/old-bottle-identification-image-1__jX0xO_OL.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-bottle-identification/old-bottle-identification-image-1__jX0xO_OL.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique glass bottles showing various manufacturing
+      techniques, colors, and historical designs
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,39 @@ structured_data:
   datePublished: '2023-08-15T14:30:00.000Z'
   dateModified: '2023-08-15T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bottle-identification'
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why does bottle identification matter?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Understanding how to properly identify old bottles not only helps
+          determine their age and potential value but also connects you with
+          history. Each bottle represents manufacturing practices, social
+          customs, and consumer habits of its time. Developing bottle
+          identification skills allows you to: 1. Accurately date bottles within
+          specific time periods 2. Determine rarity and historical significance
+          3. Understand manufacturing evolution 4. Make informed purchasing or
+          selling decisions 5. Preserve historical context when displaying your
+          collection
+HowTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify and Date Old Bottles
+  description: >-
+    Learn to identify antique bottles by examining key features that reveal a
+    bottle's age, manufacturing techniques, and value.
+  step:
+    - '@type': HowToStep
+      name: Examine Manufacturing Characteristics
+      text: >-
+        Look for key manufacturing characteristics that can narrow down when a
+        bottle was produced, often within a decade or two.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/old-bottle-identification/old-bottle-identification-image-2_CEChLp6tC.png
 ---
 
 ![Collection of antique bottles showcasing various shapes, colors and manufacturing techniques](https://ik.imagekit.io/appraisily/SEO/old-bottle-identification/old-bottle-identification-image-1__jX0xO_OL.png)

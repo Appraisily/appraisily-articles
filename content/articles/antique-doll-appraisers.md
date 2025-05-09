@@ -39,8 +39,6 @@ structured_data:
     Discover how to find qualified antique doll appraisers, understand valuation
     factors, and learn what makes your vintage and antique dolls valuable with
     expert tips.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-doll-appraisers/antique-doll-appraisers-image-1_ouTOIqO7g.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,58 @@ structured_data:
   datePublished: '2023-09-03T14:30:00.000Z'
   dateModified: '2023-09-03T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-doll-appraisers'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-doll-appraisers/antique-doll-appraisers-image-1_ouTOIqO7g.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique doll appraiser examining a rare porcelain doll for
+      authenticity and value assessment
+  keywords:
+    - antique doll appraisers
+    - vintage doll valuation
+    - porcelain doll appraisal
+    - collectible doll authentication
+    - doll collection worth
+    - antique doll identification
+    - professional doll valuation
+  about:
+    '@type': Thing
+    name: Antique Doll Appraisal
+    description: Professional valuation services for antique and vintage collectible dolls
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why should I seek professional antique doll appraisers?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Professional antique doll appraisers bring specialized expertise
+            that goes far beyond casual estimates or online searches. Their
+            trained eyes can identify subtle details that dramatically affect
+            value, from period-appropriate materials to manufacturing techniques
+            used by specific doll makers. You should seek professional appraisal
+            for insurance documentation, estate planning, selling decisions,
+            authentication of dolls, and tax purposes when donating valuable
+            dolls.
+      - '@type': Question
+        name: What are the key reasons to seek professional doll appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The key reasons to seek professional doll appraisal include:
+            insurance documentation (most insurance companies require
+            professional appraisals to properly cover valuable collectibles),
+            estate planning (accurate valuations ensure fair distribution of
+            assets among heirs), selling decisions (professional appraisals help
+            determine optimal asking prices and selling venues), authentication
+            (experts can distinguish authentic antique dolls from reproductions
+            or altered pieces), and tax purposes (charitable donations of
+            valuable dolls require proper documentation of fair market value).
 ---
 
 Antique dolls represent a fascinating intersection of art, history, and craftsmanship that continues to captivate collectors worldwide. Whether inherited through generations or discovered at estate sales, these treasured items often hold both sentimental and monetary value. However, determining their true worth requires specialized knowledge that most collectors simply don't possess. This is where antique doll appraisers become invaluable resources.

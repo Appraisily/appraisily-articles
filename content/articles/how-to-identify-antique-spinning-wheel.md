@@ -49,8 +49,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-07T14:30:00.000Z'
   dateModified: '2023-11-07T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-spinning-wheel/how-to-identify-antique-spinning-wheel-image-1_HK9quK8Yw.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-spinning-wheel/how-to-identify-antique-spinning-wheel-image-1_HK9quK8Yw.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic antique Saxony-style wooden spinning wheel with original flyer
+      assembly and patina
   publisher:
     '@type': Organization
     name: Appraisily
@@ -61,6 +68,125 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/how-to-identify-antique-spinning-wheel
+  about:
+    '@type': Thing
+    name: Antique Spinning Wheels
+    description: >-
+      Historical textile tools used for spinning fibers into thread before
+      industrialization
+  keywords: >-
+    antique spinning wheel identification, vintage spinning wheel values,
+    spinning wheel age markers, antique textile tools, Saxony spinning wheel
+    history, spinning wheel maker marks, collectible spinning wheels
+  articleSection: Antiques
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  inLanguage: en-US
+  audience:
+    '@type': Audience
+    audienceType: 'Antique Collectors, Textile Enthusiasts, Historians'
+  potentialAction:
+    '@type': ReadAction
+    target: >-
+      https://articles.appraisily.com/articles/how-to-identify-antique-spinning-wheel
+  mentions:
+    - '@type': Thing
+      name: Saxony spinning wheel
+    - '@type': Thing
+      name: Castle spinning wheel
+    - '@type': Thing
+      name: Great/Walking wheel
+    - '@type': Thing
+      name: Charkha spinning wheel
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Antique Spinning Wheels
+  description: >-
+    A step-by-step guide to identifying, dating and valuing authentic antique
+    spinning wheels
+  totalTime: PT30M
+  supply:
+    - '@type': HowToSupply
+      name: Antique spinning wheel
+  tool:
+    - '@type': HowToTool
+      name: Magnifying glass (optional)
+    - '@type': HowToTool
+      name: Camera for documentation
+  step:
+    - '@type': HowToStep
+      name: Examine Functional Components
+      text: >-
+        Check for essential functional components like a spindle or a flyer and
+        bobbin assembly that would be necessary for actual spinning.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-spinning-wheel/how-to-identify-antique-spinning-wheel-image-2_zaH9zZmPu.png
+    - '@type': HowToStep
+      name: Identify the Style
+      text: >-
+        Determine if your wheel is a Saxony, Castle, Great/Walking wheel, or
+        Charkha design, as each has distinctive characteristics.
+    - '@type': HowToStep
+      name: Look for Age Markers
+      text: >-
+        Examine construction methods, wood patina, wear patterns, and joinery
+        techniques to determine approximate age.
+    - '@type': HowToStep
+      name: Check for Maker's Marks
+      text: >-
+        Look for signatures, stamps, or distinctive design elements that might
+        identify the maker or region of origin.
+    - '@type': HowToStep
+      name: Assess Condition and Completeness
+      text: >-
+        Evaluate the overall condition, noting any missing parts, repairs, or
+        modifications that affect both functionality and value.
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What are the main types of antique spinning wheels?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The four main types of antique spinning wheels are Saxony (horizontal
+          wheel with slanted bed), Castle (upright, compact design),
+          Great/Walking wheels (large wheel operated while standing), and
+          Charkha (portable Indian-style wheels).
+    - '@type': Question
+      name: How can you tell if a spinning wheel is genuinely antique?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Genuine antique spinning wheels typically feature hand-crafted
+          construction with visible tool marks, aged wood with natural patina,
+          period-appropriate joinery methods (wooden pegs, mortise and tenon
+          joints), and functional components designed for actual spinning rather
+          than just decoration.
+    - '@type': Question
+      name: What is the value range for antique spinning wheels?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Authentic antique spinning wheels in good condition typically range
+          from $200 to $2,000+, with rare or historically significant examples
+          commanding higher prices.
+    - '@type': Question
+      name: When did the common Saxony wheel design emerge?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The Saxony wheel design, which features a treadle and flyer assembly,
+          emerged in the 16th century and became one of the most common spinning
+          wheel styles.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Spinning Wheels" level="2" >}}

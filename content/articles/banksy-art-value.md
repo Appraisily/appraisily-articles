@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to Banksy artwork values, from limited edition prints to
     original street art. Learn about authentication methods, price determinants,
     and long-term investment outlook.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/banksy-art-value/banksy-art-value-image-1___5CHqL-F_.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/banksy-art-value/banksy-art-value-image-1___5CHqL-F_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Banksy's 'Girl with Balloon' artwork that famously self-shredded after
+      selling for £1.1 million at auction
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-11-24T14:30:00.000Z'
   dateModified: '2024-11-24T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/banksy-art-value'
+  keywords:
+    - Banksy art value
+    - Banksy print prices
+    - Banksy investment potential
+    - Banksy authentication guide
+    - most expensive Banksy artworks
+    - Banksy market analysis
+    - Banksy collectibles worth
+  articleSection: Street Art
+  about:
+    '@type': Thing
+    name: Banksy artwork valuation
+    description: >-
+      Analysis of Banksy art market prices, authentication methods, and
+      investment potential
 ---
 
 ![Banksy's iconic 'Girl with Balloon' artwork which sold for millions at auction](https://ik.imagekit.io/appraisily/SEO/banksy-art-value/banksy-art-value-image-1___5CHqL-F_.png)

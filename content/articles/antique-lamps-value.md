@@ -32,26 +32,91 @@ keywords:
   - antique lighting valuation
   - rare lamp makers
 structured_data:
-  '@context': 'https://schema.org'
-  '@type': Article
-  headline: 'Antique Lamp Values: Complete Guide to Pricing and Identification'
-  description: >-
-    Discover the true value of antique lamps with our comprehensive guide. Learn
-    how to identify valuable pieces, recognize makers, and understand what
-    collectors seek in vintage lighting.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-lamps-value/antique-lamps-value-image-1_Ym1s7b5G8.png
-  author:
-    '@type': Organization
-    name: Appraisily Team
-  publisher:
-    '@type': Organization
-    name: Appraisily
-    logo:
+  - '@context': 'https://schema.org'
+    '@type': Article
+    headline: 'Antique Lamp Values: Complete Guide to Pricing and Identification'
+    description: >-
+      Discover the true value of antique lamps with our comprehensive guide.
+      Learn how to identify valuable pieces, recognize makers, and understand
+      what collectors seek in vintage lighting.
+    author:
+      '@type': Organization
+      name: Appraisily Team
+    publisher:
+      '@type': Organization
+      name: Appraisily
+      logo:
+        '@type': ImageObject
+        url: 'https://appraisily.com/logo.png'
+    datePublished: '2023-08-15T14:30:00.000Z'
+    dateModified: '2023-08-15T14:30:00.000Z'
+    image:
       '@type': ImageObject
-      url: 'https://appraisily.com/logo.png'
-  datePublished: '2023-08-15T14:30:00.000Z'
-  dateModified: '2023-08-15T14:30:00.000Z'
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/antique-lamps-value/antique-lamps-value-image-1_Ym1s7b5G8.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Valuable antique lamps collection featuring Tiffany stained glass,
+        Victorian brass, and art deco lighting fixtures
+    mainEntityOfPage:
+      '@type': WebPage
+      '@id': 'https://articles.appraisily.com/articles/antique-lamps-value'
+    keywords:
+      - antique lamps value
+      - vintage lamp appraisal
+      - Tiffany lamp identification
+      - collectible lighting worth
+      - Victorian lamp prices
+      - antique lighting valuation
+      - rare lamp makers
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What determines the value of an antique lamp?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique lamp is primarily determined by: 1) Maker
+            and Provenance: Lamps from renowned makers like Tiffany Studios,
+            Handel, and Pairpoint typically command the highest prices. 2) Age:
+            Generally, older lamps have more historical significance, though age
+            alone doesn't guarantee value. 3) Condition: Original parts,
+            functioning mechanics, and minimal restoration significantly impact
+            value. 4) Rarity: Limited production runs or unique designs can
+            dramatically increase a lamp's worth. 5) Materials: Quality
+            materials like leaded glass, bronze, and hand-painted shades enhance
+            value. 6) Artistic Merit: The aesthetic appeal, craftsmanship, and
+            design sophistication contribute significantly to valuation.
+  - '@context': 'https://schema.org'
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-lamps-value/antique-lamps-value-image-1_Ym1s7b5G8.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique lamps including Tiffany and Victorian
+      styles
+  - '@context': 'https://schema.org'
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-lamps-value/antique-lamps-value-image-2_IWBCRjaiC2.png
+    width: '1200'
+    height: '630'
+    caption: Ornate Victorian-era antique lamp with intricate metalwork and glass shade
+  - '@context': 'https://schema.org'
+    '@type': CollectionPage
+    name: 'Antique Lamp Values: Complete Guide to Pricing and Identification'
+    description: >-
+      A comprehensive guide to understanding, identifying, and valuing antique
+      lamps from various periods and makers.
+    hasPart:
+      - '@type': Article
+        name: Understanding Antique Lamp Values
+        description: >-
+          The world of antique lamps spans numerous styles, eras, and
+          makers—each with their own value considerations and collector appeal.
 ---
 
 Antique lamps are more than just functional lighting fixtures—they're historical artifacts that capture the artistic movements, technological innovations, and cultural aesthetics of bygone eras. Whether you're a seasoned collector, a recent inheritor of a family heirloom, or simply curious about that old lamp in your attic, understanding antique lamp values can be both rewarding and financially beneficial.

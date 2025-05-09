@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of your old sewing machine with our comprehensive
     guide to identifying, valuing, and selling antique and vintage sewing
     machines.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-sewing-machine-value/old-sewing-machine-value-image-1_Qbv2wp9hg.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-sewing-machine-value/old-sewing-machine-value-image-1_Qbv2wp9hg.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Singer sewing machine with decorative gold decals and original
+      wooden cabinet base
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,44 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-09-07T14:30:00.000Z'
   dateModified: '2023-09-07T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-sewing-machine-value'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Determines Old Sewing Machine Value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Not all old sewing machines are created equal when it comes to
+            value. The key factors that determine an old sewing machine's value
+            include age and rarity, brand and model, and condition. Machines
+            manufactured before 1900 are considered truly 'antique' and can
+            command premium prices if in good condition. Rarity plays a
+            significant role, with limited production runs and unusual designs
+            attracting collectors. Some brands like Singer, White, Wheeler &
+            Wilson, Willcox & Gibbs, and Grover & Baker have more collector
+            appeal than others. The condition of the machine dramatically
+            impacts its value, with collectors evaluating original finish,
+            complete decals, and other factors.
+      - '@type': Question
+        name: Which sewing machine brands are most valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The most valuable sewing machine brands include Singer (particularly
+            models from the 1850s-1880s), White (known for high-quality machines
+            with distinctive features), Wheeler & Wilson (early competitors to
+            Singer with unique designs), Willcox & Gibbs (chain-stitch machines
+            with distinctive torpedo shapes), and Grover & Baker (early
+            double-thread machines highly prized by collectors).
 ---
 
 Have you discovered an old sewing machine in the attic, inherited one from a relative, or spotted a potential treasure at a thrift store? Understanding the value of antique and vintage sewing machines can be both fascinating and potentially profitable. From ornate Singers to rare industrial models, these mechanical marvels can range in value from a few dollars to several thousand.

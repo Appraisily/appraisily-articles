@@ -39,8 +39,15 @@ structured_data:
     Learn what it takes to become a certified antique appraiser, including
     education requirements, professional credentials, career opportunities, and
     how to find a qualified appraiser for your valuables.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/certified-antique-appraiser/certified-antique-appraiser-image-1_1Qqs9OLZV.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/certified-antique-appraiser/certified-antique-appraiser-image-1_1Qqs9OLZV.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional certified antique appraiser examining a valuable vintage vase
+      with specialized magnifying tools
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-10-30T14:30:00.000Z'
   dateModified: '2023-10-30T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/certified-antique-appraiser'
+  keywords:
+    - certified antique appraiser
+    - antique appraisal credentials
+    - professional antique valuation
+    - how to become an antique appraiser
+    - ISA appraiser certification
+    - antique authentication experts
+    - personal property appraisal
 ---
 
 ## Understanding Certified Antique Appraisers

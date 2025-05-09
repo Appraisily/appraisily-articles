@@ -38,8 +38,15 @@ structured_data:
     Discover how online antique appraisers work, what to expect from a digital
     valuation, and the best platforms for getting your treasures appraised
     online.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/online-antique-appraiser/online-antique-appraiser-image-1_suQB2iQ4X.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/online-antique-appraiser/online-antique-appraiser-image-1_suQB2iQ4X.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person using laptop to get professional online appraisal for vintage
+      collectibles and antiques
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,50 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/online-antique-appraiser'
+  keywords:
+    - online antique appraiser
+    - digital antique valuation
+    - virtual appraisal services
+    - online collectible assessment
+    - remote antique authentication
+    - professional appraisal websites
+    - antique valuation online
+  articleSection: Appraisals
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How Online Antique Appraisals Work
+  description: The process behind digital valuations of antiques and collectibles
+  step:
+    - '@type': HowToStep
+      name: Photo Submission
+      text: >-
+        Take clear photographs of your item from multiple angles, focusing on
+        details like markings, signatures, and any damage.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/online-antique-appraiser/online-antique-appraiser-image-1_suQB2iQ4X.png
+    - '@type': HowToStep
+      name: Item Description
+      text: >-
+        Provide information about the item's history, provenance, dimensions,
+        condition, and any known facts about its origin.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/online-antique-appraiser/online-antique-appraiser-image-1_suQB2iQ4X.png
+    - '@type': HowToStep
+      name: Expert Review
+      text: >-
+        An appraiser with expertise in your item's category examines your photos
+        and description.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/online-antique-appraiser/online-antique-appraiser-image-2_Ver-fd0os.png
+    - '@type': HowToStep
+      name: Valuation Report
+      text: >-
+        Within a specified timeframe (typically 24-48 hours), you receive a
+        detailed valuation report with an estimated value range and supporting
+        information.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/online-antique-appraiser/online-antique-appraiser-image-2_Ver-fd0os.png
 ---
 
 ## Introduction to Online Antique Appraisals

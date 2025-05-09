@@ -39,8 +39,6 @@ structured_data:
     Explore how value—the lightness and darkness of color—transforms artwork by
     creating depth, mood, and dimension. Learn to identify and appreciate this
     fundamental element of art.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/element-of-art-value/element-of-art-value-image-1_zUVWXAIf3.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,38 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/element-of-art-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/element-of-art-value/element-of-art-value-image-1_zUVWXAIf3.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Monochromatic artwork demonstrating value scale from light to dark
+      creating visual depth
+  keywords:
+    - element of art value
+    - value in art definition
+    - light and dark in art
+    - tonal value art
+    - chiaroscuro technique
+    - value contrast
+    - art composition elements
+  about:
+    - '@type': Thing
+      name: Art Elements
+      description: >-
+        Fundamental components used to create and describe works of art,
+        including value, line, shape, form, space, color, and texture.
+  mentions:
+    - '@type': Organization
+      name: The Virtual Instructor
+      url: 'https://thevirtualinstructor.com/Value.html'
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  articleSection: Art Elements
 ---
 
 Value is one of the seven fundamental elements of art, alongside line, shape, form, space, color, and texture. Though often overlooked by casual observers, value—the lightness or darkness of a color—is arguably one of the most powerful tools in an artist's arsenal. Understanding value is essential for both creating and appreciating art, as it's the element that creates depth, dimension, contrast, and mood in artistic compositions.

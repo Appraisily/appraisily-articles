@@ -43,7 +43,14 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-05-01T14:30:00.000Z'
   dateModified: '2023-05-01T14:30:00.000Z'
-  image: 'https://appraisily.com/images/antique-gun-appraisal.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/antique-gun-appraisal.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of historical firearms being examined by a professional antique
+      gun appraiser
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,43 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-gun-appraisal'
+  about:
+    '@type': Thing
+    name: Antique Firearms
+    description: >-
+      Historical firearms manufactured before 1899 that hold collector and
+      historical value
+  keywords: >-
+    antique gun appraisal, historical firearm valuation, vintage weapon
+    assessment, collectible gun worth, antique firearms market value
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What qualifies as an antique firearm?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        According to the United States Gun Control Act of 1968, an antique
+        firearm is defined as: Any firearm manufactured in or before 1898
+        (pre-1899), replicas of firearms manufactured in or before 1898 that
+        aren't designed to use conventional fixed ammunition, and muzzle loading
+        firearms designed to use black powder rather than fixed ammunition. This
+        legal designation is significant because antique firearms are generally
+        outside federal jurisdiction as administered by the Bureau of Alcohol,
+        Tobacco, Firearms and Explosives (BATFE), though state and local laws
+        may still apply.
+  - '@type': Question
+    name: What factors determine an antique gun's value?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        The value of an antique firearm is determined by several key factors
+        including historical significance, condition, rarity, manufacturer,
+        provenance, originality, age, craftsmanship, market demand, and
+        documentation. Firearms associated with significant historical events,
+        famous individuals, or important military campaigns typically have
+        higher values.
 ---
 
 ## Introduction to Antique Gun Appraisal

@@ -38,8 +38,15 @@ structured_data:
     Discover how to get free antique book valuations online. Learn expert
     methods for determining the value of old and rare books without spending
     money.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-books-value-for-free/antique-books-value-for-free-image-1_uPxFVE4Jd.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-books-value-for-free/antique-books-value-for-free-image-1_uPxFVE4Jd.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of leather-bound antique books with gold embossing
+      showing potential value
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,14 @@ structured_data:
   datePublished: '2023-07-05T14:30:00.000Z'
   dateModified: '2023-07-05T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-books-value-for-free'
+  about:
+    '@type': Thing
+    name: Antique Book Valuation
+    description: Methods and resources for determining the value of old and rare books
+  keywords: >-
+    antique book valuation, free book appraisal, rare book identification, first
+    edition value, old book worth, collectible book pricing, online book
+    valuation tools
 ---
 
 That dusty old book in your attic or basement might be more than just a family heirloom – it could be a valuable treasure. But how can you determine its worth without spending money on professional appraisal services? This comprehensive guide will walk you through free resources and methods to help you discover the value of your antique books.

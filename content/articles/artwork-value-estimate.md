@@ -38,8 +38,15 @@ structured_data:
     Learn how to accurately value your artwork with expert tips on determining
     authenticity, finding comparable sales, and obtaining professional art
     appraisals.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/artwork-value-estimate/artwork-value-estimate-image-1_FcWrRlC19.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/artwork-value-estimate/artwork-value-estimate-image-1_FcWrRlC19.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser examining painting authenticity with magnifying
+      glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,9 +56,15 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-09-01T14:30:00.000Z'
   dateModified: '2023-09-01T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/artwork-value-estimate'
+  keywords: >-
+    artwork value estimate, art appraisal services, fine art valuation, painting
+    authentication, art market value, online art price database, art investment
+    worth
 ---
 
 ## Introduction

@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify and value antique bells with our expert guide covering
     sleigh bells, crotal bells, and cast iron bells. Discover markings,
     materials, and historical context to determine authenticity and worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identifying-old-bells/identifying-old-bells-image-1_S_pX-bOJBQ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identifying-old-bells/identifying-old-bells-image-1_S_pX-bOJBQ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique bells including sleigh bells,
+      crotal bells, and decorative cast iron bells
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,27 @@ structured_data:
   datePublished: '2024-06-20T14:30:00.000Z'
   dateModified: '2024-06-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/identifying-old-bells'
+  about:
+    '@type': Thing
+    name: Antique Bells
+    description: >-
+      Historical bells including sleigh bells, crotal bells, and cast iron bells
+      from various time periods
+  keywords: >-
+    antique bell identification, vintage sleigh bells, crotal bell value, cast
+    iron bell markings, antique bell authentication, collectible bells, bell
+    collecting guide
+  mentions:
+    - '@type': Thing
+      name: Sleigh Bells
+      description: >-
+        Antique American sleigh bells typically dating from 1845 to 1920,
+        featuring distinctive petal designs
+    - '@type': Thing
+      name: Crotal Bells
+      description: >-
+        Round bells dating back to the 16th century in Europe with a pebble or
+        metal ball inside
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Bells" level="2" >}}

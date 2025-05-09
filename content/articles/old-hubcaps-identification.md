@@ -43,8 +43,15 @@ structured_data:
     Learn to identify, authenticate, and value vintage hubcaps with our
     comprehensive guide covering classic designs, materials, manufacturer marks,
     and current market values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-hubcaps-identification/old-hubcaps-identification-image-1_rhOyiBAyE.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-hubcaps-identification/old-hubcaps-identification-image-1_rhOyiBAyE.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage automotive hubcaps showing various designs and
+      manufacturer logos
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,24 @@ structured_data:
   datePublished: '2023-11-13T14:30:00.000Z'
   dateModified: '2023-11-13T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-hubcaps-identification'
+  about:
+    '@type': Thing
+    name: Vintage Hubcap Collecting
+    description: >-
+      Collection and identification of historical automotive hubcaps and wheel
+      covers
+  keywords: >-
+    vintage hubcap identification, old hubcaps value guide, classic car wheel
+    covers, collectible automotive hubcaps, rare hubcap authentication, antique
+    hubcap collecting, automotive memorabilia
+  mentions:
+    - '@type': Thing
+      name: Art Deco Hubcaps
+      description: 1930s hubcaps featuring geometric patterns and streamlined designs
+    - '@type': Thing
+      name: New Old Stock (NOS) Hubcaps
+      description: Unused vintage hubcaps that can command a 75% premium in value
+  temporalCoverage: 1920/1980
 ---
 
 ![Collection of vintage automotive hubcaps showing various designs and manufacturer logos](https://ik.imagekit.io/appraisily/SEO/old-hubcaps-identification/old-hubcaps-identification-image-1_rhOyiBAyE.png)

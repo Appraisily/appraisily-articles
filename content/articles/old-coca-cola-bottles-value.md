@@ -39,8 +39,6 @@ structured_data:
     Discover the value of vintage Coca-Cola bottles with our comprehensive
     guide. Learn to identify rare bottles, what makes them valuable, and how to
     determine their worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-coca-cola-bottles-value/old-coca-cola-bottles-value-image-1_7wJvy2yT8.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,25 @@ structured_data:
   datePublished: '2023-06-20T14:30:00.000Z'
   dateModified: '2023-06-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-coca-cola-bottles-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-coca-cola-bottles-value/old-coca-cola-bottles-value-image-1_7wJvy2yT8.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage Coca-Cola bottles showing different styles and eras
+      representing different periods in the company's history
+  about:
+    '@type': Thing
+    name: Vintage Coca-Cola Bottles
+    description: >-
+      Collectible bottles from the Coca-Cola Company spanning different eras and
+      designs
+  keywords: >-
+    old coca cola bottles value, vintage coke bottle identification, rare coca
+    cola bottles worth, antique coke bottle prices, hutchinson coca cola
+    bottles, collectible coca cola bottle guide, coca cola bottle dating
 ---
 
 Few brands have captured American culture quite like Coca-Cola, and the iconic bottles used throughout its history have become prized collectibles. From rare Hutchinson bottles worth thousands to common commemorative editions selling for just a few dollars, the world of vintage Coca-Cola bottle collecting offers something for everyone.

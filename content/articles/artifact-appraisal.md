@@ -39,8 +39,15 @@ structured_data:
     Learn how to get artifacts appraised professionally, understand valuation
     factors, and find the right expert to determine the authenticity and worth
     of your historical items.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/artifact-appraisal/artifact-appraisal-image-1_mZFHgl-h7.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/artifact-appraisal/artifact-appraisal-image-1_mZFHgl-h7.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining historical artifacts with specialized
+      tools for authentication and valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,39 @@ structured_data:
   datePublished: '2023-10-10T14:30:00.000Z'
   dateModified: '2023-10-10T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/artifact-appraisal'
+  about:
+    '@type': Thing
+    name: Artifact Appraisal
+    description: >-
+      Professional evaluation of historical objects to determine authenticity,
+      significance, and monetary value
+  keywords:
+    - artifact appraisal
+    - historical object valuation
+    - antique artifact authentication
+    - Native American artifact worth
+    - professional artifact appraisers
+    - archaeological item assessment
+    - ancient artifact valuation
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - h1
+      - h2
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-body
+  mentions:
+    - '@type': Organization
+      name: PBS History Detectives
+      url: >-
+        https://www.pbs.org/opb/historydetectives/technique/appraising/index.html
 ---
 
 # Expert Guide to Artifact Appraisal: How to Value Historical Objects

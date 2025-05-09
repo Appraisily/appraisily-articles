@@ -43,8 +43,15 @@ structured_data:
     Discover the fascinating world of old Chinese coin values, from ancient cash
     coins to valuable rarities worth millions. Learn about identifying, valuing,
     and collecting these historical treasures.
-  image: >-
-    https://www.coinvaluechecker.com/wp-content/uploads/2023/08/10-Most-Valuable-Old-Chinese-Coins.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://www.coinvaluechecker.com/wp-content/uploads/2023/08/10-Most-Valuable-Old-Chinese-Coins.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare ancient Chinese coins including square-hole cash coins and valuable
+      dynasty specimens from China's 2,500-year numismatic history
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,11 +61,38 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-06-13T14:30:00.000Z'
   dateModified: '2023-06-13T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-chinese-coins-value'
+  keywords:
+    - old Chinese coins value
+    - ancient Chinese currency
+    - Chinese cash coins
+    - rare Chinese coins
+    - Chinese numismatics
+    - dynasty coin identification
+    - Chinese coin collecting
+  articleSection: Coins
+  about:
+    '@type': Thing
+    name: Chinese Numismatics
+    description: >-
+      The study and collection of Chinese coins spanning over 2,500 years of
+      monetary history
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-heading
+  inLanguage: en-US
 ---
 
 Chinese coins represent one of the world's oldest and most diverse numismatic traditions, spanning over 2,500 years of history. From the earliest round coins with square holes to modern commemorative issues, these pieces offer collectors a tangible connection to China's rich cultural heritage. Whether you're a seasoned numismatist or a curious newcomer, understanding the value of old Chinese coins requires knowledge of their historical context, physical characteristics, and market dynamics.

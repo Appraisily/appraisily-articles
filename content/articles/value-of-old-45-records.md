@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of your old 45 RPM vinyl records with our expert
     guide covering rare finds, condition factors, and current market prices for
     these collectible music treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-45-records/value-of-old-45-records-image-2_QOTJRUnDa.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-45-records/value-of-old-45-records-image-2_QOTJRUnDa.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of valuable 45 RPM vinyl records with colorful labels
+      from the 1950s-1980s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,68 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-06T14:30:00.000Z'
   dateModified: '2023-11-06T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-45-records'
+  keywords:
+    - 45 RPM record values
+    - valuable vinyl singles
+    - rare 45 records worth money
+    - vintage vinyl appraisal
+    - collectible 45s
+    - vinyl record collecting
+    - music memorabilia values
+  about:
+    '@type': Thing
+    name: Vinyl Record Collecting
+    description: 'Information about collecting, valuing, and preserving 45 RPM vinyl records'
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .faq-section
+  inLanguage: en-US
+  copyrightYear: '2023'
+  copyrightHolder:
+    '@type': Organization
+    name: Appraisily
+  accessMode:
+    - textual
+    - visual
+  accessibilityFeature:
+    - alternativeText
+    - readingOrder
+    - structuralNavigation
+  accessibilityHazard: none
+  educationalUse: reference
+  audience:
+    '@type': Audience
+    audienceType: 'Collectors, Music Enthusiasts'
+  timeRequired: PT10M
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What Makes a 45 RPM Record?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Introduced by RCA Victor in 1949, the 45 RPM record revolutionized the
+        music industry. These 7-inch vinyl discs, designed to play at 45
+        revolutions per minute, quickly became the standard format for single
+        releases throughout the 1950s and beyond. Their compact size and
+        relative affordability made them particularly popular with the younger
+        generation, especially as rock and roll emerged as a dominant cultural
+        force. The format typically featured one song on each side—the A-side
+        containing the promoted hit, while the B-side offered a secondary track.
+        This created the perfect vehicle for artists to release radio-friendly
+        singles without requiring fans to purchase an entire album.
 ---
 
 # What Are 45 RPM Records Worth? Comprehensive Value Guide for Collectors

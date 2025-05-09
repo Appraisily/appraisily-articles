@@ -42,7 +42,14 @@ structured_data:
     name: Appraisily Team
   datePublished: '2025-04-16T14:30:00.000Z'
   dateModified: '2025-04-16T14:30:00.000Z'
-  image: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage Tonka trucks showing different models and conditions
+      for value assessment
   publisher:
     '@type': Organization
     name: Appraisily
@@ -50,6 +57,24 @@ structured_data:
       '@type': ImageObject
       url: 'https://articles.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-tonka-trucks-value'
+  about:
+    '@type': Thing
+    name: Vintage Tonka Trucks
+    description: >-
+      Collectible toy trucks manufactured by Tonka from the 1940s through the
+      1990s
+  keywords: >-
+    old Tonka trucks value, vintage Tonka truck prices, collectible Tonka toys,
+    Tonka truck identification, rare Tonka models, antique toy trucks, Tonka
+    appraisal guide
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
 ---
 
 ## Introduction to old-tonka-trucks-value

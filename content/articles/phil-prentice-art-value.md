@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-08-07T14:30:00.000Z'
   dateModified: '2024-08-07T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/phil-prentice-art-value/phil-prentice-art-value-image-1_ApAofXk-z.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/phil-prentice-art-value/phil-prentice-art-value-image-1_ApAofXk-z.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Original Phil Prentice oil painting of a lioness showcasing his renowned
+      wildlife art style
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,50 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/phil-prentice-art-value'
+  about:
+    '@type': Thing
+    name: Phil Prentice Wildlife Art
+    description: >-
+      Wildlife paintings and prints by American artist Phil Prentice, known for
+      his detailed depictions of big cats and other wildlife
+  keywords: >-
+    Phil Prentice art value, Phil Prentice wildlife paintings, Phil Prentice
+    leopard prints, appraising Phil Prentice art
+  articleSection: Art Valuation
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-headline
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  mentions:
+    - '@type': Person
+      name: Phil Prentice
+      birthDate: '1930'
+      birthPlace: 'Muncie, Indiana'
+      jobTitle: Wildlife Artist
+    - '@type': Organization
+      name: Dayton Art Institute
+    - '@type': Organization
+      name: Pratt Art Institute
+  offers:
+    '@type': AggregateOffer
+    lowPrice: '30'
+    highPrice: '12000'
+    priceCurrency: USD
+    offerCount: '2'
+    offers:
+      - '@type': Offer
+        itemOffered: Original Oil Painting
+        price: 11000-12000
+        priceCurrency: USD
+      - '@type': Offer
+        itemOffered: Print
+        price: 30-500
+        priceCurrency: USD
 ---
 
 {{< content-modules/section-header title="Introduction to Phil Prentice Art" level="2" >}}

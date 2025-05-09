@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to obtaining free art evaluations through online
     services, auction houses, and local resources, with insights on the
     limitations of free appraisals and when to invest in professional valuation.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-art-evaluation/free-art-evaluation-image-1_DvmB3alt-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-art-evaluation/free-art-evaluation-image-1_DvmB3alt-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art specialist examining a painting with a magnifying glass
+      for appraisal
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,15 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-10-12T14:30:00.000Z'
   dateModified: '2024-10-12T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/free-art-evaluation'
+  keywords: >-
+    free art evaluation, no cost art appraisal, online artwork valuation, free
+    painting assessment, art authentication services, estate art appraisal, art
+    value estimation
 ---
 
 ## Introduction to Free Art Evaluation Services

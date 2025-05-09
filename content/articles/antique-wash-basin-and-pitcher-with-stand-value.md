@@ -38,8 +38,15 @@ structured_data:
     Discover the true value of antique wash basin and pitcher sets with stands.
     Learn identification tips, price factors, and how to appraise these
     Victorian bathroom treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-wash-basin-and-pitcher-with-stand-value/antique-wash-basin-and-pitcher-with-stand-value-image-1_6hjbpQv7R.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-wash-basin-and-pitcher-with-stand-value/antique-wash-basin-and-pitcher-with-stand-value-image-1_6hjbpQv7R.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian-era ceramic wash basin and pitcher set with ornate wooden
+      washstand
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +58,28 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage: >-
+    https://articles.appraisily.com/articles/antique-wash-basin-and-pitcher-with-stand-value
+  keywords:
+    - antique wash basin value
+    - Victorian pitcher and basin set
+    - antique washstand identification
+    - collectible wash basin sets
+    - 19th century bathroom antiques
+    - wash basin pitcher set worth
+    - antique bathroom furniture value
+  about:
+    '@type': Thing
+    name: Antique Wash Basin and Pitcher Sets
+    description: >-
+      Historical bathroom furniture from the 18th and 19th centuries consisting
+      of ceramic basins, water pitchers, and wooden stands used before indoor
+      plumbing
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
+  temporalCoverage: 1700/1920
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Wash Basin Sets" level="2" >}}

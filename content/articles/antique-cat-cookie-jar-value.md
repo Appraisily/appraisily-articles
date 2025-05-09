@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique cat cookie jars with our comprehensive price
     guide. Learn how to identify valuable pieces from Shawnee, McCoy, and other
     sought-after manufacturers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cat-cookie-jar-value/antique-cat-cookie-jar-value-image-1_Wxaq4V_K2.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cat-cookie-jar-value/antique-cat-cookie-jar-value-image-1_Wxaq4V_K2.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique cat cookie jars collection featuring Shawnee, McCoy, and
+      other collectible ceramic designs
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-cat-cookie-jar-value'
+  about:
+    '@type': Thing
+    name: Antique Cat Cookie Jars
+    description: >-
+      Collectible ceramic and porcelain cat-shaped cookie jars from
+      manufacturers like Shawnee and McCoy, primarily from the 1940s-1960s
+  keywords: >-
+    antique cat cookie jar value, vintage cat cookie jars, Shawnee cat cookie
+    jar, McCoy cat cookie jar, ceramic cat collectibles, feline cookie jar
+    prices, valuable kitchen collectibles
 ---
 
 ## Introduction to Antique Cat Cookie Jars

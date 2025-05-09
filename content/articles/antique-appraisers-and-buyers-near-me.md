@@ -39,8 +39,15 @@ structured_data:
     Discover how to locate, evaluate, and work with the best local antique
     appraisers and buyers. Get fair valuations and sell your treasures for the
     best price.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-appraisers-and-buyers-near-me/antique-appraisers-and-buyers-near-me-image-3_rce9G4cxg.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-appraisers-and-buyers-near-me/antique-appraisers-and-buyers-near-me-image-3_rce9G4cxg.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser carefully examining a valuable vintage item
+      with magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,16 @@ structured_data:
   dateModified: '2023-07-19T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-appraisers-and-buyers-near-me
+  about:
+    '@type': Thing
+    name: Antique Appraisal
+    description: >-
+      Professional evaluation and valuation of antiques, collectibles, and
+      vintage items
+  keywords: >-
+    antique appraisers near me, local antique buyers, finding antique dealers,
+    antique valuation services, selling family heirlooms, estate appraisal
+    experts, professional antique evaluation
 ---
 
 {{< content-modules/section-header title="Finding Expert Antique Appraisers and Buyers in Your Area" level="2" >}}

@@ -43,8 +43,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-01T14:30:00.000Z'
   dateModified: '2023-06-01T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-plow-identification/antique-plow-identification-image-1_8VtR9-mTV.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-plow-identification/antique-plow-identification-image-1_8VtR9-mTV.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique farm plows showing various manufacturers' marks and
+      distinctive design features
   publisher:
     '@type': Organization
     name: Appraisily
@@ -54,6 +61,15 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-plow-identification'
+  keywords:
+    - antique plow identification
+    - vintage plow manufacturers
+    - horse-drawn plow values
+    - farm implement collecting
+    - antique plow markings
+    - walking plow identification
+    - John Deere antique plows
+  articleSection: Farm Implements
 ---
 
 Antique plows represent a significant piece of agricultural history, charting the evolution of farming technology from simple hand tools to sophisticated mechanical implements. For collectors, history enthusiasts, and those who discover these relics in old barns or farmsteads, identifying antique plows can be both challenging and rewarding. This comprehensive guide will help you recognize key features, identify manufacturers, determine age, and assess the value of your vintage plow discoveries.

@@ -38,7 +38,14 @@ structured_data:
     Discover the true value of your vintage CorningWare cookware. From rare
     patterns worth thousands to common designs, learn what makes these retro
     kitchen pieces collectible.
-  image: 'https://ik.imagekit.io/appraisily/appraisily-default-image.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/appraisily-default-image.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage CorningWare pieces featuring the iconic Blue
+      Cornflower pattern and Pyrex lids
   author:
     '@type': Organization
     name: Appraisily Team
@@ -48,8 +55,31 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-07-15T14:30:00.000Z'
   dateModified: '2024-07-15T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-corningware-value'
+  keywords:
+    - vintage CorningWare value
+    - rare CorningWare patterns
+    - Blue Cornflower pattern worth
+    - collectible CorningWare prices
+    - Pyroceram cookware value
+    - La Marjolaine CorningWare
+    - antique casserole dishes
+  about:
+    '@type': Thing
+    name: Vintage CorningWare
+    description: >-
+      Collectible kitchen cookware made from Pyroceram glass-ceramic material,
+      known for its ability to withstand extreme temperature changes
+  isPartOf:
+    '@type': CollectionPage
+    name: Kitchenware & Cookware Collectibles
+    url: 'https://articles.appraisily.com/categories/kitchenware-cookware'
 ---
 
 ## Introduction to Vintage CorningWare

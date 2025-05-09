@@ -45,14 +45,50 @@ structured_data:
   datePublished: '2023-07-13T14:30:00.000Z'
   dateModified: '2023-07-13T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/old-insulators-value/old-insulators-value-image-1_QGhNjOkUC.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of colorful vintage glass insulators of various types and
+      values including rare blue, purple, and amber specimens
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-insulators-value'
+  keywords:
+    - old insulators value
+    - antique glass insulators worth
+    - Hemingray insulator prices
+    - rare colored insulators
+    - vintage telegraph insulators
+    - collectible CD insulators
+    - glass insulator identification
+  about:
+    '@type': Thing
+    name: Antique Glass Insulators
+    description: >-
+      Historical glass components used in telegraph and electrical systems that
+      have become valuable collectibles
+  timeRequired: PT10M
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What were glass insulators used for?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Glass insulators were first used in the 1840s for telegraph lines,
+            then later for telephone lines and electrical power distribution.
+            Their primary function was to isolate and support electrical
+            conductors, preventing current leakage by keeping the wires from
+            directly contacting poles or other supports.
 ---
 
 ## Introduction to Vintage Glass Insulators

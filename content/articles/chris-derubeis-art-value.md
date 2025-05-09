@@ -47,8 +47,15 @@ structured_data:
     url: 'https://appraisily.com'
   datePublished: '2025-06-23T14:30:00.000Z'
   dateModified: '2025-06-23T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/chris-derubeis-art-value/chris-derubeis-art-value-image-1_Y_anDFdXp.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/chris-derubeis-art-value/chris-derubeis-art-value-image-1_Y_anDFdXp.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Chris DeRubeis Abstract Sensualism artwork featuring vibrant colors and
+      textured patterns on reflective metal surface
   publisher:
     '@type': Organization
     name: Appraisily
@@ -56,6 +63,15 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/chris-derubeis-art-value'
+  about:
+    '@type': Thing
+    name: Chris DeRubeis Art
+    description: Abstract Sensualism metal artwork by contemporary artist Chris DeRubeis
+  keywords: >-
+    Chris DeRubeis art value, Abstract Sensualism metal art, DeRubeis artwork
+    prices, metal art investment, contemporary metal artist, DeRubeis art
+    authentication, reflective metal artwork
+  articleSection: Art and Collectibles
 ---
 
 ## Introduction to Chris DeRubeis Art

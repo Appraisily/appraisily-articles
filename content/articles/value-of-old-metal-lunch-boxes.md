@@ -41,8 +41,6 @@ structured_data:
     Discover the value of old metal lunch boxes from the 1950s-1980s, with price
     guides, identification tips, and factors that make these nostalgic
     collectibles worth hundreds or even thousands.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-metal-lunch-boxes/value-of-old-metal-lunch-boxes-image-1_Xm9CWAHz-.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,7 +52,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-metal-lunch-boxes/value-of-old-metal-lunch-boxes-image-1_Xm9CWAHz-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage metal lunch boxes from the 1950s-1980s Golden Age
+      featuring popular characters and designs
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-metal-lunch-boxes'
+  keywords:
+    - vintage metal lunch box values
+    - collectible lunch boxes worth
+    - rare metal lunch boxes
+    - 1970s lunch box prices
+    - antique school lunch boxes
+    - valuable character lunch boxes
+    - golden age lunch box collectibles
 ---
 
 ![Collection of vintage metal lunch boxes from the golden age of the 1950s-1980s](https://ik.imagekit.io/appraisily/SEO/value-of-old-metal-lunch-boxes/value-of-old-metal-lunch-boxes-image-1_Xm9CWAHz-.png)

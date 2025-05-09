@@ -39,8 +39,15 @@ structured_data:
     Learn to identify all key table saw parts and components with our
     comprehensive guide. Essential knowledge for safe operation, maintenance,
     and repairs.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/table-saw-parts-identification/table-saw-parts-identification-image-1_seBhUCo45.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/table-saw-parts-identification/table-saw-parts-identification-image-1_seBhUCo45.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Detailed diagram showing labeled table saw components including table
+      surface, fence, blade guard and miter gauge
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,23 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/table-saw-parts-identification'
+  articleSection: Tools & Equipment
+  keywords:
+    - table saw parts identification
+    - table saw components
+    - table saw anatomy
+    - woodworking tool parts
+    - table saw maintenance
+    - table saw safety
+    - table saw diagram
+  about:
+    '@type': Thing
+    name: Table Saw Components
+    description: Identification and explanation of table saw parts and their functions
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
 ---
 
 ## Introduction to Table Saw Anatomy

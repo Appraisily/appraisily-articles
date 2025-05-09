@@ -39,8 +39,6 @@ structured_data:
     Discover the fascinating world of vintage tin toys and their values. Learn
     how to identify rare pieces, evaluate condition, and understand what makes
     these nostalgic collectibles so valuable.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-tin-toys-value/old-tin-toys-value-image-1_XX44fZkxN.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,31 @@ structured_data:
   datePublished: '2023-05-19T14:30:00.000Z'
   dateModified: '2023-05-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-tin-toys-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-tin-toys-value/old-tin-toys-value-image-1_XX44fZkxN.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collectible tin toys including colorful robots, wind-up cars, and
+      character toys from the 1800s-1960s
+  keywords:
+    - old tin toys value
+    - vintage tin toy prices
+    - collectible tin toys
+    - antique tin toy identification
+    - rare tin toys worth
+    - tin toy collectors guide
+    - Japanese tin toys
+  about:
+    '@type': Thing
+    name: Vintage Tin Toys
+    description: >-
+      Collectible tin toys manufactured from the 1800s through the 1960s that
+      have become valuable antiques and collectibles.
+  timeRequired: PT10M
+  educationalUse: Research
 ---
 
 ## Introduction to Vintage Tin Toys

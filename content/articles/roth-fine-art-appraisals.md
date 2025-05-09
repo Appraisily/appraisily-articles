@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-28T14:30:00.000Z'
   dateModified: '2023-07-28T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/roth-fine-art-appraisals/roth-fine-art-appraisals-image-1_nwiJwfq6o.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/roth-fine-art-appraisals/roth-fine-art-appraisals-image-1_nwiJwfq6o.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser from Roth Fine Art examining a valuable
+      painting in a gallery setting
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,43 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/roth-fine-art-appraisals'
+  about:
+    '@type': Service
+    name: Fine Art Appraisal Services
+    provider:
+      '@type': Organization
+      name: Roth Art Group
+      description: >-
+        A comprehensive fine art appraisal and collection management firm based
+        in Lafayette, California
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/roth-fine-art-appraisals/roth-fine-art-appraisals-image-1_nwiJwfq6o.png
+      address:
+        '@type': PostalAddress
+        addressLocality: Lafayette
+        addressRegion: CA
+        addressCountry: US
+      review:
+        '@type': Review
+        reviewRating:
+          '@type': Rating
+          ratingValue: '4.2'
+          bestRating: '5'
+        author:
+          '@type': Person
+          name: Clients
+    serviceType: Art Appraisal
+    areaServed:
+      '@type': Place
+      name: Northern California
+    audience:
+      '@type': Audience
+      audienceType: 'Collectors, attorneys, dealers, and galleries'
+  mentions:
+    - '@type': Person
+      name: Dr. Andrea Roth
+      jobTitle: Accredited Senior Appraiser
+      description: Founder of Roth Fine Art Appraisals with a Ph.D. and ASA certification
 ---
 
 ![Professional art appraiser examining a painting in a gallery setting](https://ik.imagekit.io/appraisily/SEO/roth-fine-art-appraisals/roth-fine-art-appraisals-image-1_nwiJwfq6o.png)

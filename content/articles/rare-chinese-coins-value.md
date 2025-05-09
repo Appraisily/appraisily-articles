@@ -39,8 +39,6 @@ structured_data:
     Discover the fascinating world of rare Chinese coins, from ancient cash
     pieces to modern rarities. Learn about values, authenticity, and what makes
     these numismatic treasures so sought-after by collectors worldwide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-chinese-coins-value/rare-chinese-coins-value-image-1_UNNv9l9RH.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,43 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/rare-chinese-coins-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-chinese-coins-value/rare-chinese-coins-value-image-1_UNNv9l9RH.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare Chinese coins collection showcasing ancient cash coins and valuable
+      dynasty currency specimens
+  keywords:
+    - rare Chinese coins value
+    - ancient Chinese cash coins
+    - Chinese numismatics
+    - dynasty coin collecting
+    - valuable Chinese currency
+    - Chinese coin authentication
+    - Chinese coin investment
+  about:
+    '@type': Thing
+    name: Chinese Numismatics
+    description: >-
+      The study and collection of Chinese coins and currency spanning over two
+      millennia of history
+  mentions:
+    - '@type': Thing
+      name: Qin Shi Huang
+      description: >-
+        Emperor who standardized Chinese currency with round coins featuring
+        square holes
+    - '@type': Thing
+      name: Qing Dynasty
+      description: >-
+        The last imperial dynasty of China (1644-1911) that produced many rare
+        coins
+    - '@type': Thing
+      name: Republic Period
+      description: Era (1912-1949) that produced many of China's most valuable coins
 ---
 
 # Rare Chinese Coins: Values, History, and Collector's Guide

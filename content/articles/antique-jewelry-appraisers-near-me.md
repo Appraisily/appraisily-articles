@@ -38,7 +38,6 @@ structured_data:
     Discover how to find qualified antique jewelry appraisers near you, what to
     expect during the appraisal process, costs, and how to ensure you get an
     accurate valuation of your treasured pieces.
-  image: 'https://ik.imagekit.io/appraisily/images/antique-jewelry-appraisal.jpg'
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,6 +49,66 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-07-19T14:30:00.000Z'
   dateModified: '2023-07-19T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/images/antique-jewelry-appraisal.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining vintage jewelry with magnifying loupe and
+      specialized tools
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://articles.appraisily.com/articles/antique-jewelry-appraisers-near-me
+  keywords:
+    - antique jewelry appraisers near me
+    - vintage jewelry valuation
+    - estate jewelry appraisal
+    - jewelry appraisal cost
+    - certified jewelry appraiser
+    - heirloom jewelry assessment
+    - antique jewelry authentication
+  about:
+    '@type': Thing
+    name: Antique Jewelry Appraisal
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why do I need a specialized antique jewelry appraiser?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Not all jewelry appraisers have expertise in antique or period
+            pieces. Having your vintage jewelry evaluated by a specialist
+            ensures you receive an accurate assessment based on the piece's
+            historical context, craftsmanship, and current market demand. A
+            qualified antique jewelry appraiser brings several critical
+            advantages: historical expertise, material identification, market
+            knowledge, authentication skills, and documentation expertise.
+      - '@type': Question
+        name: What are the standard costs for jewelry appraisals?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Standard appraisal costs range from $50-$150, typically charged as
+            hourly or per-item rates.
+      - '@type': Question
+        name: How often should I update my jewelry appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: It is recommended to update your jewelry appraisal every 2-3 years.
+      - '@type': Question
+        name: >-
+          What is the typical difference between insurance and resale
+          valuations?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            There is typically a 30-50% difference between insurance value and
+            resale value for antique jewelry.
 ---
 
 {{< content-modules/section-header title="Understanding Antique Jewelry Appraisals" level="2" >}}

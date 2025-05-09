@@ -44,14 +44,48 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-13T14:30:00.000Z'
   dateModified: '2023-11-13T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-porcelain-dolls-value/antique-porcelain-dolls-value-image-1_VETy_rCFQ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-porcelain-dolls-value/antique-porcelain-dolls-value-image-1_VETy_rCFQ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique porcelain doll with blonde ringlets, hand-painted face and
+      original lace dress
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-porcelain-dolls-value'
+  keywords:
+    - antique porcelain dolls value
+    - bisque doll identification
+    - valuable french porcelain dolls
+    - antique doll price guide
+    - kestner porcelain dolls
+    - jumeau doll values
+    - porcelain doll authentication
+  articleSection: Dolls & Toys
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Determines an Antique Porcelain Doll's Value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of antique porcelain dolls is determined by a combination
+            of factors, including age and rarity (dolls from the 19th and early
+            20th centuries are typically more valuable), manufacturer and
+            provenance (dolls from prestigious makers like Kestner, Jumeau, Bru,
+            Simon & Halbig, and Kammer & Reinhardt are highly sought after),
+            condition (intact porcelain with no damage, original clothing and
+            accessories, well-maintained wigs and eyes, working mechanisms, and
+            original body components), and distinguishing features (unique
+            facial expressions, unusual eye characteristics, etc.).
 ---
 
 ![Beautiful antique porcelain doll with blonde curls and lace dress](https://ik.imagekit.io/appraisily/SEO/antique-porcelain-dolls-value/antique-porcelain-dolls-value-image-1_VETy_rCFQ.png)

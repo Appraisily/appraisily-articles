@@ -1,0 +1,181 @@
+{
+  "searchParameters": {
+    "q": "how much is a painting worth",
+    "gl": "us",
+    "hl": "en",
+    "type": "search",
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "What's My Art Worth: Price Art - askART",
+      "link": "https://www.askart.com/Price_Artwork.aspx",
+      "snippet": "The size of an artwork is very often a factor in its value. In addition, some artists are especially known for certain subject matter. If an artwork contains ...",
+      "position": 1
+    },
+    {
+      "title": "How much should I sell this for? : r/painting - Reddit",
+      "link": "https://www.reddit.com/r/painting/comments/17onluj/how_much_should_i_sell_this_for/",
+      "snippet": "This is worth way more than $550. If artists undervalue their art, no one else values it either. This should be sold for 1-2K at a minimum.",
+      "date": "Nov 6, 2023",
+      "sitelinks": [
+        {
+          "title": "Who buys paintings over 500-1000$? : r/artbusiness",
+          "link": "https://www.reddit.com/r/artbusiness/comments/19bswvh/who_buys_paintings_over_5001000/"
+        },
+        {
+          "title": "How can i know the worth of my art? : r/artbusiness",
+          "link": "https://www.reddit.com/r/artbusiness/comments/1exm06w/how_can_i_know_the_worth_of_my_art/"
+        }
+      ],
+      "position": 2
+    },
+    {
+      "title": "9 Signs Your Painting is Over $1K - Gray's Auctioneers",
+      "link": "https://www.graysauctioneers.com/blog-posts/2020/5/8/9-signs-that-your-painting-may-be-worth-over-1000?srsltid=AfmBOorER8cpd4vTLpwY1YS26rYIlHh6Xc3n684StxPDAgxDo7kWoXGO",
+      "snippet": "Perhaps that old painting hanging on the wall has some real value. Here are 9 key factors real experts use to find the value of your artwork ...",
+      "date": "May 8, 2020",
+      "position": 3
+    },
+    {
+      "title": "How Much Should I Sell My Paintings For? - EttaVee",
+      "link": "https://www.ettavee.com/blog/how-much-should-i-sell-my-paintings-for",
+      "snippet": "So if I was selling a 20x20” painting I'd sell it for $400 – basically $1 per square inch. Now keep in mind that this was at the very beginning ...",
+      "date": "Feb 28, 2023",
+      "position": 4
+    },
+    {
+      "title": "Art prices, art appraisal - Search free",
+      "link": "https://www.findartinfo.com/",
+      "snippet": "FindArtInfo.com contains price information on all kinds of fine art, oil paintings, etchings, engravings, watercolors, drawings, sculptures and much more",
+      "sitelinks": [
+        {
+          "title": "Browse by Artist",
+          "link": "https://findartinfo.com/english/A/browse-by-artist.html"
+        },
+        {
+          "title": "Advanced search",
+          "link": "https://findartinfo.com/english/advanced-search.html"
+        },
+        {
+          "title": "Browse Signatures",
+          "link": "https://findartinfo.com/english/A/browse-signatures.html"
+        },
+        {
+          "title": "Art Forum",
+          "link": "https://forum.findartinfo.com/"
+        }
+      ],
+      "position": 5
+    },
+    {
+      "title": "How much is a painting worth if it's signed but the artist is unknown?",
+      "link": "https://www.quora.com/How-much-is-a-painting-worth-if-its-signed-but-the-artist-is-unknown",
+      "snippet": "They're not necessarily. Most paintings don't sell for thousands of dollars, much less millions. Tens to hundreds is far more likely. And they ...",
+      "date": "Jan 19, 2023",
+      "sitelinks": [
+        {
+          "title": "How much do artists sell their paintings for, and how many of them ...",
+          "link": "https://www.quora.com/How-much-do-artists-sell-their-paintings-for-and-how-many-of-them-are-actually-worth-it"
+        },
+        {
+          "title": "What price to sell a painting as a beginner? - Quora",
+          "link": "https://www.quora.com/What-price-to-sell-a-painting-as-a-beginner"
+        }
+      ],
+      "position": 6
+    },
+    {
+      "title": "How Much Is Your Object Worth? | Smithsonian American Art Museum",
+      "link": "https://americanart.si.edu/research/my-art/object-worth",
+      "snippet": "The following guidelines should help you find an approximate value for your artwork. First, consult price guides to determine current sale and auction prices.",
+      "position": 7
+    },
+    {
+      "title": "How to find out how much your art/painting is worth without selling it",
+      "link": "https://www.quora.com/How-can-you-find-out-how-much-your-art-painting-is-worth-without-selling-it?top_ans=225888746",
+      "snippet": "The value of a painting is influenced by the artist's fame, the rarity of the piece, its historical context, quality of execution, provenance, ...",
+      "date": "Oct 17, 2022",
+      "position": 8
+    },
+    {
+      "title": "How to Determine the Price of a Painting - Artsper Magazine",
+      "link": "https://blog.artsper.com/en/lifestyle/how-to-determine-the-price-of-a-painting/",
+      "snippet": "Join Artsper as we explore the 5 key factors which determine the price of a painting, in today's ever-evolving contemporary art market!",
+      "date": "Apr 17, 2023",
+      "position": 9
+    },
+    {
+      "title": "How to Price Your Art (in Just 6 Minutes) - YouTube",
+      "link": "https://www.youtube.com/watch?v=HA6Xmn2WIcM",
+      "snippet": "... how much to charge for your art. *** 20% OFF Discount Code COURSE20 ... Drawing & Painting - The Virtual Instructor•17K views · 12:57. Go ...",
+      "date": "Aug 13, 2024",
+      "position": 10
+    }
+  ],
+  "peopleAlsoAsk": [
+    {
+      "question": "How much do I sell a painting for?",
+      "snippet": "Multiply the painting's width by its length to arrive at the total size, in square inches. Then multiply that number by a set dollar amount that's appropriate for your reputation. I currently use $6 per square inch for oil paintings. Then calculate your cost of canvas and framing, and then double that number.",
+      "title": "How to Price Your Artwork: This Formula Makes it Easy",
+      "link": "https://www.artistsnetwork.com/artist-life/a-simple-formula-for-pricing-artwork/"
+    },
+    {
+      "question": "How much is the average painting worth?",
+      "snippet": "The average cost of a canvas oil painting can range anywhere from $100 to over $1,000. The final price depends on several factors, such as the artist's reputation, the size of the painting, and the complexity of the work.",
+      "title": "How Much Should You Budget For A Canvas Oil Painting?",
+      "link": "https://themarshallgallery.com/post/5034-how-much-should-you-budget-for-a-canvas-oil-painting"
+    },
+    {
+      "question": "How to calculate the price of a painting?",
+      "snippet": "(Height + Width) × Price per linear inch It's a simple and straightforward way to price art — not just for you, but also for your buyers.",
+      "title": "Pricing Your Art: A Comprehensive Guide for Artists [2023]",
+      "link": "https://www.magazine.artconnect.com/resources/how-to-price-your-art"
+    },
+    {
+      "question": "What is the fair market value of a painting?",
+      "snippet": "Fair market value (FMV) is the price that the piece would sell between a buyer and seller on the open market.",
+      "title": "What Art Collectors Need to Know About Art Valuation - Artwork Archive",
+      "link": "https://www.artworkarchive.com/blog/what-art-collectors-need-to-know-about-art-valuation"
+    },
+    {
+      "question": "How to determine the value of an artwork?",
+      "snippet": "7 FACTORS THAT DETERMINE THE COMMERCIAL VALUE OF ART\n1\nArtist. The artist's position in the art world is among the most important aspects to consider. ...\n2\nScarcity. Another factor that affects the value is the prolificity of an artist. ...\n3\nAuthenticity. ...\n4\nSubject / Style. ...\n5\nCondition. ...\n6\nProvenance. ...\n7\nTechnique / Medium.",
+      "title": "7 Factors that Determine the Commercial Value of Art",
+      "link": "https://www.theeditgallery.com/blog/7-factors-that-determine-the-commercial-value-of-art/"
+    },
+    {
+      "question": "How do you get a painting valued?",
+      "snippet": "You can take it to a gallery that represents that artist and ask them. Or, you can hire an accredited appraiser who is familiar with the artist and pay them for an appraisal.",
+      "title": "How to find out how much your art/painting is worth without selling it - Quora",
+      "link": "https://www.quora.com/How-can-you-find-out-how-much-your-art-painting-is-worth-without-selling-it?no_redirect=1"
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Value my painting for free"
+    },
+    {
+      "query": "Value of paintings by artist name"
+    },
+    {
+      "query": "How much is my painting worth app"
+    },
+    {
+      "query": "Value of paintings by artist online"
+    },
+    {
+      "query": "How much do acrylic paintings sell for"
+    },
+    {
+      "query": "Pricing artwork calculator"
+    },
+    {
+      "query": "Value my painting for free near me"
+    },
+    {
+      "query": "How much is an oil painting worth"
+    }
+  ],
+  "credits": 1
+}

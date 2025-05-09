@@ -39,8 +39,6 @@ structured_data:
     Discover the best online antique appraisal services to determine the value
     of your collectibles without leaving home. Learn about costs, reliability,
     and top platforms.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/online-antique-appraisal/online-antique-appraisal-image-1_XSfDCz7KS.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +48,66 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-08-28T14:30:00.000Z'
   dateModified: '2023-08-28T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/online-antique-appraisal'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/online-antique-appraisal/online-antique-appraisal-image-1_XSfDCz7KS.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person evaluating antique items on laptop for online appraisal with
+      vintage collectibles displayed
+  keywords: >-
+    online antique appraisal, virtual antique valuation, digital collectible
+    assessment, remote appraisal services, online antique authentication, home
+    antique evaluation, professional online valuation
+  about:
+    '@type': Thing
+    name: Antique Appraisal
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: The Online Appraisal Process
+  description: Step-by-step guide to getting your antiques appraised online
+  step:
+    - '@type': HowToStep
+      name: Documentation
+      text: >-
+        Take clear, well-lit photographs of your item from multiple angles.
+        Include close-ups of signatures, maker's marks, damage, and other
+        important details.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/online-antique-appraisal/online-antique-appraisal-image-2_7OCWESYTF.png
+      url: >-
+        https://articles.appraisily.com/articles/online-antique-appraisal#documentation
+    - '@type': HowToStep
+      name: Description
+      text: >-
+        Provide detailed information about your item, including its dimensions,
+        condition, known history, provenance, and any documentation you may
+        have.
+      url: >-
+        https://articles.appraisily.com/articles/online-antique-appraisal#description
+    - '@type': HowToStep
+      name: Submission
+      text: >-
+        Upload your photos and description to your chosen online appraisal
+        platform. Some services may require payment upfront, while others charge
+        after review.
+      url: >-
+        https://articles.appraisily.com/articles/online-antique-appraisal#submission
+    - '@type': HowToStep
+      name: Expert Review
+      text: >-
+        A qualified appraiser will review your submission and evaluate your
+        item.
+      url: >-
+        https://articles.appraisily.com/articles/online-antique-appraisal#expert-review
 ---
 
 ![Person using laptop for online antique appraisal with vintage items displayed nearby](https://ik.imagekit.io/appraisily/SEO/online-antique-appraisal/online-antique-appraisal-image-1_XSfDCz7KS.png)

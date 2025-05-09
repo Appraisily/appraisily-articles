@@ -41,8 +41,15 @@ structured_data:
     Discover the value of old Bulova watches from the 1940s-1970s. Learn
     identification methods, price factors, and how to determine the worth of
     your vintage Bulova timepiece.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bulova-watches-value/old-bulova-watches-value-image-1_CLuCdDLXZ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-bulova-watches-value/old-bulova-watches-value-image-1_CLuCdDLXZ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage Bulova watches from the 1950s with gold
+      cases and leather straps showing various styles and eras
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,8 +59,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-07-20T14:30:00.000Z'
   dateModified: '2023-07-20T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bulova-watches-value'
+  keywords:
+    - old Bulova watches value
+    - vintage Bulova watch prices
+    - Bulova Accutron value
+    - antique Bulova identification
+    - collectible Bulova timepieces
+    - mid-century Bulova watches
+    - Bulova watch dating
+  about:
+    '@type': Thing
+    name: Vintage Bulova Watches
+    description: >-
+      Collectible timepieces manufactured by the Bulova Watch Company from the
+      early 20th century through the 1970s
+  timeRequired: PT10M
 ---
 
 ## Introduction to Vintage Bulova Watches

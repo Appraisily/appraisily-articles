@@ -41,8 +41,15 @@ structured_data:
     Discover how to identify and value antique teapots with our comprehensive
     guide. Learn about rare pieces, price factors, and what collectors seek in
     vintage teaware.
-  image: >-
-    https://ik.imagekit.io/appraisily/article_images/antique-teapots/silver-teapot-collection.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/article_images/antique-teapots/silver-teapot-collection.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable collection of 18th and 19th century silver and porcelain antique
+      teapots showing various styles and makers
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,9 +61,54 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://ik.imagekit.io/appraisily/logo/appraisily-logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-teapots-value'
+  about:
+    - '@type': Thing
+      name: Antique Teapots
+      description: >-
+        Historical teapots over 100 years old valued for their craftsmanship,
+        provenance, and cultural significance
+    - '@type': Thing
+      name: Collectible Teaware
+      description: >-
+        Vintage and antique tea serving vessels sought by collectors and
+        enthusiasts
+  keywords: >-
+    antique teapots value, vintage teapot identification, valuable collectible
+    teaware, antique silver teapots, porcelain teapot valuation, rare teapot
+    markings, teapot price guide
+  articleSection: Ceramics & Porcelain
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Makes a Teapot Antique?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Generally, items must be at least 100 years old to be considered truly
+          antique, though many collectors also prize "vintage" teapots from the
+          mid-20th century. Teapots have been produced in various materials
+          throughout history, including porcelain (originated in China and later
+          produced in Europe), silver (prized for their craftsmanship and
+          maker's marks), cast iron (often from Japan, known as tetsubin), and
+          pottery and earthenware (including Wedgwood and Staffordshire).
+    - '@type': Question
+      name: What Are the Key Factors Affecting Antique Teapot Values?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Several elements influence the market value of antique teapots. These
+          include the maker and manufacturer (renowned manufacturers like
+          Sèvres, Meissen, Wedgwood, Paul Revere, and Yixing typically command
+          higher prices), condition and completeness (collectors seek pieces
+          with no cracks, chips, or repairs), age, rarity, provenance, and
+          historical significance.
 ---
 
 ## Introduction to Antique Teapots

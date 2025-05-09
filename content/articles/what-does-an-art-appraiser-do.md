@@ -40,8 +40,15 @@ structured_data:
   description: >-
     Discover the essential role of art appraisers in determining artwork value.
     Learn about their methods, qualifications, and when you should hire one.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/what-does-an-art-appraiser-do/what-does-an-art-appraiser-do-image-1_aWWzeXXO2.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/what-does-an-art-appraiser-do/what-does-an-art-appraiser-do-image-1_aWWzeXXO2.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining a painting with a
+      magnifying glass for authentication and valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,46 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-09-15T14:30:00.000Z'
   dateModified: '2023-09-15T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Art Appraisal
+    description: Professional evaluation and valuation of artwork and collectibles
+  keywords:
+    - art appraiser duties
+    - professional art valuation
+    - art authentication process
+    - art appraisal methods
+    - when to hire art appraiser
+    - art market value determination
+    - fine art appraisal services
+  articleSection: Art Appraisal
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-headline
+  isAccessibleForFree: true
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: true
+      cssSelector: .article-body
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Is an Art Appraiser?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An art appraiser is a specialized professional who evaluates and
+            determines the monetary value of artworks, antiques, and other
+            cultural objects. Unlike art authentication experts who focus
+            primarily on verifying the authenticity of a piece, appraisers
+            concentrate on establishing fair market value, replacement value, or
+            other relevant financial assessments depending on the appraisal's
+            purpose. Art appraisers possess a combination of art historical
+            knowledge, market expertise, and analytical skills that allow them
+            to evaluate artworks methodically and objectively.
 ---
 
 ![Professional art appraiser examining a painting with magnifying glass](https://ik.imagekit.io/appraisily/SEO/what-does-an-art-appraiser-do/what-does-an-art-appraiser-do-image-1_aWWzeXXO2.png)

@@ -39,8 +39,15 @@ structured_data:
     Discover the best antique furniture appraisal services near you. Learn how
     to get accurate valuations, what to expect during the process, and how to
     find certified professionals in your area.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-furniture-appraisal-near-me/antique-furniture-appraisal-near-me-image-1_bofE7BWIT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-furniture-appraisal-near-me/antique-furniture-appraisal-near-me-image-1_bofE7BWIT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser carefully examining antique wooden furniture while
+      consulting with client
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,12 +57,22 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-14T14:30:00.000Z'
   dateModified: '2023-07-14T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-furniture-appraisal-near-me
+  keywords:
+    - antique furniture appraisal near me
+    - local antique furniture valuation
+    - professional furniture appraisers
+    - heirloom furniture assessment
+    - antique appraisal services
+    - find furniture appraiser
+    - vintage furniture value
 ---
 
 When it comes to determining the value of heirloom pieces, inherited treasures, or potential auction items, finding a reputable antique furniture appraisal service near you is essential. Professional appraisers provide accurate valuations based on expertise, market knowledge, and authentication skills that can help you make informed decisions about your cherished pieces.

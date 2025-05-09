@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-14T14:30:00.000Z'
   dateModified: '2023-07-14T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antiques-appraisal-near-me/antiques-appraisal-near-me-image-1_TXOhoY1Dl.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antiques-appraisal-near-me/antiques-appraisal-near-me-image-1_TXOhoY1Dl.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser carefully examining valuable heirlooms with
+      specialized tools
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,26 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antiques-appraisal-near-me'
+  about:
+    '@type': Thing
+    name: Antique Appraisal
+    description: >-
+      Professional valuation services for antiques, collectibles, and family
+      heirlooms
+  keywords: >-
+    antiques appraisal near me, local antique valuation, professional antique
+    appraisers, antique appraisal costs, heirloom valuation services
+  articleSection: Appraisals
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-heading
+  isAccessibleForFree: true
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: true
+      cssSelector: .article-body
 ---
 
 ![Professional appraiser examining antique items in an appraisal gallery](https://ik.imagekit.io/appraisily/SEO/antiques-appraisal-near-me/antiques-appraisal-near-me-image-1_TXOhoY1Dl.png)

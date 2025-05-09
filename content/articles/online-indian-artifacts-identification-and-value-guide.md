@@ -46,8 +46,15 @@ structured_data:
     Explore our comprehensive online Indian artifacts identification and value
     guide. Learn to identify, authenticate, and determine the value of Native
     American artifacts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/online-indian-artifacts-identification-and-value-guide/online-indian-artifacts-identification-and-value-guide-image-1_CSHkwwfPk.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/online-indian-artifacts-identification-and-value-guide/online-indian-artifacts-identification-and-value-guide-image-1_CSHkwwfPk.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Native American artifacts collection including arrowheads,
+      pottery and ceremonial tools with identification markers
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,14 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-09-07T14:30:00.000Z'
   dateModified: '2023-09-07T14:30:00.000Z'
+  keywords:
+    - Native American artifact identification
+    - Indian artifact value guide
+    - authentic arrowhead identification
+    - prehistoric Native American pottery
+    - tribal artifact authentication
+    - indigenous artifact appraisal
+    - collecting Native American artifacts
 ---
 
 ![Collection of Native American artifacts including arrowheads, pottery and tools with identification labels](https://ik.imagekit.io/appraisily/SEO/online-indian-artifacts-identification-and-value-guide/online-indian-artifacts-identification-and-value-guide-image-1_CSHkwwfPk.png)

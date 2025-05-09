@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-20T14:30:00.000Z'
   dateModified: '2023-08-20T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-stained-glass-windows-value/antique-stained-glass-windows-value-image-1_Bv4Pdgc64.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-stained-glass-windows-value/antique-stained-glass-windows-value-image-1_Bv4Pdgc64.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate antique stained glass window with jeweled elements and vibrant
+      colors showcasing period craftsmanship
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,57 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-stained-glass-windows-value'
+  keywords:
+    - antique stained glass windows value
+    - Tiffany stained glass value
+    - church stained glass appraisal
+    - Victorian stained glass windows
+    - antique window valuation
+    - stained glass collectibles
+    - historical glass appraisal
+  articleSection: Antiques
+  about:
+    '@type': Thing
+    name: Antique Stained Glass Windows
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the typical value range for antique stained glass windows?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Most antique stained glass windows typically fall within the $2,000
+            to $100,000 range, with particularly rare or notable pieces
+            exceeding these figures. Premium pieces like signed Tiffany or
+            historically significant windows can be worth $100,000+.
+      - '@type': Question
+        name: How much are church-originated stained glass windows worth?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            According to a recent appraisal detailed on JustAnswer,
+            church-originated stained glass windows were valued at approximately
+            $3,000-$4,000 each, showing the substantial value these pieces can
+            hold.
+      - '@type': Question
+        name: >-
+          What is the average appreciation rate for quality antique stained
+          glass windows?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The average appreciation rate over the past decade for quality
+            antique stained glass windows is approximately 15-20%.
+      - '@type': Question
+        name: What factors influence the value of antique stained glass windows?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several critical factors influence the value of antique stained
+            glass windows, including age, provenance, condition, craftsmanship,
+            size, and historical significance.
 ---
 
 Antique stained glass windows represent a unique intersection of art, history, and craftsmanship. These colorful treasures have captivated people for centuries, from magnificent church installations to decorative elements in Victorian homes. Today, these windows aren't just historical artifacts—they're valuable collectibles that can command impressive prices in the right markets.

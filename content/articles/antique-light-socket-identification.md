@@ -39,8 +39,6 @@ structured_data:
     Learn how to properly identify antique light sockets with our expert guide.
     Discover identification marks, materials, types, and valuation methods for
     vintage lighting fixtures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-light-socket-identification/antique-light-socket-identification-image-1_nkvCIG_jj.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +48,24 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-12T14:30:00.000Z'
   dateModified: '2023-11-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-light-socket-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-light-socket-identification/antique-light-socket-identification-image-1_nkvCIG_jj.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage light socket collection showing brass, porcelain, and Bakelite
+      examples from different eras
+  keywords: >-
+    antique light socket identification, vintage lamp socket types, brass light
+    socket value, Bakelite socket identification, antique lighting fixtures,
+    Edison socket history, vintage light socket safety
 ---
 
 ![Collection of various antique light sockets showing different styles and materials](https://ik.imagekit.io/appraisily/SEO/antique-light-socket-identification/antique-light-socket-identification-image-1_nkvCIG_jj.png)

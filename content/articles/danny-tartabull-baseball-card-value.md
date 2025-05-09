@@ -41,8 +41,15 @@ structured_data:
     Discover the value of Danny Tartabull baseball cards with our comprehensive
     price guide. Learn about his rookie cards, rare variations, and what factors
     affect their worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/danny-tartabull-baseball-card-value/danny-tartabull-baseball-card-value-image-1_t5eWP1Ai1.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/danny-tartabull-baseball-card-value/danny-tartabull-baseball-card-value-image-1_t5eWP1Ai1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Danny Tartabull 1987 Topps baseball card showing the power-hitting
+      outfielder
   author:
     '@type': Organization
     name: Appraisily Team
@@ -58,6 +65,46 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/danny-tartabull-baseball-card-value
+  about:
+    '@type': Thing
+    name: Danny Tartabull Baseball Cards
+    description: >-
+      Baseball cards featuring Danny Tartabull, who played 14 seasons in MLB
+      from 1984 to 1997 as a power hitter for teams including the Mariners,
+      Royals, and Yankees.
+  keywords:
+    - danny tartabull baseball card value
+    - danny tartabull rookie card worth
+    - 1987 topps danny tartabull
+    - danny tartabull rare variations
+    - danny tartabull baseball cards investment
+    - 1980s baseball card values
+    - danny tartabull all-star cards
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: Who Is Danny Tartabull?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Danny Tartabull played 14 seasons in Major League Baseball from 1984 to
+        1997. Known for his power hitting, Tartabull was an All-Star in 1991 and
+        played for several teams including the Seattle Mariners, Kansas City
+        Royals, New York Yankees, Oakland Athletics, Chicago White Sox, and
+        Philadelphia Phillies. His career highlights include a 1991 All-Star
+        selection, career .273 batting average, 262 home runs and 925 RBIs, and
+        being named the 1986 The Sporting News American League Rookie Player of
+        the Year.
+  - '@type': Question
+    name: What are Danny Tartabull's rookie cards worth?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Danny Tartabull's key rookie cards and their values include: 1985
+        Donruss #27 ($1.73 raw, $59.99 PSA 9), 1985 Fleer #647 ($1-3 raw, $59.99
+        PSA 9), 1985 Topps #362 ($1-5 raw, $30-45 PSA 9), and his pre-rookie
+        1984 Cramer Salt Lake City Gulls #170 ($2.52 raw, $10-20 NM condition).
 ---
 
 Danny Tartabull baseball cards represent an interesting segment of the 1980s and early 1990s sports card market. While not among the most valuable players of his era, certain Tartabull cards—particularly rookie cards and rare variations—have maintained collector interest over the decades. In this comprehensive guide, we'll explore the values, rarities, and investment potential of Danny Tartabull's baseball cards.

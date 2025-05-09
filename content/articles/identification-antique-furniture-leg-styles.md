@@ -43,8 +43,15 @@ structured_data:
     Learn to identify different antique furniture leg styles with our detailed
     guide covering cabriole, fluted, Marlborough, and other classic designs to
     help value your pieces.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identification-antique-furniture-leg-styles/identification-antique-furniture-leg-styles-image-1_3gkHI6d2G.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identification-antique-furniture-leg-styles/identification-antique-furniture-leg-styles-image-1_3gkHI6d2G.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of classic antique furniture leg styles including cabriole,
+      fluted, Marlborough, and other period designs
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,16 @@ structured_data:
       url: 'https://appraisily.com/img/logo.png'
   datePublished: '2024-10-26T14:30:00.000Z'
   dateModified: '2024-10-26T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Antique Furniture
+    description: >-
+      Historical furniture pieces with distinctive leg styles from different
+      periods
+  keywords: >-
+    antique furniture leg identification, cabriole leg style, Marlborough
+    furniture legs, antique table leg styles, period furniture legs, furniture
+    leg history, identifying antique furniture
 ---
 
 ![Various antique furniture leg styles including cabriole, fluted, and Marlborough designs](https://ik.imagekit.io/appraisily/SEO/identification-antique-furniture-leg-styles/identification-antique-furniture-leg-styles-image-1_3gkHI6d2G.png)

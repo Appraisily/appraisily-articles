@@ -39,8 +39,15 @@ structured_data:
     Explore the importance of value in art, learn how it affects perception, and
     discover techniques artists use to create depth and dimension through light
     and shadow.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/elements-of-art-value/elements-of-art-value-image-1_zwdeI10D6.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/elements-of-art-value/elements-of-art-value-image-1_zwdeI10D6.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Value scale in art showing gradation from light to dark tones with
+      examples of shadow and dimension
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,45 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/elements-of-art-value'
+  keywords:
+    - value in art
+    - light and shadow techniques
+    - tonal value
+    - chiaroscuro
+    - art elements
+    - value contrast
+    - art appraisal
+  articleSection: Art Elements
+  about:
+    '@type': Thing
+    name: Value in Art
+    description: >-
+      The relative lightness or darkness of tones or colors in artwork that
+      creates depth, dimension, and visual interest
+  mentions:
+    - '@type': Thing
+      name: High-key values
+      description: 'Predominantly light tones creating bright, airy compositions'
+    - '@type': Thing
+      name: Low-key values
+      description: 'Predominantly dark tones creating dramatic, moody effects'
+    - '@type': Thing
+      name: High-contrast values
+      description: Strong differences between light and dark for visual impact
+    - '@type': Thing
+      name: Low-contrast values
+      description: Subtle gradations between similar values for nuanced effects
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - h2
+      - h3
+  inLanguage: en-US
 ---
 
 ![Visual representation of value scale in art showing gradation from light to dark](https://ik.imagekit.io/appraisily/SEO/elements-of-art-value/elements-of-art-value-image-1_zwdeI10D6.png)

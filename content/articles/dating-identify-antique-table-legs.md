@@ -43,13 +43,21 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-11-14T14:30:00.000Z'
   dateModified: '2024-11-14T14:30:00.000Z'
-  image: 'https://appraisily.com/images/antique-table-legs-identification-guide.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/antique-table-legs-identification-guide.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique table leg styles including Queen Anne cabriole,
+      turned, tapered, and Mid-Century Modern designs
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/dating-identify-antique-table-legs'
 ---
 
 In the world of antique furniture, table legs hold a wealth of historical information that can help you accurately date and identify pieces from different periods. From the elegant curves of Queen Anne cabriole legs to the straight lines of Mid-Century Modern designs, each style tells a story of craftsmanship, materials, and cultural influences of its time.

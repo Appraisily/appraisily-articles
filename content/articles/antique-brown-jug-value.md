@@ -38,7 +38,14 @@ structured_data:
     Discover what makes antique brown jugs valuable, from identifying marks to
     price ranges. Learn how to assess your stoneware jug's worth with our expert
     guide.
-  image: 'https://www.appraisily.com/images/antique-brown-jug-collection.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://www.appraisily.com/images/antique-brown-jug-collection.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage American stoneware brown jugs showing various maker's marks,
+      glazes, and sizes that affect their collector value
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,50 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-brown-jug-value'
+  keywords:
+    - antique brown jug value
+    - stoneware jug identification
+    - vintage whiskey jug prices
+    - salt glazed stoneware worth
+    - collectible brown jugs
+    - antique crock values
+    - stoneware pottery marks
+  articleSection: Pottery & Stoneware
+'@context': 'https://schema.org'
+'@type': BreadcrumbList
+mainEntity:
+  - '@type': Question
+    name: What Are Antique Brown Jugs?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Antique brown jugs are predominantly made of stoneware, a durable
+        ceramic material created by firing clay at extremely high temperatures
+        (usually between 2150°F and 2330°F). This firing process vitrifies the
+        clay, making it impermeable to liquids without requiring a glaze—though
+        most were glazed anyway for improved functionality and appearance. The
+        defining characteristics include dense, non-porous stoneware clay,
+        naturally brown color or brown salt glaze, typically wheel-thrown
+        construction with hand-applied handles, salt-glazed exterior creating a
+        distinctive 'orange peel' texture, and originally designed for practical
+        storage of liquids and food.
+itemListElement:
+  - '@type': ListItem
+    position: 1
+    name: Home
+    item: 'https://articles.appraisily.com/'
+  - '@type': ListItem
+    position: 2
+    name: Articles
+    item: 'https://articles.appraisily.com/articles/'
+  - '@type': ListItem
+    position: 3
+    name: Pottery & Stoneware
+    item: 'https://articles.appraisily.com/articles/category/pottery-stoneware'
+  - '@type': ListItem
+    position: 4
+    name: 'Antique Brown Jug Value Guide: What''s Your Stoneware Worth?'
+    item: 'https://articles.appraisily.com/articles/antique-brown-jug-value'
 ---
 
 ## Introduction to Antique Brown Jugs

@@ -40,8 +40,15 @@ structured_data:
     Learn to identify rare etched glass patterns with our comprehensive guide
     covering historical styles, valuation methods, and expert identification
     tips for collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-etched-glass-patterns-identification/rare-etched-glass-patterns-identification-image-1_pZfn-Z9xb.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-etched-glass-patterns-identification/rare-etched-glass-patterns-identification-image-1_pZfn-Z9xb.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare Victorian and Art Deco etched glass pieces displaying intricate
+      floral and geometric patterns
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,24 @@ structured_data:
   dateModified: '2024-04-25T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/rare-etched-glass-patterns-identification
+  keywords:
+    - rare etched glass patterns
+    - etched glass identification
+    - antique glass pattern recognition
+    - Fostoria etched glass
+    - Art Deco glass patterns
+    - Victorian etched glassware
+    - collectible etched crystal
+  about:
+    '@type': Thing
+    name: Etched Glass Identification
+    description: >-
+      Identification and valuation of rare and collectible etched glass patterns
+      from various historical periods and manufacturers
+  isPartOf:
+    '@type': CollectionPage
+    name: Glassware & Crystal Articles
+    url: 'https://articles.appraisily.com/categories/glassware-crystal'
 ---
 
 Etched glass represents one of the most elegant and sought-after forms of decorative glass collectibles. From the delicate floral patterns of the Victorian era to the bold geometric designs of the Art Deco period, these pieces capture both artistic excellence and historical significance. For collectors and enthusiasts, identifying rare etched glass patterns is essential for proper valuation and appreciation.

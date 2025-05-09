@@ -40,8 +40,15 @@ structured_data:
     Learn to identify different types of wood in antique furniture with our
     comprehensive guide. Discover key characteristics of mahogany, oak, walnut
     and more to determine value and authenticity.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-wood-in-antique-furniture/how-to-identify-wood-in-antique-furniture-image-1_FcpvcFcIHa.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-wood-in-antique-furniture/how-to-identify-wood-in-antique-furniture-image-1_FcpvcFcIHa.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Detailed close-up of antique furniture wood grain showing distinctive
+      patterns and natural coloration
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,58 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-07-12T14:30:00.000Z'
   dateModified: '2023-07-12T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://articles.appraisily.com/articles/how-to-identify-wood-in-antique-furniture
+  about:
+    '@type': Thing
+    name: Antique Furniture Wood Identification
+  keywords: >-
+    antique wood identification, identify mahogany furniture, antique oak
+    characteristics, walnut furniture identification, antique furniture wood
+    types, wood grain patterns in antiques, hardwood vs softwood antiques
+  articleSection: Antique Furniture
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why does wood identification matter in antique furniture?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Understanding the type of wood used in antique furniture helps
+            determine its authenticity, origin, age, and value. Different
+            periods and regions favored specific woods, making wood
+            identification a crucial skill for collectors and appraisers.
+            Identifying the wood in an antique piece is often the first step in
+            authentication, as different woods were popular during specific
+            periods and in certain regions. Moreover, understanding wood types
+            helps in valuation, as certain woods like Cuban mahogany or
+            Brazilian rosewood command premium prices due to their rarity and
+            desirable properties.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Wood in Antique Furniture
+    description: >-
+      A comprehensive guide to identifying different types of wood used in
+      antique furniture through visual inspection and physical examination
+      techniques.
+    tool:
+      - Magnifying glass
+      - Wood identification guide
+      - Good lighting
+    step:
+      - '@type': HowToStep
+        name: Visual Inspection
+        text: >-
+          The most immediate way to begin identifying wood is through careful
+          visual examination. Look for key characteristics in the wood grain,
+          color, and pattern.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-identify-wood-in-antique-furniture/how-to-identify-wood-in-antique-furniture-image-1_FcpvcFcIHa.png
 ---
 
 The ability to identify different wood types is an essential skill for antique furniture collectors, dealers, and enthusiasts. Understanding the material composition of a piece can reveal important information about its age, origin, authenticity, and value. Unlike modern furniture, which often uses engineered or composite woods, antique pieces typically feature solid hardwoods that were chosen for their specific qualities and aesthetic appeal. In this comprehensive guide, we'll explore the characteristics of various wood types commonly found in antique furniture and provide practical techniques for accurate identification.

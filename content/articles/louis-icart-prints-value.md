@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to Louis Icart print values, authentication methods, and
     market insights for collectors of these elegant Art Deco etchings from
     1920-1940.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/louis-icart-prints-value/louis-icart-prints-value-image-2_QQQ19ATGa.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/louis-icart-prints-value/louis-icart-prints-value-image-2_QQQ19ATGa.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Louis Icart Art Deco etching featuring elegant Parisian women in
+      1920s fashion
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,74 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-08-01T14:30:00.000Z'
   dateModified: '2023-08-01T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/louis-icart-prints-value'
+  about:
+    '@type': Thing
+    name: Louis Icart Prints
+    description: >-
+      Art Deco etchings by French artist Louis Icart (1888-1950) featuring
+      elegant Parisian women and romantic scenes
+  keywords: >-
+    Louis Icart prints value, Louis Icart authentication, Art Deco etchings,
+    vintage Icart prints
+  articleSection: Prints and Etchings
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors affect Louis Icart print values?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The market value of Louis Icart prints varies based on several key
+            factors including authenticity, signature, presence of a blind stamp
+            (dry seal), visible plate mark from the etching process, copyright
+            information and date, and printing information such as 'Gravé' or
+            'Imp' followed by the printer's name. Signed prints command
+            significantly higher prices than unsigned examples.
+      - '@type': Question
+        name: When were Louis Icart's most valuable works created?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Louis Icart's most celebrated and valuable works were created
+            between 1920 and 1940, during the height of the Art Deco period. His
+            peak period is considered to be 1927-1940, when he produced his most
+            sought-after pieces.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Authenticate Louis Icart Prints
+    description: >-
+      Step-by-step guide to verify the authenticity of Louis Icart prints
+      through signature analysis and identifying marks
+    step:
+      - '@type': HowToStep
+        name: Check for pencil signature
+        text: Look for an authentic pencil signature by the artist
+      - '@type': HowToStep
+        name: Identify the blind stamp
+        text: >-
+          Locate the blind stamp (dry seal) which should be present on authentic
+          works
+      - '@type': HowToStep
+        name: Examine the plate mark
+        text: Verify the visible plate mark from the etching process
+      - '@type': HowToStep
+        name: Verify copyright information
+        text: Check for copyright information and date
+      - '@type': HowToStep
+        name: Look for printing information
+        text: >-
+          Find the word 'Gravé' (engraved) or 'Imp' (printed) followed by the
+          printer's name
 ---
 
 {{< content-modules/section-header title="Introduction to Louis Icart Prints" level="2" >}}

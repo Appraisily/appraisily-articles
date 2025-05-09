@@ -39,8 +39,15 @@ structured_data:
     Discover the value of your antique Singer sewing machine. Learn how to
     identify valuable models, determine condition factors, and get expert
     pricing insights to maximize your vintage sewing machine's worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/singer-sewing-machine-antique-value/singer-sewing-machine-antique-value-image-1_y7C7spZqo.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/singer-sewing-machine-antique-value/singer-sewing-machine-antique-value-image-1_y7C7spZqo.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Singer sewing machine with decorative gold decals in original
+      wooden cabinet
   datePublished: '2023-07-18T14:30:00.000Z'
   dateModified: '2023-07-18T14:30:00.000Z'
   author:
@@ -52,10 +59,21 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/singer-sewing-machine-antique-value
+  keywords:
+    - antique Singer sewing machine value
+    - vintage Singer sewing machine worth
+    - Singer Featherweight value
+    - Singer treadle machine prices
+    - rare Singer models
+    - Singer serial number dating
+    - collectible sewing machines
+  articleSection: Collectibles
 ---
 
 ![Vintage Singer sewing machine with ornate decals in wooden cabinet](https://ik.imagekit.io/appraisily/SEO/singer-sewing-machine-antique-value/singer-sewing-machine-antique-value-image-1_y7C7spZqo.png)

@@ -43,8 +43,15 @@ structured_data:
     Discover the value of old US postage stamps with our comprehensive guide.
     Learn how to identify rare stamps, determine their worth, and explore the
     fascinating world of philately.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-us-postage-stamps-value/old-us-postage-stamps-value-image-1_7XTtdP-0I.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-us-postage-stamps-value/old-us-postage-stamps-value-image-1_7XTtdP-0I.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable vintage US postage stamps from 1847-1950 displayed in a
+      collector's album showing various denominations and historical designs
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,14 @@ structured_data:
   datePublished: '2023-07-31T14:30:00.000Z'
   dateModified: '2023-07-31T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-us-postage-stamps-value'
+  keywords:
+    - old US postage stamps value
+    - rare US stamps worth money
+    - valuable vintage stamps
+    - US stamp collecting guide
+    - philately investment
+    - antique postage stamps
+    - stamp appraisal tips
 ---
 
 ## Introduction to Old US Postage Stamps

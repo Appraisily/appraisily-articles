@@ -39,8 +39,15 @@ structured_data:
     Discover the value of your old silver spoons with our expert guide. Learn to
     identify makers, hallmarks, and patterns that determine antique silver spoon
     prices in today's market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-silver-spoons-value/old-silver-spoons-value-image-1_S3OzAtWd3.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-silver-spoons-value/old-silver-spoons-value-image-1_S3OzAtWd3.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Assortment of valuable antique silver spoons displaying various patterns,
+      hallmarks, and maker's marks from different periods
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,21 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-07-10T14:30:00.000Z'
   dateModified: '2024-07-10T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://appraisily.com/old-silver-spoons-value/'
+  keywords:
+    - old silver spoons value
+    - antique silver spoon identification
+    - sterling silver spoon hallmarks
+    - rare silver spoon patterns
+    - coin silver spoons worth
+    - vintage silver spoon makers
+    - collectible silver flatware prices
 ---
 
 {{< content-modules/section-header title="Introduction to Old Silver Spoons" level="2" >}}

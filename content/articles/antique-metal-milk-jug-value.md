@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-31T14:30:00.000Z'
   dateModified: '2023-07-31T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-metal-milk-jug-value/antique-metal-milk-jug-value-image-1_ePTcX-Jaz.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-metal-milk-jug-value/antique-metal-milk-jug-value-image-1_ePTcX-Jaz.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique metal milk jugs and cans of varying sizes and
+      conditions showing collectible dairy farm antiques
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,18 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-metal-milk-jug-value'
+  about:
+    - '@type': Thing
+      name: Antique Metal Milk Jugs
+      description: >-
+        Historical containers used for transporting and storing fresh milk from
+        farms to processing facilities or consumers
+    - '@type': Thing
+      name: Farm Antiques
+      description: Collectible items from agricultural history including dairy equipment
+  keywords: >-
+    antique metal milk jug value, vintage milk can prices, dairy collectibles
+    worth, old milk container identification, farm antique appraisal
 ---
 
 ![Collection of antique metal milk jugs and cans of varying sizes and conditions](https://ik.imagekit.io/appraisily/SEO/antique-metal-milk-jug-value/antique-metal-milk-jug-value-image-1_ePTcX-Jaz.png)

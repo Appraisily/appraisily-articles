@@ -39,8 +39,15 @@ structured_data:
     Discover what makes antique clocks valuable, from rare mechanisms to
     prestigious makers. Learn how to identify valuable timepieces and determine
     what your antique clock is worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-clocks/value-of-antique-clocks-image-1_56TRsdtwT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-clocks/value-of-antique-clocks-image-1_56TRsdtwT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate antique grandfather clock with intricate woodwork, brass face and
+      pendulum - valuable collectible timepiece
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,57 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-08-14T14:30:00.000Z'
   dateModified: '2023-08-14T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-antique-clocks'
+  about:
+    '@type': Thing
+    name: Antique Clocks
+    description: >-
+      Historical timepieces valued for their craftsmanship, mechanisms, and
+      artistic design
+  keywords: >-
+    antique clock value, valuable antique clocks, antique timepiece worth,
+    collectible clock appraisal, grandfather clock value, antique clock
+    identification, rare clock mechanisms
+  articleSection: Antiques
+  isAccessibleForFree: 'True'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body h2
+      - .article-body p
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors determine antique clock value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several critical elements impact the monetary worth of an antique
+            clock including age and provenance, maker and origin, condition,
+            rarity, and mechanism quality. Age often correlates with value,
+            especially for clocks from the 17th and 18th centuries. Established
+            provenance and connection to historical figures can substantially
+            increase value. Clocks by celebrated makers like Thomas Tompion
+            command higher prices, and geographic origin also influences value.
+      - '@type': Question
+        name: How does age affect antique clock value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Age often correlates with value in antique clocks, though this
+            relationship isn't strictly linear. Clocks from the late 17th and
+            18th centuries are typically more valuable than later pieces,
+            especially those made by renowned clockmakers of the period.
+            However, exceptional examples from the 19th century can command
+            impressive prices as well.
 ---
 
 ![Ornate antique grandfather clock with intricate woodwork and brass face](https://ik.imagekit.io/appraisily/SEO/value-of-antique-clocks/value-of-antique-clocks-image-1_56TRsdtwT.png)

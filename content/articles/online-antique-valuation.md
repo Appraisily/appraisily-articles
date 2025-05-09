@@ -43,8 +43,15 @@ structured_data:
     Discover how to get accurate online antique valuations from experts. Learn
     about the best platforms, costs, and how to prepare your items for virtual
     appraisal.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/online-antique-valuation/online-antique-valuation-image-1_rqlN77Hy3.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/online-antique-valuation/online-antique-valuation-image-1_rqlN77Hy3.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person using laptop for online antique valuation with expert examining
+      item virtually
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,29 @@ structured_data:
   datePublished: '2023-09-20T14:30:00.000Z'
   dateModified: '2023-09-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/online-antique-valuation'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is Online Antique Valuation?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Online antique valuation is a service that allows collectors,
+            inheritors, and sellers to submit photographs and descriptions of
+            their items to certified appraisers via the internet. These experts
+            then assess the items remotely and provide estimated values based on
+            current market conditions, historical sales data, and their
+            professional judgment.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: Step-by-Step Guide to Getting an Online Appraisal
+    step:
+      - '@type': HowToStep
+        name: Select a reputable valuation service
+        text: Choose from specialized appraisal web...
 ---
 
 ![Expert examining an antique item on a computer screen for online valuation](https://ik.imagekit.io/appraisily/SEO/online-antique-valuation/online-antique-valuation-image-1_rqlN77Hy3.png)

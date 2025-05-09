@@ -38,8 +38,6 @@ structured_data:
     Learn how to identify and value antique horse bits with our comprehensive
     guide covering types, materials, markings, and historical significance for
     collectors and enthusiasts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-horse-bit-identification/antique-horse-bit-identification-image-1_QyAgzr0PU.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,9 +47,24 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-07-11T14:30:00.000Z'
   dateModified: '2023-07-11T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-horse-bit-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-horse-bit-identification/antique-horse-bit-identification-image-1_QyAgzr0PU.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique horse bits showcasing historical designs,
+      materials, and craftsmanship from various periods
+  keywords: >-
+    antique horse bit identification, vintage equestrian collectibles, horse bit
+    valuation, historical horse tack, rare horse bits, equestrian artifacts,
+    antique bit maker marks
 ---
 
 Antique horse bits represent a fascinating intersection of functional equestrian equipment and collectible artifacts. These historical pieces not only tell stories of equestrian traditions across different cultures and time periods but can also be valuable collectors' items. Whether you've discovered an old bit in your barn, inherited one from a relative, or are actively building a collection, understanding how to identify and value these items is essential.

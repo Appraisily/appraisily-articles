@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique music boxes, learn identification tips, key
     makers, and factors that affect pricing. Expert advice on collecting and
     selling these treasured mechanical marvels.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-music-boxes-value/antique-music-boxes-value-image-1_e2VPll5YA.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-music-boxes-value/antique-music-boxes-value-image-1_e2VPll5YA.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare Swiss cylinder music box with ornate inlaid marquetry case from the
+      19th century
   datePublished: '2024-07-23T14:30:00.000Z'
   dateModified: '2024-07-23T14:30:00.000Z'
   author:
@@ -55,6 +62,32 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://appraisily.com/articles/antique-music-boxes-value/'
+  about:
+    '@type': Thing
+    name: Antique Music Boxes
+    description: >-
+      Mechanical musical instruments from the 18th to early 20th centuries known
+      for their craftsmanship and historical significance
+  keywords: >-
+    antique music boxes value, cylinder music box identification, Regina music
+    box worth, Swiss music box prices, vintage music box appraisal, collectible
+    music boxes, music box restoration value
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+      - .article-summary
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  mentions:
+    - '@type': Thing
+      name: Swiss music boxes
+    - '@type': Thing
+      name: Regina music boxes
+    - '@type': Organization
+      name: Regina Music Box Company
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Music Boxes" level="2" >}}

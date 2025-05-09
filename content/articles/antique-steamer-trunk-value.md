@@ -38,8 +38,15 @@ structured_data:
     Discover the true value of your antique steamer trunk with our comprehensive
     guide to identification, pricing factors, and expert appraisal techniques
     for collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-steamer-trunk-value/antique-steamer-trunk-value-image-1_xbrEp-ZwV.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-steamer-trunk-value/antique-steamer-trunk-value-image-1_xbrEp-ZwV.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique steamer trunk with original brass hardware and leather straps
+      from early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,20 @@ structured_data:
   datePublished: '2023-07-10T14:30:00.000Z'
   dateModified: '2023-07-10T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-steamer-trunk-value'
+  about:
+    '@type': Thing
+    name: Antique Steamer Trunks
+    description: >-
+      Historical travel containers from the late 19th and early 20th centuries,
+      now valued as collectible antiques
+  keywords: >-
+    antique steamer trunk value, vintage trunk identification, Louis Vuitton
+    steamer trunk prices, rare trunk appraisal, dome top trunk worth, flat top
+    steamer trunk, antique trunk hardware
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
 ---
 
 Antique steamer trunks carry both historical significance and potentially significant value in today's collectibles market. Once practical travel necessities for ocean voyages and train travel in the late 19th and early 20th centuries, these sturdy pieces now serve as decorative furniture, conversation pieces, and valuable antiques.

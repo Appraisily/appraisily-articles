@@ -43,8 +43,15 @@ structured_data:
     Learn how to get accurate antique appraisals, find reputable appraisers,
     understand valuation methods, and determine what your antiques are truly
     worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/appraisals-antiques/appraisals-antiques-image-1_MrOnFEUZA.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/appraisals-antiques/appraisals-antiques-image-1_MrOnFEUZA.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining a valuable vintage item with
+      magnifying glass for authentication
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,8 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-08-24T14:30:00.000Z'
   dateModified: '2023-08-24T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/appraisals-antiques'

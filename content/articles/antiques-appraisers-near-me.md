@@ -39,8 +39,15 @@ structured_data:
     Discover how to locate and choose qualified antique appraisers near you.
     Learn about certification requirements, typical fees, and what to expect
     during professional antique valuations.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antiques-appraisers-near-me/antiques-appraisers-near-me-image-1_qg2KSSuoF.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antiques-appraisers-near-me/antiques-appraisers-near-me-image-1_qg2KSSuoF.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining valuable collectibles with a
+      magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,15 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-07-26T14:30:00.000Z'
   dateModified: '2023-07-26T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antiques-appraisers-near-me'
+  keywords:
+    - antiques appraisers near me
+    - certified antique valuation
+    - local antique appraisal services
+    - professional antique valuation
+    - antique appraisal costs
+    - find antique appraisers
+    - antique authentication experts
 ---
 
 ## Introduction: Finding Professional Antique Appraisers in Your Area

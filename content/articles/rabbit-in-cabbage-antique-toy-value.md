@@ -47,14 +47,47 @@ structured_data:
   datePublished: '2023-07-24T14:30:00.000Z'
   dateModified: '2023-07-24T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/rabbit-in-cabbage-antique-toy-value/rabbit-in-cabbage-antique-toy-value-image-1_5S_q4OuQ6.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique Roullet & Decamps Rabbit in Cabbage automaton with fur rabbit
+      emerging from silk cabbage leaves
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/rabbit-in-cabbage-antique-toy-value'
+  keywords:
+    - rabbit in cabbage automaton value
+    - antique mechanical toys
+    - Roullet & Decamps automatons
+    - 19th century automaton toys
+    - collectible rabbit automaton
+    - vintage musical automatons
+    - rare automaton identification
+  articleSection: Antique Toys
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Is a Rabbit in Cabbage Automaton?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A Rabbit in Cabbage automaton is a sophisticated mechanical toy
+            featuring a white rabbit (typically fur-covered with glass eyes)
+            that emerges and retreats into an artificial cabbage made of silk or
+            other fabric leaves. When wound with a key and activated, the rabbit
+            performs an up-and-down movement while music plays from a built-in
+            music box mechanism. These automatons typically stand about 7-9
+            inches tall and were primarily manufactured in Paris, France by
+            renowned automaton makers such as Roullet & Decamps.
 ---
 
 The charming "Rabbit in Cabbage" automaton is one of the most delightful and sought-after mechanical toys from the late 19th and early 20th centuries. These whimsical creations feature a fur-covered rabbit that emerges from a silk cabbage when activated, often accompanied by a musical tune. For collectors of antique toys and automatons, these pieces represent the height of mechanical artistry and command significant prices at auction.

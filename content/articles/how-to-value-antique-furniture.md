@@ -39,8 +39,15 @@ structured_data:
     Learn how to value antique furniture with our comprehensive guide covering
     identification techniques, key factors affecting value, and expert appraisal
     methods.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-value-antique-furniture/how-to-value-antique-furniture-image-1_eAPtTcXbl.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-value-antique-furniture/how-to-value-antique-furniture-image-1_eAPtTcXbl.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Victorian parlor set with ornate carved details and rich velvet
+      upholstery
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,64 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-to-value-antique-furniture'
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Value Antique Furniture
+  description: >-
+    A step-by-step guide to determining the value of antique furniture using
+    professional techniques
+  step:
+    - '@type': HowToStep
+      name: Determine if the furniture is antique or vintage
+      text: >-
+        The term 'antique' traditionally refers to items that are at least 100
+        years old, while 'vintage' typically describes items between 40-99 years
+        old. Understanding this distinction is the first step in the valuation
+        process.
+    - '@type': HowToStep
+      name: Examine construction methods
+      text: >-
+        Look for hand-cut dovetail joints, irregular saw marks, and square or
+        rectangular wooden pegs which often indicate pieces made before 1860.
+    - '@type': HowToStep
+      name: Identify materials used
+      text: >-
+        Different wood types were popular in different periods. For example,
+        mahogany was commonly used in the 18th and early 19th centuries, while
+        oak became prevalent in later Victorian pieces.
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What is the difference between antique and vintage furniture?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The term 'antique' traditionally refers to items that are at least 100
+          years old, though some collectors and dealers may use less strict
+          definitions. 'Vintage' typically describes items between 40-99 years
+          old.
+    - '@type': Question
+      name: What are the key factors that affect antique furniture value?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The key factors affecting antique furniture value include condition
+          (which impacts 75% of the value), age (true antiques are generally at
+          least 100 years old), and authenticity (original pieces are often
+          worth up to 10 times more than later reproductions).
+    - '@type': Question
+      name: How can I determine the age of antique furniture?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          You can determine the age of furniture by examining construction
+          methods (hand-cut dovetail joints, irregular saw marks, and wooden
+          pegs indicate pieces made before 1860), materials used (different wood
+          types were popular in different periods), and other period-specific
+          characteristics.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Furniture Valuation" level="2" >}}

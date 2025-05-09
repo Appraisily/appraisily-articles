@@ -47,8 +47,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-22T14:30:00.000Z'
   dateModified: '2023-07-22T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/garths-auctioneers--appraisers/garth-s-auctioneers-appraisers-image-1_gJvT9UX3j.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/garths-auctioneers--appraisers/garth-s-auctioneers-appraisers-image-1_gJvT9UX3j.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Historic Garth's Auctioneers & Appraisers auction gallery featuring
+      antique collections and fine art displays
   publisher:
     '@type': Organization
     name: Appraisily
@@ -56,6 +63,31 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/garth-s-auctioneers-appraisers'
+  about:
+    '@type': Organization
+    name: Garth's Auctioneers & Appraisers
+    description: >-
+      Ohio's oldest auction house specializing in fine art, antiques, and
+      collectibles since 1954
+    foundingDate: '1954'
+    founder:
+      '@type': Person
+      name: Garth Oberlander
+    location:
+      '@type': Place
+      address:
+        '@type': PostalAddress
+        addressLocality: Delaware
+        addressRegion: Ohio
+        addressCountry: USA
+  keywords:
+    - Garth's Auctioneers & Appraisers
+    - Ohio auction house
+    - antique appraisal services
+    - fine art auctions
+    - Garth Oberlander
+    - collectibles valuation
+    - Midwest antique market
 ---
 
 ## Introduction to Garth's Auctioneers & Appraisers

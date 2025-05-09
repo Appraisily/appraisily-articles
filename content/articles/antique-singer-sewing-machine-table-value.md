@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to determining the value of antique Singer sewing
     machine tables, including price charts, identification methods, and
     collector insights for accurate appraisal.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-singer-sewing-machine-table-value/antique-singer-sewing-machine-table-value-image-1_pUkfTKZqHs.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-singer-sewing-machine-table-value/antique-singer-sewing-machine-table-value-image-1_pUkfTKZqHs.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Singer treadle sewing machine with ornate cast iron base and
+      wooden cabinet from the industrial era
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,8 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-singer-sewing-machine-table-value
 ---

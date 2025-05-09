@@ -38,8 +38,15 @@ structured_data:
     Learn everything about professional art appraisers - how they determine
     value, when to hire one, costs involved, and how to become a certified
     appraiser.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-appraiser/art-appraiser-image-1_Y9g7wRRZdZ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-appraiser/art-appraiser-image-1_Y9g7wRRZdZ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser meticulously examining a valuable painting with
+      specialized magnifying equipment
   datePublished: '2023-11-07T14:30:00.000Z'
   dateModified: '2023-11-07T14:30:00.000Z'
   author:
@@ -54,6 +61,14 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/art-appraiser'
+  about:
+    '@type': Thing
+    name: Art Appraisal
+    description: Professional evaluation and determination of monetary value for artwork
+  keywords: >-
+    art appraiser, fine art valuation, certified art appraiser, art appraisal
+    services, artwork authentication, art market value, professional art
+    evaluation
 ---
 
 {{< content-modules/section-header title="Understanding Art Appraisers" level="2" >}}

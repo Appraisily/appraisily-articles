@@ -39,8 +39,15 @@ structured_data:
     Discover the value of vintage oil cans with our comprehensive guide. Learn
     to identify rare models, determine condition, and find current market prices
     for antique oil cans.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-oil-can-value/old-oil-can-value-image-1_Z26CIwjTq.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-oil-can-value/old-oil-can-value-image-1_Z26CIwjTq.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage oil cans collection featuring rare automotive brands and
+      designs from different eras
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,21 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-oil-can-value'
+  about:
+    '@type': Thing
+    name: Vintage Oil Cans
+    description: >-
+      Collectible containers that once held motor oils, household lubricants,
+      and industrial products, now valued as petroliana collectibles
+  keywords: >-
+    old oil can value, vintage oil can prices, antique oil can identification,
+    petroliana collectibles, rare oil can brands, motor oil can collecting, oil
+    can worth guide
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
+  specialty: Automotive Collectibles
 ---
 
 ## Introduction to Vintage Oil Can Collecting

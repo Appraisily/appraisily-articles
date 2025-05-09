@@ -42,8 +42,15 @@ structured_data:
     Comprehensive guide to identifying and valuing vintage fishing rods by
     material, maker marks, and craftsmanship. Learn about collectible bamboo,
     fiberglass, and steel fishing tackle.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-vintage-fishing-rod-identification/old-vintage-fishing-rod-identification-image-1_jAAQdyHd1F.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-vintage-fishing-rod-identification/old-vintage-fishing-rod-identification-image-1_jAAQdyHd1F.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage bamboo and fiberglass fishing rods with classic reels displayed in
+      a collector's arrangement
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,49 @@ structured_data:
   datePublished: '2024-05-25T14:30:00.000Z'
   dateModified: '2024-05-25T14:30:00.000Z'
   mainEntityOfPage: 'https://appraisily.com/old-vintage-fishing-rod-identification/'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why are vintage fishing rods collectible?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique fishing rods have become highly sought-after collectibles
+            for their quality craftsmanship, historical significance, and the
+            nostalgia they evoke. Handcrafted vintage bamboo fishing rods, in
+            particular, provide a folk art appeal and attract collectors from
+            around the world.
+      - '@type': Question
+        name: How do you determine if a fishing rod is vintage or antique?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Fishing rods are generally considered antique if they are 100+ years
+            old (pre-1920s), vintage if they are 50-100 years old (1920s-1970s),
+            and classic if they are 30-50 years old (1970s-1990s). Materials
+            used in construction, manufacturing techniques, and maker marks also
+            help determine age.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Determine if a Fishing Rod is Vintage or Antique
+    step:
+      - '@type': HowToStep
+        name: Identify the age category
+        text: >-
+          Determine if your fishing rod falls into the antique category (100+
+          years old, pre-1920s), vintage category (50-100 years old,
+          1920s-1970s), or classic category (30-50 years old, 1970s-1990s).
+      - '@type': HowToStep
+        name: Examine the materials
+        text: >-
+          Look at the materials used in the fishing rod construction, as they
+          evolved significantly over time. Materials can include bamboo,
+          fiberglass, and steel.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/old-vintage-fishing-rod-identification/old-vintage-fishing-rod-identification-image-2_ueIbPgVsW.png
 ---
 
 ## Introduction to Vintage Fishing Rod Identification

@@ -46,8 +46,15 @@ structured_data:
     Discover the true value of vintage Pyrex bowls. Learn how to identify rare
     patterns, determine condition factors, and find out what collectors are
     willing to pay for your treasured kitchen pieces.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-pyrex-bowls/value-of-old-pyrex-bowls-image-1_uIhBb0uRC.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-pyrex-bowls/value-of-old-pyrex-bowls-image-1_uIhBb0uRC.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage Pyrex mixing bowls collection showcasing colorful
+      patterns from the 1950s-1970s era
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,23 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-10-12T14:30:00.000Z'
   dateModified: '2023-10-12T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Vintage Pyrex Bowls
+    description: >-
+      Collectible kitchenware from Corning Glass Works featuring colorful
+      patterns and heat-resistant glass, popular from the mid-20th century
+  keywords: >-
+    vintage Pyrex bowl values, rare Pyrex patterns, collectible Pyrex worth,
+    antique Pyrex price guide, Pyrex bowl identification, valuable kitchen
+    collectibles, mid-century Pyrex
+  mentions:
+    - '@type': Thing
+      name: Lucky in Love Pyrex pattern
+      description: Rare Pyrex pattern from 1959 featuring playing cards and clover motif
+    - '@type': Organization
+      name: Corning Glass Works
+      description: 'Original manufacturer of Pyrex kitchenware, introduced in 1915'
 ---
 
 ![Collection of colorful vintage Pyrex mixing bowls from the 1950s-1970s](https://ik.imagekit.io/appraisily/SEO/value-of-old-pyrex-bowls/value-of-old-pyrex-bowls-image-1_uIhBb0uRC.png)

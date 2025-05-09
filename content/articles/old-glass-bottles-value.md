@@ -39,8 +39,6 @@ structured_data:
     Discover the value of old glass bottles, from rare antiques worth thousands
     to common collectibles. Learn identification tips, price factors, and where
     to sell your vintage finds.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-glass-bottles-value/old-glass-bottles-value-image-1_yP1oKCy7zt.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,46 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-glass-bottles-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-glass-bottles-value/old-glass-bottles-value-image-1_yP1oKCy7zt.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique glass bottles collection showing various colors, shapes
+      and historical designs
+  keywords:
+    - old glass bottles value
+    - antique bottle identification
+    - rare glass bottles worth money
+    - vintage bottle collecting
+    - valuable medicine bottles
+    - antique bottle price guide
+    - how to sell collectible bottles
+  about:
+    '@type': Thing
+    name: Antique Glass Bottles
+    description: >-
+      Collectible old glass bottles from various historical periods with
+      information on valuation and identification
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes Old Glass Bottles Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several factors contribute to the value of antique glass bottles,
+            including age and historical significance, rarity and uniqueness,
+            and condition. Bottles produced before 1900 are considered antique
+            and generally command higher prices, especially pre-Civil War
+            bottles (pre-1865) and those from the Revolutionary War era.
+            Historical context, limited production quantities, experimental
+            designs, unusual colors, or production mistakes can all increase a
+            bottle's worth.
 ---
 
 ![Collection of antique glass bottles of various colors and shapes](https://ik.imagekit.io/appraisily/SEO/old-glass-bottles-value/old-glass-bottles-value-image-1_yP1oKCy7zt.png)

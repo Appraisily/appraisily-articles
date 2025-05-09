@@ -39,8 +39,15 @@ structured_data:
     Discover what your old RC Cola bottles are worth with our comprehensive
     value guide. Learn about rare RC Cola bottles, pricing factors, and where to
     sell your vintage soda collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-rc-cola-bottle-value/old-rc-cola-bottle-value-image-1_bKF5lI43d.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-rc-cola-bottle-value/old-rc-cola-bottle-value-image-1_bKF5lI43d.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage RC Cola bottle collection showing pyramid-style designs and
+      commemorative editions from different eras
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,14 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-rc-cola-bottle-value'
+  keywords:
+    - old RC Cola bottle value
+    - vintage Royal Crown Cola bottles
+    - RC Cola collectibles
+    - 1936 pyramid RC bottle
+    - antique soda bottle prices
+    - RC Cola bottle identification
+    - rare RC Cola bottles
 ---
 
 ![Collection of vintage RC Cola bottles showing different designs and eras](https://ik.imagekit.io/appraisily/SEO/old-rc-cola-bottle-value/old-rc-cola-bottle-value-image-1_bKF5lI43d.png)

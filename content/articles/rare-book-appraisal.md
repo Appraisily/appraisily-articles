@@ -43,8 +43,15 @@ structured_data:
     Learn professional methods for rare book appraisal, including how to assess
     first editions, condition factors, provenance, and where to find expert
     appraisers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-book-appraisal/rare-book-appraisal-image-1_tSY47H6BMT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-book-appraisal/rare-book-appraisal-image-1_tSY47H6BMT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional rare book appraiser examining an antique book with white
+      gloves and magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,68 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/rare-book-appraisal'
+  about:
+    '@type': Thing
+    name: Rare Book Appraisal
+    description: >-
+      The process of determining the monetary value and historical significance
+      of collectible books
+  keywords: >-
+    rare book appraisal, antique book valuation, first edition identification,
+    book condition grading, book provenance research, rare book authentication,
+    professional book appraisers
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why Get a Professional Rare Book Appraisal?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          There are several compelling reasons to seek a professional appraisal
+          for potentially valuable books: 1. Insurance purposes - Documenting
+          the value of rare books for proper coverage. 2. Estate planning -
+          Ensuring fair distribution of assets among heirs. 3. Tax
+          considerations - For charitable donations or estate tax purposes. 4.
+          Sale preparation - Establishing a realistic asking price. 5.
+          Authentication - Verifying the legitimacy of a rare find.
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Determine the Value of Rare Books
+  description: >-
+    A guide to evaluating rare and antiquarian books by examining key factors
+    that determine their worth
+  step:
+    - '@type': HowToStep
+      name: Identify First Editions
+      text: >-
+        Examine the book to determine if it's a true first edition, as first
+        editions generally hold greater value, especially first editions of
+        important works.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/rare-book-appraisal/rare-book-appraisal-image-2_3XUXur2aA.png
+    - '@type': HowToStep
+      name: Assess Condition
+      text: >-
+        Evaluate the physical condition of the book, including binding, pages,
+        and overall preservation.
+    - '@type': HowToStep
+      name: Research Provenance
+      text: >-
+        Investigate the book's ownership history, as provenance can
+        significantly impact value.
+    - '@type': HowToStep
+      name: Consider Rarity and Demand
+      text: >-
+        Determine how rare the book is and the current market demand for similar
+        items.
+    - '@type': HowToStep
+      name: Consult Professional Appraisers
+      text: >-
+        For accurate valuation, seek the expertise of qualified rare book
+        appraisers who can provide formal documentation.
 ---
 
 {{< content-modules/section-header title="Introduction to Rare Book Appraisal" level="2" >}}

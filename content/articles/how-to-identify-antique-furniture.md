@@ -39,8 +39,6 @@ structured_data:
     Learn expert techniques for identifying antique furniture through
     distinctive joinery, materials, patina, and hardware. Discover how to date
     and authenticate vintage pieces like a professional.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-furniture/how-to-identify-antique-furniture-image-1_YZpGN9DWF.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,88 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-to-identify-antique-furniture'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-furniture/how-to-identify-antique-furniture-image-1_YZpGN9DWF.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage wooden dresser with dovetail joints and aged patina showing
+      authentic antique craftsmanship
+  about:
+    '@type': Thing
+    name: Antique Furniture Identification
+  keywords: >-
+    antique furniture identification, how to date antique furniture, antique
+    joinery techniques, vintage furniture authentication, antique wood patina,
+    furniture period styles, antique hardware identification
+  HowTo:
+    '@type': HowTo
+    name: How to Identify Antique Furniture
+    description: >-
+      Learn expert techniques for identifying antique furniture through
+      distinctive joinery, materials, patina, and hardware.
+    step:
+      - '@type': HowToStep
+        name: Examine Joinery Methods
+        text: >-
+          Look for dovetail joints in drawers. Hand-cut dovetails (pre-1890s)
+          are slightly irregular and uneven, with each dovetail unique in size
+          and spacing. Early dovetails were often larger and more widely spaced.
+          Machine-cut dovetails (post-1890s) are perfectly uniform.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-furniture/how-to-identify-antique-furniture-image-2_1gDzm0uhT.png
+      - '@type': HowToStep
+        name: Check Mortise and Tenon Joints
+        text: >-
+          Look for mortise and tenon joints in the structural parts of the
+          furniture. In antiques, these joints were hand-cut and often secured
+          with wooden pegs. Examine chair legs, table supports, and frame
+          connections. Loose tenons might indicate an older piece that has
+          weakened over time.
+      - '@type': HowToStep
+        name: Inspect Tool Marks and Craftsmanship
+        text: >-
+          Examine the underside, back, and hidden areas of the furniture.
+          Irregular tool marks indicate hand tools rather than machinery. Look
+          for plane marks, chisel marks, or adze marks that suggest hand
+          crafting. Perfectly smooth surfaces likely indicate modern machine
+          planing.
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What are dovetail joints in antique furniture?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Dovetail joints are found in quality furniture, especially in
+            drawers. In antiques, hand-cut dovetails (pre-1890s) are slightly
+            irregular and uneven, with each dovetail unique in size and spacing.
+            Early dovetails were often larger and more widely spaced, while
+            machine-cut dovetails (post-1890s) are perfectly uniform.
+      - '@type': Question
+        name: How can mortise and tenon joints help identify antique furniture?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            In antique furniture, mortise and tenon joints were hand-cut and
+            often secured with wooden pegs. They can be found in the structural
+            parts of furniture such as chair legs, table supports, and frame
+            connections. Loose tenons might indicate an older piece that has
+            weakened over time.
+      - '@type': Question
+        name: What tool marks should I look for when identifying antique furniture?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            When identifying antique furniture, look for irregular tool marks
+            that indicate hand tools rather than machinery. Examine the
+            underside, back, and hidden areas for plane marks, chisel marks, or
+            adze marks that suggest hand crafting. Perfectly smooth surfaces
+            likely indicate modern machine planing, while slight asymmetry is
+            common in handcrafted pieces.
 ---
 
 ## Introduction to Antique Furniture Identification

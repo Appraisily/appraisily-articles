@@ -40,8 +40,15 @@ structured_data:
     Discover the true value of your old Singer sewing machine in a wood cabinet.
     Learn identification, dating methods, price factors, and selling tips in
     this expert guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-singer-sewing-machine-in-wood-cabinet/value-of-old-singer-sewing-machine-in-wood-cabinet-image-1_xyi17DpHH.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-singer-sewing-machine-in-wood-cabinet/value-of-old-singer-sewing-machine-in-wood-cabinet-image-1_xyi17DpHH.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Singer treadle sewing machine in ornate wooden cabinet with
+      decorative ironwork base
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,14 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/value-of-old-singer-sewing-machine-in-wood-cabinet
+  keywords:
+    - antique Singer sewing machine value
+    - vintage Singer cabinet worth
+    - Singer treadle cabinet identification
+    - old Singer machine dating methods
+    - wooden sewing machine cabinet appraisal
+    - selling antique Singer machines
+    - collectible sewing machine values
 ---
 
 ## Introduction to Antique Singer Sewing Machines in Wood Cabinets

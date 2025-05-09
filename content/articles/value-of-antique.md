@@ -39,8 +39,15 @@ structured_data:
     Learn how to accurately determine the value of your antiques with expert
     tips on researching, appraising, and identifying factors that influence
     antique prices in today's market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique/value-of-antique-image-1_H1sWs09jm6.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique/value-of-antique-image-1_H1sWs09jm6.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antiques with price guides and appraisal tools on
+      vintage wooden table
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,49 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-antique'
+  keywords:
+    - antique valuation methods
+    - determine antique worth
+    - antique price factors
+    - professional antique appraisal
+    - collectible market value
+    - antique authentication
+    - vintage item pricing
+  about:
+    '@type': Thing
+    name: Antique Valuation
+  mentions:
+    - '@type': Thing
+      name: Antiques
+    - '@type': Thing
+      name: Vintage Items
+    - '@type': Thing
+      name: Collectibles
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  articleSection: Appraisals
+  wordCount: '1500'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  potentialAction:
+    '@type': ReadAction
+    target:
+      '@type': EntryPoint
+      urlTemplate: 'https://articles.appraisily.com/articles/value-of-antique'
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  accessMode:
+    - textual
+    - visual
+  accessibilityFeature:
+    - alternativeText
+    - readingOrder
 ---
 
 {{< content-modules/section-header title="Understanding Antique Valuation" level="2" >}}

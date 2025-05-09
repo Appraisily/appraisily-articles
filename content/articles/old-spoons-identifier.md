@@ -38,8 +38,15 @@ structured_data:
     Learn how to identify and value antique spoons with our expert guide.
     Discover hallmarks, patterns, and what makes certain spoons valuable
     collector's items.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-spoons-identifier/old-spoons-identifier-image-1_V_Yp-1FoI.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-spoons-identifier/old-spoons-identifier-image-1_V_Yp-1FoI.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique silver spoons displaying various hallmarks,
+      patterns, and historical designs
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,14 @@ structured_data:
   datePublished: '2023-07-14T14:30:00.000Z'
   dateModified: '2023-07-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-spoons-identifier'
+  keywords:
+    - antique spoons identifier
+    - silver spoon hallmarks
+    - antique spoon valuation
+    - collectible silver spoons
+    - pewter spoon identification
+    - vintage spoon patterns
+    - antique silverware authentication
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Spoons" level="2" >}}

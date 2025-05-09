@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify vintage pocket knives by examining markings, patterns,
     materials, and unique features. Discover valuation factors and collectible
     brands in this comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-pocket-knives-identification/old-pocket-knives-identification-image-2_J96EF5yI3.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-pocket-knives-identification/old-pocket-knives-identification-image-2_J96EF5yI3.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage pocket knife collection displaying various manufacturers,
+      patterns, and handle materials for identification
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,14 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-pocket-knives-identification'
+  keywords:
+    - old pocket knives identification
+    - vintage pocket knife marks
+    - antique knife patterns
+    - collectible knife brands
+    - pocket knife valuation
+    - knife tang stamps
+    - knife handle materials
 ---
 
 ![Collection of vintage pocket knives showing different patterns and handle materials](https://ik.imagekit.io/appraisily/SEO/old-pocket-knives-identification/old-pocket-knives-identification-image-2_J96EF5yI3.png)

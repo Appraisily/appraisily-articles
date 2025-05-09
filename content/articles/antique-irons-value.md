@@ -39,8 +39,6 @@ structured_data:
     Discover the value of antique irons with our comprehensive guide to
     collectible sad irons, cast iron pressers, and rare vintage clothing irons -
     learn what makes them valuable and current market prices.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-irons-value/antique-irons-value-image-1_jnayl0fFA.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +48,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-08-08T14:30:00.000Z'
   dateModified: '2023-08-08T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-irons-value/antique-irons-value-image-1_jnayl0fFA.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of antique sad irons with wooden handles showing
+      various styles and manufacturers from the 19th century
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-irons-value'
+  keywords: >-
+    antique irons value, sad iron collectibles, vintage pressing tools worth,
+    cast iron clothes irons, antique iron price guide, collectible sad irons,
+    early electric iron values
 ---
 
 ## Introduction to Antique Irons: A Pressing History

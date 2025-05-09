@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify antique screws by examining their physical
     characteristics, construction methods, and historical context. This guide
     helps collectors date and authenticate vintage fasteners.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-screws/how-to-identify-antique-screws-image-1_wwff6daOX.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-screws/how-to-identify-antique-screws-image-1_wwff6daOX.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of historical antique screws showing different head types,
+      threading patterns, and manufacturing techniques for identification
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,93 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-to-identify-antique-screws'
+  about:
+    - '@type': Thing
+      name: Antique Screws
+    - '@type': Thing
+      name: Furniture Authentication
+    - '@type': Thing
+      name: Historical Hardware
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Antique Screws
+  description: >-
+    A step-by-step guide to identifying and dating antique screws based on their
+    physical characteristics and manufacturing methods
+  tool:
+    - '@type': HowToTool
+      name: Magnifying glass
+  step:
+    - '@type': HowToStep
+      name: Examine the Historical Timeline
+      text: >-
+        Study the evolution of screw manufacturing techniques from pre-1750s
+        hand-forged screws through the development of machine production after
+        1848.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-screws/how-to-identify-antique-screws-image-1_wwff6daOX.png
+      url: >-
+        https://articles.appraisily.com/articles/how-to-identify-antique-screws#historical-timeline
+    - '@type': HowToStep
+      name: Identify Key Characteristics
+      text: >-
+        Look for distinctive features such as head type, threading pattern, and
+        shaft construction to help determine the age and authenticity of the
+        screw.
+      url: >-
+        https://articles.appraisily.com/articles/how-to-identify-antique-screws#key-identification-characteristics
+    - '@type': HowToStep
+      name: Distinguish Hand-Made vs. Machine-Made
+      text: >-
+        Compare the irregularities of hand-made screws with the uniformity of
+        machine-produced ones to establish approximate manufacturing dates.
+      url: >-
+        https://articles.appraisily.com/articles/how-to-identify-antique-screws#hand-made-vs-machine-made-screws
+    - '@type': HowToStep
+      name: Analyze Materials and Finishes
+      text: >-
+        Identify the metals and finishing techniques used, which can provide
+        important clues about the time period and origin of the screws.
+      url: >-
+        https://articles.appraisily.com/articles/how-to-identify-antique-screws#materials-and-finishes
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: How can you tell if a screw is antique?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Antique screws can be identified by examining their manufacturing
+          characteristics: hand-forged screws (pre-1750s) have irregular
+          threading and imperfect heads; hand-filed screws (1750-1812) feature
+          tapered shafts with irregular threads; semi-machine produced screws
+          (1812-1848) have more uniform threading but hand-finished heads; and
+          fully machine-made screws (post-1848) display consistent threading and
+          standardized heads.
+    - '@type': Question
+      name: What materials were used in antique screws?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Early antique screws were typically made from iron, often hand-forged
+          by blacksmiths. By the 19th century, brass screws became more common,
+          especially in fine furniture and decorative applications. Steel screws
+          with various finishes and coatings emerged in the later 19th century
+          as manufacturing techniques advanced.
+    - '@type': Question
+      name: How can antique screws help date furniture?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Screws can be key indicators of a furniture piece's age. Furniture
+          made before 1750 rarely contains screws. Pieces from 1750-1812 might
+          have a few hand-made screws in crucial joints. Furniture from
+          1812-1848 shows transitional screws with more uniform threading but
+          often hand-finished heads. After 1848, machine-made screws became
+          standard, with their appearance evolving through subsequent decades.
 ---
 
 Antique screws may seem like humble objects, but they hold significant value for collectors, furniture restorers, and historians. These small fasteners can reveal important clues about the age and authenticity of antique furniture, architectural elements, and other historical artifacts. Learning to identify and date antique screws can help you authenticate pieces, estimate their age, and appreciate the craftsmanship of bygone eras.

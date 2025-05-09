@@ -43,8 +43,6 @@ structured_data:
     Discover whether Mearto's online appraisal services provide accurate
     valuations of your antiques and collectibles. Read genuine user reviews and
     learn about pricing, response times, and alternatives.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/mearto-appraisal-reviews/mearto-appraisal-reviews-image-1_aTx8fnEDa.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,9 +52,80 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-14T14:30:00.000Z'
   dateModified: '2023-07-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/mearto-appraisal-reviews'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/mearto-appraisal-reviews/mearto-appraisal-reviews-image-1_aTx8fnEDa.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Mearto online appraisal platform interface showing art and antique
+      valuation services
+  keywords: >-
+    Mearto appraisal reviews, online art valuation service, Mearto pricing,
+    antique appraisal online, Mearto vs alternatives, digital collectible
+    appraisal, art authentication service
+  about:
+    '@type': Thing
+    name: Online Art and Antique Appraisal Services
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - h1
+      - h2
+      - h3
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How Mearto's Online Appraisal Process Works
+  description: Step-by-step guide to getting an appraisal through Mearto's online service
+  step:
+    - '@type': HowToStep
+      name: Submit Your Item
+      text: >-
+        Upload clear photos of your item from multiple angles, along with any
+        available information about its history, provenance, or condition.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/mearto-appraisal-reviews/mearto-appraisal-reviews-image-2_hL6Dsy57O.png
+      url: >-
+        https://articles.appraisily.com/articles/mearto-appraisal-reviews#submit-your-item
+    - '@type': HowToStep
+      name: Choose a Service Level
+      text: >-
+        Select between the standard 48-hour appraisal or opt for the expedited
+        24-hour service at a premium.
+      url: >-
+        https://articles.appraisily.com/articles/mearto-appraisal-reviews#choose-service-level
+    - '@type': HowToStep
+      name: Expert Assignment
+      text: >-
+        Mearto assigns a qualified appraiser specializing in your item's
+        category to review your submission.
+      url: >-
+        https://articles.appraisily.com/articles/mearto-appraisal-reviews#expert-assignment
+    - '@type': HowToStep
+      name: Receive Your Appraisal
+      text: >-
+        Within the chosen timeframe, you'll receive a detailed report including
+        estimated fair market value, auction value estimate, historical context
+        and information, authentication assessment (when applicable), and
+        recommendations for selling or insurance.
+      url: >-
+        https://articles.appraisily.com/articles/mearto-appraisal-reviews#receive-appraisal
+    - '@type': HowToStep
+      name: Optional Follow-up
+      text: Some appraisals include follow-up consultation options.
+      url: >-
+        https://articles.appraisily.com/articles/mearto-appraisal-reviews#follow-up
 ---
 
 {{< content-modules/section-header title="Understanding Mearto's Online Appraisal Service" level="2" >}}

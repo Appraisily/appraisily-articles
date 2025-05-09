@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of antique cameras with our comprehensive guide
     covering valuation factors, price ranges, and where to sell your vintage
     photographic treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cameras-value/antique-cameras-value-image-1_a8hArVzvD.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cameras-value/antique-cameras-value-image-1_a8hArVzvD.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage camera collection featuring Leica, Rolleiflex, and other
+      collectible cameras displayed on an antique wooden table
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,33 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-cameras-value'
+  about:
+    '@type': Thing
+    name: Antique Cameras
+    description: >-
+      Historical photographic equipment valued by collectors for their
+      craftsmanship, technological innovation, and cultural significance
+  keywords: >-
+    antique cameras value, vintage camera worth, collectible camera prices,
+    Leica camera valuation, rare camera collection, selling antique cameras,
+    photography collectibles
+  articleSection: Photography Collectibles
+  mentions:
+    - '@type': Thing
+      name: Leica
+      sameAs: 'https://en.wikipedia.org/wiki/Leica_Camera'
+    - '@type': Thing
+      name: Hasselblad
+      sameAs: 'https://en.wikipedia.org/wiki/Hasselblad'
+    - '@type': Thing
+      name: Rolleiflex
+      sameAs: 'https://en.wikipedia.org/wiki/Rolleiflex'
+    - '@type': Thing
+      name: Nikon
+      sameAs: 'https://en.wikipedia.org/wiki/Nikon'
+    - '@type': Thing
+      name: Leica M3
+      description: 'Iconic rangefinder camera from the 1950s valued between $1,500-$3,000'
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Camera Valuation" level="2" >}}

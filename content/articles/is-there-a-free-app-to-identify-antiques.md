@@ -43,14 +43,64 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-16T14:30:00.000Z'
   dateModified: '2023-08-16T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/is-there-a-free-app-to-identify-antiques/is-there-a-free-app-to-identify-antiques-image-1_Gxya5omZBS.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/is-there-a-free-app-to-identify-antiques/is-there-a-free-app-to-identify-antiques-image-1_Gxya5omZBS.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Smartphone scanning antique item with identification app interface
+      displayed
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage: >-
+    https://articles.appraisily.com/articles/is-there-a-free-app-to-identify-antiques
+  keywords:
+    - free antique identification app
+    - identify antiques by photo
+    - mobile antique appraisal
+    - Google Lens for antiques
+    - smartphone antique identifier
+    - vintage item recognition app
+    - digital antique valuation
+  articleSection: Antiques
+  isAccessibleForFree: true
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Is there a free app to identify antiques?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Yes, there are several free and freemium apps available for antique
+            identification. Google Lens is perhaps the most accessible and
+            versatile free tool that can identify objects, read text, and find
+            visually similar items online using just your smartphone camera and
+            an internet connection.
+  HowTo:
+    '@type': HowTo
+    name: How to use Google Lens for antique identification
+    step:
+      - '@type': HowToStep
+        name: Open the Google app
+        text: Open the Google app on your smartphone
+      - '@type': HowToStep
+        name: Access the camera function
+        text: Tap the camera icon in the search bar
+      - '@type': HowToStep
+        name: Capture the antique
+        text: Take a photo of your antique or upload an existing image
+      - '@type': HowToStep
+        name: Review results
+        text: >-
+          Review the search results, which often include similar items for sale
+          online
 ---
 
 {{< content-modules/section-header title="The Digital Revolution in Antique Identification" level="2" >}}

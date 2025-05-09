@@ -43,8 +43,15 @@ structured_data:
     Comprehensive guide to determining the value of antique wash basin and
     pitcher sets, including identification marks, materials, condition factors,
     and current market prices for these historic bathroom collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-wash-basin-and-pitcher-value/antique-wash-basin-and-pitcher-value-image-1_drtgDyX1S.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-wash-basin-and-pitcher-value/antique-wash-basin-and-pitcher-value-image-1_drtgDyX1S.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian-era floral porcelain wash basin and pitcher set with ornate gold
+      trim displayed on a vintage washstand
   author:
     '@type': Organization
     name: Appraisily Team
@@ -60,6 +67,14 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-wash-basin-and-pitcher-value
+  keywords:
+    - antique wash basin and pitcher value
+    - victorian washbowl set prices
+    - collectible ewer basin sets
+    - ironstone wash basin worth
+    - porcelain pitcher set identification
+    - antique bathroom collectibles
+    - vintage washstand accessories
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Wash Basin and Pitcher Sets" level="2" >}}

@@ -39,8 +39,15 @@ structured_data:
     Explore the concept of value in art - from its definition as the lightness
     or darkness of colors to its critical role in creating dimension, contrast,
     and meaning in artwork.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/what-is-value-in-art/what-is-value-in-art-image-1_9gHLoTutO.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/what-is-value-in-art/what-is-value-in-art-image-1_9gHLoTutO.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Grayscale value scale demonstrating the progression from white to black in
+      artistic value
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,16 @@ structured_data:
   datePublished: '2023-10-09T14:30:00.000Z'
   dateModified: '2023-10-09T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/what-is-value-in-art'
+  about:
+    '@type': Thing
+    name: Value in Art
+    description: >-
+      A fundamental element of art referring to the lightness or darkness of
+      colors and tones that creates depth, dimension, and visual interest in
+      artwork.
+  keywords: >-
+    value in art, light and shadow in art, tonal values, art elements, value
+    scale, chiaroscuro, visual depth in art
 ---
 
 {{< content-modules/section-header title="What is Value in Art?" level="2" >}}

@@ -43,8 +43,15 @@ structured_data:
     Discover the value of your old vinyl records with our comprehensive guide.
     Learn what makes records valuable, how to identify rare pressings, and where
     to sell them for the best price.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-vinyl-record-values/old-vinyl-record-values-image-1_U17EzcfHJ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-vinyl-record-values/old-vinyl-record-values-image-1_U17EzcfHJ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage vinyl record collection featuring rare and valuable albums from
+      various eras
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,14 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-vinyl-record-values'
+  keywords:
+    - old vinyl record values
+    - rare vinyl records worth
+    - vinyl collection appraisal
+    - vintage record pricing
+    - valuable vinyl pressings
+    - record collecting investment
+    - vinyl grading guide
 ---
 
 ![Collection of valuable vintage vinyl records on display](https://ik.imagekit.io/appraisily/SEO/old-vinyl-record-values/old-vinyl-record-values-image-1_U17EzcfHJ.png)

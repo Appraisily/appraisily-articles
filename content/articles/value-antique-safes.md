@@ -37,8 +37,15 @@ structured_data:
   description: >-
     Discover the value of antique safes with our comprehensive guide covering
     identification, makers, condition assessments, and current market prices.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-antique-safes/value-antique-safes-image-1_jD6uL4PKw.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-antique-safes/value-antique-safes-image-1_jD6uL4PKw.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate 19th century Mosler antique safe with decorative metalwork and
+      original paint
   author:
     '@type': Organization
     name: Appraisily Team
@@ -48,11 +55,23 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-09-05T14:30:00.000Z'
   dateModified: '2023-09-05T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-antique-safes'
+  about:
+    '@type': Thing
+    name: Antique Safes
+    description: >-
+      Historical security devices from the 19th to early 20th centuries that
+      combine functionality with decorative artistry
+  keywords: >-
+    antique safe values, vintage safe identification, Mosler safe worth, Diebold
+    antique safes, collectible security boxes, antique floor safe prices,
+    Victorian era safes
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Safes" level="2" >}}

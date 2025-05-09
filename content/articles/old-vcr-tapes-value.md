@@ -44,17 +44,35 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-24T14:30:00.000Z'
   dateModified: '2023-11-24T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-vcr-tapes-value/old-vcr-tapes-value-image-1_teASk2xAb.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-vcr-tapes-value/old-vcr-tapes-value-image-1_teASk2xAb.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage VHS tapes including rare horror movies and
+      Disney classics
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-vcr-tapes-value'
+  keywords:
+    - old VCR tapes value
+    - valuable VHS tapes
+    - rare VHS collectibles
+    - Disney VHS worth
+    - horror VHS value
+    - selling vintage VHS
+    - VHS collector's market
+  articleSection: Collectibles
 ---
 
 ![Collection of valuable vintage VHS tapes including rare horror movies and Disney classics](https://ik.imagekit.io/appraisily/SEO/old-vcr-tapes-value/old-vcr-tapes-value-image-1_teASk2xAb.png)

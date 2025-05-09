@@ -44,14 +44,30 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-14T14:30:00.000Z'
   dateModified: '2023-08-14T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-dolls-value/antique-dolls-value-image-1_Z2ZL6-A81.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-dolls-value/antique-dolls-value-image-1_Z2ZL6-A81.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique dolls collection featuring Victorian porcelain, bisque,
+      and composition dolls from different eras
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-dolls-value'
+  keywords:
+    - antique dolls value
+    - vintage doll identification
+    - collectible doll prices
+    - porcelain doll valuation
+    - antique doll marks
+    - rare doll collections
+    - doll appraisal guide
 ---
 
 Antique dolls can be treasured family heirlooms, valuable collectibles, or both. Whether you've inherited a collection, discovered vintage dolls at an estate sale, or have been collecting for years, understanding their value is crucial for insurance, selling, or simply appreciating their historical significance.

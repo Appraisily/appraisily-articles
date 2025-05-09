@@ -43,8 +43,22 @@ structured_data:
     authentic pieces, and what factors influence their worth in today's
     collectibles market.
   image:
-    - >-
-      https://ik.imagekit.io/appraisily/SEO/value-of-antique-picture-frames/value-of-antique-picture-frames-image-1_og4wekvds.png
+    - '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/value-of-antique-picture-frames/value-of-antique-picture-frames-image-1_og4wekvds.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Ornate antique gold gilt picture frames showcasing intricate
+        craftsmanship and historical artistry
+    - '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/value-of-antique-picture-frames/value-of-antique-picture-frames-image-2_i_4YrKWRR.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Detailed view of an ornate gold gilt picture frame showing intricate
+        hand-carved details
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +73,40 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-antique-picture-frames'
+  keywords:
+    - antique picture frame values
+    - vintage frame identification
+    - gold gilt frame worth
+    - collectible picture frames
+    - antique frame appraisal
+    - valuable picture frames
+    - rare antique frames
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Determines the Value of Antique Picture Frames?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors influence the market value of antique picture
+            frames, including age and historical significance, materials and
+            craftsmanship, and artistic style and design. Frames created before
+            1920 are considered antique, with those from the 18th and 19th
+            centuries often commanding the highest prices. The materials used
+            (such as hardwoods, gold leaf, composition materials, or metals) and
+            quality of craftsmanship significantly impact value. Different
+            historical periods featured distinctive frame styles which
+            collectors value differently.
+      - '@type': Question
+        name: How old does a picture frame need to be to be considered antique?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Generally, frames created before 1920 are considered antique, with
+            those from the 18th and 19th centuries often commanding the highest
+            prices.
 ---
 
 ## Introduction to Antique Picture Frame Values

@@ -38,7 +38,14 @@ structured_data:
     Expert guide to antique stoneware crock values, covering identification
     methods, maker's marks, decorative styles, and current market prices from
     $100 to $400,000 for rare examples.
-  image: 'https://i.pinimg.com/736x/3c/de/4f/3cde4f81cce97b26468472c381b574c8.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://i.pinimg.com/736x/3c/de/4f/3cde4f81cce97b26468472c381b574c8.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare blue-decorated antique stoneware crock with cobalt designs and period
+      maker's marks
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,27 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-stoneware-crocks-value'
+  about:
+    '@type': Thing
+    name: Antique Stoneware Crocks
+    description: >-
+      Ceramic vessels made from clay fired at high temperatures to create hard,
+      durable, non-porous containers used for food storage in 18th, 19th, and
+      early 20th century America.
+  keywords: >-
+    antique stoneware crocks value, rare stoneware crock identification, blue
+    decorated stoneware values, antique crock maker marks, 19th century
+    stoneware prices, salt glazed crock values, collectible American stoneware
+  articleSection: Antiques
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body h2
+      - .article-body p
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-body
 ---
 
 # Antique Stoneware Crocks Value: A Comprehensive Price Guide

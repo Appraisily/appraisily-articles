@@ -48,8 +48,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-05T14:30:00.000Z'
   dateModified: '2023-06-05T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/medicine-bottles/antique-medicine-bottle-collection.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/medicine-bottles/antique-medicine-bottle-collection.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of embossed glass medicine and pharmacy bottles from
+      the 19th and early 20th centuries
   publisher:
     '@type': Organization
     name: Appraisily
@@ -58,6 +65,14 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/identification-old-glass-medicine-bottles
+  keywords:
+    - antique medicine bottles
+    - vintage pharmacy bottles
+    - glass bottle identification
+    - pontil mark dating
+    - medicine bottle values
+    - pharmaceutical collectibles
+    - embossed glass bottles
 ---
 
 Antique medicine bottles are fascinating historical artifacts that offer a glimpse into the pharmaceutical practices of bygone eras. From ornate embossed pharmacy bottles to simple utilitarian containers, these vessels tell stories of medical treatments, proprietary remedies, and evolving manufacturing techniques. For collectors and history enthusiasts alike, being able to properly identify, date, and value old medicine bottles is both a rewarding hobby and potentially lucrative pursuit.

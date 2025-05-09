@@ -39,8 +39,15 @@ structured_data:
     Discover what makes old Sprite bottles valuable, including rare editions,
     identification tips, and current market prices for this iconic soda
     collectible.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-sprite-bottles-value/old-sprite-bottles-value-image-1_dKwZw62C2.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-sprite-bottles-value/old-sprite-bottles-value-image-1_dKwZw62C2.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage Sprite bottles from different eras showing design
+      evolution
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,23 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/images/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-06-27T14:30:00.000Z'
   dateModified: '2024-06-27T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://www.appraisily.com/old-sprite-bottles-value/'
+  about:
+    '@type': Thing
+    name: Vintage Sprite Bottles
+    description: >-
+      Collectible Sprite bottles from various eras, particularly the green glass
+      bottles from the 1960s through 1990s
+  keywords: >-
+    old Sprite bottles value, vintage Sprite bottle prices, collectible Sprite
+    bottles, rare Sprite bottle identification, green glass Sprite bottles,
+    1960s Sprite bottles, Sprite bottle collecting guide
 ---
 
 ![Collection of vintage Sprite bottles from different eras showing design evolution](https://ik.imagekit.io/appraisily/SEO/old-sprite-bottles-value/old-sprite-bottles-value-image-1_dKwZw62C2.png)

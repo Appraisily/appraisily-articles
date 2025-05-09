@@ -41,8 +41,15 @@ structured_data:
   description: >-
     Learn to identify and value vintage Ford tools with our comprehensive guide
     covering Model T, Model A, and other classic Ford tool kit items.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-ford-tools-identification/old-ford-tools-identification-image-1_RqR14Fyi6.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-ford-tools-identification/old-ford-tools-identification-image-1_RqR14Fyi6.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic vintage Ford wrenches and tool kit items from Model T and Model
+      A eras showing distinctive markings
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,9 +59,36 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-07-10T14:30:00.000Z'
   dateModified: '2023-07-10T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-ford-tools-identification'
+  keywords:
+    - vintage Ford tools identification
+    - Model T Ford tools
+    - Model A Ford tools
+    - Ford script wrench value
+    - antique Ford tool kits
+    - FOMOCO tool markings
+    - Ford wrench collectors guide
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Makes Ford Tools Distinct?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Vintage Ford tools possess several distinguishing features that help
+          separate them from other antique tools: 1) Ford Script Marking: Many
+          early Ford tools display the distinctive Ford script logo stamped into
+          the metal, 2) Part Numbers: Authentic Ford tools typically feature
+          alphanumeric part numbers (e.g., 'A-17016'), 3) Manufacturer Codes:
+          Letters on the reverse side often indicate the tool's manufacturer
+          (e.g., 'M' for Moore Drop Forging), 4) Special Designs: Some tools
+          have distinctive shapes specific to Ford vehicle maintenance needs.
 ---
 
 ![Collection of vintage Ford wrenches and tools from Model T and Model A eras](https://ik.imagekit.io/appraisily/SEO/old-ford-tools-identification/old-ford-tools-identification-image-1_RqR14Fyi6.png)

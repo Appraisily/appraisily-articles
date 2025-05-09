@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-12T14:30:00.000Z'
   dateModified: '2023-11-12T14:30:00.000Z'
-  image: >-
-    https://cf.ltkcdn.net/antiques/images/orig/304961-2121x1414-antique-hand-tools-table.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://cf.ltkcdn.net/antiques/images/orig/304961-2121x1414-antique-hand-tools-table.jpg
+    width: '2121'
+    height: '1414'
+    caption: >-
+      Vintage woodworking and mechanical hand tools collection displayed on
+      rustic wooden workbench
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,50 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-tools-value'
+  keywords:
+    - antique tools value
+    - vintage tool identification
+    - antique woodworking tools worth
+    - rare tool collecting
+    - antique tool price guide
+    - old hand tools value
+    - collectible mechanical tools
+  about:
+    '@type': Thing
+    name: Antique Tools
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes a Tool 'Antique'?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The term "antique" typically refers to objects that are at least 100
+            years old. However, in the tool collecting world, the definition can
+            be more flexible. Many collectors and experts consider tools from
+            the pre-WWII era (pre-1945) to be antique, while those from the
+            post-war era through the early 1970s are generally classified as
+            "vintage". According to the antique tool definition from Wikipedia:
+            "Although an antique tool might be said to be one that is more than
+            a hundred years old, the term is often used to describe any old tool
+            of quality that might be deemed collectable."
+      - '@type': Question
+        name: What are the key value factors for antique tools?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique tool is influenced by several important
+            factors: 1. Rarity: Tools manufactured in limited quantities or from
+            specific makers command higher prices. 2. Condition: Original parts,
+            finishes, and minimal wear significantly impact value. 3.
+            Provenance: Documented history of ownership, especially from notable
+            craftsmen or collections. 4. Maker/Brand: Tools from renowned
+            manufacturers like Stanley, Disston, or Norris are particularly
+            sought after. 5. Historical Significance: Tools that represent
+            innovation or important technological developments. 6. Completeness:
+            Having all original components, cases, and accessories.
 ---
 
 ## Introduction to Antique Tool Valuation

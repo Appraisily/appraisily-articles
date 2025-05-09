@@ -39,8 +39,6 @@ structured_data:
     Learn how to identify and value antique bottles with our comprehensive guide
     covering bottle shapes, marks, colors, production methods, and dating
     techniques for collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-bottle-identification/antique-bottle-identification-image-1_IOnaEUvUM.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,30 @@ structured_data:
   datePublished: '2023-06-19T14:30:00.000Z'
   dateModified: '2023-06-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-bottle-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-bottle-identification/antique-bottle-identification-image-1_IOnaEUvUM.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of 19th and early 20th century antique glass bottles
+      displaying various colors, embossing patterns and manufacturing marks
+  about:
+    - '@type': Thing
+      name: Antique bottle collecting
+      description: The hobby of collecting and studying historic glass bottles
+    - '@type': Thing
+      name: Glass manufacturing techniques
+      description: Historical methods used to produce glass bottles
+  keywords:
+    - antique bottle identification
+    - pontil mark bottles
+    - embossed glass bottles
+    - antique bottle dating techniques
+    - vintage bottle values
+    - bottle maker's marks
+    - historic bottle collecting
 ---
 
 Antique bottles are among the most fascinating collectibles, offering a tangible connection to our past through everyday objects that survived decades or even centuries. Whether you've discovered an old bottle while digging in your backyard, inherited a collection, or are just beginning your journey into bottle collecting, proper identification is crucial to understanding its history and value.

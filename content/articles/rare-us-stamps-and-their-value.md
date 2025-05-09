@@ -43,8 +43,6 @@ structured_data:
     Discover the most valuable rare US stamps and their current market values.
     Learn what makes a stamp rare, how to identify valuable American postage,
     and which historic stamps command the highest prices.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-us-stamps-and-their-value/rare-us-stamps-and-their-value-image-1_F_sOAYGKy.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +57,69 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/rare-us-stamps-and-their-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-us-stamps-and-their-value/rare-us-stamps-and-their-value-image-1_F_sOAYGKy.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of rare and valuable US postage stamps including the Inverted
+      Jenny
+  keywords:
+    - rare US stamps
+    - valuable American stamps
+    - Inverted Jenny
+    - philately
+    - stamp collecting
+    - Benjamin Franklin Z-grill
+    - US postal history
+  about:
+    '@type': Thing
+    name: Stamp Collecting
+    description: >-
+      Information about rare and valuable US postage stamps, their history, and
+      factors that determine their value.
+  mentions:
+    - '@type': Thing
+      name: Inverted Jenny
+      sameAs: 'https://www.nytimes.com/2023/11/14/us/inverted-jenny-stamp.html'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes a US Stamp Rare and Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors determine whether a US stamp is considered rare
+            and valuable: age and historical significance (particularly stamps
+            from the 19th and early 20th centuries), printing errors and
+            variations (like the Inverted Jenny), and scarcity and survival
+            rate. The earliest US postage stamps, issued beginning in 1847, are
+            particularly sought after by collectors focusing on postal history.
+      - '@type': Question
+        name: How do age and historical significance affect stamp value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            While age alone doesn't guarantee value, many of the most valuable
+            US stamps come from the 19th and early 20th centuries. Stamps that
+            mark significant historical events or periods in American history
+            often command premium prices. The earliest US postage stamps, issued
+            beginning in 1847, are particularly sought after by collectors
+            focusing on postal history.
+      - '@type': Question
+        name: What role do printing errors play in stamp valuation?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Some of the most famous and valuable US stamps achieved their status
+            due to printing errors or variations. The iconic Inverted Jenny,
+            with its upside-down airplane, is perhaps the most famous example,
+            selling for millions at auction. Other valuable error stamps include
+            color misprints, missing perforations, and inverted centers.
 ---
 
 ![Collection of rare and valuable US postage stamps including the Inverted Jenny](https://ik.imagekit.io/appraisily/SEO/rare-us-stamps-and-their-value/rare-us-stamps-and-their-value-image-1_F_sOAYGKy.png)

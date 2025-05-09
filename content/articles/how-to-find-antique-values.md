@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-06-20T14:30:00.000Z'
   dateModified: '2024-06-20T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-find-antique-values/how-to-find-antique-values-image-1-error_ig9PcYx7zS.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-find-antique-values/how-to-find-antique-values-image-1-error_ig9PcYx7zS.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining antique collectibles with magnifying
+      glass for valuation
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,58 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-to-find-antique-values'
+  about:
+    '@type': Thing
+    name: Antique Appraisal
+  keywords: >-
+    how to find antique values, antique appraisal methods, determine antique
+    worth, antique valuation guide, professional antique appraisals, antique
+    price research, value family heirlooms
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  inLanguage: en-US
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Find Antique Values
+  description: >-
+    A comprehensive guide to determining the value of antiques using various
+    methods
+  image: >-
+    https://ik.imagekit.io/appraisily/SEO/how-to-find-antique-values/how-to-find-antique-values-image-1-error_ig9PcYx7zS.png
+  step:
+    - '@type': HowToStep
+      name: Research Online Auction Sites
+      text: >-
+        Examine recent sales of similar items on websites like eBay by filtering
+        for 'sold items' to see what collectors are actually paying. Filter for
+        completed listings, look for items in similar condition, check multiple
+        sales to establish a price range, and note the venue where items sold.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/how-to-find-antique-values/how-to-find-antique-values-image-3_zlT7N3OkJ.png
+    - '@type': HowToStep
+      name: Consult Price Guides and Reference Books
+      text: >-
+        Use specialized price guides like Kovels' Antiques & Collectibles Price
+        Guide, Miller's Antiques Handbook & Price Guide, and Antique Trader
+        Antiques & Collectibles Price Guide for reliable valuation information.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/how-to-find-antique-values/how-to-find-antique-values-image-2_06a5jNMpK.png
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why do accurate antique valuations matter?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Whether you're planning to sell, insure, or simply satisfy your
+          curiosity, knowing the accurate value of your antiques is essential.
+          Overvaluing can lead to disappointment, while undervaluing might mean
+          missing out on significant financial opportunity.
 ---
 
 ## Introduction to Finding Antique Values

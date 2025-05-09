@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-07T14:30:00.000Z'
   dateModified: '2023-09-07T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-do-i-get-an-antique-appraised/how-do-i-get-an-antique-appraised-image-3_pIEDE765E.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-do-i-get-an-antique-appraised/how-do-i-get-an-antique-appraised-image-3_pIEDE765E.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining an antique item with magnifying glass and
+      specialized tools
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,13 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-do-i-get-an-antique-appraised'
+  about:
+    '@type': Thing
+    name: Antique Appraisal
+  keywords: >-
+    antique appraisal process, professional antique valuation, how to get
+    antiques appraised, online antique appraisal services, local antique
+    appraisers, antique authentication, appraisal costs for antiques
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Appraisals" level="2" >}}

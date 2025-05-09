@@ -40,8 +40,15 @@ structured_data:
     Discover the value of antique fire extinguisher grenades. From Red Comet to
     rare glass models, learn what makes these vintage fire safety devices worth
     $25 to $2,000+
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-fire-extinguisher-grenade-value/antique-fire-extinguisher-grenade-value-image-1_JDSdEWron.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-fire-extinguisher-grenade-value/antique-fire-extinguisher-grenade-value-image-1_JDSdEWron.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of glass fire extinguisher grenades showing various
+      colors, shapes, and manufacturers from the 1870s-1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,30 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-fire-extinguisher-grenade-value
+  about:
+    '@type': Thing
+    name: Antique Fire Extinguisher Grenades
+    description: >-
+      Early fire suppression devices used from the 1870s through early 1900s,
+      now valuable collectibles
+  keywords: >-
+    antique fire extinguisher grenade value, vintage glass fire grenades, Red
+    Comet fire grenade worth, collectible fire extinguisher bottles, antique
+    fire suppression devices, fire grenade price guide, rare fire grenade values
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Are Fire Extinguisher Grenades?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Fire extinguisher grenades were an early form of fire suppression
+            device used primarily from the 1870s through the early 1900s. These
+            glass containers were filled with fire-suppressing chemicals and
+            designed to be thrown into a fire, where they would break and
+            release their contents to extinguish flames.
 ---
 
 ## Introduction to Antique Fire Extinguisher Grenades

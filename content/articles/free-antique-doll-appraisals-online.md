@@ -39,8 +39,15 @@ structured_data:
     Discover the best free antique doll appraisal services online. Learn how to
     get expert valuations, identify valuable dolls, and find trustworthy
     resources for your vintage treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-doll-appraisals-online/free-antique-doll-appraisals-online-image-1_S6JLVxJ9j.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-doll-appraisals-online/free-antique-doll-appraisals-online-image-1_S6JLVxJ9j.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage porcelain and bisque antique dolls arranged for professional
+      online appraisal assessment
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,93 @@ structured_data:
   datePublished: '2023-07-09T14:30:00.000Z'
   dateModified: '2023-07-09T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/free-antique-doll-appraisals-online'
+  keywords:
+    - free antique doll appraisals online
+    - vintage doll valuation services
+    - antique doll identification guide
+    - online collectible doll appraisal
+    - porcelain doll value assessment
+    - free doll authentication
+    - heirloom doll worth
+  articleSection: Collectibles
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-title
+      - .article-content
+  about:
+    '@type': Thing
+    name: Antique Doll Appraisals
+    description: Professional valuation services for vintage and antique collectible dolls
+  mentions:
+    - '@type': Organization
+      name: Heritage Auctions
+      url: 'https://www.ha.com/free-appraisals.s'
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com/'
+  inLanguage: en-US
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Get a Free Appraisal from Heritage Auctions
+  description: >-
+    Process for submitting antique dolls for free online appraisal through
+    Heritage Auctions
+  step:
+    - '@type': HowToStep
+      name: Upload photographs
+      text: Upload clear photographs of your doll from multiple angles
+      position: 1
+    - '@type': HowToStep
+      name: Provide details
+      text: >-
+        Provide detailed descriptions of the condition, markings, and any
+        provenance
+      position: 2
+    - '@type': HowToStep
+      name: Submit information
+      text: Submit your information through their secure online portal
+      position: 3
+    - '@type': HowToStep
+      name: Receive valuation
+      text: Receive a preliminary valuation from their team of collectibles experts
+      position: 4
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What makes antique dolls valuable?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Antique dolls represent a fascinating intersection of art, history,
+          and craftsmanship. Their value is determined by factors including
+          rarity, condition, provenance, and craftsmanship. Rare bisque dolls
+          have seen a value appreciation of over 120% in the last decade.
+    - '@type': Question
+      name: How important is documentation for antique doll appraisals?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Documentation is extremely important, with 86% of appraisals beginning
+          with digital documentation. Proper documentation includes clear
+          photographs from multiple angles and detailed descriptions of the
+          doll's condition, markings, and provenance.
+    - '@type': Question
+      name: How does condition affect antique doll valuation?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Condition has approximately a 70% impact on the final valuation of
+          antique dolls. Dolls in original, undamaged condition with original
+          clothing and accessories typically command the highest prices.
 ---
 
 {{< content-modules/section-header title="Understanding Antique Doll Appraisals" level="2" >}}

@@ -40,8 +40,15 @@ structured_data:
     Discover the value and history behind Currier and Ives 'The Old Grist Mill'
     dishes. This comprehensive guide helps collectors identify, price, and care
     for these beloved blue and white treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/currier-and-ives-dishes-value-the-old-grist-mill/currier-and-ives-dishes-value-the-old-grist-mill-image-1_hn2w6mCaI.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/currier-and-ives-dishes-value-the-old-grist-mill/currier-and-ives-dishes-value-the-old-grist-mill-image-1_hn2w6mCaI.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage blue and white Currier and Ives 'The Old Grist Mill' dinner plate
+      by Royal China Company
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,11 +58,60 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
-    '@id': 'https://appraisily.com/currier-and-ives-dishes-value-the-old-grist-mill/'
+    '@id': >-
+      https://articles.appraisily.com/articles/currier-and-ives-dishes-value-the-old-grist-mill
+  keywords:
+    - Currier and Ives Old Grist Mill value
+    - Royal China blue and white dishes
+    - vintage Americana dinnerware prices
+    - Currier and Ives collectible plates
+    - The Old Grist Mill pattern worth
+    - 1950s blue transferware value
+    - antique Currier and Ives dishes identification
+  about:
+    '@type': Thing
+    name: Currier and Ives Dinnerware
+    description: >-
+      Blue and white Americana-themed dishes produced by Royal China Company
+      featuring scenes from Currier & Ives prints
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles Valuation Guides
+    url: 'https://articles.appraisily.com/categories/collectibles'
+  mentions:
+    - '@type': Organization
+      name: Royal China Company
+      location:
+        '@type': Place
+        address:
+          '@type': PostalAddress
+          addressLocality: Sebring
+          addressRegion: Ohio
+          addressCountry: USA
+    - '@type': Organization
+      name: Currier & Ives
+      foundingDate: '1835'
+  temporalCoverage: 1949/1986
+  itemReviewed:
+    '@type': Product
+    name: Currier and Ives 'The Old Grist Mill' Dinnerware
+    manufacturer:
+      '@type': Organization
+      name: Royal China Company
+    material: Ironstone
+    offers:
+      '@type': AggregateOffer
+      lowPrice: '10'
+      highPrice: '800'
+      priceCurrency: USD
+      offerCount: 100+
+      availability: 'https://schema.org/InStock'
 ---
 
 ![Vintage Currier and Ives 'The Old Grist Mill' dinner plate in blue and white](https://ik.imagekit.io/appraisily/SEO/currier-and-ives-dishes-value-the-old-grist-mill/currier-and-ives-dishes-value-the-old-grist-mill-image-1_hn2w6mCaI.png)

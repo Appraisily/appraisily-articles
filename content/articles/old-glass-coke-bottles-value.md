@@ -39,8 +39,15 @@ structured_data:
     Discover what makes old glass Coca-Cola bottles valuable, from rare
     Hutchinson models worth thousands to common vintage bottles. Learn
     identification tips and current market values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-glass-coke-bottles-value/old-glass-coke-bottles-value-image-1_SlAUtRIBd.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-glass-coke-bottles-value/old-glass-coke-bottles-value-image-1_SlAUtRIBd.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Coca-Cola glass bottles collection showing different eras and
+      styles from Hutchinson to contour designs
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,67 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-glass-coke-bottles-value'
+  keywords:
+    - old glass coke bottles value
+    - vintage coca cola bottle prices
+    - rare coke bottle identification
+    - hutchinson coke bottles
+    - contour coke bottle worth
+    - antique coca-cola collectibles
+    - coke bottle collecting guide
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Makes Old Glass Coke Bottles Valuable?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Several factors determine the value of old glass Coke bottles, with
+          rarity and age being the most significant contributors to high
+          valuations. Age is typically the most significant factor in
+          determining a Coke bottle's value. The earliest examples, particularly
+          Hutchinson bottles from the 1890s and early straight-sided bottles
+          from the early 1900s, are often the most valuable due to their
+          scarcity and historical significance. Rarity plays a crucial role as
+          well. Limited production runs, regional distributions, and
+          experimental designs can significantly increase a bottle's value.
+          Condition remains paramount—bottles with no chips, cracks, or
+          excessive wear will always be worth more than damaged examples.
+CollectionPage:
+  '@context': 'https://schema.org'
+  '@type': CollectionPage
+  name: Vintage Coca-Cola Bottles Collection Guide
+  description: >-
+    A comprehensive guide to collecting and valuing vintage Coca-Cola glass
+    bottles from different eras, including Hutchinson bottles, straight-side
+    bottles, and contour bottles.
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      item:
+        '@type': Product
+        name: Hutchinson Coca-Cola Bottles (1894-1912)
+        description: >-
+          The earliest Coca-Cola bottles used the Hutchinson stopper system.
+          These extremely rare bottles are the holy grail for collectors.
+        offers:
+          '@type': AggregateOffer
+          lowPrice: '2500'
+          highPrice: '4000'
+          priceCurrency: USD
+    - '@type': ListItem
+      position: 2
+      item:
+        '@type': Product
+        name: Straight-Side Coca-Cola Bottles (1900-1920)
+        description: >-
+          Before the iconic contour shape, Coke was sold in straight-sided
+          bottles with crown tops.
+        offers:
+          '@type': AggregateOffer
+          priceCurrency: USD
 ---
 
 ![Collection of vintage Coca-Cola glass bottles of various styles and eras](https://ik.imagekit.io/appraisily/SEO/old-glass-coke-bottles-value/old-glass-coke-bottles-value-image-1_SlAUtRIBd.png)

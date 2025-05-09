@@ -41,8 +41,15 @@ structured_data:
     Discover reliable free antique book appraisals online. Learn how to
     determine if your old book is valuable and where to get expert evaluations
     without paying.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-book-appraisals-online/free-antique-book-appraisals-online-image-1_l3XXD8oe-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-book-appraisals-online/free-antique-book-appraisals-online-image-1_l3XXD8oe-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique leather-bound books being examined for
+      professional appraisal
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,10 +61,54 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/free-antique-book-appraisals-online
+  keywords:
+    - free antique book appraisals
+    - online book valuation
+    - rare book evaluation
+    - antique book value guide
+    - first edition book appraisal
+    - collectible book identification
+    - book authentication services
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why Seek Professional Book Appraisals?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Professional book appraisals matter for antique books because rare
+          books can have substantial hidden value not immediately apparent to
+          untrained eyes. Professional appraisers consider factors like age and
+          historical significance, edition (first editions are typically most
+          valuable), condition (including binding, pages, illustrations), rarity
+          and demand among collectors, provenance (ownership history), and
+          special features (signatures, inscriptions, unique bindings). A
+          comprehensive appraisal provides more than just a price tag—it offers
+          insights into your book's historical context, cultural significance,
+          and preservation needs.
+HowTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Get a Free Book Evaluation from Rare Book Buyer
+  description: Steps to obtain a free online evaluation for your antique books
+  step:
+    - '@type': HowToStep
+      name: Take photos
+      text: 'Take clear photos of your book (cover, title page, copyright page)'
+    - '@type': HowToStep
+      name: Send email
+      text: Email the images with a description
+    - '@type': HowToStep
+      name: Receive response
+      text: Receive a response typically within 24-48 hours
 ---
 
 Do you have old books collecting dust on your shelves and wonder if they might be worth something? Getting professional antique book appraisals traditionally meant visiting specialized dealers or paying substantial fees. Today, numerous online resources offer free evaluations that can help determine if your books hold significant value.

@@ -42,8 +42,15 @@ structured_data:
     Comprehensive guide to identifying authentic antique bisque dolls through
     maker's marks, physical characteristics, and key features to determine their
     origin, age, and value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-bisque-dolls/how-to-identify-antique-bisque-dolls-image-1_xUDVWCsCi.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-bisque-dolls/how-to-identify-antique-bisque-dolls-image-1_xUDVWCsCi.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      A classic German bisque head doll with kid leather body from approximately
+      1890
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,94 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/how-to-identify-antique-bisque-dolls
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  about:
+    '@type': Thing
+    name: Antique Bisque Dolls
+  keywords: >-
+    antique bisque doll identification, bisque doll maker marks, German bisque
+    dolls value, how to date antique dolls, bisque vs porcelain dolls, antique
+    doll authentication, vintage bisque doll features
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Antique Bisque Dolls
+  description: >-
+    A step-by-step guide to identifying authentic antique bisque dolls through
+    examination of materials, maker's marks, and physical characteristics.
+  image: >-
+    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-bisque-dolls/how-to-identify-antique-bisque-dolls-image-1_xUDVWCsCi.png
+  step:
+    - '@type': HowToStep
+      name: Examine the Bisque Material
+      text: >-
+        Check for a matte finish, porosity (it slightly sticks to the tongue),
+        and substantial weight, which are characteristics of authentic bisque
+        material.
+    - '@type': HowToStep
+      name: Look for Maker's Marks
+      text: >-
+        Inspect the back of the head or shoulder plate for manufacturer marks,
+        numbers, or symbols that identify the doll maker.
+    - '@type': HowToStep
+      name: Assess Physical Characteristics
+      text: >-
+        Examine the doll's eyes, mouth, hair, body composition, and joints to
+        identify authentic period features.
+    - '@type': HowToStep
+      name: Date the Doll by Style
+      text: >-
+        Identify the approximate age by analyzing the doll's style, clothing,
+        and design elements typical of specific time periods.
+    - '@type': HowToStep
+      name: Differentiate Between Bisque and Porcelain
+      text: >-
+        Understand that bisque has a matte finish while porcelain is glazed and
+        shiny, which helps distinguish authentic bisque dolls.
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What is the difference between bisque and porcelain dolls?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Bisque dolls have an unglazed, matte finish that resembles human skin,
+          while porcelain dolls have a glossy, glazed surface. Bisque is also
+          slightly porous and will stick to the tongue when touched, unlike
+          glazed porcelain.
+    - '@type': Question
+      name: How can I tell if a bisque doll is antique or a reproduction?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Authentic antique bisque dolls typically have maker's marks,
+          period-appropriate construction techniques, signs of age and wear, and
+          distinctive features specific to their era of production.
+          Reproductions often have modern manufacturing signs, different weight
+          and porosity, and lack the fine details of originals.
+    - '@type': Question
+      name: What are the most valuable antique bisque dolls?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The most valuable antique bisque dolls include rare French dolls by
+          makers like Bru, Jumeau, and Gaultier, character dolls with unusual
+          expressions, dolls in original condition with original clothing and
+          accessories, and dolls with provenance or historical significance.
+    - '@type': Question
+      name: How do I identify the maker of my antique bisque doll?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Look for maker's marks typically found on the back of the head or
+          shoulder plate. These marks may include company names, logos,
+          initials, or numbers that can be cross-referenced with doll maker
+          catalogs and reference guides to identify the manufacturer.
 ---
 
 Antique bisque dolls represent some of the most cherished and valuable collectibles in the doll market. Made primarily between the 1860s and 1930s, these dolls with their delicate bisque heads and distinctive features capture the artistry and craftsmanship of a bygone era. Whether you're an established collector, an antique dealer, or someone who has inherited an old doll, knowing how to properly identify antique bisque dolls is essential to understanding their authenticity, origin, and value.

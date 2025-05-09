@@ -44,14 +44,70 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-05-30T14:30:00.000Z'
   dateModified: '2024-05-30T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-wicker-rocking-chair/value-of-old-wicker-rocking-chair-image-1_omeI_nMxk.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-wicker-rocking-chair/value-of-old-wicker-rocking-chair-image-1_omeI_nMxk.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate Victorian-era wicker rocking chair with intricate weaving patterns
+      and original finish
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/img/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-wicker-rocking-chair'
+  keywords:
+    - antique wicker rocking chair value
+    - Victorian wicker rocker worth
+    - vintage wicker chair identification
+    - collectible wicker furniture prices
+    - antique bentwood rocking chair
+    - wicker furniture appraisal
+    - rare wicker chair values
+  articleSection: Furniture
+  about:
+    '@type': Thing
+    name: Antique Wicker Furniture
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors determine the value of an antique wicker rocking chair?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several critical factors influence the value of an antique or
+            vintage wicker rocking chair including age and period (Victorian era
+            and Art Nouveau period chairs command highest prices), manufacturer
+            and provenance (chairs from renowned manufacturers like
+            Heywood-Wakefield fetch premium prices), and construction techniques
+            and materials used.
+      - '@type': Question
+        name: How can I determine the age of a wicker rocking chair?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            To determine age, examine construction techniques, materials, and
+            design elements. Pre-1900 chairs typically feature hand-woven
+            natural rattan or reed, early 20th century models may incorporate
+            machine-made wicker elements, and mid-century pieces often combine
+            wicker with bentwood frames.
+      - '@type': Question
+        name: Which wicker rocking chair manufacturers are most valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Wicker chairs produced by renowned manufacturers typically fetch
+            premium prices. The most prestigious companies include
+            Heywood-Wakefield (particularly pre-1921), Hayward Wakefield
+            Company, Whitney Reed Company, The Wicker Shop, and Ficks Reed.
+            Chairs with documented history or famous ownership can significantly
+            increase in value.
 ---
 
 {{< content-modules/section-header title="Understanding the Value of Old Wicker Rocking Chairs" level="2" >}}

@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to determining antique pocket watch values based on
     manufacturer, materials, condition, rarity, and historical significance for
     collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-pocket-watches/value-of-antique-pocket-watches-image-1_v1DlrhvrJ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-pocket-watches/value-of-antique-pocket-watches-image-1_v1DlrhvrJ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage gold pocket watch with ornate engraving showcasing collector value
+      elements
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,49 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-21T14:30:00.000Z'
   dateModified: '2023-07-21T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/value-of-antique-pocket-watches'
+  about:
+    '@type': Thing
+    name: Antique Pocket Watches
+    description: >-
+      Historical timepieces valued by collectors for their craftsmanship,
+      rarity, and historical significance
+  keywords: >-
+    antique pocket watch value, vintage timepiece appraisal, pocket watch
+    identification, collectible watch worth, rare pocket watch prices, pocket
+    watch investment, antique watch valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Determines Antique Pocket Watch Value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique pocket watch is influenced by multiple
+            factors working together including the manufacturer, materials,
+            condition, rarity, and historical significance. Most standard
+            antique pocket watches are worth less than $200, especially in rough
+            condition, while prestigious pieces can command thousands or even
+            millions of dollars.
+      - '@type': Question
+        name: How Does Manufacturer and Brand Significance Affect Value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The maker of a pocket watch is often the most influential factor in
+            determining its value. Prestigious Swiss manufacturers like Patek
+            Philippe, Vacheron Constantin, and Audemars Piguet typically
+            represent the upper echelon of pocket watch values. American brands
+            such as Waltham, Elgin, Hamilton, and Illinois also have significant
+            collector interest.
 ---
 
 ![Gold antique pocket watch with ornate case showing valuable design elements](https://ik.imagekit.io/appraisily/SEO/value-of-antique-pocket-watches/value-of-antique-pocket-watches-image-1_v1DlrhvrJ.png)

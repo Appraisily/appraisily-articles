@@ -39,8 +39,15 @@ structured_data:
     Discover the value of old soda bottles with our comprehensive price guide.
     Learn how to identify rare collectibles, determine authenticity, and find
     the most valuable vintage soda bottles on the market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-soda-bottle-values/old-soda-bottle-values-image-1_qxuptJ6uPk.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-soda-bottle-values/old-soda-bottle-values-image-1_qxuptJ6uPk.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage soda bottle collection featuring rare Coca-Cola bottles and
+      colorful antique glass soda containers
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,71 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-soda-bottle-values'
+  about:
+    '@type': Thing
+    name: Vintage Soda Bottles
+    description: >-
+      Collectible antique glass bottles from soda manufacturers with historical
+      and monetary value
+  keywords: >-
+    old soda bottle values, vintage soda bottle collecting, antique Coca-Cola
+    bottles, rare soda bottle identification, collectible glass bottles, soda
+    bottle price guide, valuable antique bottles
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What determines a soda bottle's value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several factors determine a soda bottle's value: 1) Age - older
+            bottles from the early 20th century or earlier command higher
+            prices, 2) Rarity - limited production runs, regional distribution,
+            and discontinued brands increase value, 3) Condition - mint
+            condition bottles without chips, cracks, or label damage are worth
+            more, 4) Brand Recognition - bottles from iconic brands like
+            Coca-Cola often fetch higher prices, 5) Historical Significance -
+            bottles associated with significant events or cultural moments, 6)
+            Design Elements - unique shapes, colors, and manufacturing
+            techniques add value, 7) Completeness - original caps, labels, and
+            packaging increase desirability.
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Age
+      description: >-
+        Generally, older bottles from the early 20th century or earlier command
+        higher prices
+    - '@type': ListItem
+      position: 2
+      name: Rarity
+      description: >-
+        Limited production runs, regional distribution, and discontinued brands
+        increase value
+    - '@type': ListItem
+      position: 3
+      name: Condition
+      description: >-
+        Mint condition bottles without chips, cracks, or label damage are worth
+        more
+    - '@type': ListItem
+      position: 4
+      name: Brand Recognition
+      description: Bottles from iconic brands like Coca-Cola often fetch higher prices
+    - '@type': ListItem
+      position: 5
+      name: Historical Significance
+      description: Bottles associated with significant events or cultural moments
+    - '@type': ListItem
+      position: 6
+      name: Design Elements
+      description: 'Unique shapes, colors, and manufacturing techniques add value'
+    - '@type': ListItem
+      position: 7
+      name: Completeness
+      description: 'Original caps, labels, and packaging increase desirability'
 ---
 
 Vintage soda bottles represent a fascinating intersection of history, nostalgia, and collectible value. What might seem like ordinary glass containers to some are coveted treasures to collectors who appreciate their historical significance, unique designs, and connection to iconic American brands. From the distinctive contours of Coca-Cola bottles to the colorful graphics of regional soda brands, these artifacts tell the story of American consumer culture through the decades.

@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of your antique Victrola record player with our
     comprehensive price guide covering models, condition factors, and where to
     sell these cherished phonographs.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-victrola-record-player-value/antique-victrola-record-player-value-image-1_JEQx1DXxG.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-victrola-record-player-value/antique-victrola-record-player-value-image-1_JEQx1DXxG.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique Victrola phonograph with external horn speaker and ornate
+      wooden cabinet from early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,16 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-victrola-record-player-value
+  about:
+    '@type': Thing
+    name: Antique Victrola Record Players
+    description: >-
+      Early 20th century phonographs produced by the Victor Talking Machine
+      Company, known for their distinctive horn speakers and wooden cabinets.
+  keywords: >-
+    antique Victrola value, Victor Talking Machine worth, vintage phonograph
+    prices, Victrola record player identification, collectible Victrola models,
+    external horn phonograph value, antique gramophone appraisal
 ---
 
 {{< content-modules/section-header title="Introduction to Victrola Record Players" level="2" >}}

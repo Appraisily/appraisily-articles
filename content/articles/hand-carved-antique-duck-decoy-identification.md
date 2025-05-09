@@ -48,8 +48,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/hand-carved-antique-duck-decoy-identification/hand-carved-antique-duck-decoy-identification-image-1_D0sG0z25i.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/hand-carved-antique-duck-decoy-identification/hand-carved-antique-duck-decoy-identification-image-1_D0sG0z25i.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique hand-carved wooden duck decoys showing different
+      carving styles and paint patterns
   publisher:
     '@type': Organization
     name: Appraisily
@@ -58,6 +65,34 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: >-
     https://appraisily.com/articles/hand-carved-antique-duck-decoy-identification
+  about:
+    '@type': Thing
+    name: Antique Duck Decoys
+    description: >-
+      Hand-carved wooden duck decoys used for hunting that have become valuable
+      collectibles and folk art
+  keywords: >-
+    antique duck decoy identification, hand-carved duck decoys, valuable wooden
+    decoys, collectible duck decoys, vintage decoy authentication, famous decoy
+    carvers, regional decoy styles
+  articleSection: Folk Art
+  timeRequired: PT10M
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the history of duck decoys in North America?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Duck decoys have been used for hunting waterfowl in North America
+            since before European settlement. Native Americans crafted the
+            earliest decoys from reeds and grasses, later incorporating wood as
+            materials and techniques evolved. By the 19th century, distinctive
+            regional carving styles had emerged across the United States. The
+            golden age of decoy carving spanned from approximately 1850 to 1950,
+            when market hunting was at its peak.
 ---
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/hand-carved-antique-duck-decoy-identification/hand-carved-antique-duck-decoy-identification-image-1_D0sG0z25i.png" alt="Collection of antique hand-carved wooden duck decoys showing different carving styles and paint patterns" caption="Antique hand-carved duck decoys representing various regional styles and makers" >}}

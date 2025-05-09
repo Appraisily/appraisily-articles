@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique coffee grinders, from rare models worth
     $1,000+ to affordable vintage pieces. Learn identification tips, price
     factors, and where to sell your collectible grinder.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-coffee-grinder/value-of-antique-coffee-grinder-image-1_DkraPN00K.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-coffee-grinder/value-of-antique-coffee-grinder-image-1_DkraPN00K.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique wooden box coffee grinder with ornate metal grinding
+      mechanism from the early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,54 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-09-18T14:30:00.000Z'
   dateModified: '2023-09-18T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://appraisily.com/value-of-antique-coffee-grinder/'
+  about:
+    '@type': Thing
+    name: Antique Coffee Grinders
+    description: Historical coffee grinding devices that have become collectible items
+  keywords: >-
+    antique coffee grinder value, vintage coffee mill prices, collectible coffee
+    grinders, Enterprise coffee grinder worth, antique coffee mill
+    identification, rare coffee grinder brands, where to sell antique coffee
+    grinders
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the typical value range for antique coffee grinders?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of antique coffee grinders ranges from $50 to $1,000
+            depending on age, manufacturer, condition, and rarity. Rare and
+            exceptional specimens from prestigious manufacturers can command
+            prices exceeding $1,000.
+      - '@type': Question
+        name: Which antique coffee grinder brands are most valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The most valuable antique coffee grinder brands include Enterprise
+            Manufacturing Company (particularly valuable when in working
+            condition), Arcade (especially their X-Ray model), Peugeot (French
+            grinders known for quality), Parker & Co (distinctive American
+            designs), and Hobart (premium commercial models).
+      - '@type': Question
+        name: How does age affect an antique coffee grinder's value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Generally, older coffee grinders tend to be more valuable. Coffee
+            grinders from the 19th century typically command higher prices than
+            those from the early to mid-20th century. Dating your grinder
+            accurately is essential for proper valuation.
 ---
 
 Antique coffee grinders have become highly sought-after collectibles, combining both historical significance and practical charm. These functional works of art reflect the evolution of coffee culture and often serve as conversation pieces in modern homes. Whether you're a serious collector or simply curious about that old grinder in your attic, understanding what drives value in these vintage kitchen tools can help you make informed decisions about buying, selling, or appraising them.

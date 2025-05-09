@@ -48,15 +48,32 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-06-14T14:30:00.000Z'
   dateModified: '2024-06-14T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-ball-canning-jars-value/old-ball-canning-jars-value-image-1_GQtFYwcEtm.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-ball-canning-jars-value/old-ball-canning-jars-value-image-1_GQtFYwcEtm.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Ball Mason jars collection showing different colors, logos, and
+      closure types from various eras
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-ball-canning-jars-value'
+  keywords:
+    - old ball canning jars value
+    - vintage mason jar identification
+    - antique ball jar prices
+    - rare ball perfect mason jars
+    - ball jar dating guide
+    - collectible canning jars
+    - valuable ball blue jars
 ---
 
 ![Collection of vintage Ball canning jars in various colors and styles](https://ik.imagekit.io/appraisily/SEO/old-ball-canning-jars-value/old-ball-canning-jars-value-image-1_GQtFYwcEtm.png)

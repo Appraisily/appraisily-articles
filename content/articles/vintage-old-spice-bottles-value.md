@@ -39,8 +39,6 @@ structured_data:
     Comprehensive guide to valuing vintage Old Spice bottles from the Shulton
     era. Learn to identify rare designs, determine authentic market prices, and
     understand what makes these nostalgic collectibles valuable.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/vintage-old-spice-bottles-value/vintage-old-spice-bottles-value-image-1_Gb9UTRlQ_.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,34 @@ structured_data:
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/vintage-old-spice-bottles-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/vintage-old-spice-bottles-value/vintage-old-spice-bottles-value-image-1_Gb9UTRlQ_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Old Spice cologne bottles collection showing nautical designs and
+      various Shulton-era containers
+  keywords:
+    - vintage Old Spice bottles value
+    - Shulton Old Spice collectibles
+    - nautical aftershave bottles
+    - Old Spice bottle identification
+    - collectible men's grooming products
+    - vintage cologne bottles worth
+    - Old Spice memorabilia prices
+  about:
+    '@type': Thing
+    name: Vintage Old Spice Bottles
+    description: >-
+      Collectible aftershave and cologne bottles from the Shulton Company era
+      featuring nautical designs and various materials from glass to ceramic
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles
+    url: 'https://articles.appraisily.com/categories/collectibles'
+  timeRequired: PT10M
 ---
 
 ![Collection of vintage Old Spice bottles showing various designs and shapes](https://ik.imagekit.io/appraisily/SEO/vintage-old-spice-bottles-value/vintage-old-spice-bottles-value-image-1_Gb9UTRlQ_.png)

@@ -40,7 +40,12 @@ structured_data:
     name: Appraisily Team
   datePublished: '2025-04-15T14:30:00.000Z'
   dateModified: '2025-04-15T14:30:00.000Z'
-  image: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+    width: '1200'
+    height: '630'
+    caption: Antique wooden desk with ornate carvings and original brass hardware
   publisher:
     '@type': Organization
     name: Appraisily
@@ -50,6 +55,24 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-desk-value'
+  keywords:
+    - antique desk value
+    - antique desk identification
+    - antique desk appraisal
+    - vintage desk worth
+    - roll top desk value
+    - secretary desk antique
+    - antique writing desk prices
+  about:
+    '@type': Thing
+    name: Antique Desks
+    description: >-
+      Historical furniture pieces used for writing and storage, typically
+      crafted before 1920
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
 ---
 
 ## Introduction to antique-desk-value

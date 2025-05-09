@@ -39,8 +39,15 @@ structured_data:
     Discover how to find and select the best antique appraisal services near you
     with our comprehensive guide to professional valuations, costs, and what to
     expect.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-appraisal-services-near-me/antique-appraisal-services-near-me-image-1__IhCZNUam.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-appraisal-services-near-me/antique-appraisal-services-near-me-image-1__IhCZNUam.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser carefully examining a valuable heirloom
+      with specialized tools
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-20T14:30:00.000Z'
   dateModified: '2023-07-20T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-appraisal-services-near-me'
+  keywords:
+    - antique appraisal services near me
+    - local antique valuations
+    - professional antique appraisers
+    - antique valuation cost
+    - certified antique appraisal
+    - find antique experts
+    - heirloom valuation services
 ---
 
 ## Introduction to Antique Appraisal Services

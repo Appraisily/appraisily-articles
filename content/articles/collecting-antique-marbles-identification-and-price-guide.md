@@ -40,8 +40,15 @@ structured_data:
     Discover how to identify and value antique marbles with our comprehensive
     guide covering handmade, machine-made, and rare varieties, with current
     price ranges.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/collecting-antique-marbles-identification-and-price-guide/collecting-antique-marbles-identification-and-price-guide-image-1_vLu7aMalS.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/collecting-antique-marbles-identification-and-price-guide/collecting-antique-marbles-identification-and-price-guide-image-1_vLu7aMalS.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of handmade and machine-made glass marbles showing
+      various swirl patterns and colors
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,65 @@ structured_data:
   dateModified: '2023-07-15T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/collecting-antique-marbles-identification-and-price-guide
+  about:
+    '@type': Thing
+    name: Antique Marbles
+    description: >-
+      Collectible glass, clay, or stone spheres produced from the 1840s through
+      the 1930s, valued for their craftsmanship and historical significance.
+  keywords:
+    - antique marble identification
+    - vintage marble values
+    - handmade glass marbles
+    - collectible marble guide
+    - rare marble types
+    - marble collecting
+    - antique toy appraisal
+  mentions:
+    - '@type': Thing
+      name: Handmade Glass Marbles
+      description: >-
+        Individually crafted glass marbles made from the 1840s to 1920s, known
+        for their pontil marks and artistic designs.
+    - '@type': Thing
+      name: Machine-Made Marbles
+      description: >-
+        Mass-produced glass marbles that began replacing handmade varieties in
+        the early 20th century.
+  itemReviewed:
+    '@type': Product
+    name: Antique Marbles
+    category: Collectibles
+    offers:
+      '@type': AggregateOffer
+      lowPrice: '5'
+      highPrice: '10000'
+      priceCurrency: USD
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the golden age of marble production?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The golden age of marble production was from the 1840s to the 1930s,
+            which represents the peak period for handmade marble production.
+      - '@type': Question
+        name: How much can rare handmade antique marbles sell for?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The rarest handmade antique marbles can sell for $10,000 or more at
+            auction.
+      - '@type': Question
+        name: What impact does condition have on antique marble values?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Condition has a significant impact on antique marble values, with
+            pristine examples commanding up to a 75% premium over damaged
+            specimens.
 ---
 
 ![Collection of colorful antique handmade and machine-made glass marbles](https://ik.imagekit.io/appraisily/SEO/collecting-antique-marbles-identification-and-price-guide/collecting-antique-marbles-identification-and-price-guide-image-1_vLu7aMalS.png)

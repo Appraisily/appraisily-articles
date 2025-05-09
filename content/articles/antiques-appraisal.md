@@ -39,8 +39,15 @@ structured_data:
     Learn how professional antiques appraisal works, what to expect during the
     process, and how to determine the true value of your collectibles and
     heirlooms.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antiques-appraisal/antiques-appraisal-image-1_OFSm0Is1G.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antiques-appraisal/antiques-appraisal-image-1_OFSm0Is1G.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antiques appraiser examining vintage furniture with
+      magnifying glass during valuation assessment
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,37 @@ structured_data:
   datePublished: '2023-06-02T14:30:00.000Z'
   dateModified: '2023-06-02T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antiques-appraisal'
+  about:
+    '@type': Thing
+    name: Antiques Appraisal
+  keywords:
+    - antiques appraisal
+    - professional antique valuation
+    - collectibles worth
+    - heirloom appraisal
+    - antique authentication
+    - appraisal services
+    - antique value determination
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is an Antiques Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An antiques appraisal is a professional assessment of an item's
+            monetary value, historical significance, authenticity, and
+            condition. This evaluation is conducted by a qualified appraiser who
+            specializes in specific categories of antiques and collectibles. A
+            professional antiques appraisal goes beyond a simple estimate of
+            value. It is a detailed written report that typically includes a
+            thorough description of the item, evaluation of condition and
+            authenticity, research on provenance and historical context, current
+            market value assessment, supporting documentation (photographs,
+            comparable sales data), and the appraiser's credentials and
+            signature.
 ---
 
 ![Professional appraiser examining antique furniture with magnifying glass](https://ik.imagekit.io/appraisily/SEO/antiques-appraisal/antiques-appraisal-image-1_OFSm0Is1G.png)

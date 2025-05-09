@@ -48,8 +48,15 @@ structured_data:
     Learn to identify antique grandfather clocks with our expert guide. Discover
     maker's marks, dating techniques, and how to determine the true value of
     your timepiece.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-grandfather-clock-identification/antique-grandfather-clock-identification-image-1_N09zoD9-v.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-grandfather-clock-identification/antique-grandfather-clock-identification-image-1_N09zoD9-v.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique grandfather clock with ornate wooden case, brass dial face and
+      pendulum mechanism
   author:
     '@type': Organization
     name: Appraisily Team
@@ -61,6 +68,24 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-05-29T14:30:00.000Z'
   dateModified: '2023-05-29T14:30:00.000Z'
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why is identification of antique grandfather clocks important?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Identification of antique grandfather clocks is crucial for several
+          reasons: 1) Valuation accuracy: Without proper identification, it's
+          impossible to determine a clock's true worth in the marketplace. 2)
+          Restoration guidance: Knowing the maker and period helps ensure
+          historically accurate repairs and restoration. 3) Authentication:
+          Distinguishing between genuine antiques and quality reproductions
+          affects both monetary and historical significance. 4) Provenance
+          documentation: Establishing a clock's history increases its appeal to
+          collectors and museums.
 ---
 
 ![Antique grandfather clock with ornate carved case and brass face](https://ik.imagekit.io/appraisily/SEO/antique-grandfather-clock-identification/antique-grandfather-clock-identification-image-1_N09zoD9-v.png)

@@ -39,8 +39,6 @@ structured_data:
     Discover the most valuable rare Barbie dolls, from vintage 1959 originals
     worth $27,450 to limited Gold Label editions. Learn identification tips,
     pricing factors, and expert valuation advice.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-barbie-dolls-value/rare-barbie-dolls-value-image-1_BKZTLJyCh.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +48,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-08-18T14:30:00.000Z'
   dateModified: '2024-08-18T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/rare-barbie-dolls-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-barbie-dolls-value/rare-barbie-dolls-value-image-1_BKZTLJyCh.png
+    width: '1200'
+    height: '630'
+    caption: Collection of rare and valuable vintage Barbie dolls from different eras
+  keywords:
+    - rare Barbie dolls value
+    - most valuable Barbie dolls
+    - vintage Barbie worth
+    - collectible Barbie price guide
+    - limited edition Barbie value
+    - 1959 original Barbie
+    - Barbie doll investment
 ---
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/rare-barbie-dolls-value/rare-barbie-dolls-value-image-1_BKZTLJyCh.png" alt="Collection of rare and valuable vintage Barbie dolls from different eras" caption="Vintage Barbie dolls can be worth thousands of dollars to serious collectors" />}}

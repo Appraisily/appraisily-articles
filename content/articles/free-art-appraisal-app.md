@@ -38,8 +38,6 @@ structured_data:
     Comprehensive guide to the best free art appraisal apps that use AI, image
     recognition, and auction databases to help collectors and enthusiasts
     determine artwork value directly from their smartphones.
-  image:
-    - 'https://ik.imagekit.io/appraisily/SEO/free-art-appraisal-app/main.jpg'
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,9 +47,23 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
-  datePublished: '2024-09-13'
-  dateModified: '2024-09-13'
+      width: '112'
+      height: '112'
+  datePublished: '2024-09-13T14:30:00.000Z'
+  dateModified: '2024-09-13T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/free-art-appraisal-app'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/SEO/free-art-appraisal-app/main.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Smartphone displaying an art appraisal app analyzing a painting's value
+      with price estimation
+  keywords: >-
+    free art appraisal app, digital art valuation tools, art price estimation
+    apps, Limna art app, Smartify app review, Magnus art identification, mobile
+    artwork authentication
 ---
 
 Have you ever wondered about the value of an artwork you own or are considering purchasing? In today's digital age, free art appraisal apps are revolutionizing the way collectors, enthusiasts, and casual art owners access information about artwork valuation. These mobile tools bring expert art knowledge and pricing data directly to your smartphone, making art valuation more accessible than ever before.

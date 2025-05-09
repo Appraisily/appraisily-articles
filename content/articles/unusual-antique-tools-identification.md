@@ -42,7 +42,14 @@ structured_data:
     Learn to identify and value unusual antique tools with our expert guide
     covering maker's marks, materials, dating techniques, and market values for
     rare specimens.
-  image: 'https://appraisily.com/images/unusual-antique-tools-collection.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/unusual-antique-tools-collection.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and unusual antique tools with maker's marks displayed on vintage
+      wooden workbench
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,8 +59,67 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-05-28T14:30:00.000Z'
   dateModified: '2023-05-28T14:30:00.000Z'
+  keywords:
+    - unusual antique tools identification
+    - rare antique tool valuation
+    - mystery tool identification
+    - antique tool maker's marks
+    - vintage specialized tools
+    - antique tool dating techniques
+    - obscure tool collecting
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Unusual Antique Tools
+  description: >-
+    A step-by-step guide to identifying, dating, and valuing unusual antique
+    tools for collectors and enthusiasts.
+  step:
+    - '@type': HowToStep
+      name: Observe Physical Characteristics
+      text: >-
+        Carefully examine the tool's physical attributes including size, weight,
+        and materials. Note whether it's made of wood, iron, steel, brass, or a
+        combination. Check if it shows signs of being handmade or mass-produced.
+        Look for moving parts and mechanisms to understand how they operate, as
+        the mechanical action often reveals the tool's purpose.
+    - '@type': HowToStep
+      name: Decipher Maker's Marks and Stampings
+      text: >-
+        Look for manufacturer markings such as stamps, engravings, or cast
+        impressions on the main body of metal tools, the ferrule where handle
+        meets tool, cast into the body on cast iron tools, etched or stamped on
+        the wooden handle, or alongside patent dates or numbers. These can help
+        narrow down your search and identify the manufacturer or toolmaker.
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Where do maker's marks typically appear on antique tools?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Maker's marks typically appear on the main body of metal tools, the
+          ferrule where handle meets tool, cast into the body on cast iron
+          tools, etched or stamped on the wooden handle, or alongside patent
+          dates or numbers.
+    - '@type': Question
+      name: >-
+        What physical characteristics should I examine when identifying an
+        unusual antique tool?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          When identifying an unusual antique tool, examine its overall size,
+          weight, and materials (wood, iron, steel, brass, or a combination).
+          Check if it shows signs of being handmade or mass-produced, and look
+          for any moving parts and mechanisms to understand how they operate, as
+          this often reveals the tool's purpose.
 ---
 
 ## Introduction to Unusual Antique Tool Identification

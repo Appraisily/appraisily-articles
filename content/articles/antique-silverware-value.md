@@ -43,13 +43,29 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-10-20T14:30:00.000Z'
   dateModified: '2023-10-20T14:30:00.000Z'
-  image: 'https://appraisily.com/images/antique-silverware-value-guide.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/antique-silverware-value-guide.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique sterling silver flatware set with ornate patterns and
+      hallmarks showing maker's marks
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-silverware-value'
+  keywords:
+    - antique silverware value
+    - sterling silver identification
+    - silver hallmarks guide
+    - vintage silverware worth
+    - antique flatware patterns
+    - silver maker's marks
+    - antique silver appraisal
 ---
 
 # Antique Silverware Value Guide: Expert Tips for Identification & Appraisal

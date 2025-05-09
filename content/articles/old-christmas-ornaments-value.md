@@ -42,8 +42,15 @@ structured_data:
     Learn how to identify valuable vintage Christmas ornaments in your
     collection, with price guides for rare German glass pieces, Shiny Brite
     ornaments, and other collectible holiday decorations.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-christmas-ornaments-value/old-christmas-ornaments-value-image-1_8utEXur7I.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-christmas-ornaments-value/old-christmas-ornaments-value-image-1_8utEXur7I.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage glass Christmas ornaments collection in antique wooden
+      display box
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,7 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-12-08T14:30:00.000Z'
   dateModified: '2023-12-08T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-christmas-ornaments-value'
 ---
 
 Do you have boxes of old Christmas ornaments in your attic or inherited holiday decorations from relatives? Those festive treasures might be worth more than sentimental value. Vintage Christmas ornaments have become highly sought-after collectibles, with some rare pieces fetching hundreds or even thousands of dollars.

@@ -42,8 +42,15 @@ structured_data:
     Discover the true value of your old Elgin pocket watch with our expert
     guide. Learn about factors affecting value, price ranges, and where to sell
     these American timepieces.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-elgin-pocket-watch-value/old-elgin-pocket-watch-value-image-1_ThHMxCyvX.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-elgin-pocket-watch-value/old-elgin-pocket-watch-value-image-1_ThHMxCyvX.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      A classic Elgin pocket watch featuring elegant craftsmanship and design
+      with ornate gold case and white porcelain dial
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,8 +60,18 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-08-01T14:30:00.000Z'
   dateModified: '2024-08-01T14:30:00.000Z'
+  keywords:
+    - old Elgin pocket watch value
+    - antique Elgin watch prices
+    - Elgin pocket watch identification
+    - vintage Elgin timepiece worth
+    - Elgin watch serial numbers
+    - collectible pocket watches
+    - gold Elgin watch value
 ---
 
 ## Introduction to Elgin Pocket Watches

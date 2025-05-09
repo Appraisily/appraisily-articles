@@ -44,14 +44,52 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-19T14:30:00.000Z'
   dateModified: '2023-06-19T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-glass-decanter-identification/antique-glass-decanter-identification-image-1_wZLTVI9UXS.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-glass-decanter-identification/antique-glass-decanter-identification-image-1_wZLTVI9UXS.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique glass decanters showing Georgian, Victorian
+      and Art Deco styles with distinctive stoppers and cut patterns
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage: >-
+    https://articles.appraisily.com/articles/antique-glass-decanter-identification
+  keywords:
+    - antique glass decanter identification
+    - vintage crystal decanter values
+    - collectible glass decanters
+    - antique decanter authentication
+    - Georgian glass decanters
+    - Victorian decanters
+    - decanter maker marks
+  articleSection: Glassware
+  about:
+    '@type': Thing
+    name: Antique Glass Decanters
+  timeRequired: PT15M
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What are the key periods in glass decanter history?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Glass decanters evolved through several key periods: Early Georgian
+            (1680-1730) featuring simple rounded forms with basic stoppers made
+            from lead glass; Mid-Georgian (1730-1760) when mallet-shaped
+            decanters became popular with more decorative patterns; and Late
+            Georgian (1760-1800) which introduced the shoulder or 'mell'
+            decanter with its distinctive everted lip and the emergence of
+            decanter labels.
 ---
 
 ## Introduction to Antique Glass Decanters

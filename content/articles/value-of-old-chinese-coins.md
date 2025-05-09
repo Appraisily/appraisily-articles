@@ -43,8 +43,6 @@ structured_data:
     Discover the fascinating world of old Chinese coins and their value. Learn
     how to identify, authenticate, and price rare Chinese coins from various
     dynasties spanning 2,400 years of numismatic history.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-chinese-coins/value-of-old-chinese-coins-image-1_9FWsnVEGNA.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +57,34 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-old-chinese-coins'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-chinese-coins/value-of-old-chinese-coins-image-1_9FWsnVEGNA.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic ancient Chinese cash coins with square holes showing various
+      dynasty inscriptions and patinas
+  keywords:
+    - old Chinese coins value
+    - ancient Chinese currency
+    - Chinese cash coin identification
+    - rare Chinese dynasty coins
+    - Chinese numismatic collectibles
+    - antique Chinese coin authentication
+    - Chinese coin investment guide
+  about:
+    '@type': Thing
+    name: Chinese Numismatics
+    description: >-
+      The study and collection of Chinese coins and currency spanning over 2,400
+      years of history
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
+  inLanguage: en-US
 ---
 
 ![Collection of ancient Chinese cash coins showing various dynasty inscriptions](https://ik.imagekit.io/appraisily/SEO/value-of-old-chinese-coins/value-of-old-chinese-coins-image-1_9FWsnVEGNA.png)

@@ -43,8 +43,6 @@ structured_data:
     Learn how to accurately determine the value of old books with our
     comprehensive guide covering identification, appraisal methods, price
     factors, and collector resources.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-book-value-guide/old-book-value-guide-image-1_dL4Km7Q8G.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +57,23 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-book-value-guide'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-book-value-guide/old-book-value-guide-image-1_dL4Km7Q8G.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique and rare book collection displayed on vintage wooden
+      bookshelf
+  keywords:
+    - old book value
+    - antique book appraisal
+    - rare book identification
+    - book valuation methods
+    - first edition book worth
+    - vintage book market prices
+    - collectible book guide
 ---
 
 Are you wondering if that dusty old book in your attic might be worth something? Whether you've inherited a collection of antique books, discovered forgotten treasures at an estate sale, or simply want to know the value of books you've collected over the years, understanding how to properly evaluate old books is essential.

@@ -43,8 +43,15 @@ structured_data:
     Learn to identify old nails with our comprehensive guide covering wrought,
     cut, and wire nail types. Discover how nail features indicate age, origin,
     and historical significance.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identify-old-nails/identify-old-nails-image-1_IWmCTfd4e6.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identify-old-nails/identify-old-nails-image-1_IWmCTfd4e6.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of historic nail types including wrought, machine-cut and wire
+      nails showing evolution over time
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,9 +63,23 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/identify-old-nails'
+  about:
+    - '@type': Thing
+      name: Antique Nails
+      description: >-
+        Historic fasteners used in construction and furniture making that help
+        date artifacts
+    - '@type': Thing
+      name: Nail Chronology
+      description: The evolution of nail production methods over time
+  keywords: >-
+    identify old nails, antique nail identification, historic nail types, dating
+    antique nails, wrought iron nails, cut nail identification, nail chronology
 ---
 
 ![Collection of historic nail types including wrought, machine-cut and wire nails showing evolution over time](https://ik.imagekit.io/appraisily/SEO/identify-old-nails/identify-old-nails-image-1_IWmCTfd4e6.png)

@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify and determine the value of antique chairs with our
     expert guide. Discover key styles, authentication methods, and pricing
     factors for collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-chairs/value-of-antique-chairs-image-1_deexWvuvA.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-chairs/value-of-antique-chairs-image-1_deexWvuvA.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique chairs showcasing different
+      historical periods and design styles
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,55 @@ structured_data:
   datePublished: '2024-08-25T14:30:00.000Z'
   dateModified: '2024-08-25T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antique-chairs'
+  about:
+    '@type': Thing
+    name: Antique Chairs
+  keywords:
+    - antique chair values
+    - antique chair identification
+    - valuable antique chairs
+    - antique furniture appraisal
+    - collectible chair pricing
+    - antique chair authentication
+    - period chair valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors contribute to an antique chair's value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors contribute to an antique chair's value: 1) Age:
+            Generally, older chairs command higher prices, with pre-1700
+            examples being especially valuable; 2) Maker/Designer: Chairs by
+            renowned cabinetmakers or designers often fetch premium prices; 3)
+            Rarity: Unusual or limited production pieces typically have greater
+            value; 4) Condition: Original finishes, minimal restoration, and
+            structural integrity significantly impact value; 5) Provenance:
+            Documented history, especially famous ownership, can dramatically
+            increase value.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Antique Chair Styles
+    description: >-
+      Accurately identifying the style and period of an antique chair is the
+      first step in determining its value.
+    image: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-chairs/value-of-antique-chairs-image-2_O58iGcdVG.png
+    step:
+      - '@type': HowToStep
+        name: Identify William and Mary Style (1600-1700)
+        text: >-
+          Look for turned legs, carved crests, and cane or leather seats. Values
+          range from $800-$5,000 depending on condition and provenance.
+      - '@type': HowToStep
+        name: Identify Queen Anne Style (1700-1760)
+        text: >-
+          Look for graceful cabriole legs, fiddle-shaped backs, and shell
+          carvings. Quality examples typically sell for $1,200-$8,000.
 ---
 
 Antique chairs represent a fascinating intersection of art, history, and craftsmanship. Whether you've inherited family heirlooms, discovered a potential treasure at an estate sale, or are building a collection, understanding the value of antique chairs requires specialized knowledge. In this comprehensive guide, we'll explore everything you need to know about identifying, authenticating, and determining the value of antique chairs in today's market.

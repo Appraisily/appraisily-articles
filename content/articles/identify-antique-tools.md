@@ -50,9 +50,49 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-08-22T14:30:00.000Z'
   dateModified: '2023-08-22T14:30:00.000Z'
-  image: >-
-    https://cf.ltkcdn.net/antiques/images/orig/308646-2121x1414-vintage-woodworking-tools.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://cf.ltkcdn.net/antiques/images/orig/308646-2121x1414-vintage-woodworking-tools.jpg
+    width: '2121'
+    height: '1414'
+    caption: >-
+      Authentic vintage woodworking tools including hand planes, chisels, and
+      manual drills showing patina and craftsmanship
   mainEntityOfPage: 'https://articles.appraisily.com/articles/identify-antique-tools'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why does identifying antique tools matter?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Identifying antique tools matters for several important reasons:
+            determining value (authentic antique tools can be worth
+            significantly more than modern reproductions), preserving history
+            (proper identification helps document the evolution of tool design
+            and craftsmanship), building knowledgeable collections
+            (understanding what you have allows for more strategic collecting),
+            and avoiding reproductions (many "vintage-looking" tools on the
+            market are actually recent productions).
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Antique Tools
+    description: >-
+      A guide to authenticating and determining the value of antique tools
+      through examination of key characteristics
+    step:
+      - '@type': HowToStep
+        name: Examine Age and Materials
+        text: >-
+          Look for woods with natural patina (oak, beech, rosewood), cast iron
+          rather than aluminum, forged steel rather than stamped metal, brass
+          components, absence of plastic, and natural bone or horn handles.
+        image: >-
+          https://cf.ltkcdn.net/antiques/images/orig/308646-2121x1414-vintage-woodworking-tools.jpg
 ---
 
 ## Introduction to Antique Tool Identification

@@ -43,7 +43,14 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-12-04T14:30:00.000Z'
   dateModified: '2023-12-04T14:30:00.000Z'
-  image: 'https://i.ebayimg.com/images/g/AS4AAOSwm7FjLiew/s-l1200.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://i.ebayimg.com/images/g/AS4AAOSwm7FjLiew/s-l1200.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage 5-Gallon Ransbottom Crown Stoneware Crock featuring blue
+      decorative pattern
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,32 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-5-gallon-crock-value'
+  keywords:
+    - antique 5 gallon crock value
+    - vintage stoneware crock prices
+    - Red Wing crock identification
+    - collectible pottery appraisal
+    - antique stoneware values
+    - American pottery marks
+    - 5 gallon crock worth
+  about:
+    - '@type': Thing
+      name: Antique Stoneware
+      description: >-
+        Historical pottery vessels used for food storage and preservation in
+        American households
+    - '@type': Thing
+      name: Collectible Pottery
+      description: >-
+        Valuable ceramic items sought by collectors for their historical
+        significance and craftsmanship
+  mentions:
+    - '@type': Organization
+      name: Red Wing
+    - '@type': Organization
+      name: Western Stoneware
+    - '@type': Organization
+      name: Ransbottom
 ---
 
 Antique stoneware crocks, particularly the substantial 5-gallon size, represent an important part of American domestic history. Originally created for practical purposes like food storage and preservation, these durable vessels have now become highly sought-after collectibles. With their rustic charm and historical significance, antique 5-gallon crocks can command impressive prices in today's market, especially those with distinctive markings, decorations, or connections to renowned pottery companies.

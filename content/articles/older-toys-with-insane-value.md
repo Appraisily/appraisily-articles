@@ -43,8 +43,15 @@ structured_data:
     Discover which classic toys from your childhood could be worth a fortune
     today. From rare G.I. Joe figures to valuable Star Wars collectibles,
     explore the most valuable vintage toys and what makes them worth thousands.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/older-toys-with-insane-value/older-toys-with-insane-value-image-1_W7sySyKtV.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/older-toys-with-insane-value/older-toys-with-insane-value-image-1_W7sySyKtV.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of highly valuable vintage toys including rare action figures
+      and collectibles worth thousands of dollars
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,11 +61,23 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-10-19T14:30:00.000Z'
   dateModified: '2024-10-19T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/older-toys-with-insane-value'
+  about:
+    '@type': Thing
+    name: Vintage Toy Collecting
+    description: >-
+      Collecting, appraising, and investing in valuable vintage toys and
+      childhood collectibles
+  keywords: >-
+    valuable vintage toys, rare collectible toys, childhood toys value, toys
+    worth money, vintage toy appraisal, valuable action figures, toy collecting
+    investment
 ---
 
 ![Collection of highly valuable vintage toys including rare action figures and collectibles](https://ik.imagekit.io/appraisily/SEO/older-toys-with-insane-value/older-toys-with-insane-value-image-1_W7sySyKtV.png)

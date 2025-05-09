@@ -43,8 +43,6 @@ structured_data:
     Discover the true value of your old Singer sewing machine with our
     comprehensive guide. Learn about rare models, price factors, and how to
     identify your vintage Singer's worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machine-values/old-singer-sewing-machine-values-image-1_WeTg78K3t.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +55,85 @@ structured_data:
   datePublished: '2024-06-20T14:30:00.000Z'
   dateModified: '2024-06-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-singer-sewing-machine-values'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machine-values/old-singer-sewing-machine-values-image-1_WeTg78K3t.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique black Singer sewing machine with ornate gold decorative decals
+      showing its vintage craftsmanship
+  about:
+    '@type': Thing
+    name: Antique Singer Sewing Machines
+    description: >-
+      Vintage and antique Singer sewing machines, their identification,
+      valuation, and collectible status.
+  keywords:
+    - old Singer sewing machine values
+    - vintage Singer worth
+    - antique Singer identification
+    - Singer Featherweight value
+    - Singer treadle machine prices
+    - collectible sewing machines
+    - Singer serial number lookup
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-heading
+  inLanguage: en-US
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Your Vintage Singer Sewing Machine
+  description: >-
+    Steps to identify and determine the model of your vintage Singer sewing
+    machine using the serial number.
+  image: >-
+    https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machine-values/old-singer-sewing-machine-values-image-2_iEEfcbgQD.png
+  step:
+    - '@type': HowToStep
+      name: Find the Serial Number
+      text: >-
+        Look for the serial number on the front of the machine, usually on a
+        small metal plate.
+      position: 1
+    - '@type': HowToStep
+      name: Check Alternative Locations
+      text: 'If not found on the front, check on the bottom or back of the machine.'
+      position: 2
+    - '@type': HowToStep
+      name: Look in Hidden Areas
+      text: Sometimes the serial number may be on the motor or inside compartments.
+      position: 3
+    - '@type': HowToStep
+      name: Use Resources to Identify
+      text: >-
+        Once you've located the serial number, use Singer's online resources or
+        collector databases to determine when your machine was manufactured.
+      position: 4
+  tool:
+    - Singer online resources
+    - Collector databases
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Where can I find the serial number on my Singer sewing machine?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Every Singer sewing machine has a unique serial number that can tell
+          you its age and model. Look on the front of the machine (usually on a
+          small metal plate), on the bottom or back of the machine, or sometimes
+          on the motor or inside compartments.
 ---
 
 ![Vintage Singer sewing machine with ornate gold decals on black body](https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machine-values/old-singer-sewing-machine-values-image-1_WeTg78K3t.png)

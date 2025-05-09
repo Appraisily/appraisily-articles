@@ -48,14 +48,94 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-10-12T14:30:00.000Z'
   dateModified: '2024-10-12T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-brooches/how-to-identify-antique-brooches-image-1_4VMNlaFoP.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-brooches/how-to-identify-antique-brooches-image-1_4VMNlaFoP.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique brooches showing various periods, materials,
+      and clasp styles for identification
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/how-to-identify-antique-brooches'
+  keywords:
+    - antique brooch identification
+    - vintage brooch clasps
+    - dating antique jewelry
+    - brooch hallmarks
+    - antique pin valuation
+    - Victorian brooch styles
+    - jewelry maker marks
+  articleSection: Jewelry
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com/'
+  about:
+    '@type': Thing
+    name: Antique Brooches
+    description: Historical decorative pins worn as jewelry
+  HowTo:
+    '@type': HowTo
+    name: How to Identify Antique Brooches
+    description: Methods to accurately date and value vintage brooch pins
+    tool:
+      - '@type': HowToTool
+        name: Knowledge of clasp types
+    step:
+      - '@type': HowToStep
+        name: Examine Fastening Mechanisms
+        text: >-
+          Study the brooch's clasp, hinge, and pin styles. C-clasps indicate
+          early to mid-1800s pieces, while safety clasps suggest late 1800s to
+          early 1900s manufacture.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-brooches/how-to-identify-antique-brooches-image-2_I4lA01Z3A.png
+      - '@type': HowToStep
+        name: Identify C-Clasps
+        text: >-
+          Look for simple, non-mechanical designs resembling the letter 'C' that
+          wrap around the pin stem, typically found in Georgian through
+          Victorian period pieces.
+      - '@type': HowToStep
+        name: Recognize Safety Clasps
+        text: >-
+          Identify later pieces by looking for added safety features like
+          rollers on C-clasps (late 1800s) or trombone catches (1890s) that
+          completely encase the pin tip.
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What are C-Clasps on antique brooches?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            C-clasps are one of the earliest brooch fastening mechanisms, widely
+            used from the Georgian era through the Victorian period (early to
+            mid-1800s). They resemble the letter 'C' and wrap around the pin
+            stem to secure it. Key identification points include a simple
+            non-mechanical design, no safety mechanism, hand-crafted appearance
+            rather than machine-made, and usually accompanied by a long,
+            straight pin.
+      - '@type': Question
+        name: When were safety clasps introduced on brooches?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Safety clasps were introduced in the late 1800s to early 1900s. As
+            the 19th century progressed, jewelers began adding safety features
+            to brooch clasps. Simple C-clasps evolved to include a small roller
+            that prevented the pin from slipping out. By the 1890s, the
+            'trombone catch' appeared—a tube-like structure that completely
+            encased the pin tip. The early 1900s saw the introduction of safety
+            clasps with locking mechanisms.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Brooch Identification" level="2" >}}

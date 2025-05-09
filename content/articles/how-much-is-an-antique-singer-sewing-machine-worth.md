@@ -40,8 +40,15 @@ structured_data:
     Discover how much your antique Singer sewing machine is worth. Learn about
     value factors, identification tips, and current market prices for vintage
     Singer models.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-singer-sewing-machine-worth/how-much-is-an-antique-singer-sewing-machine-worth-image-1_LryzYLduL.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-singer-sewing-machine-worth/how-much-is-an-antique-singer-sewing-machine-worth-image-1_LryzYLduL.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate antique Singer sewing machine with intricate gold decoration on
+      black cast iron base
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,10 +58,34 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-06-26T14:30:00.000Z'
   dateModified: '2023-06-26T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/how-much-is-an-antique-singer-sewing-machine-worth
+  keywords:
+    - antique Singer sewing machine value
+    - vintage Singer sewing machine worth
+    - Singer model identification
+    - collectible sewing machine prices
+    - Singer serial number lookup
+    - antique sewing machine appraisal
+    - rare Singer models
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Affects the Value of Antique Singer Sewing Machines?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors determine how much your vintage Singer sewing
+            machine is worth: age and rarity, condition, completeness, model and
+            design, and whether it has its original cabinet or case.
+            Understanding these elements will help you better assess your
+            machine's potential value.
 ---
 
 ## Introduction to Antique Singer Sewing Machines

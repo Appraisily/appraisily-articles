@@ -43,8 +43,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-13T14:30:00.000Z'
   dateModified: '2023-06-13T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-singer-sewing-machine/value-of-antique-singer-sewing-machine-image-1_1U1k7yoLs.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-singer-sewing-machine/value-of-antique-singer-sewing-machine-image-1_1U1k7yoLs.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate black and gold antique Singer sewing machine with decorative decals
+      from the early 1900s
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,78 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/value-of-antique-singer-sewing-machine
+  keywords:
+    - antique Singer sewing machine value
+    - vintage Singer sewing machine identification
+    - collectible Singer machine prices
+    - Singer serial number lookup
+    - rare Singer models worth
+    - antique sewing machine appraisal
+    - Singer treadle machine value
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Finding the Serial Number on an Antique Singer Sewing Machine
+  description: >-
+    How to locate the serial number on your vintage Singer sewing machine for
+    proper identification and valuation
+  step:
+    - '@type': HowToStep
+      name: Check the front of the machine
+      text: >-
+        Look for a small plate or direct stamping on the front of the machine
+        where the serial number is often located
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/value-of-antique-singer-sewing-machine/value-of-antique-singer-sewing-machine-image-2_7xY9-DINZ.png
+    - '@type': HowToStep
+      name: Inspect the back or bottom
+      text: >-
+        If not on the front, check the back or bottom of the machine for the
+        serial number
+    - '@type': HowToStep
+      name: Look inside the wooden case
+      text: >-
+        For earlier models, the serial number may be located inside the wooden
+        case or cabinet
+    - '@type': HowToStep
+      name: Check the motor
+      text: 'For electric models, the serial number might be stamped on the motor'
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What is the value range of antique Singer sewing machines?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Antique Singer sewing machines can range dramatically in value
+          depending on their age, condition, rarity, and special features. While
+          most vintage models sell for between $50 and $500, rare or exceptional
+          specimens can command prices in the thousands. Any Singer machine
+          dating back to the 1960s or earlier in good working condition
+          typically starts at around $100 in value.
+    - '@type': Question
+      name: What factors affect the value of antique Singer sewing machines?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The key factors that affect the value of antique Singer sewing
+          machines include: age (older models generally more valuable),
+          condition (functioning machines worth more), rarity (limited
+          production runs command premiums), completeness (original accessories
+          increase value), and decorative elements (ornate decals enhance
+          appeal).
+    - '@type': Question
+      name: Where can I find the serial number on my Singer sewing machine?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The serial number on Singer machines can typically be found in one of
+          these locations: on the front of the machine (often on a small plate
+          or stamped directly), on the back or bottom of the machine, inside the
+          wooden case or cabinet (on earlier models), or on the motor (for
+          electric models).
 ---
 
 ## Introduction to Antique Singer Sewing Machines

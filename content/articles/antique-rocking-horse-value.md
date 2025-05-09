@@ -44,14 +44,55 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-05-22T14:30:00.000Z'
   dateModified: '2024-05-22T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-rocking-horse-value/antique-rocking-horse-value-image-1_lcuWfhr2Q.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-rocking-horse-value/antique-rocking-horse-value-image-1_lcuWfhr2Q.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare Victorian-era antique rocking horse with authentic horsehair mane and
+      original paint finish
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/img/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-rocking-horse-value'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes a Rocking Horse Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique rocking horse is determined by several key
+            factors, including age, maker, condition, and rarity. Antique
+            rocking horses typically date from the early 19th century through
+            the early 20th century. True antiques (those over 100 years old)
+            generally command higher prices than vintage models. Key value
+            factors include: Age and Period (Victorian and Edwardian horses from
+            1837-1910 are highly sought after), Maker (horses by renowned
+            manufacturers like F.H. Ayres or Lines Brothers command premium
+            prices), Condition (original paint, mane, tail, and minimal
+            restoration significantly impact value), Rarity (unusual designs,
+            large sizes, or limited production models are more valuable), and
+            Provenance (documentation of ownership history, especially ties to
+            notable families, increases value).
+      - '@type': Question
+        name: What are the Current Market Values for Antique Rocking Horses?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Authentic antique rocking horses can range from several hundred to
+            several thousand dollars depending on condition, maker, and rarity.
+            The market for antique rocking horses remains strong, with
+            well-preserved examples from notable makers fetching impressive
+            prices. Basic vintage rocking horses from the 1940s-1960s are at the
+            lower end of the price spectrum.
 ---
 
 ![Beautifully restored Victorian-era antique rocking horse with real horsehair mane and tail](https://ik.imagekit.io/appraisily/SEO/antique-rocking-horse-value/antique-rocking-horse-value-image-1_lcuWfhr2Q.png)

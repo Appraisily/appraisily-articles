@@ -37,8 +37,15 @@ structured_data:
     Discover the fascinating world of antique weathervanes, their history,
     identification tips, and current market values. Learn what makes these folk
     art treasures so valuable to collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-weathervanes/value-of-antique-weathervanes-image-1_iPDhw98D3.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-weathervanes/value-of-antique-weathervanes-image-1_iPDhw98D3.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare 19th century copper rooster weathervane with authentic verdigris
+      patina
   author:
     '@type': Organization
     name: Appraisily Team
@@ -48,9 +55,36 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-06-19T14:30:00.000Z'
   dateModified: '2023-06-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antique-weathervanes'
+  keywords:
+    - antique weathervane values
+    - copper weathervanes
+    - folk art weathervanes
+    - American weathervane history
+    - collectible weathervanes
+    - weathervane identification
+    - vintage weathervane prices
+  about:
+    '@type': Thing
+    name: Antique Weathervanes
+    description: >-
+      Historical wind direction indicators that have become valuable collectible
+      folk art
+  mentions:
+    - '@type': Thing
+      name: J.L. Mott Iron Works Indian Chief
+      description: Record-breaking weathervane that sold for $5.84 Million in 2006
+    - '@type': Thing
+      name: J.W. Fiske
+      description: Notable American weathervane manufacturer during the golden age
+    - '@type': Thing
+      name: L.W. Cushing
+      description: Prominent weathervane manufacturer from the industrial revolution period
+  temporalCoverage: 1500 BCE/2023
 ---
 
 ![Antique copper rooster weathervane with natural patina](https://ik.imagekit.io/appraisily/SEO/value-of-antique-weathervanes/value-of-antique-weathervanes-image-1_iPDhw98D3.png)

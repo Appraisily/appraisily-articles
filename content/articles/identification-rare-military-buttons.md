@@ -44,14 +44,41 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-21T14:30:00.000Z'
   dateModified: '2023-07-21T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identification-rare-military-buttons/identification-rare-military-buttons-image-1_UsP5NWNft.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identification-rare-military-buttons/identification-rare-military-buttons-image-1_UsP5NWNft.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique military uniform buttons displaying various regimental insignias,
+      eagles and historical markings from different eras
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://articles.appraisily.com/articles/identification-rare-military-buttons
+  keywords:
+    - rare military button identification
+    - antique uniform buttons
+    - Civil War button values
+    - military button backmarks
+    - collectible military insignia
+    - military button authentication
+    - historical uniform artifacts
+  articleSection: Militaria
+  about:
+    '@type': Thing
+    name: Military Collectibles
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
 ---
 
 Military buttons represent one of the most accessible yet historically significant artifacts that collectors can acquire. These small metal treasures have adorned military uniforms across centuries, each telling stories of battles fought, regiments disbanded, and nations transformed. For collectors and history enthusiasts, identifying rare military buttons can be both rewarding and challenging.

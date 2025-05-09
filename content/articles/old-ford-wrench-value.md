@@ -39,8 +39,15 @@ structured_data:
     Discover the value of vintage Ford wrenches from Model T to later models.
     Learn about identifying marks, price ranges, and where to buy or sell these
     automotive collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-ford-wrench-value/old-ford-wrench-value-image-1_YIYybo64L.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-ford-wrench-value/old-ford-wrench-value-image-1_YIYybo64L.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Ford wrenches collection showing script logos and various models
+      from Model T era
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,15 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-08-28T14:30:00.000Z'
   dateModified: '2023-08-28T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-ford-wrench-value'
+  keywords: >-
+    old Ford wrench value, vintage Ford tool prices, Model T Ford wrenches, Ford
+    script wrench identification, automotive tool collectibles, antique Ford
+    tools, Ford wrench collecting guide
 ---
 
 # Vintage Ford Wrench Value Guide: Identifying and Valuing Tool Collectibles

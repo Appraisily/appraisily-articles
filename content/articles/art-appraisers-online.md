@@ -39,8 +39,15 @@ structured_data:
     Discover the best online art appraisers and digital valuation services.
     Learn how to get accurate art appraisals online, compare leading providers,
     and understand the costs involved.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-appraisers-online/art-appraisers-online-image-1_JZWhdxsRf.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-appraisers-online/art-appraisers-online-image-1_JZWhdxsRf.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Art expert analyzing painting details on tablet for professional online
+      art appraisal service
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,63 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-08-23T14:30:00.000Z'
   dateModified: '2024-08-23T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/art-appraisers-online'
+  keywords:
+    - online art appraisers
+    - digital art valuation
+    - virtual art authentication
+    - online painting appraisal
+    - art value assessment
+    - remote artwork evaluation
+    - professional art appraisal services
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How Online Art Appraisals Work
+  description: >-
+    The process of getting artwork appraised online typically follows a
+    standardized workflow designed to gather necessary information while making
+    the experience convenient for art owners.
+  image: >-
+    https://ik.imagekit.io/appraisily/SEO/art-appraisers-online/art-appraisers-online-image-2_9gYsT8za6.png
+  step:
+    - '@type': HowToStep
+      name: Photo Submission
+      text: >-
+        You'll need to take clear, high-resolution photographs of your artwork
+        from multiple angles, including the front, back, signature, details of
+        any damage, and any identifying marks.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/art-appraisers-online/art-appraisers-online-image-2_9gYsT8za6.png
+    - '@type': HowToStep
+      name: Artwork Information
+      text: >-
+        Provide details about the piece, including dimensions, medium, artist
+        (if known), approximate age, provenance, and any documentation or
+        certificates of authenticity you possess.
+    - '@type': HowToStep
+      name: Payment
+      text: >-
+        Depending on the service, you'll pay a fee based on the type of
+        appraisal needed. Some platforms offer free initial assessments, while
+        comprehensive valuations typically have associated costs.
+    - '@type': HowToStep
+      name: Expert Review
+      text: >-
+        Art specialists with relevant expertise evaluate your submission,
+        research comparable works, and analyze current market trends.
+    - '@type': HowToStep
+      name: Valuation Delivery
+      text: >-
+        You'll receive a digital appraisal document, typically within a few days
+        to a couple of weeks, detailing the estimated value and supporting
+        information.
 ---
 
 ![Professional examining artwork on digital device for online art appraisal](https://ik.imagekit.io/appraisily/SEO/art-appraisers-online/art-appraisers-online-image-1_JZWhdxsRf.png)

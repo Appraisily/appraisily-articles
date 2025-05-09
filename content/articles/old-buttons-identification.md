@@ -43,8 +43,6 @@ structured_data:
     Learn how to identify valuable antique buttons with our comprehensive guide
     covering materials, styles, marks, and more. Includes price ranges for
     collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-buttons-identification/old-buttons-identification-image-1_KKM0Yba4W.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,8 +52,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-12T14:30:00.000Z'
   dateModified: '2023-07-12T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-buttons-identification/old-buttons-identification-image-1_KKM0Yba4W.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique and vintage buttons showcasing various
+      materials, designs and historical periods
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-buttons-identification'
+  keywords: >-
+    antique button identification, vintage button values, collectible button
+    types, old button materials, rare button marks, button collecting guide,
+    historical button styles
 ---
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/old-buttons-identification/old-buttons-identification-image-1_KKM0Yba4W.png" alt="Collection of antique and vintage buttons showing various materials and designs" caption="Antique buttons come in countless materials, designs, and periods, each telling a unique story of their era" />}}

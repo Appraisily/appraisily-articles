@@ -39,8 +39,15 @@ structured_data:
     Discover the current market value of Lionel Barrymore art, from his gold
     foil etchings to original works. Learn about authentication, pricing
     factors, and where to buy or sell these collectible prints.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/lionel-barrymore-art-value/lionel-barrymore-art-value-image-1_iRM4T_f82.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/lionel-barrymore-art-value/lionel-barrymore-art-value-image-1_iRM4T_f82.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Lionel Barrymore gold foil etching prints of coastal scenes in
+      ornate frames showing their collectible value
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,51 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/lionel-barrymore-art-value'
+  about:
+    '@type': Thing
+    name: Lionel Barrymore Art
+    description: >-
+      Artwork created by actor Lionel Barrymore, particularly his popular gold
+      foil etchings and maritime prints
+    sameAs: 'https://en.wikipedia.org/wiki/Lionel_Barrymore'
+  keywords: >-
+    Lionel Barrymore art value, Lionel Barrymore gold foil etchings, Lionel
+    Barrymore print prices, collectible Barrymore etchings, maritime art
+    collectibles, Hollywood artist memorabilia, vintage Barrymore artwork
+  articleSection: Artwork Appraisal
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: >-
+          What is the difference between Lionel Barrymore's original etchings
+          and reproductions?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Barrymore created original etchings using traditional etching
+            techniques, where he drew directly onto metal plates that were then
+            used for printing. These original impressions from his plates are
+            the most valuable form of his artwork. Most Barrymore pieces in
+            circulation are reproductions, with the famous gold foil etchings
+            being the most common. These decorative pieces were produced after
+            his death by various companies, most notably by Brown & Bigelow, who
+            created sets of gold-tinted prints on foil paper. Original etchings
+            typically command significant premiums compared to the
+            reproductions, often selling for thousands rather than hundreds of
+            dollars.
+      - '@type': Question
+        name: What are the most popular subjects in Lionel Barrymore's artwork?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Barrymore's artwork predominantly features nautical and coastal
+            themes, reflecting his love of the sea. Common subjects include: 1.
+            Fishing vessels and sailing ships, 2. Harbors and coastal villages,
+            3. Lighthouses and maritime scenes, 4. Rural landscapes. His most
+            popular gold foil etchings include titles such as: 'San Pedro',
+            'Point Mugu', 'Old Boat Works', 'Point Pleasant', 'Nantucket', 'Old
+            Nantucket', 'Rocky Point', and 'The Old Farm'.
 ---
 
 ## Introduction to Lionel Barrymore's Artistic Legacy

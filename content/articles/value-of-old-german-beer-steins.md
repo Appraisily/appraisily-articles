@@ -27,14 +27,72 @@ keywords:
   - worth
   - price guide
   - how much
-structured_data: >-
-  {"@context":"https://schema.org","@type":"Article","headline":"The Ultimate
-  Guide to Old German Beer Stein Values: Identification &
-  Worth","description":"Discover the value of old German beer steins with our
-  comprehensive guide covering identification marks, pricing factors, and expert
-  appraisal
-  tips.","image":"https://ik.imagekit.io/appraisily/SEO/value-of-old-german-beer-steins/value-of-old-german-beer-steins-image-1_sY9xgTr7v.png","author":{"@type":"Organization","name":"Appraisily
-  Team"},"publisher":{"@type":"Organization","name":"Appraisily","logo":{"@type":"ImageObject","url":"https://appraisily.com/logo.png"}},"datePublished":"2023-09-04T10:30:00-04:00","dateModified":"2023-09-04T10:30:00-04:00"}
+structured_data:
+  '@context': 'https://schema.org'
+  '@type': Article
+  headline: 'The Ultimate Guide to Old German Beer Stein Values: Identification & Worth'
+  description: >-
+    Discover the value of old German beer steins with our comprehensive guide
+    covering identification marks, pricing factors, and expert appraisal tips.
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  datePublished: '2023-09-04T14:30:00.000Z'
+  dateModified: '2023-09-04T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-german-beer-steins/value-of-old-german-beer-steins-image-1_sY9xgTr7v.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique German beer steins with decorative lids and
+      colorful designs
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://appraisily.com/value-of-old-german-beer-steins'
+  keywords:
+    - appraisal
+    - value
+    - collectible
+    - antique
+    - worth
+    - price guide
+    - how much
+    - German beer steins
+    - beer stein values
+    - antique steins
+  articleSection: Collectibles
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-title
+      - .article-content
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com/'
+  about:
+    '@type': Thing
+    name: German Beer Steins
+    description: >-
+      Traditional German drinking vessels with hinged lids, often collectible
+      for their craftsmanship and historical significance.
+  mentions:
+    - '@type': Thing
+      name: Steinkrug
+      description: German term for beer stein
+    - '@type': Thing
+      name: Renaissance period
+      description: Historical period when beer steins became more decorative
 ---
 
 Are you curious about the value of an old German beer stein sitting in your attic or displayed on your shelf? These iconic drinking vessels have captivated collectors for generations, with some rare examples fetching thousands of dollars at auction. Understanding what makes a German beer stein valuable requires knowledge of their history, craftsmanship, and distinctive characteristics.

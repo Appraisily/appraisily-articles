@@ -39,8 +39,15 @@ structured_data:
     Expert guide to determining antique mantel clock values. Learn to identify
     valuable makers, assess condition, understand market trends, and discover
     what makes certain timepieces worth thousands.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-mantel-clocks/value-of-antique-mantel-clocks-image-1_aSqJfl7ek.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-mantel-clocks/value-of-antique-mantel-clocks-image-1_aSqJfl7ek.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate French marble antique mantel clock with gilded bronze decorations
+      from the 19th century
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,17 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-08-02T14:30:00.000Z'
   dateModified: '2023-08-02T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/value-of-antique-mantel-clocks'
+  keywords:
+    - antique mantel clock value
+    - antique clock appraisal
+    - vintage mantel clock worth
+    - collectible mantel timepieces
+    - French mantel clock values
+    - Seth Thomas clock identification
+    - antique clock market prices
 ---
 
 ## Introduction to Antique Mantel Clocks

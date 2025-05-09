@@ -43,8 +43,15 @@ structured_data:
     Learn how to identify old skeleton keys and other antique key types. Our
     expert guide covers identification methods, value determinants, and
     historical significance.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-key-identifier/old-key-identifier-image-1_bKnUoN2Nk.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-key-identifier/old-key-identifier-image-1_bKnUoN2Nk.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Assortment of vintage skeleton keys and antique bit keys showing different
+      designs and patinas
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,14 @@ structured_data:
   datePublished: '2023-07-21T14:30:00.000Z'
   dateModified: '2023-07-21T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-key-identifier'
+  keywords:
+    - old key identifier
+    - antique key identification
+    - skeleton key value
+    - vintage key types
+    - bit key identification
+    - warded lock keys
+    - antique key collecting
 ---
 
 ## Introduction to Antique Key Identification

@@ -43,8 +43,14 @@ structured_data:
   datePublished: '2023-06-03T14:30:00.000Z'
   dateModified: '2023-06-03T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/online-antique-appraisal-free/online-antique-appraisal-free-image-1_lyjVaO62E.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person photographing antique collectibles for free online appraisal
+      service
   publisher:
     '@type': Organization
     name: Appraisily
@@ -52,6 +58,56 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/online-antique-appraisal-free'
+  keywords:
+    - free online antique appraisal
+    - antique valuation no cost
+    - virtual collectible assessment
+    - heritage item identification
+    - digital antique authentication
+    - free heirloom appraisal online
+    - thrift store finds valuation
+  about:
+    '@type': Thing
+    name: Antique Appraisals
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  hasPart:
+    - '@type': FAQPage
+      mainEntity:
+        - '@type': Question
+          name: How do free online antique appraisals work?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              Free online antique appraisals typically involve uploading clear
+              photos of your item, providing a detailed description including
+              condition, size, age, and provenance, and submitting your request
+              to specialists who will evaluate your item and provide an
+              estimated valuation.
+    - '@type': HowTo
+      name: How to Use Heritage Auctions Free Appraisals
+      description: Steps to get a free online appraisal from Heritage Auctions
+      step:
+        - '@type': HowToStep
+          name: Upload photos
+          text: Upload clear photos of your item
+          position: 1
+        - '@type': HowToStep
+          name: Provide details
+          text: >-
+            Provide a detailed description including condition, size, age, and
+            provenance
+          position: 2
+        - '@type': HowToStep
+          name: Submit request
+          text: Submit your request and typically receive a response
+          position: 3
+      image:
+        '@type': ImageObject
+        url: >-
+          https://ik.imagekit.io/appraisily/SEO/online-antique-appraisal-free/online-antique-appraisal-free-image-2_3_Z8KmAJe.png
 ---
 
 ![Person photographing antique items for online appraisal](https://ik.imagekit.io/appraisily/SEO/online-antique-appraisal-free/online-antique-appraisal-free-image-1_lyjVaO62E.png)

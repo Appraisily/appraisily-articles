@@ -40,8 +40,15 @@ structured_data:
     Comprehensive guide to online art appraisal services, including trusted
     platforms, pricing, accuracy comparison, and expert tips for getting artwork
     professionally valued remotely.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/get-art-appraised-online/get-art-appraised-online-image-2_cygTKGM_Lr.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/get-art-appraised-online/get-art-appraised-online-image-2_cygTKGM_Lr.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person submitting artwork photos to an online art appraisal service for
+      professional valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,41 @@ structured_data:
   datePublished: '2023-06-19T14:30:00.000Z'
   dateModified: '2023-06-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/get-art-appraised-online'
+  about:
+    '@type': Thing
+    name: Art Appraisal
+  keywords: >-
+    online art appraisal services, digital art valuation, remote artwork
+    evaluation, professional art authentication online, virtual art appraisal
+    costs, online fine art valuation, art appraisal websites
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is an Online Art Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An online art appraisal is a professional evaluation of artwork
+            conducted digitally, without the appraiser physically examining the
+            piece. Instead, collectors submit high-quality photographs and
+            detailed information about their artwork through specialized
+            websites or platforms, receiving expert assessments and valuations
+            in return.
+      - '@type': Question
+        name: When to Get Your Art Appraised Online?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            There are several circumstances when obtaining an online art
+            appraisal makes practical sense: 1. Insurance purposes - To ensure
+            proper coverage for valuable artwork, 2. Estate planning - For
+            distributing art assets appropriately, 3. Potential sale - To
+            determine fair market value before listing, 4. Donation - For tax
+            deduction documentation, 5. Authentication concerns - To verify
+            authenticity of a piece, 6. Curiosity - Simply learning more about
+            your collection's worth
 ---
 
 ## Introduction to Online Art Appraisals

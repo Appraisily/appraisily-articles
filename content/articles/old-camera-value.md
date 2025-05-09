@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of your vintage camera with our comprehensive guide
     covering brands like Leica, Canon, and Nikon. Learn what factors impact old
     camera values and how to get the best price.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-camera-value/old-camera-value-image-1_RvsjNVgnu.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-camera-value/old-camera-value-image-1_RvsjNVgnu.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage cameras including Leica, Nikon, and Canon models
+      with price tags showing their collector value
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,47 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-10-07T14:30:00.000Z'
   dateModified: '2023-10-07T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-camera-value'
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Makes Old Cameras Valuable?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The value of vintage cameras is determined by several factors
+          including brand and model prestige, condition, rarity, and current
+          market demand. Premium manufacturers like Leica, Hasselblad, Nikon,
+          Rolleiflex, and Contax typically command higher prices on the
+          collector's market.
+    - '@type': Question
+      name: Which vintage camera brands are most valuable?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The most valuable vintage camera brands include Leica (with some rare
+          models selling for six figures), Hasselblad (famous for medium format
+          cameras and NASA association), Nikon (especially early rangefinder
+          models and professional F-series SLRs), Rolleiflex (twin-lens reflex
+          cameras with exceptional build quality), and Contax (premium
+          rangefinders and SLRs with Zeiss lenses).
+    - '@type': Question
+      name: How does condition affect vintage camera value?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The physical and mechanical condition of a vintage camera dramatically
+          impacts its value. A camera in excellent or mint condition can be
+          worth two to five times more than the same model in poor condition.
+          Important factors include working mechanical functions, clear lens
+          without fungus or scratches, accurate light meter, and overall
+          cosmetic appearance.
 ---
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/old-camera-value/old-camera-value-image-1_RvsjNVgnu.png" alt="Collection of vintage cameras including Leica, Nikon, and Canon models with price tags" caption="Vintage cameras can range from decorative pieces worth $20 to collector's items valued at thousands" >}}

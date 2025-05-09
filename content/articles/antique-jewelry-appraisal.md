@@ -43,8 +43,15 @@ structured_data:
     Learn everything about antique jewelry appraisal, from finding qualified
     appraisers to understanding valuation methods, authentication techniques,
     and what determines the true value of your heirloom pieces.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-jewelry-appraisal/antique-jewelry-appraisal-image-1_ezByW-kwj.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-jewelry-appraisal/antique-jewelry-appraisal-image-1_ezByW-kwj.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional jeweler using magnification loupe to examine intricate
+      details of vintage brooch during formal antique jewelry appraisal
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,63 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-jewelry-appraisal'
+  about:
+    '@type': Thing
+    name: Antique Jewelry Appraisal
+  keywords: >-
+    antique jewelry appraisal, heirloom jewelry valuation, vintage jewelry
+    authentication, estate jewelry worth, antique jewelry market value, jewelry
+    appraisal process, fine jewelry assessment
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why should I get my antique jewelry appraised?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            There are several key reasons to have your antique jewelry
+            professionally appraised: 1) Insurance Coverage: Protect your
+            valuable pieces with adequate insurance based on accurate valuation.
+            2) Estate Planning: Ensure fair distribution of assets and
+            appropriate tax assessment. 3) Resale Potential: Understand the
+            current market value before selling. 4) Divorce Settlements:
+            Document fair asset division. 5) Authentication: Verify authenticity
+            and identify potential reproductions or alterations. 6) Personal
+            Knowledge: Learn more about the history and significance of your
+            pieces.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: Antique Jewelry Appraisal Process
+    step:
+      - '@type': HowToStep
+        name: Determine the purpose of your appraisal
+        text: >-
+          Different appraisal types serve different purposes. Decide whether you
+          need an appraisal for insurance coverage, estate planning, resale
+          potential, divorce settlements, authentication, or personal knowledge.
+      - '@type': HowToStep
+        name: Find a qualified appraiser
+        text: >-
+          Look for an appraiser with credentials in antique jewelry, experience
+          with historical pieces, and proper certification.
+      - '@type': HowToStep
+        name: Prepare your jewelry for appraisal
+        text: >-
+          Clean your jewelry gently and gather any documentation you have about
+          its history, previous appraisals, or provenance.
+      - '@type': HowToStep
+        name: Attend the appraisal appointment
+        text: >-
+          Bring your jewelry and documentation to the appointment where the
+          appraiser will examine the pieces using specialized equipment.
+      - '@type': HowToStep
+        name: Receive and review your appraisal document
+        text: >-
+          The final appraisal document should include detailed descriptions,
+          photographs, valuation, and the appraiser's credentials and signature.
 ---
 
 ![Professional jeweler examining antique brooch with loupe during appraisal process](https://ik.imagekit.io/appraisily/SEO/antique-jewelry-appraisal/antique-jewelry-appraisal-image-1_ezByW-kwj.png)

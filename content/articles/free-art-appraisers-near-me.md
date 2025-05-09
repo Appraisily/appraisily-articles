@@ -43,13 +43,27 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-15T14:30:00.000Z'
   dateModified: '2023-07-15T14:30:00.000Z'
-  image: 'https://ik.imagekit.io/appraisily/Articles/art-appraisal-process.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/Articles/art-appraisal-process.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser examining a painting with magnifying glass for
+      valuation
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/free-art-appraisers-near-me'
+  keywords: >-
+    free art appraisers near me, no-cost art valuation, free artwork
+    authentication, local art appraisal services, online free art appraisal,
+    professional painting valuation, art collection assessment
 ---
 
 {{< content-modules/section-header title="Introduction to Free Art Appraisal Services" level="2" >}}

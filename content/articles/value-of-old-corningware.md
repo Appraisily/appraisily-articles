@@ -39,8 +39,15 @@ structured_data:
     Discover what makes vintage CorningWare valuable, from rare patterns
     fetching $10,000+ to common pieces worth $20-100. Learn to identify, date,
     and price your old CorningWare collection.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-corningware/value-of-old-corningware-image-1_M7E_VU0gq.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-corningware/value-of-old-corningware-image-1_M7E_VU0gq.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare vintage Blue Cornflower CorningWare casserole dish with original lid
+      from the 1960s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,14 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-old-corningware'
+  keywords:
+    - vintage CorningWare value
+    - rare CorningWare patterns
+    - Blue Cornflower CorningWare worth
+    - collectible Pyroceram cookware
+    - CorningWare price guide
+    - valuable kitchen collectibles
+    - antique CorningWare identification
 ---
 
 {{< content-modules/section-header title="Introduction to Vintage CorningWare" level="2" >}}

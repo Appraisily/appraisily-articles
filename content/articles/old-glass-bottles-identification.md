@@ -43,8 +43,6 @@ structured_data:
     Comprehensive guide to identifying and valuing antique glass bottles through
     examination of pontil marks, embossing, colors, seams, and manufacturing
     techniques that reveal their age, origin and collectible value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-glass-bottles-identification/old-glass-bottles-identification-image-1_JWpxN2guC.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +55,61 @@ structured_data:
   datePublished: '2024-07-25'
   dateModified: '2024-07-25'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-glass-bottles-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-glass-bottles-identification/old-glass-bottles-identification-image-1_JWpxN2guC.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique glass bottles displaying various colors,
+      pontil marks, embossing and manufacturing techniques for identification
+  about:
+    '@type': Thing
+    name: Antique Glass Bottles
+    description: >-
+      Historical glass bottles with collectible value based on age,
+      manufacturing techniques, and rarity
+  keywords: >-
+    old glass bottles identification, antique bottle dating techniques, pontil
+    mark identification, bottle embossing value, vintage glass bottle colors
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  HowTo:
+    '@type': HowTo
+    name: How to Date Old Glass Bottles
+    description: >-
+      Step-by-step guide to identifying the age of antique glass bottles by
+      examining manufacturing methods and physical characteristics
+    step:
+      - '@type': HowToStep
+        name: Examine Manufacturing Methods and Mold Seams
+        text: >-
+          Look for mold seams on the sides of the bottle to determine whether it
+          was hand-blown, mouth-blown into a mold, or machine-made. Free-blown
+          bottles (pre-1860s) have irregular shapes and lack mold seams
+          entirely, while mouth-blown molded bottles (1860s-1910s) show seams
+          that disappear near the neck and lip.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/old-glass-bottles-identification/old-glass-bottles-identification-image-2_Br9dQtOjye.png
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: >-
+          Have you ever discovered an old glass bottle and wondered about its
+          history, age, or potential value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Whether found during a home renovation, buried in a backyard, or
+            inherited from family, antique bottles can be fascinating windows
+            into the past. With millions of bottles produced throughout history,
+            identifying and dating these glass treasures requires knowledge of
+            specific characteristics and manufacturing techniques that evolved
+            over time.
 ---
 
 Have you ever discovered an old glass bottle and wondered about its history, age, or potential value? Whether found during a home renovation, buried in a backyard, or inherited from family, antique bottles can be fascinating windows into the past. With millions of bottles produced throughout history, identifying and dating these glass treasures requires knowledge of specific characteristics and manufacturing techniques that evolved over time.

@@ -43,8 +43,15 @@ structured_data:
     Learn how to accurately appraise your antique and vintage jewelry with
     professional techniques and determine if your heirloom pieces are valuable
     treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-jewelry-appraisal/old-jewelry-appraisal-image-1_g6osjtIFu.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-jewelry-appraisal/old-jewelry-appraisal-image-1_g6osjtIFu.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining antique jewelry collection including
+      vintage rings, necklaces and ornate brooches
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,9 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-11-02T14:30:00.000Z'
   dateModified: '2023-11-02T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-jewelry-appraisal'
 ---
 
 Have you recently discovered a stunning piece of jewelry tucked away in your grandmother's keepsake box? Perhaps you've inherited an estate with various jewelry pieces whose value remains a mystery. Understanding the true worth of old jewelry requires more than just a casual glance—it demands a systematic approach that considers craftsmanship, materials, historical context, and current market conditions.

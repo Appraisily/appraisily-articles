@@ -40,8 +40,15 @@ structured_data:
     Learn how to identify the most valuable antique duck decoys, discover key
     makers like Mason and Crowell, and determine what makes a decoy collectible
     in this comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/most-wanted-antique-duck-decoy-identification/most-wanted-antique-duck-decoy-identification-image-2_OtcJ-D2iT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/most-wanted-antique-duck-decoy-identification/most-wanted-antique-duck-decoy-identification-image-2_OtcJ-D2iT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique wooden duck decoys from renowned American carvers showing
+      authentic patina and craftsmanship
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,14 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/most-wanted-antique-duck-decoy-identification
+  keywords:
+    - antique duck decoy identification
+    - valuable duck decoys
+    - Mason decoy values
+    - Elmer Crowell decoys
+    - folk art duck decoys
+    - wooden hunting decoys
+    - collectible waterfowl decoys
 ---
 
 Duck decoys are far more than functional hunting tools—they're a cherished form of American folk art with a rich history and avid collector base. The most prized antique decoys can fetch tens of thousands or even hundreds of thousands of dollars at auction. For collectors, understanding how to identify quality, age, and origin is essential for building a meaningful collection or assessing the value of inherited pieces.

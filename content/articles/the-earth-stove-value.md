@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of vintage Earth Stoves from $50 to $300+. Learn
     about the Earth Stove 100 Series, model identification, and factors that
     affect pricing.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/the-earth-stove-value/the-earth-stove-value-image-1_tr_xXi7Gb.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/the-earth-stove-value/the-earth-stove-value-image-1_tr_xXi7Gb.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Earth Stove 100 Series wood burning stove showing the firebox with
+      door open
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,20 @@ structured_data:
   datePublished: '2023-05-20T14:30:00.000Z'
   dateModified: '2023-05-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/the-earth-stove-value'
+  about:
+    '@type': Thing
+    name: Earth Stove
+    description: >-
+      Vintage wood-burning stoves known for their durability and efficient
+      heating capabilities
+  keywords:
+    - Earth Stove value
+    - vintage Earth Stove worth
+    - Earth Stove 100 Series
+    - wood stove appraisal
+    - Earth Stove identification
+    - antique wood stove prices
+    - Earth Stove collectors guide
 ---
 
 Are you trying to determine the value of an Earth Stove you own or are thinking of purchasing? Known for their durability and efficient heating capabilities, Earth Stoves have developed a dedicated following among wood stove enthusiasts. This comprehensive guide will help you understand Earth Stove values, identify different models, and determine what your stove might be worth in today's market.

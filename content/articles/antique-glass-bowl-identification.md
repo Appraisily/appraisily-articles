@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-21T14:30:00.000Z'
   dateModified: '2023-06-21T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-glass-bowl-identification/antique-glass-bowl-identification-image-1_qP4lXCNyL.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-glass-bowl-identification/antique-glass-bowl-identification-image-1_qP4lXCNyL.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique colored glass bowl displaying distinctive pattern and
+      manufacturing marks for identification
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,14 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-glass-bowl-identification'
+  keywords:
+    - antique glass bowl identification
+    - vintage glass bowl markings
+    - collectible glassware patterns
+    - antique glass valuation
+    - depression glass identification
+    - carnival glass bowls
+    - pontil marks glass
 ---
 
 Antique glass bowls are treasured collectibles that connect us to the past through their exquisite craftsmanship and historical significance. Whether you've inherited a family heirloom, discovered a potential gem at a flea market, or are an avid collector, identifying antique glass bowls correctly is crucial for proper attribution and valuation. This comprehensive guide will equip you with the knowledge and tools necessary to identify various types of antique glass bowls based on their distinctive characteristics, markings, patterns, colors, and manufacturing techniques.

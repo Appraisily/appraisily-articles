@@ -43,8 +43,6 @@ structured_data:
     Discover the hidden value of antique dishes with our comprehensive guide.
     Learn to identify valuable patterns, understand pricing factors, and find
     out which rare pieces are worth thousands.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-dishes-value-list/antique-dishes-value-list-image-1_FJEN856rG.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,11 +52,30 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
-  datePublished: '2024-08-22'
-  dateModified: '2024-08-22'
+      width: '600'
+      height: '60'
+  datePublished: '2024-08-22T14:30:00.000Z'
+  dateModified: '2024-08-22T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-dishes-value-list'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-dishes-value-list/antique-dishes-value-list-image-1_FJEN856rG.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique dish collection featuring rare porcelain patterns, blue
+      and white transferware, and collectible fine china tableware
+  keywords:
+    - antique dishes value list
+    - valuable vintage china patterns
+    - rare porcelain dish prices
+    - antique tableware identification
+    - collectible fine china worth
+    - blue and white antique plates
+    - valuable transferware dishes
 ---
 
 ![Collection of valuable antique dishes including blue and white patterns and fine porcelain tableware](https://ik.imagekit.io/appraisily/SEO/antique-dishes-value-list/antique-dishes-value-list-image-1_FJEN856rG.png)

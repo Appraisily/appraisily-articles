@@ -38,8 +38,15 @@ structured_data:
     Discover reputable antique gun appraisers in your area, learn what
     determines the value of historical firearms, and find out how to get
     accurate appraisals for your antique weapons.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-gun-appraisers-near-me/antique-gun-appraisers-near-me-image-1_j-8US7ECq.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-gun-appraisers-near-me/antique-gun-appraisers-near-me-image-1_j-8US7ECq.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique firearms collection featuring several vintage rifles and pistols
+      displayed in a wooden case
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-gun-appraisers-near-me'
+  about:
+    '@type': Thing
+    name: Antique Firearms Appraisal
+    description: >-
+      Professional valuation and authentication of historical firearms and
+      collectible weapons
+  keywords: >-
+    antique gun appraisers near me, historical firearms valuation, vintage
+    weapon appraisal, collectible gun experts, antique firearm authentication,
+    gun collection assessment
 ---
 
 ## Introduction: Why Professional Antique Gun Appraisals Matter

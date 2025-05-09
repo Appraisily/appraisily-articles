@@ -39,8 +39,15 @@ structured_data:
     Discover reliable art valuation services near you with our comprehensive
     guide to local art appraisers, pricing information, and what to expect
     during the appraisal process.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-valuation-near-me/art-valuation-near-me-image-1_SDgu4osy_.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-valuation-near-me/art-valuation-near-me-image-1_SDgu4osy_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining a painting's details with
+      magnifying glass in a gallery
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-06-20T14:30:00.000Z'
   dateModified: '2023-06-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/art-valuation-near-me'
+  keywords:
+    - art valuation near me
+    - local art appraisers
+    - professional art appraisal services
+    - fine art valuation cost
+    - artwork authentication
+    - art market value assessment
+    - certified art appraisers
 ---
 
 ## Introduction to Art Valuation Services

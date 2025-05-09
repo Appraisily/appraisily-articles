@@ -39,8 +39,15 @@ structured_data:
     Discover what makes old glass insulators valuable, from rare colors to
     manufacturers. Learn price ranges, identification tips, and where to sell
     your collection.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-glass-insulators-value/old-glass-insulators-value-image-1_tv8EqmpIB.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-glass-insulators-value/old-glass-insulators-value-image-1_tv8EqmpIB.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage glass insulators collection showcasing rare colors and historical
+      designs from telegraph and power lines
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,22 @@ structured_data:
   datePublished: '2024-07-06T14:30:00.000Z'
   dateModified: '2024-07-06T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-glass-insulators-value'
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What Are Glass Insulators?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Glass insulators were first widely used in the 1850s through the
+        mid-20th century to prevent electricity from grounding through wooden
+        utility poles. Before plastic and composite materials became standard,
+        glass was the material of choice for insulating telegraph, telephone,
+        and power lines. These insulators were produced in a variety of shapes,
+        sizes, and colors, primarily designed to isolate electrical wiring from
+        wooden poles. The most common design is a dome-shaped or 'bell-shaped'
+        structure with a threaded interior to attach to wooden pins or brackets.
 ---
 
 Once essential components of telegraph, telephone, and power lines, vintage glass insulators have transformed from utilitarian objects into sought-after collectibles. These colorful glass pieces that once kept America connected now connect collectors to history—and sometimes to significant value.

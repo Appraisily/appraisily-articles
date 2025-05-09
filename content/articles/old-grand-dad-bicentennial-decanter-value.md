@@ -40,8 +40,15 @@ structured_data:
     Discover the current market value of Old Grand-Dad Bicentennial Decanters
     from 1976. Learn what factors influence prices, authenticity verification,
     and where to buy or sell these rare bourbon collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-grand-dad-bicentennial-decanter-value/old-grand-dad-bicentennial-decanter-value-image-1_lJ2YhWvCJ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-grand-dad-bicentennial-decanter-value/old-grand-dad-bicentennial-decanter-value-image-1_lJ2YhWvCJ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      1976 Old Grand-Dad Bicentennial Decanter with original packaging and
+      commemorative 76 marking
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,8 +58,79 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-06T14:30:00.000Z'
   dateModified: '2023-11-06T14:30:00.000Z'
+  mainEntityOfPage: >-
+    https://articles.appraisily.com/articles/old-grand-dad-bicentennial-decanter-value
+  keywords:
+    - Old Grand-Dad Bicentennial Decanter value
+    - 1976 bourbon collectibles
+    - vintage whiskey decanters
+    - American Bicentennial bourbon
+    - National Distillers collectibles
+    - Kentucky Straight Bourbon collectibles
+    - rare bourbon decanter prices
+  about:
+    '@type': Thing
+    name: Bourbon Collectibles
+    description: Collectible bourbon decanters and limited edition whiskey bottles
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  offers:
+    - '@type': Offer
+      itemOffered:
+        '@type': Product
+        name: Complete Old Grand-Dad Bicentennial Decanter set
+        description: 'Unopened with intact seal, original box, and all paperwork'
+      price: 1200.00-3000.00
+      priceCurrency: USD
+      availability: 'https://schema.org/InStock'
+      url: >-
+        https://articles.appraisily.com/articles/old-grand-dad-bicentennial-decanter-value
+    - '@type': Offer
+      itemOffered:
+        '@type': Product
+        name: Unopened Old Grand-Dad Bicentennial Decanter with box
+        description: Minor box wear
+      price: 600.00-1200.00
+      priceCurrency: USD
+      availability: 'https://schema.org/InStock'
+      url: >-
+        https://articles.appraisily.com/articles/old-grand-dad-bicentennial-decanter-value
+    - '@type': Offer
+      itemOffered:
+        '@type': Product
+        name: Old Grand-Dad Bicentennial Decanter only
+        description: 'No box, unopened'
+      price: 400.00-800.00
+      priceCurrency: USD
+      availability: 'https://schema.org/InStock'
+      url: >-
+        https://articles.appraisily.com/articles/old-grand-dad-bicentennial-decanter-value
+    - '@type': Offer
+      itemOffered:
+        '@type': Product
+        name: Opened Old Grand-Dad Bicentennial Decanter with box
+        description: Display value only
+      price: 200.00-400.00
+      priceCurrency: USD
+      availability: 'https://schema.org/InStock'
+      url: >-
+        https://articles.appraisily.com/articles/old-grand-dad-bicentennial-decanter-value
+    - '@type': Offer
+      itemOffered:
+        '@type': Product
+        name: Damaged Old Grand-Dad Bicentennial Decanter
+        description: 'Chips or cracks, limited collectible value'
+      price: 50.00-150.00
+      priceCurrency: USD
+      availability: 'https://schema.org/InStock'
+      url: >-
+        https://articles.appraisily.com/articles/old-grand-dad-bicentennial-decanter-value
 ---
 
 The Old Grand-Dad Bicentennial Decanter stands as one of the most sought-after bourbon collectibles from America's 1976 bicentennial celebration. Released to commemorate the 200th anniversary of the United States' founding, these distinctive decanters have appreciated significantly in value over the decades, becoming prized possessions for whiskey collectors and American history enthusiasts alike.

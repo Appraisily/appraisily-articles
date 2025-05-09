@@ -42,8 +42,15 @@ structured_data:
     Discover the value of antique electric hurricane lamps, including price
     ranges, identification tips, and factors that influence their worth in
     today's collectibles market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-electric-hurricane-lamps-value/antique-electric-hurricane-lamps-value-image-1_X767jf4ET.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-electric-hurricane-lamps-value/antique-electric-hurricane-lamps-value-image-1_X767jf4ET.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage floral electric hurricane lamp with decorative glass shade and
+      ornate metal base
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,10 +60,22 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-08-09T14:30:00.000Z'
   dateModified: '2023-08-09T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-electric-hurricane-lamps-value
+  about:
+    '@type': Thing
+    name: Antique Electric Hurricane Lamps
+    description: >-
+      Decorative lighting fixtures that combine classic hurricane lamp design
+      with electrical functionality
+  keywords: >-
+    antique electric hurricane lamps value, vintage hurricane lamp prices, gone
+    with the wind lamp identification, collectible electric lamps, hurricane
+    lamp history, antique lighting values, decorative glass lamp appraisal
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Electric Hurricane Lamps" level="2" >}}

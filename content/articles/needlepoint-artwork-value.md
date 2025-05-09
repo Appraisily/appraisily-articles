@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-08-24T14:30:00.000Z'
   dateModified: '2024-08-24T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/needlepoint-artwork-value/needlepoint-artwork-value-image-1_CQko_6Ckn6.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/needlepoint-artwork-value/needlepoint-artwork-value-image-1_CQko_6Ckn6.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage framed needlepoint artwork featuring intricate floral design with
+      vibrant colors and detailed stitchwork
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,21 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/needlepoint-artwork-value'
+  keywords:
+    - needlepoint artwork value
+    - antique needlepoint appraisal
+    - vintage needlepoint worth
+    - collectible needlework valuation
+    - needlepoint investment guide
+    - textile art pricing
+    - heirloom needlepoint value
+  articleSection: Textile Art
+  about:
+    '@type': Thing
+    name: Needlepoint Artwork Valuation
+    description: >-
+      Factors affecting the value and appraisal of needlepoint artwork and
+      collectibles
 ---
 
 ## Introduction to Needlepoint Art Valuation

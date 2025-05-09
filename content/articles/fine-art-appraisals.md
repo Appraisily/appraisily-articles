@@ -1,46 +1,63 @@
 ---
-title: "Fine Art Appraisals: Your Complete Guide to Valuing Artwork"
-description: "Learn how professional fine art appraisals work, what they cost, and why they're essential for insurance, estate planning, or selling valuable artwork."
-slug: "fine-art-appraisals"
-date: 2023-08-10T10:30:00-04:00
-lastmod: 2023-08-10T10:30:00-04:00
+title: 'Fine Art Appraisals: Your Complete Guide to Valuing Artwork'
+description: >-
+  Learn how professional fine art appraisals work, what they cost, and why
+  they're essential for insurance, estate planning, or selling valuable artwork.
+slug: fine-art-appraisals
+date: 2023-08-10T14:30:00.000Z
+lastmod: 2023-08-10T14:30:00.000Z
 draft: false
-featured_image: "https://ik.imagekit.io/appraisily/SEO/fine-art-appraisals/fine-art-appraisals-image-1_bVly15-67.png"
-image_alt: "Professional appraiser examining fine artwork with magnifying glass"
-category: "Art"
-type: "article"
-author: "Appraisily Team"
+featured_image: >-
+  https://ik.imagekit.io/appraisily/SEO/fine-art-appraisals/fine-art-appraisals-image-1_bVly15-67.png
+image_alt: Professional appraiser examining fine artwork with magnifying glass
+category: Art
+type: article
+author: Appraisily Team
 featured: true
-meta_title: "Fine Art Appraisals: Expert Guide to Art Valuation | Appraisily"
-meta_description: "Discover how professional fine art appraisals work, what factors determine artwork value, and when you need an appraisal for insurance, estates, or sales."
-canonical_url: "https://appraisily.com/fine-art-appraisals/"
-keywords: "fine art appraisals, art valuation, professional art appraiser, art appraisal cost, art value assessment, insurance art appraisal, estate art valuation"
-structured_data: |
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://appraisily.com/fine-art-appraisals/"
-    },
-    "headline": "Fine Art Appraisals: Your Complete Guide to Valuing Artwork",
-    "description": "Learn how professional fine art appraisals work, what they cost, and why they're essential for insurance, estate planning, or selling valuable artwork.",
-    "image": "https://ik.imagekit.io/appraisily/SEO/fine-art-appraisals/fine-art-appraisals-image-1_bVly15-67.png",
-    "author": {
-      "@type": "Organization",
-      "name": "Appraisily Team"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Appraisily",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://appraisily.com/logo.png"
-      }
-    },
-    "datePublished": "2023-08-10T10:30:00-04:00",
-    "dateModified": "2023-08-10T10:30:00-04:00"
-  }
+meta_title: 'Fine Art Appraisals: Expert Guide to Art Valuation | Appraisily'
+meta_description: >-
+  Discover how professional fine art appraisals work, what factors determine
+  artwork value, and when you need an appraisal for insurance, estates, or
+  sales.
+canonical_url: 'https://appraisily.com/fine-art-appraisals/'
+keywords: >-
+  fine art appraisals, art valuation, professional art appraiser, art appraisal
+  cost, art value assessment, insurance art appraisal, estate art valuation
+structured_data:
+  '@context': 'https://schema.org'
+  '@type': Article
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://appraisily.com/fine-art-appraisals/'
+  headline: 'Fine Art Appraisals: Your Complete Guide to Valuing Artwork'
+  description: >-
+    Learn how professional fine art appraisals work, what they cost, and why
+    they're essential for insurance, estate planning, or selling valuable
+    artwork.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/fine-art-appraisals/fine-art-appraisals-image-1_bVly15-67.png
+    width: '1200'
+    height: '630'
+    caption: Professional appraiser examining fine artwork with magnifying glass
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
+  datePublished: '2023-08-10T14:30:00.000Z'
+  dateModified: '2023-08-10T14:30:00.000Z'
+  keywords: >-
+    fine art appraisals, art valuation, professional art appraiser, art
+    appraisal cost, art value assessment, insurance art appraisal, estate art
+    valuation
 ---
 
 {{< content-modules/section-header title="Understanding Fine Art Appraisals" level="2" >}}

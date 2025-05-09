@@ -37,8 +37,6 @@ structured_data:
   description: >-
     Learn how to identify and value antique hand mirrors with our comprehensive
     guide covering styles, makers, materials, and authentication techniques.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/hand-held-identifying-antique-hand-mirrors/hand-held-identifying-antique-hand-mirrors-image-2_SHaNhOtVjF.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +50,23 @@ structured_data:
   dateModified: '2023-11-09T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/hand-held-identifying-antique-hand-mirrors
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/hand-held-identifying-antique-hand-mirrors/hand-held-identifying-antique-hand-mirrors-image-2_SHaNhOtVjF.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of ornate antique hand mirrors featuring silver, brass and
+      porcelain designs from Victorian and Art Nouveau periods
+  keywords:
+    - antique hand mirrors identification
+    - vintage mirror valuation
+    - silver hand mirror hallmarks
+    - Victorian hand mirrors
+    - Art Nouveau mirror collecting
+    - antique mirror materials
+    - collectible vanity mirrors
 ---
 
 ## Introduction to Antique Hand Mirrors

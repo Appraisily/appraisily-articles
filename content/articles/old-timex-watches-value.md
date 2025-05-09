@@ -39,8 +39,15 @@ structured_data:
     Discover what makes vintage Timex watches valuable, learn how to identify
     collectible models, and explore current market prices for these affordable
     timepieces.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-timex-watches-value/old-timex-watches-value-image-1_R1Ek7LQND.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-timex-watches-value/old-timex-watches-value-image-1_R1Ek7LQND.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Timex watch collection displaying various collectible models from
+      different eras including Marlin and Electric series
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,29 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-17T14:30:00.000Z'
   dateModified: '2023-07-17T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-timex-watches-value'
+  keywords:
+    - old timex watches value
+    - vintage timex watch prices
+    - collectible timex models
+    - timex marlin value
+    - rare timex watches
+    - timex watch identification
+    - timex watch collecting
+  about:
+    '@type': Thing
+    name: Vintage Timex Watches
+    description: >-
+      Collectible timepieces manufactured by Timex Corporation throughout the
+      20th century, known for their durability and affordability.
+  isPartOf:
+    '@type': CollectionPage
+    name: Watches & Timepieces
+    url: 'https://articles.appraisily.com/category/watches-timepieces'
 ---
 
 Despite their reputation as affordable timepieces, vintage Timex watches have developed a dedicated following among collectors who appreciate their historical significance, reliable engineering, and classic designs. While they may not command the astronomical prices of luxury Swiss brands, old Timex watches can still be valuable—particularly rare models in excellent condition.

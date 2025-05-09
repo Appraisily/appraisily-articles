@@ -39,8 +39,15 @@ structured_data:
     Learn how to determine the value of Chinese art with our comprehensive guide
     to Chinese art appraisal, covering authentication techniques, market values,
     and finding qualified appraisers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/chinese-art-appraisal/chinese-art-appraisal-image-1_hOUkE0T8E0.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/chinese-art-appraisal/chinese-art-appraisal-image-1_hOUkE0T8E0.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser examining an ancient Chinese scroll painting
+      with authentication tools
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,17 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/chinese-art-appraisal'
+  about:
+    '@type': Thing
+    name: Chinese Art Appraisal
+    description: >-
+      Professional valuation and authentication of Chinese artworks including
+      paintings, calligraphy, ceramics, and other traditional art forms
+  keywords: >-
+    Chinese art appraisal, Chinese painting authentication, antique Chinese
+    porcelain valuation, Chinese artwork market value, Asian art expert
+    appraisers
+  articleSection: Asian Art
 ---
 
 {{< content-modules/section-header title="Introduction to Chinese Art Appraisal" level="2" >}}

@@ -32,27 +32,88 @@ keywords:
   - antique authentication
   - estate antique assessment
 structured_data:
-  '@context': 'https://schema.org'
-  '@type': Article
-  headline: 'How to Determine the Value of Antiques: A Comprehensive Guide'
-  description: >-
-    Learn how to accurately assess the value of your antiques with expert
-    appraisal techniques, price guides, and professional resources in this
-    comprehensive valuation guide.
-  author:
-    '@type': Organization
-    name: Appraisily Team
-  datePublished: '2024-06-15T14:30:00.000Z'
-  dateModified: '2024-06-15T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antiques/value-of-antiques-image-1_q12fMk4Ncs.png
-  publisher:
-    '@type': Organization
-    name: Appraisily
-    logo:
+  - '@context': 'https://schema.org'
+    '@type': Article
+    headline: 'How to Determine the Value of Antiques: A Comprehensive Guide'
+    description: >-
+      Learn how to accurately assess the value of your antiques with expert
+      appraisal techniques, price guides, and professional resources in this
+      comprehensive valuation guide.
+    author:
+      '@type': Organization
+      name: Appraisily Team
+    datePublished: '2024-06-15T14:30:00.000Z'
+    dateModified: '2024-06-15T14:30:00.000Z'
+    image:
       '@type': ImageObject
-      url: 'https://appraisily.com/logo.png'
-  mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antiques'
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/value-of-antiques/value-of-antiques-image-1_q12fMk4Ncs.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Diverse collection of valuable antiques including vintage furniture,
+        porcelain, and collectible artwork arranged for appraisal
+    publisher:
+      '@type': Organization
+      name: Appraisily
+      logo:
+        '@type': ImageObject
+        url: 'https://appraisily.com/logo.png'
+    mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antiques'
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes Antiques Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique is determined by several critical factors
+            that appraisers and collectors consider, including age,
+            authenticity, condition, provenance, and current market demand. Age
+            alone doesn't guarantee value—authenticity is equally crucial. Items
+            must generally be at least 100 years old to be classified as true
+            antiques, while those between 20-99 years old are typically
+            considered "vintage".
+      - '@type': Question
+        name: How do you verify authenticity of antiques?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            To verify authenticity: Look for maker's marks, signatures, or
+            labels; Research production techniques for the era; Examine
+            materials used (modern materials in supposedly old items are red
+            flags); Consider consulting authentication experts for valuable
+            pieces.
+  - '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Determine the Value of Antiques
+    description: >-
+      A comprehensive guide to accurately assess the value of antiques using
+      expert techniques and resources
+    image:
+      '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/value-of-antiques/value-of-antiques-image-1_q12fMk4Ncs.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Collection of valuable antiques including furniture, artwork, and
+        collectibles
+    step:
+      - '@type': HowToStep
+        name: Verify Age and Authenticity
+        text: >-
+          Look for maker's marks, signatures, or labels. Research production
+          techniques for the era. Examine materials used (modern materials in
+          supposedly old items are red flags). Consider consulting
+          authentication experts for valuable pieces.
+      - '@type': HowToStep
+        name: Assess Condition
+        text: >-
+          Examine the item thoroughly for damage, repairs, or restoration. Note
+          that condition significantly impacts value, with mint condition items
+          fetching 25-40% more than damaged examples.
 ---
 
 ## Introduction to Antique Valuation

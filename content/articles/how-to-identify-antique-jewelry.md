@@ -43,8 +43,15 @@ structured_data:
     Learn expert techniques for identifying authentic antique jewelry through
     hallmarks, materials, craftsmanship, and design styles spanning Georgian to
     Art Deco periods.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-jewelry/how-to-identify-antique-jewelry-image-1_93xL4wgYs.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-jewelry/how-to-identify-antique-jewelry-image-1_93xL4wgYs.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic antique jewelry collection with hallmark identification tools on
+      velvet display
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,44 @@ structured_data:
   datePublished: '2023-06-29T14:30:00.000Z'
   dateModified: '2023-06-29T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/how-to-identify-antique-jewelry'
+  about:
+    '@type': Thing
+    name: Antique Jewelry Identification
+  keywords: >-
+    antique jewelry identification, jewelry hallmarks guide, vintage jewelry
+    authentication, antique jewelry materials, jewelry maker marks, period
+    jewelry identification, antique jewelry dating techniques
+  HowTo:
+    '@type': HowTo
+    name: How to Identify Antique Jewelry
+    description: >-
+      Expert techniques for identifying and authenticating antique jewelry
+      pieces
+    tool:
+      - '@type': HowToTool
+        name: 10x loupe or magnifying glass
+    step:
+      - '@type': HowToStep
+        name: Examine Jewelry Hallmarks
+        text: >-
+          Use a 10x loupe or magnifying glass to examine the piece thoroughly.
+          Look for marks on clasps, inside rings, back of pendants, or ear wire
+          posts. Check for multiple marks that may appear together. Reference
+          hallmark guides or online databases for identification. Note that very
+          old pieces may have worn or missing marks.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-jewelry/how-to-identify-antique-jewelry-image-2_ZsTitAQ0W.png
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: 'What is the difference between antique, vintage, and estate jewelry?'
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique Jewelry is 100+ years old (Pre-1920s), Vintage Jewelry is
+            20-99 years old (1920s-early 2000s), and Estate Jewelry is
+            previously owned jewelry of any age.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Jewelry Identification" level="2" >}}

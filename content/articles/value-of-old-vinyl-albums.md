@@ -44,17 +44,36 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-08-14T14:30:00.000Z'
   dateModified: '2024-08-14T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-vinyl-albums/value-of-old-vinyl-albums-image-1_d3USwpxgF.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-vinyl-albums/value-of-old-vinyl-albums-image-1_d3USwpxgF.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage vinyl record collection featuring rare and valuable albums from
+      different musical eras
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-old-vinyl-albums'
+  about:
+    '@type': Thing
+    name: Vinyl Record Valuation
+    description: >-
+      Assessment and determination of monetary value for vintage vinyl records
+      and albums based on condition, rarity, and market factors
+  keywords: >-
+    vinyl record value, old album worth, rare vinyl identification, record
+    collecting guide, vintage vinyl appraisal, first pressing values, vinyl
+    condition grading
 ---
 
 ![Collection of valuable vintage vinyl albums from various eras](https://ik.imagekit.io/appraisily/SEO/value-of-old-vinyl-albums/value-of-old-vinyl-albums-image-1_d3USwpxgF.png)

@@ -39,8 +39,15 @@ structured_data:
     Learn how to accurately assess antique radio value with our comprehensive
     guide covering key factors, price ranges, and expert tips for collectors and
     sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-radio-value/antique-radio-value-image-1_zkjIGyMwN.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-radio-value/antique-radio-value-image-1_zkjIGyMwN.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage wooden cabinet antique radio from the 1940s with decorative
+      speaker grill and tuning dial
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,42 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-radio-value'
+  about:
+    '@type': Thing
+    name: Antique Radios
+    description: >-
+      Vintage radio devices from the early to mid-20th century valued for their
+      historical significance, design, and collectibility
+  keywords: >-
+    antique radio value, vintage radio prices, tube radio worth, collectible
+    radio identification, art deco radio valuation
+  articleSection: Antiques
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .stat-card
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-heading
+      - .article-summary
+  mentions:
+    - '@type': Thing
+      name: Art Deco Radios
+      description: >-
+        Decorative radios from the 1920s-1940s featuring geometric designs and
+        ornate details
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What is the average value range for antique radios?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        The average value range for most common vintage radio models is between
+        $5 and $300, though premium models can be worth $1,000 or more depending
+        on rarity, condition, and collectibility.
 ---
 
 ![Vintage antique radio with wooden cabinet showing tuning dial and speaker grill](https://ik.imagekit.io/appraisily/SEO/antique-radio-value/antique-radio-value-image-1_zkjIGyMwN.png)

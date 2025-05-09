@@ -42,8 +42,15 @@ structured_data:
     Learn how to identify antique tools with our comprehensive guide covering
     maker marks, materials, age indicators, and valuation methods for collectors
     and enthusiasts alike.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-tool-identifier/old-tool-identifier-image-1_f7iJkpP7N.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-tool-identifier/old-tool-identifier-image-1_f7iJkpP7N.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage woodworking collection featuring antique hand planes, chisels, and
+      precision measuring instruments
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,43 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-10-26T14:30:00.000Z'
   dateModified: '2023-10-26T14:30:00.000Z'
+  keywords:
+    - antique tool identifier
+    - vintage tool identification
+    - old tool valuation
+    - collectible hand tools
+    - woodworking antiques
+    - tool maker marks
+    - antique tool collecting guide
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: The Systematic Approach to Tool Identification
+  description: >-
+    A methodical process for identifying antique tools by examining key
+    characteristics
+  step:
+    - '@type': HowToStep
+      name: Examine for maker's marks
+      text: 'Examine for maker''s marks, stamps, or logos'
+    - '@type': HowToStep
+      name: Identify materials
+      text: 'Identify the primary material (wood type, metal composition)'
+    - '@type': HowToStep
+      name: Note construction methods
+      text: 'Note construction methods (hand-forged, cast, machined)'
+    - '@type': HowToStep
+      name: Determine function
+      text: Determine the tool's intended function or trade
+    - '@type': HowToStep
+      name: Observe wear patterns
+      text: 'Observe patina, wear patterns, and evidence of use'
+    - '@type': HowToStep
+      name: Look for patent information
+      text: Look for patent dates or numbers
+    - '@type': HowToStep
+      name: Check period design elements
+      text: Check for design elements characteristic of specific periods
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Tool Identification" level="2" >}}

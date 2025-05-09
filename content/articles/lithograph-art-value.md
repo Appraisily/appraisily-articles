@@ -39,8 +39,6 @@ structured_data:
     Discover how to determine lithograph art value with our expert guide. Learn
     about authentication, factors affecting worth, and market insights for
     collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/lithograph-art-value/lithograph-art-value-image-1_DKuveW-H_.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,96 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/lithograph-art-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/lithograph-art-value/lithograph-art-value-image-1_DKuveW-H_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser examining a fine art lithograph with magnifying
+      glass to determine authenticity and value
+  keywords:
+    - lithograph art value
+    - authentic lithograph identification
+    - signed lithograph worth
+    - limited edition lithographs
+    - lithograph appraisal
+    - collectible lithograph prints
+    - vintage lithograph market
+  about:
+    '@type': Thing
+    name: Lithograph Art Valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Is your lithograph original?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Before determining value, it's essential to confirm you have an
+            authentic lithograph. Original lithographs have specific
+            characteristics that distinguish them from commercial reproductions.
+            Key authentication indicators include the artist's signature (often
+            hand-signed in pencil in the margin below the image), edition
+            numbers (e.g., '55/100'), high-quality acid-free paper (sometimes
+            with watermarks), and plate marks (slight indentations around the
+            image created by the printing pressure).
+      - '@type': Question
+        name: What determines a lithograph's value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A lithograph's value is determined by several factors including
+            authenticity markers, artist significance, and current market
+            trends. Limited editions typically command a 30-50% price premium
+            for lower edition numbers, while artist authentication can impact
+            value by 200-400% for signed versus unsigned works. The annual
+            market growth for quality lithographs by recognized artists is
+            approximately 5-7%.
+      - '@type': Question
+        name: How do limited editions affect lithograph value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Limited editions are numbered (e.g., '55/100'), indicating the
+            specific print's position in the run and the total number produced.
+            Lower edition numbers may command higher prices, especially for very
+            limited runs. Limited edition lithographs typically see a value
+            premium of 30-50% compared to open editions or higher numbered
+            prints in the same series.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Authenticate a Lithograph
+    step:
+      - '@type': HowToStep
+        name: Check the Artist's Signature
+        text: >-
+          Authentic lithographs are often hand-signed by the artist, typically
+          in pencil in the margin below the image. This signature dramatically
+          increases the value compared to unsigned prints.
+      - '@type': HowToStep
+        name: Verify Edition Numbers
+        text: >-
+          Limited editions are numbered (e.g., '55/100'), indicating the
+          specific print's position in the run and the total number produced.
+          Lower edition numbers may command higher prices, especially for very
+          limited runs.
+      - '@type': HowToStep
+        name: Examine Paper Quality
+        text: >-
+          Original lithographs are usually printed on high-quality, acid-free
+          paper. Examine the paper for watermarks that might indicate its origin
+          and quality.
+      - '@type': HowToStep
+        name: Look for Plate Marks
+        text: >-
+          Some lithographs show a slight indentation around the image created by
+          the pressure of the printing process. This plate mark is often an
+          indicator of an original print.
 ---
 
 {{< content-modules/section-header title="Understanding Lithograph Art Value" level="2" >}}

@@ -44,8 +44,15 @@ structured_data:
     Learn how to identify and value antique glass bottles through bottom
     markings and embossing. Discover dates, makers, and value indicators with
     our comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-identification-glass-bottle-markings-bottom/antique-identification-glass-bottle-markings-bottom-image-1_h2BBOA3KY.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-identification-glass-bottle-markings-bottom/antique-identification-glass-bottle-markings-bottom-image-1_h2BBOA3KY.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique glass bottles showing distinctive manufacturer
+      markings and embossing on their bases
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,8 +64,36 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-identification-glass-bottle-markings-bottom
+  keywords:
+    - antique glass bottle identification
+    - bottle bottom markings
+    - glass bottle base codes
+    - antique bottle valuation
+    - embossed bottle markings
+    - vintage glass manufacturer symbols
+    - collectible bottle identification
+  about:
+    '@type': Thing
+    name: Antique Glass Bottles
+    description: >-
+      Historical glass bottles with identifying markings and embossing that
+      indicate their age, manufacturer, and value
+  mentions:
+    - '@type': Thing
+      name: Pontil Marks
+      description: >-
+        Distinctive marks on the bottom of glass bottles made before 1860,
+        indicating how the bottle was held during manufacturing
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body h2
+      - .article-body p
+  isAccessibleForFree: 'True'
 ---
 
 ## Introduction to Antique Glass Bottle Base Markings

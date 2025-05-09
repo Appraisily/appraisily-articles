@@ -1,42 +1,70 @@
 ---
-title: "Christian Lassen Art Value: A Guide to Pricing and Authenticating His Vibrant Artworks"
-description: "Discover what influences Christian Lassen art value in today's market. Learn how to identify authentic pieces, understand price determinants, and make informed collecting decisions."
-slug: "christian-lassen-art-value"
-date: 2025-03-17T10:30:00-04:00
-lastmod: 2025-03-17T10:30:00-04:00
+title: >-
+  Christian Lassen Art Value: A Guide to Pricing and Authenticating His Vibrant
+  Artworks
+description: >-
+  Discover what influences Christian Lassen art value in today's market. Learn
+  how to identify authentic pieces, understand price determinants, and make
+  informed collecting decisions.
+slug: christian-lassen-art-value
+date: 2025-03-17T14:30:00.000Z
+lastmod: 2025-03-17T14:30:00.000Z
 draft: false
-featured_image: "https://ik.imagekit.io/appraisily/SEO/christian-lassen-art-value/christian-lassen-art-value-image-1_1Y3cqZrUE.png"
-image_alt: "Christian Lassen original painting depicting vibrant underwater scene with dolphins"
-category: "Art Valuation"
-type: "article"
-author: "Appraisily Team"
+featured_image: >-
+  https://ik.imagekit.io/appraisily/SEO/christian-lassen-art-value/christian-lassen-art-value-image-1_1Y3cqZrUE.png
+image_alt: >-
+  Christian Lassen original painting depicting vibrant underwater scene with
+  dolphins
+category: Art Valuation
+type: article
+author: Appraisily Team
 featured: true
-meta_title: "Christian Lassen Art Value Guide | Authentication & Pricing | Appraisily"
-meta_description: "Expert analysis of Christian Lassen art values. Learn what factors influence prices, how to authenticate pieces, and navigate the market for this celebrated marine artist."
-canonical_url: "https://appraisily.com/christian-lassen-art-value/"
-keywords: "Christian Lassen art value, Christian Riese Lassen paintings price, Lassen print authentication, marine art valuation, Lassen artwork appraisal"
-structured_data: |
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Christian Lassen Art Value: A Guide to Pricing and Authenticating His Vibrant Artworks",
-    "description": "Discover what influences Christian Lassen art value in today's market. Learn how to identify authentic pieces, understand price determinants, and make informed collecting decisions.",
-    "image": "https://ik.imagekit.io/appraisily/SEO/christian-lassen-art-value/christian-lassen-art-value-image-1_1Y3cqZrUE.png",
-    "author": {
-      "@type": "Organization",
-      "name": "Appraisily Team"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Appraisily",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://appraisily.com/logo.png"
-      }
-    },
-    "datePublished": "2025-03-17",
-    "dateModified": "2025-03-17"
-  }
+meta_title: Christian Lassen Art Value Guide | Authentication & Pricing | Appraisily
+meta_description: >-
+  Expert analysis of Christian Lassen art values. Learn what factors influence
+  prices, how to authenticate pieces, and navigate the market for this
+  celebrated marine artist.
+canonical_url: 'https://appraisily.com/christian-lassen-art-value/'
+keywords: >-
+  Christian Lassen art value, Christian Riese Lassen paintings price, Lassen
+  print authentication, marine art valuation, Lassen artwork appraisal
+structured_data:
+  '@context': 'https://schema.org'
+  '@type': Article
+  headline: >-
+    Christian Lassen Art Value: A Guide to Pricing and Authenticating His
+    Vibrant Artworks
+  description: >-
+    Discover what influences Christian Lassen art value in today's market. Learn
+    how to identify authentic pieces, understand price determinants, and make
+    informed collecting decisions.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/christian-lassen-art-value/christian-lassen-art-value-image-1_1Y3cqZrUE.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Christian Lassen original painting depicting vibrant underwater scene with
+      dolphins
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
+  datePublished: '2025-03-17T14:30:00.000Z'
+  dateModified: '2025-03-17T14:30:00.000Z'
+  mainEntityOfPage: 'https://appraisily.com/christian-lassen-art-value/'
+  keywords: >-
+    Christian Lassen art value, Christian Riese Lassen paintings price, Lassen
+    print authentication, marine art valuation, Lassen artwork appraisal
+  articleSection: Art Valuation
 ---
 
 ![Christian Lassen original painting depicting vibrant underwater scene with dolphins](https://ik.imagekit.io/appraisily/SEO/christian-lassen-art-value/christian-lassen-art-value-image-1_1Y3cqZrUE.png)

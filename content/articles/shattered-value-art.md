@@ -39,20 +39,87 @@ structured_data:
   description: >-
     Explore the captivating technique of shattered value art with our
     comprehensive guide. Learn how to create, teach, and appreciate this unique
-    drawing style that transforms ordinary images into dramatic compositions.
+    drawing style that transforms ordinary images into dramatic, value-rich
+    compositions.
   author:
     '@type': Organization
     name: Appraisily Team
   datePublished: '2023-08-19T14:30:00.000Z'
   dateModified: '2023-08-19T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/shattered-value-art/shattered-value-art-image-1_e8uoT0kbT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/shattered-value-art/shattered-value-art-image-1_e8uoT0kbT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Dramatic shattered value art example showing fragmented geometric shapes
+      with bold light and shadow contrasts
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/shattered-value-art'
+  keywords:
+    - shattered value art
+    - value drawing technique
+    - dramatic art composition
+    - light and shadow drawing
+    - geometric value art
+    - art teaching methods
+    - contrast techniques in drawing
+  articleSection: Art Techniques
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is Shattered Value Art?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Shattered value art, also known as fractured or broken glass
+            drawing, is a technique where an image is divided into irregular
+            geometric sections that resemble shattered glass. Each section is
+            then rendered with different values from light to dark, creating a
+            dramatic contrast that gives the artwork visual impact and
+            dimension. The technique serves multiple purposes: it teaches value
+            control and gradation, demonstrates how value creates the illusion
+            of three-dimensionality, offers a creative way to approach drawing
+            familiar subjects, and develops shading skills through focused
+            practice.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: Creating Shattered Value Art
+    description: >-
+      A guide to creating dramatic value drawings using the shattered value
+      technique
+    tool:
+      - Pencils
+      - Paper
+      - Reference image
+    step:
+      - '@type': HowToStep
+        name: Understand value in art
+        text: >-
+          Value in art refers to the lightness or darkness of colors or tones.
+          It's one of the fundamental elements of art and plays a crucial role
+          in creating the illusion of form, depth, and dimension in
+          two-dimensional work.
+      - '@type': HowToStep
+        name: Divide the image into fragments
+        text: >-
+          Break an image into irregular geometric shapes that resemble shattered
+          glass while maintaining recognizable forms.
+      - '@type': HowToStep
+        name: Apply different values to each section
+        text: >-
+          Render each geometric section with different values from light to
+          dark, creating dramatic contrast that gives the artwork visual impact
+          and dimension.
 ---
 
 ![Dramatic example of shattered value art showing fractured image with stark value contrasts](https://ik.imagekit.io/appraisily/SEO/shattered-value-art/shattered-value-art-image-1_e8uoT0kbT.png)

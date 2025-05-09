@@ -42,17 +42,34 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-31T14:30:00.000Z'
   dateModified: '2023-07-31T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-clock-appraisal-near-me/antique-clock-appraisal-near-me-image-1_jpjWBLwgY.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-clock-appraisal-near-me/antique-clock-appraisal-near-me-image-1_jpjWBLwgY.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage grandfather clock with ornate wooden case and brass pendulum being
+      professionally appraised by an antique timepiece expert
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-clock-appraisal-near-me'
+  keywords:
+    - antique clock appraisal near me
+    - grandfather clock valuation
+    - vintage timepiece assessment
+    - antique mantel clock value
+    - local clock appraisal services
+    - heirloom clock worth
+    - professional clock authentication
 ---
 
 {{< content-modules/section-header title="Finding Antique Clock Appraisal Services Near You" level="2" >}}

@@ -44,8 +44,6 @@ structured_data:
     Master antique jewelry identification with our comprehensive guide covering
     hallmarks, time periods, materials, and craftsmanship to authenticate and
     accurately value your vintage treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-jewelry-identification-guide/antique-jewelry-identification-guide-image-1_Vzja5l0T2.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +57,40 @@ structured_data:
   dateModified: '2023-11-07T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-jewelry-identification-guide
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-jewelry-identification-guide/antique-jewelry-identification-guide-image-1_Vzja5l0T2.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Curated collection of authentic antique jewelry including Victorian rings,
+      Art Deco brooches, and Edwardian necklaces with period-specific gemstones
+      and metalwork
+  about:
+    '@type': Thing
+    name: Antique Jewelry
+    description: >-
+      Historical jewelry pieces at least 100 years old with distinctive
+      craftsmanship, materials, and design elements from different time periods.
+  keywords: >-
+    antique jewelry identification, vintage jewelry authentication, antique
+    jewelry hallmarks, jewelry time periods, antique jewelry valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Classifies Jewelry as "Antique"?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Generally, jewelry must be at least 100 years old to be classified
+            as truly "antique." Pieces that are between 50-100 years old
+            typically fall into the "vintage" category. However, many collectors
+            and dealers use these terms somewhat interchangeably, with the most
+            important distinction being the specific time period and style
+            characteristics rather than the exact age.
 ---
 
 ![Collection of vintage and antique jewelry pieces including rings, brooches, and necklaces with various gemstones and metals](https://ik.imagekit.io/appraisily/SEO/antique-jewelry-identification-guide/antique-jewelry-identification-guide-image-1_Vzja5l0T2.png)

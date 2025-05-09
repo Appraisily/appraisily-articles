@@ -39,8 +39,15 @@ structured_data:
     Learn how to properly appraise antiques with expert methods, find qualified
     appraisers, and understand what determines the true value of your
     collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/appraisal-of-antiques/appraisal-of-antiques-image-1_9shma4zoy.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/appraisal-of-antiques/appraisal-of-antiques-image-1_9shma4zoy.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining a vintage item with magnifying
+      glass for authenticity verification
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,35 @@ structured_data:
   datePublished: '2023-07-25T14:30:00.000Z'
   dateModified: '2023-07-25T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/appraisal-of-antiques'
+  about:
+    '@type': Thing
+    name: Antiques Appraisal
+  keywords:
+    - antiques appraisal
+    - how to appraise antiques
+    - antique valuation methods
+    - find qualified antique appraiser
+    - determine antique authenticity
+    - antique value factors
+    - professional appraisal services
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is an Antique Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An antique appraisal is a professional assessment that determines
+            the monetary value, historical significance, and authenticity of an
+            item. This detailed evaluation goes beyond simply assigning a price
+            tag—it documents an item's origin, condition, rarity, and market
+            demand. A professional appraisal typically includes detailed written
+            documentation, assessment of condition and authenticity,
+            determination of age and provenance, evaluation of market value,
+            photographic documentation, and appraiser's professional credentials
+            and signature.
 ---
 
 ![Professional appraiser examining an antique item with magnifying glass](https://ik.imagekit.io/appraisily/SEO/appraisal-of-antiques/appraisal-of-antiques-image-1_9shma4zoy.png)

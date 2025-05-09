@@ -37,8 +37,15 @@ structured_data:
   description: >-
     Discover what your antique record player cabinet is truly worth. Learn to
     identify valuable features, market trends, and get expert valuation tips.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-record-player-cabinet-worth/how-much-is-an-antique-record-player-cabinet-worth-image-1_E60RZJZGT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-record-player-cabinet-worth/how-much-is-an-antique-record-player-cabinet-worth-image-1_E60RZJZGT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage mid-century modern record player cabinet with turntable and
+      storage for vinyl records
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,13 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://appraisily.com/how-much-is-an-antique-record-player-cabinet-worth/'
+  keywords:
+    - antique record player cabinet value
+    - vintage console stereo worth
+    - mid-century record cabinet prices
+    - phonograph furniture appraisal
+    - collectible record player values
+    - victrola cabinet worth
 ---
 
 ## Introduction to Antique Record Player Cabinets

@@ -38,8 +38,6 @@ structured_data:
     Learn expert techniques for identifying antiques, from recognizing maker's
     marks to using AI technology. Includes valuation tips and collector
     resources.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identifying-antiques/identifying-antiques-image-1_KarhgGcTq.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +50,73 @@ structured_data:
   datePublished: '2024-03-18T14:30:00.000Z'
   dateModified: '2024-03-18T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/identifying-antiques'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identifying-antiques/identifying-antiques-image-1_KarhgGcTq.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique items with magnifying glass for authentication and
+      identification
+  about:
+    '@type': Thing
+    name: Antique Identification
+    description: >-
+      Techniques and methods for identifying, authenticating, and valuing
+      antique items
+  keywords:
+    - identifying antiques
+    - antique authentication
+    - antique valuation
+    - maker's marks identification
+    - vintage collectibles
+    - antique identification techniques
+    - antique appraisal tools
+  articleSection: Antiques
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+      - .section-header
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: >-
+          Have you ever wondered if that dusty item in your attic might be worth
+          something?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The world of antiques can be both fascinating and overwhelming,
+            especially for beginners. In this guide, we'll walk through proven
+            methods for identifying antiques, from traditional techniques to
+            modern technological solutions. We'll also discuss how to assess
+            condition, research provenance, and determine approximate values –
+            all essential skills for both casual enthusiasts and serious
+            collectors.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: Identifying Authentic Antiques
+    description: >-
+      Learn to identify genuine antiques by examining materials, construction
+      techniques, and other key indicators
+    tool:
+      - '@type': HowToTool
+        name: Magnifying glass
+    step:
+      - '@type': HowToStep
+        name: Examine Materials and Construction
+        text: >-
+          One of the most reliable ways to identify authentic antiques is by
+          examining the materials and construction techniques used. Prior to the
+          20th century, many items were handcrafted using methods that differ
+          significantly from modern manufacturing processes.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/identifying-antiques/identifying-antiques-image-1_KarhgGcTq.png
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Identification" level="2" >}}

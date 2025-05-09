@@ -38,8 +38,14 @@ structured_data:
     prints and original charcoal drawings, and how to identify authentic pieces
     by this Jamaican artist.
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/j-macdonald-henry-art-value/j-macdonald-henry-art-value-image-1_UQNl93z7l.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Framed J. Macdonald Henry charcoal portrait from his famous Faces of
+      Jamaica series
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +58,21 @@ structured_data:
   datePublished: '2023-11-20T14:30:00.000Z'
   dateModified: '2023-11-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/j-macdonald-henry-art-value'
+  keywords:
+    - J. Macdonald Henry art value
+    - Faces of Jamaica series
+    - Jamaican charcoal portraits
+    - J. Macdonald Henry prints worth
+    - authenticating J. Macdonald Henry
+    - Jamaican artist market prices
+    - J. Macdonald Henry investment
+  articleSection: Fine Art
+  about:
+    '@type': Thing
+    name: J. Macdonald Henry
+    description: >-
+      Internationally recognized Jamaican artist (1960-2008) known for his
+      evocative charcoal portraits, particularly his 'Faces of Jamaica' series.
 ---
 
 ![J. Macdonald Henry charcoal portrait in frame displaying the artist's distinctive Jamaican portrait style](https://ik.imagekit.io/appraisily/SEO/j-macdonald-henry-art-value/j-macdonald-henry-art-value-image-1_UQNl93z7l.png)

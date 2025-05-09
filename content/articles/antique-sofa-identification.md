@@ -39,8 +39,6 @@ structured_data:
     Learn how to identify antique sofas with our comprehensive guide covering
     key period styles, authentication methods, and valuation factors for
     collectors and enthusiasts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-sofa-identification/antique-sofa-identification-image-1_bDjgpawug.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,9 +50,26 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-11-03T14:30:00.000Z'
   dateModified: '2023-11-03T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-sofa-identification/antique-sofa-identification-image-1_bDjgpawug.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Victorian-era antique sofa featuring ornate carved wooden frame
+      and original upholstery details
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-sofa-identification'
+  keywords:
+    - antique sofa identification
+    - period sofa styles
+    - antique furniture authentication
+    - vintage couch valuation
+    - antique settee characteristics
+    - historical upholstered furniture
+    - antique sofa dating techniques
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Sofa Identification" level="2" >}}

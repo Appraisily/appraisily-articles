@@ -48,17 +48,34 @@ structured_data:
     name: Appraisily Team
   datePublished: '2025-04-16T14:30:00.000Z'
   dateModified: '2025-04-16T14:30:00.000Z'
-  image: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Singer sewing machine table with ornate cast iron base and wooden
+      cabinet
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://articles.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/singer-sewing-machine-table-antique-value
+  keywords:
+    - antique Singer sewing machine table value
+    - vintage Singer sewing table worth
+    - Singer treadle table identification
+    - collectible Singer cabinet value
+    - Singer sewing machine furniture appraisal
+    - Singer table serial number dating
+    - Singer treadle base value
 ---
 
 ## Introduction to singer-sewing-machine-table-antique-value

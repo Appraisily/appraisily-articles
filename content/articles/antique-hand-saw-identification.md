@@ -46,8 +46,15 @@ structured_data:
     Learn how to identify, date, and value antique hand saws using detailed
     characteristics of handles, medallions, blades, and manufacturer markings
     from major brands like Disston, HSB & Co, and more.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-hand-saw-identification/antique-hand-saw-identification-image-2_JaLfmU9EW.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-hand-saw-identification/antique-hand-saw-identification-image-2_JaLfmU9EW.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage hand saws displaying various manufacturer medallions, handle
+      designs, and blade types for identification
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,8 +64,43 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-01T14:30:00.000Z'
   dateModified: '2023-11-01T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Antique Hand Saws
+    description: >-
+      Historical woodworking tools used for cutting wood, valued by collectors
+      for their craftsmanship and historical significance
+  keywords:
+    - antique hand saw identification
+    - vintage saw dating methods
+    - Disston saw identification
+    - antique saw medallions
+    - hand saw value guide
+    - collectible woodworking tools
+    - antique tool authentication
+  specialty: Antique Tool Identification
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .stat-card
+  mentions:
+    - '@type': Thing
+      name: Disston & Sons
+      description: Renowned American saw manufacturer established in 1840 in Philadelphia
+    - '@type': Thing
+      name: Simonds Saw Company
+      description: Historical saw manufacturer
+  offers:
+    '@type': AggregateOffer
+    priceCurrency: USD
+    priceRange: $30 - $800+
+    eligibleRegion:
+      '@type': Country
+      name: US
 ---
 
 Antique hand saws are not just tools of a bygone era; they're historical artifacts that tell stories of craftsmanship, innovation, and American industrial history. For collectors, woodworkers, and antiquarians alike, proper identification of these vintage implements is crucial to understanding their historical context, authenticity, and value. Whether you've discovered an old saw in a family toolbox, at an estate sale, or are specifically building a collection, this comprehensive guide will help you navigate the fascinating world of antique hand saw identification.

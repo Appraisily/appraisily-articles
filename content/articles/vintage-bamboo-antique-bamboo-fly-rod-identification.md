@@ -43,8 +43,15 @@ structured_data:
     Learn how to identify and value vintage bamboo fly rods with our expert
     guide covering makers' marks, construction techniques, materials, and market
     values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/vintage-bamboo-antique-bamboo-fly-rod-identification/vintage-bamboo-antique-bamboo-fly-rod-identification-image-1_Y0NiQla6f.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/vintage-bamboo-antique-bamboo-fly-rod-identification/vintage-bamboo-antique-bamboo-fly-rod-identification-image-1_Y0NiQla6f.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic vintage bamboo fly rod showing detailed ferrules, wrapping and
+      craftsmanship
   author:
     '@type': Organization
     name: Appraisily Team
@@ -58,6 +65,14 @@ structured_data:
   dateModified: '2023-09-15T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/vintage-bamboo-antique-bamboo-fly-rod-identification
+  keywords:
+    - vintage bamboo fly rod identification
+    - antique split cane fly rods
+    - bamboo fly rod values
+    - collectible fishing tackle
+    - classic fly rod makers
+    - bamboo rod authentication
+    - split cane rod markings
 ---
 
 ![Vintage bamboo fly rod with distinctive ferrules and wrapping](https://ik.imagekit.io/appraisily/SEO/vintage-bamboo-antique-bamboo-fly-rod-identification/vintage-bamboo-antique-bamboo-fly-rod-identification-image-1_Y0NiQla6f.png)

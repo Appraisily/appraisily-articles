@@ -39,8 +39,15 @@ structured_data:
     Discover how professional antiques appraisers determine the value of your
     collectibles, heirlooms, and treasures, plus tips on finding qualified
     experts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antiques-appraisers/antiques-appraisers-image-1_aONlA82Jy.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antiques-appraisers/antiques-appraisers-image-1_aONlA82Jy.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antiques appraiser carefully examining a vintage collectible
+      with magnifying glass and specialized tools
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-07T14:30:00.000Z'
   dateModified: '2023-11-07T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antiques-appraisers'
+  keywords:
+    - antiques appraisers
+    - professional antique valuation
+    - certified antique appraiser
+    - heirloom appraisal services
+    - collectibles value assessment
+    - find qualified antiques expert
+    - antique authentication process
 ---
 
 ## Introduction to Antiques Appraisers

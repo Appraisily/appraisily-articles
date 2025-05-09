@@ -39,8 +39,15 @@ structured_data:
     Discover the value of Olde Frothingslosh beer cans, from rare vintage
     editions to holiday collectibles. Learn pricing factors, identification
     tips, and where to sell these unique Pittsburgh brewery treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/olde-frothingslosh-beer-can-value/olde-frothingslosh-beer-can-value-image-1_dmNWGBszs.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/olde-frothingslosh-beer-can-value/olde-frothingslosh-beer-can-value-image-1_dmNWGBszs.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Olde Frothingslosh beer cans showing the iconic 'pale stale ale
+      with foam on the bottom' designs from Pittsburgh Brewing Company
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,31 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-05-16T14:30:00.000Z'
   dateModified: '2023-05-16T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/olde-frothingslosh-beer-can-value'
+  keywords:
+    - Olde Frothingslosh beer can value
+    - Pittsburgh Brewing Company collectibles
+    - vintage beer can prices
+    - Rege Cordic memorabilia
+    - pale stale ale collectibles
+    - Miss Olde Frothingslosh cans
+    - breweriana collecting
+  articleSection: Breweriana
+  about:
+    '@type': Thing
+    name: Olde Frothingslosh Beer Cans
+    description: >-
+      Collectible beer cans from Pittsburgh Brewing Company's novelty 'pale
+      stale ale with foam on the bottom' product line
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
+  timeRequired: PT10M
 ---
 
 {{< content-modules/section-header title="Introduction to Olde Frothingslosh" level="2" >}}

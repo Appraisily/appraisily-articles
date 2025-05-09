@@ -39,8 +39,15 @@ structured_data:
     Discover how antique appraisal systems work, how to find professional
     appraisers, digital valuation tools, and methods to accurately determine the
     value of your collectibles and heirlooms.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-appraisal-system/antique-appraisal-system-image-1_DK5yDoHP99.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-appraisal-system/antique-appraisal-system-image-1_DK5yDoHP99.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining antique collectible using specialized
+      valuation tools and techniques
   author:
     '@type': Organization
     name: Appraisily Team

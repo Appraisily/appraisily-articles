@@ -39,8 +39,15 @@ structured_data:
     Learn the true value of old metal Tonka trucks, from rare models worth
     thousands to common vintage trucks. Discover identification tips, price
     factors, and where to sell these collectible toys.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-metal-tonka-trucks-value/old-metal-tonka-trucks-value-image-1_pRGs2uoMc.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-metal-tonka-trucks-value/old-metal-tonka-trucks-value-image-1_pRGs2uoMc.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage yellow and orange metal Tonka dump truck showing collectible
+      patina and original paint from the 1960s-1970s era
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,37 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-06-16T14:30:00.000Z'
   dateModified: '2023-06-16T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-metal-tonka-trucks-value'
+  keywords:
+    - old metal Tonka trucks value
+    - vintage Tonka truck prices
+    - collectible Tonka toys
+    - rare Tonka truck identification
+    - metal Tonka dump truck worth
+    - Tonka truck price guide
+    - antique Tonka appraisal
+  about:
+    '@type': Thing
+    name: Vintage Tonka Trucks
+    description: >-
+      Collectible metal toy trucks manufactured by Tonka Toys from 1947 until
+      the 1980s, known for their durability and realistic designs.
+  articleSection: Toys & Collectibles
+  alternativeHeadline: 'Old Metal Tonka Trucks Value Guide: What Are Your Vintage Toys Worth?'
+  mentions:
+    - '@type': Organization
+      name: Tonka Toys
+      alternateName: Mound Metalcraft
+      foundingDate: '1947'
+    - '@type': Organization
+      name: Hasbro
+      description: Toy company that acquired Tonka in 1991
 ---
 
 {{< content-modules/section-header title="Discovering the Value of Vintage Metal Tonka Trucks" level="2" >}}

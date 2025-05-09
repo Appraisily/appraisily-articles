@@ -44,14 +44,30 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-20T14:30:00.000Z'
   dateModified: '2023-07-20T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-guns-value/old-guns-value-image-1_BeVvvc4CS.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-guns-value/old-guns-value-image-1_BeVvvc4CS.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique firearms collection showcasing historical rifles and
+      pistols from different eras
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-guns-value'
+  keywords:
+    - old guns value
+    - antique firearm appraisal
+    - vintage gun worth
+    - collectible firearms valuation
+    - antique pistol values
+    - historical gun pricing
+    - rare firearm identification
 ---
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/old-guns-value/old-guns-value-image-1_BeVvvc4CS.png" alt="Collection of valuable antique firearms including rifles and pistols" caption="Antique firearms can range dramatically in value based on numerous factors" />}}

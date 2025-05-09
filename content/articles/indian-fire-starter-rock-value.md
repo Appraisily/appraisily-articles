@@ -39,8 +39,15 @@ structured_data:
     Discover the historical significance, identification features, and current
     market value of Native American fire starter rocks with our comprehensive
     collector's guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/indian-fire-starter-rock-value/indian-fire-starter-rock-value-image-1_IdgpDh2DY.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/indian-fire-starter-rock-value/indian-fire-starter-rock-value-image-1_IdgpDh2DY.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Native American fire starter rock with multiple cup-shaped
+      depressions used for traditional fire making
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,15 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/indian-fire-starter-rock-value'
+  keywords:
+    - indian fire starter rock value
+    - native american fire stones
+    - nutting stone identification
+    - prehistoric fire making tools
+    - native american artifact appraisal
+    - indigenous stone tools
+    - fire starter rock authentication
+  articleSection: Native American Artifacts
 ---
 
 Native American fire starter rocks, often referred to as nutting stones or fire stones, represent fascinating artifacts from indigenous cultures that provide insight into prehistoric survival methods. These specialized tools served essential roles in early Native American communities, from fire creation to food preparation. Today, these artifacts hold both historical and monetary value for collectors and enthusiasts of Native American heritage.

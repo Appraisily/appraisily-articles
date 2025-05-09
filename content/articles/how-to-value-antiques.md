@@ -44,14 +44,66 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-11-10T14:30:00.000Z'
   dateModified: '2024-11-10T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-value-antiques/how-to-value-antiques-image-1_QppXzwikN.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-value-antiques/how-to-value-antiques-image-1_QppXzwikN.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antiques with appraisal tools and price guides for
+      determining authentic market value
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/how-to-value-antiques'
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Value Antiques
+  description: Professional techniques for accurately valuing antique items
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-value-antiques/how-to-value-antiques-image-1_QppXzwikN.png
+    width: '1200'
+    height: '630'
+  step:
+    - '@type': HowToStep
+      name: Conduct Thorough Research
+      text: >-
+        The foundation of accurate antique valuation begins with diligent
+        research. Before seeking professional opinions or making decisions about
+        selling, take time to gather information about your item. Identify the
+        item's period, style, and potential origin. Search for maker's marks,
+        signatures, or manufacturing labels. Document any provenance.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/how-to-value-antiques/how-to-value-antiques-image-2_y_qsJODaN.png
+  tool:
+    - '@type': HowToTool
+      name: Magnifying glass
+    - '@type': HowToTool
+      name: Reference books
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why does proper antique valuation matter?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Understanding the true value of antiques helps you make informed
+          decisions about insurance, sales, purchases, and preservation
+          strategies. Proper valuation can prevent underselling valuable items,
+          help determine appropriate insurance coverage, guide investment
+          decisions in the antiques market, assist in estate planning and
+          distribution, and enhance your knowledge as a collector.
 ---
 
 ![Various antiques including furniture, collectibles, and artwork with price tags and valuation tools](https://ik.imagekit.io/appraisily/SEO/how-to-value-antiques/how-to-value-antiques-image-1_QppXzwikN.png)

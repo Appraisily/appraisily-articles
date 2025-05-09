@@ -37,7 +37,14 @@ structured_data:
     Discover where to get reliable antique doll appraisals in your area,
     understand valuation factors, and learn how to find reputable experts for
     your vintage and collectible dolls.
-  image: 'https://appraisily.com/images/antique-doll-appraisal.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/antique-doll-appraisal.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining valuable antique porcelain doll for
+      authentication and valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -47,8 +54,87 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-05-25T14:30:00.000Z'
   dateModified: '2023-05-25T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-doll-appraisal-near-me'
+  keywords:
+    - antique doll appraisal near me
+    - vintage doll valuation services
+    - porcelain doll expert appraisers
+    - bisque doll authentication
+    - local doll collection assessment
+    - heirloom doll value determination
+  articleSection: Dolls & Toys
+  about:
+    '@type': Thing
+    name: Antique Doll Appraisal
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why do professional antique doll appraisals matter?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Getting an accurate valuation from a qualified expert ensures you
+            understand your doll's true worth, which is essential for insurance
+            purposes, potential sales, or simply appreciating your collection's
+            value.
+      - '@type': Question
+        name: How can I find qualified doll appraisers near me?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            You can find qualified doll appraisers through the National Antique
+            Doll Dealers Association (NADDA) member directory organized by
+            state, local antique shops and doll dealers, antique malls,
+            specialty toy and doll shops, auction houses, and historical
+            societies.
+      - '@type': Question
+        name: What services do NADDA members typically offer?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            NADDA members typically offer various services including formal
+            written appraisals, verbal consultations, identification of unmarked
+            dolls, authentication of rare examples, and valuation for insurance
+            or estate purposes.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Find Qualified Doll Appraisers Near You
+    step:
+      - '@type': HowToStep
+        name: Check the National Antique Doll Dealers Association
+        text: >-
+          The NADDA maintains a comprehensive member directory organized by
+          state, making it easy to find certified doll experts in your area.
+          These professionals specialize in antique and collectible dolls and
+          adhere to ethical standards established by the organization.
+        url: 'https://nadda.org/member-directory/by-state/'
+      - '@type': HowToStep
+        name: Visit Local Antique Shops and Doll Dealers
+        text: >-
+          Established antique shops often have connections to doll specialists
+          or may have staff members with expertise in antique dolls.
+      - '@type': HowToStep
+        name: Explore Additional Local Options
+        text: >-
+          Visit antique malls and ask proprietors for recommendations, check
+          with specialty toy and doll shops, inquire at local auction houses
+          that handle estates, contact historical societies that may know local
+          experts.
+      - '@type': HowToStep
+        name: Consider Online Appraisal Services
+        text: >-
+          If you don't have access to local experts or prefer the convenience of
+          digital options, several reputable online services offer professional
+          doll appraisals.
 ---
 
 ## Introduction to Antique Doll Appraisals

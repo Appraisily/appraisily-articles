@@ -40,8 +40,15 @@ structured_data:
     Discover how much an antique appraisal costs, from hourly rates to flat
     fees. Learn about different appraisal types, where to find free valuations,
     and when professional appraisals are worth the investment.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-does-an-antique-appraisal-cost/how-much-does-an-antique-appraisal-cost-image-1_hr9ZcUvSO.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-much-does-an-antique-appraisal-cost/how-much-does-an-antique-appraisal-cost-image-1_hr9ZcUvSO.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining valuable antique items with magnifying
+      glass and documentation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,31 @@ structured_data:
   dateModified: '2023-05-13T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/how-much-does-an-antique-appraisal-cost
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: How much does an antique appraisal cost?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Antique appraisal costs vary widely based on several factors. Verbal
+        consultations typically cost $50-$150, single item written appraisals
+        range from $250-$350, hourly rates are $100-$300/hour, premium services
+        from auction houses cost $350-$500/hour, and online appraisal services
+        range from $25-$100/item. Most appraisers have minimum fees regardless
+        of the item's value or time required.
+  - '@type': Question
+    name: What pricing models do professional appraisers use?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Most professional appraisers use one of two pricing models: Hourly Rates
+        (typically $100-$300 per hour for generalists, $350-$500 for
+        specialists, often with a minimum fee, best for collections) or Flat Fee
+        Pricing (used for single items or online appraisals, ranging from
+        $50-$350 depending on complexity, may offer package deals, provides
+        pricing certainty upfront).
 ---
 
 ## Understanding Antique Appraisal Costs

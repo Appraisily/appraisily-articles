@@ -40,8 +40,20 @@ structured_data:
     techniques artists use to manipulate light and dark values for powerful
     visual impact.
   image:
-    - >-
-      https://ik.imagekit.io/appraisily/SEO/use-of-value-in-art/use-of-value-in-art-image-1_RrUbasllc.png
+    - '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/use-of-value-in-art/use-of-value-in-art-image-1_RrUbasllc.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Value scale demonstrating gradation from light to dark tones in artistic
+        rendering
+    - '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/use-of-value-in-art/use-of-value-in-art-image-2_A7K0dPx9g.png
+      width: '1200'
+      height: '630'
+      caption: An artwork demonstrating how value creates focal points and depth
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,8 +63,73 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-09-15T14:30:00.000Z'
   dateModified: '2023-09-15T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/use-of-value-in-art'
+  keywords:
+    - value in art
+    - light and dark in art
+    - tonal values
+    - value contrast
+    - art elements
+    - value techniques
+    - chiaroscuro
+  articleSection: Art Theory
+  about:
+    '@type': Thing
+    name: Art Value Techniques
+    description: >-
+      The use of light and dark values in artistic composition to create depth,
+      dimension, and visual impact
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is Value in Art?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Value is the lightness or darkness of a color or hue, measurable on
+            a scale from white (highest value) to black (lowest value). It is
+            one of the most fundamental elements that artists manipulate to
+            create visual interest, depth, and dimension. Value in art is
+            essentially how light or dark something appears on a scale from
+            white to black. According to Draw Paint Academy, value is considered
+            by many artists to be more important than color in creating
+            successful compositions. In black-and-white art, value is the only
+            element used to create visual distinction, while in color art, value
+            helps create depth and form alongside hue and saturation.
+      - '@type': Question
+        name: What is the Purpose of Value in Art?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Value serves multiple crucial functions in artistic compositions,
+            from creating the illusion of three-dimensionality to directing the
+            viewer's attention to specific areas of the artwork. According to
+            Artists Network, value is used to create focal points within
+            artwork. The human eye is naturally drawn to areas of high contrast
+            – where light meets dark.
+      - '@type': Question
+        name: What are the Key Value Concepts in Art?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The key value concepts in art include: High Value (light tones
+            approaching white) which create highlights and focal points; Middle
+            Value (medium grays) which form transitional areas and volume; and
+            Low Value (dark tones approaching black) which create shadows and
+            depth. These different value levels help artists create dimension
+            and visual interest in their work.
 ---
 
 ## Introduction to Value in Art

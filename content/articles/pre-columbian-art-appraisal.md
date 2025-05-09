@@ -39,8 +39,15 @@ structured_data:
     Learn how to accurately appraise Pre-Columbian art with our expert guide
     covering authenticity verification, valuation methods, and common collector
     questions.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/pre-columbian-art-appraisal/pre-columbian-art-appraisal-image-1_8kZ6qJouo.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/pre-columbian-art-appraisal/pre-columbian-art-appraisal-image-1_8kZ6qJouo.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Pre-Columbian pottery figure displaying intricate ceremonial
+      designs and cultural significance
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,37 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/pre-columbian-art-appraisal'
+  keywords:
+    - Pre-Columbian art appraisal
+    - ancient Mesoamerican artifact valuation
+    - authenticate Pre-Columbian pottery
+    - Mayan artifact identification
+    - Aztec antiquities value
+    - Pre-Columbian sculpture authentication
+    - indigenous American art market
+  articleSection: Antiques
+  about:
+    '@type': Thing
+    name: Pre-Columbian Art
+    description: >-
+      Art created by indigenous peoples of the Americas before European
+      colonization
+  hasPart:
+    - '@type': FAQPage
+      mainEntity:
+        - '@type': Question
+          name: What are the major Pre-Columbian art periods?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              The major Pre-Columbian art periods include: Olmec Culture (1500
+              BCE - 300 CE) known for colossal stone heads and jade figurines;
+              Classic Maya Period (250 - 900 CE) producing sophisticated
+              ceramics, stone carvings, and architectural elements; Post-Classic
+              Period (900 - 1521 CE) including Aztec, Mixtec, and late Maya
+              cultures notable for gold work, polychrome pottery, and ceremonial
+              objects; and West Mexican Cultures (200 BCE - 600 CE) known for
+              expressive ceramic figures and shaft tomb artifacts.
 ---
 
 ## Introduction to Pre-Columbian Art Appraisal

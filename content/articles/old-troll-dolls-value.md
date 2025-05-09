@@ -43,8 +43,16 @@ structured_data:
     Discover the hidden value of vintage troll dolls, from DAM originals to 90s
     treasures. Learn identification tips, price ranges, and what makes certain
     trolls worth hundreds.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-troll-dolls-value/old-troll-dolls-value-image-1_wgKr5oTt-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-troll-dolls-value/old-troll-dolls-value-image-1_wgKr5oTt-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage troll dolls from various eras showing different hair
+      colors and styles, including rare DAM models and colorful specimens with
+      distinctive wild hair
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +67,21 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-troll-dolls-value'
+  about:
+    - '@type': Thing
+      name: Troll Dolls
+      description: >-
+        Collectible figurines with wild, colorful hair that originated in
+        Denmark in the 1950s
+    - '@type': Thing
+      name: Vintage Toys
+      description: >-
+        Collectible toys from past decades that have historical and monetary
+        value
+  keywords: >-
+    old troll dolls value, vintage troll doll identification, DAM troll dolls
+    worth, rare troll doll collectors, 60s troll dolls, 90s troll collectibles,
+    valuable troll figurines
 ---
 
 ![Collection of vintage troll dolls from various eras showing different hair colors and styles](https://ik.imagekit.io/appraisily/SEO/old-troll-dolls-value/old-troll-dolls-value-image-1_wgKr5oTt-.png)

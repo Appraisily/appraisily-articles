@@ -37,8 +37,15 @@ structured_data:
   description: >-
     Discover the best free antique appraisal apps that help identify, value, and
     authenticate your vintage treasures using just your smartphone camera.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal-app/free-antique-appraisal-app-image-1_DmPfSaREb.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal-app/free-antique-appraisal-app-image-1_DmPfSaREb.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Smartphone using a free antique appraisal app to scan and identify a
+      valuable vintage vase
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +58,37 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/free-antique-appraisal-app'
+  about:
+    '@type': Thing
+    name: Antique Appraisal
+    description: Identification and valuation of antique items and collectibles
+  keywords: >-
+    free antique appraisal app, antique identification app, vintage item
+    valuation, AI antique appraisal, digital collectible authentication, mobile
+    antique valuation, smartphone appraisal tools
+  howTo:
+    '@type': HowTo
+    name: How Antique Appraisal Apps Work
+    description: >-
+      Modern antique appraisal apps employ various technologies to identify and
+      value items, from advanced AI algorithms to crowdsourced expert opinions.
+    step:
+      - '@type': HowToStep
+        name: Photo Capture
+        text: You take photos of your item from multiple angles
+      - '@type': HowToStep
+        name: AI Analysis
+        text: The app processes the images using computer vision technology
+      - '@type': HowToStep
+        name: Database Matching
+        text: >-
+          Your item is compared against thousands or millions of cataloged
+          antiques
+      - '@type': HowToStep
+        name: Results Delivery
+        text: >-
+          You receive information about identification, age, history, and
+          estimated value
 ---
 
 In today's digital age, identifying and valuing antiques has never been more accessible. Gone are the days when you needed to transport your treasures to an expert or pay hefty fees for professional appraisals. With the rise of free antique appraisal apps, anyone with a smartphone can now get instant insights into the history, authenticity, and potential value of their vintage items.

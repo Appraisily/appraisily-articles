@@ -39,8 +39,15 @@ structured_data:
     Discover what determines antique high chair values, from Victorian-era
     pieces to mid-century designs. Expert appraisal guide with price ranges,
     identification tips, and market insights.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-high-chair-value/antique-high-chair-value-image-1_gOO15ax_l.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-high-chair-value/antique-high-chair-value-image-1_gOO15ax_l.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate Victorian-era oak high chair with detailed carvings and original
+      finish - a valuable antique collectible
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,26 @@ structured_data:
   datePublished: '2024-07-19T14:30:00.000Z'
   dateModified: '2024-07-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-high-chair-value'
+  about:
+    '@type': Thing
+    name: Antique High Chairs
+    description: >-
+      Historical children's furniture from various periods including Victorian,
+      Arts & Crafts, and Mid-20th Century designs
+  mentions:
+    - '@type': Thing
+      name: Victorian Era High Chairs
+      description: Ornate wooden high chairs from 1837-1901 valued at $150-$350
+    - '@type': Thing
+      name: Arts & Crafts/Mission Style High Chairs
+      description: Craftsman-style high chairs valued at $200-$500
+    - '@type': Thing
+      name: Early/Mid 20th Century High Chairs
+      description: Simpler design high chairs often with enamel trays valued at $75-$200
+  itemReviewed:
+    '@type': Product
+    name: Antique High Chairs
+    category: Antique Furniture
 ---
 
 ![Victorian-era antique high chair with ornate wooden details and original finish](https://ik.imagekit.io/appraisily/SEO/antique-high-chair-value/antique-high-chair-value-image-1_gOO15ax_l.png)

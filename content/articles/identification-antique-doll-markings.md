@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify antique doll markings and determine the value of your
     collectible dolls with our expert guide to maker's marks, symbols, and
     dating techniques.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identification-antique-doll-markings/identification-antique-doll-markings-image-1_gPFeBTZ7j.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identification-antique-doll-markings/identification-antique-doll-markings-image-1_gPFeBTZ7j.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique porcelain doll showing manufacturer's mark on neck with magnifying
+      glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,14 @@ structured_data:
   dateModified: '2023-07-20T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/identification-antique-doll-markings
+  keywords:
+    - antique doll markings
+    - doll maker identification
+    - porcelain doll marks
+    - vintage doll authentication
+    - collectible doll values
+    - bisque doll identification
+    - antique doll dating techniques
 ---
 
 Collecting antique dolls can be a fascinating hobby, but determining their authenticity, origin, and value requires knowledge of doll markings and manufacturer symbols. Whether you've inherited a family heirloom, discovered a potential treasure at an estate sale, or are simply curious about that old doll in your collection, understanding how to identify antique doll markings is the key to unlocking their secrets.

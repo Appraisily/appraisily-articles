@@ -39,8 +39,15 @@ structured_data:
     Discover everything you need to know about antique appraisers, from finding
     certified professionals to understanding costs and qualifications for
     accurate valuations.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-appraiser/antique-appraiser-image-1_Z3oguoqRL.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-appraiser/antique-appraiser-image-1_Z3oguoqRL.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser carefully examining a vintage item with
+      specialized tools and magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,22 @@ structured_data:
   datePublished: '2023-08-01T14:30:00.000Z'
   dateModified: '2023-08-01T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-appraiser'
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What Does an Antique Appraiser Do?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Professional antique appraisers are specialists who evaluate,
+        authenticate, and determine the fair market value of antiques,
+        collectibles, and vintage items. Their expertise typically encompasses
+        various categories, including furniture and decorative arts, fine art
+        and paintings, jewelry and timepieces, coins and currency, books and
+        manuscripts, ceramics and glassware, textiles and clothing, and military
+        items and memorabilia. The appraisal process requires research skills,
+        specialized knowledge, market awareness, and documentation expertise.
 ---
 
 ## Understanding Antique Appraisers: Your Guide to Professional Valuation Services

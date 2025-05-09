@@ -44,15 +44,39 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-12T14:30:00.000Z'
   dateModified: '2023-08-12T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-pedal-tractor-values/antique-pedal-tractor-values-image-1_sLG8iQ9-Mr.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-pedal-tractor-values/antique-pedal-tractor-values-image-1_sLG8iQ9-Mr.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Restored vintage John Deere pedal tractor from the 1950s with original
+      green paint in excellent condition
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-pedal-tractor-values'
+  about:
+    '@type': Thing
+    name: Antique Pedal Tractors
+    description: >-
+      Miniature replicas of full-sized farm machines originally created as
+      children's toys in the mid-20th century
+  keywords: >-
+    antique pedal tractor values, vintage pedal tractor identification, John
+    Deere pedal tractor prices, rare pedal tractor models, collectible farm toy
+    values
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  timeRequired: PT10M
 ---
 
 ![Vintage John Deere pedal tractor with original paint in excellent condition](https://ik.imagekit.io/appraisily/SEO/antique-pedal-tractor-values/antique-pedal-tractor-values-image-1_sLG8iQ9-Mr.png)

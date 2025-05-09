@@ -37,8 +37,6 @@ structured_data:
   description: >-
     Explore the key factors that determine what gives art value in the market,
     from artist reputation and provenance to scarcity and cultural impact.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/what-gives-art-value/what-gives-art-value-image-1_pdZp4hPBz.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +49,25 @@ structured_data:
   datePublished: '2024-06-04T14:30:00.000Z'
   dateModified: '2024-06-04T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/what-gives-art-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/what-gives-art-value/what-gives-art-value-image-1_pdZp4hPBz.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Art valuation process with curator examining a high-value painting in an
+      auction gallery setting
+  about:
+    '@type': Thing
+    name: Art Valuation
+    description: >-
+      The process of determining the monetary value of artwork based on various
+      factors including artist reputation, provenance, and market demand.
+  keywords: >-
+    art valuation factors, what determines art value, art investment worth, art
+    market pricing, valuable artwork characteristics, art authenticity value,
+    art collecting guide
 ---
 
 ## Introduction to Art Valuation

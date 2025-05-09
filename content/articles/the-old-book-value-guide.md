@@ -43,8 +43,15 @@ structured_data:
     Learn how to value your old and rare books with our comprehensive guide
     covering pricing factors, identification methods, and expert resources for
     book collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/the-old-book-value-guide/the-old-book-value-guide-image-1_E_tT0W-Rh.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/the-old-book-value-guide/the-old-book-value-guide-image-1_E_tT0W-Rh.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique books with leather bindings and gold
+      lettering displayed on wooden bookshelves
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,9 +61,70 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-07-12T14:30:00.000Z'
   dateModified: '2024-07-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/the-old-book-value-guide'
+  about:
+    '@type': Thing
+    name: Book Valuation
+    description: >-
+      Methods and factors for determining the value of antique, rare, and
+      vintage books
+  keywords:
+    - old book value guide
+    - antique book appraisal
+    - rare book identification
+    - first edition book values
+    - book collecting guide
+    - vintage book pricing
+    - book condition grading
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  hasPart:
+    - '@type': FAQPage
+      mainEntity:
+        - '@type': Question
+          name: What factors influence a book's value?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              Key factors that influence a book's value include: 1. Rarity:
+              Limited print runs, surviving copies, and scarcity in the
+              marketplace. 2. Condition: Physical state, completeness, and
+              preservation quality. 3. Demand: Collector interest and
+              cultural/historical significance. 4. Edition: First editions,
+              limited editions, or special printings. 5. Provenance: Previous
+              ownership history and authentication.
+    - '@type': HowTo
+      name: How to Identify First Editions and Early Printings
+      description: >-
+        Steps to determine if you have a valuable first edition or early
+        printing of a book
+      step:
+        - '@type': HowToStep
+          name: Check for first edition indicators
+          text: >-
+            Look for the words "First Edition," "First Printing," or "First
+            Published" on the copyright page
+          image: >-
+            https://ik.imagekit.io/appraisily/SEO/the-old-book-value-guide/the-old-book-value-guide-image-2_UasQ5VYCB.png
+        - '@type': HowToStep
+          name: Examine printing numbers
+          text: >-
+            Check for the absence of additional printing numbers (no mention of
+            "Second Printing," etc.)
+        - '@type': HowToStep
+          name: Compare copyright and publication dates
+          text: Verify that the copyright date matches the publication date
+        - '@type': HowToStep
+          name: Inspect the dust jacket
+          text: >-
+            Look for the publisher's original price on the dust jacket (if
+            present)
 ---
 
 Many people have old books tucked away in attics, inherited from relatives, or discovered at estate sales. But determining whether these books hold significant monetary value can be challenging. This comprehensive guide will walk you through everything you need to know about valuing old books, from identifying valuable editions to finding the right markets for selling them.

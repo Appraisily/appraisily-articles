@@ -39,8 +39,15 @@ structured_data:
     Discover the value of old Mason jars with our comprehensive guide. Learn to
     identify rare jars worth hundreds, dating techniques, and where to sell your
     vintage collection.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-mason-jars/value-of-old-mason-jars-image-1_eQThLY7D-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-mason-jars/value-of-old-mason-jars-image-1_eQThLY7D-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique Mason jars collection showing rare Ball and Atlas models
+      in blue, amber and clear glass with various closures
   author:
     '@type': Organization
     name: Appraisily Team

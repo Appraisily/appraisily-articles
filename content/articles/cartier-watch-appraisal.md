@@ -38,8 +38,14 @@ structured_data:
     value factors, and discover which models hold their worth in this
     comprehensive guide.
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/cartier-watch-appraisal/cartier-watch-appraisal-image-1_HlOeDld6t.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Luxury Cartier watch being professionally examined during appraisal
+      process
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,11 +55,39 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-03-30T14:30:00.000Z'
   dateModified: '2023-03-30T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/cartier-watch-appraisal'
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why should I get my Cartier watch appraised?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          A professional Cartier watch appraisal serves multiple purposes
+          including insurance documentation to secure proper coverage, resale
+          planning to understand current market value, authentication to verify
+          authenticity and detect counterfeits, estate planning to properly
+          value assets for inheritance, investment tracking to monitor
+          appreciation of collectible models, and damage assessment to determine
+          value loss after damage occurs.
+    - '@type': Question
+      name: What factors affect a Cartier watch's value?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The value of a Cartier watch is influenced by numerous factors
+          including the model and collection (limited editions and discontinued
+          models often command premium prices), condition, age, materials used,
+          provenance, and market demand. Iconic collections like Tank and Santos
+          typically have different valuation considerations.
 ---
 
 {{< content-modules/section-header title="Introduction to Cartier Watch Appraisals" level="2" >}}

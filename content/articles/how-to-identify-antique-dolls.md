@@ -38,8 +38,15 @@ structured_data:
     Learn to identify antique dolls with our comprehensive guide covering
     markings, materials, and authentication techniques to determine age and
     value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-dolls/how-to-identify-antique-dolls-image-2_XV6yUA4LA.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-dolls/how-to-identify-antique-dolls-image-2_XV6yUA4LA.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of authenticated antique porcelain and bisque dolls
+      displaying period-appropriate clothing and distinctive maker markings
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-to-identify-antique-dolls'
+  about:
+    '@type': Thing
+    name: Antique Doll Identification
+    description: >-
+      Methods and techniques for identifying, dating, and authenticating antique
+      and vintage dolls
+  keywords: >-
+    antique doll identification, vintage doll authentication, antique doll
+    markings, bisque doll identification, porcelain doll values, antique doll
+    dating techniques, collectible doll authentication
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Doll Identification" level="2" >}}

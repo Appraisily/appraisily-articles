@@ -39,13 +39,20 @@ structured_data:
     Discover the true value of your antique New Home sewing machine with our
     comprehensive guide covering identification, pricing factors, and current
     market values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/new-home-sewing-machine-antique-value/new-home-sewing-machine-antique-value-image-1_dfIoZPh2D.png
-  datePublished: '2023-11-11T14:30:00.000Z'
-  dateModified: '2023-11-11T14:30:00.000Z'
   author:
     '@type': Organization
     name: Appraisily Team
+  datePublished: '2023-11-11T14:30:00.000Z'
+  dateModified: '2023-11-11T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/new-home-sewing-machine-antique-value/new-home-sewing-machine-antique-value-image-1_dfIoZPh2D.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate antique New Home sewing machine with decorative cast iron base and
+      original wooden cabinet from early 1900s
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,29 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://appraisily.com/articles/new-home-sewing-machine-antique-value'
+  keywords:
+    - New Home sewing machine value
+    - antique sewing machine appraisal
+    - vintage New Home sewing machine worth
+    - New Home sewing machine identification
+    - New Home sewing machine models
+    - antique sewing machine prices
+    - New Home serial numbers
+  articleSection: Sewing Collectibles
+  about:
+    '@type': Thing
+    name: Antique New Home Sewing Machines
+    description: >-
+      Historical sewing machines manufactured by the New Home Sewing Machine
+      Company from 1860 to 1960
+  mentions:
+    - '@type': Organization
+      name: New Home Sewing Machine Company
+      foundingDate: '1860'
+      location: 'Orange, Massachusetts'
+    - '@type': Organization
+      name: Janome Sewing Machine Company
+      location: Japan
 ---
 
 **Antique New Home sewing machines represent an important chapter in American manufacturing history, combining functional craftsmanship with decorative artistry. For collectors, these machines offer both historical significance and aesthetic beauty, but determining their actual value can be challenging.**

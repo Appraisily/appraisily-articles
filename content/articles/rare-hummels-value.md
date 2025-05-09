@@ -41,8 +41,15 @@ structured_data:
     Comprehensive collector's guide to identifying and valuing rare Hummel
     figurines, with expert tips on authentication, markings, and current market
     prices for these cherished porcelain treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-hummels-value/rare-hummels-value-image-1_74EHWewH5.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-hummels-value/rare-hummels-value-image-1_74EHWewH5.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of rare and valuable Hummel figurines including Adventure Bound
+      and Ring Around the Rosie
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,15 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-07-19T14:30:00.000Z'
   dateModified: '2023-07-19T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/rare-hummels-value'
+  keywords:
+    - rare Hummel figurines
+    - valuable Hummel collectibles
+    - Hummel identification guide
+    - antique Hummel values
+    - limited edition Hummels
+    - Hummel price guide
+    - Sister Maria Innocentia Hummel
 ---
 
 ![Collection of rare and valuable Hummel figurines including Adventure Bound and Ring Around the Rosie](https://ik.imagekit.io/appraisily/SEO/rare-hummels-value/rare-hummels-value-image-1_74EHWewH5.png)

@@ -1,42 +1,80 @@
 ---
-title: "Old Case XX Pocket Knife Value: Comprehensive Collector's Guide"
-description: "Discover what makes vintage Case XX pocket knives valuable. Learn to identify rare models, determine condition factors, and find out what your old Case knife is worth today."
-slug: "old-case-xx-pocket-knife-value"
-date: 2023-09-24T10:30:00-04:00
-lastmod: 2023-09-24T10:30:00-04:00
+title: 'Old Case XX Pocket Knife Value: Comprehensive Collector''s Guide'
+description: >-
+  Discover what makes vintage Case XX pocket knives valuable. Learn to identify
+  rare models, determine condition factors, and find out what your old Case
+  knife is worth today.
+slug: old-case-xx-pocket-knife-value
+date: 2023-09-24T14:30:00.000Z
+lastmod: 2023-09-24T14:30:00.000Z
 draft: false
-featured_image: "https://ik.imagekit.io/appraisily/SEO/old-case-x-x-pocket-knife-value/old-case-x-x-pocket-knife-value-image-1_FidRP8yEf.png"
-image_alt: "Vintage Case XX pocket knife with traditional bone handle and multiple blades"
-category: "Collectibles"
-type: "article"
-author: "Appraisily Team"
+featured_image: >-
+  https://ik.imagekit.io/appraisily/SEO/old-case-x-x-pocket-knife-value/old-case-x-x-pocket-knife-value-image-1_FidRP8yEf.png
+image_alt: Vintage Case XX pocket knife with traditional bone handle and multiple blades
+category: Collectibles
+type: article
+author: Appraisily Team
 featured: true
-meta_title: "Old Case XX Pocket Knife Value Guide - Find What Your Vintage Knife Is Worth"
-meta_description: "Expert guide to valuing vintage Case XX pocket knives. Learn dating methods, pattern identification, and key factors that determine the value of your antique Case knife."
-canonical_url: "https://appraisily.com/old-case-xx-pocket-knife-value/"
-keywords: "vintage Case XX knife, old Case knife value, Case pocket knife identification, collectible knife value, Case XX dating, rare Case XX patterns, antique pocket knife worth"
-structured_data: |
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Old Case XX Pocket Knife Value: Comprehensive Collector's Guide",
-    "description": "Discover what makes vintage Case XX pocket knives valuable. Learn to identify rare models, determine condition factors, and find out what your old Case knife is worth today.",
-    "image": "https://ik.imagekit.io/appraisily/SEO/old-case-x-x-pocket-knife-value/old-case-x-x-pocket-knife-value-image-1_FidRP8yEf.png",
-    "author": {
-      "@type": "Organization",
-      "name": "Appraisily Team"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Appraisily",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://appraisily.com/logo.png"
-      }
-    },
-    "datePublished": "2023-09-24T10:30:00-04:00",
-    "dateModified": "2023-09-24T10:30:00-04:00"
-  }
+meta_title: Old Case XX Pocket Knife Value Guide - Find What Your Vintage Knife Is Worth
+meta_description: >-
+  Expert guide to valuing vintage Case XX pocket knives. Learn dating methods,
+  pattern identification, and key factors that determine the value of your
+  antique Case knife.
+canonical_url: 'https://appraisily.com/old-case-xx-pocket-knife-value/'
+keywords: >-
+  vintage Case XX knife, old Case knife value, Case pocket knife identification,
+  collectible knife value, Case XX dating, rare Case XX patterns, antique pocket
+  knife worth
+structured_data:
+  '@context': 'https://schema.org'
+  '@type': Article
+  headline: 'Old Case XX Pocket Knife Value: Comprehensive Collector''s Guide'
+  description: >-
+    Discover what makes vintage Case XX pocket knives valuable. Learn to
+    identify rare models, determine condition factors, and find out what your
+    old Case knife is worth today.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-case-x-x-pocket-knife-value/old-case-x-x-pocket-knife-value-image-1_FidRP8yEf.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Case XX pocket knife with traditional bone handle and multiple
+      blades
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: 'https://appraisily.com/logo.png'
+  datePublished: '2023-09-24T14:30:00.000Z'
+  dateModified: '2023-09-24T14:30:00.000Z'
+  mainEntityOfPage: 'https://appraisily.com/old-case-xx-pocket-knife-value/'
+  keywords: >-
+    vintage Case XX knife, old Case knife value, Case pocket knife
+    identification, collectible knife value, Case XX dating, rare Case XX
+    patterns, antique pocket knife worth
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What Makes Old Case XX Knives Valuable?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        The value of old Case XX pocket knives is determined by several key
+        factors: Age and Era (knives from pre-1970 often command higher prices),
+        Pattern Rarity (unusual or limited production patterns are more
+        valuable), Handle Material (exotic materials like jigged bone, stag, or
+        pearl can significantly increase value), Condition (mint or near-mint
+        condition knives with original finishes and intact blades are worth
+        more), Original Packaging (having the original box and paperwork greatly
+        enhances value), and Tang Stamps (the specific marking on the tang helps
+        date the knife and verify authenticity).
 ---
 
 ## Introduction to Case XX Pocket Knife Collecting

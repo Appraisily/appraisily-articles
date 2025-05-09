@@ -39,8 +39,6 @@ structured_data:
     Discover what determines antique picture values, from rare prints to vintage
     photographs, with expert insights on authentication, condition factors, and
     market trends.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-pictures-value/antique-pictures-value-image-1_29qJ87Lldv.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +48,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/images/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-09-07T14:30:00.000Z'
   dateModified: '2023-09-07T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-pictures-value/antique-pictures-value-image-1_29qJ87Lldv.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique photographs, prints and ornate
+      frames from various historical periods
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-pictures-value'
+  keywords: >-
+    antique pictures value, vintage photograph appraisal, rare print valuation,
+    antique photograph authentication, collectible picture frames, historical
+    photography value, antique image worth
 ---
 
 Are those old pictures tucked away in your attic valuable treasures or merely sentimental keepsakes? The world of antique pictures—from vintage photographs to old prints and their frames—can be surprisingly valuable to collectors, but navigating their true worth requires specialized knowledge.

@@ -45,8 +45,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-18T14:30:00.000Z'
   dateModified: '2023-07-18T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-identification-rare-corningware-patterns/rare-identification-rare-corningware-patterns-image-1_VOLGwceHQ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-identification-rare-corningware-patterns/rare-identification-rare-corningware-patterns-image-1_VOLGwceHQ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage rare CorningWare collection featuring Blue Cornflower, Wildflower,
+      and Spice of Life patterns with distinctive designs
   publisher:
     '@type': Organization
     name: Appraisily
@@ -57,6 +64,23 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/rare-identification-rare-corningware-patterns
+  keywords:
+    - rare CorningWare patterns
+    - vintage CorningWare identification
+    - valuable CorningWare pieces
+    - collectible CorningWare guide
+    - CorningWare price assessment
+    - Pyroceram cookware value
+    - Blue Cornflower pattern worth
+  about:
+    '@type': Thing
+    name: CorningWare Collectibles
+    description: Vintage CorningWare cookware patterns and their collectible value
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles
+    url: 'https://articles.appraisily.com/categories/collectibles'
+  timeRequired: PT10M
 ---
 
 ![Collection of rare CorningWare patterns including Wildflower, Blue Cornflower, and Spice of Life patterns](https://ik.imagekit.io/appraisily/SEO/rare-identification-rare-corningware-patterns/rare-identification-rare-corningware-patterns-image-1_VOLGwceHQ.png)

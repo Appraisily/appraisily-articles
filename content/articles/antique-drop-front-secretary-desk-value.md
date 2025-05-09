@@ -45,18 +45,35 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-10-24T14:30:00.000Z'
   dateModified: '2023-10-24T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-drop-front-secretary-desk-value/antique-drop-front-secretary-desk-value-image-1_h2oOuofOG.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-drop-front-secretary-desk-value/antique-drop-front-secretary-desk-value-image-1_h2oOuofOG.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate Victorian antique drop front secretary desk with original hardware
+      and intricate wood carvings
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-drop-front-secretary-desk-value
+  keywords:
+    - antique drop front secretary desk value
+    - secretary desk appraisal
+    - vintage secretary desk worth
+    - antique writing desk prices
+    - drop front desk identification
+    - secretary bookcase value
+    - collectible furniture pricing
 ---
 
 The antique drop front secretary desk represents a perfect marriage of functionality and beauty that has captured the hearts of furniture collectors for centuries. These versatile pieces combine storage, display, and writing surfaces in an elegant package that enhances any interior. Whether you've inherited a family heirloom or are considering adding one of these treasures to your collection, understanding their value is essential.

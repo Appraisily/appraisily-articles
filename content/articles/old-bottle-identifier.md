@@ -42,8 +42,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-29T14:30:00.000Z'
   dateModified: '2023-07-29T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bottle-identifier/old-bottle-identifier-image-1_POjsHA3hu.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-bottle-identifier/old-bottle-identifier-image-1_POjsHA3hu.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique glass bottles showing various colors, shapes, and
+      manufacturer marks for identification
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,68 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-bottle-identifier'
+  keywords:
+    - old bottle identifier
+    - antique bottle identification
+    - vintage bottle value
+    - glass bottle dating techniques
+    - bottle manufacturer marks
+    - pontil mark identification
+    - collectible glass bottles
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Old Bottles
+  description: >-
+    Learn how to identify, date, and determine the value of historic glass
+    bottles using proper tools and examining key features.
+  tool:
+    - '@type': HowToTool
+      name: Magnifying glass
+    - '@type': HowToTool
+      name: Good lighting source
+    - '@type': HowToTool
+      name: Digital camera
+    - '@type': HowToTool
+      name: Ruler or calipers
+    - '@type': HowToTool
+      name: Reference books or reliable websites
+    - '@type': HowToTool
+      name: Notebook
+  step:
+    - '@type': HowToStep
+      name: Gather Essential Tools
+      text: >-
+        Before diving into the details, gather helpful tools including a
+        magnifying glass, good lighting source, digital camera, ruler or
+        calipers, reference books or reliable websites, and a notebook for
+        recording observations.
+    - '@type': HowToStep
+      name: Examine Bottle Bases
+      text: >-
+        Check the bottom of an antique bottle for valuable identification
+        information such as pontil marks and manufacturer symbols.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/old-bottle-identifier/old-bottle-identifier-image-2_fo1sySUT8d.png
+    - '@type': HowToStep
+      name: Identify Pontil Marks
+      text: >-
+        Look for pontil marks on the base, which are one of the most important
+        indicators of an old bottle.
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why Identify Old Bottles?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Understanding the history and origin of antique bottles connects us to
+          the past while potentially uncovering hidden treasures. Whether you're
+          a serious collector, casual enthusiast, or just curious about a family
+          heirloom, proper identification is the key to appreciating and valuing
+          old bottles.
 ---
 
 Are you curious about that old glass bottle you found in your grandmother's attic or while digging in your backyard? Antique bottles can tell fascinating stories about our past and sometimes hold significant value to collectors. This comprehensive guide will help you identify, date, and determine the value of your historic glass bottles.

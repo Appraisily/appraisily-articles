@@ -44,8 +44,6 @@ structured_data:
     Learn how to identify antique rocking chairs with our comprehensive guide
     covering key styles, materials, construction methods, and valuation factors
     for collectors and enthusiasts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-rocking-chair-identification-guide/antique-rocking-chair-identification-guide-image-1_g9LH7JjXm.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,10 +53,29 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/img/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-05-12T14:30:00.000Z'
   dateModified: '2024-05-12T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-rocking-chair-identification-guide
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-rocking-chair-identification-guide/antique-rocking-chair-identification-guide-image-1_g9LH7JjXm.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      19th century American wooden rocking chair with spindle back and curved
+      arms showing authentic patina
+  keywords:
+    - antique rocking chair identification
+    - antique rocker values
+    - dating antique rocking chairs
+    - American rocking chair styles
+    - Victorian rocking chairs
+    - Windsor rocking chairs
+    - antique furniture authentication
 ---
 
 The antique rocking chair stands as an enduring symbol of American craftsmanship and domestic comfort. These cherished pieces combine artistic design with functional purpose, making them highly sought after by collectors and decorators alike. Whether inherited as a family heirloom or discovered at an estate sale, understanding how to properly identify and value antique rocking chairs can be both rewarding and financially beneficial.

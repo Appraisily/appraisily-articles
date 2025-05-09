@@ -39,8 +39,6 @@ structured_data:
     Discover the current market value of Louis Wain art, from his early
     naturalistic cat paintings to his later psychedelic feline works. Learn
     identification tips, auction results, and price ranges for collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/louis-wain-art-value/louis-wain-art-value-image-1_QFzdWPyvl.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +50,46 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2024-07-12T14:30:00.000Z'
   dateModified: '2024-07-12T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/louis-wain-art-value/louis-wain-art-value-image-1_QFzdWPyvl.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Louis Wain's anthropomorphic cat paintings showing the evolution from
+      naturalistic to psychedelic feline art styles
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/louis-wain-art-value'
+  keywords:
+    - Louis Wain art value
+    - Louis Wain cat paintings
+    - Louis Wain auction prices
+    - psychedelic cat art
+    - Louis Wain original artwork
+    - Louis Wain prints value
+    - antique cat illustrations
+  articleSection: Fine Art
+  about:
+    '@type': Thing
+    name: Louis Wain Art
+    description: >-
+      Anthropomorphic cat paintings and illustrations by British artist Louis
+      Wain (1860-1939)
+  mentions:
+    - '@type': Person
+      name: Louis Wain
+      birthDate: '1860'
+      deathDate: '1939'
+      jobTitle: Artist
+      nationality: British
+    - '@type': Person
+      name: Benedict Cumberbatch
+      jobTitle: Actor
+    - '@type': Movie
+      name: The Electrical Life of Louis Wain
+      datePublished: '2021'
 ---
 
 {{< content-modules/section-header title="Introduction to Louis Wain Art" level="2" >}}

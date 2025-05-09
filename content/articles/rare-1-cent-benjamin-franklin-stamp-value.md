@@ -44,8 +44,15 @@ structured_data:
     Discover the true value of rare 1-cent Benjamin Franklin stamps, from common
     issues worth a few dollars to scarce varieties worth thousands. Learn
     identification tips and current market prices.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-1-cent-benjamin-franklin-stamp-value/rare-1-cent-benjamin-franklin-stamp-value-image-1_dK2ESE58q.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-1-cent-benjamin-franklin-stamp-value/rare-1-cent-benjamin-franklin-stamp-value-image-1_dK2ESE58q.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare 1-cent Benjamin Franklin stamp with green background showing
+      Franklin's profile - potentially worth thousands to collectors
   datePublished: '2023-10-08T14:30:00.000Z'
   dateModified: '2023-10-08T14:30:00.000Z'
   author:
@@ -62,6 +69,16 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/rare-1-cent-benjamin-franklin-stamp-value
+  about:
+    '@type': Thing
+    name: Benjamin Franklin Stamps
+    description: >-
+      Collectible postage stamps featuring Benjamin Franklin, particularly the
+      rare 1-cent varieties from various issues throughout U.S. postal history.
+  keywords: >-
+    1-cent Benjamin Franklin stamp value, rare Benjamin Franklin stamps,
+    valuable penny Franklin stamps, Benjamin Franklin stamp identification, Z
+    grill Benjamin Franklin, antique US postage stamps, philately collectibles
 ---
 
 ## Introduction to Benjamin Franklin Stamps

@@ -42,14 +42,61 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-05-17T14:30:00.000Z'
   dateModified: '2023-05-17T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/best-antique-appraisal-app/best-antique-appraisal-app-image-1_eeUuA3h0s.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/best-antique-appraisal-app/best-antique-appraisal-app-image-1_eeUuA3h0s.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Smartphone displaying antique appraisal app analyzing vintage collectible
+      item
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/best-antique-appraisal-app'
+  keywords:
+    - best antique appraisal app
+    - antique identification app
+    - vintage item valuation
+    - collectible appraisal tools
+    - digital antique authentication
+    - mobile antique pricing
+    - heirloom valuation app
+  articleSection: Technology
+  about:
+    '@type': Thing
+    name: Antique Appraisal Apps
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  isPartOf:
+    '@type': Blog
+    name: Appraisily Blog
+    url: 'https://articles.appraisily.com'
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why should I use an antique appraisal app?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Mobile appraisal apps provide instant access to expertise and pricing
+          data that was once available only to professional appraisers and
+          dealers. They offer convenience, accessibility, and powerful features
+          that enhance your antique hunting experience, including instant
+          identification, price estimation, historical context, portability,
+          community access, decision support, and documentation capabilities.
 ---
 
 ## Introduction: The Digital Revolution in Antique Appraisals

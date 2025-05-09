@@ -39,8 +39,6 @@ structured_data:
     Discover what makes vintage Mason jars valuable with our complete guide,
     including identification tips, price ranges, and the rarest jars collectors
     seek.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-mason-jar-value/old-mason-jar-value-image-1_zXXBXEQ3H.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +48,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-10-17T14:30:00.000Z'
   dateModified: '2023-10-17T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-mason-jar-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-mason-jar-value/old-mason-jar-value-image-1_zXXBXEQ3H.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare vintage Ball and Mason jars from different eras showing various
+      colors, closures, and collectible features
+  keywords: >-
+    old mason jar value, antique Ball jar prices, rare Mason jar identification,
+    vintage canning jar worth, collectible Mason jars, blue Ball jar values,
+    Mason jar dating guide
 ---
 
 ## Introduction to Vintage Mason Jar Values

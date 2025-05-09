@@ -43,8 +43,15 @@ structured_data:
     Discover what makes old wooden golf clubs valuable. Learn how to identify
     rare pieces, determine authentic value, and where to sell your vintage golf
     treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-wooden-golf-clubs/value-of-old-wooden-golf-clubs-image-1_G-OuTT_7c.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-wooden-golf-clubs/value-of-old-wooden-golf-clubs-image-1_G-OuTT_7c.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique wooden golf clubs collection featuring rare hickory
+      shafts and persimmon woods from early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,20 @@ structured_data:
   datePublished: '2024-10-01T14:30:00.000Z'
   dateModified: '2024-10-01T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-wooden-golf-clubs'
+  about:
+    '@type': Thing
+    name: Antique Wooden Golf Clubs
+    description: >-
+      Historical wooden golf clubs including hickory-shafted models and
+      persimmon woods from the 19th and 20th centuries
+  keywords:
+    - antique wooden golf clubs value
+    - hickory shaft golf clubs worth
+    - vintage persimmon woods
+    - collectible golf clubs
+    - rare wooden golf club identification
+    - golf memorabilia appraisal
+    - antique golf equipment values
 ---
 
 Are those dusty wooden golf clubs in your attic just taking up space, or could they be valuable collectibles? As golf equipment technology has advanced dramatically over the decades, many enthusiasts are now looking back with nostalgia and appreciation for the craftmanship of vintage wooden golf clubs. From hickory-shafted antiques to classic persimmon woods, these pieces of golfing history can range from decorative items worth a few dollars to rare treasures valued in the thousands.

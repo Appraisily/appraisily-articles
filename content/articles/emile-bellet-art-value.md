@@ -44,14 +44,44 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-26T14:30:00.000Z'
   dateModified: '2023-07-26T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/emile-bellet-art-value/emile-bellet-art-value-image-1_ytRHKwm3U.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/emile-bellet-art-value/emile-bellet-art-value-image-1_ytRHKwm3U.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Emile Bellet painting showing elongated female figure in flowing
+      dress against vibrant abstract background
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/emile-bellet-art-value'
+  keywords:
+    - Emile Bellet art value
+    - Emile Bellet painting prices
+    - Emile Bellet authentication
+    - French artist valuation
+    - Emile Bellet lithographs
+    - Emile Bellet investment
+    - Emile Bellet signature verification
+  articleSection: Fine Art
+  about:
+    '@type': Thing
+    name: Emile Bellet artwork valuation
+    description: >-
+      Market value assessment of French artist Emile Bellet's paintings,
+      lithographs and prints
+  mentions:
+    - '@type': Person
+      name: Emile Bellet
+      birthDate: '1941'
+      deathDate: '2022'
+      jobTitle: Artist
+      nationality: French
 ---
 
 ![Colorful Emile Bellet painting featuring his signature elegant female figure in flowing dress against vibrant background](https://ik.imagekit.io/appraisily/SEO/emile-bellet-art-value/emile-bellet-art-value-image-1_ytRHKwm3U.png)

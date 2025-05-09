@@ -43,8 +43,15 @@ structured_data:
     Discover the value of antique vanities with mirrors from the Victorian era
     through Art Deco period. Learn identification tips, price factors, and how
     to determine what your vintage dressing table is worth in today's market.
-  image: >-
-    https://ik.imagekit.io/appraisily/articles/antique-vanity/featured-antique-vanity.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/articles/antique-vanity/featured-antique-vanity.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate 1920s antique vanity with triple mirror and original hardware in
+      mahogany finish
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,7 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-10-15T14:30:00.000Z'
   dateModified: '2023-10-15T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-vanity-with-mirror-value'
 ---
 
 Antique vanities with mirrors represent elegant pieces of furniture history that continue to captivate collectors and interior designers alike. These beautiful dressing tables, popular from the Victorian era through the Art Deco period, combined functionality with aesthetic appeal, serving as both practical grooming stations and statement pieces in bedrooms.

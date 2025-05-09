@@ -39,8 +39,15 @@ structured_data:
     Discover everything about antiques appraisers - their qualifications,
     services, costs, and how to find the right expert to value your treasured
     items.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antiques-appraiser/antiques-appraiser-image-1_OKLDsAZDe.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antiques-appraiser/antiques-appraiser-image-1_OKLDsAZDe.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antiques appraiser meticulously examining vintage silver
+      teapots using white gloves and magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,22 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antiques-appraiser'
+  about:
+    '@type': Thing
+    name: Antiques Appraisal
+    description: >-
+      Professional evaluation of antique items to determine authenticity,
+      condition, and market value
+  keywords: >-
+    antiques appraiser, professional antique valuation, certified appraiser,
+    antique authentication, appraisal services, heirloom valuation, collectibles
+    appraisal
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - h1
+      - h2
+      - .article-summary
 ---
 
 ## Introduction to Antiques Appraisers

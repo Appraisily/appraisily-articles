@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-17T14:30:00.000Z'
   dateModified: '2023-07-17T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identify-my-art/identify-my-art-image-1_0BOfnssuc.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identify-my-art/identify-my-art-image-1_0BOfnssuc.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Art expert using magnifying glass to examine painting signature and
+      identifying characteristics for authentication
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,72 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/identify-my-art'
+  about:
+    '@type': Thing
+    name: Art Identification
+  keywords: >-
+    identify my art, unknown artwork identification, art signature analysis,
+    painting authentication, art recognition tools, art style identification,
+    art appraisal services
+  articleSection: Art Identification
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  isPartOf:
+    '@type': Blog
+    name: Appraisily Blog
+    url: 'https://articles.appraisily.com'
+  inLanguage: en-US
+  copyrightYear: '2023'
+  copyrightHolder:
+    '@type': Organization
+    name: Appraisily
+  accessMode:
+    - textual
+    - visual
+  accessibilityFeature:
+    - alternativeText
+    - readingOrder
+  accessibilityHazard:
+    - none
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Unknown Artwork
+  description: >-
+    A methodical approach to identifying the artist, style, and potential value
+    of mystery artwork
+  tool:
+    - '@type': HowToTool
+      name: Magnifying glass
+  step:
+    - '@type': HowToStep
+      name: Look for Signatures and Markings
+      text: >-
+        Check all four corners of the front surface, look along the bottom edge
+        of the artwork, examine the back for signatures or labels, and use a
+        magnifying glass for small or faded signatures.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/identify-my-art/identify-my-art-image-2_R4W6zLjBW.png
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why is art identification important?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Properly identifying artwork is crucial for establishing its
+          authenticity and provenance, determining its appropriate insurance
+          value, revealing its historical and cultural significance, enhancing
+          appreciation of the piece's artistic context, and providing essential
+          information for potential resale.
 ---
 
 {{< content-modules/section-header title="Identifying Unknown Artwork: A Comprehensive Guide" level="2" >}}

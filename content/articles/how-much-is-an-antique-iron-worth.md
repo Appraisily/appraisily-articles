@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique irons with our comprehensive price guide.
     Learn how to identify valuable models, factors that affect worth, and where
     to sell your vintage pressing tool.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-iron-worth/how-much-is-an-antique-iron-worth-image-1_rR4x1GUvF.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-iron-worth/how-much-is-an-antique-iron-worth-image-1_rR4x1GUvF.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique sad irons collection showcasing different styles, ages,
+      and materials from the pre-1880 era
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,28 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-much-is-an-antique-iron-worth'
+  keywords:
+    - antique iron value
+    - vintage sad iron worth
+    - collectible pressing tools
+    - antique iron identification
+    - rare iron values
+    - cast iron collectibles
+    - antique household tools
+  articleSection: Household Antiques
+  about:
+    '@type': Thing
+    name: Antique Irons
+    description: >-
+      Historical pressing tools used before modern electric irons, including sad
+      irons, box irons, and early electric models
+  mentions:
+    - '@type': Thing
+      name: Sad Irons
+      description: Heavy cast iron pressing tools heated on stoves or hearths
+    - '@type': Thing
+      name: Box or Charcoal Irons
+      description: Irons with hollow chambers filled with hot coals or charcoal
 ---
 
 {{< content-modules/section-header title="Understanding Antique Iron Values" level="2" >}}

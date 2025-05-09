@@ -38,7 +38,6 @@ structured_data:
     Discover the value of old beer cans in this comprehensive guide. Learn how
     to identify valuable vintage cans, what collectors look for, and where to
     sell your collection.
-  image: 'https://appraisily.com/images/old-beer-cans-value.jpg'
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,6 +49,19 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-06-28T14:30:00.000Z'
   dateModified: '2024-06-28T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/old-beer-cans-value.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare vintage beer cans from 1935-1970s showing cone tops, flat tops and
+      pull tabs in various conditions and values
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-beer-cans-value'
+  keywords: >-
+    old beer cans value, vintage beer can prices, rare beer can identification,
+    collectible beer cans, beer can grading, valuable brewery cans, antique beer
+    memorabilia
 ---
 
 ## Introduction to Vintage Beer Can Collecting

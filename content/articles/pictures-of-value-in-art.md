@@ -42,8 +42,15 @@ structured_data:
     Explore how artists use value—the relative lightness and darkness—to create
     depth, form, and emotional impact in artwork. Learn to recognize and
     appreciate this fundamental element of artistic composition.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/pictures-of-value-in-art/pictures-of-value-in-art-image-1_QXz4MMV2Q.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/pictures-of-value-in-art/pictures-of-value-in-art-image-1_QXz4MMV2Q.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Value scale in art showing gradual transition from white to black tones
+      demonstrating light and shadow principles
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,31 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-10-18T14:30:00.000Z'
   dateModified: '2024-10-18T14:30:00.000Z'
+  keywords:
+    - pictures of value in art
+    - value scale in artwork
+    - light and shadow techniques
+    - tonal values in painting
+    - art value examples
+    - visual depth in art
+    - value contrast in composition
+  articleSection: Art Appreciation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is Value in Art?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Value in art refers to the relative lightness or darkness of colors
+            and tones within an artwork. It creates the visual contrast that
+            allows us to distinguish form, perceive depth, and understand
+            spatial relationships. At its most basic, value in art exists on a
+            scale from white (the highest value) to black (the lowest value),
+            with infinite gradations of gray in between. Even when working with
+            color, every hue has an inherent value.
 ---
 
 ## Introduction to Value in Art

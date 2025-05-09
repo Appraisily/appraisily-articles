@@ -45,7 +45,14 @@ structured_data:
     Understand the real costs of professional art appraisals in 2024, including
     hourly rates, flat fees, and factors that influence pricing for different
     appraisal types.
-  image: 'https://ik.imagekit.io/momaa/Art_Appraisal_Costs_Header.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/momaa/Art_Appraisal_Costs_Header.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser evaluating a painting with magnifying glass and
+      documentation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,14 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-07-19T14:30:00.000Z'
   dateModified: '2024-07-19T14:30:00.000Z'
+  keywords:
+    - art appraisal cost
+    - professional art valuation fees
+    - artwork appraisal pricing
+    - insurance art appraisal cost
+    - fine art authentication pricing
+    - art appraisal hourly rates
+    - flat fee art appraisal
 ---
 
 ## Introduction to Art Appraisal Costs

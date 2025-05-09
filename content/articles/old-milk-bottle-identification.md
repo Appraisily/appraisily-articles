@@ -45,8 +45,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-18T14:30:00.000Z'
   dateModified: '2023-11-18T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-milk-bottle-identification/old-milk-bottle-identification-image-1_ToU25FZmN.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-milk-bottle-identification/old-milk-bottle-identification-image-1_ToU25FZmN.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage milk bottles from various eras showing different
+      shapes and markings
   publisher:
     '@type': Organization
     name: Appraisily
@@ -54,6 +61,70 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-milk-bottle-identification'
+'@graph':
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: When was the first milk bottle patented?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Dr. Henry Thatcher patented one of the first glass milk bottles in
+            1878 after watching a milkman deliver milk with a dipper that had
+            been contaminated by a child's toy.
+      - '@type': Question
+        name: What were early milk bottles like?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            During the 1880s-1890s, the Common Sense milk bottle with a metal
+            closure became widely used, featuring a distinctive bulb-like neck
+            and minimal embossing.
+      - '@type': Question
+        name: When did embossing become common on milk bottles?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            From 1900-1920, known as the Embossing Era, bottles began displaying
+            more elaborate embossed designs with dairy names and locations.
+  - '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify and Date Vintage Milk Bottles
+    description: >-
+      A step-by-step guide to identifying, dating, and valuing antique milk
+      bottles for collectors.
+    image: >-
+      https://ik.imagekit.io/appraisily/SEO/old-milk-bottle-identification/old-milk-bottle-identification-image-1_ToU25FZmN.png
+    step:
+      - '@type': HowToStep
+        name: Examine the Evolution Period
+        text: >-
+          Determine which era your milk bottle belongs to by looking at its
+          overall design. Pre-1880s bottles are rare, 1880s-1890s feature
+          bulb-like necks with minimal embossing, 1900-1920 bottles have more
+          elaborate embossing.
+      - '@type': HowToStep
+        name: Check Key Identification Features
+        text: >-
+          Look for distinctive features such as the shape, size, closure type,
+          and manufacturing marks that can help identify the bottle's origin and
+          age.
+      - '@type': HowToStep
+        name: Analyze Dating Systems
+        text: >-
+          Examine manufacturer's marks, embossed date codes, and patent dates to
+          determine when the bottle was made.
+      - '@type': HowToStep
+        name: Assess Color Variations
+        text: >-
+          Note the color of the glass, as different colors were used in
+          different periods and can indicate rarity and value.
+      - '@type': HowToStep
+        name: Study Markings and Embossing
+        text: >-
+          Identify dairy names, locations, and special promotional text that can
+          help trace the bottle's origin and historical significance.
 ---
 
 ![Collection of vintage milk bottles from various eras showing different shapes and markings](https://ik.imagekit.io/appraisily/SEO/old-milk-bottle-identification/old-milk-bottle-identification-image-1_ToU25FZmN.png)

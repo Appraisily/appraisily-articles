@@ -39,8 +39,15 @@ structured_data:
     Discover how to appraise Japanese art with our comprehensive guide covering
     valuation factors, authentication methods, and market insights for
     collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/japanese-art-appraisal/japanese-art-appraisal-image-1_Gry_WwqHh.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/japanese-art-appraisal/japanese-art-appraisal-image-1_Gry_WwqHh.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining a traditional Japanese ukiyo-e woodblock
+      print
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,24 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/japanese-art-appraisal'
+  about:
+    '@type': Thing
+    name: Japanese Art Appraisal
+    description: >-
+      Professional valuation of Japanese artwork including ukiyo-e prints,
+      ceramics, scrolls, and other collectibles
+  keywords: >-
+    japanese art appraisal, ukiyo-e valuation, japanese woodblock print value,
+    antique japanese ceramics, japanese scroll appraisal
+  articleSection: Asian Art
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-body
 ---
 
 ![Japanese ukiyo-e print with appraiser examining it](https://ik.imagekit.io/appraisily/SEO/japanese-art-appraisal/japanese-art-appraisal-image-1_Gry_WwqHh.png)

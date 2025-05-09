@@ -43,8 +43,6 @@ structured_data:
     Discover what your antique record player cabinet is worth with our detailed
     price guide. Learn about vintage models, identification, and valuation
     factors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-record-player-cabinet-value/antique-record-player-cabinet-value-image-1_OjqFUuMlg.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -60,6 +58,55 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-record-player-cabinet-value
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-record-player-cabinet-value/antique-record-player-cabinet-value-image-1_OjqFUuMlg.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Mid-century wooden record player console cabinet with built-in turntable
+      and speakers
+  keywords:
+    - antique record player cabinet value
+    - vintage stereo console worth
+    - mid-century record player furniture
+    - phonograph cabinet identification
+    - collectible record player values
+    - vintage console stereo prices
+    - antique victrola cabinet worth
+  about:
+    - '@type': Thing
+      name: Antique Furniture
+      sameAs: 'https://www.wikidata.org/wiki/Q4260475'
+    - '@type': Thing
+      name: Record Player
+      sameAs: 'https://www.wikidata.org/wiki/Q724377'
+    - '@type': Thing
+      name: Phonograph
+      sameAs: 'https://www.wikidata.org/wiki/Q178974'
+  mentions:
+    - '@type': Thing
+      name: Phonographs
+    - '@type': Thing
+      name: Gramophones
+    - '@type': Thing
+      name: Edison
+    - '@type': Thing
+      name: Console Radios
+    - '@type': Thing
+      name: Philco
+    - '@type': Thing
+      name: Zenith
+    - '@type': Thing
+      name: RCA
+    - '@type': Thing
+      name: Mid-Century Modern
+    - '@type': Thing
+      name: Magnavox
+    - '@type': Thing
+      name: Fisher
+  specialty: Antique Appraisal
 ---
 
 Antique record player cabinets represent a fascinating intersection of furniture design, audio technology, and nostalgic appeal. These elegant pieces once served as the centerpiece of home entertainment, combining beautiful woodwork with the latest sound reproduction technology of their era. Today, they've become sought-after collectibles with values ranging from modest to substantial depending on numerous factors.

@@ -39,8 +39,6 @@ structured_data:
     Discover the value of old hurricane lamps with our comprehensive price
     guide. Learn about vintage lamp identification, valuation factors, and
     market prices for collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-hurricane-lamps/value-of-old-hurricane-lamps-image-1_TvRL5t1Xa.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +48,57 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-07-05T14:30:00.000Z'
   dateModified: '2024-07-05T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-hurricane-lamps/value-of-old-hurricane-lamps-image-1_TvRL5t1Xa.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique hurricane lamps collection showcasing various styles, colors, and
+      designs from different eras
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/value-of-old-hurricane-lamps'
+  keywords: >-
+    hurricane lamp value, antique hurricane lamps, vintage hurricane lamp
+    identification, collectible oil lamps, Victorian hurricane lamps, hurricane
+    lamp price guide, vintage lighting appraisal
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Are Hurricane Lamps?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Hurricane lamps derive their name from their ability to resist wind
+          gusts or "hurricanes," keeping the flame burning steadily. These
+          functional yet decorative items typically feature a glass chimney or
+          globe that surrounds the flame, mounted on a base that often contained
+          fuel. While originally oil-burning lamps, many antique hurricane lamps
+          have since been electrified, preserving their aesthetic appeal while
+          updating their functionality. According to historical records, the
+          origins of hurricane lamps can be traced back to 18th Century British
+          India, where they were initially called "shades" or "India shades."
+          These early designs evolved through the Victorian era and beyond,
+          creating the diverse styles we see in antique collections today.
+    - '@type': Question
+      name: What Factors Determine Hurricane Lamp Value?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Several key factors influence the market value of antique and vintage
+          hurricane lamps. These include age and era (Victorian era lamps
+          generally command higher prices), material and craftsmanship
+          (hand-blown glass with intricate patterns or rare colors, and bases
+          made of solid brass, bronze, or silver are more valuable), and other
+          factors like condition, rarity, and provenance.
 ---
 
 ![Collection of antique hurricane lamps showing various styles and designs](https://ik.imagekit.io/appraisily/SEO/value-of-old-hurricane-lamps/value-of-old-hurricane-lamps-image-1_TvRL5t1Xa.png)

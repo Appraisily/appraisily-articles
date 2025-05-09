@@ -44,17 +44,42 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-21T14:30:00.000Z'
   dateModified: '2023-09-21T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/molchany-antiques--appraisals/molchany-antiques-appraisals-image-1_XHtxZ0qv9.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/molchany-antiques--appraisals/molchany-antiques-appraisals-image-1_XHtxZ0qv9.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Molchany Antiques & Appraisals Las Vegas storefront displaying valuable
+      antique collectibles and appraisal services
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/molchany-antiques-appraisals'
+  about:
+    '@type': Thing
+    name: Antique Appraisal Services
+    description: >-
+      Professional valuation services for antiques, collectibles, and estate
+      items
+  keywords: >-
+    Molchany Antiques & Appraisals, Las Vegas antique appraisers, certified
+    antique valuation, estate liquidation services, Carole Molchany appraiser,
+    Nevada antique experts, Fifty Shades of Rust
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - h1
+      - h2
+      - .section-header
 ---
 
 # Molchany Antiques & Appraisals: Expert Valuation Services in Las Vegas

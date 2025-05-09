@@ -45,14 +45,29 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-13T14:30:00.000Z'
   dateModified: '2023-09-13T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/certified-art-appraiser/certified-art-appraiser-image-1_BW6PcWxK1.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/certified-art-appraiser/certified-art-appraiser-image-1_BW6PcWxK1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional certified art appraiser examining artwork with magnifying
+      glass for authentication and valuation
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/certified-art-appraiser'
+  keywords: >-
+    certified art appraiser, professional art valuation, fine art appraisal
+    services, art authentication experts, art value determination, appraisal
+    certification standards, collectibles valuation
+  articleSection: Art Appraisal
 ---
 
 {{< content-modules/section-header title="Understanding Certified Art Appraisers" level="2" >}}

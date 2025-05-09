@@ -44,8 +44,15 @@ structured_data:
     Find reliable Native American artifacts appraisal services near you. Learn
     how professionals determine value, authenticity, and cultural significance
     of indigenous art and artifacts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/native-american-artifacts-appraisal-near-me/native-american-artifacts-appraisal-near-me-image-1_BsONFKkGZ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/native-american-artifacts-appraisal-near-me/native-american-artifacts-appraisal-near-me-image-1_BsONFKkGZ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Native American artifacts including pottery, beadwork, and
+      baskets arranged for professional appraisal
   author:
     '@type': Organization
     name: Appraisily Team
@@ -61,6 +68,83 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/native-american-artifacts-appraisal-near-me
+  about:
+    '@type': Thing
+    name: Native American Artifacts
+    description: >-
+      Historical and cultural artifacts created by indigenous peoples of North
+      America
+  keywords: >-
+    Native American artifacts appraisal near me, indigenous art valuation,
+    tribal artifact authentication
+  articleSection: Antiques & Collectibles
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body h2
+      - .article-body p
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-body
+  mentions:
+    - '@type': Thing
+      name: Native American pottery
+    - '@type': Thing
+      name: tribal artifacts
+    - '@type': Thing
+      name: indigenous art
+    - '@type': Thing
+      name: beadwork
+    - '@type': Thing
+      name: baskets
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  potentialAction:
+    '@type': FindAction
+    target:
+      '@type': EntryPoint
+      urlTemplate: >-
+        https://appraisily.com/find-appraiser?specialty=native-american-artifacts
+    description: Find qualified Native American artifact appraisers near you
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What expertise should appraisers have for Native American artifacts?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Professional appraisers specializing in Native American artifacts
+            typically have expertise in tribal-specific artistic traditions and
+            craftsmanship, historical materials and techniques, authentication
+            methods, market trends and collector interest, cultural and
+            historical significance, and legal considerations surrounding Native
+            American artifacts.
+      - '@type': Question
+        name: What factors affect the value of Native American artifacts?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of Native American artifacts is determined by factors
+            including tribal origin, age, rarity, condition, provenance,
+            cultural significance, materials used, craftsmanship, and legal
+            status under laws like NAGPRA.
+      - '@type': Question
+        name: >-
+          Is it better to get Native American artifacts appraised online or
+          in-person?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            In-person appraisals are generally preferred for Native American
+            artifacts as they allow the appraiser to physically examine
+            materials, construction techniques, and signs of age or restoration
+            that may not be visible in photographs. However, online preliminary
+            assessments can be useful for initial evaluations.
 ---
 
 # Native American Artifacts Appraisal Near Me: Finding Expert Valuation Services

@@ -1,9 +1,6 @@
 ---
 title: 'Antique Bottle Appraisal: Expert Guide to Valuing Your Vintage Glass Treasures'
-description: >-
-  Learn how to identify and value your antique bottles with our comprehensive
-  appraisal guide. Discover key factors that determine bottle value and get
-  expert tips for selling your vintage glass collectibles.
+description: A comprehensive process for determining the value of vintage glass bottles
 slug: old-bottle-appraisal
 date: 2023-07-18T14:30:00.000Z
 lastmod: 2023-07-18T14:30:00.000Z
@@ -46,8 +43,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-18T14:30:00.000Z'
   dateModified: '2023-07-18T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bottle-appraisal/old-bottle-appraisal-image-1_VXS0ukovC.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-bottle-appraisal/old-bottle-appraisal-image-1_VXS0ukovC.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique glass bottles showing different
+      colors, shapes and manufacturing techniques
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +59,89 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bottle-appraisal'
+  about:
+    '@type': Thing
+    name: Antique Bottle Collecting
+    description: >-
+      Identification, valuation and collection of vintage and antique glass
+      bottles
+  keywords: >-
+    old bottle appraisal, antique bottle identification, vintage glass bottle
+    value, collectible bottle markings, historical bottle worth, antique
+    medicine bottle values, rare bottle collecting guide
+  articleSection: Collectibles
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-body
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-title
+      - .article-summary
+  inLanguage: en-US
+  copyrightYear: '2023'
+  copyrightHolder:
+    '@type': Organization
+    name: Appraisily
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  isAccessibleForFree: true
+  creativeWorkStatus: Published
+  educationalUse: Research
+  genre: Antiques Guide
+  isFamilyFriendly: true
+  thumbnailUrl: >-
+    https://ik.imagekit.io/appraisily/SEO/old-bottle-appraisal/old-bottle-appraisal-image-1_VXS0ukovC.png
+'@context': 'https://schema.org'
+'@type': HowTo
+mainEntity:
+  - '@type': Question
+    name: What is antique bottle appraisal?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Antique bottle appraisal is the process of determining the age,
+        authenticity, historical significance, and monetary value of old glass
+        bottles. Unlike modern mass-produced containers, antique bottles often
+        have distinctive characteristics that make them collectible and
+        valuable. Professional appraisers examine various aspects of a bottle,
+        including its age, rarity, condition, color, manufacturing method,
+        embossing, design features, and historical context.
+name: How to Appraise an Antique Bottle
+step:
+  - '@type': HowToStep
+    name: Identification of the bottle type and purpose
+    text: >-
+      Determine what the bottle was originally used for (medicine, beverage,
+      etc.)
+    position: 1
+  - '@type': HowToStep
+    name: Determination of the approximate age
+    text: >-
+      Analyze manufacturing techniques and markings to establish when the bottle
+      was made
+    position: 2
+  - '@type': HowToStep
+    name: Assessment of condition and any damage
+    text: 'Examine the bottle for chips, cracks, staining or other condition issues'
+    position: 3
+  - '@type': HowToStep
+    name: Evaluation of rarity and desirability among collectors
+    text: >-
+      Research how common or rare the bottle is in the current collector's
+      market
+    position: 4
+  - '@type': HowToStep
+    name: Estimation of fair market value
+    text: 'Based on all factors, determine the bottle''s approximate monetary worth'
+    position: 5
+image:
+  '@type': ImageObject
+  url: >-
+    https://ik.imagekit.io/appraisily/SEO/old-bottle-appraisal/old-bottle-appraisal-image-1_VXS0ukovC.png
 ---
 
 # Antique Bottle Appraisal: Expert Guide to Valuing Your Vintage Glass Treasures

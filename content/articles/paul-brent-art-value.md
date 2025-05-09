@@ -42,8 +42,15 @@ structured_data:
     Discover what factors influence Paul Brent art value in today's market. From
     limited editions to original watercolors, learn how to assess and price
     coastal artwork by this renowned artist.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/paul-brent-art-value/paul-brent-art-value-image-1_5MEw0K3Ej.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/paul-brent-art-value/paul-brent-art-value-image-1_5MEw0K3Ej.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Paul Brent original coastal artwork featuring detailed seashells, beach
+      scenes and vibrant watercolor techniques
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,38 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-10-17T14:30:00.000Z'
   dateModified: '2023-10-17T14:30:00.000Z'
+  keywords:
+    - Paul Brent art value
+    - Paul Brent watercolor prices
+    - coastal artwork appraisal
+    - Paul Brent limited editions
+    - Paul Brent print values
+    - collecting Paul Brent
+    - Paul Brent signature identification
+  about:
+    '@type': Thing
+    name: Paul Brent Artwork
+    description: >-
+      Coastal-themed artwork by American artist Paul Brent, known for watercolor
+      and oil paintings featuring beach scenes, seashells, and marine life.
+  articleSection: Fine Art
+  timeRequired: PT10M
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Who Is Paul Brent?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Paul Brent is an internationally recognized artist whose distinctive
+            coastal-themed artwork has captivated collectors for decades. Born
+            in Oklahoma City in 1946, Brent is best known for his watercolor and
+            oil paintings featuring beach scenes, seashells, marine life, and
+            coastal landscapes. His artistic career has spanned over four
+            decades, establishing him as one of America's premier coastal
+            artists.
 ---
 
 ## Introduction to Paul Brent's Artistic Legacy

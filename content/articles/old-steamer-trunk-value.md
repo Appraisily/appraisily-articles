@@ -39,8 +39,15 @@ structured_data:
     Discover what determines the value of antique steamer trunks, from
     identifying manufacturers to assessing condition. Learn price ranges and
     find out if your old trunk is a hidden treasure.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-steamer-trunk-value/old-steamer-trunk-value-image-1_GQhUKg8Io.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-steamer-trunk-value/old-steamer-trunk-value-image-1_GQhUKg8Io.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique wooden steamer trunk with brass hardware and leather straps from
+      the early 20th century
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,28 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-steamer-trunk-value'
+  about:
+    - '@type': Thing
+      name: Antique Steamer Trunks
+      description: >-
+        Historical luggage pieces from the mid-1800s to early 1900s used for
+        ocean travel
+    - '@type': Thing
+      name: Antique Valuation
+      description: The process of determining the monetary worth of historical items
+  mentions:
+    - '@type': Brand
+      name: Louis Vuitton
+    - '@type': Brand
+      name: Goyard
+    - '@type': Brand
+      name: Hermès
+    - '@type': Brand
+      name: Moynat
+    - '@type': Brand
+      name: Hartmann
+    - '@type': Brand
+      name: Oshkosh
 ---
 
 Antique steamer trunks represent a fascinating slice of travel history, serving as both functional luggage and artistic time capsules from eras when journeying across oceans was a grand affair. Today, these vintage pieces have transformed from practical travel necessities into coveted collectibles and stylish home decor items.

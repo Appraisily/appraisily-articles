@@ -42,8 +42,15 @@ structured_data:
     Learn professional techniques to accurately assess and determine the value
     of antiques, from historical significance to market conditions, with expert
     advice from appraisers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-an-antique/value-of-an-antique-image-1_r4cqVCS9x.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-an-antique/value-of-an-antique-image-1_r4cqVCS9x.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique valuation process showing a magnifying glass
+      examining vintage collectible details
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,45 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-11-08T14:30:00.000Z'
   dateModified: '2023-11-08T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Antique Valuation
+  keywords:
+    - value of an antique
+    - antique appraisal methods
+    - determine antique worth
+    - antique valuation guide
+    - antique price factors
+    - collectible authentication
+    - vintage item assessment
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes an antique valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique is determined by a combination of several
+            key elements including age and authenticity, rarity and scarcity,
+            and condition. True antiques are generally over 100 years old, while
+            items between 40-100 years are classified as vintage. Authentic
+            pieces are worth more than reproductions. Items produced in limited
+            quantities or with few surviving examples typically command higher
+            prices. The condition can impact value by 50% or more between
+            excellent and poor condition examples.
+      - '@type': Question
+        name: How does age affect an antique's value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            While age alone doesn't guarantee value, it's a fundamental starting
+            point. Generally, items over 100 years old are considered true
+            antiques, while those between 40-100 years are typically classified
+            as vintage. Age contributes to an item's historical significance and
+            potential rarity, as fewer examples tend to survive over longer
+            periods.
 ---
 
 Uncovering the true value of an antique item can feel like detective work. Whether you've inherited a family heirloom, discovered something intriguing at an estate sale, or are simply curious about your collection's worth, understanding how to properly value antiques is both an art and a science. This comprehensive guide will walk you through the essential factors that determine an antique's value and provide you with the tools to assess your treasures accurately.

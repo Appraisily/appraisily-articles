@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique mantel clocks with our comprehensive guide.
     Learn about identification, pricing factors, and where to sell your vintage
     timepiece.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-mantel-clocks-value/antique-mantel-clocks-value-image-1_98Ltzk3zg.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-mantel-clocks-value/antique-mantel-clocks-value-image-1_98Ltzk3zg.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate 19th century wooden antique mantel clock with brass detailing and
+      decorative carvings
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-mantel-clocks-value'
+  about:
+    '@type': Thing
+    name: Antique Mantel Clocks
+    description: >-
+      Decorative timepieces that sat on mantels and shelves in homes from the
+      18th century onwards
+  keywords: >-
+    antique mantel clocks value, vintage mantel clock identification, Seth
+    Thomas mantel clocks, French antique mantel clocks, collectible mantel
+    timepieces, antique clock appraisal, valuable mantel clocks
 ---
 
 ## Introduction to Antique Mantel Clocks

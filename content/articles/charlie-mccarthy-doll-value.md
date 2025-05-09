@@ -39,8 +39,15 @@ structured_data:
     Discover the value of Charlie McCarthy dolls from the $25-$800+ price range.
     Learn how to identify authentic vintage dolls, assess condition, and
     maximize your investment in this ventriloquist collectible.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/charlie-mccarthy-doll-value/charlie-mccarthy-doll-value-image-1_oIpsdg8q-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/charlie-mccarthy-doll-value/charlie-mccarthy-doll-value-image-1_oIpsdg8q-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Charlie McCarthy ventriloquist doll with signature top hat and
+      monocle in collectible condition
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,39 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-09T14:30:00.000Z'
   dateModified: '2023-11-09T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/charlie-mccarthy-doll-value'
+  keywords:
+    - Charlie McCarthy doll value
+    - Edgar Bergen ventriloquist dummy
+    - vintage Charlie McCarthy collectibles
+    - antique ventriloquist dolls
+    - Charlie McCarthy memorabilia prices
+    - 1930s ventriloquist collectibles
+    - rare Charlie McCarthy dolls
+  about:
+    '@type': Thing
+    name: Charlie McCarthy Ventriloquist Dolls
+    description: >-
+      Collectible ventriloquist dolls based on Edgar Bergen's famous character
+      Charlie McCarthy, produced from the 1930s through the 1970s
+  mentions:
+    - '@type': Person
+      name: Edgar Bergen
+      sameAs: 'https://en.wikipedia.org/wiki/Edgar_Bergen'
+    - '@type': Person
+      name: Charlie McCarthy
+      sameAs: 'https://en.wikipedia.org/wiki/Charlie_McCarthy'
+    - '@type': Person
+      name: Theodore Mack
+      description: >-
+        Chicago woodcarver who created the original Charlie McCarthy dummy in
+        1923
+  temporalCoverage: 1923/2023
+  typicalAgeRange: Adult collectors
 ---
 
 ## Introduction to Charlie McCarthy Dolls

@@ -43,8 +43,6 @@ structured_data:
     Learn how to identify, date, and accurately value antique chairs with our
     comprehensive guide covering styles, materials, construction techniques, and
     valuation factors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-chair-identification-guide/antique-chair-identification-guide-image-1_uaGcrUvHw.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,12 +52,27 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-10-03T14:30:00.000Z'
   dateModified: '2023-10-03T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-chair-identification-guide
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-chair-identification-guide/antique-chair-identification-guide-image-1_uaGcrUvHw.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of historical antique chairs showing Victorian, Queen Anne, and
+      Chippendale styles with distinctive period features
+  keywords: >-
+    antique chair identification, antique chair styles, dating antique chairs,
+    antique furniture valuation, Queen Anne chairs, Chippendale chairs,
+    Victorian chair identification
 ---
 
 Understanding how to identify and value antique chairs is both an art and a science. Whether you're a collector, dealer, or simply curious about that family heirloom in your attic, knowing the distinguishing characteristics of different chair styles can help you determine their age, authenticity, and value. In this comprehensive guide, we'll walk you through the key aspects of antique chair identification, from recognizing specific design periods to evaluating construction techniques and condition.

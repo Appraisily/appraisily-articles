@@ -46,8 +46,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-29T14:30:00.000Z'
   dateModified: '2023-11-29T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-postcard-value-websites/antique-postcard-value-websites-image-1_FRV9KynPE.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-postcard-value-websites/antique-postcard-value-websites-image-1_FRV9KynPE.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage and antique postcards with price guide references
+      for determining their value and historical significance
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,58 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-postcard-value-websites'
+  about:
+    '@type': Thing
+    name: Antique Postcards
+    description: >-
+      Historical postcards from the late 19th century through early 20th century
+      that have collectible value
+  keywords: >-
+    antique postcard value websites, vintage postcard price guide, postcard
+    appraisal online, rare postcard valuation, collectible postcard worth,
+    antique ephemera pricing, old postcard identification
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-headline
+  inLanguage: en-US
+  isAccessibleForFree: true
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: true
+      cssSelector: .article-body
+  mentions:
+    - '@type': Thing
+      name: Golden Age of Postcards
+      description: >-
+        Period spanning approximately 1905-1915 when postcards were extremely
+        popular
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why are antique postcards valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique postcards can be valuable due to several factors: age
+            (generally, older postcards from pre-1920s tend to command higher
+            prices), condition (mint or near-mint condition cards can be worth
+            exponentially more), rarity (limited editions or cards from small
+            towns/locations), subject matter (topics like Halloween, Santa
+            Claus, or historical events), artistic merit (cards by renowned
+            illustrators or photographers), and historical significance (cards
+            documenting important moments or locations).
+      - '@type': Question
+        name: What is the Golden Age of postcards?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The Golden Age of postcards spans approximately 1905-1915. During
+            this period, postcards became the social media of their day—a quick,
+            inexpensive way to share messages, images, and experiences.
 ---
 
 ![Collection of vintage and antique postcards with price guide references](https://ik.imagekit.io/appraisily/SEO/antique-postcard-value-websites/antique-postcard-value-websites-image-1_FRV9KynPE.png)

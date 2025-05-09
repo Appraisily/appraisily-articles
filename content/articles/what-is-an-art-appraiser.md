@@ -38,8 +38,6 @@ structured_data:
     Discover what an art appraiser does, their qualifications, how they
     determine artwork value, and why you might need their services for your
     collection.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/what-is-an-art-appraiser/what-is-an-art-appraiser-image-1_nJ0TSkZh5.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,11 +47,70 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-03T14:30:00.000Z'
   dateModified: '2023-07-03T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/what-is-an-art-appraiser/what-is-an-art-appraiser-image-1_nJ0TSkZh5.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining a painting's details with a
+      magnifying glass
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/what-is-an-art-appraiser'
+  keywords:
+    - art appraiser
+    - fine art valuation
+    - professional art appraisal
+    - artwork value assessment
+    - art authentication
+    - art appraisal services
+    - art valuation expert
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Does an Art Appraiser Do?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Art appraisers have diverse responsibilities that go beyond simply
+          determining a price. Their core functions include: 1. Value
+          Assessment: Determining the fair market value, replacement value, or
+          insurance value of artworks. 2. Authentication: Verifying the
+          authenticity of artwork through various methods. 3. Condition
+          Reporting: Documenting the physical state of artworks. 4. Market
+          Analysis: Researching comparable sales and market trends. 5.
+          Documentation: Creating detailed reports for legal, insurance, or tax
+          purposes.
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: Core Functions of an Art Appraiser
+  step:
+    - '@type': HowToStep
+      name: Value Assessment
+      text: >-
+        Determining the fair market value, replacement value, or insurance value
+        of artworks
+    - '@type': HowToStep
+      name: Authentication
+      text: Verifying the authenticity of artwork through various methods
+    - '@type': HowToStep
+      name: Condition Reporting
+      text: Documenting the physical state of artworks
+    - '@type': HowToStep
+      name: Market Analysis
+      text: Researching comparable sales and market trends
+    - '@type': HowToStep
+      name: Documentation
+      text: 'Creating detailed reports for legal, insurance, or tax purposes'
 ---
 
 {{< content-modules/section-header title="Understanding the Role of an Art Appraiser" level="2" >}}

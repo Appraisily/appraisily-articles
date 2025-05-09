@@ -39,8 +39,15 @@ structured_data:
     Discover the value of vintage Anheuser-Busch bottles in our comprehensive
     guide. Learn about rare specimens, dating methods, pricing factors and
     expert appraisal tips.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-anheuser-busch-bottles-value/old-anheuser-busch-bottles-value-image-1_Dnc85Klds.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-anheuser-busch-bottles-value/old-anheuser-busch-bottles-value-image-1_Dnc85Klds.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage Anheuser-Busch beer bottles collection showing historical
+      designs from different eras
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,30 @@ structured_data:
   datePublished: '2023-07-12T14:30:00.000Z'
   dateModified: '2023-07-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-anheuser-busch-bottles-value'
+  keywords:
+    - old Anheuser-Busch bottles value
+    - vintage Budweiser bottle prices
+    - antique beer bottle identification
+    - rare Anheuser-Busch collectibles
+    - pre-prohibition beer bottles
+    - beer breweriana values
+    - collectible Budweiser bottles
+  about:
+    '@type': Thing
+    name: Vintage Anheuser-Busch Bottles
+    description: >-
+      Historical beer bottles from Anheuser-Busch brewing company, including
+      Budweiser, dating from the 1800s through modern commemorative editions
+  mentions:
+    - '@type': Thing
+      name: Anheuser-Busch
+      sameAs: 'https://en.wikipedia.org/wiki/Anheuser-Busch'
+    - '@type': Thing
+      name: Budweiser
+      sameAs: 'https://en.wikipedia.org/wiki/Budweiser'
+    - '@type': Thing
+      name: Breweriana
+      description: Collectible items related to beer and brewing
 ---
 
 ![Collection of vintage Anheuser-Busch beer bottles showing various designs and eras](https://ik.imagekit.io/appraisily/SEO/old-anheuser-busch-bottles-value/old-anheuser-busch-bottles-value-image-1_Dnc85Klds.png)

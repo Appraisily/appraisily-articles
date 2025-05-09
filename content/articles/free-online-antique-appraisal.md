@@ -43,8 +43,15 @@ structured_data:
     Discover the best free online antique appraisal services to determine the
     value of your collectibles and heirlooms. Learn how experts evaluate items
     virtually without leaving home.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-online-antique-appraisal/free-online-antique-appraisal-image-1_GN-Of_J52.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-online-antique-appraisal/free-online-antique-appraisal-image-1_GN-Of_J52.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person photographing vintage collectibles for free online antique
+      appraisal submission
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,39 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/free-online-antique-appraisal'
+  about:
+    '@type': Thing
+    name: Antique Appraisal
+    description: 'Evaluation and valuation of antiques, collectibles, and heirlooms'
+  keywords: >-
+    free online antique appraisal, virtual antique valuation, free collectible
+    appraisal services, online heirloom evaluation
+  HowTo:
+    '@type': HowTo
+    name: How Online Antique Appraisals Work
+    description: The typical online appraisal process for antiques and collectibles
+    image: >-
+      https://ik.imagekit.io/appraisily/SEO/free-online-antique-appraisal/free-online-antique-appraisal-image-2_SRDfqYrs0.png
+    step:
+      - '@type': HowToStep
+        name: Photo submission
+        text: >-
+          You'll need to take clear, well-lit photographs of your item from
+          multiple angles, capturing any signatures, marks, damage, or
+          distinctive features.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/free-online-antique-appraisal/free-online-antique-appraisal-image-1_GN-Of_J52.png
+      - '@type': HowToStep
+        name: Item description
+        text: >-
+          Providing detailed information about your antique, including
+          measurements, known history (provenance), condition, and any
+          identifying marks or labels.
+      - '@type': HowToStep
+        name: Expert review
+        text: >-
+          Once submitted, your information is reviewed by antique experts who
+          evaluate the item.
 ---
 
 {{< content-modules/section-header title="Introduction to Free Online Antique Appraisals" level="2" >}}

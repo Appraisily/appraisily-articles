@@ -39,8 +39,15 @@ structured_data:
     Discover the hidden value of old wooden cigar boxes, from identifying
     valuable brands to determining pricing factors and current market values for
     collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-wooden-cigar-boxes-value/old-wooden-cigar-boxes-value-image-1_ZR32LZDb9.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-wooden-cigar-boxes-value/old-wooden-cigar-boxes-value-image-1_ZR32LZDb9.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage wooden cigar boxes displaying ornate labels, craftsmanship, and
+      historical branding from various manufacturers
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,25 @@ structured_data:
   datePublished: '2023-07-20T14:30:00.000Z'
   dateModified: '2023-07-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-wooden-cigar-boxes-value'
+  keywords:
+    - antique wooden cigar boxes
+    - cigar box values
+    - vintage cigar box collecting
+    - rare cigar boxes
+    - wooden cigar box worth
+    - collectible tobacco boxes
+    - cigar box price guide
+  about:
+    '@type': Thing
+    name: Antique Wooden Cigar Boxes
+    description: >-
+      Collectible wooden containers originally used for packaging cigars, now
+      valued for their craftsmanship, historical significance, and artistic
+      merit.
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles
+    url: 'https://articles.appraisily.com/category/collectibles'
 ---
 
 {{< content-modules/section-header title="Introduction to Wooden Cigar Box Collecting" level="2" >}}

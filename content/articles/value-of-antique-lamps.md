@@ -40,8 +40,15 @@ structured_data:
   description: >-
     Discover what determines antique lamp values, how to identify valuable
     pieces, current market prices, and expert tips for collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-lamps/value-of-antique-lamps-image-1_ZD7swUdM4.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-lamps/value-of-antique-lamps-image-1_ZD7swUdM4.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique lamp collection featuring Tiffany style, oil lamps, and
+      vintage lighting fixtures
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,8 +58,33 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-06-01T14:30:00.000Z'
   dateModified: '2023-06-01T14:30:00.000Z'
+  keywords:
+    - antique lamp value
+    - vintage lamp identification
+    - Tiffany lamp prices
+    - collectible lighting worth
+    - antique oil lamp values
+    - how to price antique lamps
+    - rare lamp collectors guide
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Makes a Lamp 'Antique'?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          A lamp must be at least 100 years old to be classified as a true
+          antique. This means today's antique lamps typically date from the
+          1920s or earlier. Vintage lamps are typically between 20-99 years old,
+          including popular mid-century modern styles from the 1950s-1970s.
+          Reproduction lamps mimic antique styles but lack the age, materials,
+          and craftsmanship of genuine antiques.
 ---
 
 ![Collection of valuable antique lamps including Tiffany style and oil lamps](https://ik.imagekit.io/appraisily/SEO/value-of-antique-lamps/value-of-antique-lamps-image-1_ZD7swUdM4.png)

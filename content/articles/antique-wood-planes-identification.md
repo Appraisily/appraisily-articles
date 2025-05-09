@@ -42,7 +42,14 @@ structured_data:
     Learn to identify antique wood planes with our expert guide covering maker's
     marks, dating methods, types, valuation factors, and collecting advice for
     woodworking enthusiasts.
-  image: 'https://www.appraisily.com/images/antique-wood-planes-identification.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://www.appraisily.com/images/antique-wood-planes-identification.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of rare antique wooden planes showing Stanley, Sargent and
+      molding planes with original patina and maker's marks
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,14 @@ structured_data:
   datePublished: '2023-11-11T14:30:00.000Z'
   dateModified: '2023-11-11T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-wood-planes-identification'
+  keywords:
+    - antique wood planes identification
+    - vintage woodworking tool values
+    - Stanley plane dating
+    - wooden molding planes
+    - collectible carpenter tools
+    - antique plane maker marks
+    - woodworking tool history
 ---
 
 ## Introduction to Antique Wood Planes

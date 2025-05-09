@@ -37,8 +37,15 @@ structured_data:
   description: >-
     Discover the best free antique appraisal websites to determine the value of
     your heirlooms, collectibles, and treasures without spending a dime.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal-websites/free-antique-appraisal-websites-image-1_KZxlHe2WC.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal-websites/free-antique-appraisal-websites-image-1_KZxlHe2WC.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collectibles and antiques with laptop displaying free online
+      appraisal website interface
   author:
     '@type': Organization
     name: Appraisily Team

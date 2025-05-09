@@ -39,8 +39,15 @@ structured_data:
     Discover how to locate and select the best rare book appraisal services in
     your area, understand valuation factors, and get fair assessments for your
     valuable books and manuscripts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-book-appraisal-near-me/rare-book-appraisal-near-me-image-1_RkPIjCZlo.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-book-appraisal-near-me/rare-book-appraisal-near-me-image-1_RkPIjCZlo.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining rare antique leather-bound books with
+      white gloves
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,54 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/rare-book-appraisal-near-me'
+  about:
+    '@type': Thing
+    name: Rare Book Appraisal
+    description: >-
+      Professional evaluation of rare books, manuscripts, and literary
+      collections to determine their authenticity, condition, and market value
+  keywords: >-
+    rare book appraisal near me, local book valuation services, antique book
+    appraisers, first edition book assessment, rare manuscript valuation, book
+    collection appraisal, find book appraiser
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: When might you need a professional book appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            You might need a professional book appraisal for insurance coverage
+            (documenting value for insurance policies), estate planning
+            (accurate valuations for dividing assets or planning inheritances),
+            donations (tax documentation for charitable donations), sales
+            decisions (determining fair market value before selling), and
+            settlement disputes (legal proceedings involving book collections).
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Verbal Consultations
+      description: >-
+        Informal evaluations where an appraiser provides an estimated value
+        range without formal documentation. These are typically less expensive
+        but don't provide the detailed documentation needed for insurance or tax
+        purposes.
+    - '@type': ListItem
+      position: 2
+      name: Written Appraisals
+      description: >-
+        Formal, detailed documents that include complete book descriptions and
+        bibliographic information, condition assessments, valuation methodology,
+        market comparisons, appraiser's credentials, and final value
+        determination with supporting evidence.
+    - '@type': ListItem
+      position: 3
+      name: USPAP-Compliant Appraisals
+      description: >-
+        Appraisals that comply with the Uniform Standards of Professional
+        Appraisal Practice, required for tax, insurance, or legal purposes.
 ---
 
 Do you have a dusty first edition in your attic or an inherited collection of antique books? Understanding the value of rare books requires expert knowledge, and finding qualified appraisers in your area is the first step toward uncovering the true worth of your literary treasures.

@@ -81,8 +81,8 @@ Keyword: ${keyword}
 Current front matter:
 ${JSON.stringify(frontMatter, null, 2)}
 
-Article content (first 1000 characters):
-${content.substring(0, 1000)}...
+Article content (first 2000 characters to help you understand the topic):
+${content.substring(0, 2000)}...
 
 Based on this content, please generate the following SEO metadata in JSON format:
 
@@ -91,17 +91,69 @@ Based on this content, please generate the following SEO metadata in JSON format
 3. canonical_url: A canonical URL in the format "https://articles.appraisily.com/articles/[keyword]"
 4. image_alt: Improved alt text for the featured image
 5. keywords: An array of 5-7 highly relevant keywords and phrases
-6. structured_data: Schema.org structured data including:
-   - @type: "Article"
-   - headline
-   - description
-   - author
-   - datePublished
-   - dateModified
-   - image
-   - publisher information
+6. structured_data: A comprehensive Schema.org structured data object including:
 
-Return ONLY valid JSON that can be directly parsed and used as front matter, without explanations.
+   A. Article Schema:
+      - @type: "Article"
+      - headline: The article title
+      - description: A brief description
+      - author information
+      - datePublished: Use the date from front matter
+      - dateModified: Use the lastmod from front matter
+      - image: Enhanced ImageObject format (see below)
+      - publisher information
+
+   B. Enhanced Image Format:
+      Instead of just a URL string for the image, use full ImageObject format:
+      {
+        "@type": "ImageObject",
+        "url": "[same URL from featured_image in frontmatter]",
+        "width": "1200",
+        "height": "630",
+        "caption": "Descriptive caption based on image_alt and content"
+      }
+
+   C. FAQPage Schema (if the article has FAQ sections):
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "[extracted question from content]",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "[extracted answer from content]"
+            }
+          },
+          // Include all FAQ items from the article
+        ]
+      }
+
+   D. HowTo Schema (if the article contains step-by-step instructions):
+      {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "[title of the how-to section]",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "[step title/heading]",
+            "text": "[step instructions]",
+            "image": "[relevant image URL if available]"
+          },
+          // Include all steps from the article
+        ]
+      }
+
+IMPORTANT INSTRUCTIONS:
+1. Extract real FAQs from the content - look for FAQ sections, h2/h3 headings that are questions, or content in question-answer format
+2. For HowTo schema, only include if the article genuinely contains step-by-step instructions or a process
+3. Use actual content from the article whenever possible instead of generating new content
+4. If the article doesn't have FAQs or step-by-step instructions, omit those schema types entirely
+5. For image dimensions, use 1200x630 as default unless actual dimensions are specified in the content
+
+Return ONLY valid JSON that can be directly parsed and used as front matter, without explanations or surrounding text.
 `;
 }
 
@@ -151,7 +203,7 @@ async function callClaudeAPI(prompt, keyword) {
               content: prompt
             }
           ],
-          system: 'You are a specialized SEO expert for art and antiques content. Return only valid JSON without any explanations or markdown formatting.',
+          system: 'You are a specialized SEO expert for art and antiques content. Analyze the provided content to generate comprehensive structured data including Article schema with ImageObject format, FAQPage schema for any FAQ sections, and HowTo schema for instructional content. Extract real questions, answers, and steps from the content. Return only valid JSON without any explanations or markdown formatting.',
           temperature: 0.3
         },
         {

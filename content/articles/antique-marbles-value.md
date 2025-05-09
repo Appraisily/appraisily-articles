@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-12-09T14:30:00.000Z'
   dateModified: '2023-12-09T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-marbles-value/antique-marbles-value-image-1_7S7CbKZvd.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-marbles-value/antique-marbles-value-image-1_7S7CbKZvd.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique glass marbles displaying various patterns, colors, and types
+      valued by collectors
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,18 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-marbles-value'
+  about:
+    '@type': Thing
+    name: Antique Marbles
+    description: >-
+      Collectible glass spheres manufactured from pre-1850s through the mid-20th
+      century, valued for their craftsmanship, rarity, and historical
+      significance.
+  keywords: >-
+    antique marbles value, rare glass marbles worth, vintage marble
+    identification, handmade marble prices, collectible marbles guide, Lutz
+    marbles value, antique toy marbles
+  articleSection: Collectibles
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Marbles" level="2" >}}

@@ -39,8 +39,6 @@ structured_data:
     Explore the dual concept of value in artwork, from its role as an element
     creating depth and dimension to its impact on market pricing and investment
     potential.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-in-artwork/value-in-artwork-image-1_iG2PFVrdN.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,18 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-in-artwork'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-in-artwork/value-in-artwork-image-1_iG2PFVrdN.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Black and white landscape demonstrating tonal value contrast with dramatic
+      light and shadow elements
+  keywords: >-
+    value in artwork, artistic valuation, tonal value in art, art market worth,
+    light and shadow in art, art appraisal factors, art collecting guide
 ---
 
 ## Value in Artwork: The Dual Meaning

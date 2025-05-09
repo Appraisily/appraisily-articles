@@ -43,8 +43,15 @@ structured_data:
     Discover the value of antique fire extinguishers with our comprehensive
     price guide. Learn to identify valuable models, factors affecting worth, and
     where to sell these collectible items.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-fire-extinguisher-value/antique-fire-extinguisher-value-image-1_f8Sxgj7MN.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-fire-extinguisher-value/antique-fire-extinguisher-value-image-1_f8Sxgj7MN.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique brass and copper fire extinguishers from the early 20th
+      century showing different collectible models
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,9 +61,17 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/images/logo.png'
-  datePublished: '2024-10-13'
-  dateModified: '2024-10-13'
+  datePublished: '2024-10-13T14:30:00.000Z'
+  dateModified: '2024-10-13T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-fire-extinguisher-value'
+  keywords:
+    - antique fire extinguisher value
+    - vintage fire extinguisher worth
+    - copper soda-acid extinguisher prices
+    - glass fire grenade value
+    - collectible firefighting equipment
+    - rare fire extinguisher identification
+    - antique safety device collectors
 ---
 
 ![Collection of antique brass and copper fire extinguishers from the early 20th century](https://ik.imagekit.io/appraisily/SEO/antique-fire-extinguisher-value/antique-fire-extinguisher-value-image-1_f8Sxgj7MN.png)

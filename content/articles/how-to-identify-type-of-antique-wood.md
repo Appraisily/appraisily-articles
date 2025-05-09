@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify different types of wood in antique furniture with our
     comprehensive guide covering grain patterns, color variations, and
     distinctive features of mahogany, oak, walnut, and more.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-type-of-antique-wood/how-to-identify-type-of-antique-wood-image-1_gNNqlaw33.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-type-of-antique-wood/how-to-identify-type-of-antique-wood-image-1_gNNqlaw33.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Detailed close-up of antique wooden furniture showcasing distinctive grain
+      patterns and wood textures for identification
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,16 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/how-to-identify-type-of-antique-wood
+  about:
+    '@type': Thing
+    name: Antique Wood Identification
+    description: >-
+      Methods and characteristics for identifying different types of wood used
+      in antique furniture
+  keywords: >-
+    antique wood identification, identify mahogany furniture, antique oak
+    characteristics, walnut wood identification, antique furniture wood types,
+    wood grain pattern guide, historical furniture woods
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Wood Identification" level="2" >}}

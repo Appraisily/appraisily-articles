@@ -41,8 +41,15 @@ structured_data:
     Discover the value of antique Kodak cameras with this comprehensive guide.
     Learn identification tips, price ranges, and what makes these vintage
     cameras valuable.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/kodak-antique-camera-values/kodak-antique-camera-values-image-1_KcnKi0bgmE.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/kodak-antique-camera-values/kodak-antique-camera-values-image-1_KcnKi0bgmE.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage Kodak cameras including Brownie and folding
+      models from Eastman Kodak
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,35 @@ structured_data:
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/kodak-antique-camera-values'
+  keywords:
+    - Kodak antique camera values
+    - vintage Kodak camera worth
+    - Eastman Kodak collectibles
+    - Kodak Brownie value
+    - rare Kodak cameras
+    - antique camera identification
+    - vintage photography collectibles
+  articleSection: Cameras & Photography
+  about:
+    '@type': Thing
+    name: Vintage Kodak Cameras
+    description: >-
+      Antique Eastman Kodak cameras including Brownie and folding models from
+      the early 20th century
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  mainEntity:
+    '@type': CollectionPage
+    name: Vintage Kodak Camera Collection Guide
+    description: >-
+      A comprehensive guide to collecting, identifying, and valuing antique
+      Kodak cameras from various eras
 ---
 
 ![Vintage Kodak cameras including Box Brownie and folding models displayed on wooden surface](https://ik.imagekit.io/appraisily/SEO/kodak-antique-camera-values/kodak-antique-camera-values-image-1_KcnKi0bgmE.png)

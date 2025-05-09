@@ -39,7 +39,6 @@ structured_data:
     Discover how to identify antique tea cup markings and determine the value of
     your vintage china. Learn about backstamps, hallmarks, and manufacturer's
     marks.
-  image: /images/antique-teacup-markings-guide.jpg
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,10 +48,75 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
-  datePublished: '2023-05-15'
-  dateModified: '2023-05-15'
+  datePublished: '2023-05-15T14:30:00.000Z'
+  dateModified: '2023-05-15T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/identification-antique-tea-cup-markings
+  image:
+    '@type': ImageObject
+    url: /images/antique-teacup-markings-guide.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Close-up of antique porcelain teacup bottom showing manufacturer's
+      backstamp and hallmarks
+  keywords:
+    - antique tea cup markings
+    - vintage teacup identification
+    - porcelain backstamps
+    - china hallmarks
+    - teacup maker's marks
+    - antique china identification
+    - collectible teacup value
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What are backstamps on antique tea cups?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Backstamps are the manufacturer's mark on the bottom of a piece.
+            This mark is placed by the manufacturer under the glaze and includes
+            important information about the piece including manufacturer,
+            pattern, date of manufacture, etc. Backstamps are usually placed on
+            the bottom of the piece during production and fired underneath the
+            glaze, making them permanent features of the china.
+      - '@type': Question
+        name: What information can hallmarks provide about antique tea cups?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Hallmarks often indicate a piece's quality, country of origin, or
+            compliance with certain standards. In some countries, particularly
+            England, hallmarks may also include date codes that can precisely
+            pinpoint when a piece was manufactured. English bone china often
+            bears hallmarks that include the manufacturer's registered
+            trademark, the country of origin (e.g., 'England' or 'Made in
+            England'), a pattern number or name, and sometimes a date code or
+            registration number.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Antique Tea Cup Markings
+    description: >-
+      A guide to identifying and understanding markings on antique tea cups to
+      determine their origin, age, and value.
+    step:
+      - '@type': HowToStep
+        name: Examine the Backstamp
+        text: >-
+          Look for the manufacturer's name or logo on the bottom of the tea cup.
+          Backstamps are usually placed during production and fired underneath
+          the glaze, making them permanent features of the china.
+      - '@type': HowToStep
+        name: Identify Hallmarks
+        text: >-
+          Check for hallmarks that indicate a piece's quality, country of
+          origin, or compliance with certain standards. English bone china often
+          includes the manufacturer's trademark, country of origin, pattern
+          number, and sometimes a date code.
 ---
 
 ## Introduction to Antique Tea Cup Identification

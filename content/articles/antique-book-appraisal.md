@@ -45,14 +45,62 @@ structured_data:
     url: 'https://www.appraisily.com/'
   datePublished: '2023-07-08T14:30:00.000Z'
   dateModified: '2023-07-08T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-book-appraisal/antique-book-appraisal-image-1_9MxqgUIRb.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-book-appraisal/antique-book-appraisal-image-1_9MxqgUIRb.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining valuable antique leather-bound books with
+      gold embossing
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-book-appraisal'
+  keywords:
+    - antique book appraisal
+    - rare book valuation
+    - first edition book value
+    - collectible book authentication
+    - book condition assessment
+    - rare book market trends
+    - professional book appraisal services
+  about:
+    '@type': Thing
+    name: Antique Book Appraisal
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why Appraise Your Antique Books?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Proper appraisal of antique books serves multiple purposes, from
+            insurance documentation to estate planning, or simply satisfying
+            curiosity about potential hidden treasures on your shelves. Antique
+            book values can range from a few dollars to hundreds of thousands—or
+            even millions—for exceptionally rare items. The famous Bay Psalm
+            Book, for instance, sold for $14.2 million at auction in 2013,
+            demonstrating the extraordinary potential value of historically
+            significant texts.
+      - '@type': Question
+        name: What factors determine antique book value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique book isn't determined by age alone. Many
+            factors contribute to a book's worth in the collectible market,
+            including rarity and scarcity, first editions (especially from
+            renowned authors), condition, historical significance, and demand in
+            the market. Books with small print runs, those that were destroyed
+            or damaged over time, or titles with historical significance often
+            command higher prices.
 ---
 
 ![Antique leather-bound books with gold embossing being examined by an appraiser](https://ik.imagekit.io/appraisily/SEO/antique-book-appraisal/antique-book-appraisal-image-1_9MxqgUIRb.png)

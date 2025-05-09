@@ -41,8 +41,6 @@ structured_data:
     Learn to identify antique garden tools with our comprehensive guide covering
     types, materials, markings, and value indicators of vintage gardening
     implements.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identify-antique-garden-tools/identify-antique-garden-tools-image-1_3b9CsitCZ.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,75 @@ structured_data:
   datePublished: '2023-06-20T14:30:00.000Z'
   dateModified: '2023-06-20T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/identify-antique-garden-tools'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identify-antique-garden-tools/identify-antique-garden-tools-image-1_3b9CsitCZ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic antique garden tools collection featuring hand-forged spades,
+      vintage pruners, and rare dibbers
+  keywords:
+    - antique garden tool identification
+    - vintage gardening implements
+    - collectible garden tools
+    - antique tool valuation
+    - hand-forged garden tools
+    - rare garden tool collectors
+    - antique garden tool makers
+  about:
+    '@type': Thing
+    name: Antique Garden Tools
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  hasPart:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: How can you identify the age of antique garden tools?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique garden tools can be dated by examining the materials
+            (wrought iron for pre-1700s, cast iron for 1700s-1850s),
+            manufacturing methods (hand-forged vs. mass-produced), maker's
+            marks, and design characteristics specific to different time
+            periods. Pre-1700s tools were primarily hand-forged by blacksmiths,
+            1700s-1850s saw early industrial standardization, 1850s-1900s
+            introduced factory production with stamped manufacturer marks, and
+            1900s-1950s represented the golden age of specialized garden tools.
+      - '@type': Question
+        name: What materials were used in antique garden tools?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique garden tools were primarily made from wrought iron in the
+            pre-1700s, with wooden handles. Cast iron became more common during
+            the 1700s-1850s. As production evolved through the 1850s-1900s,
+            higher quality steel was introduced. The 1900s-1950s featured
+            specialized tools with refined steel designs before plastics and
+            lightweight metals began appearing in the post-1950s era.
+  mainEntity:
+    '@type': HowTo
+    name: How to Identify Antique Garden Tools
+    description: >-
+      A comprehensive guide to identifying, dating, and valuing antique garden
+      tools for collectors and enthusiasts.
+    image: >-
+      https://ik.imagekit.io/appraisily/SEO/identify-antique-garden-tools/identify-antique-garden-tools-image-1_3b9CsitCZ.png
+    step:
+      - '@type': HowToStep
+        name: Understand the Timeline of Garden Tool Development
+        text: >-
+          Study the evolution of garden tools through history, from pre-1700s
+          hand-forged era through the early industrial period (1700s-1850s),
+          mass production beginning (1850s-1900s), the peak of specialized tools
+          (1900s-1950s), and the modern transition (post-1950s).
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/identify-antique-garden-tools/identify-antique-garden-tools-image-1_3b9CsitCZ.png
 ---
 
 # How to Identify Antique Garden Tools: A Collector's Guide

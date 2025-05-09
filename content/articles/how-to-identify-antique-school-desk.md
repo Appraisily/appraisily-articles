@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify authentic antique school desks through materials,
     styles, manufacturer marks, age indicators, and proper valuation techniques
     for collectors and enthusiasts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-school-desk/how-to-identify-antique-school-desk-image-1_AnMUaw9_h.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-school-desk/how-to-identify-antique-school-desk-image-1_AnMUaw9_h.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian-era antique wooden school desk with ornate cast iron frame and
+      inkwell holder
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,94 @@ structured_data:
   datePublished: '2023-08-02T14:30:00.000Z'
   dateModified: '2023-08-02T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/how-to-identify-antique-school-desk'
+  about:
+    '@type': Thing
+    name: Antique School Desks
+    description: Historical educational furniture from the 19th and early 20th centuries
+  keywords: >-
+    antique school desk identification, vintage classroom furniture, cast iron
+    school desks, antique desk valuation, American school desk manufacturers,
+    Victorian school furniture, collectible educational antiques
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  HowTo:
+    '@type': HowTo
+    name: How to Identify Antique School Desks
+    description: >-
+      A step-by-step guide to identifying authentic antique school desks by
+      examining their history, materials, and distinctive features
+    tool:
+      - Knowledge of furniture history
+      - Magnifying glass
+      - Measuring tape
+    step:
+      - '@type': HowToStep
+        name: Understand the historical timeline
+        text: >-
+          Familiarize yourself with the evolution of school desks from the 1850s
+          through the mid-20th century to place them in the correct era for
+          proper identification and valuation.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-school-desk/how-to-identify-antique-school-desk-image-1_AnMUaw9_h.png
+      - '@type': HowToStep
+        name: Identify the era by design features
+        text: >-
+          Examine design elements: 1850s-1870s featured simple cast iron frames
+          with wooden surfaces; 1880s-1900s had ornate Victorian cast iron
+          frames with decorative elements; 1900s-1920s showed standardized
+          designs with oak wood and simpler cast iron frames.
+      - '@type': HowToStep
+        name: Check for manufacturer markings
+        text: >-
+          Look for manufacturer stamps, logos, or patent dates typically found
+          on the metal framework or underneath wooden components to identify the
+          maker.
+      - '@type': HowToStep
+        name: Examine materials and construction
+        text: >-
+          Assess the materials used: authentic antique desks typically feature
+          solid wood (oak, maple, or pine) and cast iron components with
+          distinctive joinery methods of their period.
+      - '@type': HowToStep
+        name: Evaluate age indicators
+        text: >-
+          Look for signs of age such as patina on wood, wear patterns consistent
+          with decades of use, and manufacturing techniques appropriate to the
+          era.
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes a school desk an antique?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A school desk is generally considered antique if it's at least 100
+            years old. Desks from the late 19th century through the early 20th
+            century (pre-1920s) are true antiques, while those from the
+            1920s-1960s are typically classified as vintage.
+      - '@type': Question
+        name: How can I tell if a school desk is genuinely antique?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Examine the construction materials (solid wood and cast iron rather
+            than plywood or steel), look for hand-crafted elements, check for
+            manufacturer marks from known historical companies, and assess the
+            patina and wear patterns that develop naturally over decades.
+      - '@type': Question
+        name: Which manufacturers are most collectible?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The most sought-after antique school desk manufacturers include the
+            American Seating Company, Columbia School Furniture Company, A.H.
+            Andrews & Co., Sidney School Furniture Company, and the Chandler
+            Adjustable Chair and Desk Company. Desks with clear manufacturer
+            markings typically command higher prices.
 ---
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-school-desk/how-to-identify-antique-school-desk-image-1_AnMUaw9_h.png" alt="Antique wooden school desk with cast iron legs and inkwell" caption="Classic American antique school desk with ornate cast iron frame and oak desktop - circa 1880-1900" >}}

@@ -39,8 +39,15 @@ structured_data:
     A comprehensive guide to identifying and valuing antique trunks, including
     steamer trunks, dome tops, and flat tops. Learn what factors affect value
     and current market prices.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-trunks-value/old-trunks-value-image-1_5cae44G-w.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-trunks-value/old-trunks-value-image-1_5cae44G-w.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage steamer trunk with original brass hardware and leather straps from
+      the early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,39 @@ structured_data:
   datePublished: '2024-05-30T14:30:00.000Z'
   dateModified: '2024-05-30T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-trunks-value'
+  about:
+    '@type': Thing
+    name: Antique Trunks
+    description: >-
+      Historical storage and travel containers including steamer trunks, dome
+      tops, and flat tops from the 17th-20th centuries
+  keywords: >-
+    antique trunk values, old steamer trunk worth, vintage trunk identification,
+    dome top trunk prices, collectible trunks, Louis Vuitton trunk value,
+    antique chest appraisal
+  mentions:
+    - '@type': Thing
+      name: Jenny Lind Trunks
+      description: >-
+        Trunks from the early 1800s named after the famous Swedish singer,
+        featuring rounded tops and decorative studded patterns
+    - '@type': Thing
+      name: Saratoga Trunks
+      description: >-
+        Large, heavy trunks with dome tops popular among wealthy Americans in
+        the mid-1800s
+    - '@type': Thing
+      name: Steamer Trunks
+      description: Flat-topped trunks designed for steamship travel between 1870s-1920s
+    - '@type': Thing
+      name: Wardrobe Trunks
+      description: >-
+        Specialized trunks featuring hanging compartments for clothing and
+        multiple drawers, popular from 1875-1930s
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
 ---
 
 Antique trunks hold a special place in the collectibles market, serving as functional pieces of history that tell stories of bygone eras. From ornate steamer trunks used during the golden age of ocean travel to simple flat-top storage chests found in American homes, these pieces can range widely in value based on numerous factors. Whether you've discovered an old trunk in your attic or are considering purchasing one, understanding what determines its worth is essential.

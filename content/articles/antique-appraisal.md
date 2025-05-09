@@ -39,8 +39,6 @@ structured_data:
     Learn the essentials of antique appraisal with our comprehensive guide
     covering valuation methods, finding experts, and determining the true worth
     of your collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-appraisal/antique-appraisal-image-1_8AeIqepro.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,63 @@ structured_data:
   datePublished: '2023-07-19T14:30:00.000Z'
   dateModified: '2023-07-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-appraisal'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-appraisal/antique-appraisal-image-1_8AeIqepro.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining a valuable collectible with
+      magnifying glass for authentication
+  keywords:
+    - antique appraisal
+    - antique valuation methods
+    - professional antique authentication
+    - heirloom assessment
+    - collectible worth determination
+    - find antique appraiser
+    - antique market value
+  articleSection: Appraisal Guides
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is an Antique Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An antique appraisal is a professional assessment of an item's value
+            based on its age, condition, provenance, rarity, and current market
+            demand. Whether you're planning to sell, insure, or simply
+            understand the worth of your possessions, a proper appraisal
+            provides essential documentation and peace of mind.
+      - '@type': Question
+        name: What are Insurance Appraisals?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Insurance appraisals determine replacement value—what it would cost
+            to replace an item with one of similar quality and characteristics.
+            These typically yield the highest valuation and are used for
+            securing proper insurance coverage.
+      - '@type': Question
+        name: What are Fair Market Value Appraisals?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Fair market value represents the price at which an item would change
+            hands between a willing buyer and seller. This is commonly used for
+            estate planning, tax purposes, and donations. It's typically lower
+            than insurance replacement value.
+      - '@type': Question
+        name: What are Liquidation Value Appraisals?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Liquidation value reflects what items might fetch in a forced or
+            time-constrained sale. This is the lowest valuation type.
 ---
 
 ![Professional appraiser examining an antique item with magnifying glass](https://ik.imagekit.io/appraisily/SEO/antique-appraisal/antique-appraisal-image-1_8AeIqepro.png)

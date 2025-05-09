@@ -38,8 +38,15 @@ structured_data:
     Discover the extraordinary value, history, and significance of Renoir's
     Luncheon of the Boating Party, a masterpiece currently worth over $12
     million.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/luncheon-of-the-boating-party-value/luncheon-of-the-boating-party-value-image-1_TFdBIg9lY.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/luncheon-of-the-boating-party-value/luncheon-of-the-boating-party-value-image-1_TFdBIg9lY.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Renoir's Luncheon of the Boating Party (1880-1881) depicting a social
+      gathering at Maison Fournaise restaurant on the Seine
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,64 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/luncheon-of-the-boating-party-value
+  articleSection: Fine Art
+  keywords:
+    - Luncheon of the Boating Party value
+    - Renoir masterpiece worth
+    - Impressionist painting appraisal
+    - The Phillips Collection art
+    - Renoir auction prices
+    - famous French Impressionist paintings
+    - art investment value
+  about:
+    '@type': Thing
+    name: Luncheon of the Boating Party
+    description: >-
+      An Impressionist masterpiece by Pierre-Auguste Renoir painted between
+      1880-1881
+    sameAs: 'https://www.phillipscollection.org/collection/luncheon-boating-party'
+  mentions:
+    - '@type': Person
+      name: Pierre-Auguste Renoir
+    - '@type': Organization
+      name: The Phillips Collection
+      location:
+        '@type': Place
+        address:
+          '@type': PostalAddress
+          addressLocality: Washington
+          addressRegion: DC
+          addressCountry: USA
+    - '@type': Thing
+      name: Impressionism
+      description: >-
+        19th-century art movement characterized by small, thin brush strokes and
+        emphasis on accurate depiction of light
+  contentLocation:
+    '@type': Place
+    name: Maison Fournaise restaurant
+    address:
+      '@type': PostalAddress
+      addressLocality: Chatou
+      addressCountry: France
+  offers:
+    '@type': Offer
+    price: '12000000'
+    priceCurrency: USD
+    availability: 'https://schema.org/OutOfStock'
+    validFrom: '2023-11-13'
+    description: Estimated value of the painting (not for sale)
+  material: Oil on canvas
+  artform: Painting
+  artMedium: Oil paint
+  width:
+    '@type': QuantitativeValue
+    value: '69.125'
+    unitCode: INH
+  height:
+    '@type': QuantitativeValue
+    value: '51.25'
+    unitCode: INH
 ---
 
 {{< content-modules/section-header title="Introduction to Renoir's Masterpiece" level="2" >}}

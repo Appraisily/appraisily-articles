@@ -40,8 +40,15 @@ structured_data:
     Learn how to identify valuable rare antique mantel clocks with our
     comprehensive guide covering maker's marks, period characteristics, and
     valuation factors for collectors and enthusiasts.
-  image: >-
-    https://www.premierclocks.com/cdn/shop/articles/antique_mantle_clock_premier_clocks_2000x.png?v=1741358430
+  image:
+    '@type': ImageObject
+    url: >-
+      https://www.premierclocks.com/cdn/shop/articles/antique_mantle_clock_premier_clocks_2000x.png?v=1741358430
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate 19th century antique mantel clock with decorative wooden case and
+      brass embellishments
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,35 @@ structured_data:
   dateModified: '2023-08-20T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/rare-antique-mantel-clock-identification
+  keywords:
+    - rare antique mantel clock identification
+    - antique mantel clock values
+    - French mantel clock identification
+    - antique clock maker's marks
+    - Seth Thomas mantel clocks
+    - 19th century mantel timepieces
+    - collectible mantel clock features
+  about:
+    '@type': Thing
+    name: Antique Mantel Clocks
+    description: >-
+      Decorative timepieces designed to sit on a mantelpiece, popular from the
+      18th through early 20th centuries
+  timeRequired: PT15M
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What qualifies as a genuine antique mantel clock?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            According to industry standards, a clock must be at least 100 years
+            old to be considered truly antique. Pieces less than a century old
+            but older than 20-30 years typically fall into the "vintage"
+            category. This distinction matters significantly in terms of value
+            and collectibility.
 ---
 
 ## Introduction to Rare Antique Mantel Clocks

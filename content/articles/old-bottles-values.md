@@ -32,27 +32,90 @@ keywords:
   - vintage bottle collecting
   - antique bottle price guide
 structured_data:
-  '@context': 'https://schema.org'
-  '@type': Article
-  headline: 'Old Bottles Value Guide: What Makes Antique Bottles Worth Money in 2024'
-  description: >-
-    Learn how to identify valuable antique bottles, what factors determine old
-    bottle values, and how to spot rare collectible bottles worth money in
-    today's market.
-  author:
-    '@type': Organization
-    name: Appraisily Team
-  datePublished: '2024-05-21T14:30:00.000Z'
-  dateModified: '2024-05-21T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bottles-values/old-bottles-values-image-1_l17YzPO_X.png
-  publisher:
-    '@type': Organization
-    name: Appraisily
-    logo:
+  - '@context': 'https://schema.org'
+    '@type': Article
+    headline: 'Old Bottles Value Guide: What Makes Antique Bottles Worth Money in 2024'
+    description: >-
+      Learn how to identify valuable antique bottles, what factors determine old
+      bottle values, and how to spot rare collectible bottles worth money in
+      today's market.
+    author:
+      '@type': Organization
+      name: Appraisily Team
+    datePublished: '2024-05-21T14:30:00.000Z'
+    dateModified: '2024-05-21T14:30:00.000Z'
+    image:
       '@type': ImageObject
-      url: 'https://appraisily.com/images/logo.png'
-  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bottles-values'
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/old-bottles-values/old-bottles-values-image-1_l17YzPO_X.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Assortment of valuable antique glass bottles showing different colors,
+        embossing, and historical styles
+    publisher:
+      '@type': Organization
+      name: Appraisily
+      logo:
+        '@type': ImageObject
+        url: 'https://appraisily.com/images/logo.png'
+    mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bottles-values'
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes Old Bottles Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors determine whether an old bottle is simply old or
+            genuinely valuable in the collectors' market. Age alone doesn't
+            guarantee value when it comes to antique bottles. While bottles over
+            100 years old are generally considered antique, some relatively
+            recent bottles from the 1920s-1950s can command high prices if they
+            possess other desirable qualities. The most important factors
+            include rarity, historical significance, and condition.
+      - '@type': Question
+        name: How Does Rarity Affect Antique Bottle Value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The scarcest bottles command the highest prices. Limited production
+            runs, bottles from companies that quickly went out of business, or
+            those with manufacturing errors often become collector favorites.
+            For example, certain pre-Prohibition whiskey bottles or medicines
+            containing unusual ingredients have become exceptionally rare.
+  - '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Determine a Bottle's Age
+    description: >-
+      Learn how to identify the age of antique bottles by examining key
+      characteristics and manufacturing techniques.
+    step:
+      - '@type': HowToStep
+        name: Examine the Manufacturing Method
+        text: >-
+          Look for pontil marks, mold seams, and other manufacturing indicators
+          that can help date a bottle.
+      - '@type': HowToStep
+        name: Check for Embossing and Markings
+        text: >-
+          Study any embossed text, logos, or manufacturer's marks that can
+          provide clues to a bottle's age and origin.
+      - '@type': HowToStep
+        name: Analyze the Glass Color and Composition
+        text: >-
+          Different time periods used different glass formulations and colors,
+          which can help narrow down when a bottle was made.
+    image:
+      '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/old-bottles-values/old-bottles-values-image-2_vyJayRsWP.png
+      width: '1200'
+      height: '630'
+      caption: >-
+        Various colored antique bottles including cobalt blue, amber, and clear
+        glass specimens
 ---
 
 Antique bottles have become increasingly sought-after collectibles, with certain rare specimens commanding thousands of dollars at auction. Whether you've discovered old bottles while digging in your backyard, inherited a collection, or simply want to start collecting, understanding what makes these glass treasures valuable is essential.

@@ -39,8 +39,6 @@ structured_data:
     Discover what makes old glass bottles valuable, learn identification
     techniques, and find out current market prices for antique bottles in this
     comprehensive collector's guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-glass-bottle-value/old-glass-bottle-value-image-1_2ibJg2w_z.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,49 @@ structured_data:
   datePublished: '2023-11-09T14:30:00.000Z'
   dateModified: '2023-11-09T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-glass-bottle-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-glass-bottle-value/old-glass-bottle-value-image-1_2ibJg2w_z.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique glass bottles showing various
+      colors, shapes, and historical periods
+  keywords:
+    - old glass bottle value
+    - antique bottle identification
+    - vintage bottle collecting
+    - rare glass bottle prices
+    - medicine bottle collectibles
+    - historical bottle appraisal
+    - colored glass bottle worth
+  about:
+    - '@type': Thing
+      name: Antique Bottles
+    - '@type': Thing
+      name: Glass Collectibles
+    - '@type': Thing
+      name: Bottle Collecting
+  mentions:
+    - '@type': Thing
+      name: Willington Eagle Bottle
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes an Antique Glass Bottle Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors determine an antique glass bottle's value: Age
+            and rarity (bottles manufactured before 1900 are considered antique
+            and more valuable), color and appearance (unusual colors like cobalt
+            blue, amber, purple, and teal command higher prices), and condition
+            (bottles without cracks, chips, or significant wear are worth more).
+            The Willington Eagle Bottle from the 1860s can fetch around $2,100
+            due to its scarcity.
 ---
 
 ![Collection of valuable antique glass bottles in various colors and shapes](https://ik.imagekit.io/appraisily/SEO/old-glass-bottle-value/old-glass-bottle-value-image-1_2ibJg2w_z.png)

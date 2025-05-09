@@ -48,8 +48,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-10-24T14:30:00.000Z'
   dateModified: '2024-10-24T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identification-antique-garden-tools/identification-antique-garden-tools-image-1_FeCMehoV1.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identification-antique-garden-tools/identification-antique-garden-tools-image-1_FeCMehoV1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic collection of antique garden tools including Victorian hand
+      rakes, pruning shears, and early American cultivators
   publisher:
     '@type': Organization
     name: Appraisily
@@ -60,6 +67,21 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/identification-antique-garden-tools
+  about:
+    '@type': Thing
+    name: Antique Garden Tools
+    description: >-
+      Historical gardening implements from pre-1800s through 1950, including
+      Victorian era tools and early industrial revolution pieces
+  keywords: >-
+    antique garden tool identification, vintage gardening implements,
+    collectible garden tools, Victorian garden tools, antique tool valuation,
+    historical gardening equipment, rare garden tool markings
+  timeRequired: PT10M
+  educationalUse: Research
+  audience:
+    '@type': Audience
+    audienceType: 'Collectors, Gardening Enthusiasts, Antique Dealers'
 ---
 
 ## Introduction to Antique Garden Tools

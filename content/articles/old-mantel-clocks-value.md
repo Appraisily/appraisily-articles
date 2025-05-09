@@ -37,8 +37,15 @@ structured_data:
   description: >-
     Discover the value of old mantel clocks with our comprehensive guide to
     identification, pricing factors, and market trends for antique timepieces.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-mantel-clocks-value/old-mantel-clocks-value-image-1_axf9mtgzg.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-mantel-clocks-value/old-mantel-clocks-value-image-1_axf9mtgzg.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique wooden mantel clock with ornate carvings, brass face and
+      decorative details from the Victorian era
   author:
     '@type': Organization
     name: Appraisily Team

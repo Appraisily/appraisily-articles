@@ -39,8 +39,6 @@ structured_data:
     Learn how to get your antiques identified with expert methods and tools.
     Discover resources for identifying antiques by photo, online communities,
     and professional appraisers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/my-antiques-identified/my-antiques-identified-image-1_cEPMZn2rz.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,23 @@ structured_data:
   datePublished: '2023-11-13T14:30:00.000Z'
   dateModified: '2023-11-13T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/my-antiques-identified'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/my-antiques-identified/my-antiques-identified-image-1_cEPMZn2rz.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique identification process showing vintage items being
+      examined with magnifying glass and reference materials
+  about:
+    '@type': Thing
+    name: Antique Identification
+    description: Methods and resources for identifying and authenticating antique items
+  keywords: >-
+    my antiques identified, identify antiques by photo, antique identification
+    app, antique appraisal online, free antique identification, antique value
+    estimation, vintage item authentication
 ---
 
 Have you ever wondered about the story behind that curious item you found in your grandmother's attic? Or perhaps you've stumbled upon an interesting piece at a yard sale and suspect it might be valuable? Identifying antiques can be both challenging and rewarding, opening windows to history and potentially uncovering hidden treasures.

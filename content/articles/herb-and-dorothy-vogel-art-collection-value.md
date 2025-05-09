@@ -40,8 +40,6 @@ structured_data:
     Discover the extraordinary value of the Herb and Dorothy Vogel art
     collection, how a postal clerk and librarian amassed nearly 5,000
     masterworks on modest salaries, and what makes their collection invaluable.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/herb-and-dorothy-vogel-art-collection-value/herb-and-dorothy-vogel-art-collection-value-image-2_6TPzYZGIG.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,10 +49,53 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-11-07T14:30:00.000Z'
   dateModified: '2024-11-07T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/herb-and-dorothy-vogel-art-collection-value
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/herb-and-dorothy-vogel-art-collection-value/herb-and-dorothy-vogel-art-collection-value-image-2_6TPzYZGIG.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Herb and Dorothy Vogel surrounded by their valuable minimal and conceptual
+      art collection in their New York apartment
+  keywords:
+    - Herb and Dorothy Vogel collection value
+    - minimal art valuation
+    - conceptual art collection worth
+    - 50x50 Vogel collection
+    - famous art collectors
+    - art collecting on a budget
+    - National Gallery Vogel collection
+  articleSection: Art Collection
+  about:
+    '@type': Thing
+    name: Art Collection
+    description: >-
+      Information about the Herb and Dorothy Vogel art collection and its
+      cultural and monetary value
+  mentions:
+    - '@type': Person
+      name: Herbert Vogel
+      birthDate: '1922'
+      deathDate: '2012'
+    - '@type': Person
+      name: Dorothy Vogel
+      birthDate: '1935'
+    - '@type': Organization
+      name: National Gallery of Art
+      location: 'Washington, D.C.'
+    - '@type': Person
+      name: Sol LeWitt
+    - '@type': Person
+      name: Donald Judd
+    - '@type': Person
+      name: Richard Tuttle
 ---
 
 {{< content-modules/section-header title="Introduction: The Extraordinary Vogel Collection" level="2" >}}

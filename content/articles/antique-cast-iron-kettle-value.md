@@ -39,8 +39,6 @@ structured_data:
     Discover the value of antique cast iron kettles with our comprehensive
     guide. Learn about pricing, identification, and what makes these vintage
     pieces worth $127 to $3,500.
-  image: >-
-    https://i.etsystatic.com/10544405/r/il/7b5617/1792967733/il_fullxfull.1792967733_4mw0.jpg
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +48,30 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-11-06T14:30:00.000Z'
   dateModified: '2023-11-06T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-cast-iron-kettle-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://i.etsystatic.com/10544405/r/il/7b5617/1792967733/il_fullxfull.1792967733_4mw0.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare 19th century antique cast iron kettle with authentic patina, gate
+      mark and star maker's mark
+  keywords: >-
+    antique cast iron kettle value, cast iron kettle identification, vintage
+    cast iron cauldron prices, antique kettle markings, 19th century cast iron
+    kettles, collectible iron cookware, cast iron kettle authentication
+  about:
+    '@type': Thing
+    name: Antique Cast Iron Kettles
+    description: >-
+      Historical cooking vessels made of cast iron, dating from the 19th and
+      early 20th centuries, now valued as collectibles.
 ---
 
 Cast iron kettles, with their timeless durability and rustic charm, have been essential household items for centuries. Today, these utilitarian pieces have transformed into sought-after collectibles with significant historical and monetary value. Whether you've inherited a family heirloom or discovered a potential treasure at a flea market, understanding the value of antique cast iron kettles can help you make informed decisions about buying, selling, or preserving these remarkable artifacts.

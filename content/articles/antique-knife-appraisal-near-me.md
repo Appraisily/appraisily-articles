@@ -42,8 +42,15 @@ structured_data:
     Learn how to get your vintage and antique knives appraised by experts in
     your area. Discover what affects knife values and how to find trusted
     appraisers for accurate valuations.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-knife-appraisal-near-me/antique-knife-appraisal-near-me-image-1_7i1SXcM4g.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-knife-appraisal-near-me/antique-knife-appraisal-near-me-image-1_7i1SXcM4g.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique knives with various blade styles and handle
+      materials arranged for professional appraisal
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,8 +60,20 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-07-28T14:30:00.000Z'
   dateModified: '2023-07-28T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Antique Knife Appraisal
+    description: >-
+      Professional evaluation of antique and vintage knives to determine
+      authenticity, historical significance, and monetary value
+  keywords: >-
+    antique knife appraisal near me, vintage knife valuation, professional knife
+    authentication, antique bowie knife value, local knife appraisers, military
+    dagger appraisal, collectible knife identification
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Knife Appraisals" level="2" >}}

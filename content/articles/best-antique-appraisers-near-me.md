@@ -39,8 +39,15 @@ structured_data:
     Discover how to find qualified antique appraisers in your area, understand
     appraisal costs, what to expect during the process, and tips for getting the
     most accurate valuation of your antiques.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/best-antique-appraisers-near-me/best-antique-appraisers-near-me-image-1_jFQATrYZ7.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/best-antique-appraisers-near-me/best-antique-appraisers-near-me-image-1_jFQATrYZ7.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser using magnifying glass to examine valuable
+      vintage collectible during formal appraisal
   datePublished: '2023-05-27T14:30:00.000Z'
   dateModified: '2023-05-27T14:30:00.000Z'
   author:

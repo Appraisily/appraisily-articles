@@ -45,14 +45,47 @@ structured_data:
   datePublished: '2023-08-08T14:30:00.000Z'
   dateModified: '2023-08-08T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/antique-knife-identification/antique-knife-identification-image-1_xLk-BhDlT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique knives displaying various maker's marks,
+      handle materials, and blade styles for identification
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-knife-identification'
+  keywords:
+    - antique knife identification
+    - vintage knife maker marks
+    - antique pocket knife values
+    - collectible knife dating
+    - knife handle materials identification
+    - antique blade patterns
+    - historical knife authentication
+  articleSection: Knives & Blades
+  howTo:
+    '@type': HowTo
+    name: How to Identify Antique Knives
+    step:
+      - '@type': HowToStep
+        name: Locate Markings
+        text: >-
+          Begin by carefully examining all surfaces of the knife, especially:
+          the blade (both sides), the ricasso (unsharpened section where blade
+          meets handle), the tang (blade portion that extends into the handle),
+          the spine of the blade, the bolster or guard, and the handle itself.
+          Use a magnifying glass for close examination, as many marks are small
+          and may have faded over time. Clean the knife gently with a soft cloth
+          to better reveal any markings, but avoid harsh cleaning methods that
+          could damage the patina or the knife itself.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/antique-knife-identification/antique-knife-identification-image-2_0_N3B8dVnY.png
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Knife Identification" level="2" >}}

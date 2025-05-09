@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-11T14:30:00.000Z'
   dateModified: '2023-11-11T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-playboy-magazine-value/old-playboy-magazine-value-image-1_UWFUCuW43.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-playboy-magazine-value/old-playboy-magazine-value-image-1_UWFUCuW43.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage Playboy magazines including the valuable first issue
+      with Marilyn Monroe from 1953
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,34 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-playboy-magazine-value'
+  about:
+    '@type': Thing
+    name: Vintage Playboy Magazines
+    description: >-
+      Collectible issues of Playboy magazine published since 1953, with varying
+      values based on rarity, condition, and historical significance.
+  keywords: >-
+    old playboy magazine value, vintage playboy worth, first issue playboy
+    value, marilyn monroe playboy, collectible playboy magazines, rare playboy
+    issues, playboy magazine price guide
+  mentions:
+    - '@type': Thing
+      name: Hugh Hefner
+      description: Founder of Playboy magazine in 1953
+    - '@type': Thing
+      name: Marilyn Monroe
+      description: Featured in the first issue of Playboy magazine from December 1953
+  temporalCoverage: 1953/present
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-headline
+  inLanguage: en-US
 ---
 
 ![Collection of vintage Playboy magazines including the valuable first issue with Marilyn Monroe](https://ik.imagekit.io/appraisily/SEO/old-playboy-magazine-value/old-playboy-magazine-value-image-1_UWFUCuW43.png)

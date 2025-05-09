@@ -40,8 +40,15 @@ structured_data:
     Learn how to identify antique secretary desks with our comprehensive guide
     covering styles, periods, craftsmanship, and value indicators. Discover what
     makes your desk a genuine antique.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-secretary-desk/how-to-identify-antique-secretary-desk-image-1_gyDvQ0kUu.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-secretary-desk/how-to-identify-antique-secretary-desk-image-1_gyDvQ0kUu.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      18th century mahogany secretary desk with drop-front writing surface,
+      brass hardware and multiple organizational compartments
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,85 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/how-to-identify-antique-secretary-desk
+  keywords:
+    - antique secretary desk identification
+    - authentic secretary desk features
+    - antique desk authentication
+    - period secretary desks
+    - antique furniture joinery
+    - 18th century secretary desk
+    - antique desk hardware
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify Antique Secretary Desks
+  description: >-
+    A comprehensive guide to authenticating and identifying antique secretary
+    desks through their styles, periods, construction methods, and distinctive
+    features.
+  tool:
+    - '@type': HowToTool
+      name: Knowledge of historical furniture periods
+    - '@type': HowToTool
+      name: Understanding of wood types and joinery methods
+  step:
+    - '@type': HowToStep
+      name: Identify the style and period
+      text: >-
+        Examine the desk's design elements to determine its period, from Queen
+        Anne and Early Georgian (1700-1750) featuring slant-front designs and
+        cabriole legs to Chippendale (1750-1780) with more ornate designs and
+        claw-and-ball feet.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-secretary-desk/how-to-identify-antique-secretary-desk-image-1_gyDvQ0kUu.png
+    - '@type': HowToStep
+      name: Examine the construction and materials
+      text: >-
+        Look for period-appropriate woods like walnut, maple, or mahogany, and
+        examine joinery techniques such as dovetail joints which indicate
+        authentic antique construction.
+    - '@type': HowToStep
+      name: Assess the hardware and fittings
+      text: >-
+        Check if hardware elements like hinges, locks, and pulls are consistent
+        with the period, noting that original hardware significantly increases
+        authenticity and value.
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What is a secretary desk?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          A secretary desk (sometimes called a secrétaire) typically features a
+          drop-front or slant-top writing surface with numerous small drawers,
+          pigeonholes, and compartments hidden behind. Many include drawers or
+          cabinet space below and bookcase or display cabinets above.
+    - '@type': Question
+      name: When did secretary desks first appear?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Secretary desks first emerged as specialized writing furniture in the
+          early 18th century, with distinctive styles developing through
+          different design periods.
+    - '@type': Question
+      name: What is the value range for antique secretary desks?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Antique secretary desks typically range in value from $500 to $15,000
+          or more, depending on age, style, condition, and provenance.
+    - '@type': Question
+      name: What are the key elements in authenticating antique secretary desks?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The key elements in identifying genuine antique secretary desks
+          include examining the wood type, joinery methods, and hardware
+          characteristics.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Secretary Desks" level="2" >}}

@@ -32,6 +32,7 @@ keywords:
   - beryllium copper ping putter
   - collectible ping putters
 structured_data:
+  '@context': 'https://schema.org'
   '@type': Article
   headline: 'Vintage PING Putter Values: Collector''s Guide to Rare Models & Pricing'
   description: >-
@@ -43,14 +44,36 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-19T14:30:00.000Z'
   dateModified: '2023-06-19T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-ping-putter-values/old-ping-putter-values-image-1_szxwR6eMT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-ping-putter-values/old-ping-putter-values-image-1_szxwR6eMT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage PING Anser putter from the Scottsdale era showing authentic patina
+      and original grip
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-ping-putter-values'
+  keywords:
+    - old ping putter values
+    - vintage ping putter identification
+    - ping anser value
+    - scottsdale ping putter worth
+    - redwood city ping putter
+    - beryllium copper ping putter
+    - collectible ping putters
+  about:
+    '@type': Thing
+    name: Vintage PING Putters
+    description: >-
+      Collectible golf putters manufactured by PING from the late 1950s through
+      the 1980s, known for their innovative design and value to collectors.
 ---
 
 {{< content-modules/section-header title="Introduction to Vintage PING Putters" level="2" >}}

@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify and value antique armoires with expert insights on
     styles, periods, and market factors that affect the worth of these historic
     furniture pieces.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-armoire-value/antique-armoire-value-image-1_DGrCypHeN.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-armoire-value/antique-armoire-value-image-1_DGrCypHeN.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      19th century French provincial armoire with ornate carvings and original
+      brass hardware
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,44 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-armoire-value'
+  about:
+    '@type': Thing
+    name: Antique Armoires
+    description: >-
+      Historical furniture pieces originally designed as storage solutions
+      before built-in closets
+  keywords: >-
+    antique armoire value, vintage wardrobe worth, French armoire prices,
+    antique furniture appraisal, Victorian armoire identification, mahogany
+    armoire values, antique oak wardrobe
+  articleSection: Furniture Appraisal
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What Makes an Armoire 'Antique'?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        In the antiques market, a true antique is typically considered to be at
+        least 100 years old. However, many collectors and dealers focus on
+        specific design periods rather than just age. For armoires, this often
+        means pieces from the Renaissance period (16th century), Baroque period
+        (17th century), Rococo and Neoclassical periods (18th century), Empire
+        and Victorian periods (19th century), and Art Nouveau and Art Deco
+        periods (early 20th century). Many high-quality armoires from the
+        1920-1949 period are also highly collectible, though technically
+        classified as 'vintage' rather than true antiques.
+  - '@type': Question
+    name: What are the Key Factors That Determine Antique Armoire Value?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        The value of an antique armoire is influenced by numerous factors
+        including age and period (older armoires from significant design periods
+        like Louis XV or Renaissance generally command higher prices),
+        condition, provenance, craftsmanship, materials used, and current market
+        trends.
 ---
 
 ![Ornate antique French armoire with carved details and original hardware](https://ik.imagekit.io/appraisily/SEO/antique-armoire-value/antique-armoire-value-image-1_DGrCypHeN.png)

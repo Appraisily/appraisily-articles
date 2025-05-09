@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-05T14:30:00.000Z'
   dateModified: '2023-11-05T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-magazine-values/old-magazine-values-image-1_us_zw035V.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-magazine-values/old-magazine-values-image-1_us_zw035V.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage magazine collection featuring rare Life, Time, and
+      National Geographic issues from mid-20th century
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,35 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-magazine-values'
+  about:
+    '@type': Thing
+    name: Vintage Magazine Collecting
+    description: >-
+      Information about determining the value of old magazines, collectible
+      periodicals, and rare vintage publications
+  keywords: >-
+    old magazine values, vintage magazine worth, collectible magazines, rare
+    magazine identification, selling vintage magazines, antique periodical
+    prices, magazine collecting guide
+  articleSection: Paper Collectibles
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-heading
+  mentions:
+    - '@type': Thing
+      name: LIFE magazine
+    - '@type': Thing
+      name: Sports Illustrated
+    - '@type': Person
+      name: Michael Jordan
+    - '@type': Person
+      name: Muhammad Ali
+    - '@type': Person
+      name: Mickey Mantle
+    - '@type': Event
+      name: Kennedy's assassination
 ---
 
 Many people discover stacks of old magazines tucked away in attics, basements, or inherited collections and wonder: could these dusty periodicals actually be worth something? While most vintage magazines aren't retirement-fund treasures, some rare issues can indeed fetch impressive prices in today's collectibles market.

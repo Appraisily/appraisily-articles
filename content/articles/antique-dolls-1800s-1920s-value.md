@@ -37,8 +37,15 @@ structured_data:
   description: >-
     Learn how to identify and value antique dolls from the 1800s-1920s. Discover
     key makers, materials, and factors that influence collectible doll values.
-  image: >-
-    https://i.etsystatic.com/5250567/r/il/785727/5288942951/il_fullxfull.5288942951_dgge.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://i.etsystatic.com/5250567/r/il/785727/5288942951/il_fullxfull.5288942951_dgge.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique German bisque head doll from the 1800s with original period
+      clothing and accessories
   author:
     '@type': Organization
     name: Appraisily Team
@@ -48,9 +55,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-06-22T14:30:00.000Z'
   dateModified: '2023-06-22T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-dolls-1800s-1920s-value'
+  keywords:
+    - antique dolls value
+    - 1800s-1920s dolls
+    - bisque doll identification
+    - porcelain doll values
+    - collectible antique dolls
+    - vintage doll appraisal
+    - rare doll makers
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Dolls (1800s-1920s)" level="2" >}}

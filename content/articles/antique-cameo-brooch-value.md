@@ -39,8 +39,6 @@ structured_data:
     Discover the true value of antique cameo brooches with our comprehensive
     guide. Learn to identify genuine pieces, determine age, material, and
     understand market prices.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cameo-brooch-value/antique-cameo-brooch-value-image-1_chyR2ShkV.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,30 @@ structured_data:
   datePublished: '2024-07-16T14:30:00.000Z'
   dateModified: '2024-07-16T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-cameo-brooch-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cameo-brooch-value/antique-cameo-brooch-value-image-1_chyR2ShkV.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage carved shell cameo brooch with ornate gold frame featuring
+      classical female profile
+  about:
+    '@type': Thing
+    name: Antique Cameo Brooches
+    description: >-
+      Decorative pins featuring relief images carved from materials like shell,
+      stone, or glass, popular from the 18th to early 20th centuries.
+  keywords:
+    - antique cameo brooch value
+    - cameo jewelry appraisal
+    - vintage cameo identification
+    - shell cameo worth
+    - valuable cameo characteristics
+    - antique jewelry valuation
+    - cameo brooch dating techniques
+  articleSection: Jewelry & Accessories
 ---
 
 Are you curious about that elegant antique cameo brooch you inherited or discovered at an estate sale? Understanding the value of these timeless pieces requires knowledge about their history, materials, craftsmanship, and current market demand. Cameo brooches have been cherished for centuries, with some rare pieces fetching thousands of dollars at auction.

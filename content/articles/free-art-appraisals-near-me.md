@@ -37,8 +37,15 @@ structured_data:
     Discover how to get free art appraisals in your area, understand the value
     of your artwork, and learn about the pros and cons of free appraisal
     services.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-art-appraisals-near-me/free-art-appraisals-near-me-image-1_gneH0xUc0.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-art-appraisals-near-me/free-art-appraisals-near-me-image-1_gneH0xUc0.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining a painting's details in a
+      gallery setting
   author:
     '@type': Organization
     name: Appraisily Team

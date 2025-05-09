@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify and value antique trunks with our comprehensive guide
     covering all major types, age indicators, and valuation factors for
     collectors and enthusiasts.
-  image: >-
-    https://ik.imagekit.io/appraisily/antique-trunks/antique-trunk-collection.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/antique-trunks/antique-trunk-collection.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of historical antique trunks showcasing dome top, steamer, and
+      flat top varieties from the 19th century
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,10 +57,20 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-09-05T14:30:00.000Z'
   dateModified: '2023-09-05T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/identification-types-of-antique-trunks
+  keywords:
+    - antique trunk identification
+    - antique trunk types
+    - steamer trunk values
+    - dome top trunk
+    - flat top antique trunk
+    - dating antique trunks
+    - antique trunk hardware
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Trunks" level="2" >}}

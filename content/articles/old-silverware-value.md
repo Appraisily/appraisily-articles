@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-09-26T14:30:00.000Z'
   dateModified: '2024-09-26T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-silverware-value/old-silverware-value-image-1_gcx3Fn5A1.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-silverware-value/old-silverware-value-image-1_gcx3Fn5A1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique sterling silver flatware displayed on dark
+      background showing patina and ornate patterns
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,52 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-silverware-value'
+  about:
+    '@type': Thing
+    name: Antique Silverware
+    description: >-
+      Collectible old silverware including sterling silver flatware, silver
+      plate, and coin silver pieces from various manufacturers
+  keywords: >-
+    old silverware value, antique sterling silver flatware, valuable silver
+    patterns, silver hallmarks identification, vintage silverware worth,
+    sterling silver prices, collectible silver brands
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is my old silverware really worth?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique silver pieces can vary dramatically in value, from simple
+            sterling spoons worth their weight in silver to rare patterns from
+            prestigious makers that command thousands of dollars. Most household
+            sterling silver flatware falls somewhere between $20-100 per piece
+            depending on factors like silver content, maker, pattern, condition,
+            and rarity.
+      - '@type': Question
+        name: What determines the value of antique silver flatware?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of old silverware depends on multiple factors including
+            silver content and purity (sterling silver, silver plate, coin
+            silver), maker and brand prestige, pattern desirability, condition,
+            age, and rarity. Sterling silver flatware is typically worth $20-30+
+            per piece at minimum for the silver content alone, while silver
+            plate generally has minimal value ($5-15 per piece) unless it's a
+            rare pattern or maker.
+      - '@type': Question
+        name: How much is sterling silver flatware worth?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            According to Bellevue Rare Coins, individual pieces of sterling
+            silverware may be worth $5-$30+ each based on silver content alone,
+            though particularly desirable pieces from prestigious makers or rare
+            patterns can command much higher prices.
 ---
 
 ![Collection of antique sterling silver flatware displayed on dark background](https://ik.imagekit.io/appraisily/SEO/old-silverware-value/old-silverware-value-image-1_gcx3Fn5A1.png)

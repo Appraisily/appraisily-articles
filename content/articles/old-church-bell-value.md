@@ -44,14 +44,34 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-08T14:30:00.000Z'
   dateModified: '2023-07-08T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-church-bell-value/old-church-bell-value-image-1_CDRM9q63g.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-church-bell-value/old-church-bell-value-image-1_CDRM9q63g.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique bronze church bell with ornate decorative details and aged patina
+      showing historical significance
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-church-bell-value'
+  keywords:
+    - old church bell value
+    - antique church bell appraisal
+    - bronze church bell worth
+    - vintage church bell prices
+    - cast iron church bell value
+    - selling antique church bells
+    - church bell collectors market
 ---
 
 Church bells have been a cornerstone of religious and community life for centuries, marking the hours, calling parishioners to worship, and signaling important events. These historic artifacts are not only culturally significant but can also be valuable collectors' items. Whether you've inherited an old church bell, discovered one in an architectural salvage yard, or are considering purchasing one for your collection, understanding its value is essential.

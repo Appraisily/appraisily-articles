@@ -45,8 +45,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-10-25T14:30:00.000Z'
   dateModified: '2023-10-25T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-get-antique-furniture-appraised/how-to-get-antique-furniture-appraised-image-1_HKYCuPaC9.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-get-antique-furniture-appraised/how-to-get-antique-furniture-appraised-image-1_HKYCuPaC9.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining details and markings on vintage wooden
+      furniture
   publisher:
     '@type': Organization
     name: Appraisily
@@ -57,6 +64,59 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/how-to-get-antique-furniture-appraised
+  about:
+    '@type': Thing
+    name: Antique Furniture Appraisal
+  keywords: >-
+    antique furniture appraisal, how to get antiques appraised, furniture
+    valuation services, professional antique appraisers, online furniture
+    appraisal
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why should I get my antique furniture appraised?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An accurate professional appraisal of your antique furniture can be
+            essential for: 1) Insurance purposes - Ensuring your valuable pieces
+            are properly covered, 2) Estate planning - Dividing assets equitably
+            among heirs, 3) Potential sale - Establishing a fair asking price,
+            4) Tax considerations - Accurate valuations for donations or estate
+            taxes, 5) Authentication - Confirming the genuine nature and age of
+            your piece. Additionally, a professional appraisal can reveal
+            important historical context about your furniture, including its
+            age, origin, style period, and the techniques used in its
+            construction.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Get Antique Furniture Appraised
+    description: >-
+      A comprehensive guide to getting accurate appraisals for your antique
+      furniture pieces
+    image:
+      '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/how-to-get-antique-furniture-appraised/how-to-get-antique-furniture-appraised-image-1_HKYCuPaC9.png
+      width: '1200'
+      height: '630'
+    step:
+      - '@type': HowToStep
+        name: Research Your Furniture
+        text: >-
+          Begin by gathering as much information about your furniture as
+          possible: Provenance (document the history of ownership if known), Age
+          (note approximate age or period if you have this information), Maker's
+          marks (check for signatures, stamps, or labels)
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-get-antique-furniture-appraised/how-to-get-antique-furniture-appraised-image-2_6yxssp5V3.png
 ---
 
 ![Professional appraiser examining antique furniture details](https://ik.imagekit.io/appraisily/SEO/how-to-get-antique-furniture-appraised/how-to-get-antique-furniture-appraised-image-1_HKYCuPaC9.png)

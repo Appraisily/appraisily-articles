@@ -41,22 +41,79 @@ structured_data:
     Discover the true value of antique cast iron bed frames. Learn to identify
     period styles, assess condition, and determine fair market value with our
     expert guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-bed-frame-value/antique-cast-iron-bed-frame-value-image-1_bIsFmaoM8.png
   author:
     '@type': Organization
     name: Appraisily Team
+  datePublished: '2023-05-05T14:30:00.000Z'
+  dateModified: '2023-05-05T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-bed-frame-value/antique-cast-iron-bed-frame-value-image-1_bIsFmaoM8.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian-era ornate antique cast iron bed frame with decorative
+      scrollwork and brass accents
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
-  datePublished: '2023-05-05T14:30:00.000Z'
-  dateModified: '2023-05-05T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-cast-iron-bed-frame-value'
+  keywords:
+    - antique cast iron bed frame value
+    - Victorian iron bed identification
+    - antique bed frame appraisal
+    - 19th century iron bed worth
+    - cast iron bed markings
+    - vintage wrought iron beds
+    - antique metal bed restoration
+  about:
+    '@type': Thing
+    name: Antique Cast Iron Bed Frames
+    description: >-
+      Historical bed frames made from cast iron during the Victorian and
+      Edwardian eras, known for their durability and ornate designs.
+  mentions:
+    - '@type': Thing
+      name: Victorian Period
+      description: Historical era from 1837-1901 during Queen Victoria's reign
+    - '@type': Thing
+      name: Art Nouveau
+      description: >-
+        Decorative art style popular from 1890-1910 featuring organic, flowing
+        designs
+  hasPart:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the average price range for authentic antique cast iron beds?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The average price range for authentic antique cast iron beds is
+            $400-$2,500, depending on age, style, condition, and provenance.
+      - '@type': Question
+        name: What was the prime manufacturing period for collectible iron beds?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The prime manufacturing period for collectible iron beds was
+            1880-1920, which includes the late Victorian era and early Art
+            Nouveau period.
+      - '@type': Question
+        name: >-
+          How much does original finish and components affect an antique cast
+          iron bed's value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Beds with original finish and components typically see a 30-50%
+            value increase compared to restored or modified examples.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Cast Iron Bed Frames" level="2" >}}

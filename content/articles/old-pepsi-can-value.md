@@ -38,8 +38,15 @@ structured_data:
     Discover what makes vintage Pepsi cans valuable, how to identify rare
     specimens, and current market values. Expert guide for collectors and
     sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-pepsi-can-value/old-pepsi-can-value-image-1_K2SJcaMxT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-pepsi-can-value/old-pepsi-can-value-image-1_K2SJcaMxT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Pepsi cans collection spanning multiple decades showing evolution
+      of designs and packaging
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,68 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-pepsi-can-value'
+  about:
+    '@type': Thing
+    name: Vintage Pepsi Cans
+    description: >-
+      Collectible Pepsi cans from various eras including the 1960s through 1990s
+      that have historical and monetary value to collectors.
+  keywords: >-
+    old Pepsi can value, vintage Pepsi collectibles, rare Pepsi cans, Pepsi
+    memorabilia prices, aluminum Pepsi can history, collectible soda cans, Pepsi
+    can identification guide
+  mentions:
+    - '@type': Thing
+      name: Pepsi
+      sameAs: 'https://en.wikipedia.org/wiki/Pepsi'
+    - '@type': Thing
+      name: Aluminum cans
+      sameAs: 'https://en.wikipedia.org/wiki/Aluminum_can'
+  collectionPage: 'https://articles.appraisily.com/category/soda-collectibles'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+      - .section-header
+  isPartOf:
+    '@type': CollectionPage
+    name: Soda Collectibles
+    url: 'https://articles.appraisily.com/category/soda-collectibles'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors affect the value of old Pepsi cans?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of old Pepsi cans varies dramatically based on several
+            factors, including age, condition, rarity, and historical
+            significance. While many vintage cans might sell for just a few
+            dollars, rare specimens from the early days of aluminum canning or
+            those with manufacturing errors can command prices from $70 to
+            several hundred dollars.
+      - '@type': Question
+        name: What is the value range for vintage Pepsi cans?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Vintage Pepsi cans typically range in value from $2 to over $200,
+            depending on their condition and rarity. According to market
+            insights, a set of vintage Pepsi cans in near-mint condition was
+            estimated at '$70-90, because they come fresh from a case.'
+            Individual rarities from the 1960s and early 1970s in excellent
+            condition can sell for substantially more to the right collector.
+      - '@type': Question
+        name: When was the first Pepsi can design introduced?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The first Pepsi can design was introduced between 1950-1967. These
+            early cans featured a straightforward design with the classic red,
+            white, and blue color scheme. They are among the most valuable due
+            to their historical significance and rarity.
 ---
 
 ![Collection of vintage Pepsi cans from different eras showing design evolution](https://ik.imagekit.io/appraisily/SEO/old-pepsi-can-value/old-pepsi-can-value-image-1_K2SJcaMxT.png)

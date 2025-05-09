@@ -39,8 +39,15 @@ structured_data:
     Learn how to get accurate appraisals for your antiques, understand valuation
     factors, find qualified appraisers near you, and discover online options for
     determining your treasures' worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/appraisals-for-antiques/appraisals-for-antiques-image-1_6mJVuCtTJ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/appraisals-for-antiques/appraisals-for-antiques-image-1_6mJVuCtTJ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining antique collectibles with a magnifying
+      glass for valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,58 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/appraisals-for-antiques'
+  about:
+    '@type': Thing
+    name: Antique Appraisals
+  keywords: >-
+    antique appraisals, professional antique valuation, find certified
+    appraiser, antique authentication, estate appraisal services, insurance
+    appraisals, antique worth determination
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is an Antique Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An antique appraisal is a formal assessment of an item's value
+            conducted by a qualified professional who specializes in evaluating
+            historical objects, collectibles, and artifacts. When conducted
+            properly, an antique appraisal involves thorough examination of the
+            item, research into provenance and history, assessment of condition,
+            rarity, and market demand, documentation with detailed descriptions
+            and valuation, and professional credentials and expertise backing
+            the assessment. The result is a detailed written report that serves
+            as an official document for insurance, tax, legal, or personal
+            purposes.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: Professional Antique Appraisal Process
+    step:
+      - '@type': HowToStep
+        name: Thorough examination of the item
+        text: The appraiser conducts a detailed examination of the antique item
+      - '@type': HowToStep
+        name: Research into provenance and history
+        text: The appraiser researches the item's origin and historical significance
+      - '@type': HowToStep
+        name: 'Assessment of condition, rarity, and market demand'
+        text: >-
+          The appraiser evaluates the item's physical condition, rarity in the
+          market, and current demand
+      - '@type': HowToStep
+        name: Documentation with detailed descriptions and valuation
+        text: >-
+          The appraiser creates detailed documentation including descriptions
+          and value assessment
+      - '@type': HowToStep
+        name: Professional credentials and expertise backing the assessment
+        text: >-
+          The appraiser applies their professional credentials and expertise to
+          validate the assessment
 ---
 
 ![Professional appraiser examining antique items with a magnifying glass](https://ik.imagekit.io/appraisily/SEO/appraisals-for-antiques/appraisals-for-antiques-image-1_6mJVuCtTJ.png)

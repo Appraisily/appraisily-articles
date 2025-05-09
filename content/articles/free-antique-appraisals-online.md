@@ -43,13 +43,44 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-29T14:30:00.000Z'
   dateModified: '2023-09-29T14:30:00.000Z'
-  image: 'https://appraisily.com/images/free-antique-appraisals-online.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/free-antique-appraisals-online.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person using laptop to get free online appraisal for vintage collectibles
+      and antiques
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/free-antique-appraisals-online'
+  keywords:
+    - free antique appraisals online
+    - virtual antique valuations
+    - online collectible appraisal
+    - free heritage auction appraisals
+    - digital antique assessment
+    - remote item valuation
+    - no-cost antique identification
+  articleSection: Appraisals
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why Choose Online Appraisals?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Online appraisals provide convenience, accessibility, and
+            preliminary assessments before deciding if a paid, formal appraisal
+            is warranted. They're perfect for initial research and can help you
+            decide whether to sell, insure, or further investigate your
+            antiques.
 ---
 
 ## Introduction: The Value of Virtual Valuations

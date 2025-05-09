@@ -42,8 +42,15 @@ structured_data:
     Explore what gives art its intrinsic value beyond market prices. Learn how
     emotional connection, materials, craftsmanship, and cultural significance
     create inherent worth in artwork.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/intrinsic-value-art/intrinsic-value-art-image-1_hLmpG7FAk.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/intrinsic-value-art/intrinsic-value-art-image-1_hLmpG7FAk.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vibrant abstract painting illustrating the concept of intrinsic value in
+      art through color, texture and emotional expression
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,31 @@ structured_data:
       url: 'https://appraisily.com/images/logo.png'
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Art Valuation
+    description: Principles and methods of determining the worth and value of artwork
+  keywords:
+    - intrinsic value art
+    - art inherent worth
+    - emotional value in artwork
+    - cultural significance of art
+    - art valuation beyond price
+    - artistic craftsmanship value
+    - permanent art value
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com/'
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  inLanguage: en-US
 ---
 
 ![Abstract art painting showing intrinsic value concept with vibrant colors and textures](https://ik.imagekit.io/appraisily/SEO/intrinsic-value-art/intrinsic-value-art-image-1_hLmpG7FAk.png)

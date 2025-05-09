@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique and vintage telephones, from candlestick
     models to rotary dial phones. Learn identification, valuation factors, and
     where to sell your collectible phones.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-phones-value/antique-phones-value-image-1_QEKgcOLDy.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-phones-value/antique-phones-value-image-1_QEKgcOLDy.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique telephones including candlestick phone and wooden
+      wall phone
   datePublished: '2024-10-30T14:30:00.000Z'
   dateModified: '2024-10-30T14:30:00.000Z'
   author:
@@ -55,6 +62,33 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-phones-value'
+  keywords:
+    - antique phones value
+    - vintage telephone worth
+    - collectible phone prices
+    - candlestick telephone value
+    - rotary dial phone worth
+    - antique telephone identification
+    - rare telephone models
+  about:
+    '@type': Thing
+    name: Antique Telephones
+    description: >-
+      Historical communication devices from the late 1800s to mid-1900s that
+      have become collectible items
+  mentions:
+    - '@type': Thing
+      name: Wooden Wall Phones
+      description: >-
+        Early commercial telephones from 1876-1920s that were wall-mounted
+        wooden models
+    - '@type': Thing
+      name: Candlestick Telephones
+      description: >-
+        Iconic telephone design featuring a stand with a receiver that users
+        held to their ear
+  specialty: Antique Appraisal
+  typicalAgeRange: 1876-1940s
 ---
 
 ![Collection of antique telephones including candlestick phone and wooden wall phone](https://ik.imagekit.io/appraisily/SEO/antique-phones-value/antique-phones-value-image-1_QEKgcOLDy.png)

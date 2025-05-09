@@ -39,8 +39,15 @@ structured_data:
     Discover how to identify valuable artwork and determine its worth with
     expert insights on art appraisal, market trends, and key factors that
     influence art valuation.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/artwork-with-value/artwork-with-value-image-2_YUxuYkALH.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/artwork-with-value/artwork-with-value-image-2_YUxuYkALH.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser evaluating valuable artwork in a gallery
+      setting
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,22 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/artwork-with-value'
+  about:
+    '@type': Thing
+    name: Art Appraisal
+    description: >-
+      The professional evaluation of artwork to determine its monetary value
+      based on factors including artist reputation, provenance, condition, and
+      market trends.
+  keywords:
+    - valuable artwork
+    - art appraisal
+    - artwork valuation
+    - fine art investment
+    - determining art worth
+    - art market value
+    - collectible paintings
+  articleSection: Fine Art
 ---
 
 ## Introduction to Valuable Artwork

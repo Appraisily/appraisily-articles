@@ -40,8 +40,15 @@ structured_data:
     Learn how to identify rare vintage CorningWare patterns. Our comprehensive
     guide covers markings, valuation techniques, and the most valuable
     collectible designs.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/corningware/rare-vintage-corningware-patterns.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/corningware/rare-vintage-corningware-patterns.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare vintage CorningWare collection featuring Cornflower Blue, Spice of
+      Life, and other valuable collectible patterns
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,10 +58,27 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-06-21T14:30:00.000Z'
   dateModified: '2024-06-21T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/identification-rare-vintage-corningware-patterns
+  about:
+    - '@type': Thing
+      name: CorningWare
+      description: >-
+        A brand of glass-ceramic cookware resistant to thermal shock, introduced
+        in 1958
+    - '@type': Thing
+      name: Collectible Kitchenware
+      description: >-
+        Vintage kitchen items sought by collectors for their rarity, design, and
+        historical significance
+  keywords: >-
+    rare CorningWare patterns, vintage CorningWare identification, valuable
+    CorningWare collectibles, CorningWare markings guide, pyroceram kitchenware
+    value, Cornflower Blue pattern value, CorningWare price guide
 ---
 
 It's a familiar scenario for many thrift store browsers and estate sale enthusiasts: you spot a piece of vintage CorningWare and wonder if you've discovered a valuable treasure. With certain patterns fetching thousands of dollars, knowing how to identify rare vintage CorningWare has become an essential skill for collectors and resellers alike.

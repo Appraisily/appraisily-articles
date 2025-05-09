@@ -43,8 +43,15 @@ structured_data:
     Discover the potential value of old Reader's Digest magazines in your
     collection - learn which issues command higher prices and where to sell
     these vintage publications.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-readers-digest-magazines-value/old-readers-digest-magazines-value-image-1_fZ0h4F0U-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-readers-digest-magazines-value/old-readers-digest-magazines-value-image-1_fZ0h4F0U-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Reader's Digest magazine collection from 1940s-1970s showing
+      various covers, conditions and collectible issues
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,27 @@ structured_data:
   datePublished: '2023-11-17T14:30:00.000Z'
   dateModified: '2023-11-17T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-readers-digest-magazines-value'
+  about:
+    '@type': Thing
+    name: Reader's Digest Magazines
+    description: Vintage and collectible Reader's Digest magazines and their market value
+  keywords:
+    - old Reader's Digest magazines value
+    - vintage Reader's Digest worth
+    - collectible Reader's Digest issues
+    - selling Reader's Digest magazines
+    - rare Reader's Digest editions
+    - antique magazine valuation
+    - Reader's Digest collector market
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+  inLanguage: en-US
 ---
 
 Many people discover stacks of old Reader's Digest magazines tucked away in attics, basements, or inherited collections and wonder if these vintage publications hold any monetary value. Founded in 1922, Reader's Digest quickly became one of the world's most widely circulated magazines, known for its condensed articles, heartwarming stories, and practical advice. But does this popularity translate into collector value today?

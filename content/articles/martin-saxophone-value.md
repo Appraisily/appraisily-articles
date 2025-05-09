@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-06-24T14:30:00.000Z'
   dateModified: '2024-06-24T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/martin-saxophone-value/martin-saxophone-value-image-1_6SbS705iU.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/martin-saxophone-value/martin-saxophone-value-image-1_6SbS705iU.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Martin Committee II tenor saxophone showing crown logo engraving
+      and brass patina
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,18 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/martin-saxophone-value'
+  about:
+    '@type': Thing
+    name: Martin Saxophones
+    description: >-
+      Vintage saxophones manufactured by the Martin Band Instrument Company from
+      1908 through the 1960s
+  keywords: >-
+    Martin saxophone value, vintage Martin saxophone worth, Martin Committee
+    saxophone prices, Martin Handcraft saxophone value, collectible saxophone
+    appraisal
+  temporalCoverage: 1908/1971
+  specialty: Musical instrument appraisal
 ---
 
 ![Vintage Martin Committee II tenor saxophone with distinctive crown engraving](https://ik.imagekit.io/appraisily/SEO/martin-saxophone-value/martin-saxophone-value-image-1_6SbS705iU.png)

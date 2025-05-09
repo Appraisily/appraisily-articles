@@ -39,8 +39,15 @@ structured_data:
     Discover what makes vintage pop bottles valuable, how to identify rare
     specimens, and the current market prices for antique soda bottles in this
     comprehensive collector's guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-pop-bottles-value/old-pop-bottles-value-image-1_rc9lC5WYO.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-pop-bottles-value/old-pop-bottles-value-image-1_rc9lC5WYO.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage soda bottles including rare Coca-Cola, Pepsi, and
+      Hutchinson bottles from different eras
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,30 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-10-10T14:30:00.000Z'
   dateModified: '2024-10-10T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-pop-bottles-value'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes an Old Pop Bottle Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors determine whether your old pop bottle is worth a
+            few dollars or several hundred: Age and Rarity (older bottles,
+            especially those from the late 19th and early 20th centuries with
+            unique features like blob tops or Hutchinson-style closures command
+            premium prices), Brand Recognition (bottles from well-known brands
+            like Coca-Cola, Pepsi, Dr. Pepper, and 7-Up typically hold more
+            value than obscure local brands), Condition (bottles without chips,
+            cracks, or excessive wear with intact labels are worth more), and
+            Unique Features (unusual colors, embossing, unique shapes, or
+            special commemorative designs often command higher prices).
 ---
 
 ## Introduction to Vintage Pop Bottle Collecting

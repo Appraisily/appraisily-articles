@@ -41,8 +41,15 @@ structured_data:
     Discover the value of vintage Mickey Mouse watches from Ingersoll, Bradley,
     and Seiko. Learn identification tips and what makes these Disney timepieces
     valuable collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-mickey-mouse-watch-values/old-mickey-mouse-watch-values-image-1_9UjbEbw2Cz.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-mickey-mouse-watch-values/old-mickey-mouse-watch-values-image-1_9UjbEbw2Cz.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage 1933 Ingersoll Mickey Mouse watch with character hands pointing to
+      time
   datePublished: '2023-11-08T14:30:00.000Z'
   dateModified: '2023-11-08T14:30:00.000Z'
   author:
@@ -57,6 +64,29 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-mickey-mouse-watch-values'
+  about:
+    - '@type': Thing
+      name: Mickey Mouse watches
+      description: Collectible timepieces featuring Disney's Mickey Mouse character
+    - '@type': Thing
+      name: Vintage watches
+      description: Antique and collectible timepieces from earlier eras
+    - '@type': Thing
+      name: Disney collectibles
+      description: Collectible items featuring Disney characters and branding
+  mentions:
+    - '@type': Organization
+      name: Ingersoll Watch Company
+    - '@type': Organization
+      name: Bradley Time
+    - '@type': Organization
+      name: Seiko
+    - '@type': Organization
+      name: Disney
+  keywords: >-
+    old Mickey Mouse watch values, vintage Disney timepieces, Ingersoll Mickey
+    Mouse watch, collectible Disney watches, Mickey Mouse watch identification,
+    antique Mickey Mouse watches, rare Disney watch prices
 ---
 
 ![Vintage Mickey Mouse watch with iconic character pointing to time](https://ik.imagekit.io/appraisily/SEO/old-mickey-mouse-watch-values/old-mickey-mouse-watch-values-image-1_9UjbEbw2Cz.png)

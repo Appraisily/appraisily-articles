@@ -39,8 +39,15 @@ structured_data:
     Discover what makes antique bells valuable. From rare church bells to
     collectible dinner bells, explore identification tips, price ranges, and
     where to sell your vintage bells.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-bells-value/antique-bells-value-image-1_x-aFBM6Ma.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-bells-value/antique-bells-value-image-1_x-aFBM6Ma.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable collection of antique brass, bronze and cast iron bells from
+      different historical periods
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,37 @@ structured_data:
   datePublished: '2024-07-24T14:30:00.000Z'
   dateModified: '2024-07-24T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-bells-value'
+  about:
+    '@type': Thing
+    name: Antique Bells
+    description: >-
+      Historical bells of various types including church bells, dinner bells,
+      and decorative bells valued by collectors
+  keywords: >-
+    antique bells value, vintage bell identification, collectible brass bells,
+    rare church bells worth, antique sleigh bells value, cast iron bell prices,
+    antique bell appraisal
+  mainEntity:
+    - '@type': Thing
+      name: Bronze Bells
+      description: >-
+        Generally the most valuable due to their superior acoustic properties
+        and durability. Bronze bells were commonly used for church and tower
+        bells.
+    - '@type': Thing
+      name: Brass Bells
+      description: >-
+        Typically worth less than bronze but still desirable, especially when
+        featuring ornate designs or historical significance.
+    - '@type': Thing
+      name: Cast Iron Bells
+      description: >-
+        Often found in school, farm, or fire bells, these durable bells can be
+        quite valuable depending on their condition and provenance.
+  mentions:
+    - '@type': Organization
+      name: National Bell Festival
+      url: 'https://www.bells.org/bell-valuation'
 ---
 
 ![Collection of valuable antique brass and cast iron bells](https://ik.imagekit.io/appraisily/SEO/antique-bells-value/antique-bells-value-image-1_x-aFBM6Ma.png)

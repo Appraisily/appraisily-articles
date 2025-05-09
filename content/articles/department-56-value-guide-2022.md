@@ -39,8 +39,6 @@ structured_data:
     Discover the definitive Department 56 Value Guide for 2022. Find current
     market prices, identification tips, and valuation strategies for your Dept
     56 village collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/department-56-value-guide-2022/department-56-value-guide-2022-image-1_5-QrSqo3m.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +48,30 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-04-10T14:30:00.000Z'
   dateModified: '2024-04-10T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/department-56-value-guide-2022/department-56-value-guide-2022-image-1_5-QrSqo3m.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Illuminated Department 56 Christmas village collection with miniature
+      buildings and decorative accessories
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/department-56-value-guide-2022'
+  keywords:
+    - Department 56 value guide 2022
+    - Department 56 collectibles worth
+    - Dept 56 village prices
+    - Department 56 rare pieces
+    - Christmas village collectibles value
+    - Department 56 secondary market
+    - Dept 56 price assessment
 ---
 
 ![Department 56 village collection with Christmas decorations and lighting](https://ik.imagekit.io/appraisily/SEO/department-56-value-guide-2022/department-56-value-guide-2022-image-1_5-QrSqo3m.png)

@@ -42,7 +42,14 @@ structured_data:
     Learn how to identify rare CorningWare and Corelle patterns, discover the
     most valuable vintage designs, and determine what your collection is worth
     in this comprehensive guide.
-  image: 'https://i.pinimg.com/1200x/3a/44/d6/3a44d6295aef6b2da3c40a5cd589cedb.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://i.pinimg.com/1200x/3a/44/d6/3a44d6295aef6b2da3c40a5cd589cedb.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage CorningWare collection featuring rare Blue Cornflower and Spice of
+      Life patterns with various casserole dishes and bakeware
   author:
     '@type': Organization
     name: Appraisily Team
@@ -58,6 +65,59 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/rare-pattern-corningware-vintage-corelle-pattern-identification
+  about:
+    - '@type': Thing
+      name: CorningWare
+    - '@type': Thing
+      name: Corelle
+    - '@type': Thing
+      name: Vintage Kitchenware
+    - '@type': Thing
+      name: Collectibles
+  keywords:
+    - rare CorningWare patterns
+    - vintage Corelle identification
+    - valuable Pyrex collectibles
+    - Blue Cornflower pattern value
+    - Spice of Life CorningWare
+    - collectible kitchenware
+    - CorningWare authentication guide
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  timeRequired: PT10M
+  educationalUse: Research
+  audience:
+    '@type': Audience
+    audienceType: Collectors
+  hasPart:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: When was CorningWare introduced?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            CorningWare debuted in 1958 with the revolutionary Pyroceram
+            material, featuring the iconic Blue Cornflower pattern. The first
+            pattern produced was Wheat, which was test marketed that year.
+      - '@type': Question
+        name: When was Corelle Livingware launched?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Corning introduced Corelle Livingware in 1970, made of vitrelle
+            glass, marketed as break and chip-resistant dinnerware. Initial
+            patterns included Butterfly Gold and Spring Blossom Green.
+      - '@type': Question
+        name: When did the CorningWare branding change?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The brand name changed from two words "Corning Ware" to one word
+            "CorningWare" in 1998, which is an important marker for dating
+            pieces.
 ---
 
 ## Introduction to Vintage CorningWare and Corelle

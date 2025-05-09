@@ -42,16 +42,33 @@ structured_data:
     name: Appraisily Team
   datePublished: '2025-04-24T14:30:00.000Z'
   dateModified: '2025-04-24T14:30:00.000Z'
-  image: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/SEO/placeholder-image.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage automobile being appraised by a professional collector for
+      determining antique car value
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://articles.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-much-is-my-antique-car-worth'
+  keywords:
+    - antique car appraisal
+    - classic car valuation
+    - vintage automobile worth
+    - antique vehicle price guide
+    - classic car authentication
+    - collector car market value
+    - antique automobile identification
 ---
 
 ## Introduction to how-much-is-my-antique-car-worth

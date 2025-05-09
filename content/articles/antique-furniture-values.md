@@ -48,8 +48,14 @@ structured_data:
   datePublished: '2023-07-24T14:30:00.000Z'
   dateModified: '2023-07-24T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/antique-furniture-values/antique-furniture-values-image-1_2n2JzKVtV.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate Victorian-era antique furniture collection showcasing period
+      craftsmanship and valuable design elements
   publisher:
     '@type': Organization
     name: Appraisily
@@ -59,6 +65,55 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-furniture-values'
+  keywords:
+    - antique furniture values
+    - antique furniture appraisal
+    - how to value antique furniture
+    - antique furniture identification
+    - vintage furniture worth
+    - antique furniture authentication
+    - antique furniture price guide
+  articleSection: Furniture
+  about:
+    '@type': Thing
+    name: Antique Furniture
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  inLanguage: en-US
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What Makes Furniture Antique?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Furniture is generally considered antique when it's at least 100 years
+        old. The distinction between "antique" and "vintage" is important when
+        discussing furniture values. Vintage furniture typically dates from the
+        1930s to the 1970s, while truly antique pieces were crafted before 1923
+        (as of 2023). Items created before 1700 are often classified as
+        "ancient" or "primitive" rather than simply antique.
+  - '@type': Question
+    name: What Are the Key Factors That Determine Antique Furniture Value?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Professional appraisers consider multiple characteristics when assessing
+        antique furniture value, including: 1. Age and Provenance - older
+        furniture generally commands higher prices, especially pieces predating
+        the Industrial Revolution. Provenance can significantly enhance value if
+        the furniture has connections to historical figures or notable
+        craftsmen. 2. Maker and Origin - furniture crafted by renowned makers or
+        from prestigious design houses typically commands premium prices, such
+        as pieces from Thomas Chippendale, George Hepplewhite, Thomas Sheraton,
+        and Duncan Phyfe.
 ---
 
 ## Introduction

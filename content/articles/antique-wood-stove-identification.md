@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify antique wood stoves through manufacturers, marks,
     styles, and features. Discover their value, history, and proper restoration
     methods.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-wood-stove-identification/antique-wood-stove-identification-image-1_vl254Llfi.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-wood-stove-identification/antique-wood-stove-identification-image-1_vl254Llfi.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate 19th century cast iron wood burning stove with decorative relief
+      patterns and nickel trim
   datePublished: '2023-08-10T14:30:00.000Z'
   dateModified: '2023-08-10T14:30:00.000Z'
   author:
@@ -55,6 +62,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-wood-stove-identification'
+  about:
+    '@type': Thing
+    name: Antique Wood Stoves
+    description: >-
+      Historical cast iron heating and cooking appliances from the 18th to early
+      20th century
+  keywords: >-
+    antique wood stove identification, vintage cast iron stoves, wood burning
+    stove values, antique stove manufacturers, wood stove dating techniques,
+    collectible heating appliances, antique stove restoration
 ---
 
 ## Introduction to Antique Wood Stoves

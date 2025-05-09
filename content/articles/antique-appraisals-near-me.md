@@ -40,8 +40,15 @@ structured_data:
     Discover how to find and choose reputable antique appraisal services near
     you. Expert tips for valuations, costs, and getting the most accurate
     assessment for your treasured items.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-appraisals-near-me/antique-appraisals-near-me-image-1_e4Tp7r_b5.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-appraisals-near-me/antique-appraisals-near-me-image-1_e4Tp7r_b5.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining vintage collectibles for
+      valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,49 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-appraisals-near-me'
+  about:
+    '@type': Thing
+    name: Antique Appraisals
+  keywords: >-
+    antique appraisals near me, local antique appraisers, professional antique
+    valuation, antique appraisal costs, find antique experts, heirloom valuation
+    services
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-headline
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-body
+  mentions:
+    - '@type': Service
+      name: Formal Written Appraisals
+      description: >-
+        Detailed documents prepared by certified appraisers for insurance
+        purposes, estate tax calculations, charitable donations, legal
+        proceedings, and high-value items.
+    - '@type': Service
+      name: Verbal Consultations
+      description: >-
+        Less formal appraisal services where experts examine items, provide
+        general value ranges, discuss historical context, and answer questions.
+    - '@type': Service
+      name: Appraisal Events
+      description: >-
+        Events hosted by auction houses, antique shows, and museums where
+        experts offer quick assessments for a nominal fee or for free.
+  offers:
+    '@type': AggregateOffer
+    priceCurrency: USD
+    lowPrice: '75'
+    highPrice: '350'
+    description: Range of prices for different types of antique appraisal services
+  typicalAgeRange: 40+ years experience for established appraisers
 ---
 
 {{< content-modules/section-header title="Finding Antique Appraisals Near You" level="2" >}}

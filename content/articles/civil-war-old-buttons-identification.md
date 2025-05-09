@@ -41,8 +41,15 @@ structured_data:
     Learn how to identify authentic Civil War buttons with this comprehensive
     guide covering Union and Confederate designs, materials, values, and
     preservation techniques.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/civil-war-old-buttons-identification/civil-war-old-buttons-identification-image-1_RfpBrrxHT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/civil-war-old-buttons-identification/civil-war-old-buttons-identification-image-1_RfpBrrxHT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Civil War military uniform buttons showing Union eagle designs
+      and Confederate state emblems from 1861-1865
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,14 @@ structured_data:
   dateModified: '2023-10-09T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/civil-war-old-buttons-identification
+  keywords:
+    - Civil War button identification
+    - Union Confederate military buttons
+    - antique military uniform buttons
+    - Civil War artifact authentication
+    - 19th century military relics
+    - Civil War collectibles value
+    - battlefield recovered buttons
 ---
 
 {{< content-modules/section-header title="Introduction to Civil War Buttons" level="2" >}}

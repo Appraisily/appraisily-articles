@@ -40,8 +40,6 @@ structured_data:
     Learn how to identify antique rocking chair styles through key features,
     historical periods, marks, and materials. Discover the value of your vintage
     rocker with expert tips.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identification-antique-rocking-chair-styles/identification-antique-rocking-chair-styles-image-1_MkcG8Oa2z.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +55,23 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/identification-antique-rocking-chair-styles
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identification-antique-rocking-chair-styles/identification-antique-rocking-chair-styles-image-1_MkcG8Oa2z.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique rocking chairs showcasing American
+      design evolution across different historical periods
+  keywords:
+    - antique rocking chair identification
+    - vintage rocker styles
+    - American rocking chair history
+    - valuable antique furniture
+    - antique chair authentication
+    - collectible rocking chairs
+    - period furniture identification
 ---
 
 ## Introduction to Antique Rocking Chairs

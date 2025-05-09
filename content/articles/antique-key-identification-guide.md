@@ -39,8 +39,6 @@ structured_data:
     Learn how to identify antique keys, including skeleton keys, warded locks,
     and furniture keys. Discover values, materials, dating tips, and
     preservation methods.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-key-identification-guide/antique-key-identification-guide-image-1_Mb91kL2v2.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +48,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-04-19T14:30:00.000Z'
   dateModified: '2023-04-19T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-key-identification-guide'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-key-identification-guide/antique-key-identification-guide-image-1_Mb91kL2v2.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of ornate skeleton keys showing various designs,
+      materials and craftsmanship from different historical periods
+  keywords: >-
+    antique key identification, skeleton key values, vintage key types, antique
+    lock collecting, warded lock keys, barrel key identification, antique key
+    history
 ---
 
 ![Collection of antique skeleton keys of various shapes and sizes](https://ik.imagekit.io/appraisily/SEO/antique-key-identification-guide/antique-key-identification-guide-image-1_Mb91kL2v2.png)

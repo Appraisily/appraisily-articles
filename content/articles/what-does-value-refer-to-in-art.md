@@ -39,8 +39,15 @@ structured_data:
     Discover what value means in art, including its role in creating depth and
     contrast, while exploring both its subjective and market worth in the art
     world.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/what-does-value-refer-to-in-art/what-does-value-refer-to-in-art-image-1_BzyFsYFM9.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/what-does-value-refer-to-in-art/what-does-value-refer-to-in-art-image-1_BzyFsYFM9.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Monochromatic artwork demonstrating value scale from light to dark tones
+      in artistic composition
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,10 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/what-does-value-refer-to-in-art'
+  articleSection: Art Theory
+  keywords: >-
+    value in art, tonal value, light and dark in art, art market value, art
+    elements, value contrast, art valuation techniques
 ---
 
 {{< content-modules/section-header title="What Does Value Mean in Art?" level="2" >}}

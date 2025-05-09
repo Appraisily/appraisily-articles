@@ -38,8 +38,15 @@ structured_data:
     Discover the true value of old postcards with our comprehensive guide. Learn
     how to identify valuable vintage postcards and determine their worth based
     on age, condition, rarity and historical significance.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-postcard-values/old-postcard-values-image-1_7nh_psqIH.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-postcard-values/old-postcard-values-image-1_7nh_psqIH.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage postcards from the Golden Age showing various rare
+      examples worth money to collectors
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,8 +56,29 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-10-13T14:30:00.000Z'
   dateModified: '2024-10-13T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-postcard-values'
+  keywords:
+    - old postcard values
+    - vintage postcards worth money
+    - rare postcard identification
+    - antique postcard collecting
+    - valuable Golden Age postcards
+    - postcard price guide
+    - collectible postcards
+  about:
+    '@type': Thing
+    name: Vintage Postcard Collecting
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
+  articleSection: Paper Collectibles
 ---
 
 Glimpsing into the past through vintage postcards is not just a nostalgic journey—it can also be financially rewarding. Old postcards connect us to history, art, and culture in ways few other collectibles can, and the most desirable examples can command surprisingly high prices. Whether you've inherited a collection or are considering starting one, understanding old postcard values is essential.

@@ -39,8 +39,6 @@ structured_data:
     Discover what makes vintage cameras valuable, learn how to assess their
     condition, and find out how much your old cameras are worth with this expert
     guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-camera-values/old-camera-values-image-1_kCsPDoUIF.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +48,24 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-09-23T14:30:00.000Z'
   dateModified: '2024-09-23T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-camera-values/old-camera-values-image-1_kCsPDoUIF.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage cameras including Leica, Rolleiflex, and
+      Canon models displayed for appraisal
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-camera-values'
+  keywords: >-
+    old camera values, vintage camera worth, collectible camera prices, Leica
+    camera value, antique photography equipment, rare camera models, camera
+    collecting guide
 ---
 
 ![Collection of valuable vintage cameras including a Leica, Rolleiflex, and Canon models](https://ik.imagekit.io/appraisily/SEO/old-camera-values/old-camera-values-image-1_kCsPDoUIF.png)

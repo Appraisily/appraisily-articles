@@ -43,8 +43,15 @@ structured_data:
     Comprehensive guide to determining the value of antique Singer sewing
     machines from the 1850s to 1970s, including model identification, serial
     number dating, condition assessment, and current market prices.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-singer-sewing-machine-value/antique-singer-sewing-machine-value-image-1_pv3usf3x_.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-singer-sewing-machine-value/antique-singer-sewing-machine-value-image-1_pv3usf3x_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Singer sewing machine with ornate gold decals and decorative cast
+      iron treadle base
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,25 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-07-01T14:30:00.000Z'
   dateModified: '2023-07-01T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://articles.appraisily.com/articles/antique-singer-sewing-machine-value
+  about:
+    '@type': Thing
+    name: Antique Singer Sewing Machines
+    description: >-
+      Vintage sewing machines manufactured by the Singer Manufacturing Company
+      from the 1850s to 1970s
+  keywords: >-
+    antique Singer sewing machine value, Singer Featherweight value, vintage
+    Singer identification, Singer serial number dating, collectible sewing
+    machines, Singer treadle machine worth, rare Singer models
+  isPartOf:
+    '@type': CollectionPage
+    name: Antiques
+    url: 'https://articles.appraisily.com/category/antiques'
+  timeRequired: PT10M
 ---
 
 # Antique Singer Sewing Machine Value Guide

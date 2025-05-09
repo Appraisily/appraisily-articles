@@ -39,8 +39,15 @@ structured_data:
     Discover how to determine the value of your old books with our comprehensive
     guide covering identification, valuation, and where to sell antique and rare
     editions.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-books-value/vintage-books-collection.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-books-value/vintage-books-collection.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of antique leather-bound books with gold embossing showing
+      potential value and rarity
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,9 +59,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-books-value'
+  keywords:
+    - old books value
+    - rare book identification
+    - antique book appraisal
+    - valuable first editions
+    - book collecting guide
+    - selling rare books
+    - vintage book valuation
 ---
 
 Discovering an old book in your attic, inheriting a family library, or finding a dusty tome at a garage sale can sometimes lead to unexpected treasures. Not all old books are valuable, but when they are, their worth can be significant. This comprehensive guide will help you navigate the complex world of rare and antique book valuation, providing you with the knowledge to identify potentially valuable volumes and determine their worth in today's market.

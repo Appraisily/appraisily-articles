@@ -31,28 +31,103 @@ keywords:
   - art insurance appraisal
   - art collection valuation
 structured_data:
-  '@context': 'https://schema.org'
-  '@type': Article
-  headline: 'Fine Art Appraisal: Expert Guide to Determining Your Artwork''s Value'
-  description: >-
-    Learn how professional fine art appraisal works, what to expect from the
-    process, and how to find a qualified appraiser to determine your artwork's
-    true value.
-  image: 'https://ik.imagekit.io/appraisily/blog/fine-art-appraisal-main-image.jpg'
-  author:
-    '@type': Organization
-    name: Appraisily Team
-  publisher:
-    '@type': Organization
-    name: Appraisily
-    logo:
+  - '@context': 'https://schema.org'
+    '@type': Article
+    headline: 'Fine Art Appraisal: Expert Guide to Determining Your Artwork''s Value'
+    description: >-
+      Learn how professional fine art appraisal works, what to expect from the
+      process, and how to find a qualified appraiser to determine your artwork's
+      true value.
+    image:
       '@type': ImageObject
-      url: 'https://appraisily.com/logo.png'
-  datePublished: '2023-09-18T14:30:00.000Z'
-  dateModified: '2023-09-18T14:30:00.000Z'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://articles.appraisily.com/articles/fine-art-appraisal'
+      url: 'https://ik.imagekit.io/appraisily/blog/fine-art-appraisal-main-image.jpg'
+      width: '1200'
+      height: '630'
+      caption: >-
+        Professional art appraiser examining painting details with magnifying
+        glass for valuation
+    author:
+      '@type': Organization
+      name: Appraisily Team
+    publisher:
+      '@type': Organization
+      name: Appraisily
+      logo:
+        '@type': ImageObject
+        url: 'https://appraisily.com/logo.png'
+    datePublished: '2023-09-18T14:30:00.000Z'
+    dateModified: '2023-09-18T14:30:00.000Z'
+    mainEntityOfPage:
+      '@type': WebPage
+      '@id': 'https://articles.appraisily.com/articles/fine-art-appraisal'
+    keywords:
+      - fine art appraisal
+      - artwork valuation
+      - professional art appraiser
+      - art authentication
+      - painting value assessment
+      - art insurance appraisal
+      - art collection valuation
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is Fine Art Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Fine art appraisal is the process of determining the monetary value
+            of artwork by a qualified professional. Unlike casual estimates or
+            online valuations, a formal art appraisal follows specific
+            methodologies and standards to provide an objective assessment of an
+            artwork's worth.
+      - '@type': Question
+        name: What are Common Reasons to Get Art Appraised?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Understanding which type of appraisal you need is crucial for
+            getting accurate information for your specific situation. Different
+            purposes require different appraisal methodologies. These include
+            insurance appraisals to determine replacement value in case of
+            damage, theft, or loss; and estate and donation appraisals that
+            determine fair market value for estate planning, probate, tax
+            purposes, or when donating artwork to nonprofit institutions.
+      - '@type': Question
+        name: What is an Insurance Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Insurance appraisals typically determine the replacement value of
+            artwork—how much it would cost to replace the item with one of
+            similar quality and characteristics. This value is often higher than
+            market value and helps ensure you're properly covered in case of
+            damage, theft, or loss. When obtaining an insurance appraisal,
+            you'll receive a detailed report that your insurance company can use
+            to establish appropriate coverage. Most insurers require updated
+            appraisals every 3-5 years to account for market fluctuations.
+      - '@type': Question
+        name: What are Estate and Donation Appraisals?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            For estate planning, probate, or tax purposes, appraisers determine
+            the fair market value—what the artwork would sell for between a
+            willing buyer and seller in the current market. These appraisals
+            must comply with IRS requirements and may be subject to review.
+            Similarly, when donating artwork valued over $5,000 to a nonprofit
+            institution, the IRS requires a qualified appraisal.
+  - '@context': 'https://schema.org'
+    '@type': Service
+    serviceType: Fine Art Appraisal
+    provider:
+      '@type': Organization
+      name: Appraisily
+    description: >-
+      Professional fine art appraisal services to determine the monetary value
+      of artwork for insurance, estate planning, donations, and other purposes.
+    areaServed: United States
+    category: Art Appraisal Services
 ---
 
 ## Introduction to Fine Art Appraisal

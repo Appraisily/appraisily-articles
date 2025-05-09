@@ -39,8 +39,15 @@ structured_data:
     Everything you need to know about JustAnswer antique appraisals including
     how they work, costs, accuracy, and alternatives to help determine your
     antiques' value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/justanswer-antique-appraisals/justanswer-antique-appraisals-image-1_N6o8Yo-kP.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/justanswer-antique-appraisals/justanswer-antique-appraisals-image-1_N6o8Yo-kP.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      JustAnswer online antique appraisal interface with expert evaluating
+      vintage collectibles
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,49 @@ structured_data:
   datePublished: '2023-07-12T14:30:00.000Z'
   dateModified: '2023-07-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/justanswer-antique-appraisals'
+  keywords:
+    - JustAnswer antique appraisals
+    - online antique valuation
+    - virtual appraisal service
+    - antique expert review
+    - remote collectible assessment
+    - JustAnswer subscription cost
+    - at-home antique authentication
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How JustAnswer Antique Appraisals Work
+  description: >-
+    The process of getting an antique appraised through JustAnswer follows a
+    straightforward workflow that allows users to obtain expert opinions quickly
+    and conveniently from their homes.
+  image: >-
+    https://ik.imagekit.io/appraisily/SEO/justanswer-antique-appraisals/justanswer-antique-appraisals-image-2_BvtImJqKf.png
+  step:
+    - '@type': HowToStep
+      name: Sign up for a membership
+      text: Users must first create an account and select a subscription plan.
+    - '@type': HowToStep
+      name: Submit your question
+      text: >-
+        Describe your antique item and upload clear photographs from multiple
+        angles.
+    - '@type': HowToStep
+      name: Expert assignment
+      text: >-
+        The platform matches your question with a verified antique expert who
+        specializes in your item's category.
+    - '@type': HowToStep
+      name: Receive an assessment
+      text: >-
+        The expert analyzes your photos and description, then provides an
+        estimated value, age, authenticity details, and other relevant
+        information.
+    - '@type': HowToStep
+      name: Follow-up questions
+      text: >-
+        Users can ask additional questions for clarification or provide more
+        information if needed.
 ---
 
 {{< content-modules/section-header title="What Is JustAnswer for Antique Appraisals?" level="2" >}}

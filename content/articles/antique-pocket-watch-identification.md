@@ -39,8 +39,6 @@ structured_data:
     Learn to identify and value antique pocket watches with our expert guide.
     Discover serial numbers, makers, and key features that determine
     authenticity and worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-pocket-watch-identification/antique-pocket-watch-identification-image-1_XzeA50rc-.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,20 @@ structured_data:
   datePublished: '2023-08-09T14:30:00.000Z'
   dateModified: '2023-08-09T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-pocket-watch-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-pocket-watch-identification/antique-pocket-watch-identification-image-1_XzeA50rc-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage gold pocket watch with ornate engraving, open case displaying
+      intricate movement mechanism
+  keywords: >-
+    antique pocket watch identification, vintage pocket watch values, pocket
+    watch serial numbers, collectible timepiece authentication, pocket watch
+    manufacturer marks, antique watch movement types, pocket watch dating guide
+  articleSection: Timepieces
 ---
 
 ![Gold antique pocket watch with ornate detailing and exposed movement mechanism](https://ik.imagekit.io/appraisily/SEO/antique-pocket-watch-identification/antique-pocket-watch-identification-image-1_XzeA50rc-.png)

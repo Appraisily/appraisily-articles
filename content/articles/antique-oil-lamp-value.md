@@ -37,7 +37,6 @@ structured_data:
     Comprehensive guide to determining antique oil lamp values, featuring
     identification techniques, price ranges, and authentication methods for
     collectors and sellers.
-  image: 'https://img.carters.com.au/300x300/384e0a3ab71e1dd4a27fb604f0e8c075.jpg'
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,6 +49,52 @@ structured_data:
   datePublished: '2023-07-18T14:30:00.000Z'
   dateModified: '2023-07-18T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-oil-lamp-value'
+  image:
+    '@type': ImageObject
+    url: 'https://img.carters.com.au/300x300/384e0a3ab71e1dd4a27fb604f0e8c075.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique kerosene oil lamp with ornate glass font and decorative brass base
+      from the Victorian era
+  keywords:
+    - antique oil lamp value
+    - vintage kerosene lamp prices
+    - collectible oil lamps
+    - antique lamp identification
+    - rare oil lamps worth
+    - Victorian oil lamp values
+    - antique lighting appraisal
+  about:
+    '@type': Thing
+    name: Antique Oil Lamps
+    description: >-
+      Historical lighting devices used before electricity, valued by collectors
+      for their craftsmanship and historical significance.
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors determine antique oil lamp values?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique oil lamp values are determined by age, manufacturer,
+            materials, condition, rarity, and artistic design. Lamps from the
+            Victorian Golden Age (1860s-1890s) by manufacturers like Bradley &
+            Hubbard, Edward Miller, and Rayo are particularly valuable,
+            especially those with ornate metalwork and colorful glass fonts.
+      - '@type': Question
+        name: How can you identify authentic antique oil lamps?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Authentic antique oil lamps can be identified by examining
+            manufacturer marks, materials, construction techniques, and design
+            elements characteristic of specific time periods. The evolution from
+            whale oil lamps (1780s-1830s) to fluid burning lamps (1830s-1860s)
+            to kerosene lamps (post-1853) provides context for authentication.
 ---
 
 # Antique Oil Lamp Value Guide: What Collectors Need to Know

@@ -39,8 +39,15 @@ structured_data:
     Discover what makes antique wooden rocking horses valuable collectibles.
     Learn how to identify rare pieces and understand current market prices from
     $75 to $7,000.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-wooden-rocking-horse-value/old-wooden-rocking-horse-value-image-1_FT__2tqw6.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-wooden-rocking-horse-value/old-wooden-rocking-horse-value-image-1_FT__2tqw6.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique wooden rocking horse with bow rocker base, carved details and
+      original leather saddle
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,25 @@ structured_data:
   datePublished: '2023-06-06T14:30:00.000Z'
   dateModified: '2023-06-06T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-wooden-rocking-horse-value'
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: How can you identify authentic antique rocking horses?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Authentic antique rocking horses can be identified by examining their
+        age and construction methods. Early 19th century horses feature simple
+        designs with rudimentary carving and basic bow rockers. Victorian era
+        (1837-1901) horses have more elaborate carving, gesso-covered bodies,
+        and often real horsehair manes and tails. Edwardian period (1901-1910)
+        horses show refined craftsmanship with detailed facial features and
+        realistic proportions. Key materials to look for include hand-carved
+        wooden bodies with visible tool marks, real horsehair mane and tail,
+        leather saddle with brass tacks or traditional stitching, genuine gesso
+        surface under paint, glass eyes, and traditional joinery methods without
+        modern screws.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Wooden Rocking Horses" level="2" >}}

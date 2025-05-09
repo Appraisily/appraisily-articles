@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-20T14:30:00.000Z'
   dateModified: '2023-11-20T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-crystal-glassware-value/antique-crystal-glassware-value-image-1_ZBWMJa4BD.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-crystal-glassware-value/antique-crystal-glassware-value-image-1_ZBWMJa4BD.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique crystal collection featuring ornate decanters, stemware,
+      and cut glass pieces from prestigious makers
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,63 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-crystal-glassware-value'
+  about:
+    '@type': Thing
+    name: Antique Crystal Glassware
+  keywords: >-
+    antique crystal glassware value, valuable crystal identification, Waterford
+    crystal worth, antique cut glass prices, vintage crystal appraisal,
+    collectible crystal marks, rare crystal stemware value
+  articleSection: Glassware & Crystal
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .stat-card
+'@graph':
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes crystal valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Crystal glass is distinguished from regular glass by its lead
+            content, which typically ranges from 24% to 33%. This lead oxide
+            gives crystal its characteristic clarity, brilliance, and weight.
+            The higher the lead content, the more valuable the crystal tends to
+            be.
+      - '@type': Question
+        name: How can I identify authentic crystal glassware?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            You can identify authentic crystal glassware using several methods:
+            The Light Test - Hold your glassware up to natural light. Authentic
+            crystal will create a prism effect, casting small rainbows around
+            the room. Regular glass won't produce this distinctive spectral
+            display. The Sound Test - Gently tap the rim of the glass with your
+            fingernail or a utensil. Crystal produces a clear, resonant ring.
+  - '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Authentic Crystal Glassware
+    description: >-
+      Methods to confirm whether your glassware is genuine crystal before
+      assessing its value.
+    step:
+      - '@type': HowToStep
+        name: The Light Test
+        text: >-
+          Hold your glassware up to natural light. Authentic crystal will create
+          a prism effect, casting small rainbows around the room. Regular glass
+          won't produce this distinctive spectral display.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/antique-crystal-glassware-value/antique-crystal-glassware-value-image-2_pklh4elw1.png
+      - '@type': HowToStep
+        name: The Sound Test
+        text: >-
+          Gently tap the rim of the glass with your fingernail or a utensil.
+          Crystal produces a clear, resonant ring.
 ---
 
 ![Collection of valuable antique crystal glassware including decanters and stemware](https://ik.imagekit.io/appraisily/SEO/antique-crystal-glassware-value/antique-crystal-glassware-value-image-1_ZBWMJa4BD.png)

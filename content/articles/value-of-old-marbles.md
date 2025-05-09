@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of old marbles with our comprehensive guide. Learn
     how to identify rare antique marbles, determine their worth, and get expert
     tips for collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-marbles/value-of-old-marbles-image-1_wIssov-3r.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-marbles/value-of-old-marbles-image-1_wIssov-3r.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable antique glass marbles including handmade German, Lutz,
+      and collectible vintage specimens
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,29 @@ structured_data:
       url: 'https://appraisily.com/img/logo.png'
   datePublished: '2024-11-19T14:30:00.000Z'
   dateModified: '2024-11-19T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/value-of-old-marbles'
+  keywords:
+    - antique marble values
+    - vintage marble identification
+    - rare marble worth
+    - collectible glass marbles
+    - Lutz marble prices
+    - handmade German marbles
+    - marble collecting guide
+  articleSection: Collectibles
+  about:
+    '@type': Thing
+    name: Antique Marbles
+    description: >-
+      Collectible glass marbles from the mid-19th century through the mid-20th
+      century, including handmade German specimens and machine-made varieties.
+  timeRequired: PT10M
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
 ---
 
 ## Introduction to Marble Collecting and Valuation

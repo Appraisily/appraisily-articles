@@ -38,7 +38,14 @@ structured_data:
     Discover the value of antique trunks with our comprehensive guide. Learn how
     to identify rare trunks, determine accurate pricing, and maximize the worth
     of your vintage storage chest.
-  image: 'https://ik.imagekit.io/appraisily/antique-trunks/steamer-trunk-main.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/appraisily/antique-trunks/steamer-trunk-main.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Restored antique steamer trunk with original brass hardware and leather
+      straps from the early 1900s
   author:
     '@type': Organization
     name: Appraisily Team

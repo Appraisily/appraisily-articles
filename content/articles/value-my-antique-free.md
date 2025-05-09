@@ -44,14 +44,54 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-07-19T14:30:00.000Z'
   dateModified: '2024-07-19T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-my-antique-free/value-my-antique-free-image-1_f61TSfbEfL.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-my-antique-free/value-my-antique-free-image-1_f61TSfbEfL.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining valuable antiques during a free valuation
+      service
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/value-my-antique-free'
+  keywords:
+    - value my antique free
+    - free antique appraisal services
+    - no-cost antique valuation
+    - online antique worth assessment
+    - auction house free estimates
+    - antique identification resources
+    - heirloom value determination
+  articleSection: Antique Appraisals
+  about:
+    '@type': Thing
+    name: Antique Valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What types of free antique appraisals are available?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Free antique appraisals generally come in several forms: 1) Auction
+            House Evaluations: Preliminary assessments to determine if an item
+            is suitable for auction, often with estimated value ranges; 2)
+            Online Submission Services: Digital platforms where experts review
+            photos and descriptions of your items; 3) Community Forums:
+            Collector groups where knowledgeable enthusiasts can offer opinions;
+            4) Mobile Apps: Digital tools that help identify items and provide
+            rough value estimates; 5) Museum or Gallery Consultations: Some
+            institutions offer free valuation days with experts.
 ---
 
 ## Introduction

@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique dry sinks with our comprehensive price guide.
     Learn about factors that affect pricing, history, and how to identify
     valuable pieces in today's market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-dry-sink/value-of-antique-dry-sink-image-1_tqyHoKZHs.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-dry-sink/value-of-antique-dry-sink-image-1_tqyHoKZHs.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic 19th century wooden antique dry sink with cabinet base and basin
+      area
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,14 @@ structured_data:
   datePublished: '2024-08-25T14:30:00.000Z'
   dateModified: '2024-08-25T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antique-dry-sink'
+  keywords:
+    - antique dry sink value
+    - antique dry sink worth
+    - antique dry sink identification
+    - 19th century dry sink prices
+    - copper insert dry sink value
+    - primitive dry sink cabinet
+    - American antique furniture values
 ---
 
 ![Antique wooden dry sink cabinet with drawers and cabinet doors](https://ik.imagekit.io/appraisily/SEO/value-of-antique-dry-sink/value-of-antique-dry-sink-image-1_tqyHoKZHs.png)

@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to antique punch bowl set values covering materials from
     crystal to silver, notable makers, condition factors, and current market
     prices for collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-punch-bowl-sets-value/antique-punch-bowl-sets-value-image-1_JstZcq8RO.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-punch-bowl-sets-value/antique-punch-bowl-sets-value-image-1_JstZcq8RO.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate crystal antique punch bowl set with matching cups and ladle from
+      the Victorian era
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,29 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-05-19T14:30:00.000Z'
   dateModified: '2024-05-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-punch-bowl-sets-value'
+  about:
+    '@type': Thing
+    name: Antique Punch Bowls
+    description: >-
+      Decorative serving vessels used for punch from the 17th to mid-20th
+      centuries
+  keywords:
+    - antique punch bowl sets value
+    - vintage punch bowl price guide
+    - crystal punch bowl worth
+    - collectible punch bowl sets
+    - silver punch bowl value
+    - antique glassware appraisal
+    - rare punch bowl identification
+  mentions:
+    - '@type': Thing
+      name: Monteith Bowls
+      description: Distinctive punch bowl design that emerged in the 1680s
 ---
 
 ![Elegant antique crystal punch bowl set with matching cups](https://ik.imagekit.io/appraisily/SEO/antique-punch-bowl-sets-value/antique-punch-bowl-sets-value-image-1_JstZcq8RO.png)

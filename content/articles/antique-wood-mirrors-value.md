@@ -39,8 +39,6 @@ structured_data:
     Discover what makes antique wooden mirrors valuable, how to identify
     authentic pieces, and current market prices in this comprehensive guide for
     collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-wood-mirrors-value/antique-wood-mirrors-value-image-1_gzu0P8LU4.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,19 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-wood-mirrors-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-wood-mirrors-value/antique-wood-mirrors-value-image-1_gzu0P8LU4.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate Victorian antique wooden mirror with gold gilt frame and intricate
+      carved details
+  keywords: >-
+    antique wood mirrors value, antique mirror authentication, vintage wooden
+    mirror prices, gilt frame mirror value, antique mirror identification,
+    wooden mirror appraisal, collectible antique mirrors
 ---
 
 Antique wooden mirrors represent not just functional items but windows into the past, reflecting both their owners and the artistic sensibilities of their era. Whether you've inherited a family heirloom, discovered a potential treasure at an estate sale, or are building a collection, understanding the value of these ornate pieces requires knowledge of their history, craftsmanship, and market dynamics.

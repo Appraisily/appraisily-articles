@@ -39,8 +39,15 @@ structured_data:
     Discover the fascinating world of military button collecting, with expert
     insights on identifying valuable pieces, price ranges, and key factors that
     determine old military button values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-military-buttons-value/old-military-buttons-value-image-1_QxlDKWp1UF.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-military-buttons-value/old-military-buttons-value-image-1_QxlDKWp1UF.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique military uniform buttons collection showing various regiments,
+      eras and countries of origin
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,22 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-military-buttons-value'
+  keywords:
+    - old military buttons value
+    - antique military button identification
+    - Civil War button collecting
+    - rare military uniform buttons
+    - military button price guide
+    - vintage military insignia
+    - collectible military artifacts
+  about:
+    '@type': Thing
+    name: Military Button Collecting
+    description: >-
+      Historical military buttons from various eras including Civil War, World
+      Wars, and other military periods that have become valuable collectibles.
+  timeRequired: PT10M
+  articleSection: Collectibles
 ---
 
 ## Introduction to Military Button Collecting

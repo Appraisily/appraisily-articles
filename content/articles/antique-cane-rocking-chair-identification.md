@@ -44,8 +44,15 @@ structured_data:
     Learn how to identify and value antique cane rocking chairs with our
     comprehensive guide covering styles, makers, materials, and authentication
     techniques.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cane-rocking-chair-identification/antique-cane-rocking-chair-identification-image-1_BdhgpL9Yx.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cane-rocking-chair-identification/antique-cane-rocking-chair-identification-image-1_BdhgpL9Yx.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Victorian-era cane rocking chair with ornate wooden frame and
+      hand-woven cane seat and back
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,16 @@ structured_data:
   dateModified: '2023-11-14T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-cane-rocking-chair-identification
+  about:
+    '@type': Thing
+    name: Antique Furniture
+    description: >-
+      Historical furniture pieces including cane rocking chairs from various
+      periods
+  keywords: >-
+    antique cane rocking chair identification, vintage cane rocker value,
+    Victorian cane rocking chairs, Shaker rocking chair styles, cane chair
+    authentication, 19th century rocking chairs, antique furniture appraisal
 ---
 
 ## Introduction to Antique Cane Rocking Chairs

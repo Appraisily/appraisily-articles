@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-05-24T14:30:00.000Z'
   dateModified: '2024-05-24T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal-near-me/free-antique-appraisal-near-me-image-1_Qsh7sEttP.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal-near-me/free-antique-appraisal-near-me-image-1_Qsh7sEttP.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining a vintage porcelain vase during a
+      free community appraisal event
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,20 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/free-antique-appraisal-near-me'
+  about:
+    '@type': Thing
+    name: Antique Appraisals
+    description: >-
+      Professional evaluation of antiques and collectibles to determine their
+      authenticity, condition, and market value
+  keywords: >-
+    free antique appraisal near me, local antique valuation services, free
+    collectible appraisal events, antique roadshow type events, online antique
+    value assessment
+  mentions:
+    - '@type': Organization
+      name: Selkirk Auctioneers & Appraisers
+      url: 'https://www.bbb.org/us/mo/saint-louis/category/antique-appraisal'
 ---
 
 {{< content-modules/section-header title="Introduction to Free Antique Appraisals" level="2" >}}

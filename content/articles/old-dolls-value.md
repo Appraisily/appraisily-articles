@@ -46,8 +46,15 @@ structured_data:
     Discover the true value of your old dolls with our comprehensive guide to
     antique doll identification, pricing, and selling strategies from expert
     collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-dolls-value/old-dolls-value-image-1_ETFUUBpAS.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-dolls-value/old-dolls-value-image-1_ETFUUBpAS.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique porcelain and bisque dolls from the 19th and 20th
+      centuries displayed in a collector's arrangement
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,44 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-12-18T14:30:00.000Z'
   dateModified: '2023-12-18T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Antique Dolls
+    description: >-
+      Collectible dolls from previous eras valued for their craftsmanship,
+      rarity, and historical significance
+  keywords: >-
+    old dolls value, antique doll identification, vintage doll prices, valuable
+    porcelain dolls, bisque doll values, rare doll collectors, antique doll
+    appraisal
+  hasPart:
+    - '@type': FAQPage
+      mainEntity:
+        - '@type': Question
+          name: How do I identify my antique doll?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              Look for maker's marks on the back of the head, neck, or body.
+              These marks can include company names like Kestner, Armand
+              Marseille, Simon & Halbig, model numbers, country of origin, and
+              patent information or dates. Use a magnifying glass to carefully
+              examine all parts of the doll for these identifying marks.
+    - '@type': HowTo
+      name: How to Identify Your Antique Doll
+      description: >-
+        Steps to properly identify vintage and antique dolls to determine their
+        value
+      step:
+        - '@type': HowToStep
+          name: Look for Maker's Marks
+          text: >-
+            Check for manufacturer marks, which are typically found on the back
+            of the head, neck, or body. These marks can include company names
+            like Kestner, Armand Marseille, Simon & Halbig, model numbers or
+            mold numbers, country of origin, and patent information or dates.
+          image: >-
+            https://ik.imagekit.io/appraisily/SEO/old-dolls-value/old-dolls-value-image-2_JWuUgdMxL.png
 ---
 
 ![Collection of valuable antique porcelain and bisque dolls from various eras](https://ik.imagekit.io/appraisily/SEO/old-dolls-value/old-dolls-value-image-1_ETFUUBpAS.png)

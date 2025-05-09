@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-06-20T14:30:00.000Z'
   dateModified: '2024-06-20T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-cast-iron-wash-pots/value-of-old-cast-iron-wash-pots-image-1_Wkbc5leIL.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-cast-iron-wash-pots/value-of-old-cast-iron-wash-pots-image-1_Wkbc5leIL.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage three-legged cast iron wash pot with bail handle showing patina
+      and age-related character
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,26 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://appraisily.com/value-of-old-cast-iron-wash-pots/'
+  about:
+    '@type': Thing
+    name: Antique Cast Iron Wash Pots
+    description: >-
+      Historical household vessels used for laundering clothes, rendering lard,
+      making soap, and cooking for large gatherings from the 18th through early
+      20th centuries.
+  keywords: >-
+    antique cast iron wash pot values, vintage wash kettle prices, collectible
+    cast iron cauldrons, three-legged iron pot identification, wash pot
+    markings, cast iron laundry pot worth, historic washing vessels
+  specialty: Antiques and Collectibles
+  temporalCoverage: 18th-20th century
+  offers:
+    '@type': AggregateOffer
+    priceCurrency: USD
+    lowPrice: '50'
+    highPrice: '800'
+    offerCount: 100+
+    availability: 'https://schema.org/InStock'
 ---
 
 {{< content-modules/section-header title="Introduction to Cast Iron Wash Pots" level="2" >}}

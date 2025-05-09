@@ -39,8 +39,6 @@ structured_data:
     Comprehensive guide to determining the value of vintage rotary telephones in
     today's collectibles market, including identification tips, price factors,
     and values for rare and common models.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-rotary-phones-value/old-rotary-phones-value-image-1_WAoQD7OhE.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,75 @@ structured_data:
   datePublished: '2023-07-24T14:30:00.000Z'
   dateModified: '2023-07-24T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-rotary-phones-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-rotary-phones-value/old-rotary-phones-value-image-1_WAoQD7OhE.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collectible black vintage rotary telephone from mid-century with dial
+      mechanism
+  keywords:
+    - old rotary phones value
+    - vintage telephone prices
+    - antique rotary phone worth
+    - collectible telephone identification
+    - rare rotary phones
+    - mid-century telephone values
+    - rotary dial collectibles
+  about:
+    '@type': Thing
+    name: Vintage Rotary Telephones
+    description: Collectible rotary dial telephones from the mid-20th century
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What's Driving the Rotary Phone Revival?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several factors are driving this revival: 1) Nostalgia factor - For
+            many older collectors, rotary phones represent a connection to their
+            youth, 2) Design appeal - Mid-century modern and vintage aesthetics
+            are trending in home decor, 3) Functional art - Many rotary phones
+            can still work on modern lines with adaptors, 4) Limited supply - As
+            older phones disappear, those in good condition become rarer.
+            According to a report by World Art News, the value of vintage rotary
+            phones has increased by approximately 500% in recent years.
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Common Black Desktop Models
+      description: 'Working condition, standard AT&T/Western Electric phones'
+      price: $20-$75
+    - '@type': ListItem
+      position: 2
+      name: Colored Desktop Models
+      description: 'Pink, blue, green, red, yellow variants command premiums'
+      price: $75-$350
+    - '@type': ListItem
+      position: 3
+      name: Wall-Mounted Rotary Phones
+      description: Depending on color and condition
+      price: $50-$200
+    - '@type': ListItem
+      position: 4
+      name: Princess and Trimline Models
+      description: 'Particularly valuable in pink, turquoise, and other rare colors'
+      price: $60-$300
+    - '@type': ListItem
+      position: 5
+      name: Candlestick/Upright Phones
+      description: Early 20th century models in good condition
+      price: $100-$400
+    - '@type': ListItem
+      position: 6
+      name: Rare Designer Models
+      description: 'Limited edition phones, unique designs, celebrity provenance'
+      price: '$200-$2,000+'
 ---
 
 ![Vintage black rotary telephone from the mid-20th century](https://ik.imagekit.io/appraisily/SEO/old-rotary-phones-value/old-rotary-phones-value-image-1_WAoQD7OhE.png)

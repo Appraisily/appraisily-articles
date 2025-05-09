@@ -38,8 +38,15 @@ structured_data:
     Discover the value of old stamps with our comprehensive price list. Learn
     how to identify rare stamps, factors affecting value, and current market
     prices for philatelic treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-old-stamps-price-list/value-old-stamps-price-list-image-1_HSj488jMD.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-old-stamps-price-list/value-old-stamps-price-list-image-1_HSj488jMD.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable antique postage stamps with magnifying glass showing
+      details of collectible philatelic items
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,47 @@ structured_data:
   datePublished: '2024-07-05T14:30:00.000Z'
   dateModified: '2024-07-05T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-old-stamps-price-list'
+  about:
+    '@type': Thing
+    name: Stamp Collecting
+    description: Philately and the valuation of rare and collectible postage stamps
+  keywords:
+    - valuable old stamps
+    - stamp price guide
+    - rare stamp values
+    - philately valuation
+    - antique stamp worth
+    - collectible postage stamps
+    - stamp collecting investment
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors affect stamp value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of a stamp is determined by several key factors: 1) Rarity
+            - The scarcity of a stamp dramatically impacts its value. Limited
+            print runs, printing errors, and stamps that were recalled or
+            destroyed contribute to rarity. 2) Condition - Mint (unused) stamps
+            generally command higher prices than used ones. Look for stamps with
+            no tears or creases, original gum (adhesive) intact, good centering
+            of the design, and vibrant, unfaded colors. 3) Age - While older
+            stamps tend to be more valuable, age alone doesn't guarantee value.
+            4) Historical Significance - Stamps commemorating important
+            historical events or featuring printing errors often have higher
+            values. 5) Demand - Collector interest in certain themes, countries,
+            or periods affects market values.
+      - '@type': Question
+        name: What percentage of stamps are valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            According to experts, approximately 98% of stamps are worth only
+            their face value or slightly more, but the remaining 2% can be quite
+            valuable, with the rarest examples selling for millions at auction.
 ---
 
 {{< content-modules/section-header title="Introduction to Old Stamp Values" level="2" >}}

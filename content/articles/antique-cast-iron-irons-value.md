@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-05T14:30:00.000Z'
   dateModified: '2023-11-05T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-irons-value/antique-cast-iron-irons-value-image-1_I9b0BL1he.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-irons-value/antique-cast-iron-irons-value-image-1_I9b0BL1he.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of valuable antique cast iron sad irons showing various
+      manufacturers and designs
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,30 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-cast-iron-irons-value'
+  about:
+    '@type': Thing
+    name: Antique Cast Iron Irons
+    description: >-
+      Historical pressing tools made of cast iron used before electric irons
+      became common
+  keywords: >-
+    antique cast iron irons value, sad irons worth, vintage pressing irons,
+    collectible cast iron irons, antique iron identification, rare sad irons
+    prices, antique laundry tools
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Are Antique Cast Iron Irons?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Before electric irons became commonplace, people relied on heavy
+            cast iron pressing tools heated on stoves or filled with hot coals
+            to smooth their garments. These irons came in various styles and
+            designs, each with unique features that now help determine their
+            collectible value.
 ---
 
 {{< content-modules/section-header title="Unlocking the Value of Antique Cast Iron Irons" level="2" >}}

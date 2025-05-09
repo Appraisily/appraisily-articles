@@ -39,8 +39,6 @@ structured_data:
     Discover the value of antique toothpick holders, from Victorian crystal and
     silver pieces to collectible novelty designs. Learn identification tips and
     price ranges for these charming tabletop treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-toothpick-holders/value-of-antique-toothpick-holders-image-1_l_lNREU9A.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,42 @@ structured_data:
   datePublished: '2023-09-01T14:30:00.000Z'
   dateModified: '2023-09-01T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antique-toothpick-holders'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-toothpick-holders/value-of-antique-toothpick-holders-image-1_l_lNREU9A.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique toothpick holders collection featuring Victorian crystal,
+      silver, and hand-painted porcelain examples
+  keywords:
+    - antique toothpick holders value
+    - Victorian toothpick holders
+    - silver toothpick holders
+    - collectible toothpick stands
+    - crystal toothpick holders
+    - rare toothpick holders
+    - antique tableware collectibles
+  about:
+    '@type': Thing
+    name: Antique Toothpick Holders
+    description: >-
+      Decorative tabletop accessories from the Victorian and Edwardian eras used
+      to hold toothpicks for guests after meals.
+  mentions:
+    - '@type': Thing
+      name: Victorian era
+      description: Historical period from 1837-1901 during Queen Victoria's reign
+    - '@type': Thing
+      name: Fostoria
+      description: American glass company known for producing toothpick holders
+    - '@type': Thing
+      name: Cambridge
+      description: American glass company known for producing toothpick holders
+    - '@type': Thing
+      name: Heisey
+      description: American glass company known for producing toothpick holders
 ---
 
 ![Collection of valuable antique toothpick holders including crystal, silver, and porcelain examples](https://ik.imagekit.io/appraisily/SEO/value-of-antique-toothpick-holders/value-of-antique-toothpick-holders-image-1_l_lNREU9A.png)

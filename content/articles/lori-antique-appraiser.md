@@ -46,8 +46,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-21T14:30:00.000Z'
   dateModified: '2023-06-21T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/lori-antique-appraiser/lori-antique-appraiser-image-1_Rz-g7uosT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/lori-antique-appraiser/lori-antique-appraiser-image-1_Rz-g7uosT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Dr. Lori Verderame examining antiques as seen on History Channel's Pawn
+      Stars and The Curse of Oak Island
   publisher:
     '@type': Organization
     name: Appraisily
@@ -57,6 +64,58 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/lori-antique-appraiser'
+  about:
+    '@type': Person
+    name: Dr. Lori Verderame
+    jobTitle: Antiques Appraiser
+    description: >-
+      Renowned antiques appraiser, television personality, author, and educator
+      with expertise in antiques, collectibles, and fine art
+    sameAs:
+      - 'https://drloriv.com'
+    knowsAbout:
+      - Antique Appraisal
+      - Fine Art Appraisal
+      - Collectibles Valuation
+  mentions:
+    - '@type': TVSeries
+      name: Pawn Stars
+      sameAs: 'https://www.history.com/shows/pawn-stars'
+    - '@type': TVSeries
+      name: The Curse of Oak Island
+      sameAs: 'https://www.history.com/shows/the-curse-of-oak-island'
+    - '@type': TVSeries
+      name: Auction Kings
+      sameAs: 'https://www.discovery.com/shows/auction-kings'
+    - '@type': TVSeries
+      name: King of Collectibles
+      sameAs: 'https://www.netflix.com'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Who is Dr. Lori Verderame?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Dr. Lori Verderame, commonly known as "Dr. Lori," is a renowned
+            antiques appraiser, television personality, author, and educator
+            with extensive expertise in the appraisal of antiques, collectibles,
+            and fine art. With a Ph.D. from Pennsylvania State University, she
+            has built a reputation as one of America's most recognizable
+            antiques experts through her television appearances, live events,
+            and online appraisal services.
+      - '@type': Question
+        name: What are Dr. Lori's credentials?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Dr. Lori has a Ph.D. from Pennsylvania State University, a Master of
+            Library Science from Wesleyan University, and a Bachelor's degree
+            from the University of Michigan. Her academic background provides
+            the foundation for her expertise in antiques and collectibles
+            appraisal.
 ---
 
 {{< content-modules/section-header title="Who is Dr. Lori Verderame?" level="2" >}}

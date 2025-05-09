@@ -41,8 +41,15 @@ structured_data:
     Discover the value of old Star Wars figures from 1977-1985. Learn about rare
     collectibles, price factors, authentication tips, and current market rates
     for your vintage Star Wars toys.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-star-wars-figures-value/old-star-wars-figures-value-image-1_cw7KiQK-C.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-star-wars-figures-value/old-star-wars-figures-value-image-1_cw7KiQK-C.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage Star Wars action figures from the 1970s and 1980s
+      with a focus on rare and valuable pieces
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,51 @@ structured_data:
   datePublished: '2023-12-06T14:30:00.000Z'
   dateModified: '2023-12-06T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-star-wars-figures-value'
+'@context': 'https://schema.org'
+'@type': HowTo
+mainEntity:
+  - '@type': Question
+    name: What makes vintage Star Wars figures valuable?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Vintage Star Wars figures from 1977-1985 are valuable due to their
+        historical significance, rarity (especially variants like vinyl-cape
+        Jawa), condition (mint-in-box figures command premium prices), packaging
+        variations, and overall market demand from collectors.
+  - '@type': Question
+    name: When were the original Star Wars action figures produced?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        The original line of Star Wars action figures was produced by Kenner
+        from 1977 to 1985, representing the most valuable era of Star Wars
+        collectibles.
+name: How to Identify and Value Vintage Star Wars Figures
+step:
+  - '@type': HowToStep
+    name: Understand the historical context
+    text: >-
+      Learn about the evolution of Star Wars figures from their initial release
+      in 1977 through the different waves including First Wave Figures
+      (1978-1980), The Empire Strikes Back Era (1980-1982), and Return of the
+      Jedi & Power of the Force (1983-1985).
+  - '@type': HowToStep
+    name: Identify the figure and its era
+    text: >-
+      Determine which wave your figure belongs to based on its design, features,
+      and packaging style. Early figures from 1978-1980 featured minimal detail
+      but established the 3¾-inch scale.
+  - '@type': HowToStep
+    name: Check for rarity and variants
+    text: >-
+      Look for rare variants like the vinyl-cape Jawa or special production
+      variations that can significantly increase value.
+  - '@type': HowToStep
+    name: Assess condition
+    text: >-
+      Evaluate the figure's condition, as mint-in-box examples command premium
+      prices compared to loose or damaged figures.
 ---
 
 ![Collection of vintage Star Wars action figures from the 1970s and 1980s with a focus on rare and valuable pieces](https://ik.imagekit.io/appraisily/SEO/old-star-wars-figures-value/old-star-wars-figures-value-image-1_cw7KiQK-C.png)

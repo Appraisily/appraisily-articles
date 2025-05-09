@@ -39,8 +39,6 @@ structured_data:
     Learn how to recognize and identify different antique furniture styles from
     various periods, understand their characteristics, and determine their value
     with our expert identification guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identifying-antique-furniture-styles/identifying-antique-furniture-styles-image-1_OFULzPz9B.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +52,49 @@ structured_data:
   dateModified: '2023-08-23T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/identifying-antique-furniture-styles
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identifying-antique-furniture-styles/identifying-antique-furniture-styles-image-1_OFULzPz9B.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of distinctive antique furniture styles showing Queen Anne
+      chair, Georgian cabinet, and Victorian sofa with period-specific design
+      elements
+  keywords:
+    - antique furniture identification
+    - period furniture styles
+    - antique furniture characteristics
+    - historical furniture guide
+    - identifying antique wood furniture
+    - furniture style timeline
+    - antique furniture value markers
+  about:
+    '@type': Thing
+    name: Antique Furniture
+    description: >-
+      Historical furniture pieces typically over 100 years old with distinctive
+      period styles and craftsmanship
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+  inLanguage: en-US
+  accessMode: textual
+  accessibilityHazard: none
+  accessibilityFeature:
+    - images
+    - structuredNavigation
+  educationalUse: reference
+  audience:
+    '@type': Audience
+    audienceType: 'Antique Collectors, Interior Designers, History Enthusiasts'
+  temporalCoverage: 16th Century to Mid-20th Century
 ---
 
 Identifying antique furniture styles can be both a fascinating journey through history and a practical skill for collectors, interior designers, and antique enthusiasts. Whether you're browsing an estate sale, visiting an antique shop, or simply curious about that heirloom piece in your family, understanding furniture styles can help you appreciate their historical significance and determine their value.

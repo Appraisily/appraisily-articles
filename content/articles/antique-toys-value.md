@@ -42,8 +42,6 @@ structured_data:
     Discover what makes antique toys valuable, how to identify collectible
     pieces, and what your vintage playthings might be worth in today's collector
     market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-toys-value/antique-toys-value-image-1_CII-7xWas.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,43 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2024-08-22T14:30:00.000Z'
   dateModified: '2024-08-22T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-toys-value/antique-toys-value-image-1_CII-7xWas.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique toys including tin robots, dolls, and
+      action figures
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-toys-value'
+  keywords:
+    - antique toys value
+    - vintage toy appraisal
+    - collectible toys worth
+    - rare antique playthings
+    - valuable childhood toys
+    - antique toy identification
+    - vintage toy market
+  articleSection: Toys & Collectibles
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes a Toy "Antique" or "Vintage"?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            In the world of collectibles, terminology matters. Generally
+            speaking: Antique toys are items that are at least 100 years old.
+            These include toys from the Victorian era through the early 1920s.
+            Vintage toys typically refer to items between 20-100 years old,
+            encompassing toys from the 1930s through the early 2000s.
+            Collectible toys can be from any era, including recent limited
+            editions, but have proven market demand among collectors.
 ---
 
 ![Collection of valuable antique toys including tin robots, dolls, and action figures](https://ik.imagekit.io/appraisily/SEO/antique-toys-value/antique-toys-value-image-1_CII-7xWas.png)

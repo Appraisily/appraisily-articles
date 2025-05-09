@@ -43,8 +43,6 @@ structured_data:
     Learn how to identify and value antique glassware with our comprehensive
     guide covering patterns, markings, colors, and value indicators for
     collectors and enthusiasts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-glassware-identification/antique-glassware-identification-image-1_5Q5F0JmUgw.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -58,6 +56,26 @@ structured_data:
   datePublished: '2024-06-09T14:30:00.000Z'
   dateModified: '2024-06-09T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-glassware-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-glassware-identification/antique-glassware-identification-image-1_5Q5F0JmUgw.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique glassware including colored
+      depression glass, cut crystal, and hand-blown pieces from various periods
+  keywords:
+    - antique glassware identification
+    - vintage glass valuation
+    - depression glass patterns
+    - collectible glass markings
+    - rare antique glass value
+    - carnival glass identification
+    - antique crystal authentication
+  about:
+    '@type': Thing
+    name: Antique Glassware
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Glassware Identification" level="2" >}}

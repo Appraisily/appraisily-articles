@@ -44,15 +44,51 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-09T14:30:00.000Z'
   dateModified: '2023-11-09T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-end-tables-value/antique-end-tables-value-image-1_7-qD2o5es.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-end-tables-value/antique-end-tables-value-image-1_7-qD2o5es.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique mahogany end table with ornate carvings, original hardware, and
+      rich patina showing historical craftsmanship
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-end-tables-value'
+hasPart:
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Are Antique End Tables?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique end tables, also known as side tables or occasional tables,
+            are small tables typically placed at the end of a sofa or beside a
+            chair. Dating back centuries, these functional pieces have evolved
+            through various design eras, with each period showcasing unique
+            craftsmanship and stylistic elements. To be classified as a true
+            antique, a table must generally be over 100 years old, though many
+            collectors also value vintage pieces from the early to mid-20th
+            century.
+      - '@type': Question
+        name: What is the difference between end tables and side tables?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            End tables differ slightly from side tables in both purpose and
+            design. As noted by furniture experts at Style Meets Comfort, "End
+            tables are typically larger and come in pairs, while side tables are
+            smaller and stand-alone." This distinction can sometimes affect the
+            value and collectibility of a piece.
 ---
 
 Antique end tables provide both functionality and historical charm to any living space. Whether you've inherited a family heirloom, discovered a potential treasure at an estate sale, or are simply curious about the value of your vintage furniture, understanding what makes antique end tables valuable is essential for collectors and decorators alike.

@@ -43,8 +43,6 @@ structured_data:
     Learn how to accurately value Native American artifacts with our expert
     guide covering authentication, appraisal services, valuation factors, and
     legal considerations.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/indian-artifacts-appraisal/indian-artifacts-appraisal-image-1_ixaWfNQM3.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +57,23 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/indian-artifacts-appraisal'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/indian-artifacts-appraisal/indian-artifacts-appraisal-image-1_ixaWfNQM3.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Native American artifacts collection featuring arrowheads,
+      pottery, and tribal relics for professional appraisal
+  keywords:
+    - Native American artifacts appraisal
+    - Indian artifact authentication
+    - arrowhead valuation
+    - tribal artifact identification
+    - Native American pottery appraisal
+    - indigenous artifact value guide
+    - cultural heritage appraisal
 ---
 
 ![Collection of authentic Native American artifacts including arrowheads and pottery](https://ik.imagekit.io/appraisily/SEO/indian-artifacts-appraisal/indian-artifacts-appraisal-image-1_ixaWfNQM3.png)

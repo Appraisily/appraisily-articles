@@ -42,8 +42,15 @@ structured_data:
     Discover the true value of old Avon bottles in this comprehensive
     collector's guide. Learn identification tips, price ranges, and which rare
     bottles are worth serious money.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-avon-bottles-value/old-avon-bottles-value-image-1_hguYOKtsb1.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-avon-bottles-value/old-avon-bottles-value-image-1_hguYOKtsb1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Avon perfume bottles collection showcasing decorative designs from
+      the mid-20th century
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,64 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-10-19T14:30:00.000Z'
   dateModified: '2024-10-19T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Vintage Avon Bottles
+    description: >-
+      Collectible perfume and cologne bottles produced by Avon Products, Inc.
+      from the early 20th century through the 1980s
+  mentions:
+    - '@type': Thing
+      name: 'Avon Products, Inc.'
+      sameAs: 'https://en.wikipedia.org/wiki/Avon_Products'
+    - '@type': Thing
+      name: California Perfume Company
+      description: Original name of Avon founded in 1886
+  keywords:
+    - old Avon bottles value
+    - vintage Avon collectibles
+    - rare Avon perfume bottles
+    - Avon bottle price guide
+    - collectible Avon figurals
+    - Avon bottle identification
+    - valuable Avon decanters
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .section-header
+  isAccessibleForFree: true
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: true
+      cssSelector: .article-body
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the current state of the Avon collectibles market?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Many vintage Avon bottles that once commanded higher prices have
+            seen their values decline in recent years. Most common Avon bottles
+            from the 1960s-1980s typically sell for $5-25 each, with many on the
+            lower end of that range. However, certain rare pieces, particularly
+            those from the early 20th century or limited production runs, can
+            still command significant premiums. The market follows typical
+            collector trends: rarity, condition, and historical significance
+            drive value. Complete sets and bottles with original contents or
+            packaging generally bring higher prices.
+      - '@type': Question
+        name: How much are vintage Avon bottles worth?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of vintage Avon bottles ranges from $5 to $500+, with most
+            common bottles from the 1960s-1980s selling for $5-25 each. Rare
+            specimens, particularly those from the early 20th century or with
+            limited production runs, unique designs, or historical significance
+            can command higher prices.
 ---
 
 Vintage Avon bottles have captured the fascination of collectors for decades, transforming from everyday beauty products into sought-after collectibles. With their unique designs ranging from cars and animals to elegant decanters, these bottles tell the story of American consumer culture from the mid-20th century onward. But how much are these nostalgic treasures actually worth today?

@@ -41,8 +41,15 @@ structured_data:
     Discover how to get free antique furniture appraisals online and in-person.
     Learn about reliable resources, what to expect, and when to opt for paid
     professional valuations.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-furniture-appraisal/free-antique-furniture-appraisal-image-1_dkXXUJ0jy.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-furniture-appraisal/free-antique-furniture-appraisal-image-1_dkXXUJ0jy.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage wooden dresser being professionally examined by an appraiser with
+      magnifying glass for authentication
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,38 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/free-antique-furniture-appraisal'
+  about:
+    '@type': Thing
+    name: Antique Furniture Appraisal
+  keywords:
+    - free antique furniture appraisal
+    - online furniture valuation
+    - antique furniture worth
+    - free heritage auction appraisals
+    - vintage furniture identification
+    - local antique appraisal events
+    - heirloom furniture value
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What can a free antique furniture appraisal provide?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Free appraisals offer a preliminary assessment but have limitations
+            compared to paid professional services. They provide a helpful
+            starting point for understanding the potential worth of antique
+            furniture pieces without immediate cost.
+      - '@type': Question
+        name: How many photos are needed for an accurate online furniture appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            3-5 key photos are needed for an accurate online furniture
+            appraisal, allowing experts to properly assess the condition,
+            craftsmanship, and identifying features of the piece.
 ---
 
 {{< content-modules/section-header title="Understanding Free Antique Furniture Appraisals" level="2" >}}

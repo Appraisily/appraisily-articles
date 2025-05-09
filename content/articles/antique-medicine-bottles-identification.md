@@ -44,8 +44,15 @@ structured_data:
     Learn how to identify antique medicine bottles by shape, color, markings and
     manufacturing techniques. Discover values and historical significance of
     vintage pharmaceutical bottles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-medicine-bottles-identification/antique-medicine-bottles-identification-image-1_Uh6K-rIOlM.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-medicine-bottles-identification/antique-medicine-bottles-identification-image-1_Uh6K-rIOlM.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of 19th and early 20th century antique glass medicine
+      and pharmaceutical bottles showing various colors, shapes and embossing
   author:
     '@type': Organization
     name: Appraisily Team
@@ -61,6 +68,54 @@ structured_data:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-medicine-bottles-identification
+  about:
+    '@type': Thing
+    name: Antique Medicine Bottles
+    description: >-
+      Historical glass containers used for pharmaceutical products from the 19th
+      and early 20th centuries
+  keywords: >-
+    antique medicine bottles identification, vintage pharmaceutical bottles,
+    medicine bottle dating techniques, pontil mark identification, valuable
+    antique bottles, historical pharmaceuticals, glass bottle collecting
+  articleSection: Glass Collectibles
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .introduction
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .introduction
+      - .key-characteristics
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the peak production period for collectible medicine bottles?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The peak production period for collectible medicine bottles was from
+            1800 to 1910.
+      - '@type': Question
+        name: What is the typical value range for antique medicinal bottles?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The typical value range for antique medicinal bottles is $5 to
+            $1,000+, depending on rarity, condition, and historical
+            significance.
+      - '@type': Question
+        name: >-
+          How many distinct bottle shapes were used for different medicinal
+          purposes?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            There were more than 50 distinct bottle shapes used for different
+            medicinal purposes, each designed for specific types of remedies or
+            treatments.
 ---
 
 ![Collection of antique glass medicine bottles in various shapes and colors](https://ik.imagekit.io/appraisily/SEO/antique-medicine-bottles-identification/antique-medicine-bottles-identification-image-1_Uh6K-rIOlM.png)

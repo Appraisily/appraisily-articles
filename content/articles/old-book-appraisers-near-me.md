@@ -43,8 +43,15 @@ structured_data:
     Discover how to find qualified old book appraisers near you, learn about
     rare book valuation, and understand what makes your antique books valuable
     with our comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-book-appraisers-near-me/old-book-appraisers-near-me-image-1_4Zk9NBuDX.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-book-appraisers-near-me/old-book-appraisers-near-me-image-1_4Zk9NBuDX.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional book appraiser examining a rare antique book with magnifying
+      glass and white gloves
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-book-appraisers-near-me'
+  about:
+    '@type': Thing
+    name: Antique Book Appraisal
+    description: >-
+      Professional evaluation of rare and antique books to determine their
+      market value, authenticity, and historical significance.
+  keywords: >-
+    old book appraisers near me, rare book valuation, antique book appraisal,
+    book appraisal services, find book appraiser, rare book evaluation, vintage
+    book value
 ---
 
 Do you have old books gathering dust on your shelves that might be worth something? Perhaps you've inherited a collection, discovered forgotten treasures in your attic, or simply want to know the value of books you've collected over the years. Finding qualified old book appraisers near you is the crucial first step in understanding what your literary treasures might be worth.

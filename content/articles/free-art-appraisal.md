@@ -32,26 +32,92 @@ keywords:
   - artwork value assessment
   - preliminary art valuation
 structured_data:
-  '@context': 'https://schema.org'
-  '@type': Article
-  headline: 'Free Art Appraisals: How to Get Expert Valuations Without Paying'
-  description: >-
-    Discover legitimate free art appraisal services online and in-person, along
-    with tips to determine if your artwork has value before investing in
-    professional valuation.
-  author:
-    '@type': Organization
-    name: Appraisily Team
-  datePublished: '2023-08-20T14:30:00.000Z'
-  dateModified: '2023-08-20T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/dcojbemmp/assets/images/articles/free-art-appraisal/paintings-gallery-appraisal.jpg
-  publisher:
-    '@type': Organization
-    name: Appraisily
-    logo:
+  - '@context': 'https://schema.org'
+    '@type': Article
+    headline: 'Free Art Appraisals: How to Get Expert Valuations Without Paying'
+    description: >-
+      Discover legitimate free art appraisal services online and in-person,
+      along with tips to determine if your artwork has value before investing in
+      professional valuation.
+    author:
+      '@type': Organization
+      name: Appraisily Team
+    datePublished: '2023-08-20T14:30:00.000Z'
+    dateModified: '2023-08-20T14:30:00.000Z'
+    image:
       '@type': ImageObject
-      url: 'https://appraisily.com/logo.png'
+      url: >-
+        https://ik.imagekit.io/dcojbemmp/assets/images/articles/free-art-appraisal/paintings-gallery-appraisal.jpg
+      width: '1200'
+      height: '630'
+      caption: >-
+        Professional art appraiser examining a painting in a gallery with
+        magnifying glass
+    publisher:
+      '@type': Organization
+      name: Appraisily
+      logo:
+        '@type': ImageObject
+        url: 'https://appraisily.com/logo.png'
+    mainEntityOfPage: 'https://articles.appraisily.com/articles/free-art-appraisal'
+    keywords:
+      - free art appraisal
+      - no-cost artwork valuation
+      - online art appraisal services
+      - free painting evaluation
+      - art authentication
+      - artwork value assessment
+      - preliminary art valuation
+    articleSection: Art Valuation
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Is an Art Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An art appraisal is a professional assessment of an artwork's value
+            based on factors including: artist reputation and significance,
+            provenance (ownership history), condition and conservation status,
+            rarity and scarcity, medium and materials, size and format, and
+            market demand and recent comparable sales. Professional appraisals
+            are typically conducted by certified appraisers with specialized
+            training and credentials, such as membership in the American Society
+            of Appraisers or the International Society of Appraisers.
+      - '@type': Question
+        name: What can I expect from auction house evaluations?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            From auction house evaluations, you can expect an initial evaluation
+            based on photographs, quick turnaround time (typically within a
+            week), brief market value estimate, and potential invitation to
+            consign if valuable. However, these evaluations have limitations
+            including a focus on auction-viable pieces (generally $1,000+
+            value), less detail than paid appraisals, and they may not meet
+            insurance or tax documentation requirements.
+  - '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Get Free Art Appraisals
+    description: A guide to obtaining expert art valuations without paying upfront fees
+    tool:
+      - '@type': HowToTool
+        name: Digital camera or smartphone
+    step:
+      - '@type': HowToStep
+        name: Consider Auction House Evaluations
+        text: >-
+          Many major auction houses offer free appraisal services as a way to
+          source inventory for future auctions. Heritage Auctions provides
+          complimentary online evaluations where you can upload photos and
+          information about your Fine Art or Antiques for expert evaluation.
+      - '@type': HowToStep
+        name: Explore Online Art Appraisal Websites
+        text: >-
+          Several websites specialize in providing free initial art valuations,
+          such as FreeArtAppraiser.com, though their business models and
+          accuracy vary considerably.
 ---
 
 {{< content-modules/section-header title="Understanding Free Art Appraisals" level="2" >}}

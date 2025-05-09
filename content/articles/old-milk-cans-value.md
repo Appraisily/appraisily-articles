@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique milk cans, learn identification techniques,
     dating methods, and price ranges for collectors and decorators in this
     comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-milk-cans-value/old-milk-cans-value-image-1_1asCFUxzY.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-milk-cans-value/old-milk-cans-value-image-1_1asCFUxzY.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage milk cans collection showing various styles, conditions, and
+      manufacturers from the early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-06-26T14:30:00.000Z'
   dateModified: '2024-06-26T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-milk-cans-value'
+  about:
+    '@type': Thing
+    name: Antique Milk Cans
+    description: >-
+      Historical dairy equipment used for storing and transporting milk from
+      farms to processing facilities from the late 1800s through mid-20th
+      century.
+  keywords: >-
+    old milk cans value, antique milk can prices, vintage milk can
+    identification, collectible dairy cans, milk can dating techniques, rustic
+    farm collectibles, milk can restoration
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
 ---
 
 Antique milk cans have become sought-after collectibles, cherished both for their historical significance and rustic aesthetic appeal. Once essential tools for storing and transporting milk from farms to processing facilities, these utilitarian items have found new life as decorative pieces and valuable collector's items. Whether you've discovered an old milk can in a family barn, spotted one at a flea market, or are considering starting a collection, understanding their value is essential.

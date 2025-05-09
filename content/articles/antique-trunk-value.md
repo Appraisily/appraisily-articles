@@ -39,8 +39,15 @@ structured_data:
     Discover the factors that determine antique trunk values, from identifying
     rare types to evaluating condition. Learn what makes your vintage steamer
     trunk valuable in today's market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-trunk-value/antique-trunk-value-image-1_FnfnryCtf.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-trunk-value/antique-trunk-value-image-1_FnfnryCtf.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate Victorian-era steamer trunk with brass hardware, leather straps and
+      decorative metal accents
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,33 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-trunk-value'
+  about:
+    '@type': Thing
+    name: Antique Trunks
+    description: >-
+      Historical storage and travel containers from the 1800s to early 1900s
+      that have become collectible items
+  keywords: >-
+    antique trunk value, vintage steamer trunk worth, antique chest
+    identification, Louis Vuitton trunk value, collectible antique trunks,
+    antique trunk appraisal, rare trunk manufacturers
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Determines Antique Trunk Value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique trunk isn't determined by any single factor
+            but rather by a combination of elements that collectors, appraisers,
+            and enthusiasts consider when evaluating a piece. Key factors
+            include the manufacturer (with prestigious brands like Louis Vuitton
+            commanding up to 500% premium), condition (original parts and
+            finishes can boost value by 70%), rarity (uncommon styles or
+            features can increase value by 200%), age and historical period, and
+            historical significance.
 ---
 
 Antique trunks are enduring vestiges of bygone eras, with rich histories that span across continents and centuries. Once essential for travel and storage, these sturdy pieces have transformed from practical necessities into prized collectibles. Whether you've discovered an old trunk in your attic, inherited a family heirloom, or are considering adding one to your collection, understanding its value requires knowledge of various factors including age, style, condition, and provenance.

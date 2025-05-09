@@ -39,8 +39,15 @@ structured_data:
     Learn everything about antiques appraisals - from finding qualified
     appraisers to understanding valuation methods and getting accurate
     assessments of your precious heirlooms and collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antiques-appraisals/antiques-appraisals-image-1_jQqP3SeJ0.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antiques-appraisals/antiques-appraisals-image-1_jQqP3SeJ0.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining valuable collectible with
+      magnifying glass during formal appraisal
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antiques-appraisals'
+  about:
+    '@type': Thing
+    name: Antiques Appraisals
+    description: >-
+      Professional assessment of antique items to determine monetary value,
+      authenticity, age, and historical significance
+  keywords: >-
+    antiques appraisals, antique valuation methods, professional antique
+    appraisers, heirloom assessment, collectibles worth, antique authentication,
+    appraisal process
 ---
 
 ![Professional appraiser examining antique item with magnifying glass](https://ik.imagekit.io/appraisily/SEO/antiques-appraisals/antiques-appraisals-image-1_jQqP3SeJ0.png)

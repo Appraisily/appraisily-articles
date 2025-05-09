@@ -44,14 +44,50 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-05-17'
   dateModified: '2023-05-17'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-pie-safe-value/antique-pie-safe-value-image-1_rG3sTQKY1.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-pie-safe-value/antique-pie-safe-value-image-1_rG3sTQKY1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic 19th century wooden pie safe featuring decorative punched tin
+      panels with traditional American folk art patterns
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-pie-safe-value'
+  keywords:
+    - antique pie safe value
+    - pie safe authentication
+    - punched tin cabinet worth
+    - 19th century kitchen furniture
+    - American primitive furniture values
+    - antique food safes
+    - collectible pie safes
+  articleSection: Furniture
+  about:
+    '@type': Thing
+    name: Antique Pie Safes
+    description: >-
+      Traditional American furniture pieces used to store food before
+      refrigeration, featuring punched tin panels
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is a Pie Safe?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A pie safe is a traditional American furniture piece designed to
+            store baked goods and other perishable food items safely, protecting
+            them from insects, rodents, and dust while allowing air circulation
+            through punched tin panels.
 ---
 
 ![Antique wooden pie safe with punched tin panels displaying traditional American folk art designs](https://ik.imagekit.io/appraisily/SEO/antique-pie-safe-value/antique-pie-safe-value-image-1_rG3sTQKY1.png)

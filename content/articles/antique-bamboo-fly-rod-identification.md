@@ -41,8 +41,15 @@ structured_data:
     Learn how to identify and value antique bamboo fly rods with our expert
     guide covering markings, craftsmanship, famous makers, and authentication
     techniques.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-bamboo-fly-rod-identification/antique-bamboo-fly-rod-identification-image-1_3mZAb7XuA.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-bamboo-fly-rod-identification/antique-bamboo-fly-rod-identification-image-1_3mZAb7XuA.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique bamboo fly rod with brass ferrules, cork handle and original
+      wrappings
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,10 +59,28 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
-  datePublished: '2023-10-25'
-  dateModified: '2023-10-25'
+  datePublished: '2023-10-25T14:30:00.000Z'
+  dateModified: '2023-10-25T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-bamboo-fly-rod-identification
+  about:
+    '@type': Thing
+    name: Antique Bamboo Fly Rods
+    description: >-
+      Historical fishing equipment made from split bamboo cane, crafted from the
+      late 19th century through mid-20th century
+  keywords:
+    - antique bamboo fly rod identification
+    - vintage bamboo fly rod value
+    - collectible fishing tackle
+    - bamboo fly rod makers marks
+    - Payne fly rod authentication
+    - Leonard bamboo rod value
+    - fly fishing collectibles
+  isPartOf:
+    '@type': CollectionPage
+    name: Sporting Collectibles
+    url: 'https://articles.appraisily.com/categories/sporting-collectibles'
 ---
 
 ![Vintage bamboo fly rod with brass fittings and cork handle](https://ik.imagekit.io/appraisily/SEO/antique-bamboo-fly-rod-identification/antique-bamboo-fly-rod-identification-image-1_3mZAb7XuA.png)

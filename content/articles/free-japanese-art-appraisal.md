@@ -39,8 +39,15 @@ structured_data:
     Discover how to get a free Japanese art appraisal for your prints,
     paintings, and artifacts. Learn about trusted services, valuation criteria,
     and how to determine if your Japanese artwork is valuable.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-japanese-art-appraisal/free-japanese-art-appraisal-image-2_yvsyQij7-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-japanese-art-appraisal/free-japanese-art-appraisal-image-2_yvsyQij7-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining a traditional Japanese woodblock print
+      for authentication and valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,20 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-11-09T14:30:00.000Z'
   dateModified: '2023-11-09T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/free-japanese-art-appraisal'
+  keywords:
+    - free Japanese art appraisal
+    - Japanese woodblock print value
+    - antique Japanese painting valuation
+    - online Japanese art authentication
+    - ukiyo-e print appraisal
+    - Japanese artifact valuation
+    - Asian art expert assessment
+  articleSection: Asian Art
 ---
 
 {{< content-modules/section-header title="Introduction to Free Japanese Art Appraisal" level="2" >}}

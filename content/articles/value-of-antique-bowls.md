@@ -39,8 +39,15 @@ structured_data:
     Discover what makes antique bowls valuable and how to identify rare pieces
     worth significant money. Learn about different types, makers, and market
     prices for ceramic, porcelain, and silver antique bowls.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-bowls/value-of-antique-bowls-image-1_MoNG2o__n.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-bowls/value-of-antique-bowls-image-1_MoNG2o__n.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique ceramic, porcelain and silver bowls collection displayed
+      on wooden table with price guide reference
   datePublished: '2023-09-02T14:30:00.000Z'
   dateModified: '2023-09-02T14:30:00.000Z'
   author:
@@ -55,6 +62,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-antique-bowls'
+  about:
+    '@type': Thing
+    name: Antique Bowls
+    description: >-
+      Historical and collectible bowls from various time periods, materials, and
+      makers
+  keywords: >-
+    antique bowl values, valuable antique bowls, antique bowl identification,
+    antique ceramic bowl prices, collectible antique bowls, rare antique bowl
+    marks, antique porcelain bowl worth
 ---
 
 ![Collection of valuable antique ceramic and porcelain bowls displayed on a wooden table](https://ik.imagekit.io/appraisily/SEO/value-of-antique-bowls/value-of-antique-bowls-image-1_MoNG2o__n.png)

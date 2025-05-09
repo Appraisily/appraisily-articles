@@ -40,8 +40,15 @@ structured_data:
     Discover how to find trusted local antique furniture appraisers near you,
     understand the appraisal process, and get accurate valuations for your
     vintage and antique furniture pieces.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/local-antique-furniture-appraisers-near-me/local-antique-furniture-appraisers-near-me-image-1_dxP_vfQDv.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/local-antique-furniture-appraisers-near-me/local-antique-furniture-appraisers-near-me-image-1_dxP_vfQDv.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique furniture appraiser carefully examining vintage
+      wooden chair details
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,10 +58,44 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-10-10T14:30:00.000Z'
   dateModified: '2023-10-10T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/local-antique-furniture-appraisers-near-me
+  about:
+    '@type': Thing
+    name: Antique Furniture Appraisal
+    description: >-
+      Professional evaluation and valuation of antique and vintage furniture
+      pieces by certified appraisers
+  keywords: >-
+    local antique furniture appraisers near me, certified furniture appraisal
+    services, antique furniture valuation experts, vintage furniture
+    authentication, professional heirloom appraisal, antique wood furniture
+    identification, furniture appraisal cost
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-heading
+  inLanguage: en-US
+  mentions:
+    - '@type': Thing
+      name: Antique Furniture
+    - '@type': Thing
+      name: Furniture Appraisal
+    - '@type': Thing
+      name: Vintage Furniture
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-body
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Furniture Appraisals" level="2" >}}

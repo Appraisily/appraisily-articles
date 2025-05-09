@@ -43,8 +43,15 @@ structured_data:
     Discover the best ways to identify art by picture with apps like Smartify,
     Magnus, and Google Lens. Learn how these digital tools can help you
     recognize artwork instantly.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identify-art-by-picture/identify-art-by-picture-image-1_7bqlm5b3Z.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identify-art-by-picture/identify-art-by-picture-image-1_7bqlm5b3Z.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person using a smartphone app to identify and learn about artwork in an
+      art gallery
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,9 +63,18 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/identify-art-by-picture'
+  about:
+    '@type': Thing
+    name: Art Identification Technology
+  keywords: >-
+    identify art by picture, art recognition apps, digital art identification,
+    smartify app, magnus art app, google lens for artwork, painting
+    identification tools
 ---
 
 In an era where art is increasingly accessible through both physical and digital experiences, the ability to identify artwork instantly has become a game-changer for art enthusiasts, collectors, and casual museum visitors alike. Modern technology has revolutionized how we interact with artwork, allowing anyone with a smartphone to uncover details about paintings and sculptures that were once only accessible through expert knowledge or extensive research.

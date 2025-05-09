@@ -44,14 +44,46 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-13T14:30:00.000Z'
   dateModified: '2023-11-13T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-wooden-trunks/value-of-old-wooden-trunks-image-1_qC7b_htiH.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-wooden-trunks/value-of-old-wooden-trunks-image-1_qC7b_htiH.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique wooden trunk with ornate metal hardware and dome top from
+      the Victorian era
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-wooden-trunks'
+  keywords:
+    - antique wooden trunk value
+    - vintage steamer trunk prices
+    - old chest worth
+    - collectible trunk identification
+    - Victorian trunk values
+    - antique trunk appraisal
+    - rare wooden chest prices
+  articleSection: Antiques
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Determines the Value of Antique Wooden Trunks?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several key factors influence how much an old wooden trunk might be
+            worth in today's market: age and era (Victorian era trunks from
+            1837-1901 are particularly valuable), condition (including original
+            hardware, interior components, and minimal repairs), and maker and
+            style (with prestigious makers like Louis Vuitton, Goyard, or Martin
+            Maier commanding the highest prices).
 ---
 
 ![Antique wooden trunk with ornate metal hardware and dome top](https://ik.imagekit.io/appraisily/SEO/value-of-old-wooden-trunks/value-of-old-wooden-trunks-image-1_qC7b_htiH.png)

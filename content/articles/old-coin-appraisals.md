@@ -40,7 +40,7 @@ structured_data:
     Professional Old Coin Appraisals: Find the True Value of Your Numismatic
     Treasures
   description: >-
-    Learn how professional old coin appraisals work, how to prepare your
+    Discover how professional old coin appraisals work, how to prepare your
     collection for evaluation, and where to find reputable numismatic experts to
     determine the true value of your rare coins.
   author:
@@ -48,14 +48,26 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-14T14:30:00.000Z'
   dateModified: '2023-07-14T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-coin-appraisals/old-coin-appraisals-image-1_zzScdpIy6b.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-coin-appraisals/old-coin-appraisals-image-1_zzScdpIy6b.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Expert numismatist conducting detailed examination of rare antique coins
+      with specialized magnifying equipment
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-coin-appraisals'
+  keywords: >-
+    old coin appraisals, numismatic evaluation, rare coin values, coin
+    collection worth, antique currency appraisal, professional coin grading,
+    coin authentication services
 ---
 
 ## Introduction to Old Coin Appraisals

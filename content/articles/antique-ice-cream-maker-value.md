@@ -40,8 +40,14 @@ structured_data:
     wooden bucket models, White Mountain makers, and vintage electric freezers
     with current market prices and identification tips.
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/antique-ice-cream-maker-value/antique-ice-cream-maker-value-image-1_Rvk-50IGY.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage wooden bucket hand-crank ice cream maker with metal mechanism from
+      early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +60,15 @@ structured_data:
   datePublished: '2023-09-19T14:30:00.000Z'
   dateModified: '2023-09-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-ice-cream-maker-value'
+  keywords:
+    - antique ice cream maker value
+    - vintage ice cream freezer worth
+    - White Mountain ice cream maker prices
+    - collectible hand crank ice cream makers
+    - antique wooden bucket ice cream maker
+    - old fashioned ice cream maker identification
+    - rare ice cream maker models
+  articleSection: Kitchen Collectibles
 ---
 
 # Antique Ice Cream Maker Values: A Collector's Price Guide

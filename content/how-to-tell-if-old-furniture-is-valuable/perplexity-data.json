@@ -1,0 +1,15 @@
+{
+  "keyword": "how to tell if old furniture is valuable",
+  "content": "<think>\nOkay, I need to create a comprehensive guide on how to tell if old furniture is valuable. Let me start by breaking down the user's query into the eight specified aspects. \n\nFirst, understanding what makes old furniture valuable and why it's important. From the search results, factors like age, craftsmanship, materials, provenance, and condition are key. Sources [1], [4], and [6] mention these points. I should explain each factor and their importance in valuation.\n\nNext, the historical background. Sources [9] and [10] talk about ancient furniture from Egypt, Greece, Rome, and the Middle Ages. The development of appraisal methods over time, like guilds in the Middle Ages and modern techniques, should be covered here.\n\nDifferent types or categories of valuation methods. The search results [1] and [2] discuss fair market value, retail, wholesale, and estate values. I need to categorize these and explain each, maybe using examples from the sources.\n\nDetermining factors. Again, age, provenance, craftsmanship, materials, and condition are highlighted in [4], [6], and [7]. I should elaborate on each, maybe include case studies from [3] where a bedroom set sold for $80k due to its condition and craftsmanship.\n\nIdentifying authentic pieces. Source",
+  "usage": {
+    "prompt_tokens": 258,
+    "completion_tokens": 263,
+    "total_tokens": 521,
+    "citation_tokens": 8581,
+    "num_search_queries": 12,
+    "reasoning_tokens": 33564
+  },
+  "model": "sonar-deep-research",
+  "timestamp": "2025-04-25T13:18:18.144Z",
+  "source": "Perplexity API"
+}

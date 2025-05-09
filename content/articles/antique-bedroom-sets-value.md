@@ -38,8 +38,15 @@ structured_data:
     Comprehensive guide to determining the value of antique bedroom sets from
     different periods, with expert tips on identification, appraisal factors,
     and selling vintage bedroom furniture.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-bedroom-sets-value/antique-bedroom-sets-value-image-1_y-2nSO2A1.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-bedroom-sets-value/antique-bedroom-sets-value-image-1_y-2nSO2A1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate Victorian antique bedroom set with carved headboard, matching
+      dresser with mirror, and nightstands showing craftsmanship details
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,14 @@ structured_data:
   datePublished: '2023-06-10T14:30:00.000Z'
   dateModified: '2023-06-10T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-bedroom-sets-value'
+  keywords:
+    - antique bedroom sets value
+    - vintage bedroom furniture appraisal
+    - Victorian bedroom set worth
+    - Art Deco bedroom furniture value
+    - antique bed valuation
+    - selling antique bedroom sets
+    - collectible bedroom furniture
 ---
 
 ![Elegant Victorian-era antique bedroom set featuring ornate carved headboard, dresser with mirror, and matching nightstands](https://ik.imagekit.io/appraisily/SEO/antique-bedroom-sets-value/antique-bedroom-sets-value-image-1_y-2nSO2A1.png)

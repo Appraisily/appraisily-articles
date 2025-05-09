@@ -35,8 +35,15 @@ structured_data:
     Discover the hidden value of antique cast iron trivets with our
     comprehensive guide covering identification, pricing factors, and current
     market values for collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-trivets-value/antique-cast-iron-trivets-value-image-1_f1BPkWyLC.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-trivets-value/antique-cast-iron-trivets-value-image-1_f1BPkWyLC.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable antique cast iron trivets displaying intricate designs,
+      patterns, and manufacturer marks
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +58,10 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://appraisily.com/antique-cast-iron-trivets-value/'
+  keywords: >-
+    antique cast iron trivets value, vintage trivet identification, collectible
+    trivets, cast iron trivet prices, rare trivet patterns, American cast iron
+    collectibles, trivet collecting guide
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Cast Iron Trivets" level="2" >}}

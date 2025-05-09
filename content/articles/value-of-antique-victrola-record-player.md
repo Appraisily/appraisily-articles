@@ -37,7 +37,14 @@ structured_data:
     Discover the value of antique Victrola record players with our comprehensive
     guide on pricing, history, and factors that affect collectible phonograph
     values.
-  image: 'https://i.ebayimg.com/images/g/NioAAOSwWpRiAVR6/s-l1200.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://i.ebayimg.com/images/g/NioAAOSwWpRiAVR6/s-l1200.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare 1914 Victor Victrola Mahogany Cabinet Phonograph in Excellent
+      Condition
   author:
     '@type': Organization
     name: Appraisily Team
@@ -47,9 +54,34 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-06-22T14:30:00.000Z'
   dateModified: '2023-06-22T14:30:00.000Z'
   mainEntityOfPage: 'https://appraisily.com/value-of-antique-victrola-record-player/'
+  about:
+    '@type': Thing
+    name: Antique Victrola Record Player
+    description: >-
+      Phonographs manufactured by the Victor Talking Machine Company in the
+      early 20th century
+  keywords:
+    - antique Victrola value
+    - Victor phonograph worth
+    - vintage Victrola prices
+    - collectible phonograph identification
+    - Victrola record player appraisal
+    - antique phonograph values
+    - Victor Talking Machine Company
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  timeRequired: PT10M
+  educationalUse: Research
+  audience:
+    '@type': Audience
+    audienceType: 'Collectors, Antique Enthusiasts'
 ---
 
 ## Introduction to Antique Victrola Record Players

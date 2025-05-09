@@ -1,46 +1,67 @@
 ---
-title: "How to Identify Antique Flat-Top Steamer Trunks: A Comprehensive Guide"
-description: "Learn how to identify and value antique flat-top steamer trunks with our expert guide covering key identifying features, historical context, and valuation factors."
-slug: "flat-top-antique-steamer-trunk-identification"
-date: 2023-08-07T10:30:00-04:00
-lastmod: 2023-08-07T10:30:00-04:00
+title: 'How to Identify Antique Flat-Top Steamer Trunks: A Comprehensive Guide'
+description: >-
+  Learn how to identify and value antique flat-top steamer trunks with our
+  expert guide covering key identifying features, historical context, and
+  valuation factors.
+slug: flat-top-antique-steamer-trunk-identification
+date: 2023-08-07T14:30:00.000Z
+lastmod: 2023-08-07T14:30:00.000Z
 draft: false
-featured_image: "https://ik.imagekit.io/appraisily/SEO/flat-top-antique-steamer-trunk-identification/flat-top-antique-steamer-trunk-identification-image-1_VAz5iHZ27.png"
-image_alt: "Antique flat-top steamer trunk with original hardware and latches"
-category: "Furniture & Decorative Arts"
-type: "article"
-author: "Appraisily Team"
+featured_image: >-
+  https://ik.imagekit.io/appraisily/SEO/flat-top-antique-steamer-trunk-identification/flat-top-antique-steamer-trunk-identification-image-1_VAz5iHZ27.png
+image_alt: Antique flat-top steamer trunk with original hardware and latches
+category: Furniture & Decorative Arts
+type: article
+author: Appraisily Team
 featured: true
-meta_title: "How to Identify and Value Antique Flat-Top Steamer Trunks - Expert Guide"
-meta_description: "Discover how to identify authentic flat-top antique steamer trunks, determine their age, assess their value, and understand what makes these historical pieces collectible."
-canonical_url: "https://appraisily.com/flat-top-antique-steamer-trunk-identification/"
-keywords: "flat-top antique steamer trunk identification, antique trunk value, steamer trunk age determination, vintage trunk hardware, antique trunk makers, flat top trunk history, steamer trunk restoration, antique luggage collectors"
-structured_data: |
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "How to Identify Antique Flat-Top Steamer Trunks: A Comprehensive Guide",
-    "description": "Learn how to identify and value antique flat-top steamer trunks with our expert guide covering key identifying features, historical context, and valuation factors.",
-    "image": "https://ik.imagekit.io/appraisily/SEO/flat-top-antique-steamer-trunk-identification/flat-top-antique-steamer-trunk-identification-image-1_VAz5iHZ27.png",
-    "author": {
-      "@type": "Person",
-      "name": "Appraisily Team"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Appraisily",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://appraisily.com/logo.png"
-      }
-    },
-    "datePublished": "2023-08-07T10:30:00-04:00",
-    "dateModified": "2023-08-07T10:30:00-04:00",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://appraisily.com/flat-top-antique-steamer-trunk-identification/"
-    }
-  }
+meta_title: How to Identify and Value Antique Flat-Top Steamer Trunks - Expert Guide
+meta_description: >-
+  Discover how to identify authentic flat-top antique steamer trunks, determine
+  their age, assess their value, and understand what makes these historical
+  pieces collectible.
+canonical_url: 'https://appraisily.com/flat-top-antique-steamer-trunk-identification/'
+keywords: >-
+  flat-top antique steamer trunk identification, antique trunk value, steamer
+  trunk age determination, vintage trunk hardware, antique trunk makers, flat
+  top trunk history, steamer trunk restoration, antique luggage collectors
+structured_data:
+  '@context': 'https://schema.org'
+  '@type': Article
+  headline: 'How to Identify Antique Flat-Top Steamer Trunks: A Comprehensive Guide'
+  description: >-
+    Learn how to identify and value antique flat-top steamer trunks with our
+    expert guide covering key identifying features, historical context, and
+    valuation factors.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/flat-top-antique-steamer-trunk-identification/flat-top-antique-steamer-trunk-identification-image-1_VAz5iHZ27.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique flat-top steamer trunk with original hardware and latches from the
+      golden age of trunk manufacturing
+  author:
+    '@type': Person
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
+  datePublished: '2023-08-07T14:30:00.000Z'
+  dateModified: '2023-08-07T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://appraisily.com/flat-top-antique-steamer-trunk-identification/'
+  keywords: >-
+    flat-top antique steamer trunk identification, antique trunk value, steamer
+    trunk age determination, vintage trunk hardware, antique trunk makers, flat
+    top trunk history, steamer trunk restoration, antique luggage collectors
 ---
 
 ![Antique flat-top steamer trunk with original hardware and latches](https://ik.imagekit.io/appraisily/SEO/flat-top-antique-steamer-trunk-identification/flat-top-antique-steamer-trunk-identification-image-1_VAz5iHZ27.png)

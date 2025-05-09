@@ -48,8 +48,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-15T14:30:00.000Z'
   dateModified: '2023-07-15T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-furniture-appraisal/antique-furniture-appraisal-image-1_1MdyQxyoi.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-furniture-appraisal/antique-furniture-appraisal-image-1_1MdyQxyoi.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique furniture appraiser examining intricate details of a
+      vintage wooden cabinet with specialized tools
   publisher:
     '@type': Organization
     name: Appraisily
@@ -59,6 +66,65 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-furniture-appraisal'
+  keywords:
+    - antique furniture appraisal
+    - antique furniture valuation
+    - authenticate antique furniture
+    - antique wood furniture value
+    - professional furniture appraisal services
+    - determining antique furniture worth
+    - antique furniture authentication techniques
+  articleSection: Antiques
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  about:
+    '@type': Thing
+    name: Antique Furniture Appraisal
+    description: >-
+      Professional evaluation of historic furniture to determine authenticity,
+      age, and market value
+  mentions:
+    - '@type': Thing
+      name: Antique Furniture
+      sameAs: 'https://www.wikidata.org/wiki/Q3230844'
+    - '@type': Thing
+      name: Furniture Appraisal
+      sameAs: 'https://www.wikidata.org/wiki/Q1196075'
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why do professional antique furniture appraisals matter?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Professional antique furniture appraisers bring specialized knowledge
+          and experience that allows them to: identify reproductions and fakes,
+          provide documentation for insurance, establish provenance, assess
+          condition accurately, and determine appropriate market value. Experts
+          can distinguish authentic antiques from reproductions by examining
+          construction techniques, materials, and wear patterns, while also
+          providing necessary documentation for insurance coverage, researching
+          ownership history, identifying restoration work or damage, and staying
+          current with market trends to provide accurate valuations.
+    - '@type': Question
+      name: >-
+        What factors do professional appraisers evaluate during an antique
+        furniture appraisal?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Professional appraisers evaluate numerous factors including
+          authenticity, age, provenance, condition, artistic merit, and current
+          market demand. This systematic process helps determine the fair market
+          value, insurance value, or replacement value of antique furniture.
 ---
 
 {{< content-modules/section-header title="Understanding Antique Furniture Appraisal" level="2" >}}

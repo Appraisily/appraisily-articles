@@ -39,8 +39,15 @@ structured_data:
     Discover the value of old Beatles records with our comprehensive guide.
     Learn how to identify rare pressings, find the most valuable Beatles albums,
     and understand factors that affect vinyl record values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-beatles-records-value/old-beatles-records-value-image-1_EZKxDpj1f.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-beatles-records-value/old-beatles-records-value-image-1_EZKxDpj1f.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage Beatles vinyl records including rare
+      pressings and first editions
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-10-24T14:30:00.000Z'
   dateModified: '2024-10-24T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-beatles-records-value'
+  keywords:
+    - old Beatles records value
+    - Beatles vinyl worth
+    - rare Beatles pressings
+    - Beatles album values
+    - vintage Beatles LPs
+    - Beatles collectible records
+    - Beatles first editions value
 ---
 
 ![Collection of valuable vintage Beatles vinyl records including rare pressings and first editions](https://ik.imagekit.io/appraisily/SEO/old-beatles-records-value/old-beatles-records-value-image-1_EZKxDpj1f.png)

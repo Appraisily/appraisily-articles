@@ -38,7 +38,14 @@ structured_data:
     Learn how to identify and value antique bricks with our comprehensive guide.
     Discover what makes old bricks valuable and current market prices for
     collectors and restoration projects.
-  image: 'https://i.redd.it/30hr73yyqrwd1.jpeg'
+  image:
+    '@type': ImageObject
+    url: 'https://i.redd.it/30hr73yyqrwd1.jpeg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of weathered antique handmade bricks from the 18th-19th
+      centuries showing distinctive textures and patina
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +58,14 @@ structured_data:
   datePublished: '2024-07-14T14:30:00.000Z'
   dateModified: '2024-07-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-bricks-value'
+  keywords:
+    - antique bricks value
+    - historical brick identification
+    - reclaimed brick prices
+    - vintage building materials
+    - antique masonry collectibles
+    - old brick appraisal
+    - architectural salvage bricks
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Bricks" level="2" >}}

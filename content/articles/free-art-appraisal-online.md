@@ -43,14 +43,42 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-18T14:30:00.000Z'
   dateModified: '2023-06-18T14:30:00.000Z'
-  image: >-
-    https://www.freeartappraiser.com/wp-content/uploads/2020/10/Art-Collage-1.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://www.freeartappraiser.com/wp-content/uploads/2020/10/Art-Collage-1.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable artwork and paintings being evaluated through
+      online art appraisal services
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.jpg'
+      width: '112'
+      height: '112'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/free-art-appraisal-online'
+  keywords: >-
+    free art appraisal online, online artwork valuation, no-cost art
+    authentication, free painting appraisal, virtual art assessment, artwork
+    value estimate, digital art evaluation
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Is a Free Online Art Appraisal?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          An online art appraisal is a professional assessment of artwork
+          conducted remotely using digital images and information about the
+          piece. Free versions are typically preliminary evaluations offered by
+          auction houses, art dealers, or specialized platforms to help identify
+          potential value.
 ---
 
 ![Art collage showing various paintings and artwork for online appraisal](https://www.freeartappraiser.com/wp-content/uploads/2020/10/Art-Collage-1.jpg)

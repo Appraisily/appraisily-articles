@@ -43,14 +43,32 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-09T14:30:00.000Z'
   dateModified: '2023-06-09T14:30:00.000Z'
-  image: 'https://via.placeholder.com/800x450.png?text=Charles+Bibbs+Artwork'
+  image:
+    '@type': ImageObject
+    url: 'https://via.placeholder.com/800x450.png?text=Charles+Bibbs+Artwork'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Charles Bibbs artwork featuring bold lines and vibrant colors celebrating
+      African American cultural heritage
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/charles-bibbs-art-value'
+  keywords:
+    - Charles Bibbs art value
+    - Charles Bibbs limited editions
+    - African American fine art pricing
+    - Charles Bibbs authentication
+    - contemporary Black art investment
+    - Charles Bibbs signed prints
+    - collecting African American art
+  articleSection: Art Appraisal
 ---
 
 {{< content-modules/section-header title="Introduction to Charles Bibbs and His Art" level="2" >}}

@@ -39,8 +39,15 @@ structured_data:
     Learn how to determine the value of rare and antique books with our expert
     guide. Discover key factors affecting book values including rarity,
     condition, first editions, and where to sell valuable books.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-books-value/rare-books-value-image-1_pOF9bXPKUo.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-books-value/rare-books-value-image-1_pOF9bXPKUo.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique leather-bound rare books with ornate gold-embossed covers on
+      wooden bookshelf
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,14 @@ structured_data:
   datePublished: '2023-07-24T14:30:00.000Z'
   dateModified: '2023-07-24T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/rare-books-value'
+  keywords:
+    - rare books value
+    - antique book appraisal
+    - first edition book worth
+    - collectible book valuation
+    - rare book market prices
+    - literary treasures value
+    - book collecting guide
 ---
 
 ## Introduction to Rare Book Valuation

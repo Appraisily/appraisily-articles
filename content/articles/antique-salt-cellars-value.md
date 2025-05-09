@@ -39,8 +39,15 @@ structured_data:
     Discover what makes antique salt cellars valuable, from silver masterpieces
     to crystal treasures. Learn identification tips and current market values
     for collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-salt-cellars-value/antique-salt-cellars-value-image-1_bhx7WQHjh.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-salt-cellars-value/antique-salt-cellars-value-image-1_bhx7WQHjh.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique salt cellars collection featuring silver, crystal and
+      glass varieties from different historical periods
   author:
     '@type': Person
     name: Appraisily Team
@@ -55,6 +62,18 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-salt-cellars-value'
+  about:
+    '@type': Thing
+    name: Antique Salt Cellars
+    description: >-
+      Decorative containers designed to hold table salt with historical
+      significance dating back to ancient Rome
+  keywords: >-
+    antique salt cellars value, silver salt cellars worth, antique salt cellar
+    identification, crystal salt cellars collectible, vintage salt dips prices,
+    rare salt cellars collection, 18th century salt cellars
+  articleSection: Tableware
+  specialty: Antiques and Collectibles
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Salt Cellars" level="2" >}}

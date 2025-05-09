@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of Old Company Plate silverware. Learn
     identification marks, price factors, and what makes this vintage silverplate
     worth collecting or selling.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-company-plate-value/old-company-plate-value-image-1_JbdIHiRK5.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-company-plate-value/old-company-plate-value-image-1_JbdIHiRK5.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Old Company Plate silverware set with visible hallmark and ornate
+      pattern details
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,38 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-company-plate-value'
+  about:
+    '@type': Thing
+    name: Old Company Plate silverware
+    description: >-
+      Silver-plated flatware and hollowware produced primarily by International
+      Silver Company in the mid-20th century
+  keywords:
+    - Old Company Plate value
+    - vintage silverplate worth
+    - Old Company silverware identification
+    - silver-plated flatware prices
+    - antique silverplate appraisal
+    - collectible silverware marks
+    - mid-century silverplate value
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is Old Company Plate?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Old Company Plate refers to silver-plated flatware and hollowware
+            produced primarily in the mid-20th century. The brand is known for
+            its quality craftsmanship and distinctive patterns, making it a
+            recognizable name in vintage silverplate. Old Company Plate was a
+            line of silver-plated flatware produced by International Silver
+            Company, one of America's largest silverware manufacturers. The
+            brand gained popularity in the 1940s and 1950s for its affordable
+            yet elegant designs that mimicked the look of sterling silver at a
+            fraction of the cost.
 ---
 
 Old Company Plate silverware represents a slice of American dining history, with its elegant patterns and quality craftsmanship still attracting collectors today. If you've inherited or discovered pieces marked "Old Company Plate," you might be wondering about their value and historical significance. This comprehensive guide explores everything you need to know about Old Company Plate silverware, from its origins to current market values.

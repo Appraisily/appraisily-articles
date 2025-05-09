@@ -48,8 +48,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-04-25T14:30:00.000Z'
   dateModified: '2023-04-25T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bayonet-identification/old-bayonet-identification-image-1_MWQwFiPrj.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-bayonet-identification/old-bayonet-identification-image-1_MWQwFiPrj.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic antique military bayonets from WWI and WWII eras showing
+      distinctive markings and designs
   publisher:
     '@type': Organization
     name: Appraisily
@@ -59,6 +66,22 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-bayonet-identification'
+  keywords:
+    - old bayonet identification
+    - antique military bayonets
+    - bayonet markings identification
+    - vintage bayonet values
+    - military collectible authentication
+    - WWI WWII bayonets
+    - bayonet collecting guide
+  articleSection: Militaria
+  about:
+    - '@type': Thing
+      name: Military Collectibles
+      description: Historical weapons and equipment used by armed forces
+    - '@type': Thing
+      name: Bayonets
+      description: Blade attachments for firearms used throughout military history
 ---
 
 Bayonets represent a fascinating intersection of military history, craftsmanship, and collectible weaponry. These blade attachments for firearms have evolved significantly over centuries of warfare, with each nation and era producing distinctive variations that tell stories of military innovation and combat tactics. For collectors, historians, and antique enthusiasts, identifying and authenticating old bayonets can be both challenging and rewarding.

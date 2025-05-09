@@ -39,8 +39,15 @@ structured_data:
     Discover the value of vintage Old Timer pocket knives, from identifying
     authentic models to determining collectible worth with our comprehensive
     pricing guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-timer-pocket-knife-value/old-timer-pocket-knife-value-image-1_H1zHE7WDh.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-timer-pocket-knife-value/old-timer-pocket-knife-value-image-1_H1zHE7WDh.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of vintage Old Timer pocket knives showing various models, tang
+      stamps and handle materials
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,21 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-10-01T14:30:00.000Z'
   dateModified: '2023-10-01T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-timer-pocket-knife-value'
+  keywords:
+    - Old Timer pocket knife value
+    - Schrade Old Timer identification
+    - vintage pocket knife appraisal
+    - collectible Old Timer knives
+    - USA made Schrade knives
+    - Old Timer knife dating
+    - antique pocket knife values
 ---
 
 ![Vintage Old Timer pocket knife collection showing multiple models and patterns](https://ik.imagekit.io/appraisily/SEO/old-timer-pocket-knife-value/old-timer-pocket-knife-value-image-1_H1zHE7WDh.png)

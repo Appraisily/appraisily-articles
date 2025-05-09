@@ -46,14 +46,28 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-13T14:30:00.000Z'
   dateModified: '2023-06-13T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-book-values/old-book-values-image-1_zE3gJ-jYd.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-book-values/old-book-values-image-1_zE3gJ-jYd.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique leather-bound books with gold gilt
+      detailing on wooden bookshelf
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-book-values'
+  keywords: >-
+    old book values, antique book appraisal, rare book identification, first
+    edition book worth, book condition grading, valuable book collections,
+    selling antique books
 ---
 
 ![Collection of antique leather-bound books with gilt detailing](https://ik.imagekit.io/appraisily/SEO/old-book-values/old-book-values-image-1_zE3gJ-jYd.png)

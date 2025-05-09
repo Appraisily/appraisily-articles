@@ -40,8 +40,6 @@ structured_data:
     Learn to identify antique cut glass patterns with our comprehensive guide.
     Discover American Brilliant Period patterns, valuation factors, and expert
     identification tips.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cut-glass-patterns-identification/antique-cut-glass-patterns-identification-image-1_NaJG-bOB1.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,10 +49,25 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-17T14:30:00.000Z'
   dateModified: '2023-11-17T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-cut-glass-patterns-identification
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cut-glass-patterns-identification/antique-cut-glass-patterns-identification-image-1_NaJG-bOB1.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Intricate American Brilliant Period cut glass bowl showing detailed
+      geometric pattern and prismatic light reflections
+  keywords: >-
+    antique cut glass patterns, American Brilliant Period identification, cut
+    glass valuation, vintage glass pattern recognition, collectible cut glass,
+    antique glassware identification, Brilliant Period cut glass values
 ---
 
 The dazzling brilliance of antique cut glass has captivated collectors for generations. These masterpieces of craftsmanship, with their intricate patterns that catch and reflect light in spectacular ways, represent the pinnacle of the glassmaker's art. Whether you've inherited a family heirloom or discovered a potential treasure at an estate sale, identifying antique cut glass patterns is essential to understanding both its historical significance and market value.

@@ -48,8 +48,14 @@ structured_data:
   datePublished: '2023-10-02T14:30:00.000Z'
   dateModified: '2023-10-02T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/identification-antique-stoneware-crock-markings/identification-antique-stoneware-crock-markings-image-1_C-ie7mUpa.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage blue-decorated antique stoneware crock showing maker's stamp and
+      cobalt decorations
   publisher:
     '@type': Organization
     name: Appraisily
@@ -58,6 +64,14 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/identification-antique-stoneware-crock-markings
+  keywords:
+    - antique stoneware crock markings
+    - stoneware pottery identification
+    - vintage crock values
+    - antique crock maker's stamps
+    - salt-glazed stoneware marks
+    - collectible stoneware identification
+    - 19th century pottery markings
 ---
 
 ## Introduction to Antique Stoneware Crocks

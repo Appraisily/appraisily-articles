@@ -43,8 +43,6 @@ structured_data:
     Discover the true value of your General Electric antique radio with our
     comprehensive guide to models, pricing factors, and how to get the best
     price for your vintage GE set.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/general-electric-antique-radio-value/general-electric-antique-radio-value-image-1__ZlXWDRh_.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,8 +52,27 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-04-15T14:30:00.000Z'
   dateModified: '2024-04-15T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/general-electric-antique-radio-value/general-electric-antique-radio-value-image-1__ZlXWDRh_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage 1940s General Electric wooden console radio - collectible antique
+      GE model
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://articles.appraisily.com/articles/general-electric-antique-radio-value
+  keywords: >-
+    General Electric antique radio value, vintage GE radio prices, collectible
+    General Electric radios, antique radio appraisal, GE tube radio worth, 1940s
+    GE radio models, selling vintage radios
 ---
 
 ## Introduction to General Electric Antique Radios

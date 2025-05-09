@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-28T14:30:00.000Z'
   dateModified: '2023-06-28T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-record-value-guide/old-record-value-guide-image-1_c8zd5eo3M.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-record-value-guide/old-record-value-guide-image-1_c8zd5eo3M.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage vinyl record collection with price tags showing market values for
+      collector's items
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,58 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-record-value-guide'
+  about:
+    '@type': Thing
+    name: Vinyl Record Valuation
+    description: >-
+      Information about determining the value of vinyl records, including
+      factors like rarity, condition, and artist popularity
+  keywords: >-
+    vinyl record value guide, old record appraisal, record collection worth,
+    vintage vinyl valuation, rare record identification, vinyl grading system,
+    record collecting market
+  hasPart:
+    - '@type': FAQPage
+      mainEntity:
+        - '@type': Question
+          name: What factors determine vinyl record value?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              The value of vinyl records is influenced by multiple factors
+              including: 1. Rarity and pressing information - limited pressings,
+              first editions, and records with manufacturing errors often
+              command higher prices; 2. Artist popularity and historical
+              significance - records by iconic artists or those with historical
+              significance typically hold greater value; 3. Condition - the
+              physical condition of both the vinyl and its packaging
+              significantly impacts value.
+    - '@type': HowTo
+      name: How to Appraise Your Vinyl Record Collection
+      description: A step-by-step guide to determining the value of your vinyl records
+      step:
+        - '@type': HowToStep
+          name: Assess Rarity and Pressing Information
+          text: >-
+            Identify limited pressings, first editions, and records with
+            manufacturing errors which often command higher prices. Original
+            pressings from small record labels that later became famous can be
+            particularly valuable.
+          image: >-
+            https://ik.imagekit.io/appraisily/SEO/old-record-value-guide/old-record-value-guide-image-2_J_KL3E2M6.png
+        - '@type': HowToStep
+          name: Consider Artist Popularity and Historical Significance
+          text: >-
+            Evaluate records by iconic artists or those with historical
+            significance as they typically hold greater value. Albums that
+            marked important moments in music history or featured groundbreaking
+            recordings are highly sought after by collectors.
+        - '@type': HowToStep
+          name: Grade the Condition
+          text: >-
+            Examine the physical condition of both the vinyl and its packaging
+            as it significantly impacts value. Serious collectors use
+            standardized grading systems to assess record condition.
 ---
 
 {{< content-modules/section-header title="Understanding Vinyl Record Value" level="2" >}}

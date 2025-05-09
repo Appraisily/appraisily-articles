@@ -40,8 +40,15 @@ structured_data:
     Discover how much antique fire extinguishers are worth, from soda-acid
     models to rare brass designs. Learn valuation factors, identification tips,
     and price ranges for collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-fire-extinguisher-worth/how-much-is-an-antique-fire-extinguisher-worth-image-1_Uca2Tkrte.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-fire-extinguisher-worth/how-much-is-an-antique-fire-extinguisher-worth-image-1_Uca2Tkrte.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique fire extinguishers including brass, copper,
+      and soda-acid models from the early 1900s
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,31 @@ structured_data:
   dateModified: '2023-09-24T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/how-much-is-an-antique-fire-extinguisher-worth
+'@graph':
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Are Antique Fire Extinguishers Worth?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique fire extinguishers vary widely in value. Common soda-acid
+            models in unrestored condition typically sell for $100-$200,
+            restored brass models fetch $200-$500, rare copper models with
+            original fittings can command $300-$800+, antique wheeled fire
+            extinguishers sell for $1,000-$1,600, and collectible fire grenades
+            (glass bulbs) range from $25-$2,000.
+      - '@type': Question
+        name: What types of antique fire extinguishers are most collectible?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The most collectible antique fire extinguishers include brass and
+            copper models with ornate detailing, rare soda-acid extinguishers
+            with original fittings, antique wheeled fire extinguishers, and fire
+            grenades (glass bulbs). The value largely depends on the type, with
+            certain designs being more sought after by collectors.
 ---
 
 ## Introduction to Antique Fire Extinguisher Values

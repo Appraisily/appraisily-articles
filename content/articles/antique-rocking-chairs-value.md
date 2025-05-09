@@ -39,8 +39,6 @@ structured_data:
     Discover what makes antique rocking chairs valuable with our comprehensive
     guide on identification, styles, pricing, and appraisal of these cherished
     heirlooms.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-rocking-chairs-value/antique-rocking-chairs-value-image-1_2uzYyVkzm.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +48,25 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-rocking-chairs-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-rocking-chairs-value/antique-rocking-chairs-value-image-1_2uzYyVkzm.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian-era antique bentwood rocking chair with ornate carvings and
+      original upholstery
+  keywords: >-
+    antique rocking chair values, vintage rocking chair identification,
+    Victorian rocking chairs worth, antique furniture appraisal, collectible
+    rocking chairs, 19th century rocking chair prices, Windsor rocking chair
+    value
 ---
 
 ![Antique bentwood rocking chair from the Victorian era with ornate carvings and original upholstery](https://ik.imagekit.io/appraisily/SEO/antique-rocking-chairs-value/antique-rocking-chairs-value-image-1_2uzYyVkzm.png)

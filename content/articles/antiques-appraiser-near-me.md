@@ -44,14 +44,45 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-05-05T14:30:00.000Z'
   dateModified: '2023-05-05T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antiques-appraiser-near-me/antiques-appraiser-near-me-image-1_-8uiOo_aV_.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antiques-appraiser-near-me/antiques-appraiser-near-me-image-1_-8uiOo_aV_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antiques appraiser carefully examining vintage collectibles
+      with specialized tools
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antiques-appraiser-near-me'
+  keywords:
+    - antiques appraiser near me
+    - local antique valuation
+    - certified antique appraisal
+    - professional antiques evaluation
+    - antique appraisal costs
+    - find antique experts
+    - heirloom valuation services
+  articleSection: Appraisals
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why might I need an antiques appraiser?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            You might need an antiques appraiser for insurance documentation,
+            estate planning and settlement, determining donation value for tax
+            purposes, making informed decisions when buying or selling antiques,
+            ensuring equitable division during divorce settlements, or simply
+            gaining personal knowledge about an item's origin, authenticity, and
+            value.
 ---
 
 ## Introduction to Finding Antiques Appraisers

@@ -38,8 +38,6 @@ structured_data:
     Explore the concept of value in art, from its role as a fundamental element
     to its impact on artistic composition, perception, and creating visual
     depth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/what-is-value-art/what-is-value-art-image-1_R-I8_svSy.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,8 +47,23 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-20T14:30:00.000Z'
   dateModified: '2023-07-20T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/what-is-value-art/what-is-value-art-image-1_R-I8_svSy.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Value scale in art showing gradation from white to black with varying
+      tonal contrasts
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/what-is-value-art'
+  keywords: >-
+    value in art, art value definition, light and dark in art, tonal value,
+    chiaroscuro technique, elements of art, value scale in art
 ---
 
 ## Introduction to Value in Art

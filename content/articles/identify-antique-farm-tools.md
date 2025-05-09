@@ -48,14 +48,46 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-27T14:30:00.000Z'
   dateModified: '2023-09-27T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/antique-farm-tools/vintage-farm-tools-collection.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/antique-farm-tools/vintage-farm-tools-collection.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic collection of antique farm tools including hand plows, scythes,
+      and early agricultural implements
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/identify-antique-farm-tools'
+  keywords:
+    - antique farm tool identification
+    - vintage agricultural implements
+    - farm tool authentication
+    - historical farming equipment
+    - antique tool valuation
+    - collectible farm tools
+    - agricultural antiques
+  articleSection: Antique Tools
+  about:
+    '@type': Thing
+    name: Antique Farm Tools
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com/'
 ---
 
 ## Introduction to Antique Farm Tools

@@ -38,7 +38,6 @@ structured_data:
     Learn how to determine antique dishes value with our expert guide. Discover
     identification marks, pricing factors, and which vintage dishes are worth
     money.
-  image: 'https://appraisily.com/images/antique-dishes-value.jpg'
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,6 +49,57 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-08-20T14:30:00.000Z'
   dateModified: '2024-08-20T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: 'https://appraisily.com/images/antique-dishes-value.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique dishware collection featuring rare china patterns,
+      Depression glass, and collectible porcelain plates
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-dishes-value'
+  keywords:
+    - antique dishes value
+    - vintage dishware identification
+    - valuable china patterns
+    - antique plate markings
+    - Depression glass worth
+    - collectible porcelain dishes
+    - how to price antique dishware
+  about:
+    '@type': Thing
+    name: Antique Dishware
+    description: >-
+      Collectible plates, china, and vintage tableware from various historical
+      periods
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why are antique dishes valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique dishes gain their value from a combination of factors
+            including age, rarity, condition, and historical importance. Some
+            pieces command premium prices due to their exceptional craftsmanship
+            or connection to significant manufacturers.
+      - '@type': Question
+        name: What factors determine antique dish values?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several critical factors determine antique dish values: age and
+            provenance (older pieces from the 18th and 19th centuries tend to be
+            more valuable), manufacturer and marks (dishes from prestigious
+            manufacturers like Wedgwood, Spode, Limoges, Meissen, and Royal
+            Doulton typically command higher prices), and rarity and demand
+            (limited production runs, discontinued patterns, and pieces from
+            manufacturers that are no longer in business often have higher
+            values).
 ---
 
 ## Discovering the Value of Antique Dishes

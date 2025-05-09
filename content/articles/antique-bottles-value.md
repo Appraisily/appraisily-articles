@@ -39,8 +39,15 @@ structured_data:
     Discover how to identify valuable antique bottles, determine their worth
     based on age, condition, rarity, and manufacturing techniques, and navigate
     the collector's market with our comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-bottles-value/antique-bottles-value-image-1_Ak-CYhWtZ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-bottles-value/antique-bottles-value-image-1_Ak-CYhWtZ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antique glass bottles showing various
+      colors, shapes, and manufacturing techniques
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,72 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-29T14:30:00.000Z'
   dateModified: '2023-07-29T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-bottles-value'
+  keywords:
+    - antique bottles value
+    - collectible glass bottles
+    - rare antique bottles worth
+    - vintage bottle identification
+    - antique medicine bottles
+    - old bottle appraisal
+    - valuable glass collectibles
+  articleSection: Collectibles
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes Antique Bottles Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of antique bottles is determined by a combination of
+            factors including rarity, age, color, condition, and historical
+            significance. Bottles produced in limited quantities are typically
+            more valuable. Pre-1900 bottles are considered antique and more
+            desirable. Unusual colors like cobalt blue, amber, deep purple, or
+            teal green increase value significantly. Mint condition bottles with
+            no damage command higher prices. Bottles associated with notable
+            events, companies, or historical periods often carry premium value.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify and Value Antique Bottles
+    step:
+      - '@type': HowToStep
+        name: Assess Rarity
+        text: >-
+          Bottles produced in limited quantities or from manufacturers that
+          operated briefly are typically more valuable than common examples.
+      - '@type': HowToStep
+        name: Determine Age
+        text: >-
+          Generally, pre-1900 bottles are considered antique and more desirable,
+          with older specimens (particularly those from the 18th century) often
+          commanding premium prices.
+      - '@type': HowToStep
+        name: Evaluate Color
+        text: >-
+          Unusual colors like cobalt blue, amber, deep purple, or teal green
+          typically increase value significantly compared to clear glass.
+      - '@type': HowToStep
+        name: Check Condition
+        text: >-
+          Mint condition bottles with no chips, cracks, or cleaning damage will
+          always command higher prices. Even minor flaws can significantly
+          reduce value.
+      - '@type': HowToStep
+        name: Research Historical Significance
+        text: >-
+          Bottles associated with notable events, companies, or historical
+          periods often carry premium value beyond their physical
+          characteristics.
 ---
 
 Antique bottles represent a fascinating glimpse into our past, capturing the evolution of manufacturing techniques, consumer products, and daily life across centuries. Beyond their historical significance, many antique bottles have become highly sought-after collectibles, with rare specimens commanding impressive prices at auctions and in specialty markets.

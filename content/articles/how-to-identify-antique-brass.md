@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-12T14:30:00.000Z'
   dateModified: '2023-08-12T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-brass/how-to-identify-antique-brass-image-1_7h-stZA6G.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-brass/how-to-identify-antique-brass-image-1_7h-stZA6G.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic antique brass collection featuring vintage candlesticks, ornate
+      decorative pieces, and period hardware with patina
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,67 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-to-identify-antique-brass'
+  about:
+    '@type': Thing
+    name: Antique Brass
+  keywords: >-
+    antique brass identification, how to identify antique brass, brass
+    authentication tests, antique brass patina, brass vs bronze antiques,
+    antique brass hallmarks, vintage brass value
+  articleSection: Antiques
+  isAccessibleForFree: 'True'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-headline
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-body
+  inLanguage: en-US
+  copyrightYear: '2023'
+  copyrightHolder:
+    '@type': Organization
+    name: Appraisily
+  HowTo:
+    '@type': HowTo
+    name: How to Identify Antique Brass
+    description: Learn reliable methods to identify and authenticate antique brass items
+    step:
+      - '@type': HowToStep
+        name: Perform the Magnet Test
+        text: >-
+          1. Hold a magnet near or against the suspected brass item
+
+          2. Observe whether the magnet attracts to the surface
+
+          True brass is not magnetic because its primary components—copper and
+          zinc—are non-ferrous metals. If the magnet sticks strongly to your
+          item, it's likely made of iron or steel with a brass-colored plating
+          or finish.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-brass/how-to-identify-antique-brass-image-2_enZgZ7r6J.png
+      - '@type': HowToStep
+        name: Examine Visual Appearance and Color
+        text: >-
+          Look for a warm, golden-yellow color (though this can vary with the
+          exact copper-zinc ratio) and a relatively uniform appearance beneath
+          any patina.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-brass/how-to-identify-antique-brass-image-1_7h-stZA6G.png
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Is brass magnetic?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            No, true brass is not magnetic because its primary components—copper
+            and zinc—are non-ferrous metals. If a magnet sticks strongly to your
+            item, it's likely made of iron or steel with a brass-colored plating
+            or finish.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Brass Identification" level="2" >}}

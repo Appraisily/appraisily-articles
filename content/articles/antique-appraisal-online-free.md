@@ -38,8 +38,15 @@ structured_data:
     Discover legitimate free online antique appraisal resources. Learn how to
     get expert valuations of your collectibles and antiques without spending a
     dime.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-appraisal-online-free/antique-appraisal-online-free-image-1_D1mIGQ_1E.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-appraisal-online-free/antique-appraisal-online-free-image-1_D1mIGQ_1E.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person using tablet to research antique values with vintage collectibles
+      displayed for online appraisal
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +61,14 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-appraisal-online-free'
+  about:
+    '@type': Thing
+    name: Antique Appraisal
+    description: 'Valuation and assessment of antiques, collectibles, and vintage items'
+  keywords: >-
+    free online antique appraisal, antique valuation services, free collectible
+    appraisals, heritage auctions free estimates, identify antiques online,
+    digital antique authentication, complimentary heirloom valuation
 ---
 
 Have you uncovered a potentially valuable heirloom in your attic or inherited antiques you know nothing about? Before paying for professional appraisal services, you'll be pleased to know there are numerous reputable resources offering free online antique appraisals. This comprehensive guide explores the best options for obtaining complimentary valuations for your treasured items.

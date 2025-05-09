@@ -43,8 +43,6 @@ structured_data:
     Learn how to identify antique chess sets through distinctive features,
     materials, craftsmanship, and historical patterns. Discover what makes
     vintage chess sets valuable with our comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-chess-set/how-to-identify-antique-chess-set-image-1_lJSOWY4Il.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +57,74 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-to-identify-antique-chess-set'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-chess-set/how-to-identify-antique-chess-set-image-1_lJSOWY4Il.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate antique chess set with intricately carved wooden pieces on a
+      decorative vintage board
+  keywords:
+    - antique chess set identification
+    - vintage chess set valuation
+    - Staunton chess sets
+    - collectible chess pieces
+    - antique chess set materials
+    - historical chess styles
+    - chess set authentication
+  about:
+    '@type': Thing
+    name: Antique Chess Sets
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  inLanguage: en-US
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Identify an Antique Chess Set
+  description: >-
+    A comprehensive guide to authenticating and valuing antique chess sets
+    through their distinctive features, materials, and historical context.
+  tool:
+    - '@type': HowToTool
+      name: Knowledge of chess set history and styles
+  step:
+    - '@type': HowToStep
+      name: Determine the Age
+      text: >-
+        To be considered truly antique, a chess set generally needs to be at
+        least 100 years old. Sets from the 19th century and earlier qualify as
+        genuine antiques, while those from the early-to-mid 20th century are
+        typically classified as vintage collectibles.
+      image: >-
+        https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-chess-set/how-to-identify-antique-chess-set-image-1_lJSOWY4Il.png
+    - '@type': HowToStep
+      name: Identify Historical Style
+      text: >-
+        Different periods and regions produced distinctive styles that can help
+        establish authenticity and provenance. From 6th century Indian origins
+        to 10th century Islamic abstract designs, medieval European sets, and
+        the standardized Staunton pattern introduced in 1849.
+faqPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Defines an Antique Chess Set?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          To be considered truly antique, a chess set generally needs to be at
+          least 100 years old. Sets from the 19th century and earlier qualify as
+          genuine antiques, while those from the early-to-mid 20th century are
+          typically classified as vintage collectibles. The earliest chess sets
+          date back to the 6th century in India, where the game originated as
+          "chaturanga." Understanding the historical context of chess set design
+          is crucial for proper identification.
 ---
 
 The world of antique chess sets offers a fascinating journey through history, art, and craftsmanship. As one of the oldest and most beloved board games, chess has inspired countless variations of playing sets throughout the centuries, many of which have become valuable collectors' items today. Whether you've inherited a potentially valuable chess set or are considering investing in one, knowing how to properly identify an antique chess set is essential.

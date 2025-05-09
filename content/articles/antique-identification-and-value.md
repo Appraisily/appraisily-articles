@@ -39,8 +39,15 @@ structured_data:
     Learn expert techniques for antique identification and value determination.
     Discover tools, resources, and methods to accurately assess your vintage
     treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-identification-and-value/antique-identification-and-value-image-1_aFPAzpZnE.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-identification-and-value/antique-identification-and-value-image-1_aFPAzpZnE.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique identification process showing a magnifying glass examining
+      maker's marks on vintage collectibles
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,33 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-identification-and-value'
+  about:
+    '@type': Thing
+    name: Antique Identification
+    description: >-
+      Methods and techniques for identifying and valuing antique items,
+      including authentication, provenance research, and market valuation.
+  keywords: >-
+    antique identification methods, determining antique value, antique appraisal
+    techniques, vintage item authentication, antique maker's marks, collectibles
+    valuation, antique research resources
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes an Item an Antique?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            In the antique trade, the general consensus is that an item must be
+            at least 100 years old to be considered a true antique. Items that
+            are less than 100 years old but more than 20 years old are typically
+            classified as "vintage" or "collectible". Beyond age, what separates
+            valuable antiques from merely old items includes historical
+            significance, rarity and scarcity, craftsmanship and quality,
+            provenance (documented history of ownership), and original condition
+            or appropriate conservation.
 ---
 
 ![Antique identification process with magnifying glass examining maker's mark](https://ik.imagekit.io/appraisily/SEO/antique-identification-and-value/antique-identification-and-value-image-1_aFPAzpZnE.png)

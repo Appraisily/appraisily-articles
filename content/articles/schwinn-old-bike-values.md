@@ -39,22 +39,46 @@ structured_data:
     Discover what makes vintage Schwinn bicycles valuable, how to identify
     collectible models, and current market prices for these classic American
     bikes.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/schwinn-old-bike-values/schwinn-old-bike-values-image-1_qDUW4CL4F.png
   author:
     '@type': Organization
     name: Appraisily Team
   datePublished: '2023-11-02T14:30:00.000Z'
   dateModified: '2023-11-02T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/schwinn-old-bike-values/schwinn-old-bike-values-image-1_qDUW4CL4F.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Schwinn bicycle from the 1970s featuring original paint, chrome
+      details and classic American design
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/schwinn-old-bike-values'
+  keywords:
+    - vintage Schwinn bicycle value
+    - old Schwinn bike worth
+    - Schwinn Sting-Ray value
+    - collectible Schwinn models
+    - Schwinn serial number lookup
+    - classic bicycle appraisal
+    - rare Schwinn identification
+  articleSection: Bicycles
+  about:
+    '@type': Thing
+    name: Vintage Schwinn Bicycles
+    description: >-
+      Classic American bicycles manufactured by Schwinn Bicycle Company from the
+      1940s through the early 1980s
 ---
 
 For collectors and cycling enthusiasts, vintage Schwinn bicycles represent a golden era of American manufacturing and design. Whether you've discovered an old Schwinn in your garage, inherited one from a family member, or are actively looking to start collecting these classic bikes, understanding their value is essential. In this comprehensive guide, we'll explore what makes vintage Schwinn bicycles valuable, how to identify different models, and what they're currently worth in today's collector's market.

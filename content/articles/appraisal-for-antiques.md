@@ -39,8 +39,15 @@ structured_data:
     Learn how to get accurate antique appraisals, find qualified experts,
     understand appraisal costs, and determine the true value of your cherished
     collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/appraisal-for-antiques/appraisal-for-antiques-image-1_N1i1WXmUL.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/appraisal-for-antiques/appraisal-for-antiques-image-1_N1i1WXmUL.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining a valuable collectible with
+      magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,43 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/appraisal-for-antiques'
+  keywords:
+    - antique appraisal services
+    - professional antique valuation
+    - certified antique appraisers
+    - determining antique worth
+    - antique authentication process
+    - heirloom appraisal
+    - collectibles market value
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Is an Antique Appraisal?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          An antique appraisal is a detailed written report provided by a
+          professional appraiser who assesses your items in relation to the
+          current marketplace. Unlike casual estimates, a proper appraisal
+          document includes thorough description of the item(s), authentication
+          verification, condition assessment, market value determination,
+          supporting evidence for the valuation, and the appraiser's
+          professional credentials. According to the American Society of
+          Appraisers, a proper appraisal should clearly state its intended use,
+          whether for insurance coverage, estate planning, charitable donations,
+          or resale value.
+    - '@type': Question
+      name: What are the Types of Antique Appraisals?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Different appraisal types serve distinct purposes. Insurance
+          appraisals determine the replacement value of items in case of loss,
+          theft, or damage. These typically reflect retail prices rather than
+          what you might receive when selling the item. Understanding the type
+          of appraisal you need is crucial, as each serves a specific purpose.
 ---
 
 ![Professional appraiser examining an antique item with magnifying glass](https://ik.imagekit.io/appraisily/SEO/appraisal-for-antiques/appraisal-for-antiques-image-1_N1i1WXmUL.png)

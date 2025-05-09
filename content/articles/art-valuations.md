@@ -39,8 +39,15 @@ structured_data:
     Learn how to determine the value of your artwork with our comprehensive
     guide to art valuations, including professional appraisal methods, online
     resources, and key factors that affect art value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-valuations/art-valuations-image-1_4fNDdZLZQ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-valuations/art-valuations-image-1_4fNDdZLZQ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining painting details for
+      accurate valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,6 +57,8 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-10-11T14:30:00.000Z'
   dateModified: '2023-10-11T14:30:00.000Z'
   mainEntityOfPage:

@@ -39,8 +39,6 @@ structured_data:
     Discover how to get free antique clock appraisals online and in-person.
     Learn what factors determine your clock's value and find trusted appraisal
     resources.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-clock-appraisal/free-antique-clock-appraisal-image-1_Z_We5I9He.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,9 +50,80 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/free-antique-clock-appraisal'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-clock-appraisal/free-antique-clock-appraisal-image-1_Z_We5I9He.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining details of an antique grandfather clock
+      for valuation
+  keywords:
+    - free antique clock appraisal
+    - antique clock valuation
+    - grandfather clock value
+    - vintage timepiece appraisal
+    - clock authentication
+    - online clock appraisal services
+    - antique timepiece identification
+  about:
+    '@type': Thing
+    name: Antique Clock Appraisal
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why should I get my antique clock appraised?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Having your antique clock professionally appraised provides several
+            important benefits: 1) Insurance Documentation: Proper valuation
+            ensures your valuable timepieces are adequately insured. 2) Selling
+            Confidence: An appraisal gives you negotiating power and helps
+            prevent underselling valuable pieces. 3) Estate Planning: Know what
+            to declare for estate taxes and how to distribute valuable heirlooms
+            fairly. 4) Authentication: Confirm if your clock is genuine, a
+            reproduction, or has been significantly altered. 5) Restoration
+            Decisions: Determine if investing in restoration is financially
+            worthwhile.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Prepare for an Antique Clock Appraisal
+    step:
+      - '@type': HowToStep
+        name: Document your clock's history
+        text: >-
+          Gather any information about your clock's provenance, including
+          receipts, family history, and documentation
+      - '@type': HowToStep
+        name: Take detailed photographs
+        text: >-
+          Capture clear images of the clock from multiple angles, including the
+          face, movement, and any maker's marks
+      - '@type': HowToStep
+        name: Research preliminary information
+        text: >-
+          Look for similar models online to get a general understanding of your
+          clock's potential value and rarity
+      - '@type': HowToStep
+        name: Prepare questions for the appraiser
+        text: >-
+          Make a list of specific questions about your timepiece's value, age,
+          and authenticity
+      - '@type': HowToStep
+        name: Gather documentation
+        text: >-
+          Collect any existing paperwork, certificates, or receipts related to
+          the clock
 ---
 
 Antique clocks aren't just timekeepers; they're valuable pieces of history that can be worth significant sums. Whether you've inherited a grandfather clock, discovered an old mantel timepiece in the attic, or are simply curious about that vintage wall clock you've had for years, knowing its true value is important for insurance, selling, or simply understanding what you own.

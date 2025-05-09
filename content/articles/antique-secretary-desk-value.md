@@ -41,8 +41,6 @@ structured_data:
     Discover the true value of antique secretary desks with our expert guide.
     Learn how to identify valuable pieces, understand price determinants, and
     get fair market estimates based on style, age, and condition.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-secretary-desk-value/antique-secretary-desk-value-image-3_GSi8GqmLv.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,11 +50,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-10-29T14:30:00.000Z'
   dateModified: '2023-10-29T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-secretary-desk-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-secretary-desk-value/antique-secretary-desk-value-image-3_GSi8GqmLv.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian antique secretary desk with drop-front writing surface, bookcase
+      top and original hardware
+  keywords: >-
+    antique secretary desk value, antique secretary desk identification, antique
+    drop front desk worth, vintage secretary desk prices, 18th century secretary
+    desk, antique desk appraisal, secretary bookcase value
 ---
 
 The elegant antique secretary desk stands as one of furniture history's most versatile and sophisticated designs. Combining storage, display, and workspace functions in one impressive piece, these beautiful furnishings continue to captivate collectors and interior designers alike. But determining the true value of an antique secretary desk requires understanding its historical context, identifying authentic period features, and recognizing the market factors that influence its worth.

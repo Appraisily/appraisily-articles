@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-10T14:30:00.000Z'
   dateModified: '2023-07-10T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-lanterns-value/antique-lanterns-value-image-1_CXP31sx6T.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-lanterns-value/antique-lanterns-value-image-1_CXP31sx6T.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable antique lanterns including railroad, oil, and brass
+      models from the 19th and early 20th centuries
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,88 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-lanterns-value'
+  about:
+    '@type': Thing
+    name: Antique Lanterns
+    description: >-
+      Historical lighting devices including railroad lanterns, oil lanterns, and
+      decorative brass lanterns from the 19th and early 20th centuries
+  keywords: >-
+    antique lanterns value, vintage railroad lantern prices, collectible oil
+    lanterns, brass lantern worth, antique lighting valuation, rare lantern
+    identification, selling antique lanterns
+  articleSection: Antiques
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: '#types-of-collectible-antique-lanterns'
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: '#value-factors-for-antique-lanterns'
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: '#railroad-lanterns-value-guide'
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: '#oil-and-kerosene-lanterns-value'
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: '#decorative-and-specialty-lanterns'
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: '#where-to-buy-and-sell-antique-lanterns'
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: '#authentication-and-condition-assessment'
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: '#faqs-about-antique-lanterns'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - h1
+      - h2
+      - h3
+  mentions:
+    - '@type': Thing
+      name: Railroad Lanterns
+      description: >-
+        Lanterns used by railroad workers for signaling and illumination in the
+        late 19th and early 20th centuries
+    - '@type': Thing
+      name: Oil Lanterns
+      description: Vintage lighting devices that use oil or kerosene as fuel
+    - '@type': Thing
+      name: Brass Lanterns
+      description: Decorative and functional lanterns made primarily of brass material
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What types of antique lanterns are most valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Railroad lanterns are generally the most sought-after and valuable
+            category among collectors, especially rare models with colored glass
+            globes. Other highly valuable types include early oil and kerosene
+            lanterns from manufacturers like Dietz and Perkins, decorative brass
+            lanterns with intricate designs, and specialty lanterns such as
+            police, fire, or maritime models with provenance.
+      - '@type': Question
+        name: How can I identify an authentic antique lantern?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Authentic antique lanterns can be identified by examining
+            manufacturer markings (often stamped on the metal frame or fuel
+            tank), checking the construction methods (hand-soldered joints,
+            rivets instead of welds), assessing the materials (aged brass,
+            copper, or tin with natural patina), and evaluating the glass
+            components (hand-blown glass with imperfections). Research the
+            specific manufacturer's patterns and compare with reference guides
+            or museum collections.
 ---
 
 In the world of antique collecting, vintage lanterns hold a special place with their blend of historical significance, practical craftsmanship, and aesthetic appeal. Whether you're a seasoned collector, an antique dealer, or have just discovered an old lantern in your attic, understanding the value of these illuminating artifacts can be both rewarding and profitable.

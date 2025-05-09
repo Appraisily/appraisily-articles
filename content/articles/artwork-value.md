@@ -42,8 +42,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-16T14:30:00.000Z'
   dateModified: '2023-07-16T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/artwork-value/artwork-value-image-1_Jab6RXbv-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/artwork-value/artwork-value-image-1_Jab6RXbv-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining a painting to determine its
+      market value
   publisher:
     '@type': Organization
     name: Appraisily
@@ -51,6 +58,20 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/artwork-value'
+  about:
+    '@type': Thing
+    name: Art Valuation
+    description: >-
+      The process of determining the monetary value of artwork based on factors
+      like authenticity, condition, provenance, and market trends.
+  keywords:
+    - artwork value
+    - art appraisal methods
+    - painting valuation
+    - fine art worth
+    - determine art value
+    - art market prices
+    - artwork authentication
 ---
 
 Do you have a painting tucked away in your attic or a print inherited from a relative that might be worth something? Understanding artwork value is both an art and a science, requiring knowledge of aesthetics, history, provenance, and market dynamics. Whether you're a collector, inheritor, or simply curious about a piece you own, this comprehensive guide will walk you through the process of determining what your artwork is really worth.

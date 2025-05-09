@@ -41,8 +41,15 @@ structured_data:
     Discover the true value of Towle Old Master sterling silver flatware. Our
     expert guide covers prices, authentication, and factors affecting worth for
     collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/towle-old-master-value/towle-old-master-value-image-1_DkZQSzG2Z.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/towle-old-master-value/towle-old-master-value-image-1_DkZQSzG2Z.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Towle Old Master sterling silver flatware set with ornate
+      Victorian-inspired detailing
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,9 +59,19 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2024-11-13T14:30:00.000Z'
   dateModified: '2024-11-13T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/towle-old-master-value'
+  keywords:
+    - Towle Old Master value
+    - sterling silver flatware prices
+    - Towle silverware authentication
+    - antique silver appraisal
+    - Towle Old Master pattern worth
+    - vintage sterling silver values
+    - Harold E. Nock silverware
 ---
 
 ## Introduction to Towle Old Master Sterling Silver

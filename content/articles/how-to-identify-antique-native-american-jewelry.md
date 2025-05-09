@@ -39,8 +39,15 @@ structured_data:
     Learn to identify genuine antique Native American jewelry with our
     comprehensive guide covering hallmarks, materials, craftsmanship, tribal
     styles, and authentication techniques.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-native-american-jewelry/how-to-identify-antique-native-american-jewelry-image-1_e3Qz48bQT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-native-american-jewelry/how-to-identify-antique-native-american-jewelry-image-1_e3Qz48bQT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic antique Native American silver and turquoise jewelry collection
+      showing traditional craftsmanship and tribal designs
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,12 +57,55 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-20T14:30:00.000Z'
   dateModified: '2023-11-20T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/how-to-identify-antique-native-american-jewelry
+  keywords:
+    - antique Native American jewelry identification
+    - authentic Native American jewelry hallmarks
+    - Navajo Zuni Hopi jewelry authentication
+    - vintage turquoise silver jewelry
+    - Native American jewelry collecting guide
+    - tribal jewelry identification
+  articleSection: Jewelry
+  about:
+    '@type': Thing
+    name: Native American Jewelry
+  isAccessibleForFree: 'True'
+  HowTo:
+    '@type': HowTo
+    name: How to Identify Authentic Antique Native American Jewelry
+    description: >-
+      A comprehensive guide to identifying genuine antique Native American
+      jewelry through hallmarks, materials, and craftsmanship
+    image: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-native-american-jewelry/how-to-identify-antique-native-american-jewelry-image-1_e3Qz48bQT.png
+    step:
+      - '@type': HowToStep
+        name: Check Hallmarks and Maker's Marks
+        text: >-
+          Look for artist signatures (often initials or abbreviated names),
+          tribal affiliations (symbols or letters indicating Navajo, Zuni, Hopi,
+          etc.), and sterling silver marks ("Sterling," "925," or "Coin").
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-native-american-jewelry/how-to-identify-antique-native-american-jewelry-image-2_W7dlpls80.png
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What are common hallmark indicators on Native American jewelry?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Common hallmark indicators include: 1. Artist signatures: Often
+            initials or abbreviated names, 2. Tribal affiliations: Symbols or
+            letters indicating Navajo, Zuni, Hopi, etc., 3. Sterling silver
+            marks: "Sterling," "925," or "Coin"
 ---
 
 ![Collection of authentic antique Native American jewelry including silver and turquoise pieces](https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-native-american-jewelry/how-to-identify-antique-native-american-jewelry-image-1_e3Qz48bQT.png)

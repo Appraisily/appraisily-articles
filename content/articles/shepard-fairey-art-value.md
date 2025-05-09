@@ -39,8 +39,6 @@ structured_data:
     Explore comprehensive Shepard Fairey art value information, from iconic OBEY
     prints to record-breaking auction sales, with expert authentication and
     investment tips.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/shepard-fairey-art-value/shepard-fairey-art-value-image-1_ZW7vykdQK.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +48,33 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-06-26T14:30:00.000Z'
   dateModified: '2023-06-26T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/shepard-fairey-art-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/shepard-fairey-art-value/shepard-fairey-art-value-image-1_ZW7vykdQK.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Shepard Fairey's iconic OBEY Andre the Giant art print with signature red
+      and black graphic design
+  keywords: >-
+    Shepard Fairey art value, OBEY Giant print prices, Shepard Fairey
+    investment, Hope poster value, street art collecting, Shepard Fairey
+    authentication, contemporary art market
+  articleSection: Contemporary Art
+  about:
+    '@type': Thing
+    name: Shepard Fairey Art
+    description: >-
+      Contemporary street art by Shepard Fairey including OBEY Giant campaign
+      and the 2008 Barack Obama HOPE poster
 ---
 
 ![Shepard Fairey OBEY art print showing the iconic Andre the Giant design](https://ik.imagekit.io/appraisily/SEO/shepard-fairey-art-value/shepard-fairey-art-value-image-1_ZW7vykdQK.png)

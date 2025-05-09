@@ -39,8 +39,15 @@ structured_data:
     Learn everything about antique appraisals, including finding expert
     appraisers, understanding valuation methods, and getting the most accurate
     assessment of your cherished items.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-appraisals/antique-appraisals-image-1_sUjgstaCf.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-appraisals/antique-appraisals-image-1_sUjgstaCf.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining vintage collectibles with
+      specialized tools and magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,32 @@ structured_data:
   datePublished: '2023-11-14T14:30:00.000Z'
   dateModified: '2023-11-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-appraisals'
+  about:
+    '@type': Thing
+    name: Antique Appraisals
+  keywords:
+    - antique appraisals
+    - professional antique valuation
+    - find antique appraisers
+    - heirloom assessment
+    - vintage collectible evaluation
+    - antique authentication
+    - estate item appraisal
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Is an Antique Appraisal?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            An antique appraisal is a professional assessment that determines
+            the value of your antique items based on factors such as age,
+            condition, rarity, provenance, and current market demand. Unlike
+            casual evaluations or "ballpark estimates," formal appraisals
+            provide documented valuations that can be used for insurance, estate
+            planning, donations, or sales purposes.
 ---
 
 ## Introduction to Antique Appraisals

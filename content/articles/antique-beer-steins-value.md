@@ -35,8 +35,15 @@ structured_data:
     Discover what makes antique beer steins valuable with our comprehensive
     guide covering identification marks, materials, price ranges, and expert
     authentication tips.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-beer-steins-value/antique-beer-steins-value-image-1__bF8WWQ_y.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-beer-steins-value/antique-beer-steins-value-image-1__bF8WWQ_y.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique German beer steins collection showing ornate designs,
+      pewter lids, and hand-painted decorations
   author:
     '@type': Organization
     name: Appraisily Team
@@ -46,11 +53,17 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-10-31T14:30:00.000Z'
   dateModified: '2023-10-31T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-beer-steins-value'
+  keywords: >-
+    antique beer steins value, German beer stein identification, collectible
+    beer stein prices, vintage beer stein markings, rare beer steins, Mettlach
+    stein values, beer stein authentication
 ---
 
 German beer steins have fascinated collectors for generations, blending artistry, craftsmanship, and history into functional vessels that tell stories of their time. Today, these ornate drinking vessels have become highly sought-after collectibles, with rare examples fetching thousands of dollars at auction. Whether you've inherited an antique stein, discovered one at an estate sale, or are building a collection, understanding what makes these pieces valuable is essential.

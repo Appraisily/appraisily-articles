@@ -44,14 +44,51 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-03T14:30:00.000Z'
   dateModified: '2023-06-03T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/fanch-ledan-art-value/fanch-ledan-art-value-image-1_yRGXaypbd.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/fanch-ledan-art-value/fanch-ledan-art-value-image-1_yRGXaypbd.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Fanch Ledan interior artwork featuring architectural details and vibrant
+      color palette with detailed interior spaces and views through windows
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/fanch-ledan-art-value'
+  keywords:
+    - Fanch Ledan art value
+    - Fanch Ledan serigraph prices
+    - Fanch Ledan authentication
+    - Fanch Ledan limited editions
+    - Fanch Ledan investment potential
+    - Fanch Ledan lithographs
+    - Fanch Ledan interior scenes
+  articleSection: Art
+  about:
+    '@type': Thing
+    name: Fanch Ledan artwork valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What sets Fanch Ledan's art apart?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Fanch Ledan's art is distinguished by his distinctive style, often
+            categorized as contemporary realism with strong architectural
+            elements. His most recognizable works feature detailed interior
+            spaces with sweeping views of landscapes or cityscapes visible
+            through windows and doorways. This signature 'interior' style has
+            become his most sought-after and valuable artistic expression.
 ---
 
 ![Fanch Ledan interior painting with vibrant colors and architectural details](https://ik.imagekit.io/appraisily/SEO/fanch-ledan-art-value/fanch-ledan-art-value-image-1_yRGXaypbd.png)

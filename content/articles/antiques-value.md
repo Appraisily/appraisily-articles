@@ -42,17 +42,34 @@ structured_data:
   author:
     '@type': Organization
     name: Appraisily Team
-  datePublished: '2024-11-21'
-  dateModified: '2024-11-21'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antiques-value/antiques-value-image-1_7BvgTXHJC.png
+  datePublished: '2024-11-21T14:30:00.000Z'
+  dateModified: '2024-11-21T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antiques-value/antiques-value-image-1_7BvgTXHJC.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of valuable antiques including furniture, decorative
+      arts, and collectibles displayed on an antique wooden table
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antiques-value'
+  keywords:
+    - antiques value
+    - antique appraisal methods
+    - determining antique worth
+    - antique authentication
+    - vintage collectibles pricing
+    - antique market factors
+    - heirloom valuation
 ---
 
 {{< content-modules/section-header title="Introduction to Antiques Valuation" level="2" >}}

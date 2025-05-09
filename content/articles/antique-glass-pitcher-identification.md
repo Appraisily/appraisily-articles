@@ -43,8 +43,15 @@ structured_data:
     Learn how to identify antique glass pitchers with our comprehensive guide
     covering styles, makers, patterns, and valuation. Discover what makes
     vintage glass pitchers valuable.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-glass-pitcher-identification/antique-glass-pitcher-identification-image-1_dq0yMi0dB.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-glass-pitcher-identification/antique-glass-pitcher-identification-image-1_dq0yMi0dB.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      A diverse collection of antique glass pitchers showcasing different
+      patterns, colors, and production techniques
   author:
     '@type': Organization
     name: Appraisily Team
@@ -58,6 +65,21 @@ structured_data:
   dateModified: '2023-09-16T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-glass-pitcher-identification
+  about:
+    '@type': Thing
+    name: Antique Glass Pitchers
+    description: >-
+      Historical glass vessels used for serving beverages, valued for their
+      craftsmanship, patterns, and historical significance
+  keywords:
+    - antique glass pitcher identification
+    - vintage glass pitcher values
+    - depression glass pitchers
+    - carnival glass pitcher marks
+    - milk glass pitcher identification
+    - antique glassware authentication
+    - collectible glass pitcher patterns
+  articleSection: Antique Glass
 ---
 
 Antique glass pitchers are cherished collectibles that offer a glimpse into the craftsmanship and design aesthetics of bygone eras. Whether discovered in a family attic, at an estate sale, or in a vintage shop, these functional art pieces often leave collectors wondering about their origins, age, and value. The world of antique glass is vast and complex, with numerous manufacturers, patterns, and production techniques spanning more than a century of glassmaking history.

@@ -39,8 +39,15 @@ structured_data:
     Learn how to find and choose the best antique jewelry appraiser near you,
     understand the appraisal process, costs, and how to prepare for your
     appointment.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-jewelry-appraiser-near-me/antique-jewelry-appraiser-near-me-image-1_Q2epPU85u.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-jewelry-appraiser-near-me/antique-jewelry-appraiser-near-me-image-1_Q2epPU85u.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique jewelry appraiser examining vintage rings with
+      specialized tools and magnifying equipment
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,62 @@ structured_data:
   datePublished: '2023-07-02T14:30:00.000Z'
   dateModified: '2023-07-02T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-jewelry-appraiser-near-me'
+  about:
+    '@type': Thing
+    name: Antique Jewelry Appraisal
+  keywords:
+    - antique jewelry appraiser near me
+    - vintage jewelry valuation
+    - estate jewelry appraisal
+    - fine jewelry authentication
+    - heirloom jewelry assessment
+    - jewelry appraisal cost
+    - professional jewelry valuation
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
+  specialty: Antique Jewelry Appraisal
+  timeRequired: PT10M
+  educationalUse: Research
+  audience:
+    '@type': Audience
+    audienceType: Antique Jewelry Collectors and Owners
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-title
+      - .article-content
+  inLanguage: en-US
+  copyrightYear: '2023'
+  copyrightHolder:
+    '@type': Organization
+    name: Appraisily
+  accessMode:
+    - textual
+    - visual
+  accessibilityFeature:
+    - alternativeText
+    - readingOrder
+  accessibilityHazard: none
+  mainContentOfPage:
+    '@type': WebPageElement
+    cssSelector: .article-content
+  significantLink: 'https://articles.appraisily.com/articles/antique-jewelry-appraiser-near-me'
+  mentions:
+    - '@type': Thing
+      name: Antique Jewelry
+    - '@type': Organization
+      name: National Association of Jewelry Appraisers
+    - '@type': Organization
+      name: International Society of Appraisers
+  potentialAction:
+    '@type': ReadAction
+    target: 'https://articles.appraisily.com/articles/antique-jewelry-appraiser-near-me'
 ---
 
 {{< content-modules/section-header title="Why Proper Appraisal of Antique Jewelry Matters" level="2" >}}

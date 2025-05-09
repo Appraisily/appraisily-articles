@@ -43,8 +43,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-04T14:30:00.000Z'
   dateModified: '2023-08-04T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-appraisal/art-appraisal-image-1_3qlhfmchD.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-appraisal/art-appraisal-image-1_3qlhfmchD.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining painting details with
+      magnifying glass for valuation
   publisher:
     '@type': Organization
     name: Appraisily
@@ -52,6 +59,16 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/art-appraisal'
+  about:
+    '@type': Thing
+    name: Art Appraisal
+    description: >-
+      The process of determining the monetary value of artwork by qualified
+      experts
+  keywords: >-
+    art appraisal, artwork valuation, professional art appraiser, painting
+    authentication, fine art value determination, art insurance appraisal, how
+    to appraise artwork
 ---
 
 # Professional Art Appraisal Guide: Determining Your Artwork's True Value

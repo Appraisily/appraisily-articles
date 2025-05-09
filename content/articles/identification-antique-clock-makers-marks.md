@@ -40,8 +40,13 @@ structured_data:
     Learn how to identify antique clock makers' marks, decode serial numbers,
     and authenticate vintage timepieces with our expert guide to clock maker
     identification.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identification-antique-clock-makers-marks/identification-antique-clock-makers-marks-image-1_QFmdeoKT24.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identification-antique-clock-makers-marks/identification-antique-clock-makers-marks-image-1_QFmdeoKT24.png
+    width: '1200'
+    height: '630'
+    caption: Vintage clock movement with maker's mark engraved on brass backplate
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +58,74 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-11-07T14:30:00.000Z'
   dateModified: '2023-11-07T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://articles.appraisily.com/articles/identification-antique-clock-makers-marks
+  articleSection: Antiques
+  keywords:
+    - antique clock makers marks
+    - clock maker identification
+    - vintage timepiece authentication
+    - antique clock signatures
+    - clock trademark symbols
+    - clock serial numbers
+    - antique clock valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Where to Find Clock Makers' Marks?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The most common locations to find clock makers' marks include: Clock
+            Face (Dial) - Many makers engraved or printed their names near the
+            center of the dial or around its edge. Movement Backplate - Turn the
+            clock around and examine the back plate of the movement for stamps,
+            engravings, or punched marks. Inside the Case - For larger clocks,
+            look for paper labels or stamps inside the case, particularly on the
+            backboard or inside the door. Behind the Bezel - Some makers placed
+            their marks behind the bezel (the ring that holds the glass). On the
+            Pendulum - Occasionally, makers stamped their names or initials on
+            the pendulum bob or suspension spring.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Antique Clock Makers' Marks
+    description: >-
+      A methodical approach to locating, deciphering, and authenticating clock
+      makers' marks on vintage timepieces
+    step:
+      - '@type': HowToStep
+        name: Examine the Clock Face
+        text: >-
+          Look for elegant signatures near the center of the dial or around its
+          edge, often accompanied by a location (e.g., "Johnson, London").
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/identification-antique-clock-makers-marks/identification-antique-clock-makers-marks-image-2_ztpKIBN1n.png
+      - '@type': HowToStep
+        name: Check the Movement Backplate
+        text: >-
+          Turn the clock around and examine the back plate of the movement for
+          stamps, engravings, or punched marks identifying the maker.
+      - '@type': HowToStep
+        name: Look Inside the Case
+        text: >-
+          For larger clocks like grandfather or wall clocks, search for paper
+          labels or stamps inside the case, particularly on the backboard or
+          inside the door.
+      - '@type': HowToStep
+        name: Inspect Behind the Bezel
+        text: >-
+          Some makers placed their marks behind the bezel (the ring that holds
+          the glass), which becomes visible when the face is removed.
+      - '@type': HowToStep
+        name: Check the Pendulum
+        text: >-
+          Occasionally, makers stamped their names or initials on the pendulum
+          bob or suspension spring.
 ---
 
 For antique enthusiasts and collectors, few discoveries are as exciting as uncovering the signature or mark of a renowned clockmaker on a vintage timepiece. These small engravings, stamps, or labels serve as crucial keys to unlocking a clock's history, origin, and value. Identifying antique clock makers' marks requires a methodical approach and specialized knowledge, but with the right techniques, you can transform an anonymous timepiece into a well-documented collector's item.

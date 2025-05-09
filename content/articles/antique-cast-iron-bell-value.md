@@ -39,8 +39,6 @@ structured_data:
     Discover the true value of antique cast iron bells with our comprehensive
     guide on identification, pricing factors, and where to buy or sell these
     historic treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-bell-value/antique-cast-iron-bell-value-image-1_s60ZDElrH.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +50,74 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-05-18T14:30:00.000Z'
   dateModified: '2023-05-18T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-bell-value/antique-cast-iron-bell-value-image-1_s60ZDElrH.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage cast iron bell with mounting wheel and bracket showing patina and
+      craftsmanship
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-cast-iron-bell-value'
+  keywords:
+    - antique cast iron bell value
+    - vintage iron bell identification
+    - C.S. Bell Company collectibles
+    - school bell valuation
+    - farm bell prices
+    - church bell worth
+    - cast iron bell markings
+  about:
+    '@type': Thing
+    name: Antique Cast Iron Bells
+    description: >-
+      Historic cast iron bells used in schools, farms, churches and other
+      settings from 1800-1950
+  mentions:
+    - '@type': Organization
+      name: C.S. Bell Company
+      description: 'Renowned bell manufacturer from Hillsboro, Ohio'
+    - '@type': Organization
+      name: Meneely Bell Company
+      description: Historic bell foundry
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: How do you identify antique cast iron bells?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Look for manufacturer markings including the company name (like C.S.
+            Bell Co. or Meneely Bell Company), place of manufacture, date or
+            foundry number, and size designation. The C.S. Bell Company of
+            Hillsboro, Ohio was one of the most prolific and renowned bell
+            manufacturers.
+      - '@type': Question
+        name: What is the value range for antique cast iron bells?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Antique cast iron bells typically range in value from $120 to $5,000
+            or more, depending on factors such as age, condition, manufacturer,
+            size, and historical significance.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Antique Cast Iron Bells
+    description: Steps to properly identify and authenticate antique cast iron bells
+    step:
+      - '@type': HowToStep
+        name: Check for Manufacturer Markings
+        text: >-
+          Look for cast markings that might include manufacturer name (e.g.,
+          C.S. Bell Co., Meneely Bell Company), place of manufacture (e.g.,
+          Hillsboro, Ohio), date of manufacture or foundry number, and size
+          designation (often a simple number like "#2" or "#3").
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-bell-value/antique-cast-iron-bell-value-image-2_4fRI0W32q.png
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Cast Iron Bells" level="2" >}}

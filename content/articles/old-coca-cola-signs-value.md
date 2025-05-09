@@ -39,9 +39,6 @@ structured_data:
     Comprehensive guide to valuing vintage Coca-Cola signs, covering
     authentication methods, price determinants, market trends, and investment
     potential for collectors and sellers.
-  image:
-    - >-
-      https://ik.imagekit.io/appraisily/SEO/old-coca-cola-signs-value/old-coca-cola-signs-value-image-1_zmalEIemw.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,9 +48,25 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
-  datePublished: '2024-05-31'
-  dateModified: '2024-05-31'
+      width: '600'
+      height: '60'
+  datePublished: '2024-05-31T14:30:00.000Z'
+  dateModified: '2024-05-31T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-coca-cola-signs-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-coca-cola-signs-value/old-coca-cola-signs-value-image-1_zmalEIemw.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare vintage Coca-Cola porcelain sign from the 1930s showing the classic
+      red and white logo with pristine condition
+  keywords: >-
+    old Coca-Cola signs value, vintage Coke sign prices, antique Coca-Cola
+    advertising worth, rare Coca-Cola collectibles, porcelain Coca-Cola sign
+    values, Coca-Cola memorabilia appraisal, authenticating vintage Coke signs
+  articleSection: Advertising Collectibles
 ---
 
 {{< content-modules/section-header title="Introduction to Coca-Cola Sign Collecting" level="2" >}}

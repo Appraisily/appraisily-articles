@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-11-07T14:30:00.000Z'
   dateModified: '2024-11-07T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-mantel-clock-identification/antique-mantel-clock-identification-image-2_ZKKejHpmr.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-mantel-clock-identification/antique-mantel-clock-identification-image-2_ZKKejHpmr.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate Victorian antique mantel clock with brass detailing and porcelain
+      face displaying intricate craftsmanship
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,60 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-mantel-clock-identification'
+  keywords:
+    - antique mantel clock identification
+    - vintage mantel clock authentication
+    - antique clock maker's marks
+    - mantel clock movement types
+    - antique timepiece valuation
+    - collectible mantel clocks
+    - identifying period mantel clocks
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Qualifies as an Antique Mantel Clock?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A genuine antique mantel clock must be at least 100 years old. For
+            mantel clocks, this typically means timepieces from the 19th century
+            or earlier, though some early 20th-century pieces may now qualify.
+            Items less than 100 years old are generally classified as 'vintage'
+            rather than true antiques. This distinction is crucial for both
+            collectors and those seeking accurate valuations.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: Antique Mantel Clock Identification Guide
+    description: >-
+      A comprehensive guide to identifying authentic antique mantel clocks by
+      examining their design styles, age, and characteristics
+    step:
+      - '@type': HowToStep
+        name: Determine the Age
+        text: >-
+          Verify if the clock is at least 100 years old (pre-1924) to qualify as
+          a true antique rather than vintage.
+      - '@type': HowToStep
+        name: Identify the Design Style
+        text: >-
+          Recognize characteristic design elements from different periods such
+          as French Empire & Directoire (1750-1830) which featured classical
+          motifs, ormolu decorations, and mythological figures with visible
+          pendulums and porcelain dials.
+      - '@type': HowToStep
+        name: Examine Materials and Craftsmanship
+        text: >-
+          Inspect the case materials, movement mechanisms, and overall
+          craftsmanship which can indicate the period and authenticity of the
+          mantel clock.
+      - '@type': HowToStep
+        name: Look for Maker's Marks
+        text: >-
+          Search for manufacturer signatures, serial numbers, or distinctive
+          marks that can help attribute the clock to specific makers or regions.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Mantel Clock Identification" level="2" >}}

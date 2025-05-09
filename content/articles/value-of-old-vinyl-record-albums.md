@@ -33,8 +33,15 @@ structured_data:
     Discover how to determine the value of your old vinyl record albums. Learn
     about factors that affect pricing, find rare collectibles, and learn how to
     sell your collection for maximum value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-vinyl-record-albums/value-of-old-vinyl-record-albums-image-1_wfmL-iqHrZ.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-vinyl-record-albums/value-of-old-vinyl-record-albums-image-1_wfmL-iqHrZ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage vinyl record collection with rare albums displayed on wooden
+      shelving
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,6 +56,14 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-old-vinyl-record-albums'
+  about:
+    '@type': Thing
+    name: Vinyl Record Valuation
+    description: Determining the value of vintage vinyl records and record collections
+  keywords: >-
+    vinyl record valuation, vintage album worth, rare vinyl identification,
+    record collecting value guide, selling vinyl collections, vinyl appraisal
+    tips, first pressing records
 ---
 
 ## Introduction: Rediscovering the Worth of Vinyl

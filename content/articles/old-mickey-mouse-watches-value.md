@@ -42,8 +42,15 @@ structured_data:
     Discover the value of old Mickey Mouse watches from brands like Ingersoll,
     Timex, and Seiko. Learn identification tips, price ranges, and what makes
     these Disney timepieces valuable collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-mickey-mouse-watches-value/old-mickey-mouse-watches-value-image-1_TeSAD5ML_M.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-mickey-mouse-watches-value/old-mickey-mouse-watches-value-image-1_TeSAD5ML_M.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage 1933 Mickey Mouse wristwatch with classic leather strap showing
+      Mickey's arms as hour and minute hands
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,41 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-09-13T14:30:00.000Z'
   dateModified: '2023-09-13T14:30:00.000Z'
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What was the original price of a Mickey Mouse watch in 1933?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The original price of a Mickey Mouse watch in 1933 was $3.00, which
+          would be equivalent to approximately $62 in today's dollars.
+    - '@type': Question
+      name: What is the auction record for a vintage Mickey Mouse watch?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The auction record for a vintage Mickey Mouse watch is $6,500,
+          achieved by a mint condition 1933 model.
+    - '@type': Question
+      name: What is the value range for vintage Mickey Mouse watches?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The value range for vintage Mickey Mouse watches is between $15 and
+          $30,000, depending on factors such as age, condition, and brand.
+    - '@type': Question
+      name: When was the first Mickey Mouse watch introduced?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The first Mickey Mouse watch was introduced in 1933 by
+          Ingersoll-Waterbury at the Chicago World's Fair, priced at $3.25. The
+          watch featured Mickey's arms serving as the hour and minute hands and
+          became an instant sensation, helping save the company from bankruptcy
+          during the Great Depression.
 ---
 
 ![Vintage Mickey Mouse wristwatch with leather strap and Mickey's arms as watch hands](https://ik.imagekit.io/appraisily/SEO/old-mickey-mouse-watches-value/old-mickey-mouse-watches-value-image-1_TeSAD5ML_M.png)

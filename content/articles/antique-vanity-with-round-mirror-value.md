@@ -45,18 +45,42 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-06T14:30:00.000Z'
   dateModified: '2023-08-06T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-vanity-with-round-mirror-value/antique-vanity-with-round-mirror-value-image-1_ABK7W8DVK.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-vanity-with-round-mirror-value/antique-vanity-with-round-mirror-value-image-1_ABK7W8DVK.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Elegant Art Deco vanity with round mirror from the 1930s featuring
+      original hardware and finish
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage:
     '@type': WebPage
     '@id': >-
       https://articles.appraisily.com/articles/antique-vanity-with-round-mirror-value
+  about:
+    - '@type': Thing
+      name: Antique Furniture
+      description: >-
+        Historical furniture pieces that are collected and valued for their age,
+        craftsmanship, and design
+    - '@type': Thing
+      name: Vanity Tables
+      description: >-
+        Furniture pieces with mirrors designed for personal grooming and
+        cosmetic storage
+  keywords: >-
+    antique vanity with round mirror value, vintage dressing table worth, Art
+    Deco vanity prices, antique vanity identification, 1930s vanity value,
+    Victorian vanity worth, antique furniture appraisal
 ---
 
 ![Vintage Art Deco vanity with round mirror from the 1930s](https://ik.imagekit.io/appraisily/SEO/antique-vanity-with-round-mirror-value/antique-vanity-with-round-mirror-value-image-1_ABK7W8DVK.png)

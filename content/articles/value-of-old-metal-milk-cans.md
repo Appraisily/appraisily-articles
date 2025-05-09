@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to valuing vintage metal milk cans, with price ranges
     from $30-$300, authentication methods, and factors that determine
     collectible value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-metal-milk-cans/value-of-old-metal-milk-cans-image-1_3pif6HEvC.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-metal-milk-cans/value-of-old-metal-milk-cans-image-1_3pif6HEvC.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic vintage metal milk can with original patina and aged metal
+      finish showing historical dairy farm heritage
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,25 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-12-15T14:30:00.000Z'
   dateModified: '2023-12-15T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-metal-milk-cans'
+  keywords:
+    - vintage milk can value
+    - antique milk can prices
+    - old metal milk can worth
+    - milk can identification
+    - dairy collectibles
+    - farm antique valuation
+    - vintage dairy equipment
+  about:
+    '@type': Thing
+    name: Antique Milk Cans
+    description: >-
+      Historical metal containers used for transporting and storing milk on
+      dairy farms, now valued as collectibles and decorative items.
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
 ---
 
 {{< content-modules/section-header title="Introduction to Vintage Milk Cans" level="2" >}}

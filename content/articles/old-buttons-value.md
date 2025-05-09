@@ -44,14 +44,32 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-28T14:30:00.000Z'
   dateModified: '2023-06-28T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-buttons-value/old-buttons-value-image-1_UM3BAzLC5.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-buttons-value/old-buttons-value-image-1_UM3BAzLC5.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique buttons collection showcasing various materials, designs and
+      historical periods
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-buttons-value'
+  keywords:
+    - old buttons value
+    - antique button collecting
+    - valuable vintage buttons
+    - buttonology
+    - rare button materials
+    - button collecting guide
+    - antique button identification
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Button Collecting" level="2" >}}

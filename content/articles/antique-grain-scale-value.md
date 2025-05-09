@@ -44,14 +44,46 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-25T14:30:00.000Z'
   dateModified: '2023-07-25T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-grain-scale-value/antique-grain-scale-value-image-1_ICDI6nd5d.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-grain-scale-value/antique-grain-scale-value-image-1_ICDI6nd5d.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage brass balance grain scale with decorative weighing pans and
+      original weights
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-grain-scale-value'
+  keywords:
+    - antique grain scale value
+    - vintage weighing scales
+    - agricultural antiques
+    - antique balance scales
+    - farm collectibles
+    - grain scale identification
+    - antique scale prices
+  articleSection: Antiques
+  about:
+    '@type': Thing
+    name: Antique Grain Scales
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-title
+      - .article-content
+  inLanguage: en-US
 ---
 
 ## Introduction to Antique Grain Scales

@@ -39,8 +39,15 @@ structured_data:
     Discover the true value of old clawfoot tubs, from identification to
     pricing. Learn what makes these vintage bathroom fixtures worth $50-$3000 in
     today's collectibles market.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-clawfoot-tub-value/old-clawfoot-tub-value-image-1_2FaSHa1mx.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-clawfoot-tub-value/old-clawfoot-tub-value-image-1_2FaSHa1mx.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Restored antique cast iron clawfoot bathtub with ornate Victorian feet and
+      pristine white porcelain interior
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +57,28 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-11-12T14:30:00.000Z'
   dateModified: '2023-11-12T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-clawfoot-tub-value'
+  keywords:
+    - old clawfoot tub value
+    - antique bathtub worth
+    - vintage clawfoot tub prices
+    - cast iron tub valuation
+    - Victorian bathtub identification
+    - clawfoot tub restoration value
+    - collectible bathroom fixtures
+  articleSection: Antiques
+  about:
+    '@type': Thing
+    name: Antique Clawfoot Bathtubs
+    description: >-
+      Historical bathroom fixtures from the Victorian and Edwardian eras valued
+      for their craftsmanship and design
 ---
 
 ![Antique cast iron clawfoot bathtub with ornate feet and white porcelain interior](https://ik.imagekit.io/appraisily/SEO/old-clawfoot-tub-value/old-clawfoot-tub-value-image-1_2FaSHa1mx.png)

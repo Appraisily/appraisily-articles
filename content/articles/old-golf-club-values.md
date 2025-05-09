@@ -44,14 +44,28 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-10-28T14:30:00.000Z'
   dateModified: '2024-10-28T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-golf-club-values/old-golf-club-values-image-1_8IsfRl_wF.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-golf-club-values/old-golf-club-values-image-1_8IsfRl_wF.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable antique golf clubs including hickory shafts and
+      collectible putters from various eras
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-golf-club-values'
+  keywords: >-
+    old golf club values, antique golf club identification, vintage golf club
+    worth, collectible hickory golf clubs, rare golf club prices, golf
+    memorabilia appraisal, valuable golf putters
 ---
 
 Did you recently inherit a set of old golf clubs or stumble upon some vintage putters at a garage sale? You might be wondering if those dusty clubs tucked away in your attic are merely outdated sports equipment or valuable collectibles worth a small fortune. 

@@ -39,8 +39,15 @@ structured_data:
     Learn how to get an accurate Cartier appraisal for your jewelry, watches,
     and accessories. Expert tips on authentication, valuation methods, and where
     to sell Cartier pieces for the best price.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/cartier-appraisal/cartier-appraisal-image-1_efmj07Bmh.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/cartier-appraisal/cartier-appraisal-image-1_efmj07Bmh.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional appraiser examining authentic Cartier jewelry collection with
+      loupe and authentication tools
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/cartier-appraisal'
+  about:
+    '@type': Thing
+    name: Cartier luxury items
+    description: >-
+      Luxury jewelry, watches, and accessories created by Cartier, a premier
+      luxury brand founded in 1847
+  keywords: >-
+    cartier appraisal, authenticate cartier jewelry, cartier watch valuation,
+    vintage cartier value, cartier authentication marks, sell cartier pieces,
+    luxury jewelry appraisal
 ---
 
 # Cartier Appraisal Guide: How to Value & Authenticate Your Luxury Items

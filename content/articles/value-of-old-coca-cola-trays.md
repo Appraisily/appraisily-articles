@@ -42,8 +42,15 @@ structured_data:
     Discover the true value of your vintage Coca-Cola trays. Learn about
     identification, pricing factors, and what makes these collectibles worth
     hundreds or even thousands of dollars.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-coca-cola-trays/value-of-old-coca-cola-trays-image-2_CJo-cRzYk.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-coca-cola-trays/value-of-old-coca-cola-trays-image-2_CJo-cRzYk.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic vintage Coca-Cola serving trays from different eras showing
+      various designs, conditions and collectible values
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,40 @@ structured_data:
       url: 'https://appraisily.com/images/logo.png'
   datePublished: '2023-09-11T14:30:00.000Z'
   dateModified: '2023-09-11T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Coca-Cola Collectibles
+    description: Vintage advertising trays and memorabilia from the Coca-Cola company
+  keywords:
+    - vintage coca cola tray values
+    - coca cola tray identification
+    - antique coca cola trays worth
+    - coca cola collectibles price guide
+    - rare coca cola advertising trays
+    - authentic coca cola memorabilia
+    - coca cola tray authentication
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles Valuation Guides
+    url: 'https://appraisily.com/collectibles/'
+  hasPart:
+    - '@type': WebPageElement
+      isPartOf:
+        '@id': 'https://appraisily.com/value-of-old-coca-cola-trays/'
+      name: The History of Coca-Cola Serving Trays
+  mentions:
+    - '@type': Thing
+      name: Coca-Cola
+      sameAs: 'https://www.coca-cola.com/'
+    - '@type': Thing
+      name: Advertising Collectibles
+  timeRequired: PT10M
+  accessibilityFeature:
+    - images
+    - structuredNavigation
+  accessibilityHazard:
+    - noFlashingHazard
+  educationalUse: reference
 ---
 
 ## Introduction to Vintage Coca-Cola Trays

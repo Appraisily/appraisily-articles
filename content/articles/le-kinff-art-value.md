@@ -37,8 +37,15 @@ structured_data:
   description: >-
     Discover the true value of Linda Le Kinff art with expert price ranges,
     authentication tips, and market insights for collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/le-kinff-art-value/le-kinff-art-value-image-1_mHBK2_aUm.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/le-kinff-art-value/le-kinff-art-value-image-1_mHBK2_aUm.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vibrant Linda Le Kinff painting featuring elegant female figure with
+      distinctive colorful artistic style
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/le-kinff-art-value'
+  about:
+    '@type': Thing
+    name: Linda Le Kinff Art
+    description: >-
+      Contemporary French art by Linda Le Kinff known for vibrant, elegant
+      female figures and distinct artistic style
+  keywords: >-
+    Linda Le Kinff art value, Le Kinff painting prices, Linda Le Kinff
+    authentication, Le Kinff serigraph value, collecting Linda Le Kinff, Le
+    Kinff art market, French contemporary artist value
 ---
 
 ## Introduction to Linda Le Kinff and Her Artistic Value

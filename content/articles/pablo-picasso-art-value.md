@@ -48,17 +48,43 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-16T14:30:00.000Z'
   dateModified: '2023-11-16T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/pablo-picasso-art-value/pablo-picasso-art-value-image-1_kT2JFHW47.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/pablo-picasso-art-value/pablo-picasso-art-value-image-1_kT2JFHW47.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Pablo Picasso masterpiece being sold at a prestigious auction house with
+      bidders competing for the valuable artwork
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/pablo-picasso-art-value'
+  about:
+    '@type': Thing
+    name: Pablo Picasso Art Value
+    description: >-
+      Market valuation and investment potential of Pablo Picasso's artworks
+      including paintings, prints, and ceramics
+  keywords: >-
+    Pablo Picasso art value, Picasso painting prices, most expensive Picasso
+    artwork, Picasso print valuation, Picasso ceramics worth, Picasso investment
+    potential, Picasso auction records
+  articleSection: Fine Art
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - h1
+      - h2
+      - h3
 ---
 
 ![Pablo Picasso artwork being auctioned at a high-profile sale](https://ik.imagekit.io/appraisily/SEO/pablo-picasso-art-value/pablo-picasso-art-value-image-1_kT2JFHW47.png)

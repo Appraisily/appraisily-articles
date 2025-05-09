@@ -86,7 +86,33 @@ function getUrlPath(relativePath) {
     urlPath = '/';
   }
   
+  // Ensure forward slashes for URLs (replace backslashes if any)
+  urlPath = urlPath.replace(/\\/g, '/');
+  
   return urlPath;
+}
+
+/**
+ * Recursively find all Markdown files in a directory
+ * @param {string} dir - Directory to search
+ * @returns {string[]} - Array of file paths
+ */
+function findMarkdownFiles(dir) {
+  let results = [];
+  const items = fs.readdirSync(dir);
+  
+  for (const item of items) {
+    const itemPath = path.join(dir, item);
+    const stat = fs.statSync(itemPath);
+    
+    if (stat.isDirectory()) {
+      results = results.concat(findMarkdownFiles(itemPath));
+    } else if (item.endsWith('.md')) {
+      results.push(itemPath);
+    }
+  }
+  
+  return results;
 }
 
 /**
@@ -102,13 +128,13 @@ async function generateSitemap() {
     
     console.log('Generating enhanced sitemap.xml...');
     
-    // Recursively find all markdown files
-    const { stdout } = await execPromise(`find ${CONTENT_DIR} -name "*.md"`);
-    const mdFiles = stdout.trim().split('\n').filter(Boolean);
+    // Find all markdown files using cross-platform method
+    const mdFiles = findMarkdownFiles(CONTENT_DIR);
+    console.log(`Found ${mdFiles.length} markdown files`);
     
     // Start building sitemap XML
     let sitemapXml = '<?xml version="1.0" encoding="UTF-8"?>\n';
-    sitemapXml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
+    sitemapXml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">\n';
     
     // Process each file
     for (const file of mdFiles) {
@@ -117,16 +143,11 @@ async function generateSitemap() {
       const lastmod = await getLastModified(file);
       const priority = calculatePriority(urlPath);
       
-      // Skip drafts and excluded files
-      const content = await readFile(file, 'utf8');
-      if (content.includes('draft: true')) {
-        continue;
-      }
-      
       // Add URL entry
       sitemapXml += '  <url>\n';
       sitemapXml += `    <loc>${BASE_URL}${urlPath}</loc>\n`;
       sitemapXml += `    <lastmod>${lastmod}</lastmod>\n`;
+      sitemapXml += `    <changefreq>weekly</changefreq>\n`;
       sitemapXml += `    <priority>${priority.toFixed(1)}</priority>\n`;
       sitemapXml += '  </url>\n';
     }

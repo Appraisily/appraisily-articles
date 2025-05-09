@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-05-01T14:30:00.000Z'
   dateModified: '2024-05-01T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-saddle-values/antique-saddle-values-image-1_TgYKV-hYe.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-saddle-values/antique-saddle-values-image-1_TgYKV-hYe.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage Western saddle with intricate leather tooling and decorative
+      silver conchos
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,30 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-saddle-values'
+  about:
+    '@type': Thing
+    name: Antique Saddles
+    description: >-
+      Historical riding equipment including Western, English, military, and
+      decorative saddles valued for their craftsmanship and historical
+      significance
+  keywords: >-
+    antique saddle values, vintage western saddle worth, antique english saddle
+    identification, military saddle appraisal, collectible saddle makers, saddle
+    authentication guide, rare saddle valuation
+  articleSection: Equestrian Collectibles
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com/'
 ---
 
 ![Antique Western saddle with ornate leather tooling and silver accents](https://ik.imagekit.io/appraisily/SEO/antique-saddle-values/antique-saddle-values-image-1_TgYKV-hYe.png)

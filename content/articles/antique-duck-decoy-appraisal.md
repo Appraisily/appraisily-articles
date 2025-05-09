@@ -38,8 +38,6 @@ structured_data:
     Learn how to determine the value of antique duck decoys with our
     comprehensive guide on authentication, identification, and professional
     appraisal methods.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-duck-decoy-appraisal/antique-duck-decoy-appraisal-image-1_W-5G5LAQ9.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +50,45 @@ structured_data:
   datePublished: '2023-11-07T14:30:00.000Z'
   dateModified: '2023-11-07T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-duck-decoy-appraisal'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-duck-decoy-appraisal/antique-duck-decoy-appraisal-image-1_W-5G5LAQ9.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique wooden duck decoys displaying various carving styles,
+      patinas, and collector value
+  keywords:
+    - antique duck decoy appraisal
+    - vintage decoy values
+    - collectible duck decoys
+    - wooden decoy identification
+    - duck decoy makers
+    - folk art decoys
+    - rare decoy valuation
+  about:
+    '@type': Thing
+    name: Antique Duck Decoys
+    description: >-
+      Collectible wooden waterfowl decoys that represent American folk art and
+      hunting traditions
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the historical timeline of duck decoys?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Duck decoys evolved from Native American origins (pre-1800s) using
+            reeds and natural materials, to early handcrafted period (1800-1875)
+            with regional characteristics, followed by the Golden Age
+            (1875-1950) with master carvers and commercial production, then
+            transition to mass production (1950-1960s) using plastic and
+            papier-mâché, and finally emerging as collectible folk art
+            (1970s-Present) with specialized auction sales.
 ---
 
 ## Introduction to Antique Duck Decoy Appraisal

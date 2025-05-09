@@ -39,8 +39,15 @@ structured_data:
     Discover what makes old Chinese silver coins valuable, from imperial dragons
     to republic dollars. Learn identification, authentication, and current
     market values for these rare treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-chinese-silver-coins-value/old-chinese-silver-coins-value-image-1_uXm8ZUB3G.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-chinese-silver-coins-value/old-chinese-silver-coins-value-image-1_uXm8ZUB3G.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique Chinese silver coins featuring Dragon Dollars and
+      Republic-era designs with imperial symbols
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,16 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-chinese-silver-coins-value'
+  about:
+    '@type': Thing
+    name: Chinese Silver Coins
+    description: >-
+      Historical silver coins from China including Qing Dynasty Dragon Dollars
+      and Republic-era coins
+  keywords: >-
+    old chinese silver coins value, chinese dragon dollar value, qing dynasty
+    silver coins, republic of china silver dollar, fatman dollar value, chinese
+    numismatics, antique chinese currency
 ---
 
 {{< content-modules/section-header title="Introduction to Old Chinese Silver Coins" level="2" >}}

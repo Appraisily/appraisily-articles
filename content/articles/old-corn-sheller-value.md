@@ -39,8 +39,15 @@ structured_data:
     Discover the value of antique corn shellers, from hand-cranked models to
     rare manufacturer pieces. Learn identification tips, price ranges, and
     factors that affect collectible corn sheller values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-corn-sheller-value/old-corn-sheller-value-image-1_28725Bt1W.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-corn-sheller-value/old-corn-sheller-value-image-1_28725Bt1W.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique cast iron hand-cranked corn sheller with wooden base showing
+      patina and original mechanisms
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,27 @@ structured_data:
   datePublished: '2023-11-12T14:30:00.000Z'
   dateModified: '2023-11-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-corn-sheller-value'
+'@graph':
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is the typical price range for antique corn shellers?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The typical price range for common antique corn sheller models in
+            good condition is $100-$325, while premium specimens from rare
+            manufacturers in excellent condition can fetch between $350-$675.
+      - '@type': Question
+        name: When were corn shellers primarily produced?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Corn shellers were primarily produced during the period from 1839 to
+            the 1940s, with the first patented mechanical corn sheller
+            introduced in 1839 and the golden age of corn shellers occurring
+            between the 1880s and 1920s.
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Corn Shellers" level="2" >}}

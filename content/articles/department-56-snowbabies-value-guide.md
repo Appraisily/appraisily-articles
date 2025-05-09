@@ -39,8 +39,6 @@ structured_data:
     Discover the value of Department 56 Snowbabies with our comprehensive guide
     covering rare pieces, pricing factors, identification tips, and current
     market values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/department-56-snowbabies-value-guide/department-56-snowbabies-value-guide-image-1_nqMRoQTWk.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +52,30 @@ structured_data:
   dateModified: '2023-06-13T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/department-56-snowbabies-value-guide
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/department-56-snowbabies-value-guide/department-56-snowbabies-value-guide-image-1_nqMRoQTWk.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable Department 56 Snowbabies porcelain figurines showcasing babies in
+      snow-white winter outfits
+  keywords:
+    - Department 56 Snowbabies value
+    - rare Snowbabies figurines
+    - Snowbabies price guide
+    - collectible Snowbabies worth
+    - vintage Snowbabies identification
+    - valuable Department 56 collectibles
+    - Snowbabies market prices
+  about:
+    '@type': Thing
+    name: Department 56 Snowbabies
+    description: >-
+      Porcelain figurines depicting babies in snow-white outfits engaging in
+      winter activities, first introduced in 1987 by Department 56.
+  collectionPage: 'https://department56.com/collections/snowbabies-classic-collection'
 ---
 
 {{< content-modules/section-header title="Introduction to Department 56 Snowbabies" level="2" >}}

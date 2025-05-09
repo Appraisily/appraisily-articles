@@ -39,8 +39,15 @@ structured_data:
     Learn how to value your antiques accurately with our comprehensive guide.
     Discover professional appraisal methods, online resources, and expert tips
     for determining what your cherished items are truly worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-my-antique/value-my-antique-image-1_7dP9bnQqj.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-my-antique/value-my-antique-image-1_7dP9bnQqj.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antiques being professionally appraised including
+      furniture, porcelain, and decorative heirlooms
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,80 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2024-07-14T14:30:00.000Z'
   dateModified: '2024-07-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-my-antique'
+  keywords:
+    - value my antique
+    - antique appraisal methods
+    - how to determine antique worth
+    - online antique valuation
+    - antique price guide
+    - family heirloom valuation
+    - professional antique assessment
+  about:
+    '@type': Thing
+    name: Antique Valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What factors determine an antique's value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The value of an antique is determined by several key factors: age,
+            rarity, condition, provenance, historical significance, and current
+            market demand. These elements work together to establish what
+            collectors and appraisers consider when determining worth.
+      - '@type': Question
+        name: What are the different types of antique valuations?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            There are four main types of valuations: 1) Insurance valuation: The
+            cost to replace the item with one of similar quality and age, 2)
+            Market valuation: What the item might sell for in the current
+            market, 3) Auction valuation: The estimated price range at auction,
+            4) Retail valuation: The price if purchased from a dealer.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Value My Antiques
+    description: >-
+      A comprehensive guide to determining the worth of your antiques using
+      professional methods and resources
+    image:
+      '@type': ImageObject
+      url: >-
+        https://ik.imagekit.io/appraisily/SEO/value-my-antique/value-my-antique-image-1_7dP9bnQqj.png
+      width: '1200'
+      height: '630'
+    step:
+      - '@type': HowToStep
+        name: Understand Antique Valuation Factors
+        text: >-
+          Before valuing antiques, understand the key factors that affect value:
+          age, rarity, condition, provenance, historical significance, and
+          current market demand.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/value-my-antique/value-my-antique-image-1_7dP9bnQqj.png
+      - '@type': HowToStep
+        name: Choose the Right Valuation Type
+        text: >-
+          Determine which type of valuation you need: insurance valuation,
+          market valuation, auction valuation, or retail valuation.
+      - '@type': HowToStep
+        name: Seek Professional Appraisal
+        text: >-
+          For valuable or rare items, get an in-person appraisal from a
+          certified professional who has specialized knowledge in specific
+          categories.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/value-my-antique/value-my-antique-image-2_guFaBYgva.png
 ---
 
 Do you have antiques tucked away in your attic or inherited family heirlooms with unknown value? Understanding the true worth of your antiques is essential whether you're planning to sell, insure, or simply satisfy your curiosity about family treasures.

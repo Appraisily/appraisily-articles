@@ -45,14 +45,42 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-11-05T14:30:00.000Z'
   dateModified: '2023-11-05T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-spice-shaving-mug-value/old-spice-shaving-mug-value-image-1_3oXH3vxH5B.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-spice-shaving-mug-value/old-spice-shaving-mug-value-image-1_3oXH3vxH5B.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic vintage Old Spice shaving mug featuring the Grand Turk ship
+      design with original packaging
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-spice-shaving-mug-value'
+  keywords:
+    - Old Spice shaving mug value
+    - vintage Old Spice collectibles
+    - Grand Turk ship mug
+    - Friendship ship mug
+    - Shulton Old Spice pottery
+    - rare shaving mug prices
+    - nautical collectible identification
+  articleSection: Collectibles
+  about:
+    '@type': Thing
+    name: Old Spice Shaving Mugs
+    description: >-
+      Vintage ceramic vessels featuring nautical designs produced from the 1930s
+      through the 1990s
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  timeRequired: PT10M
 ---
 
 {{< content-modules/section-header title="Introduction to Old Spice Shaving Mugs" level="2" >}}

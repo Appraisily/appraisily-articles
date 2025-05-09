@@ -39,8 +39,15 @@ structured_data:
     Discover the surprising value of old Hot Wheels cars. Learn which vintage
     models are worth hundreds or even thousands and how to identify valuable Hot
     Wheels in your collection.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-hot-wheels-value/old-hot-wheels-value-image-1_5KD4B6s9N.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-hot-wheels-value/old-hot-wheels-value-image-1_5KD4B6s9N.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable vintage Hot Wheels cars from the original redline era
+      worth thousands to collectors
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,50 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-hot-wheels-value'
+  keywords:
+    - old hot wheels value
+    - vintage hot wheels worth
+    - rare hot wheels cars
+    - redline hot wheels value
+    - hot wheels price guide
+    - valuable die-cast cars
+    - collectible mattel cars
+  about:
+    '@type': Thing
+    name: Hot Wheels Collectibles
+    description: >-
+      Vintage and collectible Hot Wheels die-cast cars, particularly those from
+      the redline era (1968-1977)
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes Old Hot Wheels Valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several factors determine Hot Wheels value including age and rarity
+            (especially original 'Sweet 16' release from 1968 and 'redlines'
+            from 1968-1977), condition (mint condition with no damage and
+            original packaging commands higher prices), color variations
+            (limited production colors can be extremely valuable), and
+            manufacturing errors (factory mistakes often command premium prices
+            among serious collectors).
+      - '@type': Question
+        name: How does condition affect Hot Wheels value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Condition significantly impacts value. Hot Wheels in mint condition
+            with no paint chips, wheel damage, or play wear will be worth
+            substantially more than those showing signs of use. Cars still in
+            their original packaging (known as 'carded' or 'in blister pack')
+            can be worth 2-3 times more than the same car loose.
 ---
 
 ![Collection of rare and valuable vintage Hot Wheels cars from the original redline era](https://ik.imagekit.io/appraisily/SEO/old-hot-wheels-value/old-hot-wheels-value-image-1_5KD4B6s9N.png)

@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-06-14T14:30:00.000Z'
   dateModified: '2024-06-14T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-vhs-movies/value-of-old-vhs-movies-image-1_5Gifigdil.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-vhs-movies/value-of-old-vhs-movies-image-1_5Gifigdil.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable vintage VHS tapes including horror movies, Disney
+      classics, and sealed collectibles from the 1980s-90s
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,91 @@ structured_data:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-vhs-movies'
+  keywords:
+    - valuable VHS tapes
+    - rare VHS movies worth money
+    - VHS collector value guide
+    - most expensive vintage VHS
+    - Disney Black Diamond VHS value
+    - horror VHS collectibles
+    - sealed VHS tape worth
+  about:
+    '@type': Thing
+    name: VHS Tape Collecting
+    description: >-
+      Information about valuable and collectible VHS tapes from the 1980s and
+      1990s
+  mentions:
+    - '@type': Movie
+      name: Halloween II
+      dateCreated: '1981'
+    - '@type': Movie
+      name: A Nightmare on Elm Street
+      dateCreated: '1984'
+    - '@type': Movie
+      name: 'Back to the Future: Part II'
+      dateCreated: '1989'
+    - '@type': Movie
+      name: The Evil Dead
+      dateCreated: '1981'
+    - '@type': Movie
+      name: The Texas Chain Saw Massacre
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Halloween II (1981)
+      description: 'Factory sealed, graded 9.2/10 by CGC'
+      item:
+        '@type': Product
+        name: Halloween II VHS
+        offers:
+          '@type': Offer
+          price: '15000'
+          priceCurrency: USD
+    - '@type': ListItem
+      position: 2
+      name: A Nightmare on Elm Street (1984)
+      description: 'Factory sealed, first release'
+      item:
+        '@type': Product
+        name: A Nightmare on Elm Street VHS
+        offers:
+          '@type': Offer
+          price: '15000'
+          priceCurrency: USD
+    - '@type': ListItem
+      position: 3
+      name: 'Back to the Future: Part II (1989)'
+      description: 'Factory sealed, pristine condition'
+      item:
+        '@type': Product
+        name: 'Back to the Future: Part II VHS'
+        offers:
+          '@type': Offer
+          price: '16250'
+          priceCurrency: USD
+    - '@type': ListItem
+      position: 4
+      name: The Evil Dead (1981)
+      description: 'Factory sealed, original release'
+      item:
+        '@type': Product
+        name: The Evil Dead VHS
+        offers:
+          '@type': Offer
+          price: '17500'
+          priceCurrency: USD
+    - '@type': ListItem
+      position: 5
+      name: First Pressing of "The Texas Chain Saw Massacre"
+      description: Extremely rare sealed first release
+      item:
+        '@type': Product
+        name: The Texas Chain Saw Massacre VHS
+        offers:
+          '@type': Offer
+          price: '25000'
+          priceCurrency: USD
 ---
 
 {{< content-modules/section-header title="Introduction to VHS Tape Collecting" level="2" >}}

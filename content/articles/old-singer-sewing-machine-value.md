@@ -43,8 +43,6 @@ structured_data:
     Discover the value of your antique Singer sewing machine with our
     comprehensive guide. Learn how to identify valuable models, determine
     condition, and find collectors market prices.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machine-value/old-singer-sewing-machine-value-image-1_ANMTErxAQ.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +54,48 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-05-17T14:30:00.000Z'
   dateModified: '2024-05-17T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machine-value/old-singer-sewing-machine-value-image-1_ANMTErxAQ.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Singer sewing machine with decorative gold decals in original
+      wooden cabinet
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-singer-sewing-machine-value'
+  keywords:
+    - old Singer sewing machine value
+    - antique Singer sewing machine worth
+    - vintage Singer Featherweight value
+    - Singer 66 value
+    - Singer treadle machine prices
+    - collectible Singer models
+    - Singer serial number dating
+  articleSection: Antiques
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What factors determine an antique Singer sewing machine's value?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        The value of an antique Singer sewing machine is determined by its
+        model, age, condition, rarity, and current market demand. Particularly
+        collectible models like the Featherweight 221, ornate treadle machines,
+        and machines with unique decals or features command higher prices.
+  - '@type': Question
+    name: When were Singer sewing machines first produced?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Singer sewing machines were first produced when Isaac Merritt Singer
+        founded the I.M. Singer & Company in 1851, revolutionizing home sewing
+        with machines that were more practical and accessible than earlier
+        designs.
 ---
 
 ![Vintage Singer sewing machine with ornate decals in wooden cabinet](https://ik.imagekit.io/appraisily/SEO/old-singer-sewing-machine-value/old-singer-sewing-machine-value-image-1_ANMTErxAQ.png)

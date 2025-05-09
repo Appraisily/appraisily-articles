@@ -39,8 +39,15 @@ structured_data:
     Learn how to identify antique crosscut saws with our comprehensive guide
     covering tooth patterns, manufacturer marks, dating methods, and current
     market values.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-crosscut-saw-identification/antique-crosscut-saw-identification-image-1_LC_u-hpqIB.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-crosscut-saw-identification/antique-crosscut-saw-identification-image-1_LC_u-hpqIB.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique two-man crosscut saw with wooden handles and distinctive tooth
+      pattern from early American logging era
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,44 @@ structured_data:
   datePublished: '2023-09-24T14:30:00.000Z'
   dateModified: '2023-09-24T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-crosscut-saw-identification'
+  about:
+    '@type': Thing
+    name: Antique Crosscut Saws
+    description: >-
+      Historical logging and woodworking tools used before power tools became
+      commonplace
+  keywords: >-
+    antique crosscut saw identification, vintage logging tool values, two-man
+    crosscut saw dating, collectible saw markings, Disston crosscut saw value
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: >-
+          What is the difference between one-person and two-person crosscut
+          saws?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            One-Person Crosscut Saws typically measure 3-4 feet in length with
+            an asymmetrical blade design and a single handle. They were used for
+            smaller cutting tasks and feature a more curved blade. Two-Person
+            Crosscut Saws, also known as 'misery whips' by lumberjacks,
+            generally range from 5-12 feet in length with handles at both ends.
+            They were the primary tool for felling large trees and cutting logs
+            before chainsaws became widespread.
+      - '@type': Question
+        name: What is the difference between bucking and felling saws?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Felling Saws were designed specifically for cutting down standing
+            trees. These typically have a concave back (the edge opposite the
+            teeth) to provide clearance so the saw doesn't bind in the kerf.
+            Vintage felling saws often have one handle hole in each end. Bucking
+            Saws were used for cutting logs into sections after the tree was
+            felled. These saws generally have a straighter back.
 ---
 
 Antique crosscut saws represent an important chapter in American logging and woodworking history. These impressive tools, often stretching six feet or longer, were essential for the timber industry before power tools became commonplace. Today, these historical implements have become coveted collectors' items, decorative pieces, and in some cases, working tools for traditional woodcraft enthusiasts.

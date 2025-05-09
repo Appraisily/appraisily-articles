@@ -1,42 +1,109 @@
 ---
-title: "Sotheby's Free Art Appraisal Guide: How It Works & What to Expect"
-description: "Discover how Sotheby's free art appraisal service works, what to expect from the process, alternatives for valuing your artwork, and expert tips for getting the most accurate assessment."
-slug: "free-art-appraisal-sothebys"
-date: 2023-10-12T10:30:00-04:00
-lastmod: 2023-10-12T10:30:00-04:00
+title: 'Sotheby''s Free Art Appraisal Guide: How It Works & What to Expect'
+description: >-
+  Discover how Sotheby's free art appraisal service works, what to expect from
+  the process, alternatives for valuing your artwork, and expert tips for
+  getting the most accurate assessment.
+slug: free-art-appraisal-sothebys
+date: 2023-10-12T14:30:00.000Z
+lastmod: 2023-10-12T14:30:00.000Z
 draft: false
-featured_image: "https://ik.imagekit.io/appraisily/SEO/free-art-appraisal-sothebys/free-art-appraisal-sotheby-s-image-1_28-iR7eiFi.png"
-image_alt: "Sotheby's auction house gallery with art appraisal taking place"
-category: "Art"
-type: "article"
-author: "Appraisily Team"
+featured_image: >-
+  https://ik.imagekit.io/appraisily/SEO/free-art-appraisal-sothebys/free-art-appraisal-sotheby-s-image-1_28-iR7eiFi.png
+image_alt: Sotheby's auction house gallery with art appraisal taking place
+category: Art
+type: article
+author: Appraisily Team
 featured: true
-meta_title: "Sotheby's Free Art Appraisal Service: Complete Guide & Alternatives"
-meta_description: "Learn how Sotheby's complimentary art valuation works, submission process, limitations, and when to consider paid professional appraisals instead."
-canonical_url: "https://appraisily.com/free-art-appraisal-sothebys/"
-keywords: "free art appraisal, Sotheby's valuation, art authentication, online art appraisal, Christie's appraisal, auction house estimates, art value assessment, fine art valuation"
-structured_data: |
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Sotheby's Free Art Appraisal Guide: How It Works & What to Expect",
-    "description": "Discover how Sotheby's free art appraisal service works, what to expect from the process, alternatives for valuing your artwork, and expert tips for getting the most accurate assessment.",
-    "image": "https://ik.imagekit.io/appraisily/SEO/free-art-appraisal-sothebys/free-art-appraisal-sotheby-s-image-1_28-iR7eiFi.png",
-    "author": {
-      "@type": "Organization",
-      "name": "Appraisily Team"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Appraisily",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://appraisily.com/logo.png"
-      }
-    },
-    "datePublished": "2023-10-12T10:30:00-04:00",
-    "dateModified": "2023-10-12T10:30:00-04:00"
-  }
+meta_title: 'Sotheby''s Free Art Appraisal Service: Complete Guide & Alternatives'
+meta_description: >-
+  Learn how Sotheby's complimentary art valuation works, submission process,
+  limitations, and when to consider paid professional appraisals instead.
+canonical_url: 'https://appraisily.com/free-art-appraisal-sothebys/'
+keywords: >-
+  free art appraisal, Sotheby's valuation, art authentication, online art
+  appraisal, Christie's appraisal, auction house estimates, art value
+  assessment, fine art valuation
+structured_data:
+  '@context': 'https://schema.org'
+  '@type': Article
+  headline: 'Sotheby''s Free Art Appraisal Guide: How It Works & What to Expect'
+  description: >-
+    Discover how Sotheby's free art appraisal service works, what to expect from
+    the process, alternatives for valuing your artwork, and expert tips for
+    getting the most accurate assessment.
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-art-appraisal-sothebys/free-art-appraisal-sotheby-s-image-1_28-iR7eiFi.png
+    width: '1200'
+    height: '630'
+    caption: Sotheby's auction house gallery with art appraisal taking place
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: 'https://appraisily.com/logo.png'
+  datePublished: '2023-10-12T14:30:00.000Z'
+  dateModified: '2023-10-12T14:30:00.000Z'
+  mainEntityOfPage: 'https://appraisily.com/free-art-appraisal-sothebys/'
+  keywords: >-
+    free art appraisal, Sotheby's valuation, art authentication, online art
+    appraisal, Christie's appraisal, auction house estimates, art value
+    assessment, fine art valuation
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Submit Your Artwork to Sotheby's for Free Valuation
+  description: >-
+    Step-by-step guide to submitting your artwork for Sotheby's free appraisal
+    service
+  step:
+    - '@type': HowToStep
+      name: Visit Sotheby's Sell Page
+      text: Navigate to Sotheby's official selling portal
+      url: 'https://www.sothebys.com/en/sell'
+    - '@type': HowToStep
+      name: Create an Account
+      text: Sign up or log in to your Sotheby's account
+    - '@type': HowToStep
+      name: Complete the Submission Form
+      text: Provide detailed information about your item
+    - '@type': HowToStep
+      name: Upload Quality Photos
+      text: Include clear images from multiple angles
+    - '@type': HowToStep
+      name: Submit and Wait
+      text: 'After submission, wait for specialists to review your item'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-art-appraisal-sothebys/free-art-appraisal-sotheby-s-image-2_PoXB-gWN8.png
+    width: '1200'
+    height: '630'
+    caption: Person submitting art photos to Sotheby's online valuation system
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What does Sotheby's free appraisal service actually offer?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Sotheby's free valuation service is primarily designed as a
+          preliminary step for potential consignors—people who may want to sell
+          their items through Sotheby's auctions. While technically free of
+          charge, this service comes with several important caveats: it's
+          selective (specialists only provide estimates for items they consider
+          suitable for their sales), preliminary (not formal appraisals with
+          detailed documentation), sales-oriented (primarily to identify items
+          Sotheby's might want to auction), and offers no guarantee (not all
+          submissions receive responses or valuations).
 ---
 
 ## Understanding Sotheby's Free Art Appraisal Service

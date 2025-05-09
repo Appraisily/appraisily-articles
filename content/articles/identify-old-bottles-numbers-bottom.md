@@ -41,8 +41,15 @@ structured_data:
     Learn how to identify old bottles by numbers on the bottom. Our
     comprehensive guide explains bottle base codes, manufacturer marks, and what
     those mysterious mold numbers really mean.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identify-old-bottles-numbers-bottom/identify-old-bottles-numbers-bottom-image-1_00PfW-22K.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identify-old-bottles-numbers-bottom/identify-old-bottles-numbers-bottom-image-1_00PfW-22K.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage glass bottles showing numerical identification codes and
+      manufacturer marks on their bases
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,8 +59,15 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-20T14:30:00.000Z'
   dateModified: '2023-07-20T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/identify-old-bottles-numbers-bottom'
+  keywords: >-
+    bottle bottom numbers, antique bottle identification, glass bottle date
+    codes, bottle mold numbers, bottle maker's marks, vintage bottle collecting,
+    bottle base identification
 ---
 
 Discovering an old bottle with mysterious numbers on the bottom can feel like finding a secret code. These embossed digits and symbols are more than just manufacturing quirks—they're valuable clues that can help you identify a bottle's age, origin, and potential value. Whether you're a seasoned collector or just curious about an old bottle you've found, understanding how to "read" these bottom marks is essential for proper identification.

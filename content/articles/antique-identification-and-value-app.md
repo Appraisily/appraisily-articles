@@ -44,13 +44,30 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-01T14:30:00.000Z'
   dateModified: '2023-09-01T14:30:00.000Z'
-  image: 'https://ik.imagekit.io/yourpathhere/antiques-app-main.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://ik.imagekit.io/yourpathhere/antiques-app-main.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Smartphone displaying an antique identification app analyzing a vintage
+      vase
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': >-
+      https://articles.appraisily.com/articles/antique-identification-and-value-app
+  keywords: >-
+    antique identification app, digital antique appraisal, vintage item
+    valuation app, AI antique identification, collectibles value app, smartphone
+    antique appraisal, photo recognition for antiques
 ---
 
 ## Introduction to Antique Identification Apps

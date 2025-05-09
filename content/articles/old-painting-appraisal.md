@@ -48,8 +48,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-15T14:30:00.000Z'
   dateModified: '2023-08-15T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-painting-appraisal/old-painting-appraisal-image-1-error_EfxAgTB8_.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-painting-appraisal/old-painting-appraisal-image-1-error_EfxAgTB8_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser examining an antique oil painting with
+      magnifying glass and white gloves
   publisher:
     '@type': Organization
     name: Appraisily
@@ -57,6 +64,17 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-painting-appraisal'
+  about:
+    '@type': Thing
+    name: Art Appraisal
+    description: >-
+      Professional assessment of artwork value based on authenticity, condition,
+      provenance, and market trends
+  keywords: >-
+    old painting appraisal, antique art valuation, painting authentication, fine
+    art appraisal services, vintage artwork value, art provenance research,
+    professional art authentication
+  articleSection: Art & Antiques
 ---
 
 Discovering an old painting—whether in your grandmother's attic, at an estate sale, or tucked away in your own collection—can be both exciting and mysterious. Could this be a valuable masterpiece? A historical artifact? Or perhaps just a beautiful decorative piece with sentimental value? Determining the true value of an old painting requires professional expertise, but understanding the appraisal process can help you take the right steps toward uncovering your artwork's worth.

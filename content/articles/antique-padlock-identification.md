@@ -38,8 +38,6 @@ structured_data:
     Learn how to identify antique padlocks by type, age, maker marks, and
     materials. Discover the value of vintage and rare padlocks with our
     comprehensive guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-padlock-identification/antique-padlock-identification-image-1_BD9Tlw8rz.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +52,33 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-padlock-identification'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-padlock-identification/antique-padlock-identification-image-1_BD9Tlw8rz.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of antique padlocks showcasing various historical
+      designs, mechanisms, and patinas from different eras
+  keywords:
+    - antique padlock identification
+    - vintage padlock values
+    - collectible padlocks
+    - antique lock makers
+    - rare padlock types
+    - padlock authentication
+    - antique security devices
+  about:
+    '@type': Thing
+    name: Antique Padlocks
+    description: >-
+      Historical security devices that represent centuries of craftsmanship,
+      innovation, and design excellence
+  isPartOf:
+    '@type': CollectionPage
+    name: Antiques
+    url: 'https://articles.appraisily.com/category/antiques'
 ---
 
 The world of antique padlocks offers a fascinating glimpse into the evolution of security devices throughout history. These mechanical marvels, often overlooked as mere utilitarian objects, represent centuries of craftsmanship, innovation, and design excellence. Whether you're a serious collector, someone who has inherited an old lock, or simply curious about the value of a vintage padlock you've discovered, this comprehensive guide will help you identify, authenticate, and value these intriguing artifacts.

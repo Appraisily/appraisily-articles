@@ -1,0 +1,225 @@
+{
+  "searchParameters": {
+    "q": "how much is my coins worth",
+    "gl": "us",
+    "hl": "en",
+    "type": "search",
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "What's My Coin Worth? Rare coin values. Rare coin prices.",
+      "link": "https://coins.ha.com/ref/beginners-price-guide.zx",
+      "snippet": "This is our basic coin price guide for people who are unfamiliar with coins but want to find out about old coin values.",
+      "position": 1
+    },
+    {
+      "title": "Coin Value Checker - Penny Value | Nickel Value | Dime Value ...",
+      "link": "https://www.coinvaluechecker.com/",
+      "snippet": "Value charts and pricing guides typically list coin values broken down by date, allowing you to pinpoint the worth of your dated pieces. Mintmarks reveal which ...",
+      "sitelinks": [
+        {
+          "title": "Rare Coins Value Lookup",
+          "link": "https://www.coinvaluechecker.com/other-coins/"
+        },
+        {
+          "title": "Dollar",
+          "link": "https://www.coinvaluechecker.com/dollar-value/"
+        },
+        {
+          "title": "Penny",
+          "link": "https://www.coinvaluechecker.com/penny-value/"
+        },
+        {
+          "title": "Nickel",
+          "link": "https://www.coinvaluechecker.com/nickel-value/"
+        }
+      ],
+      "position": 2
+    },
+    {
+      "title": "CoinTrackers.com: Coin Values",
+      "link": "https://cointrackers.com/",
+      "snippet": "A free and innovative user-friendly web tool specifically designed to help coin enthusiasts, collectors, and investors to quickly determine their pennies worth.",
+      "sitelinks": [
+        {
+          "title": "Most Valuable",
+          "link": "https://cointrackers.com/blog/11/most-valuable-coins/"
+        },
+        {
+          "title": "Wheat Pennies (1909-1956)",
+          "link": "https://cointrackers.com/wheat-pennies/"
+        },
+        {
+          "title": "25 Most Valuable Pennies",
+          "link": "https://cointrackers.com/blog/13/most-valuable-pennies/"
+        },
+        {
+          "title": "All Coins",
+          "link": "https://cointrackers.com/all-coins/"
+        }
+      ],
+      "position": 3
+    },
+    {
+      "title": "PCGS Coin Price Guide: The Industry Standard for US Coin Values",
+      "link": "https://www.pcgs.com/prices/us",
+      "snippet": "The PCGS Price Guide is a comprehensive collection of numismatic coin values featuring current and historic coin prices, indexes, and graphs. Updated daily.",
+      "sitelinks": [
+        {
+          "title": "Bullion Coins & Products",
+          "link": "https://www.pcgs.com/prices/bullioncoins"
+        },
+        {
+          "title": "Copper Type Coins",
+          "link": "https://www.pcgs.com/prices/detail/copper-type-coins/-9/most-active"
+        },
+        {
+          "title": "Nickel Type Coins",
+          "link": "https://www.pcgs.com/prices/detail/nickel-type-coins/-8/most-active"
+        },
+        {
+          "title": "China",
+          "link": "https://www.pcgs.com/prices/china"
+        }
+      ],
+      "position": 4
+    },
+    {
+      "title": "Coin Values Guide | Get Your Old Coin's Value with APMEX",
+      "link": "https://learn.apmex.com/coin-values/",
+      "snippet": "What is My Old Coin Worth? Coins have been around for more than 5,000 years. · Coin Grading: Grade Can Help Determine Coin Value. The numismatic value of a coin ...",
+      "position": 5
+    },
+    {
+      "title": "Coinappraiser.com | Find Values And Sell Your Rare Old Coins",
+      "link": "https://coinappraiser.com/",
+      "snippet": "Our coins price guide has values for old & rare United States coins. We actively buy and sell coins. Contact us to find out what your coin is worth today.",
+      "sitelinks": [
+        {
+          "title": "How to Sell Your Coin For Top...",
+          "link": "https://coinappraiser.com/coin-experts-sell-coins/"
+        },
+        {
+          "title": "Value of Bullion Coins",
+          "link": "https://coinappraiser.com/coin-category/bullion/"
+        },
+        {
+          "title": "Silver Dollar Coin Values",
+          "link": "https://coinappraiser.com/coin-category/silver-dollars/"
+        }
+      ],
+      "position": 6
+    },
+    {
+      "title": "NGC Coin Price Guide and Values",
+      "link": "https://www.ngccoin.com/price-guide/united-states/",
+      "snippet": "The NGC Coin Price Guide is a complete catalog of coin values for US and World coins from 1600 to date, compiled from a variety of numismatic sources.",
+      "sitelinks": [
+        {
+          "title": "Morgan Dollars (1878-1921)",
+          "link": "https://www.ngccoin.com/price-guide/united-states/dollars/49/"
+        },
+        {
+          "title": "Lincoln Cents, Wheat Reverse...",
+          "link": "https://www.ngccoin.com/price-guide/united-states/cents/99/"
+        }
+      ],
+      "position": 7
+    },
+    {
+      "title": "Coinoscope - Identify coins by image",
+      "link": "https://coinoscope.com/",
+      "snippet": "Coinoscope is a free coin value checker & identification app – snap a picture to instantly identify a coin and find out its value! Try it now for free.",
+      "sitelinks": [
+        {
+          "title": "Coin Identification",
+          "link": "https://coinoscope.com/identify-coin"
+        },
+        {
+          "title": "Coin Market",
+          "link": "https://coinoscope.com/app/market"
+        },
+        {
+          "title": "The Mystery of the Coin with...",
+          "link": "https://coinoscope.com/coin-with-two-angels"
+        },
+        {
+          "title": "Blog",
+          "link": "https://coinoscope.com/blog"
+        }
+      ],
+      "position": 8
+    },
+    {
+      "title": "How to look up coin value(s) and the best way to sell them. - Reddit",
+      "link": "https://www.reddit.com/r/coincollecting/comments/1apx5w6/how_to_look_up_coin_values_and_the_best_way_to/",
+      "snippet": "I use a combination of Coin World and Ebay to ballpark my prices. If your coin is worn to almost nothing, it may still hold melt value because ...",
+      "date": "Feb 13, 2024",
+      "sitelinks": [
+        {
+          "title": "Determine approximate coin values on your own : r/coincollecting",
+          "link": "https://www.reddit.com/r/coincollecting/comments/16dqelp/determine_approximate_coin_values_on_your_own/"
+        },
+        {
+          "title": "How to find coin value : r/coins - Reddit",
+          "link": "https://www.reddit.com/r/coins/comments/1dkfon1/how_to_find_coin_value/"
+        }
+      ],
+      "position": 9
+    },
+    {
+      "title": "What is my coin worth? - Professional Numismatists Guild",
+      "link": "https://www.pngdealers.org/how-much-is-my-coin-worth",
+      "snippet": "If your coins are in good condition, they could possibly be worth a sizable amount of money. Just click the links below and you can find out the market value.",
+      "position": 10
+    }
+  ],
+  "peopleAlsoAsk": [
+    {
+      "question": "What is the best website for coin values for free?",
+      "snippet": "THESE WEBSITES HAVE COMPREHENSIVE COIN PRICE GUIDES AND EASY TO USE SEARCH TOOLS TO HELP YOU IDENTIFY AND GET THE VALUE OF YOUR COINS.\n1\nCoin Value Checker. ...\n2\nPCGS CoinFacts. ...\n3\nNGC Coin Price Guide. ...\n4\nCoin Value Lookup. ...\n5\nThe Coin Dealer Newsletter (CDN) Greysheet. ...\n6\nNumista Coin Price Estimator. ...\n7\nCoin Value Finder. ...\n8\nPCGS Photograde Online.",
+      "title": "10 Best Valuation Platforms for Coin Value Lookup Online BusinessToday",
+      "link": "https://www.businesstoday.in/impact-feature/story/10-best-valuation-platforms-for-coin-value-lookup-online-413972-2024-01-18"
+    },
+    {
+      "question": "How do I check the price of a coin?",
+      "snippet": "Reputable coin dealers, Coin Auctions, eBay, and Price Guides are great places to start. If your coins are graded by one of the Top Tier grading services like PCGS or NGC, you can usually get a reasonable value estimate sight-unseen!",
+      "title": "How do I find out what my old coins are worth? | Investor Education",
+      "link": "https://www.mintstategold.com/investor-education/cat/faq/post/what-are-my-old-coins-worth/"
+    },
+    {
+      "question": "Is there a free app to scan coins for value?",
+      "snippet": "Coinoscope is a powerful, free coin identifier app that helps you quickly and easily identify coins, check their value, and learn more about their history. With millions of impressions and thousands of users worldwide, Coinoscope stands out as the go-to solution for anyone interested in coins.",
+      "title": "Is There a Free App to Scan Coins for Value? Yes, It's Coinoscope!",
+      "link": "https://coinoscope.com/is-there-a-free-app-to-scan-coins-for-value-yes-its-coinoscope"
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "How much is my coins worth calculator"
+    },
+    {
+      "query": "How much is my coins worth today"
+    },
+    {
+      "query": "How much is my coins worth free"
+    },
+    {
+      "query": "How much is my coins worth app"
+    },
+    {
+      "query": "How much is my coins worth chart"
+    },
+    {
+      "query": "Coin value checker online"
+    },
+    {
+      "query": "What is the best website for coin values"
+    },
+    {
+      "query": "Coins worth money Chart"
+    }
+  ],
+  "credits": 1
+}

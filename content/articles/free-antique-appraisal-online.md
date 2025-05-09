@@ -46,8 +46,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-07-19T14:30:00.000Z'
   dateModified: '2024-07-19T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal-online/free-antique-appraisal-online-image-1_8yZeRs0UB.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal-online/free-antique-appraisal-online-image-1_8yZeRs0UB.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Person photographing antique collectibles for free online appraisal
+      services
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,48 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/free-antique-appraisal-online'
+howTo:
+  '@context': 'https://schema.org'
+  '@type': HowTo
+  name: How to Get a Free Online Antique Appraisal
+  description: Steps to obtain a free online appraisal for your antiques and collectibles
+  step:
+    - '@type': HowToStep
+      name: Submit clear photos of your item
+      text: >-
+        Take and upload clear photographs of your antique item from multiple
+        angles
+    - '@type': HowToStep
+      name: Provide a detailed description
+      text: >-
+        Include measurements, marks, condition, and any known history of the
+        item
+    - '@type': HowToStep
+      name: Wait for expert review
+      text: Experts will review your submission and evaluate the item
+    - '@type': HowToStep
+      name: Receive estimated value
+      text: >-
+        You'll receive an estimated value range and sometimes identification
+        information
+  image: >-
+    https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal-online/free-antique-appraisal-online-image-2_mEZb6GIa0.png
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What Are Free Online Antique Appraisals?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Free online antique appraisals are services offered by auction houses,
+          antique dealers, and valuation experts that provide estimated values
+          for your antiques and collectibles without charging a fee. Instead of
+          having to transport potentially fragile items to an in-person
+          appraiser, you can now simply upload photos and descriptions from the
+          comfort of your home. This makes the appraisal process more
+          accessible, convenient, and typically much faster.
 ---
 
 Wondering if that dusty heirloom in your attic is worth something? You're not alone. Every day, people discover potentially valuable antiques and collectibles in their homes but aren't sure how to determine their worth. Thankfully, there are numerous free online antique appraisal services that can help you identify and value your treasures without spending a dime.

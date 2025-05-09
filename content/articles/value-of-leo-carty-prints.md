@@ -39,8 +39,6 @@ structured_data:
     Discover the value of Leo Carty prints and what determines their worth.
     Learn about the Caribbean artist's market prices, authentication tips, and
     how to maximize your print's value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-leo-carty-prints/value-of-leo-carty-prints-image-1_5fAiZ0a6x.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,10 +48,32 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-09-14T14:30:00.000Z'
   dateModified: '2023-09-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-leo-carty-prints'
-  keywords: 'Leo Carty prints value, Caribbean art, watercolor prints, Virgin Islands art'
+  keywords: >-
+    Leo Carty prints value, Leo Carty watercolor worth, Caribbean art appraisal,
+    Virgin Islands artist prints, Leo Carty authentication, collectible
+    Caribbean watercolors, Leo Carty market prices
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-leo-carty-prints/value-of-leo-carty-prints-image-1_5fAiZ0a6x.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Leo Carty watercolor print showcasing vibrant Caribbean island
+      life and culture
+  about:
+    '@type': Thing
+    name: Leo Carty Prints
+    description: >-
+      Watercolor prints by American artist Leo Carty depicting Caribbean life
+      and culture in the U.S. Virgin Islands
+  articleSection: Fine Art
+  timeRequired: PT10M
 ---
 
 {{< content-modules/section-header title="Introduction to Leo Carty and His Artistic Legacy" level="2" >}}

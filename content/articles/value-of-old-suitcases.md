@@ -41,8 +41,15 @@ structured_data:
     Discover what makes vintage suitcases valuable, from luxury brands to
     historical significance. Learn to identify, value, and sell antique luggage
     with our expert guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-suitcases/value-of-old-suitcases-image-1_bwO0Tqq3u.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-suitcases/value-of-old-suitcases-image-1_bwO0Tqq3u.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage suitcases and antique travel trunks from
+      various eras and manufacturers
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,44 @@ structured_data:
   datePublished: '2024-07-15T14:30:00.000Z'
   dateModified: '2024-07-15T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-suitcases'
+  about:
+    '@type': Thing
+    name: Vintage Suitcases
+    description: >-
+      Collectible antique and vintage luggage including luxury brand trunks,
+      mid-century suitcases, and historical travel pieces
+  keywords: >-
+    vintage suitcase value, antique luggage worth, Louis Vuitton trunk prices,
+    collectible suitcases, old travel trunk value, vintage luggage
+    identification, selling antique suitcases
+  articleSection: Antiques
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+      - .article-headline
+      - .article-summary
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  mentions:
+    - '@type': Brand
+      name: Louis Vuitton
+    - '@type': Brand
+      name: Goyard
+    - '@type': Brand
+      name: Hermès
+    - '@type': Brand
+      name: Hartmann
+    - '@type': Brand
+      name: Gucci
+    - '@type': Brand
+      name: Samsonite
+    - '@type': Brand
+      name: American Tourister
+    - '@type': Brand
+      name: Revelation
 ---
 
 ![Collection of vintage suitcases in various materials and designs](https://ik.imagekit.io/appraisily/SEO/value-of-old-suitcases/value-of-old-suitcases-image-1_bwO0Tqq3u.png)

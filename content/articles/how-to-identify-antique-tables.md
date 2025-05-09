@@ -41,8 +41,6 @@ structured_data:
     Learn how to identify antique tables with our comprehensive guide. Discover
     key markers of authenticity, valuable styles, and expert techniques for
     dating and valuing antique tables.
-  image: >-
-    https://www.thesprucecrafts.com/thmb/R9K_pFLKP-q5XJdBDWCorkQmIdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Know-Your-Antique-Tables-148793-final-v2-e58926c5979541c691e60f495d8287f8-bf10e8063b384f9984abbf05dbacdf9a.jpg
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +55,89 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-to-identify-antique-tables'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://www.thesprucecrafts.com/thmb/R9K_pFLKP-q5XJdBDWCorkQmIdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Know-Your-Antique-Tables-148793-final-v2-e58926c5979541c691e60f495d8287f8-bf10e8063b384f9984abbf05dbacdf9a.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique table with visible wood grain, patina and period-specific
+      construction details
+  about:
+    '@type': Thing
+    name: Antique Tables
+    description: >-
+      Furniture pieces from earlier periods with historical and collectible
+      value
+  keywords:
+    - antique table identification
+    - how to date antique tables
+    - antique furniture authentication
+    - antique table styles
+    - antique table value guide
+    - antique wood types
+    - antique table legs
+  isAccessibleForFree: 'True'
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+'@graph':
+  - '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Antique Tables
+    description: >-
+      A comprehensive guide to authenticating and valuing antique tables through
+      examination of wood, joinery, and other key characteristics.
+    tool:
+      - Magnifying glass
+      - Measuring tape
+      - Reference books
+    step:
+      - '@type': HowToStep
+        name: Examine the Wood
+        text: >-
+          Look closely at the color, grain pattern, and weight of the wood.
+          Genuine antiques typically show a patina that develops with age—a
+          rich, warm glow that can't be accurately replicated in modern
+          reproductions. Common woods used in antique tables include oak,
+          walnut, mahogany, cherry, rosewood, and pine.
+        image: >-
+          https://www.westlandlondon.com/ugc-1/1/3/0/identifying-antique-tables-img1.jpg
+      - '@type': HowToStep
+        name: Analyze Joinery Methods
+        text: >-
+          Examine how the table's components are joined together. Pre-1800
+          tables typically feature hand-cut dovetails with irregular, uneven
+          joints. During 1800-1900, both hand and machine-cut joinery were used.
+        image: >-
+          https://www.westlandlondon.com/ugc-1/1/3/0/identifying-antique-tables-img1.jpg
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What woods were commonly used in antique tables?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Common woods used in antique tables include oak (popular in the 17th
+            and early 18th centuries), walnut (prevalent in Queen Anne and early
+            Georgian pieces), mahogany (became fashionable in the mid-18th
+            century), cherry (common in American furniture from the 18th and
+            19th centuries), rosewood (often seen in Victorian and Empire
+            furniture), and pine (usually used for country furniture or as a
+            secondary wood).
+      - '@type': Question
+        name: How can joinery help identify an antique table?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Joinery methods are reliable indicators of a table's age. Pre-1800
+            tables typically feature hand-cut dovetails with irregular, uneven
+            joints. During 1800-1900, both hand and machine-cut joinery were
+            used. The evolution of joinery techniques provides important clues
+            about when a piece was manufactured.
 ---
 
 ## Introduction to Antique Table Identification

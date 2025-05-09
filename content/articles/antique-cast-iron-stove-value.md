@@ -39,8 +39,6 @@ structured_data:
     Discover how much your antique cast iron stove is worth with our
     comprehensive value guide. Learn about factors affecting price, restoration
     tips, and top brands collectors seek.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-stove-value/antique-cast-iron-stove-value-image-1_7j5C9k0cm.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +48,24 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-27T14:30:00.000Z'
   dateModified: '2023-11-27T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-cast-iron-stove-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cast-iron-stove-value/antique-cast-iron-stove-value-image-1_7j5C9k0cm.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate Victorian-era antique cast iron wood burning stove with decorative
+      nickel trim in restored condition
+  keywords: >-
+    antique cast iron stove value, vintage wood burning stove worth, collectible
+    cast iron stove prices, Griswold stove valuation, antique parlor stove
+    value, cast iron cook stove worth, Victorian era stove prices
 ---
 
 Cast iron stoves are among the most durable and sought-after antiques from America's past. Once essential fixtures in homes across the country, these sturdy heating and cooking appliances have transformed from practical necessities to valuable collectibles. Whether you've inherited a family heirloom, discovered an old stove in a property you've purchased, or are simply curious about the value of these vintage pieces, this comprehensive guide will help you understand what factors determine an antique cast iron stove's worth in today's market.

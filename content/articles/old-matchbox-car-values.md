@@ -44,14 +44,31 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-24T14:30:00.000Z'
   dateModified: '2023-07-24T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-matchbox-car-values/old-matchbox-car-values-image-1_Xb2BbaiK3.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-matchbox-car-values/old-matchbox-car-values-image-1_Xb2BbaiK3.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage Matchbox cars from the 1960s-1970s including rare Lesney
+      models in various conditions
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-matchbox-car-values'
+  keywords:
+    - old matchbox car values
+    - vintage matchbox cars worth money
+    - rare lesney matchbox models
+    - collectible diecast cars
+    - matchbox car price guide
+    - valuable matchbox cars
+    - antique toy car appraisal
+  articleSection: Toys & Collectibles
 ---
 
 ![Collection of vintage Matchbox cars from the 1960s-1970s era showing various models in different conditions](https://ik.imagekit.io/appraisily/SEO/old-matchbox-car-values/old-matchbox-car-values-image-1_Xb2BbaiK3.png)

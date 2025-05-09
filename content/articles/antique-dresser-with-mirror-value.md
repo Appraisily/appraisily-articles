@@ -32,29 +32,114 @@ keywords:
   - antique bedroom furniture prices
   - selling antique dressers
 structured_data:
-  '@context': 'https://schema.org'
-  '@type': Article
-  headline: 'Antique Dresser with Mirror Value Guide: What Determines Worth in 2024'
-  description: >-
-    Discover the true value of antique dressers with mirrors. Our comprehensive
-    guide covers identification, pricing factors, and where to sell your vintage
-    furniture.
-  image: >-
-    https://ik.imagekit.io/appraisily/content/furniture/antique-dresser-mirror-value-hero.jpg
-  author:
-    '@type': Organization
-    name: Appraisily Team
-  publisher:
-    '@type': Organization
-    name: Appraisily
-    logo:
+  - '@context': 'https://schema.org'
+    '@type': Article
+    headline: 'Antique Dresser with Mirror Value Guide: What Determines Worth in 2024'
+    description: >-
+      Discover the true value of antique dressers with mirrors. Our
+      comprehensive guide covers identification, pricing factors, and where to
+      sell your vintage furniture.
+    author:
+      '@type': Organization
+      name: Appraisily Team
+    publisher:
+      '@type': Organization
+      name: Appraisily
+      logo:
+        '@type': ImageObject
+        url: 'https://appraisily.com/logo.png'
+    datePublished: '2024-07-13'
+    dateModified: '2024-07-13'
+    mainEntityOfPage:
+      '@type': WebPage
+      '@id': >-
+        https://articles.appraisily.com/articles/antique-dresser-with-mirror-value
+    image:
       '@type': ImageObject
-      url: 'https://appraisily.com/logo.png'
-  datePublished: '2024-07-13'
-  dateModified: '2024-07-13'
-  mainEntityOfPage:
-    '@type': WebPage
-    '@id': 'https://articles.appraisily.com/articles/antique-dresser-with-mirror-value'
+      url: >-
+        https://ik.imagekit.io/appraisily/content/furniture/antique-dresser-mirror-value-hero.jpg
+      width: '1200'
+      height: '630'
+      caption: >-
+        Antique oak dresser with ornate oval mirror from early 1900s in restored
+        condition
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What are the common styles of antique dressers with mirrors?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Common styles of antique dressers with mirrors include Victorian Era
+            (1837-1901) featuring ornate carvings, curved fronts, and elaborate
+            hardware in mahogany and walnut with marble tops and oval mirrors;
+            Art Nouveau (1890-1910) with flowing, organic lines and floral
+            motifs; Arts and Crafts/Mission Style (1880-1920) characterized by
+            simple, clean lines in quarter-sawn oak; and Art Deco (1920s-1930s)
+            showcasing bold geometric patterns, exotic woods, and streamlined
+            forms.
+      - '@type': Question
+        name: What was typical of Victorian Era dressers with mirrors?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Victorian dressers with mirrors (1837-1901) typically feature ornate
+            carvings, curved fronts, and elaborate hardware. Mahogany and walnut
+            were common woods used during this period, with these pieces often
+            featuring marble tops and oval mirrors.
+      - '@type': Question
+        name: What characterizes Art Nouveau dressers with mirrors?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Art Nouveau dressers (1890-1910) incorporate flowing, organic lines
+            inspired by natural forms. You'll often find floral motifs and
+            asymmetrical designs, with mirrors that complement the dresser's
+            curved aesthetic.
+      - '@type': Question
+        name: What defines Arts and Crafts/Mission Style dressers?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Arts and Crafts/Mission Style dressers (1880-1920) are characterized
+            by simple, clean lines and emphasis on natural materials,
+            representing a reaction against Victorian excess. Quarter-sawn oak
+            was the wood of choice, and hardware is typically simple but sturdy.
+      - '@type': Question
+        name: What are the characteristics of Art Deco dressers with mirrors?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Art Deco dressers with mirrors (1920s-1930s) showcase bold geometric
+            patterns, exotic woods, and streamlined forms. Mirrors often feature
+            stepped designs or rounded corners that echo the dresser's overall
+            aesthetic.
+  - '@context': 'https://schema.org'
+    '@type': ItemList
+    itemListElement:
+      - '@type': ListItem
+        position: 1
+        name: Victorian Era (1837-1901)
+        description: >-
+          Elaborate ornamentation, curved fronts, and intricate carving. Common
+          materials include mahogany, walnut, and marble tops.
+      - '@type': ListItem
+        position: 2
+        name: Art Nouveau (1890-1910)
+        description: >-
+          Flowing, organic lines with nature-inspired motifs. Emphasis on
+          asymmetry and curved forms.
+      - '@type': ListItem
+        position: 3
+        name: Arts and Crafts / Mission (1880-1920)
+        description: >-
+          Simple, rectilinear designs that highlight craftsmanship and natural
+          wood grain. Quarter-sawn oak predominant.
+      - '@type': ListItem
+        position: 4
+        name: Art Deco (1920-1939)
+        description: Bold geometric design elements and streamlined forms.
 ---
 
 # Antique Dresser with Mirror Value Guide

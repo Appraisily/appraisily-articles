@@ -39,22 +39,85 @@ structured_data:
   description: >-
     Learn how to identify antique marbles with our comprehensive guide covering
     types, materials, pontil marks, and valuation techniques for collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-marbles/how-to-identify-antique-marbles-image-1_ezmqhmV5m.png
   author:
     '@type': Organization
     name: Appraisily Team
+  datePublished: '2023-08-10T14:30:00.000Z'
+  dateModified: '2023-08-10T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-marbles/how-to-identify-antique-marbles-image-1_ezmqhmV5m.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of rare antique marbles displaying handmade pontil
+      marks and valuable color patterns
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
-  datePublished: '2023-08-10T14:30:00.000Z'
-  dateModified: '2023-08-10T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/how-to-identify-antique-marbles'
+  keywords:
+    - antique marble identification
+    - valuable collectible marbles
+    - handmade vs machine-made marbles
+    - pontil mark identification
+    - rare antique marbles
+    - antique marble valuation
+    - vintage marble collecting
+  articleSection: Collectibles
+  about:
+    '@type': Thing
+    name: Antique Marbles
+  hasPart:
+    - '@type': FAQPage
+      mainEntity:
+        - '@type': Question
+          name: How do you identify handmade antique marbles?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              Handmade marbles, produced primarily before 1902, can be
+              identified by: pontil marks (a small rough patch or scar where the
+              marble was broken off from the glass rod during creation), slight
+              irregularities in shape as they are rarely perfectly spherical,
+              inconsistent sizing even within the same type, and variations in
+              glass quality.
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://articles.appraisily.com/'
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-body
+  inLanguage: en-US
+  copyrightYear: '2023'
+  copyrightHolder:
+    '@type': Organization
+    name: Appraisily
+  accessMode:
+    - textual
+    - visual
+  accessibilityFeature:
+    - images
+    - structuredNavigation
+  accessibilityHazard:
+    - none
+  additionalType: 'https://en.wikipedia.org/wiki/Marble_(toy)'
+  educationalUse: Research
+  audience:
+    '@type': Audience
+    audienceType: Collectors
+  timeRequired: PT10M
+  typicalAgeRange: 18-
+  interactivityType: mixed
+  learningResourceType: how-to
 ---
 
 ![Collection of colorful antique marbles showing different types and patterns](https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-marbles/how-to-identify-antique-marbles-image-1_ezmqhmV5m.png)

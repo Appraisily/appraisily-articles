@@ -39,8 +39,13 @@ structured_data:
     Discover the true value of your old vinyl LPs with our comprehensive guide
     covering rare pressings, condition factors, and how to identify valuable
     records in your collection.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-lps/value-of-old-lps-image-1_dXU_GuH-r.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-lps/value-of-old-lps-image-1_dXU_GuH-r.png
+    width: '1200'
+    height: '630'
+    caption: Collection of valuable vinyl records with price tags showing their value
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +55,54 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-08-18T14:30:00.000Z'
   dateModified: '2023-08-18T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-lps'
+  keywords:
+    - vinyl record value
+    - old LP worth
+    - rare vinyl records
+    - vintage record valuation
+    - collectible vinyl
+    - vinyl appraisal guide
+    - valuable record pressings
+FAQPage:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: What makes an old LP valuable?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          The value of a vinyl record is determined by multiple factors: artist
+          popularity and cultural significance, pressing details (first
+          pressings, limited editions), condition of both the vinyl and
+          cover/sleeve, rarity (limited releases, promotional copies,
+          manufacturing errors), and current collector demand based on musical
+          trends and artist relevance.
+    - '@type': Question
+      name: Are older records always more valuable?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          No, age alone doesn't determine value. A record from the 1940s might
+          be worth far less than one from the 1970s or even 1990s. According to
+          vinyl experts, rock n' roll, blues, and jazz records from 1960 to 1970
+          are typically the most valuable, with top specimens ranging anywhere
+          from $500 to $3,000.
+    - '@type': Question
+      name: Which records are most valuable?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Not all vinyl is created equal. Certain genres, artists, and time
+          periods consistently yield higher values in the collector market. Rock
+          n' roll, blues, and jazz records from 1960 to 1970 are typically the
+          most valuable, especially those from iconic or influential artists,
+          first pressings, limited editions, and those in excellent condition.
 ---
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/value-of-old-lps/value-of-old-lps-image-1_dXU_GuH-r.png" alt="Collection of valuable vinyl records with price tags showing their value" caption="Rare and valuable vinyl records can command significant prices in today's collector market" />}}

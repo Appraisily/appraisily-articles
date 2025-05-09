@@ -43,8 +43,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-06-28T14:30:00.000Z'
   dateModified: '2024-06-28T14:30:00.000Z'
-  image: >-
-    https://i.etsystatic.com/22500612/r/il/4cb115/2298186010/il_fullxfull.2298186010_16fy.jpg
+  image:
+    '@type': ImageObject
+    url: >-
+      https://i.etsystatic.com/22500612/r/il/4cb115/2298186010/il_fullxfull.2298186010_16fy.jpg
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic antique wooden spinning wheel with traditional craftsmanship and
+      patina
   publisher:
     '@type': Organization
     name: Appraisily
@@ -52,6 +59,14 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-spinning-wheel-value'
+  keywords:
+    - antique spinning wheel value
+    - antique spinning wheel identification
+    - vintage spinning wheel worth
+    - collectible spinning wheels
+    - spinning wheel appraisal
+    - textile antiques value
+    - wooden spinning wheel prices
 ---
 
 Antique spinning wheels are not just functional devices from our textile history but have also become highly sought-after decorative pieces and collectors' items. Whether you've inherited a family heirloom, discovered one in an estate sale, or are considering investing in one, understanding the value of these historical artifacts is essential. In this comprehensive guide, we'll explore everything you need to know about antique spinning wheel values, identification, and the factors that influence their worth in today's market.

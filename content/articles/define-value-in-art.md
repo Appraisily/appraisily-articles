@@ -39,8 +39,6 @@ structured_data:
     Explore the dual meanings of value in art - from its role as an element of
     design to its financial significance in the art market. Learn how artists
     create depth and form through value.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/define-value-in-art/define-value-in-art-image-1_ubdgCpPtb9.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,54 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/define-value-in-art'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/define-value-in-art/define-value-in-art-image-1_ubdgCpPtb9.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Black and white artwork demonstrating value contrast with light and shadow
+      creating visual depth and dimension
+  keywords:
+    - value in art definition
+    - light and shadow in artwork
+    - art market valuation
+    - elements of art
+    - tonal value in painting
+    - art appraisal factors
+    - chiaroscuro technique
+  articleSection: Art Elements
+  about:
+    '@type': Thing
+    name: Value in Art
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-content
+  FAQPage:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: How do artists use value?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Artists employ value in numerous ways to achieve specific effects in
+            their work: 1) Creating form and volume: By using lighter values on
+            areas where light hits an object and darker values for shadows,
+            artists create the illusion of three-dimensional form. 2)
+            Establishing mood: High-contrast compositions with strong darks and
+            lights can create drama, while subtle value shifts can evoke
+            calmness or mystery. 3) Directing viewer attention: Areas with the
+            strongest value contrast naturally draw the eye, allowing artists to
+            guide viewers through their composition. 4) Suggesting depth:
+            Atmospheric perspective is achieved by reducing contrast and
+            lightening values of distant objects.
 ---
 
 The term "value" in art carries dual significance, making it one of the most fascinating concepts to understand for both artists and collectors. On one hand, value refers to the lightness and darkness of colors that create depth and dimension in artwork. On the other hand, value also describes the worth or importance of art in cultural, historical, and financial terms. This comprehensive guide explores both interpretations of value in art, providing essential knowledge for anyone looking to appreciate, create, or collect art.

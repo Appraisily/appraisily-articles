@@ -44,14 +44,75 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-07T14:30:00.000Z'
   dateModified: '2023-09-07T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identify-indian-artifacts/identify-indian-artifacts-image-1_hKq941020.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identify-indian-artifacts/identify-indian-artifacts-image-1_hKq941020.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Native American artifacts including arrowheads, pottery
+      fragments, and ceremonial stone tools displayed for identification
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/identify-indian-artifacts'
+  keywords:
+    - identify indian artifacts
+    - native american artifact identification
+    - authentic arrowhead identification
+    - indian pottery recognition
+    - stone tool authentication
+    - native american artifact value
+    - indigenous artifact guide
+  about:
+    '@type': Thing
+    name: Native American Artifacts
+    description: >-
+      Objects made or modified by Indigenous peoples of North America spanning
+      from the Paleo-Indian period to more recent historical periods
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com'
+  hasPart:
+    - '@type': HowTo
+      name: How to Identify Native American Artifacts
+      description: >-
+        A comprehensive guide to recognizing and authenticating various types of
+        Native American artifacts
+      step:
+        - '@type': HowToStep
+          name: Understand Native American Artifacts
+          text: >-
+            Native American artifacts are objects made or modified by Indigenous
+            peoples of North America. These items span a vast timeline from the
+            Paleo-Indian period (approximately 15,000 years ago) to more recent
+            historical periods, and they vary greatly by region, tribal
+            affiliation, and purpose.
+          image: >-
+            https://ik.imagekit.io/appraisily/SEO/identify-indian-artifacts/identify-indian-artifacts-image-1_hKq941020.png
+        - '@type': HowToStep
+          name: Learn About Major Types of Native American Artifacts
+          text: >-
+            Understanding the different categories of Native American artifacts
+            will help with proper identification. Each type has distinctive
+            characteristics based on materials, craftsmanship, and regional
+            variations.
+        - '@type': HowToStep
+          name: Identify Projectile Points and Arrowheads
+          text: >-
+            Projectile points are among the most commonly found and collected
+            Native American artifacts. These stone tools were attached to
+            spears, darts, or arrows and used for hunting and warfare.
+      tool:
+        - Reference guides
+        - Magnifying glass
+        - Measuring tools
+      totalTime: PT30M
 ---
 
 Native American artifacts represent a rich cultural heritage spanning thousands of years, offering valuable insights into Indigenous histories and traditions. Whether you've discovered an item while exploring your property or are considering adding to a collection, knowing how to properly identify authentic Native American artifacts is essential. This comprehensive guide will help you recognize key characteristics, understand different artifact types, and learn the proper protocols for artifact identification and preservation.

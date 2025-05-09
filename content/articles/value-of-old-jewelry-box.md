@@ -39,8 +39,15 @@ structured_data:
     Discover what makes antique jewelry boxes valuable. Learn how to identify
     different styles, assess condition, and determine the true worth of your
     vintage jewelry storage treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-jewelry-box/value-of-old-jewelry-box-image-1_QJS9PoLVj.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-jewelry-box/value-of-old-jewelry-box-image-1_QJS9PoLVj.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique wooden jewelry box with ornate brass fittings, decorative inlay,
+      and velvet-lined interior
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,8 +57,20 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-07-01T14:30:00.000Z'
   dateModified: '2023-07-01T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-old-jewelry-box'
+  keywords:
+    - antique jewelry box value
+    - vintage jewelry box identification
+    - collectible jewelry boxes
+    - old jewelry box worth
+    - antique trinket box prices
+    - wooden jewelry chest value
+    - Victorian jewelry box
+  articleSection: Antiques & Collectibles
 ---
 
 ![Elegant antique wooden jewelry box with brass fittings and decorative inlay](https://ik.imagekit.io/appraisily/SEO/value-of-old-jewelry-box/value-of-old-jewelry-box-image-1_QJS9PoLVj.png)

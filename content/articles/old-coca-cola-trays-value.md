@@ -39,8 +39,15 @@ structured_data:
     Discover the value of old Coca-Cola trays from various decades. Learn about
     authentication, pricing factors, and where to buy and sell these iconic
     collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-coca-cola-trays-value/old-coca-cola-trays-value-image-1_8rnajEqqn.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-coca-cola-trays-value/old-coca-cola-trays-value-image-1_8rnajEqqn.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare vintage Coca-Cola serving tray from the 1920s featuring classic
+      advertisement artwork and logo
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,36 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-coca-cola-trays-value'
+  about:
+    '@type': Thing
+    name: Coca-Cola Collectibles
+    description: >-
+      Vintage advertising memorabilia from the Coca-Cola Company, including
+      serving trays, signs, and other promotional items
+  keywords: >-
+    old Coca-Cola trays value, vintage Coca-Cola serving trays, antique Coke
+    tray prices, Coca-Cola collectibles, Coca-Cola advertising memorabilia
+  isPartOf:
+    '@type': CollectionPage
+    name: Collectibles
+    url: 'https://articles.appraisily.com/categories/collectibles'
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-heading
+      - .article-summary
+  mentions:
+    - '@type': Thing
+      name: Coca-Cola
+      sameAs: 'https://www.coca-cola.com/'
+    - '@type': Thing
+      name: Vintage Advertising
+      sameAs: 'https://en.wikipedia.org/wiki/Advertising'
+  temporalCoverage: 1897/2024
 ---
 
 Vintage Coca-Cola serving trays have become iconic pieces of Americana that combine advertising history with beautiful artwork. These nostalgic collectibles span more than a century of Coca-Cola marketing and vary significantly in both design and value. Whether you've discovered an old tray in your attic or are actively building a collection, understanding what makes these trays valuable can help you make informed decisions about buying, selling, or preserving these pieces of advertising history.

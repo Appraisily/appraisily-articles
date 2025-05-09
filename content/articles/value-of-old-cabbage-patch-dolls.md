@@ -35,8 +35,15 @@ structured_data:
     Discover the value of old Cabbage Patch dolls from the 1980s and beyond.
     Learn which rare models are worth thousands and how to identify valuable
     collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-old-cabbage-patch-dolls/value-of-old-cabbage-patch-dolls-image-1_TS1osqnKn.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-old-cabbage-patch-dolls/value-of-old-cabbage-patch-dolls-image-1_TS1osqnKn.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable vintage Cabbage Patch Kids dolls from the 1980s showing various
+      collectible models worth $20-$6,000
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +58,10 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-old-cabbage-patch-dolls'
+  keywords: >-
+    Cabbage Patch dolls value, vintage Cabbage Patch Kids worth, Xavier Roberts
+    original dolls, 1980s collectible dolls, rare Cabbage Patch Kids, Little
+    People dolls value, Cabbage Patch Kids price guide
 ---
 
 ![Collection of vintage Cabbage Patch Kids dolls from the 1980s](https://ik.imagekit.io/appraisily/SEO/value-of-old-cabbage-patch-dolls/value-of-old-cabbage-patch-dolls-image-1_TS1osqnKn.png)

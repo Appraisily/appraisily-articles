@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-08-09T14:30:00.000Z'
   dateModified: '2023-08-09T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bottles-value/old-bottles-value-image-2_JmPywm5pT.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-bottles-value/old-bottles-value-image-2_JmPywm5pT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage colored glass bottles collection showing valuable antique bottle
+      specimens from different eras
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,14 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bottles-value'
+  keywords:
+    - old bottles value
+    - antique bottle collecting
+    - rare bottle identification
+    - valuable medicine bottles
+    - vintage glass collectibles
+    - antique bottle prices
+    - colored glass bottle worth
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Bottle Collecting" level="2" >}}

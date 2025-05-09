@@ -43,8 +43,15 @@ structured_data:
     Learn how to identify old bottle marks and symbols to determine age, maker,
     and value. Our complete guide covers pontil marks, embossing, base symbols,
     and more.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bottle-identification-marks/old-bottle-identification-marks-image-1_KpuJN8-ku.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-bottle-identification-marks/old-bottle-identification-marks-image-1_KpuJN8-ku.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage glass bottles displaying manufacturer marks, embossing, and base
+      stamps for identification
   author:
     '@type': Organization
     name: Appraisily Team
@@ -56,6 +63,11 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-06-21T14:30:00.000Z'
   dateModified: '2023-06-21T14:30:00.000Z'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bottle-identification-marks'
+  keywords: >-
+    old bottle identification marks, antique bottle dating, glass bottle maker's
+    marks, vintage bottle symbols, pontil mark identification, embossed bottle
+    dating, antique glass identification
 ---
 
 {{< content-modules/section-header title="Introduction to Old Bottle Identification Marks" level="2" >}}

@@ -38,8 +38,15 @@ structured_data:
     Learn how to get your old currency professionally appraised and discover
     what factors determine the value of antique money, banknotes, and rare
     bills.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-money-appraisal/old-money-appraisal-image-1_3sjmKUmX4.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-money-appraisal/old-money-appraisal-image-1_3sjmKUmX4.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage paper currency collection being examined for professional
+      appraisal and valuation
   author:
     '@type': Organization
     name: Appraisily Team
@@ -51,6 +58,47 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-06-12T14:30:00.000Z'
   dateModified: '2023-06-12T14:30:00.000Z'
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/old-money-appraisal'
+  about:
+    '@type': Thing
+    name: Antique Currency Appraisal
+    description: >-
+      Professional valuation of old paper money, rare bills, and vintage
+      banknotes
+  keywords: >-
+    old money appraisal, antique currency valuation, rare bill identification,
+    paper money worth, vintage banknote value, currency collector market,
+    numismatic appraisal
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What types of value can old paper money have?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Old paper money can have four primary types of value: 1) Face Value
+            - The printed denomination on the bill (what you could spend it
+            for), 2) Book Value - The average dealer retail price for that
+            particular note, 3) Wholesale Value - The price dealers might pay to
+            acquire the note (typically 60-80% of book value), and 4) Auction
+            Value - The price the note might bring at auction, which can vary
+            widely based on bidding interest.
+      - '@type': Question
+        name: What factors make old currency valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The main factors that make old currency valuable are: Rarity
+            (scarcity of a particular note, limited print runs, discontinued
+            series, or bills that were mostly destroyed or recalled), Condition
+            (physical state rated from 'Poor' to 'Gem Uncirculated'), and
+            Historical Significance (currency from significant historical
+            periods or with unique historical connections, including Confederate
+            currency, notes from banking crises, or special wartime issues).
 ---
 
 Have you discovered old paper money tucked away in an attic, inherited from a relative, or found in a forgotten wallet? That weathered currency might be worth significantly more than its face value. Understanding how to properly appraise old money can be the difference between spending a rare bill at face value and discovering a valuable collector's item.

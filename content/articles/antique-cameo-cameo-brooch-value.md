@@ -39,8 +39,6 @@ structured_data:
     Discover the key factors that determine antique cameo brooch values, from
     material and craftsmanship to age and condition. Learn how to identify
     valuable pieces worth $100-$5,000+
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-cameo-cameo-brooch-value/antique-cameo-cameo-brooch-value-image-1_vULal0R-W.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,11 +48,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   datePublished: '2023-07-19T14:30:00.000Z'
   dateModified: '2023-07-19T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-cameo-cameo-brooch-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-cameo-cameo-brooch-value/antique-cameo-cameo-brooch-value-image-1_vULal0R-W.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique shell cameo brooch with carved female profile in ornate
+      gold frame from Victorian era
+  keywords: >-
+    antique cameo brooch value, cameo jewelry identification, shell cameo worth,
+    vintage cameo pricing, Victorian cameo values, collectible cameo brooches,
+    cameo authentication
 ---
 
 Cameo brooches have captivated collectors and jewelry enthusiasts for centuries with their intricate carvings and timeless appeal. These miniature works of art - featuring raised profiles against contrasting backgrounds - embody both artistry and history. But how much is that family heirloom or estate sale find actually worth? In this comprehensive guide, we'll explore the factors that determine antique cameo brooch values, identification techniques, and current market prices to help you understand what makes these pieces collectible and valuable.

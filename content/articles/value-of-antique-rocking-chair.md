@@ -43,8 +43,15 @@ structured_data:
     Discover what determines antique rocking chair values, from identifying
     styles and makers to current market prices. Learn expert tips for evaluating
     your heirloom.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-rocking-chair/value-of-antique-rocking-chair-image-1_aiBMk5PUR.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-rocking-chair/value-of-antique-rocking-chair-image-1_aiBMk5PUR.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique Victorian wooden rocking chair with ornate carvings and original
+      patina showing historical craftsmanship
   author:
     '@type': Organization
     name: Appraisily Team
@@ -57,6 +64,21 @@ structured_data:
   datePublished: '2023-09-14T14:30:00.000Z'
   dateModified: '2023-09-14T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antique-rocking-chair'
+  about:
+    '@type': Thing
+    name: Antique Rocking Chairs
+    description: >-
+      Historical wooden chairs with curved rockers that allow a rocking motion,
+      popular from the 18th century onward and valued as collectible furniture
+      items.
+  keywords:
+    - antique rocking chair value
+    - vintage rocking chair identification
+    - antique chair appraisal
+    - Victorian rocking chair worth
+    - collectible rocking chairs
+    - antique furniture valuation
+    - heirloom chair pricing
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Rocking Chairs" level="2" >}}

@@ -39,8 +39,15 @@ structured_data:
     Learn how to find and select the best qualified artwork appraiser near you,
     understand appraisal costs, and get expert tips on artwork valuation for
     insurance, estate planning, or sales.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/artwork-appraiser-near-me/artwork-appraiser-near-me-image-1_ObqOnYO6N.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/artwork-appraiser-near-me/artwork-appraiser-near-me-image-1_ObqOnYO6N.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining a valuable painting with
+      magnifying glass
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,39 @@ structured_data:
   datePublished: '2023-09-19T14:30:00.000Z'
   dateModified: '2023-09-19T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/artwork-appraiser-near-me'
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: Why do I need a professional art appraiser?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            While online resources might offer quick estimates, a qualified art
+            appraiser provides authoritative valuations backed by expertise,
+            credentials, and comprehensive market knowledge. Professional
+            appraisals are essential for insurance coverage, donation tax
+            deductions, estate settlements, and determining fair market value. A
+            professional art appraisal is more than just a price estimate—it's a
+            detailed document that provides a comprehensive description of the
+            artwork, authentication assessment, condition evaluation, research
+            into provenance and history, market analysis and comparable sales
+            data, and a formal valuation based on specific criteria.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Find an Art Appraiser Near You
+    image: >-
+      https://ik.imagekit.io/appraisily/SEO/artwork-appraiser-near-me/artwork-appraiser-near-me-image-2_dkWLSwjADk.png
+    step:
+      - '@type': HowToStep
+        name: Check Professional Organizations
+        text: >-
+          Start by searching directories from respected professional appraiser
+          associations.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/artwork-appraiser-near-me/artwork-appraiser-near-me-image-2_dkWLSwjADk.png
 ---
 
 ## Introduction to Art Appraisals

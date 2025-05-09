@@ -50,11 +50,34 @@ structured_data:
       url: 'https://www.appraisily.com/logo.png'
   datePublished: '2023-08-09T14:30:00.000Z'
   dateModified: '2023-08-09T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-radio-values/antique-radio-values-image-1_q5De5pZ7J.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-radio-values/antique-radio-values-image-1_q5De5pZ7J.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage wooden console radio from the 1940s with ornate details and tuning
+      dial
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-radio-values'
+  about:
+    - '@type': Thing
+      name: Antique Radios
+      description: >-
+        Historical radio devices from the early to mid-20th century valued by
+        collectors
+    - '@type': Thing
+      name: Radio Collecting
+      description: >-
+        The hobby of collecting, restoring and preserving vintage radio
+        equipment
+  keywords: >-
+    antique radio values, vintage radio appraisal, collectible radio worth, tube
+    radio valuation, antique radio identification, Zenith radio values, antique
+    radio price guide
+  timeRequired: PT10M
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Radio Collecting" level="2" >}}

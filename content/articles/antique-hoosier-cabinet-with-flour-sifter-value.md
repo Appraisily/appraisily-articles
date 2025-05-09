@@ -44,15 +44,32 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-11T14:30:00.000Z'
   dateModified: '2023-07-11T14:30:00.000Z'
-  image: 'https://browsingtheatlas.com/wp-content/uploads/2020/07/img_1280-1.jpg'
+  image:
+    '@type': ImageObject
+    url: 'https://browsingtheatlas.com/wp-content/uploads/2020/07/img_1280-1.jpg'
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic antique Hoosier cabinet featuring original flour sifter and
+      period hardware
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '112'
+      height: '112'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/antique-hoosier-cabinet-with-flour-sifter-value
+  keywords:
+    - hoosier cabinet value
+    - antique flour sifter cabinet
+    - vintage kitchen furniture
+    - hoosier manufacturing company
+    - sellers hoosier cabinet
+    - kitchen cabinet appraisal
+    - american antique furniture
 ---
 
 ![Vintage Hoosier cabinet with flour sifter and original hardware](https://browsingtheatlas.com/wp-content/uploads/2020/07/img_1280-1.jpg)

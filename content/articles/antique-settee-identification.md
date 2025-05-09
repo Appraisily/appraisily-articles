@@ -44,14 +44,63 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-09-12T14:30:00.000Z'
   dateModified: '2023-09-12T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-settee-identification/antique-settee-identification-image-1_LNpNJmlRi.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-settee-identification/antique-settee-identification-image-1_LNpNJmlRi.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      18th-century French antique settee with ornate wood carvings and original
+      period upholstery
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-settee-identification'
+  keywords:
+    - antique settee identification
+    - period settee styles
+    - antique furniture authentication
+    - French settee value
+    - Victorian settee characteristics
+    - antique upholstered seating
+    - collectible settee marks
+  articleSection: Furniture
+  about:
+    '@type': Thing
+    name: Antique Settees
+    description: >-
+      Elegant period furniture pieces smaller than sofas designed to seat two or
+      more people
+  hasPart:
+    - '@type': WebPageElement
+      isAccessibleForFree: 'True'
+      cssSelector: .article-content
+  speakable:
+    '@type': SpeakableSpecification
+    cssSelector:
+      - .article-title
+      - .article-content
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Is an Antique Settee?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A settee is a specific type of upholstered seating furniture with
+            distinctive characteristics that differentiate it from other seating
+            options like sofas, loveseats, and benches. Technically speaking, an
+            antique settee is a smaller sofa or couch, typically with a bare
+            wooden splat back, first popularized in 18th-century France. Most
+            feature a shaped front and high back, standing on cabriole, saber,
+            or turned legs. To be classified as a true antique, a settee should
+            generally be at least 100 years old.
 ---
 
 Antique settees are refined, elegant pieces of furniture that have graced the homes of discerning collectors for centuries. These charming seating pieces—smaller than full sofas but designed to accommodate two or more people—combine practicality with exquisite craftsmanship. Originally appearing in 18th-century France, settees have evolved through numerous design movements, each with distinctive characteristics that help collectors identify their age, style, and value.

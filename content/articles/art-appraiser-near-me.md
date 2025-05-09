@@ -39,8 +39,6 @@ structured_data:
     Discover how to find reputable art appraisers near you, understand the
     appraisal process, typical costs, and why professional art valuations matter
     for insurance, estate planning, and sales.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-appraiser-near-me/art-appraiser-near-me-image-1_tMPdrfeJg.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +50,64 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-11-07T14:30:00.000Z'
   dateModified: '2023-11-07T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-appraiser-near-me/art-appraiser-near-me-image-1_tMPdrfeJg.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser carefully examining painting details with
+      magnifying glass
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/art-appraiser-near-me'
+  keywords:
+    - art appraiser near me
+    - professional art valuation
+    - certified art appraisers
+    - local art appraisal services
+    - fine art appraisal cost
+    - art authentication experts
+    - painting valuation near me
+  about:
+    '@type': Thing
+    name: Art Appraisal
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://appraisily.com/'
+  hasPart:
+    - '@type': FAQPage
+      mainEntity:
+        - '@type': Question
+          name: Why might I need an art appraiser?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              Professional art appraisals serve multiple important purposes
+              beyond simple curiosity about a piece's value. There are several
+              situations where seeking a professional art appraisal makes sense:
+              Insurance Coverage (to ensure adequate protection for valuable
+              artwork), Estate Planning or Inheritance (for accurate valuation
+              of assets), Donation Planning (for tax deduction documentation),
+              Divorce Settlements (to fairly divide assets), Sale Preparation
+              (to set appropriate asking prices), Authentication (to verify
+              authenticity and provenance), and Damage Assessment (for insurance
+              claims after fire, flood, or other incidents).
+        - '@type': Question
+          name: What types of art appraisals are available?
+          acceptedAnswer:
+            '@type': Answer
+            text: >-
+              Different appraisal types serve specific purposes: Insurance
+              Appraisals (determine replacement value), Fair Market Value
+              Appraisals (determine what a willing buyer would pay a willing
+              seller, commonly used for tax purposes, charitable donations,
+              estate planning, and property settlements), Liquidation Value
+              Appraisals (estimate what the piece would fetch in a forced or
+              time-constrained sale), and Retail Replacement Value Appraisals
+              (determine what you would pay to purchase a similar piece).
 ---
 
 ![Professional art appraiser examining a painting with magnifying glass](https://ik.imagekit.io/appraisily/SEO/art-appraiser-near-me/art-appraiser-near-me-image-1_tMPdrfeJg.png)

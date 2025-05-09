@@ -42,8 +42,15 @@ structured_data:
     Discover the current market value of Martin 60 outboard motors, factors
     affecting price, and expert tips for buyers and sellers of these vintage
     nautical collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/martin-60-outboard-motor-value/martin-60-outboard-motor-value-image-1_W8UjwPaSV.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/martin-60-outboard-motor-value/martin-60-outboard-motor-value-image-1_W8UjwPaSV.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Restored vintage Martin 60 outboard motor from late 1940s with distinctive
+      poppet valve intake system
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,8 +60,40 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-10-19T14:30:00.000Z'
   dateModified: '2023-10-19T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: Martin 60 Outboard Motor
+    description: >-
+      Vintage outboard motor manufactured by Martin Motors of Eau Claire,
+      Wisconsin from the late 1940s to early 1950s with a distinctive poppet
+      valve intake system
+  keywords: >-
+    Martin 60 outboard motor value, vintage outboard motor prices, Martin Motors
+    collectibles, antique boat motor appraisal, 1940s outboard motor worth,
+    Martin 60 restoration value, nautical collectibles market
+  offers:
+    '@type': AggregateOffer
+    lowPrice: '100'
+    highPrice: '500'
+    priceCurrency: USD
+    offerCount: '2'
+    offers:
+      - '@type': Offer
+        price: '100'
+        priceCurrency: USD
+        itemCondition: 'https://schema.org/UsedCondition'
+        availability: 'https://schema.org/InStock'
+        description: Average value for running condition
+      - '@type': Offer
+        price: '500'
+        priceCurrency: USD
+        itemCondition: 'https://schema.org/UsedCondition'
+        availability: 'https://schema.org/InStock'
+        description: Excellent restored condition
 ---
 
 {{< content-modules/section-header title="Introduction to Martin 60 Outboard Motors" level="2" >}}

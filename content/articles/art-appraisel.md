@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-14T14:30:00.000Z'
   dateModified: '2023-07-14T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/art-appraisel/art-appraisel-image-1_TOfuW_xZI.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/art-appraisel/art-appraisel-image-1_TOfuW_xZI.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional art appraiser conducting detailed examination of fine art
+      painting in gallery setting
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,33 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/art-appraisal'
+faq:
+  '@context': 'https://schema.org'
+  '@type': FAQPage
+  mainEntity:
+    - '@type': Question
+      name: Why should I get my art appraised?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          There are several important reasons to obtain professional art
+          appraisals: 1) Insurance Purposes - The most common reason is for
+          insurance coverage, as most homeowner's policies have limited coverage
+          for art and valuables. A professional appraisal ensures adequate
+          protection against loss, damage, or theft. 2) Tax Considerations - For
+          art donations to charitable organizations, the IRS requires a
+          qualified appraisal for tax deductions exceeding $5,000. 3) Estate
+          Planning and Division - Accurate art valuations help with fair
+          distribution among heirs and appropriate estate tax calculations.
+    - '@type': Question
+      name: How much does a professional art appraisal cost?
+      acceptedAnswer:
+        '@type': Answer
+        text: >-
+          Professional art appraisers typically charge between $125-$350 per
+          hour based on 2023 industry surveys. An appraiser can usually assess
+          5-10 artworks per hour, depending on the complexity and documentation
+          required for each piece.
 ---
 
 {{< content-modules/section-header title="Introduction to Art Appraisals" level="2" >}}

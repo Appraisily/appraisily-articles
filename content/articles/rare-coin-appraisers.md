@@ -38,8 +38,6 @@ structured_data:
     Learn how to find reputable rare coin appraisers, understand the appraisal
     process, and ensure you get accurate valuations for your numismatic
     treasures.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/rare-coin-appraisers/rare-coin-appraisers-image-1_CrdKHP-dSM.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -49,11 +47,30 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-10-20T14:30:00.000Z'
   dateModified: '2023-10-20T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/rare-coin-appraisers'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/rare-coin-appraisers/rare-coin-appraisers-image-1_CrdKHP-dSM.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional numismatic expert examining rare coins with specialized
+      magnifying glass for authentication and valuation
+  keywords:
+    - rare coin appraisers
+    - numismatic evaluation
+    - coin authentication services
+    - professional coin valuation
+    - rare coin worth
+    - coin collection appraisal
+    - numismatic experts
 ---
 
 ![Professional coin appraiser examining rare coins with magnifying glass](https://ik.imagekit.io/appraisily/SEO/rare-coin-appraisers/rare-coin-appraisers-image-1_CrdKHP-dSM.png)

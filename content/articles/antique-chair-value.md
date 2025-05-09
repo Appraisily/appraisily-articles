@@ -39,8 +39,6 @@ structured_data:
     Learn how to determine the value of antique chairs with our comprehensive
     guide covering identification, dating, styles, and expert appraisal
     techniques.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-chair-value/antique-chair-value-image-1_xzM20XKRX.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +53,71 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/antique-chair-value'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-chair-value/antique-chair-value-image-1_xzM20XKRX.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Victorian antique armchair with ornate hand-carved woodwork and original
+      period upholstery
+  keywords:
+    - antique chair value
+    - vintage chair identification
+    - antique furniture appraisal
+    - Victorian chair values
+    - antique seating worth
+    - collectible chairs
+    - dating antique chairs
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What Makes a Chair "Antique"?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            In the furniture world, the term "antique" traditionally applies to
+            items at least 100 years old. Pieces that are younger but still
+            collectible (typically 50-99 years old) are classified as "vintage."
+            This distinction isn't merely semantic—it often has significant
+            implications for a chair's market value and collectibility.
+      - '@type': Question
+        name: How can I identify an authentic antique chair?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A true antique chair typically shows evidence of hand craftsmanship
+            and construction techniques that differ from modern manufacturing
+            methods. Look for hand-cut dovetail joints rather than
+            machine-perfect cuts, irregularities in symmetry suggesting
+            handcrafted construction, old wood patina that can't be convincingly
+            replicated, traditional joinery methods specific to historical
+            periods, and signs of appropriate aging consistent with the chair's
+            purported age.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Antique Chair Styles
+    step:
+      - '@type': HowToStep
+        name: Define whether it's antique or vintage
+        text: >-
+          Determine if the chair is at least 100 years old (antique) or 50-99
+          years old (vintage). This distinction has significant implications for
+          market value.
+      - '@type': HowToStep
+        name: Look for signs of authentic craftsmanship
+        text: >-
+          Examine for hand-cut dovetail joints, irregularities in symmetry, old
+          wood patina, traditional joinery methods, and appropriate aging signs.
+      - '@type': HowToStep
+        name: Identify the chair style and period
+        text: >-
+          Recognize distinctive design elements that correspond to specific
+          historical periods, which experienced collectors can identify.
 ---
 
 Antique chairs are among the most versatile and sought-after pieces of vintage furniture. From ornate Victorian thrones to minimalist mid-century designs, these functional art pieces can transform a space while potentially holding significant value. But how do you know if that chair in your grandmother's attic is worth $50 or $5,000?

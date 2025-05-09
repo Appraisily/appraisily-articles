@@ -45,8 +45,14 @@ structured_data:
   datePublished: '2023-06-15T14:30:00.000Z'
   dateModified: '2023-06-15T14:30:00.000Z'
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/old-farm-equipment-value/old-farm-equipment-value-image-1_xdXzzz0Dt.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage red tractor and antique farm implements in a rural setting showing
+      collectible agricultural machinery
   publisher:
     '@type': Organization
     name: Appraisily
@@ -54,6 +60,16 @@ structured_data:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-farm-equipment-value'
+  about:
+    '@type': Thing
+    name: Antique Farm Equipment
+    description: >-
+      Historical agricultural machinery and implements that have collectible,
+      historical, or practical value
+  keywords: >-
+    old farm equipment value, antique tractor worth, vintage agricultural
+    machinery, collectible farm implements, selling antique farm equipment, farm
+    equipment appraisal, rare farm machinery prices
 ---
 
 # Guide to Antique Farm Equipment Values: What Your Old Machinery is Worth

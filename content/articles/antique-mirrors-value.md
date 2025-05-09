@@ -37,13 +37,20 @@ structured_data:
     Discover the true value of antique mirrors with our comprehensive guide.
     Learn how to identify genuine pieces, key value factors, and current market
     prices for collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-mirrors-value/antique-mirrors-value-image-1_ARXCOo3yT.png
-  datePublished: '2024-07-28T14:30:00.000Z'
-  dateModified: '2024-07-28T14:30:00.000Z'
   author:
     '@type': Organization
     name: Appraisily Team
+  datePublished: '2024-07-28T14:30:00.000Z'
+  dateModified: '2024-07-28T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-mirrors-value/antique-mirrors-value-image-1_ARXCOo3yT.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Ornate 19th century gilded antique mirror with intricate carved frame
+      details
   publisher:
     '@type': Organization
     name: Appraisily
@@ -53,6 +60,62 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://appraisily.com/antique-mirrors-value/'
+  keywords:
+    - antique mirrors value
+    - antique mirror identification
+    - vintage mirror appraisal
+    - mercury glass mirror value
+    - gilded mirror prices
+    - antique mirror authentication
+    - collectible mirrors worth
+  articleSection: Antiques
+  about:
+    '@type': Thing
+    name: Antique Mirrors
+  isAccessibleForFree: true
+'@context': 'https://schema.org'
+'@type': HowTo
+mainEntity:
+  - '@type': Question
+    name: What Makes a Mirror Antique?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Most collectors and dealers consider mirrors made more than 100 years
+        ago to be antique. Those made between approximately 50-100 years ago are
+        typically classified as 'vintage.' This distinction is important, as
+        genuine antique mirrors generally command higher prices due to their
+        rarity, historical significance, and craftsmanship. The age of a mirror
+        significantly impacts its value, with mirrors from the 18th and early
+        19th centuries being particularly prized by collectors.
+  - '@type': Question
+    name: How to Identify Genuine Antique Mirrors?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Identifying genuine antique mirrors requires examining several key
+        details: 1) The glass thickness and waviness - antique mirror glass is
+        typically thinner than modern glass and often has slight imperfections
+        or distortions when viewed at an angle due to hand-pouring techniques
+        used before the 1950s. 2) Spotting and silvering - look for signs of age
+        in the reflective backing. Antique mirrors often show distinctive aging
+        patterns in their silvering.
+name: How to Examine Antique Mirror Glass
+step:
+  - '@type': HowToStep
+    name: Check Thickness and Waviness
+    text: >-
+      Antique mirror glass is typically thinner than modern glass and often has
+      slight imperfections, waviness, or distortions when viewed at an angle.
+      These irregularities are a result of hand-pouring techniques used before
+      the invention of float glass in the 1950s.
+    image: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-mirrors-value/antique-mirrors-value-image-2_REblH9QX7.png
+  - '@type': HowToStep
+    name: Look for Spotting and Silvering
+    text: >-
+      Examine the mirror for signs of age in the reflective backing. Antique
+      mirrors often show distinctive aging patterns in their silvering.
 ---
 
 ![Ornate antique gilded mirror with intricate frame details](https://ik.imagekit.io/appraisily/SEO/antique-mirrors-value/antique-mirrors-value-image-1_ARXCOo3yT.png)

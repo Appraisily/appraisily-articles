@@ -40,14 +40,26 @@ structured_data:
     name: Appraisily Team
   datePublished: '2024-07-15T14:30:00.000Z'
   dateModified: '2024-07-15T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-bamboo-fishing-rods-value/old-bamboo-fishing-rods-value-image-1_08I1Bklwu.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-bamboo-fishing-rods-value/old-bamboo-fishing-rods-value-image-1_08I1Bklwu.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage split-cane bamboo fishing rod with ornate reel seat and fine
+      craftsmanship details
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/images/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/old-bamboo-fishing-rods-value'
+  keywords: >-
+    old bamboo fishing rods value, vintage bamboo fly rods worth, antique
+    fishing rod identification, collectible Tonkin cane rods, bamboo rod makers,
+    split-cane fishing rod prices, fly fishing collectibles
 ---
 
 {{< content-modules/section-header title="Introduction to Vintage Bamboo Fishing Rods" level="2" >}}

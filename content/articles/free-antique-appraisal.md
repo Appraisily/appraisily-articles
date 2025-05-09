@@ -44,8 +44,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-10-02T14:30:00.000Z'
   dateModified: '2023-10-02T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal/free-antique-appraisal-image-1_--oTescHp.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal/free-antique-appraisal-image-1_--oTescHp.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining a valuable heirloom during a free
+      appraisal session
   publisher:
     '@type': Organization
     name: Appraisily
@@ -55,6 +62,50 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/free-antique-appraisal'
+  about:
+    '@type': Thing
+    name: Antique Appraisals
+  keywords: >-
+    free antique appraisal, online antique valuation, reputable appraisal
+    services, free collectibles assessment, heritage auction appraisals, antique
+    authentication, estate item valuation
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: >-
+          Have you ever wondered about the value of that unique piece sitting in
+          your attic?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Many people possess items of potential value but aren't sure where
+            to turn for reliable information. Free appraisal services can
+            provide valuable insights before you decide whether to sell, insure,
+            or simply enjoy your antiques with greater knowledge of their worth.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Get Free Antique Appraisals
+    description: >-
+      A guide to finding reliable free antique valuation services both online
+      and in-person
+    step:
+      - '@type': HowToStep
+        name: Use Online Appraisal Services
+        text: >-
+          Many auction houses and antique dealers now offer free online
+          appraisal services. These typically involve submitting photographs and
+          descriptions of your items through a dedicated platform. Some notable
+          examples include Heritage Auctions, Simpson Galleries, and IEGOR.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal/free-antique-appraisal-image-2_aVIJL3t6Bu.png
+      - '@type': HowToStep
+        name: Attend In-Person Appraisal Events
+        text: >-
+          Many auction houses offer in-person appraisal events where experts
+          evaluate items on the spot.
 ---
 
 ![An antique appraiser examining a valuable item](https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal/free-antique-appraisal-image-1_--oTescHp.png)

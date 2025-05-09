@@ -39,8 +39,6 @@ structured_data:
     Discover how to identify vintage sewing tools, learn their historical
     significance, and determine their value in today's collector's market.
     Expert tips for evaluating antique thimbles, scissors, and more!
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identifying-old-sewing-tools/identifying-old-sewing-tools-image-1_W-Eg-RnOH.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,44 @@ structured_data:
   datePublished: '2023-09-12T14:30:00.000Z'
   dateModified: '2023-09-12T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/identifying-old-sewing-tools'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identifying-old-sewing-tools/identifying-old-sewing-tools-image-1_W-Eg-RnOH.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic Victorian-era antique sewing collection featuring ornate
+      thimbles, sterling scissors, and carved needle cases
+  keywords:
+    - antique sewing tools identification
+    - vintage sewing implements value
+    - collectible thimbles worth
+    - antique needle cases
+    - Victorian sewing collectibles
+    - antique sewing scissors
+    - vintage sewing tool authentication
+  about:
+    '@type': Thing
+    name: Antique Sewing Tools
+    description: >-
+      Historical sewing implements including thimbles, scissors, and needle
+      cases from various time periods
+  mentions:
+    - '@type': Thing
+      name: Silver thimbles
+      description: >-
+        Antique thimbles often hallmarked, allowing for precise dating and maker
+        identification
+    - '@type': Thing
+      name: Brass and steel thimbles
+      description: More utilitarian versions for everyday use
+    - '@type': Thing
+      name: Porcelain thimbles
+      description: Decorative pieces that sometimes served as souvenirs or gifts
+    - '@type': Thing
+      name: Gold thimbles
+      description: Rare luxury items made for wealthy needleworkers
 ---
 
 ## Introduction to Antique Sewing Tools

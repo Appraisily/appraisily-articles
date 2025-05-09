@@ -39,8 +39,15 @@ structured_data:
     Comprehensive guide to determining antique picnic basket values, featuring
     identification techniques, price factors, notable makers, and current market
     trends for collectors and sellers.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-picnic-basket-value/antique-picnic-basket-value-image-1_YnqvNWiD9.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-picnic-basket-value/antique-picnic-basket-value-image-1_YnqvNWiD9.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Authentic early 20th century wicker picnic basket with traditional weaving
+      pattern and original fitted compartments
   author:
     '@type': Organization
     name: Appraisily Team
@@ -50,9 +57,80 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-07-21T14:30:00.000Z'
   dateModified: '2023-07-21T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-picnic-basket-value'
+  about:
+    '@type': Thing
+    name: Antique Picnic Baskets
+    description: >-
+      Historical woven containers used for outdoor dining, now valued as
+      collectibles
+  keywords: >-
+    antique picnic basket value, vintage picnic hamper prices, collectible
+    wicker basket identification, Hawkes & Sons picnic baskets, antique wicker
+    basket appraisal
+  articleSection: Collectibles
+'@graph':
+  - '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: How can I identify an authentic antique picnic basket?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Look for solid or carved wood handles, heavier weight than modern
+            reproductions, oak or ash splint construction in older baskets,
+            reinforced areas with metal or leather, and natural patina with age
+            discoloration. Authentic antique picnic baskets typically date from
+            the late 19th century through the mid-20th century.
+      - '@type': Question
+        name: What is the history of picnic baskets?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The history of picnic baskets extends back centuries. The concept of
+            portable wicker wine carriers evolved from France via William the
+            Conqueror in the 11th century, eventually becoming adopted as
+            travelers' refreshment baskets. Most collectible antique picnic
+            baskets date from the late 19th century through the mid-20th
+            century.
+  - '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Authenticate an Antique Picnic Basket
+    description: Step-by-step guide to identifying genuine antique picnic baskets
+    tool:
+      - '@type': HowToTool
+        name: Authentication Checklist
+    step:
+      - '@type': HowToStep
+        name: Check the handle
+        text: >-
+          Look for solid or carved wood handle, which is typical of authentic
+          antique baskets
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/antique-picnic-basket-value/antique-picnic-basket-value-image-1_YnqvNWiD9.png
+      - '@type': HowToStep
+        name: Assess the weight
+        text: >-
+          Authentic antique picnic baskets are typically heavier than modern
+          reproductions
+      - '@type': HowToStep
+        name: Examine the construction material
+        text: >-
+          Look for oak splint or ash splint construction, which is common in
+          older baskets
+      - '@type': HowToStep
+        name: Check for reinforcements
+        text: >-
+          Look for reinforced areas with metal or leather, which indicate
+          authentic vintage construction
+      - '@type': HowToStep
+        name: Observe the patina
+        text: Check for natural patina and age discoloration that develops over time
 ---
 
 Antique picnic baskets have become coveted collectibles, blending nostalgia, craftsmanship, and practical charm. From simple woven designs to elaborate fitted hampers, these pieces of outdoor dining history can fetch substantial prices in today's market. Whether you've inherited a family heirloom, discovered a potential treasure at a flea market, or are looking to start collecting, understanding the factors that determine antique picnic basket values is essential.

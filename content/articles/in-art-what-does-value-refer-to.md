@@ -39,8 +39,15 @@ structured_data:
     Explore what value means in art, from its technical definition as the
     lightness or darkness of colors to its crucial role in creating depth,
     contrast, and visual interest in artwork.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/in-art-what-does-value-refer-to/in-art-what-does-value-refer-to-image-1_zkYrA3aK_.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/in-art-what-does-value-refer-to/in-art-what-does-value-refer-to-image-1_zkYrA3aK_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Grayscale value scale showing the progression from white to black tones in
+      artistic composition
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,17 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/in-art-what-does-value-refer-to'
+  about:
+    '@type': Thing
+    name: Value in Art
+    description: >-
+      The lightness or darkness of colors and tones within artwork that provides
+      depth, dimension, and visual interest to compositions
+  keywords: >-
+    value in art definition, light and dark in artwork, artistic value scale,
+    chiaroscuro technique, tonal values in painting, art composition elements,
+    value contrast in visual art
+  articleSection: Art Fundamentals
 ---
 
 {{< content-modules/section-header title="Introduction to Value in Art" level="2" >}}

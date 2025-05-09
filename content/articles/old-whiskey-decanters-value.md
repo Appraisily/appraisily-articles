@@ -43,8 +43,13 @@ structured_data:
     Discover the value of old whiskey decanters, from vintage Jim Beam
     collectibles to crystal antiques. Learn identification tips, price ranges,
     and factors that determine worth.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-whiskey-decanters-value/old-whiskey-decanters-value-image-1_Q4yJgq1Kr.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-whiskey-decanters-value/old-whiskey-decanters-value-image-1_Q4yJgq1Kr.png
+    width: '1200'
+    height: '630'
+    caption: Collection of vintage whiskey decanters showing various designs and styles
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +64,39 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-whiskey-decanters-value'
+  about:
+    '@type': Thing
+    name: Whiskey Decanters
+    description: >-
+      Collectible vessels for storing and serving whiskey, ranging from ornate
+      crystal designs to novelty figurines
+  keywords: >-
+    old whiskey decanters value, vintage Jim Beam decanters, collectible whiskey
+    bottles, antique crystal decanters
+  isPartOf:
+    '@type': WebSite
+    name: Appraisily
+    url: 'https://www.appraisily.com'
+  mentions:
+    - '@type': Thing
+      name: Jim Beam
+      description: Brand known for producing collectible whiskey decanters
+    - '@type': Thing
+      name: Baccarat
+      description: Luxury crystal manufacturer
+    - '@type': Thing
+      name: Waterford
+      description: Premium crystal decanter manufacturer
+  itemReviewed:
+    '@type': Product
+    name: Collectible Whiskey Decanters
+    category: Collectibles
+    offers:
+      '@type': AggregateOffer
+      lowPrice: '30'
+      highPrice: '5000'
+      priceCurrency: USD
+      offerCount: '3'
 ---
 
 ![Collection of vintage whiskey decanters showing various designs and styles](https://ik.imagekit.io/appraisily/SEO/old-whiskey-decanters-value/old-whiskey-decanters-value-image-1_Q4yJgq1Kr.png)

@@ -39,8 +39,6 @@ structured_data:
     Discover what makes vintage toasters valuable, from rare 1920s models to
     mid-century classics. Learn price ranges, identification tips, and how to
     assess condition.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-toaster-value/antique-toaster-value-image-1_8Tex8wmF-.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +50,22 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2024-09-05T14:30:00.000Z'
   dateModified: '2024-09-05T14:30:00.000Z'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-toaster-value/antique-toaster-value-image-1_8Tex8wmF-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare 1920s Art Deco electric toaster with ornate decorative panels and
+      original chrome finish
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': 'https://articles.appraisily.com/articles/antique-toaster-value'
+  keywords: >-
+    antique toaster value, vintage toaster price guide, collectible electric
+    toasters, art deco toaster worth, 1920s toaster values, mid-century toaster
+    collectibles, rare kitchen appliance values
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Toaster Values" level="2" >}}

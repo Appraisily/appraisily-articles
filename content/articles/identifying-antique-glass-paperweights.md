@@ -44,8 +44,15 @@ structured_data:
     Learn how to identify antique glass paperweights by recognizing signature
     styles, distinguishing millefiori patterns, and understanding the value
     factors of these collectible art pieces.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identifying-antique-glass-paperweights/identifying-antique-glass-paperweights-image-1_xZSMH-OJr.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identifying-antique-glass-paperweights/identifying-antique-glass-paperweights-image-1_xZSMH-OJr.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare antique glass paperweights showcasing millefiori patterns and classic
+      French craftsmanship
   author:
     '@type': Organization
     name: Appraisily Team
@@ -59,6 +66,16 @@ structured_data:
   dateModified: '2023-09-08T14:30:00.000Z'
   mainEntityOfPage: >-
     https://articles.appraisily.com/articles/identifying-antique-glass-paperweights
+  about:
+    '@type': Thing
+    name: Antique Glass Paperweights
+    description: >-
+      Collectible glass art objects produced primarily during the 19th century,
+      known for their intricate designs and craftsmanship
+  keywords: >-
+    antique glass paperweights, millefiori paperweight identification, Baccarat
+    paperweight values, Saint Louis antique paperweights, collectible glass
+    paperweights, paperweight maker marks, 19th century glass paperweights
 ---
 
 Antique glass paperweights represent some of the most fascinating collectibles in the world of glass art. These small but intricate pieces capture both history and artistic achievement, with the most valuable examples fetching tens of thousands of dollars at auction. Whether you're a seasoned collector or simply curious about a family heirloom, knowing how to identify authentic antique paperweights is essential to understanding their true value and significance.

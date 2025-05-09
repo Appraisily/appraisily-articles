@@ -39,8 +39,15 @@ structured_data:
     Discover the value of your New Home antique sewing machine with our
     comprehensive guide covering identification, pricing factors, and market
     trends to help collectors and enthusiasts.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/new-home-antique-sewing-machine-value/new-home-antique-sewing-machine-value-image-1_n-e3WaXUZ-.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/new-home-antique-sewing-machine-value/new-home-antique-sewing-machine-value-image-1_n-e3WaXUZ-.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Antique New Home sewing machine from the late 19th century with decorative
+      cast iron base and wooden cabinet
   author:
     '@type': Organization
     name: Appraisily Team

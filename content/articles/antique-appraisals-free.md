@@ -40,8 +40,14 @@ structured_data:
     in-person. Learn the advantages, limitations, and best practices for getting
     your collectibles valued at no cost.
   image:
-    - >-
+    '@type': ImageObject
+    url: >-
       https://ik.imagekit.io/appraisily/SEO/antique-appraisals-free/antique-appraisals-free-image-1_iTonzUIBR.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Professional antique appraiser examining vintage collectible during a free
+      valuation session
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +60,14 @@ structured_data:
   datePublished: '2023-11-13T14:30:00.000Z'
   dateModified: '2023-11-13T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-appraisals-free'
+  about:
+    '@type': Thing
+    name: Antique Appraisals
+    description: Evaluation of antiques and collectibles to determine their market value
+  keywords: >-
+    free antique appraisals, no-cost collectible valuation, online antique
+    appraisal free, antique roadshow appraisals, free auction evaluations,
+    verbal value opinions, heritage auctions free appraisal
 ---
 
 Discovering the value of your antiques and collectibles doesn't always require an expensive professional appraisal. While formal written appraisals have their place for insurance, estate planning, or legal purposes, free antique appraisals can provide valuable preliminary insights into what your treasures might be worth.

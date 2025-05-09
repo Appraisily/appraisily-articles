@@ -37,8 +37,6 @@ structured_data:
   description: >-
     Learn how to identify valuable antique tools, their price ranges, and
     factors that determine their worth with our comprehensive collector's guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-tools/value-of-antique-tools-image-1_t9KOCv8qa.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -48,11 +46,26 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   datePublished: '2023-11-19T14:30:00.000Z'
   dateModified: '2023-11-19T14:30:00.000Z'
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/value-of-antique-tools'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-tools/value-of-antique-tools-image-1_t9KOCv8qa.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique woodworking collection featuring rare planes, hand saws,
+      and precision measuring tools from the 19th century
+  keywords: >-
+    antique tool values, vintage tool identification, rare woodworking tools,
+    collectible hand tools, Stanley plane value, antique tool price guide,
+    valuable carpenter tools
 ---
 
 The world of antique tools represents a fascinating intersection of history, craftsmanship, and investment potential. These artifacts of bygone eras aren't just practical implements that built our world—they're tangible connections to the skilled artisans who created everything from furniture to buildings, machines to household items. For collectors, dealers, and those who've inherited old tools, understanding their value has become increasingly important.

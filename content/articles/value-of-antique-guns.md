@@ -39,8 +39,6 @@ structured_data:
     Learn how to value antique firearms with our comprehensive guide covering
     factors like make, model, condition, rarity, and authentication for accurate
     appraisals.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/value-of-antique-guns/value-of-antique-guns-image-1_yioasD7PR.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +51,23 @@ structured_data:
   datePublished: '2023-07-18T14:30:00.000Z'
   dateModified: '2023-07-18T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/value-of-antique-guns'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/value-of-antique-guns/value-of-antique-guns-image-1_yioasD7PR.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Valuable antique firearms collection featuring historical flintlock
+      pistols and pre-1899 vintage rifles
+  keywords:
+    - antique gun value
+    - vintage firearm appraisal
+    - pre-1899 gun worth
+    - collectible firearms pricing
+    - antique weapon authentication
+    - historical gun valuation
+    - rare firearm identification
 ---
 
 {{< content-modules/section-header title="Understanding Antique Gun Value" level="2" >}}

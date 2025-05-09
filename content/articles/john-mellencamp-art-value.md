@@ -42,8 +42,15 @@ structured_data:
     Discover the value of John Mellencamp's artwork, from paintings to
     lithographs, with expert insights on pricing, authentication, and market
     trends for serious collectors.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/john-mellencamp-art-value/john-mellencamp-art-value-image-1_GZ9VPnFIl.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/john-mellencamp-art-value/john-mellencamp-art-value-image-1_GZ9VPnFIl.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Original John Mellencamp expressionist painting showcasing his distinctive
+      American folk art style
   author:
     '@type': Organization
     name: Appraisily Team
@@ -55,6 +62,16 @@ structured_data:
       url: 'https://appraisily.com/logo.png'
   datePublished: '2023-06-20T14:30:00.000Z'
   dateModified: '2023-06-20T14:30:00.000Z'
+  about:
+    '@type': Thing
+    name: John Mellencamp Art
+    description: >-
+      Visual artwork created by American musician and artist John Mellencamp,
+      including paintings, lithographs, and expressionist works
+  keywords: >-
+    john mellencamp art value, mellencamp painting prices, john mellencamp
+    expressionist art, mellencamp lithograph worth, john mellencamp art
+    investment, mellencamp art authentication, american folk art valuation
 ---
 
 ![John Mellencamp painting showing his distinctive expressionist style](https://ik.imagekit.io/appraisily/SEO/john-mellencamp-art-value/john-mellencamp-art-value-image-1_GZ9VPnFIl.png)

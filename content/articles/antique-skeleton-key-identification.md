@@ -39,8 +39,15 @@ structured_data:
     Learn to identify antique skeleton keys with our expert guide covering
     periods, types, values, and rarity factors. Discover what makes your old
     keys collectible.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-skeleton-key-identification/antique-skeleton-key-identification-image-1_LJdCyB3dnu.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-skeleton-key-identification/antique-skeleton-key-identification-image-1_LJdCyB3dnu.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage collection of antique skeleton keys showing diverse bow designs,
+      shaft patterns and historical manufacturing periods
   author:
     '@type': Organization
     name: Appraisily Team
@@ -53,6 +60,80 @@ structured_data:
   datePublished: '2023-08-15'
   dateModified: '2023-08-15'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-skeleton-key-identification'
+  articleSection: Antique Hardware
+  keywords:
+    - antique skeleton key identification
+    - vintage key valuation
+    - rare skeleton keys
+    - collectible skeleton keys
+    - antique key dating methods
+    - skeleton key types
+    - antique lock hardware
+  about:
+    '@type': Thing
+    name: Antique Skeleton Keys
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What is a skeleton key?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A true skeleton key features a specific design intended to bypass
+            the wards (internal obstructions) in various warded locks. They
+            typically consist of three main components: the bow (handle), shank
+            (stem), and bit (the business end that engages the lock mechanism).
+      - '@type': Question
+        name: What are the main parts of a skeleton key?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            A skeleton key typically consists of three main parts: 1) The Bow -
+            The decorative handle portion that you grip when turning the key.
+            Bows vary widely in design, from simple round or oval shapes to
+            ornate designs featuring scrollwork, patterns, or even figures. 2)
+            The Shank/Stem - The long, narrow portion that extends from the bow.
+            The shank length indicates what kind of lock the key was designed
+            for. 3) The Bit - The operational end of the key that engages with
+            the lock mechanism.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: How to Identify Antique Skeleton Keys
+    description: >-
+      A guide to identifying and understanding the components of antique
+      skeleton keys
+    tool:
+      - Reference guides
+      - Magnifying glass
+    step:
+      - '@type': HowToStep
+        name: Examine the Bow
+        text: >-
+          Look at the decorative handle portion of the key. The bow design can
+          often help date a key, with designs ranging from simple round or oval
+          shapes to ornate scrollwork or patterns.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/antique-skeleton-key-identification/antique-skeleton-key-identification-image-2_RE8kJQmrkV.png
+      - '@type': HowToStep
+        name: Measure the Shank/Stem
+        text: >-
+          Check the long, narrow portion that extends from the bow. The shank
+          length indicates what kind of lock the key was designed for; longer
+          shanks were typically used for doors, while shorter ones were for
+          furniture, cabinets, or small boxes.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/antique-skeleton-key-identification/antique-skeleton-key-identification-image-2_RE8kJQmrkV.png
+      - '@type': HowToStep
+        name: Analyze the Bit
+        text: >-
+          Examine the operational end of the key that engages with the lock
+          mechanism. The bit consists of the notches, cuts, and ward slots that
+          correspond to the internal structure of a specific lock.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/antique-skeleton-key-identification/antique-skeleton-key-identification-image-2_RE8kJQmrkV.png
 ---
 
 {{< content-modules/section-header title="Introduction to Antique Skeleton Keys" level="2" >}}

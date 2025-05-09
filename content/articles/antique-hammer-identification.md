@@ -44,14 +44,48 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-07-12T14:30:00.000Z'
   dateModified: '2023-07-12T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-hammer-identification/antique-hammer-identification-image-1_7el1gdAZL.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-hammer-identification/antique-hammer-identification-image-1_7el1gdAZL.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Diverse collection of rare antique hammers showing historical
+      craftsmanship and design evolution
   publisher:
     '@type': Organization
     name: Appraisily
     logo:
       '@type': ImageObject
       url: 'https://www.appraisily.com/logo.png'
+  mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-hammer-identification'
+  keywords:
+    - antique hammer identification
+    - vintage hammer values
+    - collectible blacksmith hammers
+    - antique tool authentication
+    - hammer maker marks
+    - historical hammer types
+    - rare hammer collecting
+  about:
+    '@type': Thing
+    name: Antique Hammers
+    description: Historical hammers used as tools and now collected as artifacts
+  timeRequired: PT10M
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: How old are the earliest hammers?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The earliest hammers date back over 3.3 million years.
+            Archaeological evidence suggests that hammering tools date back to
+            prehistoric times, with the earliest examples being simple stones
+            used for crushing and pounding.
 ---
 
 ![Collection of vintage and antique hammers showcasing various types and styles](https://ik.imagekit.io/appraisily/SEO/antique-hammer-identification/antique-hammer-identification-image-1_7el1gdAZL.png)

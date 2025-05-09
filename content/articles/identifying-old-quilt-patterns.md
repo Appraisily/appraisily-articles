@@ -46,8 +46,15 @@ structured_data:
     name: Appraisily Team
   datePublished: '2023-06-16T14:30:00.000Z'
   dateModified: '2023-06-16T14:30:00.000Z'
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/identifying-old-quilt-patterns/identifying-old-quilt-patterns-image-1_z1MX8Pv7_.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/identifying-old-quilt-patterns/identifying-old-quilt-patterns-image-1_z1MX8Pv7_.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Vintage star pattern patchwork quilt with traditional American design
+      elements
   publisher:
     '@type': Organization
     name: Appraisily
@@ -57,6 +64,71 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/identifying-old-quilt-patterns'
+  keywords:
+    - old quilt patterns
+    - antique quilt identification
+    - vintage quilt dating
+    - historical quilt designs
+    - quilt pattern authentication
+    - quilt valuation
+    - traditional American quilts
+  about:
+    '@type': Thing
+    name: Antique Quilts
+    description: >-
+      Historical textile artifacts featuring distinctive patterns and techniques
+      from different eras
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes a quilt antique versus vintage?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Quilts from the 1920s or earlier are generally considered antique,
+            while those made between 1930 and 1965 fall into the vintage
+            category.
+      - '@type': Question
+        name: When was the first quilt pattern published in America?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The honeycomb/hexagon pattern was the first quilt pattern published
+            in an American periodical (Godey's Lady's Book) in 1835.
+  HowTo:
+    '@context': 'https://schema.org'
+    '@type': HowTo
+    name: Identifying Old Quilt Patterns
+    description: >-
+      A step-by-step guide to identifying and dating antique and vintage quilt
+      patterns through historical context and design elements
+    tool:
+      - Reference books
+      - Magnifying glass
+      - Camera
+      - Measuring tape
+    step:
+      - '@type': HowToStep
+        name: Examine the Historical Timeline
+        text: >-
+          Study the chronological development of quilt patterns from different
+          eras, including early American quilting from the 1700s featuring
+          wholecloth or broderie perse designs, and geometric patterns that
+          emerged between 1800-1850 like LeMoyne Star and Nine Patch.
+        image: >-
+          https://ik.imagekit.io/appraisily/SEO/identifying-old-quilt-patterns/identifying-old-quilt-patterns-image-2_ORwDk9UsH.png
+      - '@type': HowToStep
+        name: Identify Key Pattern Characteristics
+        text: >-
+          Look for distinctive features of the quilt pattern, comparing them to
+          known historical patterns from different time periods.
+      - '@type': HowToStep
+        name: Analyze Fabric and Construction
+        text: >-
+          Examine the fabric types, colors, and construction techniques which
+          can provide important clues about when the quilt was made.
 ---
 
 ![Antique patchwork quilt with star pattern](https://ik.imagekit.io/appraisily/SEO/identifying-old-quilt-patterns/identifying-old-quilt-patterns-image-1_z1MX8Pv7_.png)

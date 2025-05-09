@@ -38,8 +38,15 @@ structured_data:
     Discover what makes old Mason jars valuable, how to identify rare specimens,
     and the current market prices for antique canning jars in this complete
     guide.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-mason-jars-value/old-mason-jars-value-image-1_a2RbPPTAt.png
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-mason-jars-value/old-mason-jars-value-image-1_a2RbPPTAt.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable vintage blue Ball Mason jars from the early 1900s
+      showing different embossing patterns and closure types
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,6 +59,25 @@ structured_data:
   datePublished: '2024-06-29T14:30:00.000Z'
   dateModified: '2024-06-29T14:30:00.000Z'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/old-mason-jars-value'
+'@context': 'https://schema.org'
+'@type': FAQPage
+mainEntity:
+  - '@type': Question
+    name: What Makes Old Mason Jars Valuable?
+    acceptedAnswer:
+      '@type': Answer
+      text: >-
+        Several factors influence the value of vintage Mason jars, from age and
+        rarity to condition and distinctive features. Most common Mason jars are
+        worth between $2 to $20, but rare specimens can command prices upwards
+        of several hundred or even a thousand dollars. The key factors that
+        influence value include age (older jars from the 1800s and early 1900s
+        are more valuable), rarity (limited production runs or manufacturing
+        errors increase value), color (amber, green, and cobalt blue are worth
+        more than clear or aqua), condition (jars without damage and with
+        original closures are more desirable), embossing and markings (unique
+        embossing increases value), and brand (jars from less common
+        manufacturers like Atlas, Drey, and Lamb often command premium prices).
 ---
 
 Whether discovered in your grandmother's cellar or spotted at a local estate sale, vintage Mason jars carry both practical and historical significance that has made them increasingly desirable to collectors. These utilitarian glass vessels, originally designed for home food preservation, have transformed into sought-after collectibles that can command impressive prices.

@@ -39,8 +39,6 @@ structured_data:
     Discover the fascinating world of antique scissors values, from
     identification tips to current market prices. Learn what makes these
     exquisite tools valuable collectibles.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/antique-scissors-values/antique-scissors-values-image-1_hSgShHrkS.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -52,7 +50,55 @@ structured_data:
     logo:
       '@type': ImageObject
       url: 'https://appraisily.com/logo.png'
+      width: '600'
+      height: '60'
   mainEntityOfPage: 'https://articles.appraisily.com/articles/antique-scissors-values'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/antique-scissors-values/antique-scissors-values-image-1_hSgShHrkS.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Collection of valuable antique scissors featuring ornate handles, stork
+      designs, and intricate engravings from the 18th-19th centuries
+  keywords:
+    - antique scissors values
+    - vintage scissors identification
+    - collectible sewing scissors
+    - rare stork scissors
+    - antique embroidery scissors
+    - 19th century scissors worth
+    - antique shears pricing
+  about:
+    '@type': Thing
+    name: Antique Scissors
+    description: >-
+      Historical scissors dating from ancient times through the 19th century,
+      valued for their craftsmanship, materials, and design elements.
+  timeRequired: PT10M
+  hasPart:
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: When did scissors first appear in history?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Scissors date back to ancient Egypt, around 1500 BCE, though the
+            cross-blade design we recognize today emerged in ancient Rome around
+            100 CE.
+      - '@type': Question
+        name: When was the golden age of scissors craftsmanship?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            The true golden age of scissors craftsmanship occurred during the
+            18th and 19th centuries, when manufacturers began producing them
+            with elaborately designed handles featuring motifs like birds,
+            flowers, and mythological figures. Sheffield, England became a major
+            production center, while German and French workshops also produced
+            distinctive styles.
 ---
 
 Antique scissors represent fascinating pieces of functional art that have evolved through centuries of craftsmanship. These tools merge practicality with stunning design elements, making them highly sought after by collectors worldwide. Whether inherited from a family member or discovered at an estate sale, understanding the value of antique scissors can help you appreciate their historical significance and potential worth.

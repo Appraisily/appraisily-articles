@@ -38,8 +38,6 @@ structured_data:
     Discover what factors determine old stamps' values, how to identify rare
     stamps worth thousands, and where to get your collection professionally
     appraised.
-  image: >-
-    https://ik.imagekit.io/appraisily/SEO/old-stamps-values/old-stamps-values-image-1_K6kcNV728I.png
   author:
     '@type': Organization
     name: Appraisily Team
@@ -54,6 +52,48 @@ structured_data:
   mainEntityOfPage:
     '@type': WebPage
     '@id': 'https://articles.appraisily.com/articles/old-stamps-values'
+  image:
+    '@type': ImageObject
+    url: >-
+      https://ik.imagekit.io/appraisily/SEO/old-stamps-values/old-stamps-values-image-1_K6kcNV728I.png
+    width: '1200'
+    height: '630'
+    caption: >-
+      Rare and valuable antique postage stamps including the British Guiana
+      one-cent magenta
+  about:
+    '@type': Thing
+    name: Stamp Collecting
+    description: >-
+      Information about old stamp values, rare stamp identification, and
+      philately appraisal
+  keywords: >-
+    old stamps values, rare stamp identification, valuable postage stamps,
+    philately appraisal, antique stamp collection
+  FAQPage:
+    '@context': 'https://schema.org'
+    '@type': FAQPage
+    mainEntity:
+      - '@type': Question
+        name: What makes a stamp valuable?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            Several factors determine a stamp's value including rarity (limited
+            printing runs, printing errors), condition, age, historical
+            significance, and demand among collectors. Contrary to popular
+            belief, age alone doesn't make a stamp valuable - approximately 98%
+            of all stamps are worth only their face value or slightly more.
+      - '@type': Question
+        name: How are stamp values distributed?
+        acceptedAnswer:
+          '@type': Answer
+          text: >-
+            About 98% of all stamps are worth only their face value or slightly
+            more. Of the remaining 2%, about half (1% of total) are worth
+            between $10 and $100, while the truly valuable stamps—just 1% of all
+            stamps in existence—can command prices ranging from hundreds to
+            millions of dollars.
 ---
 
 ## Understanding the Value of Old Stamps
