@@ -15,7 +15,26 @@ meta_title: "Antique 20 Gallon Crock Values & Price Guide | Appraisily"
 meta_description: "Expert guide to antique 20-gallon crock values, including price ranges, maker marks, and condition assessment to determine what your vintage stoneware is worth."
 canonical_url: "https://www.appraisily.com/antique-20-gallon-crock-value/"
 keywords: "antique 20 gallon crock value, 20 gallon stoneware crock, vintage crocks worth, Red Wing crock value, antique stoneware prices, large crock values, Robinson Ransbottom crock, Western Stoneware crock"
-structured_data: '{"@context":"https://schema.org","@type":"Article","headline":"Antique 20 Gallon Crock Value Guide: What Collectors Need to Know in 2024","image":"https://ik.imagekit.io/appraisily/SEO/antique-20-gallon-crock-value/antique-20-gallon-crock-value-image-1_DM9S9NlCr.png","author":{"@type":"Organization","name":"Appraisily Team"},"publisher":{"@type":"Organization","name":"Appraisily","logo":{"@type":"ImageObject","url":"https://www.appraisily.com/logo.png"}},"datePublished":"2024-07-05","dateModified":"2024-07-05","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.appraisily.com/antique-20-gallon-crock-value/"},"description":"Discover what your antique 20-gallon crock is worth in today\'s market. Learn about pricing factors, identification marks, and how to maximize your stoneware\'s value."}'
+structured_data:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  headline: "Antique 20 Gallon Crock Value Guide: What Collectors Need to Know in 2024"
+  image: "https://ik.imagekit.io/appraisily/SEO/antique-20-gallon-crock-value/antique-20-gallon-crock-value-image-1_DM9S9NlCr.png"
+  author:
+    "@type": "Organization"
+    name: "Appraisily Team"
+  publisher:
+    "@type": "Organization"
+    name: "Appraisily"
+    logo:
+      "@type": "ImageObject"
+      url: "https://www.appraisily.com/logo.png"
+  datePublished: "2024-07-05"
+  dateModified: "2024-07-05"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://www.appraisily.com/antique-20-gallon-crock-value/"
+  description: "Discover what your antique 20-gallon crock is worth in today's market. Learn about pricing factors, identification marks, and how to maximize your stoneware's value."
 ---
 
 Antique 20-gallon crocks are massive stoneware pieces that have become highly sought after by collectors and interior designers alike. These substantial vessels once served utilitarian purposes in American households but now command impressive prices in the antique market. Whether you've inherited one of these impressive crocks or are considering adding one to your collection, understanding their value is essential.
