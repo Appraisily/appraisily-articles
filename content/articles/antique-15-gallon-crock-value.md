@@ -44,7 +44,7 @@ Antique 15 gallon crocks were workhorses in American households from the mid-19t
 
 The value of a 15 gallon crock can vary significantly depending on several key factors. According to expert appraisals, these substantial pieces typically sell for between $200 and $550 in today's market, though exceptional examples can command prices well over $1,000.
 
-{{< data-modules/stats-highlight title="Key Factors Affecting 15 Gallon Crock Values" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Factors Affecting 15 Gallon Crock Values" columns="3" />}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/antique-15-gallon-crock-value/antique-15-gallon-crock-value-image-2__Dz0ji16M.png" alt="Red Wing 15 gallon crock with distinctive wing marking" caption="A Red Wing 15 gallon crock showing the distinctive wing marking that adds significant value to these antique pieces" />}}
 
