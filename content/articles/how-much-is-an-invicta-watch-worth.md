@@ -128,7 +128,7 @@ Invicta watches span a wide price spectrum, from affordable entry-level models t
 
 It's worth noting that Invicta watches are frequently sold at significant discounts from their manufacturer's suggested retail price (MSRP). According to several retailers like InvictaStores.com and TimeAfterTime, many models are regularly offered at 70-80% below their listed MSRP. For example, a watch with an MSRP of $895 might commonly sell for $179.
 
-{{< data-modules/stats-highlight title="Invicta Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Invicta Market Insights" columns="3" / / />}}
 
 - **75-85%**: Average discount from MSRP at authorized retailers
 - **$200**: Average actual selling price of most Invicta watches
@@ -168,13 +168,13 @@ The materials used in construction significantly impact value:
 As with any timepiece, condition dramatically affects value:
 
 {{< interactive-modules/condition-checklist title="Invicta Watch Condition Assessment" description="Check applicable items to determine your watch's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Watch runs accurately and keeps proper time" / />}}
-  {{< interactive-modules/checklist-item label="Crystal is clear with no scratches or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Case shows minimal wear with no deep scratches" / />}}
-  {{< interactive-modules/checklist-item label="Bracelet/strap is intact with no damage" / />}}
-  {{< interactive-modules/checklist-item label="All functions work properly (chronograph, date, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Original box and papers included" / />}}
-  {{< interactive-modules/checklist-item label="Watch has never been serviced by non-authorized technicians" / />}}
+  {{< interactive-modules/checklist-item label="Watch runs accurately and keeps proper time" / / />}}
+  {{< interactive-modules/checklist-item label="Crystal is clear with no scratches or cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Case shows minimal wear with no deep scratches" / / />}}
+  {{< interactive-modules/checklist-item label="Bracelet/strap is intact with no damage" / / />}}
+  {{< interactive-modules/checklist-item label="All functions work properly (chronograph, date, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Original box and papers included" / / />}}
+  {{< interactive-modules/checklist-item label="Watch has never been serviced by non-authorized technicians" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Age and Rarity
@@ -191,7 +191,7 @@ One of the most common questions about Invicta watches concerns their resale val
 
 ### Typical Resale Value Percentages
 
-{{< data-modules/stats-highlight title="Invicta Resale Value Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Invicta Resale Value Statistics" columns="3" / / />}}
 
 - **20-40%**: Average resale value compared to original retail price
 - **5-15%**: Typical resale value compared to MSRP

@@ -182,7 +182,7 @@ Known for high-quality mid-century designs that combined functionality with slee
 Multiple factors impact the valuation of vintage toasters beyond just age. Understanding these elements helps collectors make informed purchasing decisions and accurately assess their own pieces.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
 
 ### Age and Rarity
 Toasters from the 1910s and 1920s are generally more valuable than later models, with particularly rare designs commanding premium prices. Models with limited production runs or from smaller manufacturers often bring higher values.
@@ -205,16 +205,16 @@ Models that represent important technological breakthroughs (like the first pop-
 ![Chrome 1950s Sunbeam toaster with distinctive mid-century styling](https://ik.imagekit.io/appraisily/SEO/antique-toaster-value/antique-toaster-value-image-4_JWaG0d1JJH.png)
 
 {{< interactive-modules/condition-checklist title="Antique Toaster Condition Assessment" description="Use this checklist to evaluate the condition of a vintage toaster" >}}
-  {{< interactive-modules/checklist-item label="Chrome plating is bright and intact with minimal pitting" / />}}
-  {{< interactive-modules/checklist-item label="Electrical cord is original or period-appropriate" / />}}
-  {{< interactive-modules/checklist-item label="All mechanical components function smoothly" / />}}
-  {{< interactive-modules/checklist-item label="Heating elements work properly without breaks" / />}}
-  {{< interactive-modules/checklist-item label="Original bakelite or wooden handles are undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements and logos remain clear and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Timer mechanisms function correctly (for automatic models)" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer markings are visible" / />}}
-  {{< interactive-modules/checklist-item label="Hinges and doors operate smoothly (for swing-door models)" / />}}
+  {{< interactive-modules/checklist-item label="Chrome plating is bright and intact with minimal pitting" / / />}}
+  {{< interactive-modules/checklist-item label="Electrical cord is original or period-appropriate" / / />}}
+  {{< interactive-modules/checklist-item label="All mechanical components function smoothly" / / />}}
+  {{< interactive-modules/checklist-item label="Heating elements work properly without breaks" / / />}}
+  {{< interactive-modules/checklist-item label="Original bakelite or wooden handles are undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements and logos remain clear and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="Timer mechanisms function correctly (for automatic models)" / / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer markings are visible" / / />}}
+  {{< interactive-modules/checklist-item label="Hinges and doors operate smoothly (for swing-door models)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Valuable Antique Toasters" level="2" >}}

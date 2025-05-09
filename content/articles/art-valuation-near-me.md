@@ -104,7 +104,7 @@ Amateur valuations or online estimations might seem convenient, but they lack th
 
 ## Types of Art Valuation Services
 
-{{< data-modules/stats-highlight title="Art Valuation Options" columns="3" / />}}
+{{< data-modules/stats-highlight title="Art Valuation Options" columns="3" / / />}}
 
 When seeking art valuation near you, you'll encounter several types of services:
 
@@ -210,13 +210,13 @@ A professional appraisal culminates in a detailed written report that typically 
 - Statement of intended use
 
 {{< interactive-modules/condition-checklist title="Preparation Checklist for Art Appraisal" description="Items to gather before your appraisal appointment" >}}
-  {{< interactive-modules/checklist-item label="Gather any documentation of provenance" / />}}
-  {{< interactive-modules/checklist-item label="Collect receipts from original purchase" / />}}
-  {{< interactive-modules/checklist-item label="Photograph artwork from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Document any signatures or markings" / />}}
-  {{< interactive-modules/checklist-item label="Note any known restoration work" / />}}
-  {{< interactive-modules/checklist-item label="Prepare a list of questions for the appraiser" / />}}
-  {{< interactive-modules/checklist-item label="Research the artist if information is available" / />}}
+  {{< interactive-modules/checklist-item label="Gather any documentation of provenance" / / />}}
+  {{< interactive-modules/checklist-item label="Collect receipts from original purchase" / / />}}
+  {{< interactive-modules/checklist-item label="Photograph artwork from multiple angles" / / />}}
+  {{< interactive-modules/checklist-item label="Document any signatures or markings" / / />}}
+  {{< interactive-modules/checklist-item label="Note any known restoration work" / / />}}
+  {{< interactive-modules/checklist-item label="Prepare a list of questions for the appraiser" / / />}}
+  {{< interactive-modules/checklist-item label="Research the artist if information is available" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Art Valuation Costs and Pricing

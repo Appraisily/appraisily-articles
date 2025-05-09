@@ -121,7 +121,7 @@ A proper fine art appraisal involves comprehensive research into the artwork's:
 
 Unlike casual opinions or online estimations, professional appraisals follow strict methodologies and adhere to industry standards. Appraisers must be impartial third parties with no interest in purchasing the item they're evaluating.
 
-{{< data-modules/stats-highlight title="Fine Art Appraisal: Key Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Fine Art Appraisal: Key Facts" columns="3" / / />}}
 <tr>
   <td>Average Appraisal Cost</td>
   <td>$125-$350/hour</td>
@@ -201,14 +201,14 @@ These organizations maintain searchable databases where you can find appraisers 
 Fine art encompasses numerous mediums, periods, and geographical regions. When selecting an appraiser, look for someone with expertise in your specific type of artwork:
 
 {{< interactive-modules/condition-checklist title="Appraiser Specialization Areas" description="Common fine art specializations include:" >}}
-  {{< interactive-modules/checklist-item label="Contemporary Art" / />}}
-  {{< interactive-modules/checklist-item label="Old Masters" / />}}
-  {{< interactive-modules/checklist-item label="American Art" / />}}
-  {{< interactive-modules/checklist-item label="Asian Art" / />}}
-  {{< interactive-modules/checklist-item label="European Paintings" / />}}
-  {{< interactive-modules/checklist-item label="Sculptures" / />}}
-  {{< interactive-modules/checklist-item label="Prints and Works on Paper" / />}}
-  {{< interactive-modules/checklist-item label="Photography" / />}}
+  {{< interactive-modules/checklist-item label="Contemporary Art" / / />}}
+  {{< interactive-modules/checklist-item label="Old Masters" / / />}}
+  {{< interactive-modules/checklist-item label="American Art" / / />}}
+  {{< interactive-modules/checklist-item label="Asian Art" / / />}}
+  {{< interactive-modules/checklist-item label="European Paintings" / / />}}
+  {{< interactive-modules/checklist-item label="Sculptures" / / />}}
+  {{< interactive-modules/checklist-item label="Prints and Works on Paper" / / />}}
+  {{< interactive-modules/checklist-item label="Photography" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Regional firms like [New York Fine Art Appraisers](https://nyfaa.com/) offer specialized expertise in various art categories and maintain offices in multiple cities, providing both local knowledge and broad market understanding.

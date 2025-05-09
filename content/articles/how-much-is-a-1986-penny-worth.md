@@ -94,7 +94,7 @@ The 1986 Lincoln Memorial penny represents a fascinating chapter in American coi
 
 ![1986 Lincoln Memorial Penny obverse showing Lincoln profile](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1986-penny-worth/how-much-is-a-1986-penny-worth-image-1_dUm2F3vJh.png)
 
-{{< data-modules/stats-highlight title="1986 Penny Quick Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="1986 Penny Quick Facts" columns="3" / / />}}
 <tr>
   <td>Composition</td>
   <td>97.5% zinc, 2.5% copper</td>
@@ -159,7 +159,7 @@ Most 1986 pennies you'll encounter are worth very little over face value. Standa
 The 1986 penny was produced in large quantities at multiple U.S. Mint facilities. Understanding mintage figures helps collectors gauge relative scarcity and potential value.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="1986 Lincoln Cent Production Numbers" columns="3" / />}}
+{{< data-modules/stats-highlight title="1986 Lincoln Cent Production Numbers" columns="3" / / />}}
 <tr>
   <td>Philadelphia (No Mint Mark)</td>
   <td>4,491,395,493</td>
@@ -270,13 +270,13 @@ To determine if your 1986 penny might be worth more than face value, follow thes
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="1986 Penny Examination Checklist" description="Use this checklist to evaluate your 1986 pennies for valuable attributes" >}}
-  {{< interactive-modules/checklist-item label="Check the mint mark (or absence)" / />}}
-  {{< interactive-modules/checklist-item label="Examine for doubling with a magnifying glass" / />}}
-  {{< interactive-modules/checklist-item label="Look for off-center striking" / />}}
-  {{< interactive-modules/checklist-item label="Check AM spacing in AMERICA on reverse" / />}}
-  {{< interactive-modules/checklist-item label="Weigh the coin (should be 2.5 grams)" / />}}
-  {{< interactive-modules/checklist-item label="Look for die cracks or raised lines" / />}}
-  {{< interactive-modules/checklist-item label="Check for unusual coloration or metal composition" / />}}
+  {{< interactive-modules/checklist-item label="Check the mint mark (or absence)" / / />}}
+  {{< interactive-modules/checklist-item label="Examine for doubling with a magnifying glass" / / />}}
+  {{< interactive-modules/checklist-item label="Look for off-center striking" / / />}}
+  {{< interactive-modules/checklist-item label="Check AM spacing in AMERICA on reverse" / / />}}
+  {{< interactive-modules/checklist-item label="Weigh the coin (should be 2.5 grams)" / / />}}
+  {{< interactive-modules/checklist-item label="Look for die cracks or raised lines" / / />}}
+  {{< interactive-modules/checklist-item label="Check for unusual coloration or metal composition" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Mint Mark Identification

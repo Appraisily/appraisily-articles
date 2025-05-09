@@ -227,7 +227,7 @@ Several key factors determine whether a VHS tape is merely nostalgic junk or a v
 
 ![Disney Black Diamond VHS tape with collector pricing information](https://ik.imagekit.io/appraisily/SEO/value-of-old-vhs-movies/value-of-old-vhs-movies-image-3_TiTv9I7VX.png)
 
-{{< data-modules/stats-highlight title="Key Value Factors for VHS Tapes" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for VHS Tapes" columns="3" / / />}}
 
 ### 1. Condition and Packaging
 
@@ -326,16 +326,16 @@ Surprisingly, vintage wrestling events on VHS can be quite valuable:
 Sealed copies of rare wrestling events can sell for $50-200, while used copies typically bring $10-50.
 
 {{< interactive-modules/condition-checklist title="VHS Value Assessment Checklist" description="Use this checklist to evaluate potential value in your VHS collection" >}}
-  {{< interactive-modules/checklist-item label="Factory sealed in original shrink wrap" / />}}
-  {{< interactive-modules/checklist-item label="First pressing/original release of the film" / />}}
-  {{< interactive-modules/checklist-item label="Horror genre, especially 70s-80s cult classics" / />}}
-  {{< interactive-modules/checklist-item label="Limited edition or special release version" / />}}
-  {{< interactive-modules/checklist-item label="Contains unaltered content later changed or censored" / />}}
-  {{< interactive-modules/checklist-item label="Original promotional materials or inserts included" / />}}
-  {{< interactive-modules/checklist-item label="No rental markings or store stickers" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, mold, or tape deterioration" / />}}
-  {{< interactive-modules/checklist-item label="Complete with all original packaging components" / />}}
-  {{< interactive-modules/checklist-item label="Professionally graded by CGC or similar service" / />}}
+  {{< interactive-modules/checklist-item label="Factory sealed in original shrink wrap" / / />}}
+  {{< interactive-modules/checklist-item label="First pressing/original release of the film" / / />}}
+  {{< interactive-modules/checklist-item label="Horror genre, especially 70s-80s cult classics" / / />}}
+  {{< interactive-modules/checklist-item label="Limited edition or special release version" / / />}}
+  {{< interactive-modules/checklist-item label="Contains unaltered content later changed or censored" / / />}}
+  {{< interactive-modules/checklist-item label="Original promotional materials or inserts included" / / />}}
+  {{< interactive-modules/checklist-item label="No rental markings or store stickers" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage, mold, or tape deterioration" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with all original packaging components" / / />}}
+  {{< interactive-modules/checklist-item label="Professionally graded by CGC or similar service" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Valuable VHS Tapes" level="2" >}}

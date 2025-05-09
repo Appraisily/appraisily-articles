@@ -160,13 +160,13 @@ Limited production runs typically command higher prices in the collectibles mark
 The condition of a figurine is perhaps the most critical factor affecting its value. Mint condition pieces (those with no chips, cracks, or repairs) can fetch prices several times higher than damaged examples of the same figurine.
 
 {{< interactive-modules/condition-checklist title="Armani Figurine Condition Assessment" description="Check applicable items to evaluate your figurine's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks visible anywhere on the figurine" / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with no fading or wear" / />}}
-  {{< interactive-modules/checklist-item label="All delicate elements (fingers, flowers, etc.) intact" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work has been done" / />}}
-  {{< interactive-modules/checklist-item label="Original box and packaging materials preserved" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity present" / />}}
-  {{< interactive-modules/checklist-item label="Base is undamaged with clear markings" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks visible anywhere on the figurine" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with no fading or wear" / / />}}
+  {{< interactive-modules/checklist-item label="All delicate elements (fingers, flowers, etc.) intact" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work has been done" / / />}}
+  {{< interactive-modules/checklist-item label="Original box and packaging materials preserved" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity present" / / />}}
+  {{< interactive-modules/checklist-item label="Base is undamaged with clear markings" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Design and Subject Matter
@@ -188,7 +188,7 @@ Authentic Giuseppe Armani figurines bear specific markings that confirm their au
 
 Complete sets with original boxes, certificates of authenticity, and related documentation can significantly increase value. Some collectors are willing to pay a premium for figurines that come with their complete original presentation materials.
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / / />}}
 
 {{< content-modules/section-header title="Current Market Value Ranges" level="2" >}}
   Today's average selling prices for Giuseppe Armani figurines across different categories and conditions.

@@ -121,7 +121,7 @@ Rarity plays a much more significant role. Limited production runs, unusual desi
 
 Some brands have significantly more collector appeal than others. Singer, the most recognizable name in sewing machines, produced millions of machines – but certain models are particularly valuable:
 
-{{< data-modules/stats-highlight title="Most Valuable Sewing Machine Brands" columns="3" / />}}
+{{< data-modules/stats-highlight title="Most Valuable Sewing Machine Brands" columns="3" / / />}}
 
 - **Singer**: The most collected brand, particularly models from the 1850s-1880s
 - **White**: Known for high-quality machines with distinctive features
@@ -134,13 +134,13 @@ Some brands have significantly more collector appeal than others. Singer, the mo
 The condition of your sewing machine dramatically impacts its value. Collectors and enthusiasts generally evaluate machines on these criteria:
 
 {{< interactive-modules/condition-checklist title="Sewing Machine Condition Assessment" description="Factors that determine condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Complete decals with minimal fading" / />}}
-  {{< interactive-modules/checklist-item label="Mechanically functional with smooth operation" / />}}
-  {{< interactive-modules/checklist-item label="Original parts (not reproduction replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Complete with accessories and attachments" / />}}
-  {{< interactive-modules/checklist-item label="Original cabinet or case in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Free from rust, damage, or poor repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Complete decals with minimal fading" / / />}}
+  {{< interactive-modules/checklist-item label="Mechanically functional with smooth operation" / / />}}
+  {{< interactive-modules/checklist-item label="Original parts (not reproduction replacements)" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with accessories and attachments" / / />}}
+  {{< interactive-modules/checklist-item label="Original cabinet or case in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Free from rust, damage, or poor repairs" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness

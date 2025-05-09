@@ -106,7 +106,7 @@ The price of jade varies dramatically - from as little as $5 per carat for low-q
 
 In this comprehensive guide, we'll explore the factors that determine jade's worth, examine price ranges for different types and qualities, and provide insights into identifying valuable jade pieces in today's market.
 
-{{< data-modules/stats-highlight title="Jade Value Snapshot" columns="3" / />}}
+{{< data-modules/stats-highlight title="Jade Value Snapshot" columns="3" / / />}}
 <tr>
   <td>$5 - $30K+</td>
   <td>Price range per carat</td>
@@ -193,13 +193,13 @@ Jade's value is uniquely influenced by cultural factors:
 - **Traditional Craftsmanship**: Pieces by renowned carvers command significant premiums.
 
 {{< interactive-modules/condition-checklist title="Jade Quality Assessment Checklist" description="Key factors to evaluate when determining jade quality and value" >}}
-  {{< interactive-modules/checklist-item label="Vibrant, even color distribution" / />}}
-  {{< interactive-modules/checklist-item label="High degree of translucency" / />}}
-  {{< interactive-modules/checklist-item label="Fine-grained, smooth texture" / />}}
-  {{< interactive-modules/checklist-item label="Absence of cracks, fractures or visible inclusions" / />}}
-  {{< interactive-modules/checklist-item label="High polish and luster" / />}}
-  {{< interactive-modules/checklist-item label="Authentic natural material (not treated or imitation)" / />}}
-  {{< interactive-modules/checklist-item label="Balanced proportions and skilled craftsmanship" / />}}
+  {{< interactive-modules/checklist-item label="Vibrant, even color distribution" / / />}}
+  {{< interactive-modules/checklist-item label="High degree of translucency" / / />}}
+  {{< interactive-modules/checklist-item label="Fine-grained, smooth texture" / / />}}
+  {{< interactive-modules/checklist-item label="Absence of cracks, fractures or visible inclusions" / / />}}
+  {{< interactive-modules/checklist-item label="High polish and luster" / / />}}
+  {{< interactive-modules/checklist-item label="Authentic natural material (not treated or imitation)" / / />}}
+  {{< interactive-modules/checklist-item label="Balanced proportions and skilled craftsmanship" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Jade Price Ranges by Quality and Type" level="2" >}}
@@ -432,7 +432,7 @@ In traditional Chinese markets, jade may be priced using:
 
 This is particularly true for raw material and larger carvings in Asian markets.
 
-{{< data-modules/stats-highlight title="Jade Value Conversion Estimates" columns="3" / />}}
+{{< data-modules/stats-highlight title="Jade Value Conversion Estimates" columns="3" / / />}}
 <tr>
   <td>$1,000/carat</td>
   <td>$5,000/gram</td>

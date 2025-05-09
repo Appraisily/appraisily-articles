@@ -88,7 +88,7 @@ An antiques appraisal is a professional assessment that provides an estimated va
 
 Professional appraisals are conducted for various reasons:
 
-{{< data-modules/stats-highlight title="Common Reasons for Antiques Appraisals" columns="3" / />}}
+{{< data-modules/stats-highlight title="Common Reasons for Antiques Appraisals" columns="3" / / />}}
 
 - **Insurance Purposes:** Documenting value for coverage of valuable items
 - **Estate Settlement:** Dividing assets among heirs
@@ -196,12 +196,12 @@ Before the actual appraisal begins, you'll typically have an initial conversatio
 During the actual appraisal, the professional will:
 
 {{< interactive-modules/condition-checklist title="Antique Examination Process" description="Key elements assessed during a professional appraisal" >}}
-  {{< interactive-modules/checklist-item label="Physical inspection of materials, construction, and condition" / />}}
-  {{< interactive-modules/checklist-item label="Verification of signatures, marks, or labels" / />}}
-  {{< interactive-modules/checklist-item label="Measurement and detailed photography" / />}}
-  {{< interactive-modules/checklist-item label="Assessment of age and provenance" / />}}
-  {{< interactive-modules/checklist-item label="Evaluation of rarity and historical significance" / />}}
-  {{< interactive-modules/checklist-item label="Identification of repairs, restoration, or alterations" / />}}
+  {{< interactive-modules/checklist-item label="Physical inspection of materials, construction, and condition" / / />}}
+  {{< interactive-modules/checklist-item label="Verification of signatures, marks, or labels" / / />}}
+  {{< interactive-modules/checklist-item label="Measurement and detailed photography" / / />}}
+  {{< interactive-modules/checklist-item label="Assessment of age and provenance" / / />}}
+  {{< interactive-modules/checklist-item label="Evaluation of rarity and historical significance" / / />}}
+  {{< interactive-modules/checklist-item label="Identification of repairs, restoration, or alterations" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 3. Research and Valuation

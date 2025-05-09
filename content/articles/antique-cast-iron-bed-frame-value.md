@@ -126,7 +126,7 @@ Antique cast iron bed frames have experienced a remarkable resurgence in popular
 
 In this comprehensive guide, we'll explore everything you need to know about antique cast iron bed frames - from identifying authentic period pieces to determining fair market values across different styles, conditions, and sizes. We'll also provide expert tips on restoration considerations and where to find reputable dealers and resources.
 
-{{< data-modules/stats-highlight title="Antique Cast Iron Bed Market Overview" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Cast Iron Bed Market Overview" columns="3" / / />}}
 - **$400-$2,500**: Average price range for authentic antique cast iron beds
 - **1880-1920**: Prime manufacturing period for collectible iron beds
 - **30-50%**: Value increase for beds with original finish and components
@@ -188,13 +188,13 @@ Many valuable antique iron beds bear manufacturer's marks, though these can be d
 According to the [Cathouse Beds guide on identifying antique iron bed styles](https://www.cathousebeds.com/decoding-timeless-elegance-a-guide-to-identifying-antique-iron-bed-styles/), "Curved lines and swirls: Unlike the straight lines of more modern designs, vintage wrought iron beds frequently showcase gracefully curved lines and swirls."
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use this checklist to evaluate whether a cast iron bed is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Visible hand-casting seams and minor irregularities" / />}}
-  {{< interactive-modules/checklist-item label="Square-headed nuts and bolts rather than hex designs" / />}}
-  {{< interactive-modules/checklist-item label="Traditional mortise and tenon or peg and slot joinery" / />}}
-  {{< interactive-modules/checklist-item label="Genuine patina consistent with age (not artificially applied)" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's mark or patent information cast into frame" / />}}
-  {{< interactive-modules/checklist-item label="Original finish shows appropriate wear patterns" / />}}
-  {{< interactive-modules/checklist-item label="Design elements consistent with documented period styles" / />}}
+  {{< interactive-modules/checklist-item label="Visible hand-casting seams and minor irregularities" / / />}}
+  {{< interactive-modules/checklist-item label="Square-headed nuts and bolts rather than hex designs" / / />}}
+  {{< interactive-modules/checklist-item label="Traditional mortise and tenon or peg and slot joinery" / / />}}
+  {{< interactive-modules/checklist-item label="Genuine patina consistent with age (not artificially applied)" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's mark or patent information cast into frame" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish shows appropriate wear patterns" / / />}}
+  {{< interactive-modules/checklist-item label="Design elements consistent with documented period styles" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Key Factors Affecting Value" level="2" >}}
@@ -387,14 +387,14 @@ When considering restoration of an antique cast iron bed:
 According to collectors on antique forums like [Reddit's r/Antiques](https://www.reddit.com/r/Antiques/comments/18f4pmp/does_anyone_know_the_age_and_origin_of_this_cast/), antique cast iron beds from the late 1800s or early 1900s with straight, clean lines are currently less marketable than those with ornate Victorian styling, though this reflects current trends rather than inherent value.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Guide" description="Use this checklist to evaluate the condition of an antique cast iron bed frame" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact with appropriate patina" / />}}
-  {{< interactive-modules/checklist-item label="No structural damage to major components" / />}}
-  {{< interactive-modules/checklist-item label="All original hardware and joinery mechanisms present" / />}}
-  {{< interactive-modules/checklist-item label="Side rails original and matching the headboard/footboard" / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate modern repairs (excessive welding)" / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust and no significant pitting of the iron" / />}}
-  {{< interactive-modules/checklist-item label="All decorative elements intact without breakage" / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted details preserved if originally present" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with appropriate patina" / / />}}
+  {{< interactive-modules/checklist-item label="No structural damage to major components" / / />}}
+  {{< interactive-modules/checklist-item label="All original hardware and joinery mechanisms present" / / />}}
+  {{< interactive-modules/checklist-item label="Side rails original and matching the headboard/footboard" / / />}}
+  {{< interactive-modules/checklist-item label="No inappropriate modern repairs (excessive welding)" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust and no significant pitting of the iron" / / />}}
+  {{< interactive-modules/checklist-item label="All decorative elements intact without breakage" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-painted details preserved if originally present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Buy and Sell Antique Cast Iron Beds" level="2" >}}
@@ -440,7 +440,7 @@ Private sales between collectors offer advantages:
 
 When selecting a marketplace, consider whether authentication, condition assessment, shipping logistics, and market reach are priorities for your specific situation.
 
-{{< data-modules/stats-highlight title="Antique Cast Iron Bed Market Trends" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Cast Iron Bed Market Trends" columns="3" / / />}}
 - **15-20%**: Average annual appreciation for museum-quality examples
 - **60%**: Buyers prefer beds with original finishes even if worn
 - **3x Higher**: Premium for beds with documented provenance or maker history

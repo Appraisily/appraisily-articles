@@ -122,7 +122,7 @@ There are four primary types of value when it comes to old currency:
 
 Just because a bill is old doesn't automatically make it valuable. However, certain factors can significantly increase a note's worth to collectors and investors.
 
-{{< data-modules/stats-highlight title="Key Factors Affecting Old Money Value" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Factors Affecting Old Money Value" columns="3" / / />}}
 
 {{< content-modules/section-header title="Factors That Make Old Currency Valuable" level="3" >}}
 Understanding what makes old money valuable can help you identify potentially significant items in your collection.
@@ -247,13 +247,13 @@ Many coin shops also deal in paper money and can provide basic appraisals:
 - Consider getting a second opinion for potentially valuable items
 
 {{< interactive-modules/condition-checklist title="Preparation Checklist for Currency Appraisal" description="Before getting your old money appraised, make sure you:" >}}
-{{< interactive-modules/checklist-item label="Handle notes carefully, preferably with cotton gloves" / />}}
-{{< interactive-modules/checklist-item label="Store notes in acid-free holders or albums" / />}}
-{{< interactive-modules/checklist-item label="Photograph both sides of each note" / />}}
-{{< interactive-modules/checklist-item label="Record any known history or provenance" / />}}
-{{< interactive-modules/checklist-item label="Research basic information about the currency type" / />}}
-{{< interactive-modules/checklist-item label="Never clean, press, or repair notes yourself" / />}}
-{{< interactive-modules/checklist-item label="Organize notes by type and denomination" / />}}
+{{< interactive-modules/checklist-item label="Handle notes carefully, preferably with cotton gloves" / / />}}
+{{< interactive-modules/checklist-item label="Store notes in acid-free holders or albums" / / />}}
+{{< interactive-modules/checklist-item label="Photograph both sides of each note" / / />}}
+{{< interactive-modules/checklist-item label="Record any known history or provenance" / / />}}
+{{< interactive-modules/checklist-item label="Research basic information about the currency type" / / />}}
+{{< interactive-modules/checklist-item label="Never clean, press, or repair notes yourself" / / />}}
+{{< interactive-modules/checklist-item label="Organize notes by type and denomination" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Online Appraisal Options" level="3" >}}

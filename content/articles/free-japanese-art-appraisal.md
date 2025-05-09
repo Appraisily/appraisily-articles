@@ -87,7 +87,7 @@ This comprehensive guide will explore the various options for obtaining a free J
 Professional appraisals provide numerous benefits beyond simply determining a monetary value. Expert appraisers can authenticate your piece, place it in its proper historical context, and identify details that might significantly affect its value.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Benefits of Professional Japanese Art Appraisals" columns="3" / />}}
+{{< data-modules/stats-highlight title="Benefits of Professional Japanese Art Appraisals" columns="3" / / />}}
 
 1. **Authentication**: Distinguish genuine antique pieces from reproductions and modern replicas
 2. **Historical Context**: Learn about the artist, period, and cultural significance of your artwork
@@ -206,13 +206,13 @@ Japanese art from different historical periods varies greatly in value:
 Condition dramatically affects value. Appraisers assess:
 
 {{< interactive-modules/condition-checklist title="Condition Factors in Japanese Art Appraisal" description="Appraisers evaluate these condition aspects when determining value" >}}
-  {{< interactive-modules/checklist-item label="Paper quality and condition (for prints and paintings)" / />}}
-  {{< interactive-modules/checklist-item label="Color preservation and fading" / />}}
-  {{< interactive-modules/checklist-item label="Tears, creases, or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Foxing or water damage" / />}}
-  {{< interactive-modules/checklist-item label="Trimming or remounting" / />}}
-  {{< interactive-modules/checklist-item label="Frame condition (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of restoration or conservation" / />}}
+  {{< interactive-modules/checklist-item label="Paper quality and condition (for prints and paintings)" / / />}}
+  {{< interactive-modules/checklist-item label="Color preservation and fading" / / />}}
+  {{< interactive-modules/checklist-item label="Tears, creases, or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Foxing or water damage" / / />}}
+  {{< interactive-modules/checklist-item label="Trimming or remounting" / / />}}
+  {{< interactive-modules/checklist-item label="Frame condition (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of restoration or conservation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Scarcity

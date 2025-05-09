@@ -82,7 +82,7 @@ Antique and vintage buttons can range in value from mere cents to thousands of d
 
 Button collecting, known as "buttonology," has gained popularity as enthusiasts appreciate these miniature works of art. Whether you're a novice collector, inherited a button collection, or simply curious about the value of old buttons you've discovered, this guide will help you understand what makes certain buttons valuable and how to identify potential treasures.
 
-{{< data-modules/stats-highlight title="Old Button Collecting Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Old Button Collecting Facts" columns="3" / / />}}
 <div class="stat-card blue">
   <div class="stat-value">1800s</div>
   <div class="stat-label">Peak Era</div>
@@ -253,16 +253,16 @@ Buttons with documented history or provenance typically command higher prices:
 - Connection to noteworthy collections
 
 {{< interactive-modules/condition-checklist title="Button Value Assessment Checklist" description="Use this checklist to evaluate potential value factors for antique buttons" >}}
-  {{< interactive-modules/checklist-item label="Button is at least 100 years old (pre-1923)" / />}}
-  {{< interactive-modules/checklist-item label="Made from valuable materials (mother of pearl, precious metals, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Features hand-painting or intricate carving" / />}}
-  {{< interactive-modules/checklist-item label="Has maker's mark or known manufacturer" / />}}
-  {{< interactive-modules/checklist-item label="Connected to military history or specific regiment" / />}}
-  {{< interactive-modules/checklist-item label="In excellent condition with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Mounted on original cards or in original packaging" / />}}
-  {{< interactive-modules/checklist-item label="Rare design, limited production, or unusual shape" / />}}
-  {{< interactive-modules/checklist-item label="Part of a complete matching set" / />}}
-  {{< interactive-modules/checklist-item label="Has documented provenance or collection history" / />}}
+  {{< interactive-modules/checklist-item label="Button is at least 100 years old (pre-1923)" / / />}}
+  {{< interactive-modules/checklist-item label="Made from valuable materials (mother of pearl, precious metals, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Features hand-painting or intricate carving" / / />}}
+  {{< interactive-modules/checklist-item label="Has maker's mark or known manufacturer" / / />}}
+  {{< interactive-modules/checklist-item label="Connected to military history or specific regiment" / / />}}
+  {{< interactive-modules/checklist-item label="In excellent condition with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Mounted on original cards or in original packaging" / / />}}
+  {{< interactive-modules/checklist-item label="Rare design, limited production, or unusual shape" / / />}}
+  {{< interactive-modules/checklist-item label="Part of a complete matching set" / / />}}
+  {{< interactive-modules/checklist-item label="Has documented provenance or collection history" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Types of Antique Buttons" level="2" >}}

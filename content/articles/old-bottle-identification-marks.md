@@ -78,7 +78,7 @@ Antique and vintage bottles can reveal fascinating stories about our past, from 
 
 Whether you've discovered an old bottle while metal detecting, inherited family heirlooms, or are building a dedicated collection, understanding how to read these marks is essential for proper identification. In this comprehensive guide, we'll explore the various types of bottle identification marks, what they mean, and how they can help you determine a bottle's approximate age, manufacturer, and potential value.
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Bottle Marks" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Bottle Marks" columns="3" / / />}}
 - **1860s-1920s**: Peak period for embossed bottle production
 - **25,000+**: Approximate number of different glass manufacturers marks documented
 - **400%**: Potential increase in value for bottles with rare or historical maker's marks
@@ -270,14 +270,14 @@ The color of glass can help narrow down a bottle's age:
 According to [TrueLegacyHomes](https://www.truelegacyhomes.com/age-glass-bottles/), certain colors were produced only during specific time periods, making color one of the helpful indicators of a bottle's approximate age.
 
 {{< interactive-modules/condition-checklist title="Bottle Authentication Checklist" description="Use this checklist to evaluate the authenticity and age of your bottle" >}}
-  {{< interactive-modules/checklist-item label="Mold seams run all the way to the top of the finish (machine-made, post-1910)" / />}}
-  {{< interactive-modules/checklist-item label="Has a pontil mark on base (typically pre-1860)" / />}}
-  {{< interactive-modules/checklist-item label="Contains embossed lettering or designs" / />}}
-  {{< interactive-modules/checklist-item label="Shows air bubbles or imperfections in the glass" / />}}
-  {{< interactive-modules/checklist-item label="Base has identifiable maker's mark or logo" / />}}
-  {{< interactive-modules/checklist-item label="Glass color consistent with historical production methods" / />}}
-  {{< interactive-modules/checklist-item label="Lip/finish appears hand-tooled rather than uniform" / />}}
-  {{< interactive-modules/checklist-item label="Shows appropriate wear consistent with age (patina, small scratches)" / />}}
+  {{< interactive-modules/checklist-item label="Mold seams run all the way to the top of the finish (machine-made, post-1910)" / / />}}
+  {{< interactive-modules/checklist-item label="Has a pontil mark on base (typically pre-1860)" / / />}}
+  {{< interactive-modules/checklist-item label="Contains embossed lettering or designs" / / />}}
+  {{< interactive-modules/checklist-item label="Shows air bubbles or imperfections in the glass" / / />}}
+  {{< interactive-modules/checklist-item label="Base has identifiable maker's mark or logo" / / />}}
+  {{< interactive-modules/checklist-item label="Glass color consistent with historical production methods" / / />}}
+  {{< interactive-modules/checklist-item label="Lip/finish appears hand-tooled rather than uniform" / / />}}
+  {{< interactive-modules/checklist-item label="Shows appropriate wear consistent with age (patina, small scratches)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Specialized Bottle Categories and Their Marks" level="2" >}}

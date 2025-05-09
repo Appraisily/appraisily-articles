@@ -112,7 +112,7 @@ Most free antique appraisal apps follow a similar workflow:
 
 The more advanced apps incorporate additional technologies:
 
-{{< data-modules/stats-highlight title="Key App Technologies" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key App Technologies" columns="3" / / />}}
 
 - **Artificial Intelligence**: Computer vision algorithms trained on millions of antique images
 - **Augmented Reality**: Tools that help you examine and measure physical characteristics
@@ -219,14 +219,14 @@ When selecting an antique appraisal app, consider these essential features to fi
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Antique App Feature Checklist" description="Consider these key features when choosing an appraisal app" >}}
-  {{< interactive-modules/checklist-item label="Accurate identification capabilities across multiple antique categories" / />}}
-  {{< interactive-modules/checklist-item label="Value estimation based on current market data" / />}}
-  {{< interactive-modules/checklist-item label="Historical information and provenance details" / />}}
-  {{< interactive-modules/checklist-item label="High-quality image processing for detailed visual analysis" / />}}
-  {{< interactive-modules/checklist-item label="User-friendly interface and easy navigation" / />}}
-  {{< interactive-modules/checklist-item label="Expert consultation options (even if limited in free versions)" / />}}
-  {{< interactive-modules/checklist-item label="Documentation and reporting capabilities" / />}}
-  {{< interactive-modules/checklist-item label="Regular database updates with new items and market values" / />}}
+  {{< interactive-modules/checklist-item label="Accurate identification capabilities across multiple antique categories" / / />}}
+  {{< interactive-modules/checklist-item label="Value estimation based on current market data" / / />}}
+  {{< interactive-modules/checklist-item label="Historical information and provenance details" / / />}}
+  {{< interactive-modules/checklist-item label="High-quality image processing for detailed visual analysis" / / />}}
+  {{< interactive-modules/checklist-item label="User-friendly interface and easy navigation" / / />}}
+  {{< interactive-modules/checklist-item label="Expert consultation options (even if limited in free versions)" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation and reporting capabilities" / / />}}
+  {{< interactive-modules/checklist-item label="Regular database updates with new items and market values" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Identification Accuracy

@@ -105,7 +105,7 @@ The 1982 penny represents a pivotal moment in U.S. coinage history when rising c
 
 During 1982, the U.S. Mint produced both copper (95% copper, 5% zinc) and zinc (97.5% zinc, 2.5% copper plating) pennies. Additionally, both large date and small date varieties were struck at the Philadelphia and Denver mints. This combination of factors created a fascinating set of varieties that coin collectors eagerly seek.
 
-{{< data-modules/stats-highlight title="1982 Penny Key Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="1982 Penny Key Facts" columns="3" / / />}}
 <tr>
   <td>Transitional Year</td>
   <td>Changed from copper to zinc</td>
@@ -169,11 +169,11 @@ Two methods can help you determine your 1982 penny's composition:
    - Zinc pennies make a duller, less resonant sound
 
 {{< interactive-modules/condition-checklist title="1982 Penny Identification Checklist" description="Check these characteristics to identify your 1982 penny variety" >}}
-  {{< interactive-modules/checklist-item label="Check for mint mark (none, D, or S)" / />}}
-  {{< interactive-modules/checklist-item label="Examine date size (large or small date)" / />}}
-  {{< interactive-modules/checklist-item label="Weigh the coin (3.11g = copper, 2.5g = zinc)" / />}}
-  {{< interactive-modules/checklist-item label="Check coin's sound when dropped (ring = copper, thud = zinc)" / />}}
-  {{< interactive-modules/checklist-item label="Examine overall condition (wear, damage, toning)" / />}}
+  {{< interactive-modules/checklist-item label="Check for mint mark (none, D, or S)" / / />}}
+  {{< interactive-modules/checklist-item label="Examine date size (large or small date)" / / />}}
+  {{< interactive-modules/checklist-item label="Weigh the coin (3.11g = copper, 2.5g = zinc)" / / />}}
+  {{< interactive-modules/checklist-item label="Check coin's sound when dropped (ring = copper, thud = zinc)" / / />}}
+  {{< interactive-modules/checklist-item label="Examine overall condition (wear, damage, toning)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 By carefully examining these three characteristics—mint mark, date size, and composition—you can accurately identify which 1982 penny variety you have.

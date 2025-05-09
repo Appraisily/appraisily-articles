@@ -95,7 +95,7 @@ The 1911 Lincoln Wheat Penny represents an important early issue in one of Ameri
 
 In this comprehensive guide, we'll explore the factors that determine a 1911 penny's value, from mint marks to condition, and identify the rare varieties and errors that can make these seemingly modest coins worth hundreds or even thousands of dollars.
 
-{{< data-modules/stats-highlight title="1911 Penny Key Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="1911 Penny Key Facts" columns="3" / / />}}
 
 {{< content-modules/section-header title="1911 Penny Background and History" level="2" >}}
 The Lincoln cent was introduced in 1909 to commemorate the 100th anniversary of Abraham Lincoln's birth. Designed by Victor David Brenner, it was the first U.S. circulating coin to feature a real person rather than the symbolic figure of Liberty. By 1911, the design had become firmly established in American pockets and purses.
@@ -359,11 +359,11 @@ To accurately assess your 1911 penny's value, follow these steps to evaluate its
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="1911 Penny Valuation Checklist" description="Use this checklist to assess your coin's value factors" >}}
-  {{< interactive-modules/checklist-item label="Check for mint mark (none, D, or S) beneath the date" / />}}
-  {{< interactive-modules/checklist-item label="Assess overall condition and grade (G, VG, F, EF, MS)" / />}}
-  {{< interactive-modules/checklist-item label="Evaluate color (Brown, Red-Brown, or Red)" / />}}
-  {{< interactive-modules/checklist-item label="Examine for errors (doubled die, off-center, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Check for artificial cleaning or damage" / />}}
+  {{< interactive-modules/checklist-item label="Check for mint mark (none, D, or S) beneath the date" / / />}}
+  {{< interactive-modules/checklist-item label="Assess overall condition and grade (G, VG, F, EF, MS)" / / />}}
+  {{< interactive-modules/checklist-item label="Evaluate color (Brown, Red-Brown, or Red)" / / />}}
+  {{< interactive-modules/checklist-item label="Examine for errors (doubled die, off-center, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Check for artificial cleaning or damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authentication and Grading

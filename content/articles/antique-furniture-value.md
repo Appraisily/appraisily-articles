@@ -65,7 +65,7 @@ The value of antique furniture is influenced by multiple variables that collecto
 
 ![An antique mahogany dining set with chairs arranged around an ornate table](https://ik.imagekit.io/appraisily/SEO/antique-furniture-value/antique-furniture-value-image-2_pnSBw4UBh.png)
 
-{{< data-modules/stats-highlight title="Critical Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Critical Value Factors" columns="3" / / />}}
 
 ### Age
 
@@ -172,16 +172,16 @@ Many quality furniture makers left identifying marks:
 - **Be aware of fake labels:** Unfortunately, reproduction furniture sometimes bears counterfeit labels.
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use this checklist to evaluate potential antique furniture" >}}
-  {{< interactive-modules/checklist-item label="Evidence of hand-cut joinery (dovetails, mortise and tenon)" / />}}
-  {{< interactive-modules/checklist-item label="Wood has natural patina and age-appropriate wear patterns" / />}}
-  {{< interactive-modules/checklist-item label="Hardware appears original with consistent aging" / />}}
-  {{< interactive-modules/checklist-item label="Construction materials consistent with the purported period" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand tools on less visible surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Presence of saw marks, plane marks, or other hand-tool evidence" / />}}
-  {{< interactive-modules/checklist-item label="Style details accurate for the purported period" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks, labels, or signatures (if present) appear genuine" / />}}
-  {{< interactive-modules/checklist-item label="Secondary woods appropriate for the period and style" / />}}
-  {{< interactive-modules/checklist-item label="Consistent wear patterns that match the piece's supposed age" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand-cut joinery (dovetails, mortise and tenon)" / / />}}
+  {{< interactive-modules/checklist-item label="Wood has natural patina and age-appropriate wear patterns" / / />}}
+  {{< interactive-modules/checklist-item label="Hardware appears original with consistent aging" / / />}}
+  {{< interactive-modules/checklist-item label="Construction materials consistent with the purported period" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand tools on less visible surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="Presence of saw marks, plane marks, or other hand-tool evidence" / / />}}
+  {{< interactive-modules/checklist-item label="Style details accurate for the purported period" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks, labels, or signatures (if present) appear genuine" / / />}}
+  {{< interactive-modules/checklist-item label="Secondary woods appropriate for the period and style" / / />}}
+  {{< interactive-modules/checklist-item label="Consistent wear patterns that match the piece's supposed age" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Consider the Style Accuracy

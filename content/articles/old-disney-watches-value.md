@@ -167,7 +167,7 @@ Multiple factors influence the market value of vintage Disney watches, from age 
 
 When assessing the value of a vintage Disney watch, consider these key factors:
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
 
 ### 1. Age and Era
 
@@ -190,14 +190,14 @@ Limited production runs, commemorative editions, or watches made for special eve
 Mickey Mouse watches generally command the highest prices, but other characters like Donald Duck, Snow White, and more recently, characters from movies like "Frozen" or "The Lion King" can also be valuable depending on their popularity and the rarity of the watch.
 
 {{< interactive-modules/condition-checklist title="Disney Watch Condition Assessment" description="Check applicable items to determine the condition rating of your vintage Disney watch" >}}
-  {{< interactive-modules/checklist-item label="Watch is in working order with all functions operating correctly" / />}}
-  {{< interactive-modules/checklist-item label="Original band/strap is present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Watch face is clear with no scratches, discoloration, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Case is free from deep scratches, dents, or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Original box and papers are present" / />}}
-  {{< interactive-modules/checklist-item label="No replacement parts have been used" / />}}
-  {{< interactive-modules/checklist-item label="Character illustrations are clear and vibrant" / />}}
-  {{< interactive-modules/checklist-item label="Moving elements (hands, character movements) function properly" / />}}
+  {{< interactive-modules/checklist-item label="Watch is in working order with all functions operating correctly" / / />}}
+  {{< interactive-modules/checklist-item label="Original band/strap is present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Watch face is clear with no scratches, discoloration, or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Case is free from deep scratches, dents, or corrosion" / / />}}
+  {{< interactive-modules/checklist-item label="Original box and papers are present" / / />}}
+  {{< interactive-modules/checklist-item label="No replacement parts have been used" / / />}}
+  {{< interactive-modules/checklist-item label="Character illustrations are clear and vibrant" / / />}}
+  {{< interactive-modules/checklist-item label="Moving elements (hands, character movements) function properly" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Different models of collectible Disney watches showing variations in design, characters, and time periods](https://ik.imagekit.io/appraisily/SEO/old-disney-watches-value/old-disney-watches-value-image-4_QY5USS9Ah.png)
@@ -343,7 +343,7 @@ Disney park anniversary watches and other limited-run commemorative timepieces t
 
 Standard Disney watches from the 1980s-2000s generally don't represent strong investments. While they may gradually increase in value, they typically don't appreciate faster than inflation unless they have unusual features or represent discontinued characters.
 
-{{< data-modules/stats-highlight title="Disney Watch Investment Metrics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Disney Watch Investment Metrics" columns="3" / / />}}
 
 {{< content-modules/faq title="Common Questions About Disney Watch Values" id="faq-section" >}}
   {{< content-modules/faq-item question="How do I know if my Mickey Mouse watch is valuable?" >}}

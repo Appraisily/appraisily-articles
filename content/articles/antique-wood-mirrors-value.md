@@ -78,7 +78,7 @@ The valuation of antique wooden mirrors depends on multiple factors that collect
 
 Antique wooden mirrors typically range in value from $500 to $5,000, though exceptional examples can fetch significantly more at auction. This wide price range reflects the diverse factors that influence valuation:
 
-{{< data-modules/stats-highlight title="Key Value Factors for Antique Mirrors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for Antique Mirrors" columns="3" / / />}}
 - **Age**: Generally, older mirrors (pre-1850) command higher prices
 - **Provenance**: Mirrors with documented history to notable owners or locations
 - **Rarity**: Unusual designs, limited production periods, or mirrors from smaller workshops
@@ -130,13 +130,13 @@ Being able to distinguish genuine antique mirrors from reproductions requires ca
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Antique Mirror Authentication Checklist" description="Use these criteria to assess whether a wooden mirror is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Glass exhibits waviness or imperfections" / />}}
-  {{< interactive-modules/checklist-item label="Mirror shows appropriate oxidation or spotting" / />}}
-  {{< interactive-modules/checklist-item label="Wood shows age-appropriate patina and wear" / />}}
-  {{< interactive-modules/checklist-item label="Frame construction uses period-appropriate techniques" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand carving rather than machine work" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware or mounting fixtures" / />}}
-  {{< interactive-modules/checklist-item label="Frame back shows appropriate aging" / />}}
+  {{< interactive-modules/checklist-item label="Glass exhibits waviness or imperfections" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror shows appropriate oxidation or spotting" / / />}}
+  {{< interactive-modules/checklist-item label="Wood shows age-appropriate patina and wear" / / />}}
+  {{< interactive-modules/checklist-item label="Frame construction uses period-appropriate techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand carving rather than machine work" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware or mounting fixtures" / / />}}
+  {{< interactive-modules/checklist-item label="Frame back shows appropriate aging" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### How to Identify Authentic Antique Mirror Glass

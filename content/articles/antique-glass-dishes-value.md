@@ -91,7 +91,7 @@ When evaluating antique glass dishes, appraisers and collectors typically consid
 
 According to market experts at [Value My Stuff](https://www.valuemystuff.com/us/blog/how-to-appraise-glassware), while common pieces may sell for under $50, rare and exceptional antique glass dishes can fetch anywhere from $5,000 to $10,000.
 
-{{< data-modules/stats-highlight title="Antique Glass Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Glass Market Statistics" columns="3" / / />}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/antique-glass-dishes-value/antique-glass-dishes-value-image-2_4vz7ipalE.png" alt="Various types of Depression glass dishes in different colors demonstrating their collectible value" caption="Depression glass comes in various colors that can affect its market value" />}}
 
@@ -180,14 +180,14 @@ Particularly valuable colors include:
 - Black amethyst glass (appears black but shows deep purple when held to light)
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your antique glass dishes" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks visible" / />}}
-  {{< interactive-modules/checklist-item label="No signs of repair or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Original color with no fading" / />}}
-  {{< interactive-modules/checklist-item label="Pattern details are crisp and clear" / />}}
-  {{< interactive-modules/checklist-item label="Original maker's mark or signature present" / />}}
-  {{< interactive-modules/checklist-item label="No excessive wear on base or rim" / />}}
-  {{< interactive-modules/checklist-item label="Piece has balanced shape with no warping" / />}}
-  {{< interactive-modules/checklist-item label="Surface has appropriate patina for age" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks visible" / / />}}
+  {{< interactive-modules/checklist-item label="No signs of repair or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Original color with no fading" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern details are crisp and clear" / / />}}
+  {{< interactive-modules/checklist-item label="Original maker's mark or signature present" / / />}}
+  {{< interactive-modules/checklist-item label="No excessive wear on base or rim" / / />}}
+  {{< interactive-modules/checklist-item label="Piece has balanced shape with no warping" / / />}}
+  {{< interactive-modules/checklist-item label="Surface has appropriate patina for age" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/antique-glass-dishes-value/antique-glass-dishes-value-image-4_stbGUbQPP.png" alt="Collection of blue Depression glass dishes showcasing their distinctive color and pattern" caption="Blue Depression glass commands premium prices due to its relative rarity" />}}

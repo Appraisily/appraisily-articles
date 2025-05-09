@@ -108,7 +108,7 @@ The value of vintage Dooney & Bourke purses varies significantly based on severa
 
 ![Rare vintage Dooney & Bourke All Weather Leather bag in excellent condition](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-vintage-dooney-and-bourke-purse-worth/how-much-is-a-vintage-dooney-and-bourke-purse-worth-image-2_35ROmjRVO.png)
 
-{{< data-modules/stats-highlight title="Vintage Dooney & Bourke Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Dooney & Bourke Market Highlights" columns="3" / / />}}
 
 {{< visual-modules/timeline title="Dooney & Bourke Brand Evolution & Value Milestones" >}}
   {{< visual-modules/timeline-item date="1975" title="Brand Founding" >}}
@@ -226,14 +226,14 @@ Authenticating your vintage Dooney & Bourke bag is crucial before assessing its 
 ![Close-up of a Dooney & Bourke authentication tag showing serial number and brand details](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-vintage-dooney-and-bourke-purse-worth/how-much-is-a-vintage-dooney-and-bourke-purse-worth-image-4_LxfeqR-kN.png)
 
 {{< interactive-modules/condition-checklist title="Dooney & Bourke Authentication Checklist" description="Use this checklist to verify if your vintage Dooney & Bourke purse is authentic" >}}
-  {{< interactive-modules/checklist-item label="Check for the red, white and blue tag with 'Dooney & Bourke' inside the bag" / />}}
-  {{< interactive-modules/checklist-item label="Verify the bag has a unique serial number on the back of the tag" / />}}
-  {{< interactive-modules/checklist-item label="Examine stitching quality - should be even, straight and tight" / />}}
-  {{< interactive-modules/checklist-item label="Look for the duck emblem logo (on applicable models)" / />}}
-  {{< interactive-modules/checklist-item label="Check for solid brass hardware with 'Dooney & Bourke' engraving" / />}}
-  {{< interactive-modules/checklist-item label="Verify leather quality - pebbled texture on AWL bags should be consistent" / />}}
-  {{< interactive-modules/checklist-item label="Confirm interior lining matches the appropriate era" / />}}
-  {{< interactive-modules/checklist-item label="Look for 'Made in USA' or 'Made in Italy' stamps (where applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Check for the red, white and blue tag with 'Dooney & Bourke' inside the bag" / / />}}
+  {{< interactive-modules/checklist-item label="Verify the bag has a unique serial number on the back of the tag" / / />}}
+  {{< interactive-modules/checklist-item label="Examine stitching quality - should be even, straight and tight" / / />}}
+  {{< interactive-modules/checklist-item label="Look for the duck emblem logo (on applicable models)" / / />}}
+  {{< interactive-modules/checklist-item label="Check for solid brass hardware with 'Dooney & Bourke' engraving" / / />}}
+  {{< interactive-modules/checklist-item label="Verify leather quality - pebbled texture on AWL bags should be consistent" / / />}}
+  {{< interactive-modules/checklist-item label="Confirm interior lining matches the appropriate era" / / />}}
+  {{< interactive-modules/checklist-item label="Look for 'Made in USA' or 'Made in Italy' stamps (where applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### The Serial Number System

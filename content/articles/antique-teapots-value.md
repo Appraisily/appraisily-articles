@@ -134,7 +134,7 @@ The age alone doesn't determine value—many factors come into play when assessi
 Several elements influence the market value of antique teapots, from maker and condition to rarity and historical significance. Understanding these factors will help you better assess potential values.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Determinants" columns="3" / / />}}
 
 ### Maker and Manufacturer
 
@@ -159,13 +159,13 @@ The condition of an antique teapot dramatically affects its value. Collectors ge
 - Minimal wear to silver or metal components
 
 {{< interactive-modules/condition-checklist title="Teapot Condition Assessment" description="Check these elements when evaluating a teapot's condition:" >}}
-  {{< interactive-modules/checklist-item label="No cracks or hairline fractures in the body" / />}}
-  {{< interactive-modules/checklist-item label="Original lid that fits perfectly" / />}}
-  {{< interactive-modules/checklist-item label="Spout is undamaged and doesn't leak" / />}}
-  {{< interactive-modules/checklist-item label="Original handle intact with no repairs" / />}}
-  {{< interactive-modules/checklist-item label="Decoration/pattern is clear and unfaded" / />}}
-  {{< interactive-modules/checklist-item label="No restoration or modern repairs" / />}}
-  {{< interactive-modules/checklist-item label="Complete set includes original additional pieces (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or hairline fractures in the body" / / />}}
+  {{< interactive-modules/checklist-item label="Original lid that fits perfectly" / / />}}
+  {{< interactive-modules/checklist-item label="Spout is undamaged and doesn't leak" / / />}}
+  {{< interactive-modules/checklist-item label="Original handle intact with no repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Decoration/pattern is clear and unfaded" / / />}}
+  {{< interactive-modules/checklist-item label="No restoration or modern repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Complete set includes original additional pieces (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Professional restoration can help preserve an antique teapot, but original condition is always preferred by serious collectors and will command higher prices. Pieces with amateur repairs or significant damage may lose 50-80% of their potential value.

@@ -196,7 +196,7 @@ The backstamp (marking on the bottom of the piece) provides valuable information
 3. **Pattern Codes**:
    - Some backstamps include numerical pattern codes (e.g., B-1-B for Blue Cornflower)
 
-{{< data-modules/stats-highlight title="CorningWare Identification Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="CorningWare Identification Facts" columns="3" / / />}}
 
 ### Shapes and Forms
 
@@ -211,12 +211,12 @@ CorningWare comes in various shapes that can help with identification:
 - Baking dishes
 
 {{< interactive-modules/condition-checklist title="CorningWare Authentication Checklist" description="Use this checklist to verify authentic vintage CorningWare" >}}
-  {{< interactive-modules/checklist-item label="Backstamp includes appropriate model number and pattern code" / />}}
-  {{< interactive-modules/checklist-item label="Design colors are crisp and not faded or blurry" / />}}
-  {{< interactive-modules/checklist-item label="Pattern matches known historical designs" / />}}
-  {{< interactive-modules/checklist-item label="Piece feels substantial and sturdy (not lightweight)" / />}}
-  {{< interactive-modules/checklist-item label="Material is genuine Pyroceram, not stoneware or ceramic" / />}}
-  {{< interactive-modules/checklist-item label="Original lids (if present) match the appropriate base pieces" / />}}
+  {{< interactive-modules/checklist-item label="Backstamp includes appropriate model number and pattern code" / / />}}
+  {{< interactive-modules/checklist-item label="Design colors are crisp and not faded or blurry" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern matches known historical designs" / / />}}
+  {{< interactive-modules/checklist-item label="Piece feels substantial and sturdy (not lightweight)" / / />}}
+  {{< interactive-modules/checklist-item label="Material is genuine Pyroceram, not stoneware or ceramic" / / />}}
+  {{< interactive-modules/checklist-item label="Original lids (if present) match the appropriate base pieces" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Abundance pattern CorningWare from the vintage collection](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTwS7rhzfz4iSZlKh6RVl-HzMhaml-NOHJq9_xqMy84Msf6xDK4Yym4yvJLyDgjaassT-sIzFcW1qAaavNGiZMcvsXDDeCu0Ip3xNr2WM8BHELB7sprqyHJenv4VXm4hNEFHGxcIs2mtM/s1600/Abundance.JPG)
@@ -399,7 +399,7 @@ Follow these steps to authenticate your pieces:
 
 When appraising your collection, consider:
 
-{{< data-modules/stats-highlight title="Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Determinants" columns="3" / / />}}
 
 1. **Rarity**: Limited production runs increase value
 2. **Condition**: Mint condition (no scratches, chips, cracks, or utensil marks) commands premium prices
@@ -463,13 +463,13 @@ Proper care ensures your vintage pieces remain in optimal condition, preserving 
 5. **Acid-Free Tissue**: Use between stacked pieces to prevent scratches
 
 {{< interactive-modules/condition-checklist title="Collection Preservation Checklist" description="Best practices for maintaining your vintage CorningWare and Corelle" >}}
-  {{< interactive-modules/checklist-item label="Store in dust-free environment" / />}}
-  {{< interactive-modules/checklist-item label="Clean with gentle, non-abrasive products" / />}}
-  {{< interactive-modules/checklist-item label="Keep complete sets together" / />}}
-  {{< interactive-modules/checklist-item label="Handle with clean hands to prevent oil transfer" / />}}
-  {{< interactive-modules/checklist-item label="Document pattern names and production dates" / />}}
-  {{< interactive-modules/checklist-item label="Keep away from direct sunlight to prevent design fading" / />}}
-  {{< interactive-modules/checklist-item label="Maintain temperature stability in storage areas" / />}}
+  {{< interactive-modules/checklist-item label="Store in dust-free environment" / / />}}
+  {{< interactive-modules/checklist-item label="Clean with gentle, non-abrasive products" / / />}}
+  {{< interactive-modules/checklist-item label="Keep complete sets together" / / />}}
+  {{< interactive-modules/checklist-item label="Handle with clean hands to prevent oil transfer" / / />}}
+  {{< interactive-modules/checklist-item label="Document pattern names and production dates" / / />}}
+  {{< interactive-modules/checklist-item label="Keep away from direct sunlight to prevent design fading" / / />}}
+  {{< interactive-modules/checklist-item label="Maintain temperature stability in storage areas" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Building a Valuable Collection" level="2" >}}

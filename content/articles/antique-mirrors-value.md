@@ -134,7 +134,7 @@ While there's no universally agreed definition, most collectors and dealers cons
 
 The age of a mirror significantly impacts its value. Mirrors from the 18th and early 19th centuries are particularly prized by collectors and can fetch premium prices when in good condition. These older mirrors represent early developments in mirror-making technology and often feature distinctive craftsmanship that was later replaced by machine production.
 
-{{< data-modules/stats-highlight title="Antique Mirror Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Mirror Value Factors" columns="3" / / />}}
 
 ![Antique mirror with visible aging and patina on glass surface](https://ik.imagekit.io/appraisily/SEO/antique-mirrors-value/antique-mirrors-value-image-2_REblH9QX7.png)
 
@@ -153,11 +153,11 @@ The mirror glass itself offers important clues about age:
 3. **Mercury vs. silver nitrate backing**: Mirrors made before approximately 1835 used mercury amalgam for the reflective backing, while later mirrors used silver nitrate. Mercury mirrors often have a slightly warmer, sometimes subtly bluish tone compared to the cooler look of silver nitrate.
 
 {{< interactive-modules/condition-checklist title="Antique Mirror Glass Authentication Checklist" description="Check applicable characteristics that may indicate an authentic antique mirror" >}}
-  {{< interactive-modules/checklist-item label="Glass has visible waviness or distortion when viewed at an angle" / />}}
-  {{< interactive-modules/checklist-item label="Glass is noticeably thinner than modern mirrors" / />}}
-  {{< interactive-modules/checklist-item label="Reflective surface shows spotting or 'foxing' patterns" / />}}
-  {{< interactive-modules/checklist-item label="Mirror has a warmer or slightly bluish tone (may indicate mercury backing)" / />}}
-  {{< interactive-modules/checklist-item label="When placing a pen against the glass, there's a gap between pen and its reflection (may indicate mercury mirror)" / />}}
+  {{< interactive-modules/checklist-item label="Glass has visible waviness or distortion when viewed at an angle" / / />}}
+  {{< interactive-modules/checklist-item label="Glass is noticeably thinner than modern mirrors" / / />}}
+  {{< interactive-modules/checklist-item label="Reflective surface shows spotting or 'foxing' patterns" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror has a warmer or slightly bluish tone (may indicate mercury backing)" / / />}}
+  {{< interactive-modules/checklist-item label="When placing a pen against the glass, there's a gap between pen and its reflection (may indicate mercury mirror)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Analyzing the Frame
@@ -385,13 +385,13 @@ When considering restoration for an antique mirror:
 4. **Cost vs. value**: Consider whether restoration costs will be recovered in increased value. For some pieces, professional restoration may cost more than the mirror's market value after restoration.
 
 {{< interactive-modules/condition-checklist title="Antique Mirror Condition Assessment" description="Check all that apply to evaluate condition impact on value" >}}
-  {{< interactive-modules/checklist-item label="Mirror has original glass with minimal foxing (minimal impact)" / />}}
-  {{< interactive-modules/checklist-item label="Mirror has original glass with moderate foxing (15-30% value reduction)" / />}}
-  {{< interactive-modules/checklist-item label="Mirror has replacement glass (30-50% value reduction for investment-grade pieces)" / />}}
-  {{< interactive-modules/checklist-item label="Frame has minor losses or wear consistent with age (5-15% value reduction)" / />}}
-  {{< interactive-modules/checklist-item label="Frame has significant structural damage or major losses (40-60% value reduction)" / />}}
-  {{< interactive-modules/checklist-item label="Mirror has documented professional restoration (variable impact)" / />}}
-  {{< interactive-modules/checklist-item label="Mirror has amateur repairs or inappropriate materials (40-70% value reduction)" / />}}
+  {{< interactive-modules/checklist-item label="Mirror has original glass with minimal foxing (minimal impact)" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror has original glass with moderate foxing (15-30% value reduction)" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror has replacement glass (30-50% value reduction for investment-grade pieces)" / / />}}
+  {{< interactive-modules/checklist-item label="Frame has minor losses or wear consistent with age (5-15% value reduction)" / / />}}
+  {{< interactive-modules/checklist-item label="Frame has significant structural damage or major losses (40-60% value reduction)" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror has documented professional restoration (variable impact)" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror has amateur repairs or inappropriate materials (40-70% value reduction)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Buy and Sell Antique Mirrors" level="2" >}}

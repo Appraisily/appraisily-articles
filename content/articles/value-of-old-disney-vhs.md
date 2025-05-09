@@ -48,7 +48,7 @@ According to JustAnswer's appraisal experts, "First edition VHS still sealed (ne
 
 However, for exceptionally rare items, prices can climb much higher based on collector demand and market trends.
 
-{{< data-modules/stats-highlight title="Disney VHS Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Disney VHS Market Facts" columns="3" / / />}}
 
 {{< data-modules/price-table title="General Disney VHS Value Ranges" description="Average market values by condition and type" >}}
 <tr>
@@ -179,14 +179,14 @@ To verify if you have a potentially valuable edition:
 5. Verify any "limited edition" claims against known release information
 
 {{< interactive-modules/condition-checklist title="Valuable Disney VHS Identification Checklist" description="Use this checklist to identify potentially valuable Disney VHS tapes in your collection" >}}
-  {{< interactive-modules/checklist-item label="Black Diamond logo visible on spine" / />}}
-  {{< interactive-modules/checklist-item label="'The Classics' text inside the diamond" / />}}
-  {{< interactive-modules/checklist-item label="Original price sticker still intact" / />}}
-  {{< interactive-modules/checklist-item label="Factory sealed (significantly increases value)" / />}}
-  {{< interactive-modules/checklist-item label="Catalog number begins with '1'" / />}}
-  {{< interactive-modules/checklist-item label="No rental store markings or stickers" / />}}
-  {{< interactive-modules/checklist-item label="Original inserts and promotional materials included" / />}}
-  {{< interactive-modules/checklist-item label="VHS cover and tape in excellent condition" / />}}
+  {{< interactive-modules/checklist-item label="Black Diamond logo visible on spine" / / />}}
+  {{< interactive-modules/checklist-item label="'The Classics' text inside the diamond" / / />}}
+  {{< interactive-modules/checklist-item label="Original price sticker still intact" / / />}}
+  {{< interactive-modules/checklist-item label="Factory sealed (significantly increases value)" / / />}}
+  {{< interactive-modules/checklist-item label="Catalog number begins with '1'" / / />}}
+  {{< interactive-modules/checklist-item label="No rental store markings or stickers" / / />}}
+  {{< interactive-modules/checklist-item label="Original inserts and promotional materials included" / / />}}
+  {{< interactive-modules/checklist-item label="VHS cover and tape in excellent condition" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Condition Factors Affecting Value" level="2" >}}

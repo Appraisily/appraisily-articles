@@ -83,7 +83,7 @@ structured_data:
 
 Antique furniture is a testament to craftsmanship and history, with each piece telling a story through its construction, design, and materials. When examining an antique piece, the type of wood used can significantly influence its value and historical significance. Different woods were popular during different periods, and understanding these patterns can help date a piece and authenticate its origins.
 
-{{< data-modules/stats-highlight title="Why Wood Identification Matters" columns="3" / />}}
+{{< data-modules/stats-highlight title="Why Wood Identification Matters" columns="3" / / />}}
 
 Before diving into specific wood types, it's important to understand that accurate identification involves examining several characteristics: grain pattern, color, weight, hardness, and distinctive features. Often, a combination of these factors will lead to a conclusive identification.
 
@@ -291,14 +291,14 @@ Antique wood develops a characteristic patina over time that varies by species:
 Look for unfinished areas such as the underside of tabletops, inside of case pieces, or the bottom of drawers to see the wood's natural color without the influence of stains or finishes.
 
 {{< interactive-modules/condition-checklist title="Wood Identification Checklist" description="Use this checklist to systematically assess wood characteristics when examining antique furniture" >}}
-  {{< interactive-modules/checklist-item label="Check the weight relative to size (heavier woods like oak and mahogany vs. lighter pine)" / />}}
-  {{< interactive-modules/checklist-item label="Examine the grain pattern (straight, wavy, interlocked, or figured)" / />}}
-  {{< interactive-modules/checklist-item label="Look at color in both finished and unfinished areas" / />}}
-  {{< interactive-modules/checklist-item label="Inspect end grain with magnification when possible" / />}}
-  {{< interactive-modules/checklist-item label="Compare secondary woods with primary woods" / />}}
-  {{< interactive-modules/checklist-item label="Note any distinctive odor when lightly sanding a hidden area" / />}}
-  {{< interactive-modules/checklist-item label="Check for characteristic features (ray flecks in oak, chatoyance in mahogany)" / />}}
-  {{< interactive-modules/checklist-item label="Consider historical context and furniture style" / />}}
+  {{< interactive-modules/checklist-item label="Check the weight relative to size (heavier woods like oak and mahogany vs. lighter pine)" / / />}}
+  {{< interactive-modules/checklist-item label="Examine the grain pattern (straight, wavy, interlocked, or figured)" / / />}}
+  {{< interactive-modules/checklist-item label="Look at color in both finished and unfinished areas" / / />}}
+  {{< interactive-modules/checklist-item label="Inspect end grain with magnification when possible" / / />}}
+  {{< interactive-modules/checklist-item label="Compare secondary woods with primary woods" / / />}}
+  {{< interactive-modules/checklist-item label="Note any distinctive odor when lightly sanding a hidden area" / / />}}
+  {{< interactive-modules/checklist-item label="Check for characteristic features (ray flecks in oak, chatoyance in mahogany)" / / />}}
+  {{< interactive-modules/checklist-item label="Consider historical context and furniture style" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Advanced Identification Techniques" level="2" >}}

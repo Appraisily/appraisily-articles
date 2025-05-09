@@ -133,7 +133,7 @@ The 1945 Washington quarter represents an important piece of American numismatic
 
 The 1945 Washington quarter is part of the Washington quarter series that began in 1932 and continues to this day, though the composition changed after 1964. These coins were designed by John Flanagan, featuring President George Washington on the obverse and an eagle on the reverse. In this comprehensive guide, we'll explore what makes these coins valuable and what you can expect your 1945 quarter to be worth in today's market.
 
-{{< data-modules/stats-highlight title="1945 Quarter Key Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="1945 Quarter Key Facts" columns="3" / / />}}
 
 | Statistic | Value | Notes |
 |-----------|-------|-------|
@@ -180,14 +180,14 @@ Before assessing the value of your 1945 quarter, it's important to understand it
 The mint mark, if present, appears on the reverse side of the coin, to the right of the wreath tied with a ribbon, below "QUARTER DOLLAR." Philadelphia-minted coins have no mint mark, while Denver coins display a "D" and San Francisco coins show an "S" in this position.
 
 {{< interactive-modules/condition-checklist title="1945 Quarter Condition Assessment Checklist" description="Use this checklist to help determine the condition of your 1945 Washington quarter" >}}
-    {{< interactive-modules/checklist-item label="All design details are clear and well-defined" / />}}
-    {{< interactive-modules/checklist-item label="Mint luster is present across most of the coin's surface" / />}}
-    {{< interactive-modules/checklist-item label="No visible wear on Washington's hair and cheek" / />}}
-    {{< interactive-modules/checklist-item label="Eagle's feathers show complete detail" / />}}
-    {{< interactive-modules/checklist-item label="No significant scratches, marks, or damage" / />}}
-    {{< interactive-modules/checklist-item label="Original silver color (not cleaned or polished)" / />}}
-    {{< interactive-modules/checklist-item label="Raised rim is intact all around the coin" / />}}
-    {{< interactive-modules/checklist-item label="No signs of environmental damage or corrosion" / />}}
+    {{< interactive-modules/checklist-item label="All design details are clear and well-defined" / / />}}
+    {{< interactive-modules/checklist-item label="Mint luster is present across most of the coin's surface" / / />}}
+    {{< interactive-modules/checklist-item label="No visible wear on Washington's hair and cheek" / / />}}
+    {{< interactive-modules/checklist-item label="Eagle's feathers show complete detail" / / />}}
+    {{< interactive-modules/checklist-item label="No significant scratches, marks, or damage" / / />}}
+    {{< interactive-modules/checklist-item label="Original silver color (not cleaned or polished)" / / />}}
+    {{< interactive-modules/checklist-item label="Raised rim is intact all around the coin" / / />}}
+    {{< interactive-modules/checklist-item label="No signs of environmental damage or corrosion" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="1945 Quarter Value Guide" level="2" >}}

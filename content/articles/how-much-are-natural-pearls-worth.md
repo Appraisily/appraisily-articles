@@ -116,7 +116,7 @@ Throughout history, natural pearls have been symbols of wealth, sophistication, 
 
 Understanding the worth of natural pearls requires examining multiple factors that influence their value. From size and shape to color and provenance, each element contributes to a pearl's final valuation. This comprehensive guide will explore everything you need to know about natural pearl values in 2025.
 
-{{< data-modules/stats-highlight title="Natural Pearl Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Natural Pearl Market Facts" columns="3" / / />}}
 
 | Statistic | Figure | Context |
 |-----------|--------|---------|
@@ -251,14 +251,14 @@ Natural pearls with documented history or those that belonged to famous figures 
 For multi-pearl items like necklaces, the degree of matching between pearls dramatically affects value. Perfectly matched natural pearl strands are extraordinarily rare and valuable, as finding multiple natural pearls with identical characteristics is nearly impossible.
 
 {{< interactive-modules/condition-checklist title="Natural Pearl Quality Assessment Checklist" description="Use this checklist to evaluate the quality factors of a natural pearl" >}}
-  {{< interactive-modules/checklist-item label="Perfect round shape with no irregularities" / />}}
-  {{< interactive-modules/checklist-item label="Size larger than 8mm in diameter" / />}}
-  {{< interactive-modules/checklist-item label="Mirror-like luster with sharp reflections" / />}}
-  {{< interactive-modules/checklist-item label="Surface free of blemishes, pits or wrinkles" / />}}
-  {{< interactive-modules/checklist-item label="Desirable color (white, pink, or other rare hue)" / />}}
-  {{< interactive-modules/checklist-item label="Thick, healthy nacre layer" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance or historical significance" / />}}
-  {{< interactive-modules/checklist-item label="Professional authentication certificate" / />}}
+  {{< interactive-modules/checklist-item label="Perfect round shape with no irregularities" / / />}}
+  {{< interactive-modules/checklist-item label="Size larger than 8mm in diameter" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror-like luster with sharp reflections" / / />}}
+  {{< interactive-modules/checklist-item label="Surface free of blemishes, pits or wrinkles" / / />}}
+  {{< interactive-modules/checklist-item label="Desirable color (white, pink, or other rare hue)" / / />}}
+  {{< interactive-modules/checklist-item label="Thick, healthy nacre layer" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance or historical significance" / / />}}
+  {{< interactive-modules/checklist-item label="Professional authentication certificate" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values of Natural Pearls" level="2" >}}

@@ -177,7 +177,7 @@ Several key factors determine how much your antique New Home sewing machine is w
 
 The machine's condition is perhaps the most significant factor affecting its value. According to antique dealers and collectors, these condition categories generally apply:
 
-{{< data-modules/stats-highlight title="Value Impact by Condition" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Impact by Condition" columns="3" / / />}}
 
 **Mint/Excellent (100% of value)**
 - Works perfectly
@@ -220,14 +220,14 @@ will be worth significantly more than the machine alone.
 If you have documented history of your machine, especially if it has an interesting story or famous ownership, this can increase the value. Original receipts, warranty cards, or family history documentation should be preserved.
 
 {{< interactive-modules/condition-checklist title="New Home Sewing Machine Condition Assessment" description="Check applicable items to help determine your machine's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="Machine turns freely by hand without binding" / />}}
-  {{< interactive-modules/checklist-item label="Original finish and decals are intact (not repainted)" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet or treadle base is original and complete" / />}}
-  {{< interactive-modules/checklist-item label="All mechanical parts are present and functional" / />}}
-  {{< interactive-modules/checklist-item label="Machine is free of significant rust or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Original accessories and attachments are included" / />}}
-  {{< interactive-modules/checklist-item label="Has original instruction manual or documentation" / />}}
-  {{< interactive-modules/checklist-item label="Serial number is visible and legible" / />}}
+  {{< interactive-modules/checklist-item label="Machine turns freely by hand without binding" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish and decals are intact (not repainted)" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet or treadle base is original and complete" / / />}}
+  {{< interactive-modules/checklist-item label="All mechanical parts are present and functional" / / />}}
+  {{< interactive-modules/checklist-item label="Machine is free of significant rust or corrosion" / / />}}
+  {{< interactive-modules/checklist-item label="Original accessories and attachments are included" / / />}}
+  {{< interactive-modules/checklist-item label="Has original instruction manual or documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Serial number is visible and legible" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values" level="2" id="market-values" >}}

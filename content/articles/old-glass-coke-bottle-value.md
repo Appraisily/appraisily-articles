@@ -88,7 +88,7 @@ Understanding the chronology of Coca-Cola bottle designs is essential for accura
 While most Coca-Cola bottles you'll encounter are relatively common, certain rarities command impressive prices. These exceptional bottles represent the high-end of the collecting market.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Record-Breaking Coca-Cola Bottle Values" columns="3" / />}}
+{{< data-modules/stats-highlight title="Record-Breaking Coca-Cola Bottle Values" columns="3" / / />}}
 
 {{< data-modules/price-table title="Most Valuable Vintage Coca-Cola Bottles" description="Notable high-value examples sought by serious collectors" >}}
   <tr>
@@ -156,12 +156,12 @@ According to the Society for Historical Archaeology, you can date the familiar c
 - **City and State Marks**: The location of the bottling plant appears on the bottom of earlier bottles
 
 {{< interactive-modules/condition-checklist title="Dating Your Coca-Cola Bottle Checklist" description="Check these areas when examining your bottle for date clues" >}}
-  {{< interactive-modules/checklist-item label="Check the bottom for city name and manufacturer mark" / />}}
-  {{< interactive-modules/checklist-item label="Look for patent information on the lower part of the bottle" / />}}
-  {{< interactive-modules/checklist-item label="Examine the glass for two-digit date codes" / />}}
-  {{< interactive-modules/checklist-item label="Identify if the Coca-Cola script is embossed or applied" / />}}
-  {{< interactive-modules/checklist-item label="Note the bottle shape and color" / />}}
-  {{< interactive-modules/checklist-item label="Check for special event markings or commemorative text" / />}}
+  {{< interactive-modules/checklist-item label="Check the bottom for city name and manufacturer mark" / / />}}
+  {{< interactive-modules/checklist-item label="Look for patent information on the lower part of the bottle" / / />}}
+  {{< interactive-modules/checklist-item label="Examine the glass for two-digit date codes" / / />}}
+  {{< interactive-modules/checklist-item label="Identify if the Coca-Cola script is embossed or applied" / / />}}
+  {{< interactive-modules/checklist-item label="Note the bottle shape and color" / / />}}
+  {{< interactive-modules/checklist-item label="Check for special event markings or commemorative text" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Determine Value" level="2" >}}

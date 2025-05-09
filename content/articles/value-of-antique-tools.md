@@ -96,7 +96,7 @@ When evaluating an antique tool's value, experts consider these primary factors:
 
 5. **Completeness**: Original parts, accessories, and packaging significantly enhance value. For example, a tool in its original box with instructions might be worth double compared to the tool alone.
 
-{{< data-modules/stats-highlight title="Antique Tool Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Tool Market Insights" columns="3" / / />}}
 <tr>
 <td>$91,000</td>
 <td>Record auction price</td>
@@ -186,13 +186,13 @@ Learning to identify potentially valuable tools requires understanding key marke
 When examining an antique tool, follow this systematic approach to help determine its potential value:
 
 {{< interactive-modules/condition-checklist title="Antique Tool Identification Checklist" description="Use this checklist to help identify potentially valuable tools" >}}
-{{< interactive-modules/checklist-item label="Look for maker's marks, stamps, or patent dates" / />}}
-{{< interactive-modules/checklist-item label="Check for original parts and unmodified condition" / />}}
-{{< interactive-modules/checklist-item label="Identify the approximate manufacturing period" / />}}
-{{< interactive-modules/checklist-item label="Research the maker's reputation and rarity" / />}}
-{{< interactive-modules/checklist-item label="Examine build quality and materials used" / />}}
-{{< interactive-modules/checklist-item label="Look for unusual features or decorative elements" / />}}
-{{< interactive-modules/checklist-item label="Assess overall condition and patina" / />}}
+{{< interactive-modules/checklist-item label="Look for maker's marks, stamps, or patent dates" / / />}}
+{{< interactive-modules/checklist-item label="Check for original parts and unmodified condition" / / />}}
+{{< interactive-modules/checklist-item label="Identify the approximate manufacturing period" / / />}}
+{{< interactive-modules/checklist-item label="Research the maker's reputation and rarity" / / />}}
+{{< interactive-modules/checklist-item label="Examine build quality and materials used" / / />}}
+{{< interactive-modules/checklist-item label="Look for unusual features or decorative elements" / / />}}
+{{< interactive-modules/checklist-item label="Assess overall condition and patina" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Manufacturer's Marks and Dating

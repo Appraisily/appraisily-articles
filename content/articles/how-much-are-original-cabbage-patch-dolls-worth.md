@@ -92,7 +92,7 @@ Original Cabbage Patch dolls, first created by Xavier Roberts in the late 1970s 
 
 ![Original Cabbage Patch Kid doll with signature on bottom](https://ik.imagekit.io/appraisily/SEO/how-much-are-original-cabbage-patch-dolls-worth/how-much-are-original-cabbage-patch-dolls-worth-image-1_h6dQSf_cb.png)
 
-{{< data-modules/stats-highlight title="Cabbage Patch Doll Value Snapshot" columns="3" / />}}
+{{< data-modules/stats-highlight title="Cabbage Patch Doll Value Snapshot" columns="3" / / />}}
 | Stat | Value | Significance |
 | --- | --- | --- |
 | Original 1983 Retail Price | $21 | Original MSRP before holiday demand surge |
@@ -110,11 +110,11 @@ One of the most significant value factors is whether your Cabbage Patch Kid has 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Value-Boosting Documentation & Accessories" description="Check which of these original items you have with your doll" >}}
-  {{< interactive-modules/checklist-item label="Original box in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Adoption papers with doll's name" / />}}
-  {{< interactive-modules/checklist-item label="Birth certificate" / />}}
-  {{< interactive-modules/checklist-item label="Original clothing and accessories" / />}}
-  {{< interactive-modules/checklist-item label="Hang tag (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original box in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Adoption papers with doll's name" / / />}}
+  {{< interactive-modules/checklist-item label="Birth certificate" / / />}}
+  {{< interactive-modules/checklist-item label="Original clothing and accessories" / / />}}
+  {{< interactive-modules/checklist-item label="Hang tag (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Production Era and Manufacturer" level="3" >}}
@@ -303,14 +303,14 @@ If you have a potentially valuable Cabbage Patch doll, proper preservation can h
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Cabbage Patch Doll Preservation Checklist" description="Follow these guidelines to maintain your doll's collector value" >}}
-  {{< interactive-modules/checklist-item label="Store in a climate-controlled environment away from direct sunlight" / />}}
-  {{< interactive-modules/checklist-item label="Keep original packaging intact whenever possible" / />}}
-  {{< interactive-modules/checklist-item label="Store paperwork in acid-free sleeves or folders" / />}}
-  {{< interactive-modules/checklist-item label="Clean gently with appropriate products for fabric and vinyl" / />}}
-  {{< interactive-modules/checklist-item label="Avoid displaying in areas with high humidity or temperature fluctuations" / />}}
-  {{< interactive-modules/checklist-item label="Handle minimally, using cotton gloves for valuable specimens" / />}}
-  {{< interactive-modules/checklist-item label="Document provenance and history if known" / />}}
-  {{< interactive-modules/checklist-item label="Consider professional restoration only for significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Store in a climate-controlled environment away from direct sunlight" / / />}}
+  {{< interactive-modules/checklist-item label="Keep original packaging intact whenever possible" / / />}}
+  {{< interactive-modules/checklist-item label="Store paperwork in acid-free sleeves or folders" / / />}}
+  {{< interactive-modules/checklist-item label="Clean gently with appropriate products for fabric and vinyl" / / />}}
+  {{< interactive-modules/checklist-item label="Avoid displaying in areas with high humidity or temperature fluctuations" / / />}}
+  {{< interactive-modules/checklist-item label="Handle minimally, using cotton gloves for valuable specimens" / / />}}
+  {{< interactive-modules/checklist-item label="Document provenance and history if known" / / />}}
+  {{< interactive-modules/checklist-item label="Consider professional restoration only for significant damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/faq title="Common Questions About Cabbage Patch Doll Values" id="faq-section" >}}

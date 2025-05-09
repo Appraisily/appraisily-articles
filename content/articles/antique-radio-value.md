@@ -118,7 +118,7 @@ The antique radio market is primarily driven by collectors and enthusiasts rathe
 
 According to experts, most vintage radios fall into a relatively modest price range. As noted in a [comprehensive Reddit guide for beginners](https://www.reddit.com/r/VintageRadios/comments/1dgn5ht/beginners_guide_to_finding_the_value_of_that_old/), the majority of antique radios are worth somewhere between $5 and a few hundred dollars. However, certain rare models, particularly those from the 1920s through 1940s, can command much higher prices.
 
-{{< data-modules/stats-highlight title="Antique Radio Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Radio Market Statistics" columns="3" / / />}}
 <div class="stat-card stat-card-blue">
   <span class="stat-value">$5-$300</span>
   <span class="stat-label">Average Value Range</span>
@@ -176,14 +176,14 @@ Certain manufacturers built reputations for quality, innovation, or exceptional 
 The physical and operational condition of an antique radio significantly impacts its value. Radios in original, working condition command much higher prices than those with damage or modifications.
 
 {{< interactive-modules/condition-checklist title="Antique Radio Condition Assessment" description="Use this checklist to evaluate your radio's condition and its potential value" >}}
-  {{< interactive-modules/checklist-item label="Cabinet is free from cracks, chips, or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact and not refinished" / />}}
-  {{< interactive-modules/checklist-item label="All knobs and controls are original and present" / />}}
-  {{< interactive-modules/checklist-item label="Dial glass and face are intact without damage" / />}}
-  {{< interactive-modules/checklist-item label="Electronic components appear undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Radio powers on and receives stations" / />}}
-  {{< interactive-modules/checklist-item label="Speaker produces clear sound without distortion" / />}}
-  {{< interactive-modules/checklist-item label="Original documentation or packaging is present" / />}}
+  {{< interactive-modules/checklist-item label="Cabinet is free from cracks, chips, or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact and not refinished" / / />}}
+  {{< interactive-modules/checklist-item label="All knobs and controls are original and present" / / />}}
+  {{< interactive-modules/checklist-item label="Dial glass and face are intact without damage" / / />}}
+  {{< interactive-modules/checklist-item label="Electronic components appear undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Radio powers on and receives stations" / / />}}
+  {{< interactive-modules/checklist-item label="Speaker produces clear sound without distortion" / / />}}
+  {{< interactive-modules/checklist-item label="Original documentation or packaging is present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Scarcity

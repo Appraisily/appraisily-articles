@@ -89,7 +89,7 @@ According to federal law in the United States, an antique firearm is generally d
 
 However, collectibility and value aren't limited strictly to pre-1899 weapons. Many firearms from the early to mid-20th century (sometimes called "curio and relic" firearms) also command premium prices among collectors, though they may not qualify as legal antiques.
 
-{{< data-modules/stats-highlight title="Antique Firearm Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Firearm Market Highlights" columns="3" / / />}}
   <tr>
     <td>$30,000+</td>
     <td>Value potential for rare Civil War revolvers in excellent condition</td>
@@ -138,12 +138,12 @@ Limited production runs, experimental models, and firearms with unique features 
 Condition is perhaps the most critical factor in determining an antique firearm's value. Collectors and appraisers typically use the following condition categories:
 
 {{< interactive-modules/condition-checklist title="Antique Firearm Condition Assessment" description="Check applicable items to determine condition rating" >}}
-  {{< interactive-modules/checklist-item label="Factory-new appearance with 99%+ original finish" / />}}
-  {{< interactive-modules/checklist-item label="Excellent: 95-98% original finish with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Very Good: 80-94% original finish with light wear" / />}}
-  {{< interactive-modules/checklist-item label="Good: 60-79% original finish with moderate wear" / />}}
-  {{< interactive-modules/checklist-item label="Fair: 40-59% original finish with significant wear" / />}}
-  {{< interactive-modules/checklist-item label="Poor: Less than 40% original finish, may not be functional" / />}}
+  {{< interactive-modules/checklist-item label="Factory-new appearance with 99%+ original finish" / / />}}
+  {{< interactive-modules/checklist-item label="Excellent: 95-98% original finish with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Very Good: 80-94% original finish with light wear" / / />}}
+  {{< interactive-modules/checklist-item label="Good: 60-79% original finish with moderate wear" / / />}}
+  {{< interactive-modules/checklist-item label="Fair: 40-59% original finish with significant wear" / / />}}
+  {{< interactive-modules/checklist-item label="Poor: Less than 40% original finish, may not be functional" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Importantly, an antique firearm's value is heavily tied to its originality. Restoration, refinishing, and replacement parts can significantly reduce value in many cases. Collectors generally prefer weapons with their original patina and honest wear that tells the story of the gun's history.

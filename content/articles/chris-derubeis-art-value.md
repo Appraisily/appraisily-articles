@@ -132,7 +132,7 @@ This complex, multi-step process ensures that no two DeRubeis pieces are identic
 
 The value of Chris DeRubeis' artwork is determined by multiple factors, with each playing a significant role in the final pricing:
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
 
 ### 1. Material and Composition
 
@@ -272,14 +272,14 @@ Authentic DeRubeis artwork should be accompanied by:
 3. **Photographic Record**: Many authorized galleries maintain photographic records of DeRubeis works they've sold.
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist when evaluating a potential Chris DeRubeis artwork" >}}
-  {{< interactive-modules/checklist-item label="Distinctive metal grinding patterns consistent with DeRubeis' style" / />}}
-  {{< interactive-modules/checklist-item label="Unique chemical reactions creating organic color patterns" / />}}
-  {{< interactive-modules/checklist-item label="Complex surface texture that interacts with light" / />}}
-  {{< interactive-modules/checklist-item label="Artist's signature (usually on the back or edge of the artwork)" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity from an authorized gallery" / />}}
-  {{< interactive-modules/checklist-item label="Clear provenance documentation" / />}}
-  {{< interactive-modules/checklist-item label="High-quality protective clear coat finish" / />}}
-  {{< interactive-modules/checklist-item label="Proper framing or mounting consistent with DeRubeis' presentation" / />}}
+  {{< interactive-modules/checklist-item label="Distinctive metal grinding patterns consistent with DeRubeis' style" / / />}}
+  {{< interactive-modules/checklist-item label="Unique chemical reactions creating organic color patterns" / / />}}
+  {{< interactive-modules/checklist-item label="Complex surface texture that interacts with light" / / />}}
+  {{< interactive-modules/checklist-item label="Artist's signature (usually on the back or edge of the artwork)" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity from an authorized gallery" / / />}}
+  {{< interactive-modules/checklist-item label="Clear provenance documentation" / / />}}
+  {{< interactive-modules/checklist-item label="High-quality protective clear coat finish" / / />}}
+  {{< interactive-modules/checklist-item label="Proper framing or mounting consistent with DeRubeis' presentation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Red Flags for Potential Forgeries

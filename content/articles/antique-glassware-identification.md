@@ -88,7 +88,7 @@ Antique glassware captures the artistic sensibilities and technological capabili
 
 According to glass experts, pieces more than 100 years old are considered truly antique, while those at least 40 years old fall into the vintage category. However, both categories can hold significant value depending on factors like rarity, condition, manufacturer, and historical importance.
 
-{{< data-modules/stats-highlight title="Antique Glass Market Indicators" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Glass Market Indicators" columns="3" / / />}}
 
 **287%** Growth in rare glass values since 2015
 **$25,000+** Record prices for exceptional pieces
@@ -127,13 +127,13 @@ Visible mold lines indicate that the glass was machine-made rather than hand-blo
 - Very faint or perfectly symmetrical seams suggest modern manufacturing techniques
 
 {{< interactive-modules/condition-checklist title="Glass Authentication Checklist" description="Check applicable signs when examining antique glassware" >}}
-  {{< interactive-modules/checklist-item label="Presence of pontil mark (pre-1860s)" / />}}
-  {{< interactive-modules/checklist-item label="Embossed manufacturer markings" / />}}
-  {{< interactive-modules/checklist-item label="Proper patina and wear consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate weight and thickness for period" / />}}
-  {{< interactive-modules/checklist-item label="Pattern matches known historical designs" / />}}
-  {{< interactive-modules/checklist-item label="Color is consistent with period production methods" / />}}
-  {{< interactive-modules/checklist-item label="No modern manufacturing techniques visible" / />}}
+  {{< interactive-modules/checklist-item label="Presence of pontil mark (pre-1860s)" / / />}}
+  {{< interactive-modules/checklist-item label="Embossed manufacturer markings" / / />}}
+  {{< interactive-modules/checklist-item label="Proper patina and wear consistent with age" / / />}}
+  {{< interactive-modules/checklist-item label="Appropriate weight and thickness for period" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern matches known historical designs" / / />}}
+  {{< interactive-modules/checklist-item label="Color is consistent with period production methods" / / />}}
+  {{< interactive-modules/checklist-item label="No modern manufacturing techniques visible" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Types & Styles of Antique & Vintage Glass" level="2" >}}

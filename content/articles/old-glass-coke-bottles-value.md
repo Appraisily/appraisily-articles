@@ -137,7 +137,7 @@ In this comprehensive guide, we'll explore how to identify valuable vintage Coca
   Several factors determine the value of old glass Coke bottles, with rarity and age being the most significant contributors to high valuations.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Drivers for Vintage Coke Bottles" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Drivers for Vintage Coke Bottles" columns="3" / / />}}
 
 Age is typically the most significant factor in determining a Coke bottle's value. The earliest examples, particularly Hutchinson bottles from the 1890s and early straight-sided bottles from the early 1900s, are often the most valuable due to their scarcity and historical significance.
 
@@ -194,14 +194,14 @@ The bottom of the bottle often contains valuable information:
 - **Date codes**: In many bottles, the first number indicates the year of manufacture within a decade.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Coca-Cola Bottles" description="Check all applicable items to help determine your bottle's condition rating" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks anywhere on the bottle" / />}}
-  {{< interactive-modules/checklist-item label="Glass has clear, consistent color without cloudiness" / />}}
-  {{< interactive-modules/checklist-item label="Embossing is sharp and well-defined" / />}}
-  {{< interactive-modules/checklist-item label="Original label present and intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original closure or cap preserved" / />}}
-  {{< interactive-modules/checklist-item label="No significant case wear on base or sides" / />}}
-  {{< interactive-modules/checklist-item label="Original contents present (unopened bottles)" / />}}
-  {{< interactive-modules/checklist-item label="No interior staining or residue" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks anywhere on the bottle" / / />}}
+  {{< interactive-modules/checklist-item label="Glass has clear, consistent color without cloudiness" / / />}}
+  {{< interactive-modules/checklist-item label="Embossing is sharp and well-defined" / / />}}
+  {{< interactive-modules/checklist-item label="Original label present and intact (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original closure or cap preserved" / / />}}
+  {{< interactive-modules/checklist-item label="No significant case wear on base or sides" / / />}}
+  {{< interactive-modules/checklist-item label="Original contents present (unopened bottles)" / / />}}
+  {{< interactive-modules/checklist-item label="No interior staining or residue" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Current Market Values for Vintage Coca-Cola Bottles

@@ -145,7 +145,7 @@ Key factors that influence a book's value include:
 4. **Edition**: First editions, limited editions, or special printings
 5. **Provenance**: Previous ownership history and authentication
 
-{{< data-modules/stats-highlight title="Book Collecting Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Book Collecting Statistics" columns="3" / / />}}
 <tr>
   <td>First editions</td>
   <td>2-10x increase</td>
@@ -197,14 +197,14 @@ Books produced in limited quantities or with special features often have higher 
 - Association copies (books owned by someone significant)
 
 {{< interactive-modules/condition-checklist title="Book Condition Assessment" description="Check applicable items to evaluate your book's condition" >}}
-  {{< interactive-modules/checklist-item label="Complete dust jacket in good condition" / />}}
-  {{< interactive-modules/checklist-item label="No writing, highlighting, or underlining" / />}}
-  {{< interactive-modules/checklist-item label="Binding is tight with no loose pages" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, stains, or foxing" / />}}
-  {{< interactive-modules/checklist-item label="Pages are clean and bright" / />}}
-  {{< interactive-modules/checklist-item label="Corners are sharp, not bumped or frayed" / />}}
-  {{< interactive-modules/checklist-item label="Spine is straight with clear lettering" / />}}
-  {{< interactive-modules/checklist-item label="No library markings or ex-library stamps" / />}}
+  {{< interactive-modules/checklist-item label="Complete dust jacket in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="No writing, highlighting, or underlining" / / />}}
+  {{< interactive-modules/checklist-item label="Binding is tight with no loose pages" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage, stains, or foxing" / / />}}
+  {{< interactive-modules/checklist-item label="Pages are clean and bright" / / />}}
+  {{< interactive-modules/checklist-item label="Corners are sharp, not bumped or frayed" / / />}}
+  {{< interactive-modules/checklist-item label="Spine is straight with clear lettering" / / />}}
+  {{< interactive-modules/checklist-item label="No library markings or ex-library stamps" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Impact of Condition on Book Value" level="2" >}}

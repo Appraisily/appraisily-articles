@@ -79,13 +79,13 @@ The most significant value factor is often what's actually on the film. Rare con
 Even the rarest content loses value if the film itself has deteriorated. Common condition issues include:
 
 {{< interactive-modules/condition-checklist title="16mm Film Condition Assessment" description="Check applicable items when evaluating film condition" >}}
-  {{< interactive-modules/checklist-item label="Film shows signs of vinegar syndrome (acidic smell)" / />}}
-  {{< interactive-modules/checklist-item label="Visible fading or color shift" / />}}
-  {{< interactive-modules/checklist-item label="Scratches throughout the footage" / />}}
-  {{< interactive-modules/checklist-item label="Splices, tears, or broken perforations" / />}}
-  {{< interactive-modules/checklist-item label="Mold or fungus growth" / />}}
-  {{< interactive-modules/checklist-item label="Shrinkage or warping of the film base" / />}}
-  {{< interactive-modules/checklist-item label="Water or heat damage" / />}}
+  {{< interactive-modules/checklist-item label="Film shows signs of vinegar syndrome (acidic smell)" / / />}}
+  {{< interactive-modules/checklist-item label="Visible fading or color shift" / / />}}
+  {{< interactive-modules/checklist-item label="Scratches throughout the footage" / / />}}
+  {{< interactive-modules/checklist-item label="Splices, tears, or broken perforations" / / />}}
+  {{< interactive-modules/checklist-item label="Mold or fungus growth" / / />}}
+  {{< interactive-modules/checklist-item label="Shrinkage or warping of the film base" / / />}}
+  {{< interactive-modules/checklist-item label="Water or heat damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness and Provenance
@@ -106,7 +106,7 @@ The market for 16mm films spans from common educational reels to rare cinematic 
 
 Based on current market trends, 16mm films generally fall into these value categories:
 
-{{< data-modules/stats-highlight title="16mm Film Value Overview" columns="3" / />}}
+{{< data-modules/stats-highlight title="16mm Film Value Overview" columns="3" / / />}}
 
 {{< data-modules/price-table title="16mm Film Value Categories" description="Current market value ranges based on content and condition" >}}
   <tr>

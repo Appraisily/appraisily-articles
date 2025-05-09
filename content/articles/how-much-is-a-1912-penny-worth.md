@@ -262,7 +262,7 @@ The 1912-S penny is the key date from this year, with only 4.4 million produced.
 
 ![1912-S Penny showing S mint mark detail](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1912-penny-worth/how-much-is-a-1912-penny-worth-image-4_EwlB9rKCb.png)
 
-{{< data-modules/stats-highlight title="Key 1912 Penny Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key 1912 Penny Statistics" columns="3" / / />}}
 
 {{< content-modules/section-header title="Factors Affecting 1912 Penny Value" level="2" >}}
 Several key factors influence the value of a 1912 Lincoln cent beyond just the mint mark. Understanding these variables will help you better assess what your coin might be worth.
@@ -276,13 +276,13 @@ The grade or condition of a coin is perhaps the most significant factor affectin
 - **Uncirculated Grades**: Mint State (MS) grades from MS-60 through MS-67
 
 {{< interactive-modules/condition-checklist title="1912 Penny Condition Assessment" description="Check applicable items to evaluate your coin's condition" >}}
-  {{< interactive-modules/checklist-item label="Full wheat lines visible on reverse" / />}}
-  {{< interactive-modules/checklist-item label="Lincoln's portrait shows strong detail in hair and beard" / />}}
-  {{< interactive-modules/checklist-item label="Original mint luster present" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or damage" / />}}
-  {{< interactive-modules/checklist-item label="Original copper color (not artificially cleaned)" / />}}
-  {{< interactive-modules/checklist-item label="Visible mint mark (for D and S versions)" / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear on high points" / />}}
+  {{< interactive-modules/checklist-item label="Full wheat lines visible on reverse" / / />}}
+  {{< interactive-modules/checklist-item label="Lincoln's portrait shows strong detail in hair and beard" / / />}}
+  {{< interactive-modules/checklist-item label="Original mint luster present" / / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original copper color (not artificially cleaned)" / / />}}
+  {{< interactive-modules/checklist-item label="Visible mint mark (for D and S versions)" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal wear on high points" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color Designation

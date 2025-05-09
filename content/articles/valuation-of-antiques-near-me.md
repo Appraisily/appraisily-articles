@@ -157,7 +157,7 @@ Professional antique valuations are crucial for:
 - **Sales decisions**: Knowing when to sell and for how much
 - **Authentication**: Distinguishing genuine antiques from reproductions
 
-{{< data-modules/stats-highlight title="The Impact of Professional Appraisals" columns="3" / />}}
+{{< data-modules/stats-highlight title="The Impact of Professional Appraisals" columns="3" / / />}}
 
 According to industry experts, many antique owners underestimate their items' value by 40-60% when relying on self-assessment. Additionally, about 25% of "antiques" in circulation are actually reproductions, which professional appraisers are trained to identify. Proper appraisals can increase insurance coverage appropriateness by up to 70% for collections.
 
@@ -194,14 +194,14 @@ Don't underestimate the power of personal recommendations. Ask friends, family m
 ![A collection of various antiques arranged for appraisal](https://ik.imagekit.io/appraisily/SEO/valuation-of-antiques-near-me/valuation-of-antiques-near-me-image-3_6kaYzgJhj.png)
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist to evaluate potential appraisers before hiring them" >}}
-  {{< interactive-modules/checklist-item label="Holds membership in a recognized professional appraisal organization" / />}}
-  {{< interactive-modules/checklist-item label="Has USPAP (Uniform Standards of Professional Appraisal Practice) certification" / />}}
-  {{< interactive-modules/checklist-item label="Specializes in your specific type of antique" / />}}
-  {{< interactive-modules/checklist-item label="Provides clear fee structure upfront" / />}}
-  {{< interactive-modules/checklist-item label="Has positive reviews or testimonials" / />}}
-  {{< interactive-modules/checklist-item label="Offers a formal written appraisal" / />}}
-  {{< interactive-modules/checklist-item label="Has significant experience in the industry (5+ years)" / />}}
-  {{< interactive-modules/checklist-item label="Maintains independence (no conflict of interest)" / />}}
+  {{< interactive-modules/checklist-item label="Holds membership in a recognized professional appraisal organization" / / />}}
+  {{< interactive-modules/checklist-item label="Has USPAP (Uniform Standards of Professional Appraisal Practice) certification" / / />}}
+  {{< interactive-modules/checklist-item label="Specializes in your specific type of antique" / / />}}
+  {{< interactive-modules/checklist-item label="Provides clear fee structure upfront" / / />}}
+  {{< interactive-modules/checklist-item label="Has positive reviews or testimonials" / / />}}
+  {{< interactive-modules/checklist-item label="Offers a formal written appraisal" / / />}}
+  {{< interactive-modules/checklist-item label="Has significant experience in the industry (5+ years)" / / />}}
+  {{< interactive-modules/checklist-item label="Maintains independence (no conflict of interest)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="What to Expect from a Professional Antique Appraisal" level="2" >}}
@@ -504,7 +504,7 @@ Consider these factors when deciding between online and in-person appraisals:
 - **Timeline**: Online services often provide faster results
 - **Location**: Limited local expertise may necessitate online options
 
-{{< data-modules/stats-highlight title="Online vs. In-Person Appraisal Comparison" columns="3" / />}}
+{{< data-modules/stats-highlight title="Online vs. In-Person Appraisal Comparison" columns="3" / / />}}
 
 According to industry surveys, in-person appraisals typically cost 3-5 times more than online alternatives but are considered 30% more accurate for complex items. About 65% of insurance companies accept online appraisals for items valued under $5,000, while 90% require in-person appraisals for items over $10,000.
 

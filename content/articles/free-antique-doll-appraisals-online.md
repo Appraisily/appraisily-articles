@@ -159,7 +159,7 @@ Antique dolls represent a fascinating intersection of art, history, and craftsma
 
 Free online appraisals provide preliminary valuation insights, helping doll owners determine whether they possess something of significant value before investing in more comprehensive paid assessments. These services range from auction house evaluations to collector forums and specialized doll expert consultations.
 
-{{< data-modules/stats-highlight title="Antique Doll Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Doll Market Insights" columns="3" / / />}}
   <tr>
     <td>Rare bisque dolls</td>
     <td>+120%</td>
@@ -234,13 +234,13 @@ The [National Antique Doll Dealers Association](https://nadda.org/) doesn't prov
 The quality of information you provide directly affects the accuracy of any online appraisal. Before submitting your antique doll for evaluation, take time to properly document and photograph it following these best practices:
 
 {{< interactive-modules/condition-checklist title="Pre-Appraisal Documentation Checklist" description="Complete these steps before submitting your doll for online appraisal" >}}
-  {{< interactive-modules/checklist-item label="Photograph all maker's marks, stamps, and signatures" / />}}
-  {{< interactive-modules/checklist-item label="Take detailed images of the doll's face, clothing, and body" / />}}
-  {{< interactive-modules/checklist-item label="Document any damage, repairs, or restoration work" / />}}
-  {{< interactive-modules/checklist-item label="Measure height and other relevant dimensions" / />}}
-  {{< interactive-modules/checklist-item label="Note any provenance information or history" / />}}
-  {{< interactive-modules/checklist-item label="Include photos of original packaging if available" / />}}
-  {{< interactive-modules/checklist-item label="Research any identifying features or characteristics" / />}}
+  {{< interactive-modules/checklist-item label="Photograph all maker's marks, stamps, and signatures" / / />}}
+  {{< interactive-modules/checklist-item label="Take detailed images of the doll's face, clothing, and body" / / />}}
+  {{< interactive-modules/checklist-item label="Document any damage, repairs, or restoration work" / / />}}
+  {{< interactive-modules/checklist-item label="Measure height and other relevant dimensions" / / />}}
+  {{< interactive-modules/checklist-item label="Note any provenance information or history" / / />}}
+  {{< interactive-modules/checklist-item label="Include photos of original packaging if available" / / />}}
+  {{< interactive-modules/checklist-item label="Research any identifying features or characteristics" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Photography Guidelines for Online Appraisals

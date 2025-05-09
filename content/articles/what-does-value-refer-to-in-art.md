@@ -86,7 +86,7 @@ Value is one of the seven basic elements of art, and it plays a crucial role in 
 
 Value in art refers to the relative lightness or darkness of colors and tones within a composition. On a value scale, pure white represents the highest value, while pure black represents the lowest value, with countless shades of gray in between. Artists use these variations to create visual interest, emphasize certain elements, and convey depth and dimension.
 
-{{< data-modules/stats-highlight title="Key Aspects of Value in Art" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Aspects of Value in Art" columns="3" / / />}}
 
 ### How Value Creates Depth
 
@@ -171,12 +171,12 @@ J.M.W. Turner used value to create atmospheric effects that verge on abstraction
 M.C. Escher manipulated value relationships to create his famous optical illusions and impossible constructions. His precise control of value enabled him to create convincing three-dimensional spaces that, upon closer inspection, cannot exist in reality.
 
 {{< interactive-modules/condition-checklist title="Evaluating Value in Artwork" description="Use this checklist when analyzing the use of value in a painting or drawing" >}}
-  {{< interactive-modules/checklist-item label="Does the artwork show a full range of values from light to dark?" / />}}
-  {{< interactive-modules/checklist-item label="Are there clear value patterns organizing the composition?" / />}}
-  {{< interactive-modules/checklist-item label="Does value effectively create the illusion of three-dimensional form?" / />}}
-  {{< interactive-modules/checklist-item label="Is value contrast used to create focal points?" / />}}
-  {{< interactive-modules/checklist-item label="Do value transitions effectively suggest texture and material qualities?" / />}}
-  {{< interactive-modules/checklist-item label="Does the overall value scheme contribute to the mood or emotional impact?" / />}}
+  {{< interactive-modules/checklist-item label="Does the artwork show a full range of values from light to dark?" / / />}}
+  {{< interactive-modules/checklist-item label="Are there clear value patterns organizing the composition?" / / />}}
+  {{< interactive-modules/checklist-item label="Does value effectively create the illusion of three-dimensional form?" / / />}}
+  {{< interactive-modules/checklist-item label="Is value contrast used to create focal points?" / / />}}
+  {{< interactive-modules/checklist-item label="Do value transitions effectively suggest texture and material qualities?" / / />}}
+  {{< interactive-modules/checklist-item label="Does the overall value scheme contribute to the mood or emotional impact?" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Art Market Value: The Economic Perspective" level="2" >}}

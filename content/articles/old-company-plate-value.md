@@ -110,7 +110,7 @@ Old Company Plate was a line of silver-plated flatware produced by International
 
 The "Signature" pattern is among the most recognizable designs from Old Company Plate, featuring a clean, modern aesthetic that aligned with mid-century design preferences. This pattern was often sold with monogramming options, making each set somewhat personalized to the original owner.
 
-{{< data-modules/stats-highlight title="Old Company Plate at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Old Company Plate at a Glance" columns="3" / / />}}
 
 ## Historical Context and Manufacturing
 
@@ -164,11 +164,11 @@ The most valuable and collectible Old Company Plate patterns include:
 ### Materials and Construction
 
 {{< interactive-modules/condition-checklist title="Identifying Genuine Old Company Plate" description="Check for these characteristics to confirm authenticity" >}}
-  {{< interactive-modules/checklist-item label="'Old Company Plate' stamp clearly visible on back of items" / />}}
-  {{< interactive-modules/checklist-item label="Silver plating shows appropriate patina for age" / />}}
-  {{< interactive-modules/checklist-item label="Weight feels substantial (heavier than modern stainless steel)" / />}}
-  {{< interactive-modules/checklist-item label="Pattern details match known Old Company Plate designs" / />}}
-  {{< interactive-modules/checklist-item label="Base metal (usually visible on worn areas) is copper-colored or nickel silver" / />}}
+  {{< interactive-modules/checklist-item label="'Old Company Plate' stamp clearly visible on back of items" / / />}}
+  {{< interactive-modules/checklist-item label="Silver plating shows appropriate patina for age" / / />}}
+  {{< interactive-modules/checklist-item label="Weight feels substantial (heavier than modern stainless steel)" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern details match known Old Company Plate designs" / / />}}
+  {{< interactive-modules/checklist-item label="Base metal (usually visible on worn areas) is copper-colored or nickel silver" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Factors Affecting Old Company Plate Value
@@ -323,7 +323,7 @@ For valuable sets, professional restoration may be worthwhile:
 
 ## Silver Plate vs. Sterling Silver
 
-{{< data-modules/stats-highlight title="Silver Content Comparison" columns="3" / />}}
+{{< data-modules/stats-highlight title="Silver Content Comparison" columns="3" / / />}}
 
 Understanding the difference between silver plate and sterling is crucial for valuation:
 

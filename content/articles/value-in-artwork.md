@@ -81,7 +81,7 @@ Value in artistic terms refers to the lightness or darkness of a color or tone. 
 
 As the [Cascadia Art Museum](https://www.cascadiaartmuseum.org/elements-of-art-value/) explains, "Value is the lightness or darkness of a color, and it adds dimension in a piece. Value is also a concept in color... Artists can create value in line drawings through different shading techniques which use different types of line."
 
-{{< data-modules/stats-highlight title="Value in Art: Key Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value in Art: Key Insights" columns="3" / / />}}
 
 The value scale runs from white (highest value) to black (lowest value), with various shades of gray in between. This scale provides artists with a framework for creating tonal relationships within their work.
 
@@ -98,11 +98,11 @@ According to [Draw Paint Academy](https://drawpaintacademy.com/what-is-value-in-
 Artists employ various techniques to create value in their work:
 
 {{< interactive-modules/condition-checklist title="Value Creation Techniques" description="Common methods artists use to establish value" >}}
-  {{< interactive-modules/checklist-item label="Shading - Gradually darkening areas to create dimension" / />}}
-  {{< interactive-modules/checklist-item label="Hatching - Using parallel lines to create value" / />}}
-  {{< interactive-modules/checklist-item label="Cross-hatching - Overlapping lines at different angles for darker values" / />}}
-  {{< interactive-modules/checklist-item label="Stippling - Using dots to create value variations" / />}}
-  {{< interactive-modules/checklist-item label="Blending - Smoothly transitioning between value ranges" / />}}
+  {{< interactive-modules/checklist-item label="Shading - Gradually darkening areas to create dimension" / / />}}
+  {{< interactive-modules/checklist-item label="Hatching - Using parallel lines to create value" / / />}}
+  {{< interactive-modules/checklist-item label="Cross-hatching - Overlapping lines at different angles for darker values" / / />}}
+  {{< interactive-modules/checklist-item label="Stippling - Using dots to create value variations" / / />}}
+  {{< interactive-modules/checklist-item label="Blending - Smoothly transitioning between value ranges" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As explained by [The Virtual Instructor](https://thevirtualinstructor.com/Value.html), "Value deals with the lightness or darkness of a color. Since we see objects and understand objects because of how light interacts with them, value is incredibly important to art."
@@ -226,12 +226,12 @@ The New York Times's lesson plan on ["Analyzing the Elements of Art: Four Ways t
 For collectors and investors, understanding both aspects of value is crucial:
 
 {{< interactive-modules/condition-checklist title="Art Investment Value Assessment" description="Factors to consider when evaluating art as an investment" >}}
-  {{< interactive-modules/checklist-item label="Artist's market history and trajectory" / />}}
-  {{< interactive-modules/checklist-item label="Condition report from a qualified appraiser" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation and authentication" / />}}
-  {{< interactive-modules/checklist-item label="Artistic quality relative to the artist's other works" / />}}
-  {{< interactive-modules/checklist-item label="Current market demand for similar works" / />}}
-  {{< interactive-modules/checklist-item label="Institutional recognition (museums, exhibitions)" / />}}
+  {{< interactive-modules/checklist-item label="Artist's market history and trajectory" / / />}}
+  {{< interactive-modules/checklist-item label="Condition report from a qualified appraiser" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation and authentication" / / />}}
+  {{< interactive-modules/checklist-item label="Artistic quality relative to the artist's other works" / / />}}
+  {{< interactive-modules/checklist-item label="Current market demand for similar works" / / />}}
+  {{< interactive-modules/checklist-item label="Institutional recognition (museums, exhibitions)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As [Artsy explains](https://www.artsy.net/article/artsy-editorial-determines-price-artwork), "Factors here can include the artist's education, residencies, and previous shows, as well as a qualitative assessment of the material itself. The medium of the artwork in question is also taken into account."

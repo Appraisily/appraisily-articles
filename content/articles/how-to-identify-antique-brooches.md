@@ -144,7 +144,7 @@ Antique brooches are more than just decorative pins—they're wearable history, 
 
 ![Collection of various antique and vintage brooches arranged to show different styles and periods](https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-brooches/how-to-identify-antique-brooches-image-1_4VMNlaFoP.png)
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Brooches" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Brooches" columns="3" / / />}}
 
 {{< content-modules/section-header title="Dating Antique Brooches by Fastening Mechanisms" level="2" >}}
 One of the most reliable methods for determining the age of an antique brooch is examining its fastening mechanisms. The clasp, hinge, and pin styles have evolved significantly over time, providing valuable clues about when a piece was created.
@@ -359,14 +359,14 @@ The Retro era produced distinctive brooches with:
 - Mixed metals and synthetic stones due to wartime restrictions
 
 {{< interactive-modules/condition-checklist title="Antique Brooch Identification Checklist" description="Use this checklist to help identify and date your antique brooch" >}}
-  {{< interactive-modules/checklist-item label="Examine the clasp mechanism and compare to historical styles" / />}}
-  {{< interactive-modules/checklist-item label="Check for hallmarks, maker's marks, or metal content stamps" / />}}
-  {{< interactive-modules/checklist-item label="Measure the pin length (longer pins typically indicate older pieces)" / />}}
-  {{< interactive-modules/checklist-item label="Identify the metal type and finish" / />}}
-  {{< interactive-modules/checklist-item label="Note gemstone types and cutting styles" / />}}
-  {{< interactive-modules/checklist-item label="Assess overall design elements and compare to period characteristics" / />}}
-  {{< interactive-modules/checklist-item label="Look for signs of hand craftsmanship vs. machine production" / />}}
-  {{< interactive-modules/checklist-item label="Research similar pieces in museum collections or reference books" / />}}
+  {{< interactive-modules/checklist-item label="Examine the clasp mechanism and compare to historical styles" / / />}}
+  {{< interactive-modules/checklist-item label="Check for hallmarks, maker's marks, or metal content stamps" / / />}}
+  {{< interactive-modules/checklist-item label="Measure the pin length (longer pins typically indicate older pieces)" / / />}}
+  {{< interactive-modules/checklist-item label="Identify the metal type and finish" / / />}}
+  {{< interactive-modules/checklist-item label="Note gemstone types and cutting styles" / / />}}
+  {{< interactive-modules/checklist-item label="Assess overall design elements and compare to period characteristics" / / />}}
+  {{< interactive-modules/checklist-item label="Look for signs of hand craftsmanship vs. machine production" / / />}}
+  {{< interactive-modules/checklist-item label="Research similar pieces in museum collections or reference books" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Hallmarks and Maker's Marks" level="2" >}}

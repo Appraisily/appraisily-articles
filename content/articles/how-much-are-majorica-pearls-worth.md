@@ -101,7 +101,7 @@ Majorica pearls have a storied history dating back to the late 19th century when
 
 For collectors, jewelry enthusiasts, and those who've inherited vintage pieces, understanding the true value of Majorica pearls can be challenging. This comprehensive guide explores current market values, valuation factors, identification techniques, and advice for selling these distinctive jewelry items.
 
-{{< data-modules/stats-highlight title="Majorica Pearl Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Majorica Pearl Market Highlights" columns="3" / / />}}
 - Current average value range: $50-$300
 - Most valuable era: 1950s-1970s vintage pieces
 - Value appreciation factor: Condition and original packaging
@@ -161,12 +161,12 @@ Vintage Majorica pearls, particularly those from the 1950s through the 1970s, ar
 The condition of the pearls significantly impacts their value:
 
 {{< interactive-modules/condition-checklist title="Majorica Pearl Condition Assessment" description="Check applicable items to help determine condition" >}}
-  {{< interactive-modules/checklist-item label="Pearl surface is smooth with no chips, cracks, or peeling" / />}}
-  {{< interactive-modules/checklist-item label="Pearls retain their original luster and aren't yellowed" / />}}
-  {{< interactive-modules/checklist-item label="String or chain is intact without fraying or damage" / />}}
-  {{< interactive-modules/checklist-item label="Clasp functions properly and shows minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="All pearls match in color, size, and finish" / />}}
-  {{< interactive-modules/checklist-item label="Original box, pouch, or certificate of authenticity present" / />}}
+  {{< interactive-modules/checklist-item label="Pearl surface is smooth with no chips, cracks, or peeling" / / />}}
+  {{< interactive-modules/checklist-item label="Pearls retain their original luster and aren't yellowed" / / />}}
+  {{< interactive-modules/checklist-item label="String or chain is intact without fraying or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Clasp functions properly and shows minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="All pearls match in color, size, and finish" / / />}}
+  {{< interactive-modules/checklist-item label="Original box, pouch, or certificate of authenticity present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Clasp Quality and Materials
@@ -272,7 +272,7 @@ To maximize the value of your Majorica pearls when selling:
 
 According to Reddit users with selling experience, unworn vintage Majorica pieces with original packaging might fetch between $50-$100 on platforms like eBay, with exceptional pieces occasionally selling for more.
 
-{{< data-modules/stats-highlight title="Majorica Pearl Selling Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Majorica Pearl Selling Statistics" columns="3" / / />}}
 - Best marketplace: eBay (highest volume of sales)
 - Average selling time: 2-4 weeks
 - Price increase with original box: Up to 50%

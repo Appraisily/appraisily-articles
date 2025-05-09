@@ -57,7 +57,7 @@ Silver soldered teapots represent an important category of antique and vintage s
 
 Silver soldered teapots are heavy silver-plated items that were primarily manufactured for use in restaurants, hotels, and other commercial establishments. The term "silver soldered" refers to the manufacturing process where the parts of the teapot are joined together using silver solder, rather than indicating the composition of the entire piece. This distinction is crucial for collectors to understand, as it directly impacts the value of these items.
 
-{{< data-modules/stats-highlight title="Key Facts About Silver Soldered Teapots" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Silver Soldered Teapots" columns="3" / / />}}
 
 ## What Is Silver Soldered and How Does It Differ from Sterling?
 
@@ -82,14 +82,14 @@ Older silver soldered teapots, particularly those from the late 19th to early 20
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Silver Soldered Teapot Condition Checklist" description="Check all applicable items to assess your teapot's condition" >}}
-  {{< interactive-modules/checklist-item label="No dents or significant damage to the body" / />}}
-  {{< interactive-modules/checklist-item label="Original silver plating intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Lid fits properly and hinges function correctly" / />}}
-  {{< interactive-modules/checklist-item label="Handle is secure with no cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Spout is undamaged and shows no leaks" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer's marks are visible" / />}}
-  {{< interactive-modules/checklist-item label="No significant tarnish or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Any monograms or engravings are clear and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No dents or significant damage to the body" / / />}}
+  {{< interactive-modules/checklist-item label="Original silver plating intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Lid fits properly and hinges function correctly" / / />}}
+  {{< interactive-modules/checklist-item label="Handle is secure with no cracks or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Spout is undamaged and shows no leaks" / / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer's marks are visible" / / />}}
+  {{< interactive-modules/checklist-item label="No significant tarnish or discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Any monograms or engravings are clear and undamaged" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Design Aesthetics

@@ -86,7 +86,7 @@ Antique knives can range from practical everyday tools to rare collectibles wort
 
 This comprehensive guide will help you navigate the process of finding qualified antique knife appraisers in your area, understand what to expect during an appraisal, and learn how to properly prepare your items for evaluation.
 
-{{< data-modules/stats-highlight title="Antique Knife Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Knife Market Insights" columns="3" / / />}}
 <tr>
   <td>$25-$350+</td>
   <td>Average appraisal cost</td>
@@ -199,14 +199,14 @@ Before committing to an appraiser, verify their qualifications:
 - **Appraisal methodology** - How they determine authenticity and value
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Factors to consider when selecting a knife appraiser" >}}
-{{< interactive-modules/checklist-item label="Has formal appraisal training or certification" / />}}
-{{< interactive-modules/checklist-item label="Demonstrates specialized knowledge of antique knives" / />}}
-{{< interactive-modules/checklist-item label="Provides clear explanation of appraisal methodology" / />}}
-{{< interactive-modules/checklist-item label="Offers formal written documentation" / />}}
-{{< interactive-modules/checklist-item label="Has positive client testimonials or reviews" / />}}
-{{< interactive-modules/checklist-item label="Belongs to professional appraisal organizations" / />}}
-{{< interactive-modules/checklist-item label="Has experience with the specific type of knife you own" / />}}
-{{< interactive-modules/checklist-item label="Discloses any conflicts of interest" / />}}
+{{< interactive-modules/checklist-item label="Has formal appraisal training or certification" / / />}}
+{{< interactive-modules/checklist-item label="Demonstrates specialized knowledge of antique knives" / / />}}
+{{< interactive-modules/checklist-item label="Provides clear explanation of appraisal methodology" / / />}}
+{{< interactive-modules/checklist-item label="Offers formal written documentation" / / />}}
+{{< interactive-modules/checklist-item label="Has positive client testimonials or reviews" / / />}}
+{{< interactive-modules/checklist-item label="Belongs to professional appraisal organizations" / / />}}
+{{< interactive-modules/checklist-item label="Has experience with the specific type of knife you own" / / />}}
+{{< interactive-modules/checklist-item label="Discloses any conflicts of interest" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### National Services with Local Representation

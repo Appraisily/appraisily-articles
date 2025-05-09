@@ -121,7 +121,7 @@ In this comprehensive guide, we'll explore how to find reputable local art appra
 
 There are several situations where having your artwork professionally appraised is essential:
 
-{{< data-modules/stats-highlight title="Top Reasons for Art Appraisals" columns="3" / />}}
+{{< data-modules/stats-highlight title="Top Reasons for Art Appraisals" columns="3" / / />}}
 
 1. **Insurance Coverage**: Most insurance companies require professional appraisals to properly insure valuable artwork.
 
@@ -207,14 +207,14 @@ Major auction houses often employ expert appraisers and may offer appraisal serv
 - Regional auction houses with art specialties
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Ensure your chosen appraiser meets these key criteria:" >}}
-  {{< interactive-modules/checklist-item label="Certification from a recognized appraisal organization" / />}}
-  {{< interactive-modules/checklist-item label="Specialization in your specific type of artwork" / />}}
-  {{< interactive-modules/checklist-item label="Experience with the appraisal purpose you need (insurance, estate, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="No conflicts of interest (not offering to buy or sell your art)" / />}}
-  {{< interactive-modules/checklist-item label="Adherence to the Uniform Standards of Professional Appraisal Practice (USPAP)" / />}}
-  {{< interactive-modules/checklist-item label="Clear fee structure with no hidden costs" / />}}
-  {{< interactive-modules/checklist-item label="Professional references and positive reviews" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate insurance coverage for handling your artwork" / />}}
+  {{< interactive-modules/checklist-item label="Certification from a recognized appraisal organization" / / />}}
+  {{< interactive-modules/checklist-item label="Specialization in your specific type of artwork" / / />}}
+  {{< interactive-modules/checklist-item label="Experience with the appraisal purpose you need (insurance, estate, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="No conflicts of interest (not offering to buy or sell your art)" / / />}}
+  {{< interactive-modules/checklist-item label="Adherence to the Uniform Standards of Professional Appraisal Practice (USPAP)" / / />}}
+  {{< interactive-modules/checklist-item label="Clear fee structure with no hidden costs" / / />}}
+  {{< interactive-modules/checklist-item label="Professional references and positive reviews" / / />}}
+  {{< interactive-modules/checklist-item label="Appropriate insurance coverage for handling your artwork" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="What to Expect from the Appraisal Process" level="2" >}}

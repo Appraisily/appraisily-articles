@@ -149,13 +149,13 @@ Before assessing value, you must first determine if your cameo is authentic. Mod
 ![Close-up of authentic hand-carved shell cameo showing fine details](https://ik.imagekit.io/appraisily/SEO/antique-cameo-brooch-value/antique-cameo-brooch-value-image-3_00cirkItI.png)
 
 {{< interactive-modules/condition-checklist title="Authenticity Indicators" description="Check these features to help determine if your cameo is authentic:" >}}
-  {{< interactive-modules/checklist-item label="Carving details are crisp and show fine workmanship" / />}}
-  {{< interactive-modules/checklist-item label="Design has dimensional depth rather than appearing flat" / />}}
-  {{< interactive-modules/checklist-item label="Reverse side shows natural unevenness (for shell cameos)" / />}}
-  {{< interactive-modules/checklist-item label="Frame has appropriate aging and patina" / />}}
-  {{< interactive-modules/checklist-item label="Clasp mechanism matches the purported period" / />}}
-  {{< interactive-modules/checklist-item label="Material feels natural, not plastic or resin" / />}}
-  {{< interactive-modules/checklist-item label="Weight is appropriate for the material" / />}}
+  {{< interactive-modules/checklist-item label="Carving details are crisp and show fine workmanship" / / />}}
+  {{< interactive-modules/checklist-item label="Design has dimensional depth rather than appearing flat" / / />}}
+  {{< interactive-modules/checklist-item label="Reverse side shows natural unevenness (for shell cameos)" / / />}}
+  {{< interactive-modules/checklist-item label="Frame has appropriate aging and patina" / / />}}
+  {{< interactive-modules/checklist-item label="Clasp mechanism matches the purported period" / / />}}
+  {{< interactive-modules/checklist-item label="Material feels natural, not plastic or resin" / / />}}
+  {{< interactive-modules/checklist-item label="Weight is appropriate for the material" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to experts at the [Seaside Art Gallery](https://seasideart.com/blogs/blog/is-your-cameo-real-here-s-how-to-find-out), authentic cameos display durable paint and enamel that has stood the test of time better than modern reproductions. The quality of carving is also crucial—antique pieces typically showcase more intricate details and dimensional depth.
@@ -166,7 +166,7 @@ A key test for shell cameos is to carefully examine the back side. Genuine shell
 Multiple factors influence the value of an antique cameo brooch, from materials to artistic quality to historical significance.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Determinants" columns="3" / / />}}
 
 1. **Material**: Shell cameos are most common, while hardstone (agate, onyx, sardonyx) cameos generally command higher prices. Rare materials like coral or ivory (though now restricted) can increase value significantly.
 
@@ -292,14 +292,14 @@ The condition of an antique cameo dramatically affects its value. Even rare, hig
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Cameo Condition Checklist" description="Evaluate your cameo's condition with these criteria:" >}}
-  {{< interactive-modules/checklist-item label="Cameo carving is intact with no chips or cracks" / />}}
-  {{< interactive-modules/checklist-item label="No missing pieces from the relief design" / />}}
-  {{< interactive-modules/checklist-item label="Original frame is intact and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Clasp mechanism works properly" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or amateur restoration visible" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or material degradation" / />}}
-  {{< interactive-modules/checklist-item label="Setting is secure with no loose parts" / />}}
-  {{< interactive-modules/checklist-item label="Original components (like seed pearls) are intact" / />}}
+  {{< interactive-modules/checklist-item label="Cameo carving is intact with no chips or cracks" / / />}}
+  {{< interactive-modules/checklist-item label="No missing pieces from the relief design" / / />}}
+  {{< interactive-modules/checklist-item label="Original frame is intact and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Clasp mechanism works properly" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or amateur restoration visible" / / />}}
+  {{< interactive-modules/checklist-item label="No discoloration or material degradation" / / />}}
+  {{< interactive-modules/checklist-item label="Setting is secure with no loose parts" / / />}}
+  {{< interactive-modules/checklist-item label="Original components (like seed pearls) are intact" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Common condition issues that affect value include:

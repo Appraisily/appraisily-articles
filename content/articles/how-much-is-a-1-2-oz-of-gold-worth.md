@@ -105,7 +105,7 @@ To calculate the intrinsic value of a 1/2 oz of gold, simply multiply the curren
 
 According to [FindBullionPrices.com](https://findbullionprices.com/p/half-oz-gold-round/), the melt value of one 1/2 oz gold round is about $1,666.20 based on recent gold prices. However, it's important to understand that the actual purchase or selling price of 1/2 oz gold products almost always includes premiums above the spot price.
 
-{{< data-modules/stats-highlight title="Current Gold Value Metrics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Current Gold Value Metrics" columns="3" / / />}}
 
 <div class="stat-card green">
   <div class="stat-value">$1,657+</div>
@@ -261,13 +261,13 @@ When it's time to sell your 1/2 oz gold products, consider these options:
 Be aware of the "spread" between buying and selling prices. When you sell a 1/2 oz gold product, you'll typically receive 1-5% below the current spot price, while you'll pay 3-8% above spot when buying. This spread represents the transaction cost of gold ownership.
 
 {{< interactive-modules/condition-checklist title="1/2 Oz Gold Buying Checklist" description="Use this checklist when purchasing 1/2 oz gold products" >}}
-  {{< interactive-modules/checklist-item label="Verify the dealer's reputation and reviews" / />}}
-  {{< interactive-modules/checklist-item label="Compare premiums across multiple dealers" / />}}
-  {{< interactive-modules/checklist-item label="Confirm the product's authenticity guarantees" / />}}
-  {{< interactive-modules/checklist-item label="Check if the item comes with assay card or certificate" / />}}
-  {{< interactive-modules/checklist-item label="Understand the dealer's buy-back policy" / />}}
-  {{< interactive-modules/checklist-item label="Calculate the price per ounce to compare value" / />}}
-  {{< interactive-modules/checklist-item label="Consider shipping, insurance, and payment fees" / />}}
+  {{< interactive-modules/checklist-item label="Verify the dealer's reputation and reviews" / / />}}
+  {{< interactive-modules/checklist-item label="Compare premiums across multiple dealers" / / />}}
+  {{< interactive-modules/checklist-item label="Confirm the product's authenticity guarantees" / / />}}
+  {{< interactive-modules/checklist-item label="Check if the item comes with assay card or certificate" / / />}}
+  {{< interactive-modules/checklist-item label="Understand the dealer's buy-back policy" / / />}}
+  {{< interactive-modules/checklist-item label="Calculate the price per ounce to compare value" / / />}}
+  {{< interactive-modules/checklist-item label="Consider shipping, insurance, and payment fees" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Investment Considerations for 1/2 Oz Gold" level="2" >}}

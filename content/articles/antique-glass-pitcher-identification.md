@@ -114,7 +114,7 @@ Cut glass pitchers, particularly those from the American Brilliant Period (1876-
 ### Depression Glass Pitchers
 Depression glass pitchers were mass-produced during the 1920s-1940s, particularly during the Great Depression. These more affordable colored glass pieces came in various patterns and colors, including pink, green, amber, and blue. Popular depression glass pitcher patterns include Mayfair, Cameo, and American Sweetheart.
 
-{{< data-modules/stats-highlight title="Antique Glass Pitcher Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Glass Pitcher Market Insights" columns="3" / / />}}
 
 ### Carnival Glass Pitchers
 Carnival glass pitchers, introduced around 1908, are known for their distinctive iridescent surface that displays a spectrum of colors when held to the light. Originally marketed as "Iridill" or "Rainbow Glass," these pieces were often given as carnival prizes, hence the name. Colors range from marigold and amethyst to blue and green.
@@ -396,14 +396,14 @@ For pitchers that were part of sets (such as water sets with matching glasses), 
 Some patterns or manufacturers have stronger collector bases in specific regions, affecting values in local markets.
 
 {{< interactive-modules/condition-checklist title="Antique Glass Pitcher Condition Assessment" description="Check applicable items to evaluate the condition of your antique glass pitcher" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks present anywhere on the pitcher" / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact with no clouding or etching" / />}}
-  {{< interactive-modules/checklist-item label="Pattern is clear and well-defined with no excessive wear" / />}}
-  {{< interactive-modules/checklist-item label="No signs of repairs or restoration work" / />}}
-  {{< interactive-modules/checklist-item label="Handle is firmly attached with no damage or wobbling" / />}}
-  {{< interactive-modules/checklist-item label="Base sits flat without rocking or unevenness" / />}}
-  {{< interactive-modules/checklist-item label="Glass has proper clarity without discoloration" / />}}
-  {{< interactive-modules/checklist-item label="No excessive scratches on base or body" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks present anywhere on the pitcher" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with no clouding or etching" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern is clear and well-defined with no excessive wear" / / />}}
+  {{< interactive-modules/checklist-item label="No signs of repairs or restoration work" / / />}}
+  {{< interactive-modules/checklist-item label="Handle is firmly attached with no damage or wobbling" / / />}}
+  {{< interactive-modules/checklist-item label="Base sits flat without rocking or unevenness" / / />}}
+  {{< interactive-modules/checklist-item label="Glass has proper clarity without discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="No excessive scratches on base or body" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Authentication Tips" level="2" >}}

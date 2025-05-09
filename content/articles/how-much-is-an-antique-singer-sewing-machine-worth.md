@@ -123,14 +123,14 @@ Certain Singer models are more desirable to collectors than others. Models with 
 Singer machines that come with their original wooden cabinets, especially those with intricate woodwork or unique features, can be worth substantially more than the machine alone. Treadle machines (foot-powered) with their original cast iron stands and wooden cabinets are particularly valued for their decorative appeal.
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Assessment" description="Check these factors when evaluating your machine's condition:" >}}
-  {{< interactive-modules/checklist-item label="Machine operates smoothly at all stitch types" / />}}
-  {{< interactive-modules/checklist-item label="Original decals are intact and vibrant" / />}}
-  {{< interactive-modules/checklist-item label="No rust or deep scratches on metal parts" / />}}
-  {{< interactive-modules/checklist-item label="All original parts are present (no replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Original finish is well-preserved" / />}}
-  {{< interactive-modules/checklist-item label="Complete with accessories (bobbins, attachments, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Original case or cabinet is present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Has original manual and documents" / />}}
+  {{< interactive-modules/checklist-item label="Machine operates smoothly at all stitch types" / / />}}
+  {{< interactive-modules/checklist-item label="Original decals are intact and vibrant" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or deep scratches on metal parts" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts are present (no replacements)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is well-preserved" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with accessories (bobbins, attachments, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Original case or cabinet is present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Has original manual and documents" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Your Singer Sewing Machine" level="2" >}}
@@ -250,7 +250,7 @@ The earliest Singer machines, especially those with rare features or unusual des
   </tr>
 {{< /data-modules/price-table >}}
 
-{{< data-modules/stats-highlight title="Singer Sewing Machine Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Singer Sewing Machine Market Facts" columns="3" / / />}}
 
 {{< content-modules/section-header title="Where to Sell Your Antique Singer Sewing Machine" level="2" >}}
 If you've determined that your Singer sewing machine has significant value and you're interested in selling, there are several venues to consider, each with its own advantages.

@@ -122,7 +122,7 @@ The market for vintage fishing tackle continues to grow, with rare pieces comman
 
 In this comprehensive guide, we'll walk you through the process of identifying vintage fishing rods, determining their age, assessing their condition, and estimating their value. Whether you're looking to start a collection, add to an existing one, or simply determine what that old rod in your garage might be worth, this resource will provide the tools you need.
 
-{{< data-modules/stats-highlight title="Vintage Fishing Rod Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Fishing Rod Market at a Glance" columns="3" / / />}}
 <tr>
   <td>$500-$5,000+</td>
   <td>Typical value range for rare vintage bamboo fly rods</td>
@@ -321,17 +321,17 @@ The condition of a vintage fishing rod is often the most significant factor affe
 When examining a vintage rod, check thoroughly for these issues:
 
 {{< interactive-modules/condition-checklist title="Vintage Fishing Rod Condition Assessment" description="Check applicable condition issues on your vintage fishing rod" >}}
-  {{< interactive-modules/checklist-item label="Warping or bends in any section" / />}}
-  {{< interactive-modules/checklist-item label="Cracks in bamboo, fiberglass, or wood" / />}}
-  {{< interactive-modules/checklist-item label="Missing or damaged guides" / />}}
-  {{< interactive-modules/checklist-item label="Loose or damaged ferrules" / />}}
-  {{< interactive-modules/checklist-item label="Worn, damaged or replaced grip" / />}}
-  {{< interactive-modules/checklist-item label="Damaged or replaced reel seat" / />}}
-  {{< interactive-modules/checklist-item label="Missing original components (tip top, butt cap)" / />}}
-  {{< interactive-modules/checklist-item label="Delamination of bamboo strips" / />}}
-  {{< interactive-modules/checklist-item label="Unwrapping or damage to thread wrappings" / />}}
-  {{< interactive-modules/checklist-item label="Varnish cracks, bubbles, or peeling" / />}}
-  {{< interactive-modules/checklist-item label="Signs of amateur repair or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Warping or bends in any section" / / />}}
+  {{< interactive-modules/checklist-item label="Cracks in bamboo, fiberglass, or wood" / / />}}
+  {{< interactive-modules/checklist-item label="Missing or damaged guides" / / />}}
+  {{< interactive-modules/checklist-item label="Loose or damaged ferrules" / / />}}
+  {{< interactive-modules/checklist-item label="Worn, damaged or replaced grip" / / />}}
+  {{< interactive-modules/checklist-item label="Damaged or replaced reel seat" / / />}}
+  {{< interactive-modules/checklist-item label="Missing original components (tip top, butt cap)" / / />}}
+  {{< interactive-modules/checklist-item label="Delamination of bamboo strips" / / />}}
+  {{< interactive-modules/checklist-item label="Unwrapping or damage to thread wrappings" / / />}}
+  {{< interactive-modules/checklist-item label="Varnish cracks, bubbles, or peeling" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of amateur repair or restoration" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Original Components and Accessories

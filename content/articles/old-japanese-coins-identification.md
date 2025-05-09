@@ -148,7 +148,7 @@ For example, a coin marked "昭和六十二年" would be read as:
 - 六十二 (rokujūni) - Year 62 of that era
 - 年 (nen) - "Year" indicator
 
-{{< data-modules/stats-highlight title="Important Dating Details" columns="3" / />}}
+{{< data-modules/stats-highlight title="Important Dating Details" columns="3" / / />}}
   <div class="stat-card blue">
     <div class="stat-value">右→左</div>
     <div class="stat-label">Reading Direction</div>
@@ -257,12 +257,12 @@ With the rising value of Japanese coins, the market has seen an increase in coun
 ### Key Authentication Indicators
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use these criteria to assess the authenticity of Japanese coins" >}}
-  {{< interactive-modules/checklist-item label="Material Composition Matches Era" / />}}
-  {{< interactive-modules/checklist-item label="Correct Weight and Dimensions for Type" / />}}
-  {{< interactive-modules/checklist-item label="Proper Character Formation and Style" / />}}
-  {{< interactive-modules/checklist-item label="Expected Patina and Aging Patterns" / />}}
-  {{< interactive-modules/checklist-item label="Mint Marks Correspond to Historical Records" / />}}
-  {{< interactive-modules/checklist-item label="Casting Methods Match Period Technology" / />}}
+  {{< interactive-modules/checklist-item label="Material Composition Matches Era" / / />}}
+  {{< interactive-modules/checklist-item label="Correct Weight and Dimensions for Type" / / />}}
+  {{< interactive-modules/checklist-item label="Proper Character Formation and Style" / / />}}
+  {{< interactive-modules/checklist-item label="Expected Patina and Aging Patterns" / / />}}
+  {{< interactive-modules/checklist-item label="Mint Marks Correspond to Historical Records" / / />}}
+  {{< interactive-modules/checklist-item label="Casting Methods Match Period Technology" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Counterfeiting Red Flags

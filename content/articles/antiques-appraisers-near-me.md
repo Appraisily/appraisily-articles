@@ -95,7 +95,7 @@ Professional appraisers offer several critical advantages:
 
 Beyond simple valuation, professional appraisers can also help identify reproductions, forgeries, or altered pieces that might fool even experienced collectors. This expertise protects you from making costly mistakes when buying, selling, or insuring valuable items.
 
-{{< data-modules/stats-highlight title="The Antique Appraisal Industry by Numbers" columns="3" / />}}
+{{< data-modules/stats-highlight title="The Antique Appraisal Industry by Numbers" columns="3" / / />}}
 
 * **$250-$350**: Average starting cost for formal appraisals
 * **$75-$125**: Typical hourly rate for professional appraisers
@@ -134,14 +134,14 @@ Don't overlook traditional ways of finding qualified professionals:
 5. **Appraisal Events**: Many areas host "Antiques Roadshow"-style events where multiple appraisers gather to provide quick assessments
 
 {{< interactive-modules/condition-checklist title="Vetting an Antique Appraiser: Essential Criteria" description="Use this checklist to evaluate potential appraisers before hiring" >}}
-  {{< interactive-modules/checklist-item label="Has relevant certification from a recognized professional organization" / />}}
-  {{< interactive-modules/checklist-item label="Specializes in your type of antique or collectible" / />}}
-  {{< interactive-modules/checklist-item label="Provides clear fee structure in writing before starting work" / />}}
-  {{< interactive-modules/checklist-item label="Maintains proper liability insurance" / />}}
-  {{< interactive-modules/checklist-item label="Can provide references from previous clients" / />}}
-  {{< interactive-modules/checklist-item label="Discloses any potential conflicts of interest" / />}}
-  {{< interactive-modules/checklist-item label="Has a professional website or business presence" / />}}
-  {{< interactive-modules/checklist-item label="Willing to explain their appraisal methodology" / />}}
+  {{< interactive-modules/checklist-item label="Has relevant certification from a recognized professional organization" / / />}}
+  {{< interactive-modules/checklist-item label="Specializes in your type of antique or collectible" / / />}}
+  {{< interactive-modules/checklist-item label="Provides clear fee structure in writing before starting work" / / />}}
+  {{< interactive-modules/checklist-item label="Maintains proper liability insurance" / / />}}
+  {{< interactive-modules/checklist-item label="Can provide references from previous clients" / / />}}
+  {{< interactive-modules/checklist-item label="Discloses any potential conflicts of interest" / / />}}
+  {{< interactive-modules/checklist-item label="Has a professional website or business presence" / / />}}
+  {{< interactive-modules/checklist-item label="Willing to explain their appraisal methodology" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Appraiser Credentials and Certification" level="2" >}}

@@ -113,7 +113,7 @@ The question "Is there a free app to identify antiques?" is one we hear frequent
 
 In this comprehensive guide, we'll explore the best free apps available for antique identification, evaluate their features, accuracy, and limitations, and provide expert tips on how to get the most accurate results when using digital tools to identify your treasures.
 
-{{< data-modules/stats-highlight title="Antique Identification App Usage" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Identification App Usage" columns="3" / / />}}
 
 {{< content-modules/section-header title="Top Free Apps for Antique Identification" level="2" >}}
 While no app can fully replace the expertise of a professional appraiser, these digital tools can provide valuable preliminary information to help you understand what you've found.
@@ -258,11 +258,11 @@ For the best identification results:
 Before using an app, familiarize yourself with the key identifying features of different types of antiques:
 
 {{< interactive-modules/condition-checklist title="Pre-Identification Checklist" description="Check for these important elements before using an identification app" >}}
-  {{< interactive-modules/checklist-item label="Maker's marks, signatures, or stamps" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing techniques and materials" / />}}
-  {{< interactive-modules/checklist-item label="Patina and signs of age appropriate to the period" / />}}
-  {{< interactive-modules/checklist-item label="Style characteristics typical of specific eras" / />}}
-  {{< interactive-modules/checklist-item label="Serial numbers or model identifiers" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks, signatures, or stamps" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturing techniques and materials" / / />}}
+  {{< interactive-modules/checklist-item label="Patina and signs of age appropriate to the period" / / />}}
+  {{< interactive-modules/checklist-item label="Style characteristics typical of specific eras" / / />}}
+  {{< interactive-modules/checklist-item label="Serial numbers or model identifiers" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 3. Try Multiple Apps

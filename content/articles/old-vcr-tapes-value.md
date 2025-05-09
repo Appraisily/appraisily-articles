@@ -141,7 +141,7 @@ Movies with limited VHS runs, promotional versions, or special packaging can com
 
 Some of the most valuable VHS tapes are those that never received wide distribution or were subsequently banned or censored. These include controversial documentaries, adult content with celebrity involvement, and films that faced legal challenges.
 
-{{< data-modules/stats-highlight title="VHS Collecting By The Numbers" columns="3" / />}}
+{{< data-modules/stats-highlight title="VHS Collecting By The Numbers" columns="3" / / />}}
 
 ![Rare Disney Black Diamond VHS tapes displayed with visible diamond logo on spine](https://ik.imagekit.io/appraisily/SEO/old-vcr-tapes-value/old-vcr-tapes-value-image-3_jmc2UPPez.png)
 
@@ -190,12 +190,12 @@ When it comes to VHS collecting, condition is paramount. The difference between 
 The holy grail for VHS collectors is a factory-sealed tape in pristine condition. Original shrink-wrap with no tears, punctures, or signs of tampering is essential. Once opened, a VHS tape typically loses 70-90% of its potential maximum value.
 
 {{< interactive-modules/condition-checklist title="VHS Factory Seal Assessment" description="Verify these points when assessing if a VHS tape is truly factory sealed:" >}}
-  {{< interactive-modules/checklist-item label="Original Y-fold seam (not a straight line seal indicating re-sealing)" / />}}
-  {{< interactive-modules/checklist-item label="No holes, tears, or punctures in the shrink wrap" / />}}
-  {{< interactive-modules/checklist-item label="Tight wrapping with minimal looseness" / />}}
-  {{< interactive-modules/checklist-item label="Factory stickers are intact and undisturbed" / />}}
-  {{< interactive-modules/checklist-item label="Corners of the case are protected and unworn" / />}}
-  {{< interactive-modules/checklist-item label="No fading or yellowing of the shrink wrap" / />}}
+  {{< interactive-modules/checklist-item label="Original Y-fold seam (not a straight line seal indicating re-sealing)" / / />}}
+  {{< interactive-modules/checklist-item label="No holes, tears, or punctures in the shrink wrap" / / />}}
+  {{< interactive-modules/checklist-item label="Tight wrapping with minimal looseness" / / />}}
+  {{< interactive-modules/checklist-item label="Factory stickers are intact and undisturbed" / / />}}
+  {{< interactive-modules/checklist-item label="Corners of the case are protected and unworn" / / />}}
+  {{< interactive-modules/checklist-item label="No fading or yellowing of the shrink wrap" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Professional Grading

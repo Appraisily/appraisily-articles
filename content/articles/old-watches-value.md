@@ -116,7 +116,7 @@ The manufacturer's reputation plays a crucial role in determining a vintage watc
 
 ![Vintage Rolex Daytona watch on display showing premium condition and craftsmanship](https://ik.imagekit.io/appraisily/SEO/old-watches-value/old-watches-value-image-2_6M7SQeIOm.png)
 
-{{< data-modules/stats-highlight title="Most Valuable Watch Brands" columns="3" / />}}
+{{< data-modules/stats-highlight title="Most Valuable Watch Brands" columns="3" / / />}}
 
 <tr>
   <td>Patek Philippe</td>
@@ -162,14 +162,14 @@ A standard production Rolex Datejust might be worth several thousand dollars, bu
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Vintage Watch Condition Checklist" description="Assess these elements to determine your watch's condition" >}}
-  {{< interactive-modules/checklist-item label="Original dial with no refinishing or damage" / />}}
-  {{< interactive-modules/checklist-item label="Original hands that match the watch period" / />}}
-  {{< interactive-modules/checklist-item label="Case in good condition without excessive polishing" / />}}
-  {{< interactive-modules/checklist-item label="Original crown (not a replacement)" / />}}
-  {{< interactive-modules/checklist-item label="Movement is clean and running accurately" / />}}
-  {{< interactive-modules/checklist-item label="Original bracelet or period-correct strap" / />}}
-  {{< interactive-modules/checklist-item label="No water damage or corrosion internally" / />}}
-  {{< interactive-modules/checklist-item label="Original lume that hasn't been reapplied" / />}}
+  {{< interactive-modules/checklist-item label="Original dial with no refinishing or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original hands that match the watch period" / / />}}
+  {{< interactive-modules/checklist-item label="Case in good condition without excessive polishing" / / />}}
+  {{< interactive-modules/checklist-item label="Original crown (not a replacement)" / / />}}
+  {{< interactive-modules/checklist-item label="Movement is clean and running accurately" / / />}}
+  {{< interactive-modules/checklist-item label="Original bracelet or period-correct strap" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage or corrosion internally" / / />}}
+  {{< interactive-modules/checklist-item label="Original lume that hasn't been reapplied" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Collectors generally prefer watches that remain in original condition rather than those that have been heavily restored. Minor wear consistent with age is acceptable and even expected, but significant damage, replacements with non-original parts, or amateur repair attempts can drastically reduce value.
@@ -330,7 +330,7 @@ A professional appraiser can provide documentation of value for insurance purpos
 
 The condition dramatically affects value, particularly for collectible watches:
 
-{{< data-modules/stats-highlight title="Condition Impact on Watch Values" columns="3" / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Watch Values" columns="3" / / />}}
 
 <tr>
   <td>Mint Condition</td>

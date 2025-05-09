@@ -87,7 +87,7 @@ Antique wash basins and pitchers, also known as ewers and basins or washbowl set
 
 Whether you've inherited a family heirloom, discovered a potential treasure at an estate sale, or are a collector looking to expand your knowledge, understanding the factors that influence the value of these antique bathroom accessories is essential.
 
-{{< data-modules/stats-highlight title="Wash Basin & Pitcher Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Wash Basin & Pitcher Value Factors" columns="3" / / />}}
 
 {{< content-modules/section-header title="Historical Context of Wash Basin and Pitcher Sets" level="2" >}}
 Understanding the historical significance of these items provides important context for their valuation and collectibility in today's market.
@@ -181,14 +181,14 @@ Condition dramatically impacts value:
 Hairline cracks, chips, and repairs can reduce value by 50% or more.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Wash Basin & Pitcher Sets" description="Use this checklist to evaluate the condition of your antique wash basin and pitcher" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs visible on either piece" / />}}
-  {{< interactive-modules/checklist-item label="Original patina intact and appropriate for age" / />}}
-  {{< interactive-modules/checklist-item label="Matching pattern/design on both basin and pitcher" / />}}
-  {{< interactive-modules/checklist-item label="No crazing or discoloration on the glaze" / />}}
-  {{< interactive-modules/checklist-item label="Complete set with all original components" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark or manufacturer's stamp present" / />}}
-  {{< interactive-modules/checklist-item label="No previous repairs or restoration evident" / />}}
-  {{< interactive-modules/checklist-item label="No significant wear to decorative elements or gilding" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs visible on either piece" / / />}}
+  {{< interactive-modules/checklist-item label="Original patina intact and appropriate for age" / / />}}
+  {{< interactive-modules/checklist-item label="Matching pattern/design on both basin and pitcher" / / />}}
+  {{< interactive-modules/checklist-item label="No crazing or discoloration on the glaze" / / />}}
+  {{< interactive-modules/checklist-item label="Complete set with all original components" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark or manufacturer's stamp present" / / />}}
+  {{< interactive-modules/checklist-item label="No previous repairs or restoration evident" / / />}}
+  {{< interactive-modules/checklist-item label="No significant wear to decorative elements or gilding" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Decoration and Artistic Merit

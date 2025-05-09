@@ -24,7 +24,7 @@ Determining whether a piece of furniture is truly antique requires careful exami
 
 ![Antique secretary desk with intricate carvings and original hardware](https://ik.imagekit.io/appraisily/SEO/identify-my-antique-furniture/identify-my-antique-furniture-image-4_-q1wkVa6k.png)
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Furniture" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Furniture" columns="3" / / />}}
 <tr>
   <td>100+ Years</td>
   <td>Official Age Requirement</td>
@@ -76,11 +76,11 @@ Authentic antique wood displays certain characteristics:
 - **Wear Patterns**: Look for honest wear in appropriate places (chair arms, drawer handles)
 
 {{< interactive-modules/condition-checklist title="Antique Wood Authentication Checklist" description="Check applicable characteristics when examining a potential antique" >}}
-  {{< interactive-modules/checklist-item label="Uneven patina consistent with age and use" / />}}
-  {{< interactive-modules/checklist-item label="Secondary wood differs from primary visible wood" / />}}
-  {{< interactive-modules/checklist-item label="Natural shrinkage and slight warping present" / />}}
-  {{< interactive-modules/checklist-item label="Oxidation darker on exposed surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand-planing on undersides" / />}}
+  {{< interactive-modules/checklist-item label="Uneven patina consistent with age and use" / / />}}
+  {{< interactive-modules/checklist-item label="Secondary wood differs from primary visible wood" / / />}}
+  {{< interactive-modules/checklist-item label="Natural shrinkage and slight warping present" / / />}}
+  {{< interactive-modules/checklist-item label="Oxidation darker on exposed surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand-planing on undersides" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of antique furniture showing wood grain and joinery details](https://ik.imagekit.io/appraisily/SEO/identify-my-antique-furniture/identify-my-antique-furniture-image-5_60Q1kGKki.png)

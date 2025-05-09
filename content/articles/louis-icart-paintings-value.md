@@ -127,13 +127,13 @@ Icart's work, particularly his etchings, has distinct characteristics that help 
 ![Louis Icart authentication details showing signature and plate marks](https://ik.imagekit.io/appraisily/SEO/louis-icart-paintings-value/louis-icart-paintings-value-image-2-error_Q2tF-ulJT.png)
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for Louis Icart Works" description="Essential elements to verify when authenticating Icart pieces" >}}
-  {{< interactive-modules/checklist-item label="Signature verification - Icart's signature evolved over time" / />}}
-  {{< interactive-modules/checklist-item label="Presence of a plate mark on etchings" / />}}
-  {{< interactive-modules/checklist-item label="Copyright information (F. Champagne or Les Graveurs Modernes)" / />}}
-  {{< interactive-modules/checklist-item label="Blind stamp or embossing mark" / />}}
-  {{< interactive-modules/checklist-item label="High-quality paper consistent with the era" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate aging and patina" / />}}
-  {{< interactive-modules/checklist-item label="Edition number or notation" / />}}
+  {{< interactive-modules/checklist-item label="Signature verification - Icart's signature evolved over time" / / />}}
+  {{< interactive-modules/checklist-item label="Presence of a plate mark on etchings" / / />}}
+  {{< interactive-modules/checklist-item label="Copyright information (F. Champagne or Les Graveurs Modernes)" / / />}}
+  {{< interactive-modules/checklist-item label="Blind stamp or embossing mark" / / />}}
+  {{< interactive-modules/checklist-item label="High-quality paper consistent with the era" / / />}}
+  {{< interactive-modules/checklist-item label="Appropriate aging and patina" / / />}}
+  {{< interactive-modules/checklist-item label="Edition number or notation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Signature Verification
@@ -195,7 +195,7 @@ According to [1stDibs](https://www.1stdibs.com/creators/louis-icart/art/), "the 
 
 ![Louis Icart artwork showing his distinctive style and color palette](https://ik.imagekit.io/appraisily/SEO/louis-icart-paintings-value/louis-icart-paintings-value-image-4_aUzlCl6DC.png)
 
-{{< data-modules/stats-highlight title="Louis Icart Market Statistics" columns="3"  />}}
+{{< data-modules/stats-highlight title="Louis Icart Market Statistics" columns="3"  / />}}
   <div class="stat-card" style="color: var(--stats-blue)">
     <div class="stat-value">3,499th</div>
     <div class="stat-label">Ranking Among Artists</div>

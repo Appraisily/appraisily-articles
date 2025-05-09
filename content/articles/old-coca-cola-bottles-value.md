@@ -123,7 +123,7 @@ According to the [Coca-Cola Company's history archives](https://www.coca-colacom
 Several key factors influence how much a vintage Coca-Cola bottle is worth in today's collector market. Understanding these elements will help you evaluate your own bottles.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
 
 ### 1. Age and Rarity
 
@@ -146,13 +146,13 @@ Most Coca-Cola bottles were produced in clear or light green (aqua) glass, but r
 Unique characteristics like manufacturing errors, experimental designs, or prototype bottles can make otherwise common bottles quite valuable to collectors.
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment" description="Check applicable items to evaluate your bottle's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossing or labeling" / />}}
-  {{< interactive-modules/checklist-item label="Original cap or closure (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratching or abrasion" / />}}
-  {{< interactive-modules/checklist-item label="No interior staining or residue" / />}}
-  {{< interactive-modules/checklist-item label="Vibrant colors (for painted label bottles)" / />}}
-  {{< interactive-modules/checklist-item label="Full, unfaded paper labels (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossing or labeling" / / />}}
+  {{< interactive-modules/checklist-item label="Original cap or closure (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No significant scratching or abrasion" / / />}}
+  {{< interactive-modules/checklist-item label="No interior staining or residue" / / />}}
+  {{< interactive-modules/checklist-item label="Vibrant colors (for painted label bottles)" / / />}}
+  {{< interactive-modules/checklist-item label="Full, unfaded paper labels (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Vintage Coca-Cola Bottles" level="2" >}}

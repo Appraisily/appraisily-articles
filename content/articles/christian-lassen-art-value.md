@@ -195,7 +195,7 @@ Lassen's environmental messaging influences value:
 - Pieces with dramatic lighting effects (sunrise/sunset scenes) are particularly sought after
 - Compositions featuring multiple marine species attract more interest than single-subject works
 
-{{< data-modules/stats-highlight title="Market Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Market Value Determinants" columns="3" / / />}}
 
 ### Condition and Preservation
 
@@ -231,13 +231,13 @@ Authentic Lassen artwork typically includes several verification features:
    - May have UV-reactive security features in more recent works
 
 {{< interactive-modules/condition-checklist title="Lassen Artwork Authentication Checklist" description="Use this checklist to assess the authenticity of a Christian Lassen artwork" >}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity present with holographic elements" / />}}
-  {{< interactive-modules/checklist-item label="Edition number matches COA (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Signature appears consistent with known Lassen signatures" / />}}
-  {{< interactive-modules/checklist-item label="Printing quality and colors match known Lassen works" / />}}
-  {{< interactive-modules/checklist-item label="Publisher information verifiable" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation available" / />}}
-  {{< interactive-modules/checklist-item label="Frame has original gallery labels (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity present with holographic elements" / / />}}
+  {{< interactive-modules/checklist-item label="Edition number matches COA (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Signature appears consistent with known Lassen signatures" / / />}}
+  {{< interactive-modules/checklist-item label="Printing quality and colors match known Lassen works" / / />}}
+  {{< interactive-modules/checklist-item label="Publisher information verifiable" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation available" / / />}}
+  {{< interactive-modules/checklist-item label="Frame has original gallery labels (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Red Flags for Potential Forgeries

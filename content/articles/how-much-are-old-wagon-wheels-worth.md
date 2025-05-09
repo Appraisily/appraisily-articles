@@ -62,7 +62,7 @@ Recent sales support these valuations. According to JustAnswer antique experts, 
 
 ![Collection of antique wagon wheels of different sizes and styles](https://ik.imagekit.io/appraisily/SEO/how-much-are-old-wagon-wheels-worth/how-much-are-old-wagon-wheels-worth-image-2_qmRggNkJY.png)
 
-{{< data-modules/stats-highlight title="Antique Wagon Wheel Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Wagon Wheel Market Insights" columns="3" / / />}}
 
 ## Factors That Determine Wagon Wheel Value
 
@@ -99,14 +99,14 @@ Larger wheels are generally more valuable than smaller ones, with wheels over 40
 ### Condition
 
 {{< interactive-modules/condition-checklist title="Wagon Wheel Condition Assessment" description="Check applicable items to determine the condition level of your antique wagon wheel" >}}
-  {{< interactive-modules/checklist-item label="All original wooden components present and intact" / />}}
-  {{< interactive-modules/checklist-item label="Original metal rim/tire present and intact" / />}}
-  {{< interactive-modules/checklist-item label="No significant wood rot or insect damage" / />}}
-  {{< interactive-modules/checklist-item label="Spokes firmly seated in hub and felloes" / />}}
-  {{< interactive-modules/checklist-item label="Original paint or finish visible" / />}}
-  {{< interactive-modules/checklist-item label="Hub mechanism still functioning (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No major repairs or replacement parts" / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history" / />}}
+  {{< interactive-modules/checklist-item label="All original wooden components present and intact" / / />}}
+  {{< interactive-modules/checklist-item label="Original metal rim/tire present and intact" / / />}}
+  {{< interactive-modules/checklist-item label="No significant wood rot or insect damage" / / />}}
+  {{< interactive-modules/checklist-item label="Spokes firmly seated in hub and felloes" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint or finish visible" / / />}}
+  {{< interactive-modules/checklist-item label="Hub mechanism still functioning (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No major repairs or replacement parts" / / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

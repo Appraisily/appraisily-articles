@@ -98,7 +98,7 @@ The Vincent Price Art Collection represents a fascinating intersection of celebr
 
 This comprehensive guide explores the history, components, and current value of items from the Vincent Price Collection, providing essential information for collectors, art enthusiasts, and those curious about this unique aspect of American cultural history.
 
-{{< data-modules/stats-highlight title="Vincent Price Collection Quick Facts" columns="3"  />}}
+{{< data-modules/stats-highlight title="Vincent Price Collection Quick Facts" columns="3"  / />}}
   <tr>
     <td>1962-1971</td>
     <td>Active Years at Sears</td>
@@ -189,12 +189,12 @@ According to the [Observer](https://observer.com/2023/10/vincent-prices-least-fa
 Pieces from the Vincent Price Collection typically share several identifying characteristics:
 
 {{< interactive-modules/condition-checklist title="Vincent Price Collection Identification Markers" description="Check for these features when identifying potential Vincent Price Collection pieces" >}}
-  {{< interactive-modules/checklist-item label="'Vincent Price Collection' label or certificate of authenticity" / />}}
-  {{< interactive-modules/checklist-item label="Sears documentation or receipts (for Sears collection pieces)" / />}}
-  {{< interactive-modules/checklist-item label="Date range between 1962-1971 (for Sears collection)" / />}}
-  {{< interactive-modules/checklist-item label="Original frame with characteristic styling of the period" / />}}
-  {{< interactive-modules/checklist-item label="Artist signature consistent with those promoted by Price" / />}}
-  {{< interactive-modules/checklist-item label="Subject matter and style consistent with Price's aesthetic preferences" / />}}
+  {{< interactive-modules/checklist-item label="'Vincent Price Collection' label or certificate of authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Sears documentation or receipts (for Sears collection pieces)" / / />}}
+  {{< interactive-modules/checklist-item label="Date range between 1962-1971 (for Sears collection)" / / />}}
+  {{< interactive-modules/checklist-item label="Original frame with characteristic styling of the period" / / />}}
+  {{< interactive-modules/checklist-item label="Artist signature consistent with those promoted by Price" / / />}}
+  {{< interactive-modules/checklist-item label="Subject matter and style consistent with Price's aesthetic preferences" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 It's important to note that not all pieces will display every marker, and authentication often requires expert evaluation, especially for higher-value works.

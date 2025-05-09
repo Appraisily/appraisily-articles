@@ -108,7 +108,7 @@ Generally, older stamps tend to be more valuable, particularly those from the 19
 
 The condition of a stamp dramatically affects its value. Collectors use a standardized grading system:
 
-{{< data-modules/stats-highlight title="Stamp Condition Grades" columns="3" / />}}
+{{< data-modules/stats-highlight title="Stamp Condition Grades" columns="3" / / />}}
 
 {{< data-modules/price-table title="Condition Impact on Value" description="How condition affects stamp valuation" >}}
   <tr>
@@ -142,12 +142,12 @@ Unused stamps with original gum (called "mint" condition) typically command high
 Well-centered stamps, where the design appears evenly positioned within the perforations, are more desirable and valuable than off-center examples.
 
 {{< interactive-modules/condition-checklist title="Stamp Condition Assessment" description="Check these items to evaluate your stamps" >}}
-  {{< interactive-modules/checklist-item label="Intact perforations with no tears or missing teeth" / />}}
-  {{< interactive-modules/checklist-item label="No creases, bends, or wrinkles" / />}}
-  {{< interactive-modules/checklist-item label="Well-centered design within borders" / />}}
-  {{< interactive-modules/checklist-item label="Original gum present (for unused stamps)" / />}}
-  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" / />}}
-  {{< interactive-modules/checklist-item label="No thins or paper damage" / />}}
+  {{< interactive-modules/checklist-item label="Intact perforations with no tears or missing teeth" / / />}}
+  {{< interactive-modules/checklist-item label="No creases, bends, or wrinkles" / / />}}
+  {{< interactive-modules/checklist-item label="Well-centered design within borders" / / />}}
+  {{< interactive-modules/checklist-item label="Original gum present (for unused stamps)" / / />}}
+  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" / / />}}
+  {{< interactive-modules/checklist-item label="No thins or paper damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Old US Postage Stamps" level="2" >}}
@@ -314,7 +314,7 @@ Understanding the current market for old US postage stamps helps set realistic e
 
 The value of old US postage stamps varies widely depending on rarity, condition, and collector demand. Here's a general overview:
 
-{{< data-modules/stats-highlight title="US Stamp Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="US Stamp Market Statistics" columns="3" / / />}}
 
 - **Common 20th Century Stamps**: Most used stamps issued after 1930 are worth only face value or slightly more, typically 25¢ to $1 each.
 

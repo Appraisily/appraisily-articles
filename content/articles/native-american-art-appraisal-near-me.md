@@ -85,7 +85,7 @@ Professional appraisers who specialize in Native American art not only help dete
 
 Whether you need an appraisal for insurance purposes, estate planning, potential sale, or simply to satisfy your curiosity, finding a qualified appraiser with specific expertise in Native American art is the critical first step.
 
-{{< data-modules/stats-highlight title="Native American Art Market Overview" columns="3" / />}}
+{{< data-modules/stats-highlight title="Native American Art Market Overview" columns="3" / / />}}
 
 <tr>
   <td>Market Size</td>
@@ -207,12 +207,12 @@ Generally, older pieces (pre-1940) tend to be more valuable, especially if they 
 ### Condition
 
 {{< interactive-modules/condition-checklist title="Native American Art Condition Assessment" description="Factors appraisers consider when evaluating condition" >}}
-  {{< interactive-modules/checklist-item label="Original integrity (minimal repairs or restoration)" / />}}
-  {{< interactive-modules/checklist-item label="Material condition (no cracks, chips, or tears)" / />}}
-  {{< interactive-modules/checklist-item label="Color preservation and vibrancy" / />}}
-  {{< interactive-modules/checklist-item label="Complete components (all original parts present)" / />}}
-  {{< interactive-modules/checklist-item label="Signs of appropriate age-related patina" / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate cleaning or modern treatments" / />}}
+  {{< interactive-modules/checklist-item label="Original integrity (minimal repairs or restoration)" / / />}}
+  {{< interactive-modules/checklist-item label="Material condition (no cracks, chips, or tears)" / / />}}
+  {{< interactive-modules/checklist-item label="Color preservation and vibrancy" / / />}}
+  {{< interactive-modules/checklist-item label="Complete components (all original parts present)" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of appropriate age-related patina" / / />}}
+  {{< interactive-modules/checklist-item label="No inappropriate cleaning or modern treatments" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Artistic Quality and Cultural Significance

@@ -111,7 +111,7 @@ In today's digital age, you don't need to wait for Antiques Roadshow to come to 
 
 This guide explores the best free online antique appraisal resources, explains how the process works, details what you need for successful submissions, and discusses the limitations of free services compared to paid professional appraisals. Whether you're curious about a single item or managing an entire estate, you'll discover how to navigate the world of virtual antique valuation.
 
-{{< data-modules/stats-highlight title="Online Antique Appraisal Landscape" columns="3" / />}}
+{{< data-modules/stats-highlight title="Online Antique Appraisal Landscape" columns="3" / / />}}
 <tr>
   <td>85%</td>
   <td>Accuracy of professional online appraisals compared to in-person evaluations</td>
@@ -187,13 +187,13 @@ Facebook groups like [ANTIQUES APPRAISALS FREE!](https://www.facebook.com/groups
 **Limitations**: Varied expertise levels, informal valuations only
 
 {{< interactive-modules/condition-checklist title="Quality Submission Checklist" description="Elements that improve your chances of receiving accurate online appraisals:" >}}
-  {{< interactive-modules/checklist-item label="High-resolution photographs from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of signatures, marks, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Accurate measurements (height, width, depth, weight)" / />}}
-  {{< interactive-modules/checklist-item label="Known history or provenance information" / />}}
-  {{< interactive-modules/checklist-item label="Detailed description of materials and condition" / />}}
-  {{< interactive-modules/checklist-item label="Any documentation or certificates of authenticity" / />}}
-  {{< interactive-modules/checklist-item label="Previous repair or restoration information" / />}}
+  {{< interactive-modules/checklist-item label="High-resolution photographs from multiple angles" / / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of signatures, marks, or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Accurate measurements (height, width, depth, weight)" / / />}}
+  {{< interactive-modules/checklist-item label="Known history or provenance information" / / />}}
+  {{< interactive-modules/checklist-item label="Detailed description of materials and condition" / / />}}
+  {{< interactive-modules/checklist-item label="Any documentation or certificates of authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Previous repair or restoration information" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Preparing Items for Online Appraisal" level="2" >}}

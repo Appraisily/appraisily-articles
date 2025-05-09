@@ -60,7 +60,7 @@ Dazey churns are identified by:
 - Condition of original glass and mechanisms
 - Completeness of parts
 
-{{< data-modules/stats-highlight title="Antique Butter Churn Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Butter Churn Market Statistics" columns="3" / / />}}
 
 {{< visual-modules/timeline title="Evolution of Butter Churn Designs" >}}
   {{< visual-modules/timeline-item date="1700s-1800s" title="Wooden Dash Churns" >}}
@@ -95,13 +95,13 @@ Condition dramatically impacts value. Collectors typically prefer original, unre
 ![A wooden butter churn with original mechanisms and finish](https://ik.imagekit.io/appraisily/SEO/old-butter-churn-value/old-butter-churn-value-image-3_z34OrMcTa.png)
 
 {{< interactive-modules/condition-checklist title="Butter Churn Condition Assessment" description="Check applicable items to determine your churn's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Complete with original dasher/lid/parts" / />}}
-  {{< interactive-modules/checklist-item label="Original finish or glaze intact" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or major damage to vessel" / />}}
-  {{< interactive-modules/checklist-item label="Mechanisms (if present) are functional" / />}}
-  {{< interactive-modules/checklist-item label="Original markings or labels visible" / />}}
-  {{< interactive-modules/checklist-item label="No significant repairs or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear appropriate to age" / />}}
+  {{< interactive-modules/checklist-item label="Complete with original dasher/lid/parts" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish or glaze intact" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks or major damage to vessel" / / />}}
+  {{< interactive-modules/checklist-item label="Mechanisms (if present) are functional" / / />}}
+  {{< interactive-modules/checklist-item label="Original markings or labels visible" / / />}}
+  {{< interactive-modules/checklist-item label="No significant repairs or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal wear appropriate to age" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Maker and Markings

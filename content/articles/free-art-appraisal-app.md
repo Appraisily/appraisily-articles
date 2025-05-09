@@ -86,7 +86,7 @@ According to art market professionals, while these apps can't fully replace prof
 The market for art appraisal apps continues to grow, with several standout options offering free services. Here's a comprehensive look at the most popular and effective options currently available.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Art Appraisal App Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Art Appraisal App Statistics" columns="3" / / />}}
 
 ### Limna: The AI-Powered Art Advisor
 
@@ -136,14 +136,14 @@ While not mentioned directly in our primary search results, Magnus deserves ment
 Magnus uses image recognition technology to identify artworks and provide pricing information from galleries and auction results. This data-driven approach has made it a favorite among art collectors looking for objective valuation information.
 
 {{< interactive-modules/condition-checklist title="Art Appraisal App Selection Criteria" description="Consider these factors when choosing an art appraisal app:" >}}
-  {{< interactive-modules/checklist-item label="Database size and scope of artists covered" / />}}
-  {{< interactive-modules/checklist-item label="Accuracy of image recognition technology" / />}}
-  {{< interactive-modules/checklist-item label="Availability of historical pricing data" / />}}
-  {{< interactive-modules/checklist-item label="User interface and ease of use" / />}}
-  {{< interactive-modules/checklist-item label="Additional educational features beyond valuation" / />}}
-  {{< interactive-modules/checklist-item label="Platform availability (iOS, Android, or both)" / />}}
-  {{< interactive-modules/checklist-item label="User reviews and ratings" / />}}
-  {{< interactive-modules/checklist-item label="Regular updates and ongoing development" / />}}
+  {{< interactive-modules/checklist-item label="Database size and scope of artists covered" / / />}}
+  {{< interactive-modules/checklist-item label="Accuracy of image recognition technology" / / />}}
+  {{< interactive-modules/checklist-item label="Availability of historical pricing data" / / />}}
+  {{< interactive-modules/checklist-item label="User interface and ease of use" / / />}}
+  {{< interactive-modules/checklist-item label="Additional educational features beyond valuation" / / />}}
+  {{< interactive-modules/checklist-item label="Platform availability (iOS, Android, or both)" / / />}}
+  {{< interactive-modules/checklist-item label="User reviews and ratings" / / />}}
+  {{< interactive-modules/checklist-item label="Regular updates and ongoing development" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How Art Appraisal Apps Work" level="2" >}}

@@ -123,7 +123,7 @@ Value is particularly critical because:
 - It guides the viewer's eye through a composition
 - It creates contrast that adds visual interest
 
-{{< data-modules/stats-highlight title="Value in Art: Key Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value in Art: Key Facts" columns="3" / / />}}
 
 {{< content-modules/section-header title="The Value Scale: From Light to Dark" level="2" >}}
 Artists use value scales to understand and implement a full range of tones in their work. These scales help demonstrate the gradual transition from the lightest values to the darkest.
@@ -249,12 +249,12 @@ Digital artists have precise control over value through:
 - Lighting and rendering settings
 
 {{< interactive-modules/condition-checklist title="Value Analysis Checklist" description="Use this checklist to assess the use of value in an artwork" >}}
-  {{< interactive-modules/checklist-item label="The artwork shows a full range of values from light to dark" / />}}
-  {{< interactive-modules/checklist-item label="Values are used to create a sense of three-dimensional form" / />}}
-  {{< interactive-modules/checklist-item label="There is a clear light source direction indicated by the values" / />}}
-  {{< interactive-modules/checklist-item label="Value contrast is used to create focal points" / />}}
-  {{< interactive-modules/checklist-item label="Value patterns create a sense of composition and movement" / />}}
-  {{< interactive-modules/checklist-item label="Values contribute to the overall mood or emotion of the piece" / />}}
+  {{< interactive-modules/checklist-item label="The artwork shows a full range of values from light to dark" / / />}}
+  {{< interactive-modules/checklist-item label="Values are used to create a sense of three-dimensional form" / / />}}
+  {{< interactive-modules/checklist-item label="There is a clear light source direction indicated by the values" / / />}}
+  {{< interactive-modules/checklist-item label="Value contrast is used to create focal points" / / />}}
+  {{< interactive-modules/checklist-item label="Value patterns create a sense of composition and movement" / / />}}
+  {{< interactive-modules/checklist-item label="Values contribute to the overall mood or emotion of the piece" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Famous Examples of Value in Art" level="2" >}}

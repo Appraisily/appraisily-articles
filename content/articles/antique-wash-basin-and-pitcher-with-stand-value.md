@@ -129,7 +129,7 @@ A traditional antique wash set includes:
 
 The most valuable sets are complete with all original matching pieces. According to antique experts at [JustAnswer](https://www.justanswer.com/antiques/qy6gv-possession-sn-old-wash-basin-picher.html), incomplete sets significantly decrease in value, with most antique basin sets valued below $150 when missing components.
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
 
 1. **Completeness**: A complete matching set is worth 60-100% more than individual pieces
 2. **Age**: Pre-1850 pieces typically command premium prices
@@ -228,23 +228,23 @@ The condition of an antique wash basin set is perhaps the single most important 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Ceramic Piece Condition Checklist" description="Use this checklist to assess the condition of basin and pitcher sets" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the basin" / />}}
-  {{< interactive-modules/checklist-item label="Pitcher is intact with no damage to spout or handle" / />}}
-  {{< interactive-modules/checklist-item label="Original glaze is intact without crazing" / />}}
-  {{< interactive-modules/checklist-item label="Decorative patterns show minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="All pieces are from the same original set" / />}}
-  {{< interactive-modules/checklist-item label="No staining or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="No previous repairs or restoration" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the basin" / / />}}
+  {{< interactive-modules/checklist-item label="Pitcher is intact with no damage to spout or handle" / / />}}
+  {{< interactive-modules/checklist-item label="Original glaze is intact without crazing" / / />}}
+  {{< interactive-modules/checklist-item label="Decorative patterns show minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="All pieces are from the same original set" / / />}}
+  {{< interactive-modules/checklist-item label="No staining or discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="No previous repairs or restoration" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< interactive-modules/condition-checklist title="Washstand Condition Checklist" description="Use this checklist to assess the condition of wooden wash stands" >}}
-  {{< interactive-modules/checklist-item label="All original hardware intact" / />}}
-  {{< interactive-modules/checklist-item label="Marble top (if applicable) without chips or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Original finish or appropriate period refinishing" / />}}
-  {{< interactive-modules/checklist-item label="Structurally sound with no wobbling" / />}}
-  {{< interactive-modules/checklist-item label="Drawers function properly" / />}}
-  {{< interactive-modules/checklist-item label="Original mirror present and intact" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or water damage" / />}}
+  {{< interactive-modules/checklist-item label="All original hardware intact" / / />}}
+  {{< interactive-modules/checklist-item label="Marble top (if applicable) without chips or cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish or appropriate period refinishing" / / />}}
+  {{< interactive-modules/checklist-item label="Structurally sound with no wobbling" / / />}}
+  {{< interactive-modules/checklist-item label="Drawers function properly" / / />}}
+  {{< interactive-modules/checklist-item label="Original mirror present and intact" / / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or water damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to antique experts on [JustAnswer](https://www.justanswer.com/antiques/h3apu-antique-wash-basin-pitcher-curious.html), even a simple pitcher from the 1860s in excellent condition can be valued at $295-$325, while damaged examples might sell for less than half that amount.

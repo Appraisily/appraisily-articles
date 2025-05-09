@@ -150,12 +150,12 @@ The way a button was manufactured can help date it:
 - **Edge Details**: Smooth edges are typically more modern, while hand-filed or irregular edges suggest older craftsmanship
 
 {{< interactive-modules/condition-checklist title="Authenticating Military Buttons" description="Key features to examine when determining authenticity" >}}
-  {{< interactive-modules/checklist-item label="Check for appropriate patina and wear consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Examine the backmark for manufacturer information" / />}}
-  {{< interactive-modules/checklist-item label="Verify that the design matches known patterns for the claimed period" / />}}
-  {{< interactive-modules/checklist-item label="Assess if the weight and feel are appropriate for the supposed material" / />}}
-  {{< interactive-modules/checklist-item label="Look for correct attachment methods consistent with the time period" / />}}
-  {{< interactive-modules/checklist-item label="Evaluate if any tarnish or oxidation appears natural rather than artificially applied" / />}}
+  {{< interactive-modules/checklist-item label="Check for appropriate patina and wear consistent with age" / / />}}
+  {{< interactive-modules/checklist-item label="Examine the backmark for manufacturer information" / / />}}
+  {{< interactive-modules/checklist-item label="Verify that the design matches known patterns for the claimed period" / / />}}
+  {{< interactive-modules/checklist-item label="Assess if the weight and feel are appropriate for the supposed material" / / />}}
+  {{< interactive-modules/checklist-item label="Look for correct attachment methods consistent with the time period" / / />}}
+  {{< interactive-modules/checklist-item label="Evaluate if any tarnish or oxidation appears natural rather than artificially applied" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of military button backmarks showing manufacturer details](https://ik.imagekit.io/appraisily/SEO/old-military-buttons-value/old-military-buttons-value-image-3_01I8L4JqNH.png)
@@ -180,7 +180,7 @@ Condition dramatically affects a button's value. Military buttons are graded on 
 - **Good**: Significant wear, some details may be faded
 - **Fair/Poor**: Heavy wear, damage, or corrosion
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / / />}}
 
 ### Age and Period Desirability
 

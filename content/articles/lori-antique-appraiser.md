@@ -128,7 +128,7 @@ Dr. Lori has appeared on several popular television shows, including History Cha
 
 Each year, Dr. Lori conducts approximately 150 antiques appraisal events worldwide, where she evaluates around 20,000 items. Her ability to quickly and accurately assess the value, age, and authenticity of a wide range of objects has earned her a loyal following and established her as a trusted authority in the field of antique appraisal.
 
-{{< data-modules/stats-highlight title="Dr. Lori's Impact in Numbers" columns="3" / />}}
+{{< data-modules/stats-highlight title="Dr. Lori's Impact in Numbers" columns="3" / / />}}
 <tr>
   <td>Ph.D. Credentials</td>
   <td>Penn State University</td>
@@ -270,14 +270,14 @@ Dr. Lori employs a systematic approach to evaluating antiques and collectibles, 
 ### Key Factors in Dr. Lori's Appraisal Process
 
 {{< interactive-modules/condition-checklist title="Dr. Lori's Appraisal Assessment Factors" description="Elements considered when evaluating antiques and collectibles" >}}
-  {{< interactive-modules/checklist-item label="Authenticity and provenance" / />}}
-  {{< interactive-modules/checklist-item label="Age and historical context" / />}}
-  {{< interactive-modules/checklist-item label="Condition and completeness" / />}}
-  {{< interactive-modules/checklist-item label="Rarity and uniqueness" / />}}
-  {{< interactive-modules/checklist-item label="Maker or artist identification" / />}}
-  {{< interactive-modules/checklist-item label="Current market demand" / />}}
-  {{< interactive-modules/checklist-item label="Comparable sales data" / />}}
-  {{< interactive-modules/checklist-item label="Material quality and craftsmanship" / />}}
+  {{< interactive-modules/checklist-item label="Authenticity and provenance" / / />}}
+  {{< interactive-modules/checklist-item label="Age and historical context" / / />}}
+  {{< interactive-modules/checklist-item label="Condition and completeness" / / />}}
+  {{< interactive-modules/checklist-item label="Rarity and uniqueness" / / />}}
+  {{< interactive-modules/checklist-item label="Maker or artist identification" / / />}}
+  {{< interactive-modules/checklist-item label="Current market demand" / / />}}
+  {{< interactive-modules/checklist-item label="Comparable sales data" / / />}}
+  {{< interactive-modules/checklist-item label="Material quality and craftsmanship" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Dr. Lori's approach is distinguished by her ability to quickly identify key features that affect value. For example, when examining furniture, she often looks for:

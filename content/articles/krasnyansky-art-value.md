@@ -171,7 +171,7 @@ Krasnyansky's artwork spans various mediums, with watercolors, serigraphs (silks
 
 According to auction data from [Invaluable.com](https://www.invaluable.com/artist/krasnyansky-anatole-v82zu032kg/sold-at-auction-prices/), Krasnyansky's work has shown relatively consistent value over time, with his most sought-after pieces featuring his signature masked figures and vibrant color palettes.
 
-{{< data-modules/stats-highlight title="Krasnyansky Art Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Krasnyansky Art Market Statistics" columns="3" / / />}}
 
 - **$19,235**: Highest auction price achieved for a Krasnyansky original artwork
 - **300+**: Typical limited edition size for Krasnyansky serigraphs
@@ -241,12 +241,12 @@ Krasnyansky's artistic output evolved significantly throughout his career, with 
 Proper documentation significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Krasnyansky Authentication Checklist" description="Factors that enhance the value and authenticity of Krasnyansky artwork" >}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity from recognized gallery or publisher" / />}}
-  {{< interactive-modules/checklist-item label="Clear signature (typically in Cyrillic and English)" / />}}
-  {{< interactive-modules/checklist-item label="Proper edition numbering on limited editions" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation from original purchase" / />}}
-  {{< interactive-modules/checklist-item label="Gallery labels or stickers from reputable dealers" / />}}
-  {{< interactive-modules/checklist-item label="Original framing (particularly for gallery-sold pieces)" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity from recognized gallery or publisher" / / />}}
+  {{< interactive-modules/checklist-item label="Clear signature (typically in Cyrillic and English)" / / />}}
+  {{< interactive-modules/checklist-item label="Proper edition numbering on limited editions" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation from original purchase" / / />}}
+  {{< interactive-modules/checklist-item label="Gallery labels or stickers from reputable dealers" / / />}}
+  {{< interactive-modules/checklist-item label="Original framing (particularly for gallery-sold pieces)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Issues

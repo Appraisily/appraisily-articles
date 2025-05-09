@@ -145,14 +145,14 @@ Generally, older registers (pre-1915) tend to be more valuable, with the earlies
 The physical state of the register has perhaps the most direct impact on its market value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Check applicable items to determine your register's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact (no repainting or refinishing)" / />}}
-  {{< interactive-modules/checklist-item label="All mechanical components functional" / />}}
-  {{< interactive-modules/checklist-item label="Complete with original keys and drawer" / />}}
-  {{< interactive-modules/checklist-item label="Free of major dents, damage, or missing pieces" / />}}
-  {{< interactive-modules/checklist-item label="Original drawer and internal components present" / />}}
-  {{< interactive-modules/checklist-item label="Glass panels intact without cracks" / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements complete and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer's label or serial number present" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (no repainting or refinishing)" / / />}}
+  {{< interactive-modules/checklist-item label="All mechanical components functional" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with original keys and drawer" / / />}}
+  {{< interactive-modules/checklist-item label="Free of major dents, damage, or missing pieces" / / />}}
+  {{< interactive-modules/checklist-item label="Original drawer and internal components present" / / />}}
+  {{< interactive-modules/checklist-item label="Glass panels intact without cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements complete and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer's label or serial number present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Materials and Craftsmanship
@@ -169,7 +169,7 @@ Registers with original parts and finish command higher prices than those that h
 
 A documented history or interesting provenance (such as use in a famous establishment or ownership by a notable person) can significantly increase a register's value beyond its physical characteristics.
 
-{{< data-modules/stats-highlight title="Key Value Indicators" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Indicators" columns="3" / / />}}
 
 ## Current Market Values for Antique Cash Registers
 

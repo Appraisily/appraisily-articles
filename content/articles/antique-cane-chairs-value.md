@@ -129,11 +129,11 @@ Machine-made caning (also called "pressed cane" or "cane webbing"), which became
 The wood used in antique cane chairs can provide important clues about age and origin:
 
 {{< interactive-modules/condition-checklist title="Wood Examination Checklist" description="Check for these indicators of authentic antique wood frames" >}}
-  {{< interactive-modules/checklist-item label="Uneven patina and natural aging" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand tool marks rather than machine precision" / />}}
-  {{< interactive-modules/checklist-item label="Mortise and tenon or dowel joinery (not modern screws)" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate woods (walnut, mahogany, fruitwoods for earlier pieces)" / />}}
-  {{< interactive-modules/checklist-item label="Signs of old repairs or reinforcements" / />}}
+  {{< interactive-modules/checklist-item label="Uneven patina and natural aging" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand tool marks rather than machine precision" / / />}}
+  {{< interactive-modules/checklist-item label="Mortise and tenon or dowel joinery (not modern screws)" / / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate woods (walnut, mahogany, fruitwoods for earlier pieces)" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of old repairs or reinforcements" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Style Identification
@@ -159,7 +159,7 @@ High-quality antique cane chairs may bear maker's marks, labels, or stamps that 
 
 Notable manufacturers like Thonet, Heywood-Wakefield, and Hunzinger produced distinctive cane furniture that commands premium prices when properly attributed.
 
-{{< data-modules/stats-highlight title="Key Authentication Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Authentication Factors" columns="3" / / />}}
 
 {{< content-modules/section-header title="Factors Affecting Antique Cane Chair Values" level="2" >}}
 Multiple variables influence the market value of antique cane chairs. Understanding these factors helps collectors make informed purchasing decisions and accurate value assessments.

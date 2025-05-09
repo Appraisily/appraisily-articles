@@ -78,7 +78,7 @@ Traditional beer steins are crafted from stoneware, earthenware, porcelain, glas
 
 Today, authentic antique German beer steins can command significant prices, with the rarest examples selling for thousands of dollars. The world's most expensive beer stein—a 17th-century American tankard—sold for an astonishing $140,000, according to [Value My Stuff](https://www.valuemystuff.com/us/blog/our-guide-to-beer-steins).
 
-{{< data-modules/stats-highlight title="Antique Beer Stein Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Beer Stein Market Facts" columns="3" / / />}}
 
 ![Detailed antique German beer stein with ornate pewter lid and hand-painted scene](https://ik.imagekit.io/appraisily/SEO/antique-beer-steins-value/antique-beer-steins-value-image-2_fe7Pw_DbR.png)
 
@@ -205,14 +205,14 @@ Several methods can help determine if your stein is genuinely antique:
 4. **Expert Verification**: For valuable pieces, consider professional authentication
 
 {{< interactive-modules/condition-checklist title="Beer Stein Authentication Checklist" description="Use this checklist to assess your beer stein's authenticity" >}}
-  {{< interactive-modules/checklist-item label="Manufacturer's mark or logo is visible on base" / />}}
-  {{< interactive-modules/checklist-item label="Lid is original to the stein with proper fit" / />}}
-  {{< interactive-modules/checklist-item label="Construction shows hand-crafted elements" / />}}
-  {{< interactive-modules/checklist-item label="Weight feels substantial and appropriate for material" / />}}
-  {{< interactive-modules/checklist-item label="Decoration shows appropriate aging patterns" / />}}
-  {{< interactive-modules/checklist-item label="No modern manufacturing techniques are evident" / />}}
-  {{< interactive-modules/checklist-item label="Design elements match the purported age" / />}}
-  {{< interactive-modules/checklist-item label="Materials are consistent with claimed period" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's mark or logo is visible on base" / / />}}
+  {{< interactive-modules/checklist-item label="Lid is original to the stein with proper fit" / / />}}
+  {{< interactive-modules/checklist-item label="Construction shows hand-crafted elements" / / />}}
+  {{< interactive-modules/checklist-item label="Weight feels substantial and appropriate for material" / / />}}
+  {{< interactive-modules/checklist-item label="Decoration shows appropriate aging patterns" / / />}}
+  {{< interactive-modules/checklist-item label="No modern manufacturing techniques are evident" / / />}}
+  {{< interactive-modules/checklist-item label="Design elements match the purported age" / / />}}
+  {{< interactive-modules/checklist-item label="Materials are consistent with claimed period" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of antique beer stein markings and manufacturer stamps on bottom](https://ik.imagekit.io/appraisily/SEO/antique-beer-steins-value/antique-beer-steins-value-image-4_wowZgfl3V.png)

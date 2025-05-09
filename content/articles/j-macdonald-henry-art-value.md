@@ -150,7 +150,7 @@ According to [MutualArt](https://www.mutualart.com/Artist/J--Macdonald-Henry/B8F
 
 ![Framed portrait by J. Macdonald Henry showing a young Jamaican boy, demonstrating the artist's expert rendering technique](https://ik.imagekit.io/appraisily/SEO/j-macdonald-henry-art-value/j-macdonald-henry-art-value-image-3_qpgrHF5ZL.png)
 
-{{< data-modules/stats-highlight title="J. Macdonald Henry Art Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="J. Macdonald Henry Art Market Facts" columns="3" / / />}}
 
 It's worth noting that private sales may command higher prices than what is recorded at public auctions, particularly for larger, more significant original works. Online marketplaces like [eBay](https://www.ebay.ca/sch/i.html?_nkw=j+macdonald+henry&Brand=&_dcat=360) occasionally feature higher asking prices for what sellers claim to be original works, sometimes listed for several hundred dollars.
 
@@ -167,12 +167,12 @@ A key consideration when valuing J. Macdonald Henry's artwork is determining whe
 Original charcoal drawings by J. Macdonald Henry typically display these characteristics:
 
 {{< interactive-modules/condition-checklist title="Original Artwork Identification Checklist" description="Features that indicate an authentic original J. Macdonald Henry drawing" >}}
-  {{< interactive-modules/checklist-item label="Visible texture of charcoal medium on paper surface" / />}}
-  {{< interactive-modules/checklist-item label="Slight variations in pressure and line quality" / />}}
-  {{< interactive-modules/checklist-item label="Original signature (not printed)" / />}}
-  {{< interactive-modules/checklist-item label="Paper shows natural aging consistent with creation date" / />}}
-  {{< interactive-modules/checklist-item label="No dot patterns visible under magnification" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation or certificate of authenticity" / />}}
+  {{< interactive-modules/checklist-item label="Visible texture of charcoal medium on paper surface" / / />}}
+  {{< interactive-modules/checklist-item label="Slight variations in pressure and line quality" / / />}}
+  {{< interactive-modules/checklist-item label="Original signature (not printed)" / / />}}
+  {{< interactive-modules/checklist-item label="Paper shows natural aging consistent with creation date" / / />}}
+  {{< interactive-modules/checklist-item label="No dot patterns visible under magnification" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation or certificate of authenticity" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Characteristics of J. Macdonald Henry Prints

@@ -113,7 +113,7 @@ Their process is straightforward: upload photos of your item, provide a detailed
 
 [Iegor](https://www.iegor.net/en/free-online-appraisal) offers free appraisals performed by internationally recognized specialists. Their expertise spans multiple collecting categories, providing valuable insights into various types of antiques.
 
-{{< data-modules/stats-highlight title="Online Appraisal Benefits" columns="3" / />}}
+{{< data-modules/stats-highlight title="Online Appraisal Benefits" columns="3" / / />}}
 
 {{< content-modules/section-header title="How Online Appraisals Work" level="2" >}}
   Understanding the process of obtaining a free online appraisal can help you maximize the value of these services and set appropriate expectations.
@@ -152,11 +152,11 @@ While free online appraisals provide valuable insights, they do have limitations
 The quality of your photographs significantly impacts the accuracy of your appraisal:
 
 {{< interactive-modules/condition-checklist title="Photo Quality Checklist" description="Ensure your appraisal photos meet these criteria" >}}
-  {{< interactive-modules/checklist-item label="Use natural, diffused lighting to avoid glare and shadows" / />}}
-  {{< interactive-modules/checklist-item label="Capture multiple angles (front, back, top, bottom, sides)" / />}}
-  {{< interactive-modules/checklist-item label="Include close-ups of signatures, maker's marks, and hallmarks" / />}}
-  {{< interactive-modules/checklist-item label="Document any damage, repairs, or restorations" / />}}
-  {{< interactive-modules/checklist-item label="Include a ruler or common object for size reference" / />}}
+  {{< interactive-modules/checklist-item label="Use natural, diffused lighting to avoid glare and shadows" / / />}}
+  {{< interactive-modules/checklist-item label="Capture multiple angles (front, back, top, bottom, sides)" / / />}}
+  {{< interactive-modules/checklist-item label="Include close-ups of signatures, maker's marks, and hallmarks" / / />}}
+  {{< interactive-modules/checklist-item label="Document any damage, repairs, or restorations" / / />}}
+  {{< interactive-modules/checklist-item label="Include a ruler or common object for size reference" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Providing Complete Information

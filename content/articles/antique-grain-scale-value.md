@@ -163,13 +163,13 @@ Generally, older scales tend to be more valuable, with pre-1900 examples often c
 The condition of an antique grain scale significantly impacts its value. Collectors often consider:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Key elements that determine the condition value of antique grain scales" >}}
-  {{< interactive-modules/checklist-item label="Original finish and patina intact" / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical components" / />}}
-  {{< interactive-modules/checklist-item label="Original weights included" / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust or damage to metal parts" / />}}
-  {{< interactive-modules/checklist-item label="Original markings and decals visible" / />}}
-  {{< interactive-modules/checklist-item label="No missing components or parts" / />}}
-  {{< interactive-modules/checklist-item label="Original wood components free of significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Original finish and patina intact" / / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical components" / / />}}
+  {{< interactive-modules/checklist-item label="Original weights included" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust or damage to metal parts" / / />}}
+  {{< interactive-modules/checklist-item label="Original markings and decals visible" / / />}}
+  {{< interactive-modules/checklist-item label="No missing components or parts" / / />}}
+  {{< interactive-modules/checklist-item label="Original wood components free of significant damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Materials and Craftsmanship
@@ -180,7 +180,7 @@ Scales crafted from premium materials like brass, copper, or ornate cast iron ty
 
 Unusual designs, limited production models, or scales with rare features can command premium prices. Regional variations or scales from manufacturers with short production periods tend to be scarcer and thus more valuable to serious collectors.
 
-{{< data-modules/stats-highlight title="Antique Grain Scale Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Grain Scale Market Insights" columns="3" / / />}}
 
 {{< content-modules/section-header title="Current Market Values for Antique Grain Scales" level="2" >}}
 Understanding the current market value ranges for different types of antique grain scales can help buyers make informed purchasing decisions and sellers set reasonable price expectations.

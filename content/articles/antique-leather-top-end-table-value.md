@@ -140,7 +140,7 @@ Superior craftsmanship significantly impacts value. Look for:
 
 Pieces by renowned furniture makers carry substantial premiums. Some notable names to look for include:
 
-{{< data-modules/stats-highlight title="Notable Makers of Leather Top Tables" columns="3" / />}}
+{{< data-modules/stats-highlight title="Notable Makers of Leather Top Tables" columns="3" / / />}}
 
 - Thomas Chippendale
 - George Hepplewhite
@@ -163,13 +163,13 @@ The quality and type of wood significantly affect value:
 The condition of both the wood frame and the leather top is paramount in determining value.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Check applicable items to understand condition impact on value" >}}
-  {{< interactive-modules/checklist-item label="Original leather top in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Intact gold tooling with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Original finish on wood components" / />}}
-  {{< interactive-modules/checklist-item label="No structural damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and fittings" / />}}
-  {{< interactive-modules/checklist-item label="No water damage or staining" / />}}
-  {{< interactive-modules/checklist-item label="Leather not dried, cracked or significantly discolored" / />}}
+  {{< interactive-modules/checklist-item label="Original leather top in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Intact gold tooling with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish on wood components" / / />}}
+  {{< interactive-modules/checklist-item label="No structural damage or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and fittings" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage or staining" / / />}}
+  {{< interactive-modules/checklist-item label="Leather not dried, cracked or significantly discolored" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance

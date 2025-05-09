@@ -130,7 +130,7 @@ Technically speaking, an antique settee is a smaller sofa or couch, typically wi
 
 To be classified as a true antique, a settee should generally be at least 100 years old. However, many collectors also value high-quality vintage settees from the early-to-mid 20th century, particularly those representing significant design movements like Art Deco or Mid-Century Modern.
 
-{{< data-modules/stats-highlight title="Key Characteristics of Antique Settees" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Characteristics of Antique Settees" columns="3" / / />}}
 
 - **Size**: Smaller than a standard sofa, typically seating 2-3 people
 - **Wood Features**: Often showcases exposed, ornately carved wooden elements
@@ -182,14 +182,14 @@ The style of a settee's back and arms are key identifying features:
 - **Exposed Wooden Back**: Featuring decorative splats or carved elements, common in earlier settees
 
 {{< interactive-modules/condition-checklist title="Antique Settee Authentication Checklist" description="Use this checklist to evaluate potential antique settees" >}}
-  {{< interactive-modules/checklist-item label="Evidence of hand-carved details with slight irregularities" / />}}
-  {{< interactive-modules/checklist-item label="Traditional joinery methods (dovetail, mortise and tenon)" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate wear patterns and patina consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Period-consistent leg design and construction" / />}}
-  {{< interactive-modules/checklist-item label="Symmetrical design elements with minor hand-crafted variations" / />}}
-  {{< interactive-modules/checklist-item label="Signs of old repairs or appropriate restoration" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate wood types and finishing techniques" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate hardware (if present) for the purported period" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand-carved details with slight irregularities" / / />}}
+  {{< interactive-modules/checklist-item label="Traditional joinery methods (dovetail, mortise and tenon)" / / />}}
+  {{< interactive-modules/checklist-item label="Appropriate wear patterns and patina consistent with age" / / />}}
+  {{< interactive-modules/checklist-item label="Period-consistent leg design and construction" / / />}}
+  {{< interactive-modules/checklist-item label="Symmetrical design elements with minor hand-crafted variations" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of old repairs or appropriate restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate wood types and finishing techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Appropriate hardware (if present) for the purported period" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of an antique settee showing detailed woodwork and traditional joinery](https://ik.imagekit.io/appraisily/SEO/antique-settee-identification/antique-settee-identification-image-3_KGODe2GrF.png)

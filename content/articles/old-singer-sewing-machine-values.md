@@ -210,14 +210,14 @@ Generally, older machines (pre-1900) tend to be more valuable, especially if the
 The condition of your Singer sewing machine significantly impacts its value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate your Singer sewing machine's condition" >}}
-  {{< interactive-modules/checklist-item label="Machine is in working order with all original functions operational" / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Decals and decorative elements are clear and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="All original parts are present (no replacements)" / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal components" / />}}
-  {{< interactive-modules/checklist-item label="Original case or cabinet is included and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original accessories and attachments are present" / />}}
-  {{< interactive-modules/checklist-item label="Has original manual or documentation" / />}}
+  {{< interactive-modules/checklist-item label="Machine is in working order with all original functions operational" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Decals and decorative elements are clear and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts are present (no replacements)" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal components" / / />}}
+  {{< interactive-modules/checklist-item label="Original case or cabinet is included and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original accessories and attachments are present" / / />}}
+  {{< interactive-modules/checklist-item label="Has original manual or documentation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness
@@ -323,7 +323,7 @@ Singer produced various commemorative models marking company milestones:
 - **Centennial Edition (1951)**: $300-$700
 - **Singer UK Anniversary Models**: $250-$600
 
-{{< data-modules/stats-highlight title="Vintage Singer Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Singer Market Insights" columns="3" / / />}}
 
 {{< content-modules/section-header title="How to Research Your Singer's Value" level="2" >}}
 Once you've identified your Singer model and assessed its condition, there are several ways to determine its current market value.
@@ -374,14 +374,14 @@ Depending on your machine's value and your timeline for selling, consider these 
 To maximize your Singer's value when selling:
 
 {{< interactive-modules/condition-checklist title="Pre-Sale Preparation Checklist" description="Complete these tasks before listing your vintage Singer for sale" >}}
-  {{< interactive-modules/checklist-item label="Clean machine thoroughly without damaging original finish" / />}}
-  {{< interactive-modules/checklist-item label="Oil and adjust the machine to demonstrate proper function" / />}}
-  {{< interactive-modules/checklist-item label="Gather all accessories, attachments, and documentation" / />}}
-  {{< interactive-modules/checklist-item label="Clean and polish (if appropriate) any cabinet or case" / />}}
-  {{< interactive-modules/checklist-item label="Take clear photographs from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Include close-ups of serial number and any decals or special features" / />}}
-  {{< interactive-modules/checklist-item label="Research your specific model to write an accurate description" / />}}
-  {{< interactive-modules/checklist-item label="Note any mechanical issues honestly in your listing" / />}}
+  {{< interactive-modules/checklist-item label="Clean machine thoroughly without damaging original finish" / / />}}
+  {{< interactive-modules/checklist-item label="Oil and adjust the machine to demonstrate proper function" / / />}}
+  {{< interactive-modules/checklist-item label="Gather all accessories, attachments, and documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Clean and polish (if appropriate) any cabinet or case" / / />}}
+  {{< interactive-modules/checklist-item label="Take clear photographs from multiple angles" / / />}}
+  {{< interactive-modules/checklist-item label="Include close-ups of serial number and any decals or special features" / / />}}
+  {{< interactive-modules/checklist-item label="Research your specific model to write an accurate description" / / />}}
+  {{< interactive-modules/checklist-item label="Note any mechanical issues honestly in your listing" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Creating an Effective Listing

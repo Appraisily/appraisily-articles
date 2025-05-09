@@ -73,7 +73,7 @@ Before electricity became widespread, oil lamps were essential household items. 
 
 In this comprehensive guide, we'll explore the factors that determine an old oil lamp's value, how to identify different types and periods, price ranges for various categories, and tips for buying or selling these illuminating antiques. Whether you're a seasoned collector or simply curious about that dusty lamp in your attic, this article will shed light on the fascinating world of antique oil lamp valuation.
 
-{{< data-modules/stats-highlight title="Oil Lamp Market Overview" columns="3" / />}}
+{{< data-modules/stats-highlight title="Oil Lamp Market Overview" columns="3" / / />}}
 <tr>
   <td>Growth in Collector Interest</td>
   <td>38%</td>
@@ -276,25 +276,25 @@ Having all original components dramatically increases value:
 A lamp with all original parts can be worth twice as much as one with replacement components, even if the replacements are period-appropriate.
 
 {{< interactive-modules/condition-checklist title="Oil Lamp Condition Assessment Checklist" description="Use this checklist to evaluate the condition of an antique oil lamp" >}}
-  {{< interactive-modules/checklist-item label="Original burner mechanism intact and functional" / />}}
+  {{< interactive-modules/checklist-item label="Original burner mechanism intact and functional" / / />}}
   
-  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to glass font (reservoir)" / />}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to glass font (reservoir)" / / />}}
   
-  {{< interactive-modules/checklist-item label="Original shade or globe present without damage" / />}}
+  {{< interactive-modules/checklist-item label="Original shade or globe present without damage" / / />}}
   
-  {{< interactive-modules/checklist-item label="Original chimney present without cracks" / />}}
+  {{< interactive-modules/checklist-item label="Original chimney present without cracks" / / />}}
   
-  {{< interactive-modules/checklist-item label="Wick adjustment mechanism works properly" / />}}
+  {{< interactive-modules/checklist-item label="Wick adjustment mechanism works properly" / / />}}
   
-  {{< interactive-modules/checklist-item label="Base is stable without dents or significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Base is stable without dents or significant damage" / / />}}
   
-  {{< interactive-modules/checklist-item label="Original finish present without excessive cleaning or polishing" / />}}
+  {{< interactive-modules/checklist-item label="Original finish present without excessive cleaning or polishing" / / />}}
   
-  {{< interactive-modules/checklist-item label="No leaks in font or fuel system" / />}}
+  {{< interactive-modules/checklist-item label="No leaks in font or fuel system" / / />}}
   
-  {{< interactive-modules/checklist-item label="Decorative elements (painting, etching, applied details) intact" / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements (painting, etching, applied details) intact" / / />}}
   
-  {{< interactive-modules/checklist-item label="Original hardware (screws, fittings, collars) present" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (screws, fittings, collars) present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Valuable Antique Oil Lamps" level="2" >}}

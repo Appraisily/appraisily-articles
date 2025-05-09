@@ -111,12 +111,12 @@ While age alone doesn't guarantee value, it's a significant factor when combined
 The condition of an antique sewing machine dramatically affects its value. Collectors and enthusiasts generally evaluate machines using the following criteria:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Key elements that determine a machine's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original finish and decals intact" / />}}
-  {{< interactive-modules/checklist-item label="Mechanical parts working properly" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Original manual and accessories included" / />}}
-  {{< interactive-modules/checklist-item label="Original cabinet or case in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Free from rust, damage, and excessive wear" / />}}
+  {{< interactive-modules/checklist-item label="Original finish and decals intact" / / />}}
+  {{< interactive-modules/checklist-item label="Mechanical parts working properly" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / / />}}
+  {{< interactive-modules/checklist-item label="Original manual and accessories included" / / />}}
+  {{< interactive-modules/checklist-item label="Original cabinet or case in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Free from rust, damage, and excessive wear" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance
@@ -240,7 +240,7 @@ Swedish-made machines known for quality construction. Vintage models from the 19
 
 Swiss-made Elnas are renowned for innovative design. The groundbreaking Elna 1 (1940s-1950s) with its distinctive green color can bring $200-$500.
 
-{{< data-modules/stats-highlight title="Vintage Sewing Machine Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Sewing Machine Market Insights" columns="3" / / />}}
 
 - **95%** of second-hand sewing machines are valued between $25-$300
 - **$450-$600** is the typical price range for machines in excellent condition with perfect decals

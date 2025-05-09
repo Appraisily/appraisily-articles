@@ -137,7 +137,7 @@ Antique radio values are influenced by multiple factors that collectors, apprais
 
 ![Close-up of an antique radio dial with detailed markings and tuning mechanism](https://ik.imagekit.io/appraisily/SEO/antique-radio-values/antique-radio-values-image-3_zF1SGOxiW.png)
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / / />}}
 
 ### 1. Rarity and Production Numbers
 
@@ -220,14 +220,14 @@ Several methods can help determine when your radio was manufactured:
 According to Antique Radio's identification guide, "Component markings, cabinet design, materials, dial markings, tubes, and transistors" are all key factors in determining a radio's age and provenance.
 
 {{< interactive-modules/condition-checklist title="Antique Radio Identification Checklist" description="Use this checklist to gather key identification information from your vintage radio" >}}
-  {{< interactive-modules/checklist-item label="Locate and record any model number/name on the radio" / />}}
-  {{< interactive-modules/checklist-item label="Note the manufacturer's name or logo" / />}}
-  {{< interactive-modules/checklist-item label="Document the radio's dimensions and cabinet style" / />}}
-  {{< interactive-modules/checklist-item label="Identify the type and number of control knobs" / />}}
-  {{< interactive-modules/checklist-item label="Check for tube type indicators or transistor markings" / />}}
-  {{< interactive-modules/checklist-item label="Photograph the dial face, including station markings" / />}}
-  {{< interactive-modules/checklist-item label="Record any serial numbers on chassis or cabinet" / />}}
-  {{< interactive-modules/checklist-item label="Note distinctive features or unusual design elements" / />}}
+  {{< interactive-modules/checklist-item label="Locate and record any model number/name on the radio" / / />}}
+  {{< interactive-modules/checklist-item label="Note the manufacturer's name or logo" / / />}}
+  {{< interactive-modules/checklist-item label="Document the radio's dimensions and cabinet style" / / />}}
+  {{< interactive-modules/checklist-item label="Identify the type and number of control knobs" / / />}}
+  {{< interactive-modules/checklist-item label="Check for tube type indicators or transistor markings" / / />}}
+  {{< interactive-modules/checklist-item label="Photograph the dial face, including station markings" / / />}}
+  {{< interactive-modules/checklist-item label="Record any serial numbers on chassis or cabinet" / / />}}
+  {{< interactive-modules/checklist-item label="Note distinctive features or unusual design elements" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for Antique Radios" level="2" >}}
@@ -400,18 +400,18 @@ The internal condition affects both functionality and value:
 According to the Canadian Vintage Radio Society, "The actual value of any 'vintage' or 'antique' radio...is dependent upon condition more than any other single factor." They note that a radio in excellent condition can be worth "two to three times as much as one in poor or even fair condition."
 
 {{< interactive-modules/condition-checklist title="Antique Radio Condition Assessment Checklist" description="Evaluate these key aspects to determine your radio's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Cabinet has no cracks, chips, or veneer damage" / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Dial glass/face is original and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Knobs are all original and matching" / />}}
-  {{< interactive-modules/checklist-item label="Grille cloth is original and intact" / />}}
-  {{< interactive-modules/checklist-item label="Chassis shows no significant rust or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="All tubes are present and period-correct" / />}}
-  {{< interactive-modules/checklist-item label="Power cord is in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Speaker functions without distortion" / />}}
-  {{< interactive-modules/checklist-item label="Radio receives stations clearly" / />}}
-  {{< interactive-modules/checklist-item label="Volume and tuning controls work smoothly" / />}}
-  {{< interactive-modules/checklist-item label="No amateur repairs or modifications are present" / />}}
+  {{< interactive-modules/checklist-item label="Cabinet has no cracks, chips, or veneer damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Dial glass/face is original and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Knobs are all original and matching" / / />}}
+  {{< interactive-modules/checklist-item label="Grille cloth is original and intact" / / />}}
+  {{< interactive-modules/checklist-item label="Chassis shows no significant rust or corrosion" / / />}}
+  {{< interactive-modules/checklist-item label="All tubes are present and period-correct" / / />}}
+  {{< interactive-modules/checklist-item label="Power cord is in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Speaker functions without distortion" / / />}}
+  {{< interactive-modules/checklist-item label="Radio receives stations clearly" / / />}}
+  {{< interactive-modules/checklist-item label="Volume and tuning controls work smoothly" / / />}}
+  {{< interactive-modules/checklist-item label="No amateur repairs or modifications are present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authenticity Considerations

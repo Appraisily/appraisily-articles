@@ -129,7 +129,7 @@ Have you ever wondered if that dusty item in your attic might be worth something
 
 In this guide, we'll walk through proven methods for identifying antiques, from traditional techniques to modern technological solutions. We'll also discuss how to assess condition, research provenance, and determine approximate values – all essential skills for both casual enthusiasts and serious collectors.
 
-{{< data-modules/stats-highlight title="Antique Identification: By the Numbers" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Identification: By the Numbers" columns="3" / / />}}
   <div class="stat-card blue">
     <div class="stat-value">100+</div>
     <div class="stat-label">Years Old</div>
@@ -298,13 +298,13 @@ For potentially valuable items or when you need definitive authentication, profe
 **Museum Curators**: For truly unusual or potentially significant historical items, museum curators might be willing to examine pieces, particularly those relevant to their collections or specialties.
 
 {{< interactive-modules/condition-checklist title="Antique Documentation Checklist" description="When seeking professional identification, prepare these items for the most accurate assessment:" >}}
-  {{< interactive-modules/checklist-item label="Clear photographs from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of any marks, signatures, or labels" / />}}
-  {{< interactive-modules/checklist-item label="Measurements (height, width, depth, weight)" / />}}
-  {{< interactive-modules/checklist-item label="Known provenance or history of the item" / />}}
-  {{< interactive-modules/checklist-item label="Any accompanying documentation or certificates" / />}}
-  {{< interactive-modules/checklist-item label="Details about condition, including damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Information about similar items you've researched" / />}}
+  {{< interactive-modules/checklist-item label="Clear photographs from multiple angles" / / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of any marks, signatures, or labels" / / />}}
+  {{< interactive-modules/checklist-item label="Measurements (height, width, depth, weight)" / / />}}
+  {{< interactive-modules/checklist-item label="Known provenance or history of the item" / / />}}
+  {{< interactive-modules/checklist-item label="Any accompanying documentation or certificates" / / />}}
+  {{< interactive-modules/checklist-item label="Details about condition, including damage or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Information about similar items you've researched" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Determining Antique Values" level="2" >}}

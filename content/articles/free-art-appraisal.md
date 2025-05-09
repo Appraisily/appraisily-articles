@@ -140,7 +140,7 @@ An art appraisal is a professional assessment of an artwork's value based on fac
 
 Professional appraisals are typically conducted by certified appraisers with specialized training and credentials, such as membership in the American Society of Appraisers or the International Society of Appraisers.
 
-{{< data-modules/stats-highlight title="Art Appraisal Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Market Facts" columns="3" / / />}}
 
 {{< content-modules/section-header title="Types of Free Art Appraisal Services" level="2" >}}
 Not all free appraisal services are created equal. Understanding the different options can help you choose the most appropriate one for your needs.
@@ -206,13 +206,13 @@ The Facebook group "Free Art Appraiser: Get Smart About Art!" has over 30,000 me
 Reddit's r/artcollecting and r/whatisthispainting communities also provide informal valuations, though the accuracy varies based on who responds to your query.
 
 {{< interactive-modules/condition-checklist title="Preparing for a Free Art Appraisal" description="Use this checklist to ensure you have everything needed for a productive appraisal" >}}
-  {{< interactive-modules/checklist-item label="Clear, well-lit photographs from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Close-up photos of the artist's signature" / />}}
-  {{< interactive-modules/checklist-item label="Images of any labels, stamps, or markings on the back" / />}}
-  {{< interactive-modules/checklist-item label="Measurements of the artwork (height x width)" / />}}
-  {{< interactive-modules/checklist-item label="Information about the artwork's current condition" / />}}
-  {{< interactive-modules/checklist-item label="Any known provenance or history of the piece" / />}}
-  {{< interactive-modules/checklist-item label="Details about how and when you acquired it" / />}}
+  {{< interactive-modules/checklist-item label="Clear, well-lit photographs from multiple angles" / / />}}
+  {{< interactive-modules/checklist-item label="Close-up photos of the artist's signature" / / />}}
+  {{< interactive-modules/checklist-item label="Images of any labels, stamps, or markings on the back" / / />}}
+  {{< interactive-modules/checklist-item label="Measurements of the artwork (height x width)" / / />}}
+  {{< interactive-modules/checklist-item label="Information about the artwork's current condition" / / />}}
+  {{< interactive-modules/checklist-item label="Any known provenance or history of the piece" / / />}}
+  {{< interactive-modules/checklist-item label="Details about how and when you acquired it" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Limitations of Free Art Appraisals" level="2" >}}

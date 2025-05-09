@@ -105,7 +105,7 @@ When you look at a painting, sculpture, or other artwork, you're not just seeing
 
 According to art market experts, proper valuation requires understanding both objective and subjective factors. As noted by the [Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/valuation/art-valuation/), "Art valuation is a part of financial valuation that deals with the estimation of the fair market value of works of art."
 
-{{< data-modules/stats-highlight title="The Art Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="The Art Market at a Glance" columns="3" / / />}}
 
 <div class="stat-card" style="color: blue;">
   <div class="stat-value">$65.1B</div>
@@ -249,13 +249,13 @@ Physical characteristics affect both market demand and value:
 - Materials and execution quality
 
 {{< interactive-modules/condition-checklist title="Artwork Condition Assessment" description="Factors that art appraisers examine when evaluating physical condition" >}}
-  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" / />}}
-  {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" / />}}
-  {{< interactive-modules/checklist-item label="Previous restoration or conservation work" / />}}
-  {{< interactive-modules/checklist-item label="Structural stability of supports (canvas, panel, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Frame condition and originality" / />}}
-  {{< interactive-modules/checklist-item label="Signs of environmental damage (water, sunlight, mold)" / />}}
-  {{< interactive-modules/checklist-item label="Signature integrity and authenticity" / />}}
+  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" / / />}}
+  {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" / / />}}
+  {{< interactive-modules/checklist-item label="Previous restoration or conservation work" / / />}}
+  {{< interactive-modules/checklist-item label="Structural stability of supports (canvas, panel, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Frame condition and originality" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of environmental damage (water, sunlight, mold)" / / />}}
+  {{< interactive-modules/checklist-item label="Signature integrity and authenticity" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Current Market Trends and Economic Factors

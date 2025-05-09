@@ -93,7 +93,7 @@ Art appraisers conduct thorough evaluations of artwork to determine its monetary
 
 Unlike dealers or gallery owners who may offer informal opinions on value, professional appraisers provide objective, unbiased assessments based on specialized knowledge and adherence to ethical standards.
 
-{{< data-modules/stats-highlight title="Art Appraisal Industry Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Industry Facts" columns="3" / / />}}
  
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/art-appraisers/art-appraisers-image-2_jgi59Wdae.png" alt="Art appraiser documenting details of a valuable painting" caption="Professional appraisal typically includes detailed documentation and condition assessment" />}}
 
@@ -245,14 +245,14 @@ Note that online appraisals typically have limitations and may not satisfy requi
 ![Art appraiser using digital tools to document artwork details](https://ik.imagekit.io/appraisily/SEO/art-appraisers/art-appraisers-image-5_jAfcVpWFU6.png)
 
 {{< interactive-modules/condition-checklist title="Art Appraiser Selection Checklist" description="Essential criteria to verify when hiring an art appraiser" >}}
-  {{< interactive-modules/checklist-item label="Holds credentials from recognized professional organizations (AAA, ISA, ASA)" / />}}
-  {{< interactive-modules/checklist-item label="USPAP compliant with current certification" / />}}
-  {{< interactive-modules/checklist-item label="Specializes in relevant art period, medium, or artist" / />}}
-  {{< interactive-modules/checklist-item label="No conflicts of interest (doesn't buy/sell art they appraise)" / />}}
-  {{< interactive-modules/checklist-item label="Experience with your specific appraisal purpose (insurance, donation, estate)" / />}}
-  {{< interactive-modules/checklist-item label="Provides clear fee structure before beginning work" / />}}
-  {{< interactive-modules/checklist-item label="Willing to provide references from past clients" / />}}
-  {{< interactive-modules/checklist-item label="Delivers comprehensive written appraisal reports" / />}}
+  {{< interactive-modules/checklist-item label="Holds credentials from recognized professional organizations (AAA, ISA, ASA)" / / />}}
+  {{< interactive-modules/checklist-item label="USPAP compliant with current certification" / / />}}
+  {{< interactive-modules/checklist-item label="Specializes in relevant art period, medium, or artist" / / />}}
+  {{< interactive-modules/checklist-item label="No conflicts of interest (doesn't buy/sell art they appraise)" / / />}}
+  {{< interactive-modules/checklist-item label="Experience with your specific appraisal purpose (insurance, donation, estate)" / / />}}
+  {{< interactive-modules/checklist-item label="Provides clear fee structure before beginning work" / / />}}
+  {{< interactive-modules/checklist-item label="Willing to provide references from past clients" / / />}}
+  {{< interactive-modules/checklist-item label="Delivers comprehensive written appraisal reports" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Art Appraisal Process" level="2" >}}

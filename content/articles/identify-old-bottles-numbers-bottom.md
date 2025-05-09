@@ -92,7 +92,7 @@ Other numerical markings might indicate:
 
 Understanding these codes requires some knowledge of glass manufacturing history and techniques. Let's explore the most common types of bottle bottom markings and what they reveal.
 
-{{< data-modules/stats-highlight title="Bottle Base Marking Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Bottle Base Marking Facts" columns="3" / / />}}
 
 {{< content-modules/section-header title="Types of Bottle Bottom Numbers" level="2" >}}
 Not all numbers on bottle bottoms serve the same purpose. Learning to distinguish between different types of numerical markings is key to proper bottle identification.
@@ -234,13 +234,13 @@ The Society for Historical Archaeology offers excellent resources for [dating bo
 ![Antique bottle showing visible mold seams and base marks](https://ik.imagekit.io/appraisily/SEO/identify-old-bottles-numbers-bottom/identify-old-bottles-numbers-bottom-image-5_f8uocSmQ0.png)
 
 {{< interactive-modules/condition-checklist title="Bottle Authentication Checklist" description="Use this checklist to help determine if your bottle is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Pontil mark or rough base scar present (indicates pre-1860s production)" / />}}
-  {{< interactive-modules/checklist-item label="Visible mold seams that don't extend all the way to the lip (indicates pre-1920 production)" / />}}
-  {{< interactive-modules/checklist-item label="Bubbles or imperfections in the glass (more common in older bottles)" / />}}
-  {{< interactive-modules/checklist-item label="Asymmetrical or slightly lopsided shape (indicates handmade production)" / />}}
-  {{< interactive-modules/checklist-item label="Glass has purple tint when held to light (indicates pre-1920 manganese glass)" / />}}
-  {{< interactive-modules/checklist-item label="Embossed lettering with city names or product claims (common on pre-1950 bottles)" / />}}
-  {{< interactive-modules/checklist-item label="Base markings consistent with known historical manufacturers" / />}}
+  {{< interactive-modules/checklist-item label="Pontil mark or rough base scar present (indicates pre-1860s production)" / / />}}
+  {{< interactive-modules/checklist-item label="Visible mold seams that don't extend all the way to the lip (indicates pre-1920 production)" / / />}}
+  {{< interactive-modules/checklist-item label="Bubbles or imperfections in the glass (more common in older bottles)" / / />}}
+  {{< interactive-modules/checklist-item label="Asymmetrical or slightly lopsided shape (indicates handmade production)" / / />}}
+  {{< interactive-modules/checklist-item label="Glass has purple tint when held to light (indicates pre-1920 manganese glass)" / / />}}
+  {{< interactive-modules/checklist-item label="Embossed lettering with city names or product claims (common on pre-1950 bottles)" / / />}}
+  {{< interactive-modules/checklist-item label="Base markings consistent with known historical manufacturers" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Step-by-Step Guide to Identifying Bottles by Base Numbers" level="2" >}}

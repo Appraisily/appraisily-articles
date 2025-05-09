@@ -115,7 +115,7 @@ Antique coffee grinders have become highly sought-after collectibles, combining 
   The value of antique coffee grinders varies widely depending on age, manufacturer, condition, and rarity. While some basic vintage models can be found for under $50, rare and exceptional specimens from prestigious manufacturers can command prices exceeding $1,000.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Antique Coffee Grinder Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Coffee Grinder Market Highlights" columns="3" / / />}}
 * **$50-$1,000**: Typical value range for antique coffee grinders depending on various factors
 * **19th Century**: Premium age range for most valuable coffee grinders
 * **Enterprise models**: Can fetch $1,900-$3,000 for rare specimens in excellent condition
@@ -152,12 +152,12 @@ Condition dramatically impacts value—sometimes accounting for a 40-50% differe
 * Absence of cracks, repairs, or replacements
 
 {{< interactive-modules/condition-checklist title="Coffee Grinder Condition Assessment" description="Check applicable items to gauge your grinder's condition" >}}
-  {{< interactive-modules/checklist-item label="Working grinding mechanism" / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="All original components present (handle, drawer, hopper)" / />}}
-  {{< interactive-modules/checklist-item label="No cracks, repairs or replaced parts" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer markings visible" / />}}
-  {{< interactive-modules/checklist-item label="Drawer operates smoothly" / />}}
+  {{< interactive-modules/checklist-item label="Working grinding mechanism" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="All original components present (handle, drawer, hopper)" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks, repairs or replaced parts" / / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer markings visible" / / />}}
+  {{< interactive-modules/checklist-item label="Drawer operates smoothly" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Materials and Construction

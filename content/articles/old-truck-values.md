@@ -90,7 +90,7 @@ Multiple elements influence the value of a vintage truck, and understanding thes
 
 Not all vintage trucks command equal interest or value. Certain manufacturers, models, and production years have developed stronger followings than others:
 
-{{< data-modules/stats-highlight title="Most Valuable Classic Truck Categories" columns="3" / />}}
+{{< data-modules/stats-highlight title="Most Valuable Classic Truck Categories" columns="3" / / />}}
 <div class="stat-card">
   <div class="stat-value">1953-56</div>
   <div class="stat-label">Ford F-100</div>
@@ -116,14 +116,14 @@ The condition of a classic truck is typically categorized on a scale from #1 (Co
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Classic Truck Condition Assessment" description="The following factors determine a truck's condition rating and value:" >}}
-  {{< interactive-modules/checklist-item label="Body condition (rust, dents, panel alignment)" / />}}
-  {{< interactive-modules/checklist-item label="Paint quality and authenticity" / />}}
-  {{< interactive-modules/checklist-item label="Interior condition and correctness" / />}}
-  {{< interactive-modules/checklist-item label="Mechanical functionality and reliability" / />}}
-  {{< interactive-modules/checklist-item label="Chassis and undercarriage condition" / />}}
-  {{< interactive-modules/checklist-item label="Original components vs. replacement parts" / />}}
-  {{< interactive-modules/checklist-item label="Documentation and ownership history" / />}}
-  {{< interactive-modules/checklist-item label="Restoration quality (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Body condition (rust, dents, panel alignment)" / / />}}
+  {{< interactive-modules/checklist-item label="Paint quality and authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Interior condition and correctness" / / />}}
+  {{< interactive-modules/checklist-item label="Mechanical functionality and reliability" / / />}}
+  {{< interactive-modules/checklist-item label="Chassis and undercarriage condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original components vs. replacement parts" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation and ownership history" / / />}}
+  {{< interactive-modules/checklist-item label="Restoration quality (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Production Numbers

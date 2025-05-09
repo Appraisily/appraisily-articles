@@ -133,11 +133,11 @@ Uncommon forms, sizes, and decorative techniques generally command higher prices
 Stoneware with original, undamaged surfaces commands the highest prices. Common condition issues that reduce value include:
 
 {{< interactive-modules/condition-checklist title="Condition Issues That Affect Value" description="Check for these common problems when assessing stoneware jugs" >}}
-  {{< interactive-modules/checklist-item label="Chips or hairline cracks" / />}}
-  {{< interactive-modules/checklist-item label="Repairs or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Heavy staining inside or out" / />}}
-  {{< interactive-modules/checklist-item label="Missing or damaged handle" / />}}
-  {{< interactive-modules/checklist-item label="Faded or damaged decorations" / />}}
+  {{< interactive-modules/checklist-item label="Chips or hairline cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Repairs or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Heavy staining inside or out" / / />}}
+  {{< interactive-modules/checklist-item label="Missing or damaged handle" / / />}}
+  {{< interactive-modules/checklist-item label="Faded or damaged decorations" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## How to Identify Antique Stoneware Jugs
@@ -286,7 +286,7 @@ Some particularly exceptional stoneware jugs have achieved remarkable prices at 
   </tr>
 {{< /auction-results >}}
 
-{{< data-modules/stats-highlight title="Stoneware Jug Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Stoneware Jug Market Statistics" columns="3" / / />}}
 
 ## Where to Buy and Sell Antique Stoneware Jugs
 
@@ -360,11 +360,11 @@ Consider focusing your collection in one of these ways:
 To avoid reproductions and fakes:
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Key indicators of authentic antique stoneware" >}}
-  {{< interactive-modules/checklist-item label="Appropriate weight and density for true stoneware" / />}}
-  {{< interactive-modules/checklist-item label="Signs of proper aging (base wear, patina)" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate construction methods" / />}}
-  {{< interactive-modules/checklist-item label="Authentic period glazes and decoration" / />}}
-  {{< interactive-modules/checklist-item label="Consistent with known examples by maker" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate weight and density for true stoneware" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of proper aging (base wear, patina)" / / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate construction methods" / / />}}
+  {{< interactive-modules/checklist-item label="Authentic period glazes and decoration" / / />}}
+  {{< interactive-modules/checklist-item label="Consistent with known examples by maker" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Care and Preservation

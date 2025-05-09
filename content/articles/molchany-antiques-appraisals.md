@@ -106,12 +106,12 @@ Located in the Westside area of Las Vegas, Nevada, Molchany Antiques & Appraisal
 
 As both certified antique appraisers and real estate professionals, the team at Molchany provides comprehensive solutions for clients dealing with inherited property, downsizing, or simply seeking accurate valuations of their treasured items.
 
-{{< data-modules/stats-highlight title="Molchany Appraisal Highlights" columns="3" />}}
-{{< data-modules/stat-card value="30+" label="Years Experience" color="blue" description="Extensive knowledge in fine art and antiques" />}}
+{{< data-modules/stats-highlight title="Molchany Appraisal Highlights" columns="3" / />}}
+{{< data-modules/stat-card value="30+" label="Years Experience" color="blue" description="Extensive knowledge in fine art and antiques" / />}}
 
-{{< data-modules/stat-card value="USPAP" label="Compliance Standard" color="green" description="Adherence to Uniform Standards of Professional Appraisal Practice" />}}
+{{< data-modules/stat-card value="USPAP" label="Compliance Standard" color="green" description="Adherence to Uniform Standards of Professional Appraisal Practice" / />}}
 
-{{< data-modules/stat-card value="15+" label="Specialized Areas" color="orange" description="Broad expertise from fine art to historical documents" />}}
+{{< data-modules/stat-card value="15+" label="Specialized Areas" color="orange" description="Broad expertise from fine art to historical documents" / />}}
 
 {{< content-modules/section-header title="Services Offered" level="2" >}}
   Molchany Antiques & Appraisals provides a comprehensive range of services beyond standard appraisals, including estate liquidation, real estate services, and specialized antique valuations.
@@ -273,14 +273,14 @@ Membership in professional organizations further demonstrates their commitment t
 These credentials ensure that clients receive appraisals that not only reflect accurate market values but also meet legal requirements for insurance, tax, and estate purposes.
 
 {{< interactive-modules/condition-checklist title="What Makes a Reliable Antique Appraiser" description="Key factors to look for when selecting an antique appraiser" >}}
-  {{< interactive-modules/checklist-item label="Verifiable certification from recognized appraisal organizations" / />}}
-  {{< interactive-modules/checklist-item label="Specific expertise in relevant categories of antiques and collectibles" / />}}
-  {{< interactive-modules/checklist-item label="Multiple years of professional experience in the field" / />}}
-  {{< interactive-modules/checklist-item label="Proper licenses for conducting business in your state" / />}}
-  {{< interactive-modules/checklist-item label="Positive customer reviews and testimonials" / />}}
-  {{< interactive-modules/checklist-item label="Clear, detailed explanation of appraisal methods" / />}}
-  {{< interactive-modules/checklist-item label="Transparent pricing structure for services" / />}}
-  {{< interactive-modules/checklist-item label="Professional approach and ethical business practices" / />}}
+  {{< interactive-modules/checklist-item label="Verifiable certification from recognized appraisal organizations" / / />}}
+  {{< interactive-modules/checklist-item label="Specific expertise in relevant categories of antiques and collectibles" / / />}}
+  {{< interactive-modules/checklist-item label="Multiple years of professional experience in the field" / / />}}
+  {{< interactive-modules/checklist-item label="Proper licenses for conducting business in your state" / / />}}
+  {{< interactive-modules/checklist-item label="Positive customer reviews and testimonials" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, detailed explanation of appraisal methods" / / />}}
+  {{< interactive-modules/checklist-item label="Transparent pricing structure for services" / / />}}
+  {{< interactive-modules/checklist-item label="Professional approach and ethical business practices" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Client Experience" level="2" >}}

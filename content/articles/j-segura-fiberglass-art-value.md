@@ -99,7 +99,7 @@ Segura's art is characterized by:
 
 ### Common Themes and Subjects
 
-{{< data-modules/stats-highlight title="Popular J. Segura Art Themes" columns="3" / />}}
+{{< data-modules/stats-highlight title="Popular J. Segura Art Themes" columns="3" / / />}}
 
 1. Roman soldiers on horseback (most sought-after)
 2. Medieval knights and warriors
@@ -133,13 +133,13 @@ The subject matter greatly influences value:
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="J. Segura Art Condition Factors" description="Check applicable items to assess your piece's condition" >}}
-  {{< interactive-modules/checklist-item label="No cracks or damage to the fiberglass relief" />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" />}}
-  {{< interactive-modules/checklist-item label="Frame in good condition without warping" />}}
-  {{< interactive-modules/checklist-item label="Hanging hardware intact and original" />}}
-  {{< interactive-modules/checklist-item label="No significant discoloration or yellowing" />}}
-  {{< interactive-modules/checklist-item label="Clear, legible signature present" />}}
-  {{< interactive-modules/checklist-item label="Original Finesse Originals label (if applicable)" />}}
+  {{< interactive-modules/checklist-item label="No cracks or damage to the fiberglass relief" / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Frame in good condition without warping" / />}}
+  {{< interactive-modules/checklist-item label="Hanging hardware intact and original" / />}}
+  {{< interactive-modules/checklist-item label="No significant discoloration or yellowing" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible signature present" / />}}
+  {{< interactive-modules/checklist-item label="Original Finesse Originals label (if applicable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Provenance

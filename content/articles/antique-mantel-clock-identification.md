@@ -126,7 +126,7 @@ Antique mantel clocks represent some of the most cherished timepieces in the col
 Before diving into identification techniques, it's important to understand what truly qualifies as an antique mantel clock. By definition, a genuine antique item must be at least 100 years old. For mantel clocks, this typically means timepieces from the 19th century or earlier, though some early 20th-century pieces may now qualify. Items less than 100 years old are generally classified as "vintage" rather than true antiques. This distinction is crucial for both collectors and those seeking accurate valuations.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Antique Mantel Clock Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Mantel Clock Facts" columns="3" / / />}}
   <tr>
     <td>Age Requirement</td>
     <td>100+ years old</td>
@@ -195,12 +195,12 @@ The internal mechanism or "movement" of a mantel clock is perhaps the most criti
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Movement Type Assessment" description="Check which movement types are present in your mantel clock" >}}
-  {{< interactive-modules/checklist-item label="Fusee Movement (common in English clocks from 1750-1850)" / />}}
-  {{< interactive-modules/checklist-item label="Pendulum-driven movement with visible escapement" / />}}
-  {{< interactive-modules/checklist-item label="Weight-driven movement (less common in mantel clocks)" / />}}
-  {{< interactive-modules/checklist-item label="Spring-driven movement with visible mainspring barrel" / />}}
-  {{< interactive-modules/checklist-item label="French movement with silk thread suspension for pendulum" / />}}
-  {{< interactive-modules/checklist-item label="American mass-produced movement with stamped pillars" / />}}
+  {{< interactive-modules/checklist-item label="Fusee Movement (common in English clocks from 1750-1850)" / / />}}
+  {{< interactive-modules/checklist-item label="Pendulum-driven movement with visible escapement" / / />}}
+  {{< interactive-modules/checklist-item label="Weight-driven movement (less common in mantel clocks)" / / />}}
+  {{< interactive-modules/checklist-item label="Spring-driven movement with visible mainspring barrel" / / />}}
+  {{< interactive-modules/checklist-item label="French movement with silk thread suspension for pendulum" / / />}}
+  {{< interactive-modules/checklist-item label="American mass-produced movement with stamped pillars" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 To properly examine a clock's movement:
@@ -304,13 +304,13 @@ The market for antique mantel clocks includes many reproductions and fakes. Bein
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Reproduction Warning Signs" description="Check for these indicators that may suggest a reproduction rather than an authentic antique" >}}
-  {{< interactive-modules/checklist-item label="Modern screws (Phillips head or machine-made slot heads)" / />}}
-  {{< interactive-modules/checklist-item label="Perfect, machine-printed dial with no age-appropriate wear" / />}}
-  {{< interactive-modules/checklist-item label="Wood that appears artificially aged or distressed" / />}}
-  {{< interactive-modules/checklist-item label="Overly clean or bright brass components" / />}}
-  {{< interactive-modules/checklist-item label="Movements with plastic or modern metal components" / />}}
-  {{< interactive-modules/checklist-item label="Foreign markings on clocks attempting to appear American or European" / />}}
-  {{< interactive-modules/checklist-item label="Inconsistent style elements from different periods" / />}}
+  {{< interactive-modules/checklist-item label="Modern screws (Phillips head or machine-made slot heads)" / / />}}
+  {{< interactive-modules/checklist-item label="Perfect, machine-printed dial with no age-appropriate wear" / / />}}
+  {{< interactive-modules/checklist-item label="Wood that appears artificially aged or distressed" / / />}}
+  {{< interactive-modules/checklist-item label="Overly clean or bright brass components" / / />}}
+  {{< interactive-modules/checklist-item label="Movements with plastic or modern metal components" / / />}}
+  {{< interactive-modules/checklist-item label="Foreign markings on clocks attempting to appear American or European" / / />}}
+  {{< interactive-modules/checklist-item label="Inconsistent style elements from different periods" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authentication Best Practices

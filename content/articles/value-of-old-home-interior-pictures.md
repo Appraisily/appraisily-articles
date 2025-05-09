@@ -135,7 +135,7 @@ Not all vintage Home Interior pictures are created equal. Here's how to identify
 
 When assessing the potential value of a Home Interior picture, several key factors come into play:
 
-{{< data-modules/stats-highlight title="Value Factors for Home Interior Pictures" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Factors for Home Interior Pictures" columns="3" / / />}}
 
 ### Age and Era
 
@@ -157,14 +157,14 @@ Limited edition series or themed collections often attract higher offers from co
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Home Interior Picture Condition Checklist" description="Check all applicable items to assess the condition of your piece" >}}
-  {{< interactive-modules/checklist-item label="Original frame intact and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="No sun fading or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Original tags or stickers present" / />}}
-  {{< interactive-modules/checklist-item label="No water damage or warping" / />}}
-  {{< interactive-modules/checklist-item label="Glass clean without scratches" / />}}
-  {{< interactive-modules/checklist-item label="Original backing paper intact" / />}}
-  {{< interactive-modules/checklist-item label="No mold or mildew damage" / />}}
-  {{< interactive-modules/checklist-item label="Hanging hardware intact" / />}}
+  {{< interactive-modules/checklist-item label="Original frame intact and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="No sun fading or discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Original tags or stickers present" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage or warping" / / />}}
+  {{< interactive-modules/checklist-item label="Glass clean without scratches" / / />}}
+  {{< interactive-modules/checklist-item label="Original backing paper intact" / / />}}
+  {{< interactive-modules/checklist-item label="No mold or mildew damage" / / />}}
+  {{< interactive-modules/checklist-item label="Hanging hardware intact" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to frame experts at [Trefler's](https://www.trefler.com/a-designers-guide-to-framing-trends-2/), examining the back of picture frames can provide valuable clues about their age and authenticity. If a frame is over 100 years old (which Home Interior frames are not), it would be considered antique. However, vintage Home Interior frames from the 1970s-1990s have their own distinct value characteristics.

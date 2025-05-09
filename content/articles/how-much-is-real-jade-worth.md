@@ -103,7 +103,7 @@ Jadeite (Na(Al,Fe)Si₂O₆) is the rarer and more valuable form of jade. It's p
 
 Nephrite (Ca₂(Mg,Fe)₅Si₈O₂₂(OH)₂) is more common and generally less valuable than jadeite. It typically occurs in creamy white, mid-to-dark green, and black colors. Nephrite is found in many locations globally, including China, New Zealand, Russia, Canada, and the United States.
 
-{{< data-modules/stats-highlight title="Jade Value Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Jade Value Highlights" columns="3" / / />}}
 
 - **$3-27.4 Million**: Record prices for museum-quality Imperial jade
 - **$1,000-5,000/carat**: Value range for fine quality jadeite
@@ -300,11 +300,11 @@ With jade's high value comes a significant market for imitations. Knowing how to
 To determine if jade is real and assess its grade:
 
 {{< interactive-modules/condition-checklist title="Jade Authentication Checklist" description="Simple tests to help identify genuine jade" >}}
-  {{< interactive-modules/checklist-item label="Temperature test: Real jade feels cool to the touch and warms slowly" / />}}
-  {{< interactive-modules/checklist-item label="Sound test: When tapped, real jade produces a resonant, musical tone" / />}}
-  {{< interactive-modules/checklist-item label="Light test: Shine a flashlight through the jade - genuine jade has a somewhat grainy structure" / />}}
-  {{< interactive-modules/checklist-item label="Scratch test: Jade is very hard (6.5-7 on Mohs scale) and difficult to scratch" / />}}
-  {{< interactive-modules/checklist-item label="Price check: If the price seems too good to be true, it probably is" / />}}
+  {{< interactive-modules/checklist-item label="Temperature test: Real jade feels cool to the touch and warms slowly" / / />}}
+  {{< interactive-modules/checklist-item label="Sound test: When tapped, real jade produces a resonant, musical tone" / / />}}
+  {{< interactive-modules/checklist-item label="Light test: Shine a flashlight through the jade - genuine jade has a somewhat grainy structure" / / />}}
+  {{< interactive-modules/checklist-item label="Scratch test: Jade is very hard (6.5-7 on Mohs scale) and difficult to scratch" / / />}}
+  {{< interactive-modules/checklist-item label="Price check: If the price seems too good to be true, it probably is" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For valuable pieces, professional certification from a reputable gemological laboratory is recommended. These can detect treatments and confirm authenticity using:

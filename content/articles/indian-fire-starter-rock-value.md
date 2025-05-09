@@ -95,12 +95,12 @@ Fire starter rocks were primarily used in two distinct ways. First, they served 
 
 According to archaeological research, these artifacts are particularly common in the Midwestern United States and typically date to the Early Archaic period, though they continued to be used for thousands of years across many indigenous cultures.
 
-{{< data-modules/stats-highlight title="Native American Fire Starter Tools" columns="3" />}}
-{{< data-modules/stat-card value="5,000+" label="Years of Use" color="blue" description="Archaeological evidence of these tools dating back thousands of years" />}}
+{{< data-modules/stats-highlight title="Native American Fire Starter Tools" columns="3" / />}}
+{{< data-modules/stat-card value="5,000+" label="Years of Use" color="blue" description="Archaeological evidence of these tools dating back thousands of years" / />}}
 
-{{< data-modules/stat-card value="$40-$500" label="Value Range" color="green" description="Typical market prices for authentic fire starter rocks based on quality" />}}
+{{< data-modules/stat-card value="$40-$500" label="Value Range" color="green" description="Typical market prices for authentic fire starter rocks based on quality" / />}}
 
-{{< data-modules/stat-card value="1-3in" label="Depression Size" color="orange" description="Common diameter of cup-shaped depressions found in authentic examples" />}}
+{{< data-modules/stat-card value="1-3in" label="Depression Size" color="orange" description="Common diameter of cup-shaped depressions found in authentic examples" / />}}
 
 {{< content-modules/section-header title="How to Identify Authentic Fire Starter Rocks" level="2" >}}
 Distinguishing genuine Native American fire starter rocks from natural stones requires careful observation of specific characteristics. Authentic specimens display distinctive features resulting from human modification and use.
@@ -109,12 +109,12 @@ Distinguishing genuine Native American fire starter rocks from natural stones re
 When examining a potential fire starter rock, look for these key identification markers:
 
 {{< interactive-modules/condition-checklist title="Identification Checklist" description="Features to look for in authentic fire starter rocks" >}}
-{{< interactive-modules/checklist-item label="One or more cup-shaped depressions (pits)" / />}}
-{{< interactive-modules/checklist-item label="Smooth, polished texture within the depressions" / />}}
-{{< interactive-modules/checklist-item label="Evidence of pecking, grinding or intentional shaping" / />}}
-{{< interactive-modules/checklist-item label="Discoloration from heat or use within the cups" / />}}
-{{< interactive-modules/checklist-item label="Appropriately sized for hand use (typically palm-sized)" / />}}
-{{< interactive-modules/checklist-item label="Made from durable stone material (granite, sandstone, etc.)" / />}}
+{{< interactive-modules/checklist-item label="One or more cup-shaped depressions (pits)" / / />}}
+{{< interactive-modules/checklist-item label="Smooth, polished texture within the depressions" / / />}}
+{{< interactive-modules/checklist-item label="Evidence of pecking, grinding or intentional shaping" / / />}}
+{{< interactive-modules/checklist-item label="Discoloration from heat or use within the cups" / / />}}
+{{< interactive-modules/checklist-item label="Appropriately sized for hand use (typically palm-sized)" / / />}}
+{{< interactive-modules/checklist-item label="Made from durable stone material (granite, sandstone, etc.)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The cup-shaped depressions are the most defining characteristic. In authentic specimens, these depressions typically:

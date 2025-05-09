@@ -80,7 +80,7 @@ The Beatles remain one of the most influential and collectible bands in music hi
 
 Beatles records vary dramatically in value—from a few dollars for common reissues to hundreds of thousands for the rarest specimens. The most valuable Beatles albums aren't necessarily just the oldest ones; often, specific pressing details, cover variations, and historical significance play crucial roles in determining their worth.
 
-{{< data-modules/stats-highlight title="Beatles Record Value Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Beatles Record Value Highlights" columns="3" / / />}}
 <tr>
   <td>Most Valuable Beatles Album</td>
   <td>~$800,000</td>
@@ -162,14 +162,14 @@ The value of Beatles records depends on multiple factors beyond just the album t
 ![Original UK mono pressing of Beatles album showing the rare black and gold Parlophone label](https://ik.imagekit.io/appraisily/SEO/old-beatles-records-value/old-beatles-records-value-image-3_vLBFJMJg1.png)
 
 {{< interactive-modules/condition-checklist title="Beatles Record Value Factors" description="Key elements that determine an old Beatles record's value" >}}
-  {{< interactive-modules/checklist-item label="Pressing Country and Label" / />}}
-  {{< interactive-modules/checklist-item label="Mono vs. Stereo Format" / />}}
-  {{< interactive-modules/checklist-item label="Matrix/Runout Numbers and Stamper Details" / />}}
-  {{< interactive-modules/checklist-item label="Overall Condition (Vinyl and Cover)" / />}}
-  {{< interactive-modules/checklist-item label="Presence of Original Inserts" / />}}
-  {{< interactive-modules/checklist-item label="Release Year and Pressing Sequence" / />}}
-  {{< interactive-modules/checklist-item label="Cover Variations and Unique Features" / />}}
-  {{< interactive-modules/checklist-item label="Historical Significance" / />}}
+  {{< interactive-modules/checklist-item label="Pressing Country and Label" / / />}}
+  {{< interactive-modules/checklist-item label="Mono vs. Stereo Format" / / />}}
+  {{< interactive-modules/checklist-item label="Matrix/Runout Numbers and Stamper Details" / / />}}
+  {{< interactive-modules/checklist-item label="Overall Condition (Vinyl and Cover)" / / />}}
+  {{< interactive-modules/checklist-item label="Presence of Original Inserts" / / />}}
+  {{< interactive-modules/checklist-item label="Release Year and Pressing Sequence" / / />}}
+  {{< interactive-modules/checklist-item label="Cover Variations and Unique Features" / / />}}
+  {{< interactive-modules/checklist-item label="Historical Significance" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Country of Origin and Label

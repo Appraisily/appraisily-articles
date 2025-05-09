@@ -79,7 +79,7 @@ Several important factors influence the value of antique spinning wheels, from a
 
 Antique spinning wheels can vary dramatically in value based on several critical factors. Understanding these elements will help you better assess the potential worth of any spinning wheel you encounter.
 
-{{< data-modules/stats-highlight title="Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Determinants" columns="3" / / />}}
 
 ### Age and Historical Significance
 
@@ -96,13 +96,13 @@ Use this checklist to evaluate the condition of an antique spinning wheel, which
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Spinning Wheel Condition Factors" description="Evaluate the following elements to assess overall condition" >}}
-{{< interactive-modules/checklist-item label="All original parts present (wheel, flyer, bobbin, etc.)" / />}}
-{{< interactive-modules/checklist-item label="Wheel turns smoothly without wobbling" / />}}
-{{< interactive-modules/checklist-item label="No missing spokes or damaged components" / />}}
-{{< interactive-modules/checklist-item label="Original finish or historically appropriate restoration" / />}}
-{{< interactive-modules/checklist-item label="Drive band/tension system intact and functional" / />}}
-{{< interactive-modules/checklist-item label="No significant cracks, breaks, or repairs" / />}}
-{{< interactive-modules/checklist-item label="Flyer assembly complete and operational" / />}}
+{{< interactive-modules/checklist-item label="All original parts present (wheel, flyer, bobbin, etc.)" / / />}}
+{{< interactive-modules/checklist-item label="Wheel turns smoothly without wobbling" / / />}}
+{{< interactive-modules/checklist-item label="No missing spokes or damaged components" / / />}}
+{{< interactive-modules/checklist-item label="Original finish or historically appropriate restoration" / / />}}
+{{< interactive-modules/checklist-item label="Drive band/tension system intact and functional" / / />}}
+{{< interactive-modules/checklist-item label="No significant cracks, breaks, or repairs" / / />}}
+{{< interactive-modules/checklist-item label="Flyer assembly complete and operational" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Craftsmanship and Design
@@ -288,7 +288,7 @@ The condition of a spinning wheel dramatically affects its market value:
 
 An interesting aspect of the antique spinning wheel market is the distinction between wheels valued for decoration versus functionality:
 
-{{< data-modules/stats-highlight title="Market Value Dynamics" columns="2" / />}}
+{{< data-modules/stats-highlight title="Market Value Dynamics" columns="2" / / />}}
 
 As noted by an expert appraiser on [JustAnswer](https://www.justanswer.com/appraisals/mphr8-antique-spinning-wheel-belonged-great.html), "Spinning wheels sell mostly for their decorative merits alone nowadays. The very large and finely crafted ones can sell for CAD $1,000 to $2,000."
 

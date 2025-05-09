@@ -194,13 +194,13 @@ According to [The Lampworks](http://www.thelampworks.com/lw_info_burner_id.htm):
 Many burners include patent dates stamped into the metal, which provide a minimum age for the lamp. Remember that a burner dated 1872 means the lamp cannot be older than that date, but could be newer if the burner was replaced.
 
 {{< interactive-modules/condition-checklist title="Antique Oil Lamp Authentication Checklist" description="Use this checklist to assess whether an oil lamp is genuinely antique:" >}}
-  {{< interactive-modules/checklist-item label="Glass components show age-appropriate wear and manufacturing methods" / />}}
-  {{< interactive-modules/checklist-item label="Metal has natural patina consistent with age (not artificially applied)" / />}}
-  {{< interactive-modules/checklist-item label="Burner mechanism matches the appropriate historical period" / />}}
-  {{< interactive-modules/checklist-item label="Under black light, glass components show period-appropriate joining methods" / />}}
-  {{< interactive-modules/checklist-item label="Any manufacturer marks are authentic and consistent with the lamp's style" / />}}
-  {{< interactive-modules/checklist-item label="Font and base proportions are appropriate for the style and period" / />}}
-  {{< interactive-modules/checklist-item label="Chimney (if present) is appropriate for the burner type" / />}}
+  {{< interactive-modules/checklist-item label="Glass components show age-appropriate wear and manufacturing methods" / / />}}
+  {{< interactive-modules/checklist-item label="Metal has natural patina consistent with age (not artificially applied)" / / />}}
+  {{< interactive-modules/checklist-item label="Burner mechanism matches the appropriate historical period" / / />}}
+  {{< interactive-modules/checklist-item label="Under black light, glass components show period-appropriate joining methods" / / />}}
+  {{< interactive-modules/checklist-item label="Any manufacturer marks are authentic and consistent with the lamp's style" / / />}}
+  {{< interactive-modules/checklist-item label="Font and base proportions are appropriate for the style and period" / / />}}
+  {{< interactive-modules/checklist-item label="Chimney (if present) is appropriate for the burner type" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Vintage kerosene lamp with green glass font and ornate brass base](https://paxtonhardware.com/cdn/shop/products/LPC09K.jpg?v=1579915951)
@@ -272,7 +272,7 @@ Complete lamps with all original components are significantly more valuable than
 - Original wick adjusting mechanisms
 - Original decorative elements
 
-{{< data-modules/stats-highlight title="Market Trends for Antique Oil Lamps" columns="3" / />}}
+{{< data-modules/stats-highlight title="Market Trends for Antique Oil Lamps" columns="3" / / />}}
 
 {{< data-modules/price-table title="Antique Oil Lamp Price Ranges" description="Current market values based on style, age, and condition" >}}
   <tr>

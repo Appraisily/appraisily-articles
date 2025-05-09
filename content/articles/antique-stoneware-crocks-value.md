@@ -138,7 +138,7 @@ Several key factors determine the value of antique stoneware crocks, from age an
 
 ![Guide to Antique Crocks showing value indicators](https://cf.ltkcdn.net/www/images/std-xs/347789-340x340-vintage-crock-il_1588xN.5081647019_exlv.jpg)
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
 
 ### 1. Age and Rarity
 
@@ -371,16 +371,16 @@ Properly assessing condition is crucial when valuing antique stoneware crocks. U
 ![Antique stoneware crock from Circa 1857](http://www.circa1857br.com/cdn/shop/files/IMG-7938.jpg?v=1691272152)
 
 {{< interactive-modules/condition-checklist title="Stoneware Condition Evaluation" description="Check all items that apply to your crock" >}}
-  {{< interactive-modules/checklist-item label="No cracks or hairline fractures" / />}}
-  {{< interactive-modules/checklist-item label="Original handles intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No chips around rim or base" / />}}
-  {{< interactive-modules/checklist-item label="Original lid present (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No significant glaze flaking or wear" / />}}
-  {{< interactive-modules/checklist-item label="Decoration is clear and unfaded" / />}}
-  {{< interactive-modules/checklist-item label="No visible repairs or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="No significant staining or interior discoloration" / />}}
-  {{< interactive-modules/checklist-item label="No crazing (network of tiny cracks) in the glaze" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or hairline fractures" / / />}}
+  {{< interactive-modules/checklist-item label="Original handles intact (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No chips around rim or base" / / />}}
+  {{< interactive-modules/checklist-item label="Original lid present (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No significant glaze flaking or wear" / / />}}
+  {{< interactive-modules/checklist-item label="Decoration is clear and unfaded" / / />}}
+  {{< interactive-modules/checklist-item label="No visible repairs or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark clearly visible" / / />}}
+  {{< interactive-modules/checklist-item label="No significant staining or interior discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="No crazing (network of tiny cracks) in the glaze" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Understanding Damage and Repairs

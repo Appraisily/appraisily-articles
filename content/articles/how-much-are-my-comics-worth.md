@@ -101,7 +101,7 @@ Comic books are more than just entertainment—they're cultural artifacts and po
 
 If you've ever wondered "how much are my comics worth?" you're not alone. Comic book valuation can seem daunting, but with the right information and resources, you can accurately assess your collection's value. This comprehensive guide will walk you through everything you need to know about determining the worth of your comic books.
 
-{{< data-modules/stats-highlight title="Comic Book Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Comic Book Market at a Glance" columns="3" / / />}}
 <div class="stat-card blue">
   <div class="stat-value">$12.3M</div>
   <div class="stat-label">Record Sale</div>
@@ -137,14 +137,14 @@ Comics featuring the first appearance, origin story, or death of major character
 Perhaps the most critical factor in determining a comic's value is its condition. Comics in pristine condition are worth significantly more than those with damage or wear.
 
 {{< interactive-modules/condition-checklist title="Comic Book Condition Assessment" description="Check applicable items to estimate your comic's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Pages are white or off-white with no discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Cover is glossy with vibrant colors" / />}}
-  {{< interactive-modules/checklist-item label="No creases, bends, or folds visible" / />}}
-  {{< interactive-modules/checklist-item label="Spine is tight and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="All pages are intact with no tears" / />}}
-  {{< interactive-modules/checklist-item label="Staples show no rust and are firmly attached" / />}}
-  {{< interactive-modules/checklist-item label="No writing, stains, or other marks" / />}}
-  {{< interactive-modules/checklist-item label="Original inserts (if any) are present" / />}}
+  {{< interactive-modules/checklist-item label="Pages are white or off-white with no discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Cover is glossy with vibrant colors" / / />}}
+  {{< interactive-modules/checklist-item label="No creases, bends, or folds visible" / / />}}
+  {{< interactive-modules/checklist-item label="Spine is tight and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="All pages are intact with no tears" / / />}}
+  {{< interactive-modules/checklist-item label="Staples show no rust and are firmly attached" / / />}}
+  {{< interactive-modules/checklist-item label="No writing, stains, or other marks" / / />}}
+  {{< interactive-modules/checklist-item label="Original inserts (if any) are present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Professional Grading

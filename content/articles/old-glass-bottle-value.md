@@ -110,7 +110,7 @@ Several key factors determine whether that old bottle gathering dust is worth a 
 
 ![Rare cobalt blue antique medicine bottle with embossed lettering](https://ik.imagekit.io/appraisily/SEO/old-glass-bottle-value/old-glass-bottle-value-image-2_mxmpd8YXO.png)
 
-{{< data-modules/stats-highlight title="Key Value Factors for Antique Bottles" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for Antique Bottles" columns="3" / / />}}
 
 ### Age and Rarity
 
@@ -135,12 +135,12 @@ Common condition issues include:
 - Significant scratching or wear
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment" description="Check applicable items to determine condition quality" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks present anywhere on the bottle" / />}}
-  {{< interactive-modules/checklist-item label="Original closure or stopper is intact" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or wear marks" / />}}
-  {{< interactive-modules/checklist-item label="Interior is clean with no residue or staining" / />}}
-  {{< interactive-modules/checklist-item label="Original labels are present and legible (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Embossing is sharp and clearly defined" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks present anywhere on the bottle" / / />}}
+  {{< interactive-modules/checklist-item label="Original closure or stopper is intact" / / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or wear marks" / / />}}
+  {{< interactive-modules/checklist-item label="Interior is clean with no residue or staining" / / />}}
+  {{< interactive-modules/checklist-item label="Original labels are present and legible (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Embossing is sharp and clearly defined" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

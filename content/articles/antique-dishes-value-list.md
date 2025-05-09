@@ -86,7 +86,7 @@ Antique dishes aren't just vessels for food—they're windows into history, art,
 
 In this comprehensive guide, we'll explore what makes antique dishes valuable, showcase some of the world's most expensive examples, provide price ranges for popular patterns, and share expert tips for identifying potentially valuable pieces in your collection. With the right information, you might discover that the old china in your cabinet is worth far more than you realized.
 
-{{< data-modules/stats-highlight title="Antique Dish Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Dish Market Highlights" columns="3" / / />}}
 <div class="stat-card green">
   <div class="stat-value">$27M</div>
   <div class="stat-label">Record Sale</div>
@@ -198,14 +198,14 @@ Before you can determine the value of your antique dishes, you need to properly 
 ![Close-up of antique dish backstamp showing maker's mark and pattern information](https://ik.imagekit.io/appraisily/SEO/antique-dishes-value-list/antique-dishes-value-list-image-3_q7fxpRLHj.png)
 
 {{< interactive-modules/condition-checklist title="Antique Dish Identification Checklist" description="Key elements to check when identifying your antique dishes" >}}
-  {{< interactive-modules/checklist-item label="Look for backstamps or maker's marks" / />}}
-  {{< interactive-modules/checklist-item label="Note the pattern name if visible" / />}}
-  {{< interactive-modules/checklist-item label="Examine the quality of decoration and materials" / />}}
-  {{< interactive-modules/checklist-item label="Check for handpainted vs. transfer printing" / />}}
-  {{< interactive-modules/checklist-item label="Consider the weight and translucency" / />}}
-  {{< interactive-modules/checklist-item label="Look for gold or platinum edging" / />}}
-  {{< interactive-modules/checklist-item label="Search for any damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Note any unusual shapes or forms" / />}}
+  {{< interactive-modules/checklist-item label="Look for backstamps or maker's marks" / / />}}
+  {{< interactive-modules/checklist-item label="Note the pattern name if visible" / / />}}
+  {{< interactive-modules/checklist-item label="Examine the quality of decoration and materials" / / />}}
+  {{< interactive-modules/checklist-item label="Check for handpainted vs. transfer printing" / / />}}
+  {{< interactive-modules/checklist-item label="Consider the weight and translucency" / / />}}
+  {{< interactive-modules/checklist-item label="Look for gold or platinum edging" / / />}}
+  {{< interactive-modules/checklist-item label="Search for any damage or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Note any unusual shapes or forms" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Reading Backstamps and Maker's Marks

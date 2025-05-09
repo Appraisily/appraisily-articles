@@ -94,7 +94,7 @@ Though Disney Dollars were sold at face value when first introduced, many have s
 
 For collectors, however, Disney Dollars are worth far more than their face value, with some rare specimens commanding premium prices in the collectibles market.
 
-{{< data-modules/stats-highlight title="Disney Dollars Fast Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Disney Dollars Fast Facts" columns="3" / / />}}
 - **172** - Total varieties of Disney Dollars produced
 - **1987** - Year Disney Dollars were first introduced
 - **2016** - Year Disney stopped producing new Disney Dollars
@@ -210,14 +210,14 @@ Several key factors influence the collector value of Disney Dollars beyond just 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Disney Dollar Value Factors" description="Characteristics that increase the value of Disney Dollars" >}}
-  {{< interactive-modules/checklist-item label="Mint Condition (Uncirculated)" / />}}
-  {{< interactive-modules/checklist-item label="Sequential or Special Serial Numbers" / />}}
-  {{< interactive-modules/checklist-item label="Limited Edition Designs" / />}}
-  {{< interactive-modules/checklist-item label="Anniversary or Commemorative Issues" / />}}
-  {{< interactive-modules/checklist-item label="Character Rarity (Less Common Characters)" / />}}
-  {{< interactive-modules/checklist-item label="First or Last Year of Issue" / />}}
-  {{< interactive-modules/checklist-item label="Special Printing Errors" / />}}
-  {{< interactive-modules/checklist-item label="Complete Sets with Original Packaging" / />}}
+  {{< interactive-modules/checklist-item label="Mint Condition (Uncirculated)" / / />}}
+  {{< interactive-modules/checklist-item label="Sequential or Special Serial Numbers" / / />}}
+  {{< interactive-modules/checklist-item label="Limited Edition Designs" / / />}}
+  {{< interactive-modules/checklist-item label="Anniversary or Commemorative Issues" / / />}}
+  {{< interactive-modules/checklist-item label="Character Rarity (Less Common Characters)" / / />}}
+  {{< interactive-modules/checklist-item label="First or Last Year of Issue" / / />}}
+  {{< interactive-modules/checklist-item label="Special Printing Errors" / / />}}
+  {{< interactive-modules/checklist-item label="Complete Sets with Original Packaging" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Assessment

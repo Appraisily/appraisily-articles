@@ -119,7 +119,7 @@ Antique book values can range from a few dollars to hundreds of thousands—or e
 
 But what makes a book valuable? How can you determine if the old volumes gathering dust in your attic are worth a small fortune or just sentimental keepsakes? This comprehensive guide will walk you through the appraisal process, key value factors, and how to connect with professional appraisers.
 
-{{< data-modules/stats-highlight title="Antique Book Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Book Market Facts" columns="3" / / />}}
 
 ## Key Factors That Determine Antique Book Value
 
@@ -180,13 +180,13 @@ The rare book trade uses specific terminology to describe condition:
 For collectible books, common condition issues that affect value include:
 
 {{< interactive-modules/condition-checklist title="Common Book Condition Issues" description="Check for these problems when assessing book condition" >}}
-{{< interactive-modules/checklist-item label="Foxing (brown spots on pages)" / />}}
-{{< interactive-modules/checklist-item label="Loose or detached pages" / />}}
-{{< interactive-modules/checklist-item label="Damaged spine or binding" / />}}
-{{< interactive-modules/checklist-item label="Water damage or stains" / />}}
-{{< interactive-modules/checklist-item label="Torn or missing dust jacket (for 20th-century books)" / />}}
-{{< interactive-modules/checklist-item label="Previous owner inscriptions or library markings" / />}}
-{{< interactive-modules/checklist-item label="Sunning (fading from light exposure)" / />}}
+{{< interactive-modules/checklist-item label="Foxing (brown spots on pages)" / / />}}
+{{< interactive-modules/checklist-item label="Loose or detached pages" / / />}}
+{{< interactive-modules/checklist-item label="Damaged spine or binding" / / />}}
+{{< interactive-modules/checklist-item label="Water damage or stains" / / />}}
+{{< interactive-modules/checklist-item label="Torn or missing dust jacket (for 20th-century books)" / / />}}
+{{< interactive-modules/checklist-item label="Previous owner inscriptions or library markings" / / />}}
+{{< interactive-modules/checklist-item label="Sunning (fading from light exposure)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Provenance and Association" level="3" >}}

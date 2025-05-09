@@ -97,7 +97,7 @@ Antique shuffleboard tables represent a fascinating intersection of gaming histo
   Antique shuffleboard tables typically range from $1,000 to $16,000+ depending on brand, condition, age, and restoration quality. Legendary brands like Rock-Ola command premium prices, while fully restored vintage tables from professional companies can fetch $14,000 or more.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Shuffleboard Table Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Shuffleboard Table Value Factors" columns="3" / / />}}
 
 - Brand name (Rock-Ola, American, Champion)
 - Length (longer tables are more valuable)
@@ -219,14 +219,14 @@ Several other manufacturers produced quality shuffleboard tables that now hold c
 The condition of an antique shuffleboard table significantly impacts its value. Use this checklist to evaluate a table's condition:
 
 {{< interactive-modules/condition-checklist title="Shuffleboard Table Condition Assessment" description="Check all items that apply to determine condition rating" >}}
-  {{< interactive-modules/checklist-item label="Playing surface is level and free of major warping" / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="All original scoring mechanisms function properly" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet and legs show minimal damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Playing surface provides smooth, consistent puck movement" / />}}
-  {{< interactive-modules/checklist-item label="Table is structurally sound without wobbling" / />}}
-  {{< interactive-modules/checklist-item label="Original markings and playing lines are visible" / />}}
+  {{< interactive-modules/checklist-item label="Playing surface is level and free of major warping" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="All original scoring mechanisms function properly" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet and legs show minimal damage or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Playing surface provides smooth, consistent puck movement" / / />}}
+  {{< interactive-modules/checklist-item label="Table is structurally sound without wobbling" / / />}}
+  {{< interactive-modules/checklist-item label="Original markings and playing lines are visible" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 A table's condition has an enormous impact on its value. According to an antiques expert on [Just Answer](https://www.justanswer.com/antiques/n0op9-need-value-1950-s-era-22-foot-shuffleboard-game.html), a 1950s era 22-foot shuffleboard table can range from $2,000 to $4,000 based solely on condition differences.

@@ -168,7 +168,7 @@ The 1955 original can commands the highest premium due to its historical signifi
 
 According to a [Reddit thread in the breweriana community](https://www.reddit.com/r/breweriana/comments/10nsiln/i_have_a_69_olde_frothingslosh_unopened_can_and/), unopened cans from the late 1960s are becoming exceedingly rare, with collectors noting that "there is nothing right now on the market that is an unopened can," potentially allowing sellers to set higher price points for these pristine specimens.
 
-{{< data-modules/stats-highlight title="Olde Frothingslosh Collecting Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Olde Frothingslosh Collecting Statistics" columns="3" / / />}}
 
 {{< content-modules/section-header title="Factors Affecting Olde Frothingslosh Can Values" level="2" >}}
 The market value of Olde Frothingslosh beer cans varies significantly based on several key factors. Understanding these elements can help collectors accurately assess the worth of their breweriana items.
@@ -179,14 +179,14 @@ The market value of Olde Frothingslosh beer cans varies significantly based on s
 The condition of a beer can is perhaps the single most important factor in determining its value. For Olde Frothingslosh cans, condition becomes even more critical due to their age and the changing materials used over the decades.
 
 {{< interactive-modules/condition-checklist title="Olde Frothingslosh Condition Assessment" description="Check applicable items to gauge the condition of your can" >}}
-  {{< interactive-modules/checklist-item label="No rust spots or oxidation" / />}}
-  {{< interactive-modules/checklist-item label="Original colors vibrant with no fading" / />}}
-  {{< interactive-modules/checklist-item label="No dents or crushing" / />}}
-  {{< interactive-modules/checklist-item label="Original pull tab intact (for applicable models)" / />}}
-  {{< interactive-modules/checklist-item label="Clean interior with no residue" / />}}
-  {{< interactive-modules/checklist-item label="All text and graphics fully legible" / />}}
-  {{< interactive-modules/checklist-item label="Original shine maintained" / />}}
-  {{< interactive-modules/checklist-item label="No scratches or paint loss" / />}}
+  {{< interactive-modules/checklist-item label="No rust spots or oxidation" / / />}}
+  {{< interactive-modules/checklist-item label="Original colors vibrant with no fading" / / />}}
+  {{< interactive-modules/checklist-item label="No dents or crushing" / / />}}
+  {{< interactive-modules/checklist-item label="Original pull tab intact (for applicable models)" / / />}}
+  {{< interactive-modules/checklist-item label="Clean interior with no residue" / / />}}
+  {{< interactive-modules/checklist-item label="All text and graphics fully legible" / / />}}
+  {{< interactive-modules/checklist-item label="Original shine maintained" / / />}}
+  {{< interactive-modules/checklist-item label="No scratches or paint loss" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Production Year and Rarity

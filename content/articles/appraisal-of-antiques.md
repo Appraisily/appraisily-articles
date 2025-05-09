@@ -118,7 +118,7 @@ According to the [Liberty Mutual insurance resource](https://www.libertymutual.c
 
 The purpose of your appraisal will determine the type of evaluation needed. Different situations call for different appraisal approaches:
 
-{{< data-modules/stats-highlight title="Common Appraisal Purposes" columns="3" / />}}
+{{< data-modules/stats-highlight title="Common Appraisal Purposes" columns="3" / / />}}
 
 1. **Insurance Appraisals**: Determine replacement value for coverage purposes
 2. **Estate Appraisals**: Establish fair market value for inheritance distribution or tax purposes
@@ -145,13 +145,13 @@ Understanding how professional appraisers evaluate antiques can help you prepare
 7. **Report Preparation**: Comprehensive documentation of findings and valuation
 
 {{< interactive-modules/condition-checklist title="What Appraisers Evaluate" description="Key factors professionals consider when appraising antiques" >}}
-  {{< interactive-modules/checklist-item label="Authenticity: Is the item genuine or a reproduction?" / />}}
-  {{< interactive-modules/checklist-item label="Provenance: Can ownership history be documented?" / />}}
-  {{< interactive-modules/checklist-item label="Condition: What is the item's current state?" / />}}
-  {{< interactive-modules/checklist-item label="Rarity: How uncommon is the item?" / />}}
-  {{< interactive-modules/checklist-item label="Quality: How well was it made originally?" / />}}
-  {{< interactive-modules/checklist-item label="Historical significance: Does it have cultural importance?" / />}}
-  {{< interactive-modules/checklist-item label="Market demand: Is there current interest from collectors?" / />}}
+  {{< interactive-modules/checklist-item label="Authenticity: Is the item genuine or a reproduction?" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance: Can ownership history be documented?" / / />}}
+  {{< interactive-modules/checklist-item label="Condition: What is the item's current state?" / / />}}
+  {{< interactive-modules/checklist-item label="Rarity: How uncommon is the item?" / / />}}
+  {{< interactive-modules/checklist-item label="Quality: How well was it made originally?" / / />}}
+  {{< interactive-modules/checklist-item label="Historical significance: Does it have cultural importance?" / / />}}
+  {{< interactive-modules/checklist-item label="Market demand: Is there current interest from collectors?" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [Fontaine's Auction Gallery](https://www.fontainesauction.com/antique-furniture-appraisal/), "When we perform an antique furniture appraisal, we evaluate the style and material of the furniture and assign a date to it. We also look for defects and restoration."

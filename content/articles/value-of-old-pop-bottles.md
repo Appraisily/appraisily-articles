@@ -43,7 +43,7 @@ The manufacturing process used to create the bottle significantly impacts its va
 - **ACL (Applied Color Label) bottles**: Starting in the 1930s, these feature painted labels fired onto the glass.
 - **Hutchinson-style bottles**: Used from 1879-1912 with a distinctive internal stopper mechanism.
 
-{{< data-modules/stats-highlight title="Soda Bottle Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Soda Bottle Value Factors" columns="3" / / />}}
 
 ### Geographic Origin
 
@@ -54,11 +54,11 @@ Bottles from certain regions can demand higher prices. Hawaiian, Alaskan, and Te
 As with most collectibles, condition is paramount:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that affect bottle value based on condition" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or flaking ACL paint" / />}}
-  {{< interactive-modules/checklist-item label="Original closure or cap (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Strong, clear embossing or ACL design" / />}}
-  {{< interactive-modules/checklist-item label="Minimal or no staining" / />}}
-  {{< interactive-modules/checklist-item label="No case wear on embossing" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or flaking ACL paint" / / />}}
+  {{< interactive-modules/checklist-item label="Original closure or cap (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Strong, clear embossing or ACL design" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal or no staining" / / />}}
+  {{< interactive-modules/checklist-item label="No case wear on embossing" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Brand Recognition and Historical Significance

@@ -110,7 +110,7 @@ The fall of the Qing Dynasty in 1911 and the establishment of the Republic of Ch
 
 ![Rare Guangxu Period silver coin from the late Qing Dynasty showing imperial dragon design](https://ik.imagekit.io/appraisily/SEO/old-chinese-silver-coins-value/old-chinese-silver-coins-value-image-2_p17-nfv9r.png)
 
-{{< data-modules/stats-highlight title="Chinese Silver Coin Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Chinese Silver Coin Market Highlights" columns="3" / / />}}
   <div class="stat-card">
     <div class="stat-value">$500,000+</div>
     <div class="stat-label">Auction record for rare patterns</div>
@@ -232,14 +232,14 @@ The condition of a coin dramatically affects its value, with pristine uncirculat
 Third-party certification from respected grading services like PCGS or NGC adds significant confidence and typically increases a coin's market value by confirming authenticity and condition.
 
 {{< interactive-modules/condition-checklist title="Chinese Silver Coin Condition Assessment" description="Check applicable items to help determine your coin's condition" >}}
-  {{< interactive-modules/checklist-item label="All lettering is clear and fully visible" / />}}
-  {{< interactive-modules/checklist-item label="Dragon scales or portrait details are sharp and well-defined" / />}}
-  {{< interactive-modules/checklist-item label="Original luster is present with minimal dulling" / />}}
-  {{< interactive-modules/checklist-item label="No visible scratches under normal viewing" / />}}
-  {{< interactive-modules/checklist-item label="No evidence of cleaning or polishing" / />}}
-  {{< interactive-modules/checklist-item label="Edge details and reeding are intact" / />}}
-  {{< interactive-modules/checklist-item label="No corrosion, spotting, or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="No rim damage or bumps" / />}}
+  {{< interactive-modules/checklist-item label="All lettering is clear and fully visible" / / />}}
+  {{< interactive-modules/checklist-item label="Dragon scales or portrait details are sharp and well-defined" / / />}}
+  {{< interactive-modules/checklist-item label="Original luster is present with minimal dulling" / / />}}
+  {{< interactive-modules/checklist-item label="No visible scratches under normal viewing" / / />}}
+  {{< interactive-modules/checklist-item label="No evidence of cleaning or polishing" / / />}}
+  {{< interactive-modules/checklist-item label="Edge details and reeding are intact" / / />}}
+  {{< interactive-modules/checklist-item label="No corrosion, spotting, or discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="No rim damage or bumps" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authenticity Concerns

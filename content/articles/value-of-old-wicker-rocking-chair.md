@@ -120,7 +120,7 @@ Wicker rocking chairs first gained popularity in the Victorian era (1837-1901) a
 
 In this comprehensive guide, we'll explore the factors that influence wicker rocking chair values, how to identify different styles and periods, current market prices, and where to buy or sell these charming pieces of furniture history.
 
-{{< data-modules/stats-highlight title="Wicker Rocking Chair Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Wicker Rocking Chair Market at a Glance" columns="3" / / />}}
 
 {{< content-modules/section-header title="Key Factors That Determine Value" level="2" >}}
 Several critical factors influence the value of an antique or vintage wicker rocking chair. Understanding these elements will help you assess the potential worth of your piece.
@@ -155,14 +155,14 @@ A chair with documented history, especially one with famous ownership or from a 
 The condition of a wicker rocking chair is perhaps the most crucial factor affecting its value. Unlike some antiques where patina adds charm, wicker furniture with significant damage loses substantial value.
 
 {{< interactive-modules/condition-checklist title="Wicker Chair Condition Assessment" description="Check applicable items to help determine your chair's condition grade" >}}
-{{< interactive-modules/checklist-item label="Structural integrity - chair is stable with no wobbling" / />}}
-{{< interactive-modules/checklist-item label="Original wicker is intact with minimal breaks or missing pieces" / />}}
-{{< interactive-modules/checklist-item label="Original finish/paint in good condition" / />}}
-{{< interactive-modules/checklist-item label="No significant repairs or replaced parts" / />}}
-{{< interactive-modules/checklist-item label="Rockers show even, moderate wear consistent with age" / />}}
-{{< interactive-modules/checklist-item label="Original cushions or upholstery (if applicable)" / />}}
-{{< interactive-modules/checklist-item label="Tight weaving with no significant looseness" / />}}
-{{< interactive-modules/checklist-item label="No evidence of insect damage or rot" / />}}
+{{< interactive-modules/checklist-item label="Structural integrity - chair is stable with no wobbling" / / />}}
+{{< interactive-modules/checklist-item label="Original wicker is intact with minimal breaks or missing pieces" / / />}}
+{{< interactive-modules/checklist-item label="Original finish/paint in good condition" / / />}}
+{{< interactive-modules/checklist-item label="No significant repairs or replaced parts" / / />}}
+{{< interactive-modules/checklist-item label="Rockers show even, moderate wear consistent with age" / / />}}
+{{< interactive-modules/checklist-item label="Original cushions or upholstery (if applicable)" / / />}}
+{{< interactive-modules/checklist-item label="Tight weaving with no significant looseness" / / />}}
+{{< interactive-modules/checklist-item label="No evidence of insect damage or rot" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 While minor repairs can be acceptable, extensive restoration may decrease value for serious collectors who prefer original condition. However, a professionally restored piece in excellent condition may be more marketable to casual buyers than an all-original piece with significant damage.

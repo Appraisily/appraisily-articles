@@ -79,12 +79,12 @@ The age and scarcity of a fire grenade significantly impacts its value. Earlier 
 Condition is perhaps the most critical factor in valuation:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Glass Fire Extinguishers" description="Check applicable items to determine overall condition" >}}
-  {{< interactive-modules/checklist-item label="Complete glass integrity with no cracks or chips" / />}}
-  {{< interactive-modules/checklist-item label="Original liquid contents still present and sealed" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossed manufacturer markings" / />}}
-  {{< interactive-modules/checklist-item label="Original mounting hardware or brackets included" / />}}
-  {{< interactive-modules/checklist-item label="Original paint or finish in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Matching set or complete system intact" / />}}
+  {{< interactive-modules/checklist-item label="Complete glass integrity with no cracks or chips" / / />}}
+  {{< interactive-modules/checklist-item label="Original liquid contents still present and sealed" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossed manufacturer markings" / / />}}
+  {{< interactive-modules/checklist-item label="Original mounting hardware or brackets included" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint or finish in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Matching set or complete system intact" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color and Decorative Elements
@@ -110,7 +110,7 @@ Certain manufacturers are known for higher quality or more decorative designs. A
 
 Complete systems with original mounting brackets, wall fixtures, or display elements are worth considerably more than the glass components alone. For example, a complete AutoFyrStop system with the original ceiling mount and decorative cage can be worth 3-5 times more than just the glass bulb.
 
-{{< data-modules/stats-highlight title="Key Value Indicators" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Indicators" columns="3" / / />}}
 
 {{< content-modules/section-header title="Current Market Values" level="2" >}}
   Market prices for antique glass fire extinguishers vary widely based on type, condition, and rarity. Here are current value ranges based on recent auction results and dealer prices.

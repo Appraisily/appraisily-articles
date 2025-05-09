@@ -100,7 +100,7 @@ Several key factors influence antique telephone values, with condition and rarit
 
 ![Luxury antique European-style telephone with gold detailing](https://i.ebayimg.com/images/g/FsoAAOSwdGFYz54J/s-l1200.jpg)
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
 
 ### Age and Rarity
 
@@ -220,16 +220,16 @@ Properly evaluating the condition of an antique telephone is crucial for determi
 ![Detailed image of vintage rotary phone showing condition elements](https://i0.wp.com/worldart.news/wp-content/uploads/2022/04/20220406_093135.jpg?fit=3024%2C3024&quality=89&ssl=1)
 
 {{< interactive-modules/condition-checklist title="Antique Telephone Condition Assessment" description="Check all items that apply to your telephone to determine its condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="All original parts are present (no reproductions)" / />}}
-  {{< interactive-modules/checklist-item label="Handset or receiver elements are undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Original cords are present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Dial mechanism works smoothly (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Ringer/bell functions properly" / />}}
-  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to bakelite/plastic components" / />}}
-  {{< interactive-modules/checklist-item label="Metal parts show no significant rust or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Original decals or paper labels are intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Wooden components are free of splits, cracks, or water damage" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts are present (no reproductions)" / / />}}
+  {{< interactive-modules/checklist-item label="Handset or receiver elements are undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Original cords are present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Dial mechanism works smoothly (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Ringer/bell functions properly" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to bakelite/plastic components" / / />}}
+  {{< interactive-modules/checklist-item label="Metal parts show no significant rust or corrosion" / / />}}
+  {{< interactive-modules/checklist-item label="Original decals or paper labels are intact (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Wooden components are free of splits, cracks, or water damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Ratings Explained

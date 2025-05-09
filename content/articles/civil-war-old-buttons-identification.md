@@ -81,7 +81,7 @@ Civil War buttons are among the most collectible and historically significant mi
 
 Civil War buttons continue to be discovered today, whether through archaeological digs at battle sites, metal detecting in historic areas, or among family heirlooms passed down through generations. This comprehensive guide will help you identify authentic Civil War buttons, understand their historical significance, and determine their potential value in today's collector's market.
 
-{{< data-modules/stats-highlight title="Civil War Button Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Civil War Button Facts" columns="3" / / />}}
 - Union forces used over 10 million uniform buttons during the war
 - Confederate buttons are typically 10-15x rarer than Union examples
 - Well-preserved buttons with backmarks can sell for $50-$2,500+
@@ -210,12 +210,12 @@ Begin with a visual inspection looking for:
 - **Design Details**: Compare to known authentic examples in reference books
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Check these factors when authenticating Civil War buttons" >}}
-{{< interactive-modules/checklist-item label="Button shows appropriate patina for its age (150+ years)" / />}}
-{{< interactive-modules/checklist-item label="Backmark matches known Civil War era manufacturers" / />}}
-{{< interactive-modules/checklist-item label="Design is consistent with documented Civil War patterns" / />}}
-{{< interactive-modules/checklist-item label="Material appears to be period-appropriate (usually brass)" / />}}
-{{< interactive-modules/checklist-item label="Shank style matches Civil War era construction methods" / />}}
-{{< interactive-modules/checklist-item label="Weight and thickness consistent with period examples" / />}}
+{{< interactive-modules/checklist-item label="Button shows appropriate patina for its age (150+ years)" / / />}}
+{{< interactive-modules/checklist-item label="Backmark matches known Civil War era manufacturers" / / />}}
+{{< interactive-modules/checklist-item label="Design is consistent with documented Civil War patterns" / / />}}
+{{< interactive-modules/checklist-item label="Material appears to be period-appropriate (usually brass)" / / />}}
+{{< interactive-modules/checklist-item label="Shank style matches Civil War era construction methods" / / />}}
+{{< interactive-modules/checklist-item label="Weight and thickness consistent with period examples" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Backmark Analysis

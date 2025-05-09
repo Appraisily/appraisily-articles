@@ -161,7 +161,7 @@ Condition dramatically impacts value, with exceptional examples commanding premi
 - **Fair**: Significant wear, may need restoration, missing components (20-40% of potential value)
 - **Poor**: Major damage, significant parts missing, extensive restoration required (10-25% of potential value)
 
-{{< data-modules/stats-highlight title="Steamer Trunk Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Steamer Trunk Value Factors" columns="3" / / />}}
 
 ### Age and Historical Significance
 
@@ -268,15 +268,15 @@ Several characteristics can help determine your trunk's age:
    - Early synthetic linings (post-1920s)
 
 {{< interactive-modules/condition-checklist title="Steamer Trunk Identification Checklist" description="Use this checklist to help identify your trunk's key features" >}}
-  {{< interactive-modules/checklist-item label="Manufacturer label or mark is present" / />}}
-  {{< interactive-modules/checklist-item label="Has flat top (true steamer trunk design)" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware is intact" / />}}
-  {{< interactive-modules/checklist-item label="Interior compartments/trays are present" / />}}
-  {{< interactive-modules/checklist-item label="Canvas/leather covering is original" / />}}
-  {{< interactive-modules/checklist-item label="Wood slat reinforcements on exterior" / />}}
-  {{< interactive-modules/checklist-item label="Original lock mechanism functions" / />}}
-  {{< interactive-modules/checklist-item label="Travel/shipping labels are present" / />}}
-  {{< interactive-modules/checklist-item label="Interior lining is original" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer label or mark is present" / / />}}
+  {{< interactive-modules/checklist-item label="Has flat top (true steamer trunk design)" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware is intact" / / />}}
+  {{< interactive-modules/checklist-item label="Interior compartments/trays are present" / / />}}
+  {{< interactive-modules/checklist-item label="Canvas/leather covering is original" / / />}}
+  {{< interactive-modules/checklist-item label="Wood slat reinforcements on exterior" / / />}}
+  {{< interactive-modules/checklist-item label="Original lock mechanism functions" / / />}}
+  {{< interactive-modules/checklist-item label="Travel/shipping labels are present" / / />}}
+  {{< interactive-modules/checklist-item label="Interior lining is original" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Trunk Styles

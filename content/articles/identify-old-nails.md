@@ -130,7 +130,7 @@ Wrought nails, hand-forged by blacksmiths until around 1800, have distinctive fe
 
 Wrought nails hold a special place in architectural history. According to the [Real or Repro guide on nail identification](https://www.realorrepro.com/article/Nails-as-clues-to-age), the earliest forged nails are immediately identifiable by their irregular shanks and distinctive hammer marks on both shanks and heads. Let's examine their key identifying features:
 
-{{< data-modules/stats-highlight title="Key Identifying Features of Wrought Nails" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Identifying Features of Wrought Nails" columns="3" / / />}}
 
 1. **Irregular Shape**: No two hand-forged nails are exactly alike. Look for slight variations in size, head shape, and overall form.
 
@@ -302,13 +302,13 @@ As recommended in the [Metal Detecting Forum](https://metaldetectingforum.com/in
 ### Tools for Field Identification
 
 {{< interactive-modules/condition-checklist title="Field Identification Kit" description="Essential tools for identifying old nails in the field" >}}
-  {{< interactive-modules/checklist-item label="Small digital caliper for measuring dimensions" / />}}
-  {{< interactive-modules/checklist-item label="Pocket magnifier (10x) for examining surface details" / />}}
-  {{< interactive-modules/checklist-item label="Small wire brush for gentle cleaning" / />}}
-  {{< interactive-modules/checklist-item label="Smartphone with nail identification reference images" / />}}
-  {{< interactive-modules/checklist-item label="Small magnet to test material properties" / />}}
-  {{< interactive-modules/checklist-item label="Small container of vinegar for material testing" / />}}
-  {{< interactive-modules/checklist-item label="Notebook for recording findings and context" / />}}
+  {{< interactive-modules/checklist-item label="Small digital caliper for measuring dimensions" / / />}}
+  {{< interactive-modules/checklist-item label="Pocket magnifier (10x) for examining surface details" / / />}}
+  {{< interactive-modules/checklist-item label="Small wire brush for gentle cleaning" / / />}}
+  {{< interactive-modules/checklist-item label="Smartphone with nail identification reference images" / / />}}
+  {{< interactive-modules/checklist-item label="Small magnet to test material properties" / / />}}
+  {{< interactive-modules/checklist-item label="Small container of vinegar for material testing" / / />}}
+  {{< interactive-modules/checklist-item label="Notebook for recording findings and context" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Special Considerations for Corroded Nails
@@ -339,7 +339,7 @@ While individual nails rarely command high prices, certain types have significan
 
 3. **Provenance Value**: Nails with documented origin from historic buildings or archaeological sites have enhanced historical and monetary value.
 
-{{< data-modules/stats-highlight title="Nail Collection Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Nail Collection Facts" columns="3" / / />}}
 
 ### Proper Storage and Display
 

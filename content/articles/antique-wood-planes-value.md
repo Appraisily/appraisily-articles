@@ -76,7 +76,7 @@ Antique wooden planes weren't merely tools—they were extensions of the craftsm
 
 Whether you're a seasoned collector, a woodworking enthusiast looking to use these historic tools, or someone who's discovered old planes in an inherited toolbox, this guide will help you navigate the complex world of antique wood plane valuation.
 
-{{< data-modules/stats-highlight title="Antique Wood Plane Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Wood Plane Market at a Glance" columns="3" / / />}}
 
 {{< content-modules/section-header title="Identifying Valuable Antique Wood Planes" level="2" >}}
 The first step in determining the value of an antique wooden plane is proper identification. Wooden planes come in various types, each designed for specific woodworking tasks, and were made by numerous manufacturers with varying levels of craftsmanship and reputation.
@@ -155,14 +155,14 @@ Several key factors determine the market value of an antique wooden plane beyond
 Condition is perhaps the most significant factor affecting value:
 
 {{< interactive-modules/condition-checklist title="Wood Plane Condition Checklist" description="Assess these elements when determining condition" >}}
-  {{< interactive-modules/checklist-item label="Body integrity - free from cracks, splits or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Blade (iron) present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Wedge is original and fits properly" / />}}
-  {{< interactive-modules/checklist-item label="Sole is relatively flat and not excessively worn" / />}}
-  {{< interactive-modules/checklist-item label="Original finish or appropriate patina present" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or stampings clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no modern replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust on metal components" / />}}
+  {{< interactive-modules/checklist-item label="Body integrity - free from cracks, splits or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Blade (iron) present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Wedge is original and fits properly" / / />}}
+  {{< interactive-modules/checklist-item label="Sole is relatively flat and not excessively worn" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish or appropriate patina present" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or stampings clearly visible" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no modern replacements)" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust on metal components" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Desirability

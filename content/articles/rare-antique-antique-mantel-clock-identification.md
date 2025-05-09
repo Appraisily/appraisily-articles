@@ -154,7 +154,7 @@ These photos will be invaluable for research and can be shared with experts for 
 
 The materials and construction methods used in a mantel clock's case provide significant clues about its age, origin, and authenticity:
 
-{{< data-modules/stats-highlight title="Case Material Indicators" columns="3" / />}}
+{{< data-modules/stats-highlight title="Case Material Indicators" columns="3" / / />}}
 
 - **Wood Types**: French clocks often featured ebonized wood or burled walnut, while American clocks commonly used oak, mahogany, or cherry. The wood type and its patina can help date the piece.
 - **Metalwork Quality**: Examine any bronze, brass, or gilt components. High-quality hand-finishing and detailed castings suggest a premium manufacturer.
@@ -218,12 +218,12 @@ Notable makers whose clocks are particularly sought after include:
 The movement—the internal mechanism that powers the clock—provides crucial information about its age, origin, and quality:
 
 {{< interactive-modules/condition-checklist title="Movement Identification Checklist" description="Key features to examine when analyzing an antique mantel clock movement" >}}
-  {{< interactive-modules/checklist-item label="Identify the winding mechanism (key-wound vs. spring-driven)" / />}}
-  {{< interactive-modules/checklist-item label="Check for strike/chime functions (count the hammers and gongs)" / />}}
-  {{< interactive-modules/checklist-item label="Note the escapement type (pendulum, balance wheel, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Look for jeweled bearings (higher quality movements)" / />}}
-  {{< interactive-modules/checklist-item label="Examine plates for material (brass, steel, cast iron)" / />}}
-  {{< interactive-modules/checklist-item label="Search for stampings, engravings or signatures" / />}}
+  {{< interactive-modules/checklist-item label="Identify the winding mechanism (key-wound vs. spring-driven)" / / />}}
+  {{< interactive-modules/checklist-item label="Check for strike/chime functions (count the hammers and gongs)" / / />}}
+  {{< interactive-modules/checklist-item label="Note the escapement type (pendulum, balance wheel, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Look for jeweled bearings (higher quality movements)" / / />}}
+  {{< interactive-modules/checklist-item label="Examine plates for material (brass, steel, cast iron)" / / />}}
+  {{< interactive-modules/checklist-item label="Search for stampings, engravings or signatures" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Movement types commonly found in antique mantel clocks include:
@@ -385,14 +385,14 @@ All original components should be present:
 - **Finials and decorative elements** - All ornamental pieces present and intact
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Factors that impact the value of an antique mantel clock" >}}
-  {{< interactive-modules/checklist-item label="Original movement in working condition" / />}}
-  {{< interactive-modules/checklist-item label="Original case with minimal restoration" / />}}
-  {{< interactive-modules/checklist-item label="Complete with pendulum, keys, and all decorative elements" / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history" / />}}
-  {{< interactive-modules/checklist-item label="Rare model or by a prestigious maker" / />}}
-  {{< interactive-modules/checklist-item label="Original finish in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Free from inappropriate repairs or modifications" / />}}
-  {{< interactive-modules/checklist-item label="Unusual features or complications" / />}}
+  {{< interactive-modules/checklist-item label="Original movement in working condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original case with minimal restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with pendulum, keys, and all decorative elements" / / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history" / / />}}
+  {{< interactive-modules/checklist-item label="Rare model or by a prestigious maker" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Free from inappropriate repairs or modifications" / / />}}
+  {{< interactive-modules/checklist-item label="Unusual features or complications" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Consulting the Experts" level="2" >}}

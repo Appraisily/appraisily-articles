@@ -144,7 +144,7 @@ Created as salesman samples, toys, or promotional items, these smaller versions 
 ### Tailor's Irons
 Heavier and often featuring distinctive shapes for specific tailoring tasks, these professional-grade irons can command higher prices.
 
-{{< data-modules/stats-highlight title="Antique Iron Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Iron Market Highlights" columns="3" / / />}}
 
 ## Factors Affecting Antique Cast Iron Iron Values
 
@@ -162,13 +162,13 @@ Irons from well-known manufacturers like Griswold, Wagner, Enterprise, or Dover 
 As with most antiques, condition significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Elements that affect the condition rating of antique cast iron irons" >}}
-  {{< interactive-modules/checklist-item label="Original surface patina preserved" / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or pitting" / />}}
-  {{< interactive-modules/checklist-item label="Complete with original handle" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible manufacturer's marks" / />}}
-  {{< interactive-modules/checklist-item label="Working mechanisms (for specialized irons)" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging (rare but valuable)" / />}}
+  {{< interactive-modules/checklist-item label="Original surface patina preserved" / / />}}
+  {{< interactive-modules/checklist-item label="No significant rust or pitting" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with original handle" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible manufacturer's marks" / / />}}
+  {{< interactive-modules/checklist-item label="Working mechanisms (for specialized irons)" / / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging (rare but valuable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Uniqueness and Design

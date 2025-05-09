@@ -133,7 +133,7 @@ The marble collecting hobby has grown substantially in recent decades, with dedi
 
 In this comprehensive guide, we'll explore the fascinating world of antique marble identification and valuation, covering everything from rare handmade specimens to machine-made varieties. You'll learn to recognize distinctive styles, understand important condition factors, and navigate current market values.
 
-{{< data-modules/stats-highlight title="Antique Marble Market Overview" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Marble Market Overview" columns="3" / / />}}
 <div>
   <span class="value">$10,000+</span>
   <span class="label">Record Prices</span>
@@ -484,14 +484,14 @@ When evaluating a marble's condition, consider the following factors:
 ![Close-up of antique marble showing condition assessment points](https://ik.imagekit.io/appraisily/SEO/collecting-antique-marbles-identification-and-price-guide/collecting-antique-marbles-identification-and-price-guide-image-5_iICgraEbF.png)
 
 {{< interactive-modules/condition-checklist title="Marble Condition Assessment Checklist" description="Use this checklist to evaluate your marble's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or flakes visible on the surface" / />}}
-  {{< interactive-modules/checklist-item label="No pinpricks or small impact marks" / />}}
-  {{< interactive-modules/checklist-item label="No internal fractures or bruises" / />}}
-  {{< interactive-modules/checklist-item label="Surface maintains original luster and polish" / />}}
-  {{< interactive-modules/checklist-item label="Original coloration without fading" / />}}
-  {{< interactive-modules/checklist-item label="No crazing or surface crackling" / />}}
-  {{< interactive-modules/checklist-item label="Pattern remains clear and distinct" / />}}
-  {{< interactive-modules/checklist-item label="No repair attempts visible" / />}}
+  {{< interactive-modules/checklist-item label="No chips or flakes visible on the surface" / / />}}
+  {{< interactive-modules/checklist-item label="No pinpricks or small impact marks" / / />}}
+  {{< interactive-modules/checklist-item label="No internal fractures or bruises" / / />}}
+  {{< interactive-modules/checklist-item label="Surface maintains original luster and polish" / / />}}
+  {{< interactive-modules/checklist-item label="Original coloration without fading" / / />}}
+  {{< interactive-modules/checklist-item label="No crazing or surface crackling" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern remains clear and distinct" / / />}}
+  {{< interactive-modules/checklist-item label="No repair attempts visible" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Impact on Value
@@ -576,7 +576,7 @@ Current collector trends significantly impact values:
 - **Collector Focus**: Shifts in collector interest affect category values
 - **International Appeal**: Some styles have stronger markets in specific regions
 
-{{< data-modules/stats-highlight title="Market Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Market Value Factors" columns="3" / / />}}
 <div>
   <span class="value">300%</span>
   <span class="label">Size Premium</span>

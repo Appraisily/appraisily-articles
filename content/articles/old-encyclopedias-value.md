@@ -71,7 +71,7 @@ Several key factors influence whether an old encyclopedia set holds significant 
 
 The age of an encyclopedia set dramatically impacts its value. Sets published before 1900 tend to hold greater value, with the oldest examples from the 18th and early 19th centuries commanding the highest prices.
 
-{{< data-modules/stats-highlight title="Age Impact on Encyclopedia Value" columns="3" / />}}
+{{< data-modules/stats-highlight title="Age Impact on Encyclopedia Value" columns="3" / / />}}
 
 #### First Editions and Early Printings
 
@@ -86,12 +86,12 @@ First editions of significant encyclopedia sets can be particularly valuable. Fo
 The physical condition of encyclopedias significantly impacts their value. Books with significant damage are typically worth very little regardless of age.
 
 {{< interactive-modules/condition-checklist title="Encyclopedia Condition Assessment" description="Factors that affect the value of vintage encyclopedias" >}}
-  {{< interactive-modules/checklist-item label="Bindings are intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Pages are clean without yellowing, stains, or foxing" / />}}
-  {{< interactive-modules/checklist-item label="Complete set with all volumes present" / />}}
-  {{< interactive-modules/checklist-item label="Original dust jackets (if applicable) are present" / />}}
-  {{< interactive-modules/checklist-item label="No moisture damage, mold, or insect damage" / />}}
-  {{< interactive-modules/checklist-item label="Gilt edges and decorative elements are well-preserved" / />}}
+  {{< interactive-modules/checklist-item label="Bindings are intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Pages are clean without yellowing, stains, or foxing" / / />}}
+  {{< interactive-modules/checklist-item label="Complete set with all volumes present" / / />}}
+  {{< interactive-modules/checklist-item label="Original dust jackets (if applicable) are present" / / />}}
+  {{< interactive-modules/checklist-item label="No moisture damage, mold, or insect damage" / / />}}
+  {{< interactive-modules/checklist-item label="Gilt edges and decorative elements are well-preserved" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to a [Quora response from a book collector](https://www.quora.com/How-much-is-a-set-of-1970-world-book-encyclopedias-worth), World Book Encyclopedia sets from the 1970s have sold for between $8 and $1,200 on the secondary market, with most falling around $200—highlighting how condition and completeness affect final values.
@@ -177,7 +177,7 @@ Finding the right market for your encyclopedias can mean the difference between 
 
 3. **Used Bookstores**: Some may purchase sets in excellent condition, though typically at low prices.
 
-{{< data-modules/stats-highlight title="Encyclopedia Selling Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Encyclopedia Selling Statistics" columns="3" / / />}}
 
 ## Alternative Uses for Encyclopedias with Little Value
 

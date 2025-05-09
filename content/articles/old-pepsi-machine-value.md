@@ -98,13 +98,13 @@ Machines made by certain manufacturers like Vendorlator are particularly sought 
 As with most collectibles, condition dramatically impacts value. Factors include:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Key factors that affect a vintage Pepsi machine's value" >}}
-  {{< interactive-modules/checklist-item label="Exterior condition (paint, decals, and logos intact)" / />}}
-  {{< interactive-modules/checklist-item label="Interior condition (clean, free of rust)" / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical components" / />}}
-  {{< interactive-modules/checklist-item label="Functioning refrigeration system" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and parts" / />}}
-  {{< interactive-modules/checklist-item label="Proper electrical system" / />}}
-  {{< interactive-modules/checklist-item label="Door operation and seal integrity" / />}}
+  {{< interactive-modules/checklist-item label="Exterior condition (paint, decals, and logos intact)" / / />}}
+  {{< interactive-modules/checklist-item label="Interior condition (clean, free of rust)" / / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical components" / / />}}
+  {{< interactive-modules/checklist-item label="Functioning refrigeration system" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and parts" / / />}}
+  {{< interactive-modules/checklist-item label="Proper electrical system" / / />}}
+  {{< interactive-modules/checklist-item label="Door operation and seal integrity" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Restoration Status
@@ -122,7 +122,7 @@ The restoration status of a vintage Pepsi machine falls into several categories:
 
 Some Pepsi machine models were produced in limited quantities or have distinctive features that make them more desirable to collectors. Special editions, unusual designs, or machines with unique historical significance can command premium prices.
 
-{{< data-modules/stats-highlight title="Vintage Pepsi Machine Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Pepsi Machine Market Highlights" columns="3" / / />}}
 
 {{< content-modules/section-header title="Popular Vintage Pepsi Machine Models and Their Values" level="2" >}}
 Let's explore some of the most sought-after vintage Pepsi machine models and their approximate market values. Prices can vary significantly based on condition, location, and individual seller/buyer circumstances.

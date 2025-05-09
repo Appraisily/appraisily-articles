@@ -102,7 +102,7 @@ Thomas Kinkade, known as the "Painter of Light," created works that have captiva
 
 The value of Thomas Kinkade art varies dramatically based on several key factors, including whether the piece is an original painting, a limited edition print, or a mass-produced reproduction. Market values have also fluctuated significantly since the artist's death in 2012, creating both opportunities and confusion for collectors.
 
-{{< data-modules/stats-highlight title="Thomas Kinkade Market Overview" columns="3" / />}}
+{{< data-modules/stats-highlight title="Thomas Kinkade Market Overview" columns="3" / / />}}
 
 <tr>
   <td>Original Paintings</td>
@@ -220,11 +220,11 @@ More extensive highlighting generally increases value significantly.
 ### Signatures and Authentication
 
 {{< interactive-modules/condition-checklist title="Authentication Elements" description="Check for these elements when evaluating a Thomas Kinkade piece" >}}
-  {{< interactive-modules/checklist-item label="Authentic Thomas Kinkade signature" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity" / />}}
-  {{< interactive-modules/checklist-item label="DNA Matrix Signature technology" / />}}
-  {{< interactive-modules/checklist-item label="Thomas Kinkade Studios seal" / />}}
-  {{< interactive-modules/checklist-item label="Edition number and type clearly marked" / />}}
+  {{< interactive-modules/checklist-item label="Authentic Thomas Kinkade signature" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="DNA Matrix Signature technology" / / />}}
+  {{< interactive-modules/checklist-item label="Thomas Kinkade Studios seal" / / />}}
+  {{< interactive-modules/checklist-item label="Edition number and type clearly marked" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to the [Thomas Kinkade Studios website](https://thomaskinkade.com/collections/rare-and-unique), authentic pieces contain several authentication features. Many limited editions include DNA Matrix Signature technology, which embeds Kinkade's DNA into the canvas.

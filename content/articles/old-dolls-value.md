@@ -114,7 +114,7 @@ Antique dolls represent not just cherished childhood treasures but potentially v
 
 In this comprehensive guide, we'll explore everything you need to know about identifying, valuing, and potentially selling your antique dolls. From rare 19th-century bisque pieces to mid-century collectibles, we'll help you navigate the fascinating world of vintage doll valuation.
 
-{{< data-modules/stats-highlight title="Antique Doll Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Doll Market Highlights" columns="3" / / />}}
 <div class="stat-card" style="color: blue">
   <div class="stat-value">$28,500</div>
   <div class="stat-label">Record Sale</div>
@@ -194,14 +194,14 @@ Multiple factors influence the market value of vintage and antique dolls. Unders
 Condition is perhaps the most significant factor in determining an antique doll's value. According to [The Spruce Crafts' price guide](https://www.thesprucecrafts.com/antique-doll-price-guide-4080262), a doll in perfect condition can be worth 30-70% more than one with damage, even minor flaws.
 
 {{< interactive-modules/condition-checklist title="Doll Condition Assessment" description="Check applicable items to assess your doll's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact with no crazing or repairs" / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or hairlines in porcelain/bisque" / />}}
-  {{< interactive-modules/checklist-item label="Original body in good condition without repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original wig or painted hair intact" / />}}
-  {{< interactive-modules/checklist-item label="Original glass eyes with no damage or clouding" / />}}
-  {{< interactive-modules/checklist-item label="Original clothing and accessories present" / />}}
-  {{< interactive-modules/checklist-item label="Joints work properly without looseness" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging included" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with no crazing or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or hairlines in porcelain/bisque" / / />}}
+  {{< interactive-modules/checklist-item label="Original body in good condition without repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Original wig or painted hair intact" / / />}}
+  {{< interactive-modules/checklist-item label="Original glass eyes with no damage or clouding" / / />}}
+  {{< interactive-modules/checklist-item label="Original clothing and accessories present" / / />}}
+  {{< interactive-modules/checklist-item label="Joints work properly without looseness" / / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging included" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Desirability

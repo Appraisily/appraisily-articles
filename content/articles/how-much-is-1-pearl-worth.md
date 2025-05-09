@@ -101,7 +101,7 @@ Pearls have captivated humans for centuries with their lustrous beauty and natur
 
 In this comprehensive guide, we'll explore the valuation of individual pearls, covering everything from affordable freshwater varieties to the rarest South Sea specimens. While pearl necklaces and jewelry pieces typically command higher prices as complete items, understanding the value of a single pearl provides crucial knowledge for collectors, jewelry enthusiasts, and those looking to buy or sell these treasures.
 
-{{< data-modules/stats-highlight title="Pearl Value at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Pearl Value at a Glance" columns="3" / / />}}
   <tr>
     <td>Average Pearl Range</td>
     <td>$10 - $1,500</td>
@@ -350,14 +350,14 @@ Discovered by a diver in California in 1990, this 470-carat abalone pearl was va
 This 14-pound natural pearl from a giant clam was once valued at $93 million, though more recent appraisals are considerably lower.
 
 {{< interactive-modules/condition-checklist title="Pearl Quality Assessment Checklist" description="Use this checklist to evaluate the quality and potential value of a pearl" >}}
-  {{< interactive-modules/checklist-item label="Perfect roundness (spherical shape)" / />}}
-  {{< interactive-modules/checklist-item label="Excellent luster (mirror-like reflection)" / />}}
-  {{< interactive-modules/checklist-item label="Smooth surface with minimal blemishes" / />}}
-  {{< interactive-modules/checklist-item label="Uniform color throughout" / />}}
-  {{< interactive-modules/checklist-item label="Large size (10mm+ for high value)" / />}}
-  {{< interactive-modules/checklist-item label="Thick nacre layer" / />}}
-  {{< interactive-modules/checklist-item label="Natural pearl (not cultured)" / />}}
-  {{< interactive-modules/checklist-item label="Comes with gemological certification" / />}}
+  {{< interactive-modules/checklist-item label="Perfect roundness (spherical shape)" / / />}}
+  {{< interactive-modules/checklist-item label="Excellent luster (mirror-like reflection)" / / />}}
+  {{< interactive-modules/checklist-item label="Smooth surface with minimal blemishes" / / />}}
+  {{< interactive-modules/checklist-item label="Uniform color throughout" / / />}}
+  {{< interactive-modules/checklist-item label="Large size (10mm+ for high value)" / / />}}
+  {{< interactive-modules/checklist-item label="Thick nacre layer" / / />}}
+  {{< interactive-modules/checklist-item label="Natural pearl (not cultured)" / / />}}
+  {{< interactive-modules/checklist-item label="Comes with gemological certification" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Determine What Your Pearl Is Worth" level="2" >}}

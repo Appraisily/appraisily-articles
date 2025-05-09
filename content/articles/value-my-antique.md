@@ -154,7 +154,7 @@ It's also essential to understand that there are different types of valuations:
 
 ![An appraiser examining an antique with specialized tools and reference materials](https://ik.imagekit.io/appraisily/SEO/value-my-antique/value-my-antique-image-2_guFaBYgva.png)
 
-{{< data-modules/stats-highlight title="Key Factors Affecting Antique Value" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Factors Affecting Antique Value" columns="3" / / />}}
   <tr>
     <td>Authenticity</td>
     <td>40-60% Premium</td>
@@ -247,14 +247,14 @@ Modern technology has made antique identification more accessible through smartp
 ![A person using a digital device to search for antique values in an online database](https://ik.imagekit.io/appraisily/SEO/value-my-antique/value-my-antique-image-4_kPjEWupgL.png)
 
 {{< interactive-modules/condition-checklist title="Antique Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your antique, which significantly impacts its value" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact (not refinished or repainted)" / />}}
-  {{< interactive-modules/checklist-item label="No significant damage, cracks, or repairs" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Functionality preserved (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original patina appropriate for age" / />}}
-  {{< interactive-modules/checklist-item label="No signs of restoration that diminish authenticity" / />}}
-  {{< interactive-modules/checklist-item label="Matching set (if part of a set or collection)" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance available" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (not refinished or repainted)" / / />}}
+  {{< interactive-modules/checklist-item label="No significant damage, cracks, or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / / />}}
+  {{< interactive-modules/checklist-item label="Functionality preserved (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original patina appropriate for age" / / />}}
+  {{< interactive-modules/checklist-item label="No signs of restoration that diminish authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Matching set (if part of a set or collection)" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance available" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Impact Antique Values" level="2" >}}

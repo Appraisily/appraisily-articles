@@ -72,7 +72,7 @@ Beer can collecting represents one of the most popular areas of breweriana (brew
 Ever wonder if those old beer cans in your grandfather's garage are worth anything? The answer might surprise you. Vintage beer cans can range from virtually worthless to upwards of $50,000 for the rarest examples. Understanding what makes a beer can valuable requires knowledge about can types, brewery history, condition grading, and current market trends.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Beer Can Value Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Beer Can Value Statistics" columns="3" / / />}}
 
 ## Understanding Can Types and Their Values
 
@@ -153,13 +153,13 @@ According to [Steel Canvas](https://www.steelcanvas.com/faq/), rarity significan
 Condition is crucial in determining a beer can's value. Collectors use a grading scale from 1+ (near perfect) to 5 (poor):
 
 {{< interactive-modules/condition-checklist title="Beer Can Condition Assessment" description="Check applicable items to assess your can's condition" >}}
-{{< interactive-modules/checklist-item label="Original colors are bright with no fading" / />}}
-{{< interactive-modules/checklist-item label="No rust spots or oxidation" / />}}
-{{< interactive-modules/checklist-item label="Can retains its original shape with no dents" / />}}
-{{< interactive-modules/checklist-item label="Original top is intact (for flat tops and cone tops)" / />}}
-{{< interactive-modules/checklist-item label="Pull tab is present and undamaged (for pull tab cans)" / />}}
-{{< interactive-modules/checklist-item label="No scratches or abrasions to the design" / />}}
-{{< interactive-modules/checklist-item label="Bottom is clean and legible" / />}}
+{{< interactive-modules/checklist-item label="Original colors are bright with no fading" / / />}}
+{{< interactive-modules/checklist-item label="No rust spots or oxidation" / / />}}
+{{< interactive-modules/checklist-item label="Can retains its original shape with no dents" / / />}}
+{{< interactive-modules/checklist-item label="Original top is intact (for flat tops and cone tops)" / / />}}
+{{< interactive-modules/checklist-item label="Pull tab is present and undamaged (for pull tab cans)" / / />}}
+{{< interactive-modules/checklist-item label="No scratches or abrasions to the design" / / />}}
+{{< interactive-modules/checklist-item label="Bottom is clean and legible" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 A can in grade 1+ condition can be worth 5-10 times more than the same can in grade 3 condition. According to [LoveToKnow](https://www.lovetoknow.com/home/antiques-collectibles/how-vintage-beer-can-values-are-determined), condition can make the difference between a can worth $500 and the same can worth $5,000.

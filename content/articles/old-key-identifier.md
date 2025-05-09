@@ -90,7 +90,7 @@ The word "key," derived from the Old English word meaning "serving to open or ex
 
 From ornate medieval chamberlain's keys to simple Victorian cabinet keys, these small metal artifacts offer fascinating insights into the evolution of security technology and decorative metalwork. As collectibles, they're prized for their historical significance, craftsmanship, and aesthetic appeal.
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Keys" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Keys" columns="3" / / />}}
   <div>
     <h3>200+</h3>
     <p>Years of collectible key history spanning the 18th-20th centuries</p>
@@ -153,13 +153,13 @@ To properly identify an old key, you'll need to carefully examine its physical c
 The shape of these components can tell you a lot about the key's purpose and age. For example, highly ornate bows often indicate ceremonial or high-status keys, while simpler designs typically suggest utilitarian purposes.
 
 {{< interactive-modules/condition-checklist title="Key Identification Checklist" description="Use this checklist to examine your antique key's physical characteristics" >}}
-  {{< interactive-modules/checklist-item label="Measure the key's total length" / />}}
-  {{< interactive-modules/checklist-item label="Note the shape and design of the bow" / />}}
-  {{< interactive-modules/checklist-item label="Examine the bit configuration and ward cuts" / />}}
-  {{< interactive-modules/checklist-item label="Check for manufacturer's marks or numbers" / />}}
-  {{< interactive-modules/checklist-item label="Determine the material (brass, iron, steel, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Look for signs of hand-forging vs. machine manufacturing" / />}}
-  {{< interactive-modules/checklist-item label="Assess the overall condition and patina" / />}}
+  {{< interactive-modules/checklist-item label="Measure the key's total length" / / />}}
+  {{< interactive-modules/checklist-item label="Note the shape and design of the bow" / / />}}
+  {{< interactive-modules/checklist-item label="Examine the bit configuration and ward cuts" / / />}}
+  {{< interactive-modules/checklist-item label="Check for manufacturer's marks or numbers" / / />}}
+  {{< interactive-modules/checklist-item label="Determine the material (brass, iron, steel, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Look for signs of hand-forging vs. machine manufacturing" / / />}}
+  {{< interactive-modules/checklist-item label="Assess the overall condition and patina" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Dating Antique Keys Through Historical Context

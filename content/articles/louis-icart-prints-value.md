@@ -135,7 +135,7 @@ Louis Icart (1888-1950) was a French artist renowned for his elegant, Art Deco-s
 
 Icart's most celebrated works were created between 1920 and 1940, during the height of the Art Deco period. His technical mastery of etching, combined with his ability to capture the sensuality and style of the era, has established him as one of the most important printmakers of his time. Today, original Icart etchings command significant prices at auction, with rare pieces reaching into the thousands of dollars.
 
-{{< data-modules/stats-highlight title="Louis Icart Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Louis Icart Market Highlights" columns="3" / / />}}
 <div class="stat-card">
   <span class="value">$4,895</span>
   <span class="label">High-end value</span>
@@ -189,13 +189,13 @@ The condition of an Icart print significantly impacts its market value. Even min
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Louis Icart Print Condition Factors" description="Check applicable items to assess print condition" >}}
-{{< interactive-modules/checklist-item label="No foxing (brown spots) or staining" / />}}
-{{< interactive-modules/checklist-item label="Original hand-coloring intact and vibrant" / />}}
-{{< interactive-modules/checklist-item label="No tears, creases, or repairs" / />}}
-{{< interactive-modules/checklist-item label="Proper framing with acid-free materials" / />}}
-{{< interactive-modules/checklist-item label="Original margins preserved" / />}}
-{{< interactive-modules/checklist-item label="No trimming or alteration to the image" / />}}
-{{< interactive-modules/checklist-item label="Paper remains supple without brittleness" / />}}
+{{< interactive-modules/checklist-item label="No foxing (brown spots) or staining" / / />}}
+{{< interactive-modules/checklist-item label="Original hand-coloring intact and vibrant" / / />}}
+{{< interactive-modules/checklist-item label="No tears, creases, or repairs" / / />}}
+{{< interactive-modules/checklist-item label="Proper framing with acid-free materials" / / />}}
+{{< interactive-modules/checklist-item label="Original margins preserved" / / />}}
+{{< interactive-modules/checklist-item label="No trimming or alteration to the image" / / />}}
+{{< interactive-modules/checklist-item label="Paper remains supple without brittleness" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Properly preserved prints in excellent condition can command prices 30-50% higher than similar works with condition issues. Conservation treatments, while sometimes necessary, should be disclosed when selling as they can affect value.

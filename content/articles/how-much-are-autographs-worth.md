@@ -70,7 +70,7 @@ The physical condition of an autograph significantly impacts its value:
 - **What was signed**: Signatures on relevant items (like a baseball player signing a baseball) typically fetch higher prices than signatures on plain paper
 - **Display quality**: How well the item presents for display purposes
 
-{{< data-modules/stats-highlight title="Autograph Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Autograph Market Highlights" columns="3" / / />}}
 
 {{< content-modules/section-header title="Autograph Values by Category" level="2" >}}
 Signature values vary dramatically across different collecting categories, with some commanding significantly higher prices than others.
@@ -228,14 +228,14 @@ When evaluating autographs, watch for these warning signs:
 According to data from [Reddit discussions on autograph value](https://www.reddit.com/r/Autographs/comments/10xwser/are_autographs_worth_anything_without_coas/), authenticated autographs typically sell for 30-50% more than similar non-authenticated examples, and some auction houses and high-end collectors won't consider items without professional authentication.
 
 {{< interactive-modules/condition-checklist title="Autograph Authentication Checklist" description="Use this checklist to preliminarily assess an autograph's authenticity" >}}
-  {{< interactive-modules/checklist-item label="Signature matches exemplars of the same period" / />}}
-  {{< interactive-modules/checklist-item label="Writing instrument and ink appropriate for era" / />}}
-  {{< interactive-modules/checklist-item label="Paper/item age consistent with supposed signing date" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documented and verifiable" / />}}
-  {{< interactive-modules/checklist-item label="No signs of mechanical reproduction (printing)" / />}}
-  {{< interactive-modules/checklist-item label="Signature flows naturally without hesitation marks" / />}}
-  {{< interactive-modules/checklist-item label="Certificate from reputable authentication service" / />}}
-  {{< interactive-modules/checklist-item label="Item obtained from credible source" / />}}
+  {{< interactive-modules/checklist-item label="Signature matches exemplars of the same period" / / />}}
+  {{< interactive-modules/checklist-item label="Writing instrument and ink appropriate for era" / / />}}
+  {{< interactive-modules/checklist-item label="Paper/item age consistent with supposed signing date" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documented and verifiable" / / />}}
+  {{< interactive-modules/checklist-item label="No signs of mechanical reproduction (printing)" / / />}}
+  {{< interactive-modules/checklist-item label="Signature flows naturally without hesitation marks" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate from reputable authentication service" / / />}}
+  {{< interactive-modules/checklist-item label="Item obtained from credible source" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Enhance Autograph Value" level="2" >}}

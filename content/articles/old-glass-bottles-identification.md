@@ -132,7 +132,7 @@ One of the most reliable indicators of a bottle's age is how it was made. By exa
 
 ![Close-up of mold seams and manufacturing marks on antique glass bottles](https://ik.imagekit.io/appraisily/SEO/old-glass-bottles-identification/old-glass-bottles-identification-image-2_Br9dQtOjye.png)
 
-{{< data-modules/stats-highlight title="Glass Bottle Manufacturing Timeline" columns="3" / />}}
+{{< data-modules/stats-highlight title="Glass Bottle Manufacturing Timeline" columns="3" / / />}}
 
 {{< visual-modules/timeline title="Evolution of Bottle Manufacturing" >}}
   {{< visual-modules/timeline-item date="Pre-1860s" title="Free-Blown Bottles" >}}
@@ -153,10 +153,10 @@ One of the most reliable indicators of a bottle's age is how it was made. By exa
 The presence of a pontil mark (or "pontil scar") on the base of a bottle is a strong indicator of age. This mark was left when the pontil rod - a metal rod used to hold the bottle during manufacturing - was detached from the bottle's base.
 
 {{< interactive-modules/condition-checklist title="Pontil Mark Identification" description="Check for these pontil types to help date your bottle" >}}
-  {{< interactive-modules/checklist-item label="Glass-tipped Pontil (1800-1860): Rough, jagged circle of glass" />}}
-  {{< interactive-modules/checklist-item label="Iron Pontil (1845-1870): Reddish-brown or graphite-colored circular deposit" />}}
-  {{< interactive-modules/checklist-item label="Sand Pontil (1850-1870): Granular, rough texture in a circular pattern" />}}
-  {{< interactive-modules/checklist-item label="Smooth Base (post-1870): No pontil mark visible" />}}
+  {{< interactive-modules/checklist-item label="Glass-tipped Pontil (1800-1860): Rough, jagged circle of glass" / />}}
+  {{< interactive-modules/checklist-item label="Iron Pontil (1845-1870): Reddish-brown or graphite-colored circular deposit" / />}}
+  {{< interactive-modules/checklist-item label="Sand Pontil (1850-1870): Granular, rough texture in a circular pattern" / />}}
+  {{< interactive-modules/checklist-item label="Smooth Base (post-1870): No pontil mark visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to the [Society for Historical Archaeology](https://sha.org/bottle/bases.htm), pontil marks were largely phased out by the 1870s. Finding a bottle with a pontil mark typically indicates it was made before this time, making it a potentially valuable antique.
@@ -328,10 +328,10 @@ Many antique bottles feature embossed text or symbols that can tell you who made
 Bottle maker's marks typically appear on the bottom (base) of bottles, though they may sometimes be found on the lower heel area or body. The [Glass Bottle Marks website](https://glassbottlemarks.com/) is an excellent resource for identifying these marks.
 
 {{< interactive-modules/condition-checklist title="Common Bottle Base Markings" description="Check for these elements on your bottle's base" >}}
-  {{< interactive-modules/checklist-item label="Manufacturer's logo or initials" />}}
-  {{< interactive-modules/checklist-item label="Plant code numbers or letters" />}}
-  {{< interactive-modules/checklist-item label="Date codes (often a single or double digit number)" />}}
-  {{< interactive-modules/checklist-item label="Mold numbers for internal factory tracking" />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's logo or initials" / />}}
+  {{< interactive-modules/checklist-item label="Plant code numbers or letters" / />}}
+  {{< interactive-modules/checklist-item label="Date codes (often a single or double digit number)" / />}}
+  {{< interactive-modules/checklist-item label="Mold numbers for internal factory tracking" / />}}
 
 
 ### Content and Brand Embossing
@@ -368,17 +368,17 @@ Once you've identified your bottle's age, type, and origin, you'll likely want t
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Checklist" description="Evaluate these aspects to determine your bottle's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or fractures in the glass" />}}
-  {{< interactive-modules/checklist-item label="Original closure or cap (if applicable)" />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossing" />}}
-  {{< interactive-modules/checklist-item label="Minimal staining or content residue" />}}
-  {{< interactive-modules/checklist-item label="No significant wear to base" />}}
-  {{< interactive-modules/checklist-item label="Original label intact (if applicable)" />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or fractures in the glass" / />}}
+  {{< interactive-modules/checklist-item label="Original closure or cap (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossing" / />}}
+  {{< interactive-modules/checklist-item label="Minimal staining or content residue" / />}}
+  {{< interactive-modules/checklist-item label="No significant wear to base" / />}}
+  {{< interactive-modules/checklist-item label="Original label intact (if applicable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Value Determinants
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
 
 ### Pricing Guidelines
 
@@ -496,12 +496,12 @@ Many successful collectors focus on specific categories rather than collecting r
 {{< interactive-modules/condition-checklist title="Bottle Care and Preservation" description="Best practices for maintaining your collection" >}}
   
 {{< /interactive-modules/condition-checklist >}}
-{{< interactive-modules/checklist-item label="Clean bottles gently with mild soap and water" />}}
-  {{< interactive-modules/checklist-item label="Avoid harsh chemicals that can damage glass" />}}
-  {{< interactive-modules/checklist-item label="Display away from direct sunlight to prevent color changes" />}}
-  {{< interactive-modules/checklist-item label="Store in stable temperature environments" />}}
-  {{< interactive-modules/checklist-item label="Handle by the body, not delicate features like the neck" />}}
-  {{< interactive-modules/checklist-item label="Document provenance and history when available" />}}
+{{< interactive-modules/checklist-item label="Clean bottles gently with mild soap and water" / />}}
+  {{< interactive-modules/checklist-item label="Avoid harsh chemicals that can damage glass" / />}}
+  {{< interactive-modules/checklist-item label="Display away from direct sunlight to prevent color changes" / />}}
+  {{< interactive-modules/checklist-item label="Store in stable temperature environments" / />}}
+  {{< interactive-modules/checklist-item label="Handle by the body, not delicate features like the neck" / />}}
+  {{< interactive-modules/checklist-item label="Document provenance and history when available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Bottle Digging Ethics

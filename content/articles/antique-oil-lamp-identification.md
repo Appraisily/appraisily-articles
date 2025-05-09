@@ -102,7 +102,7 @@ Antique oil lamps represent a fascinating chapter in human innovation, illuminat
 
 Whether you've inherited an old lamp, discovered one at an estate sale, or are actively building a collection, properly identifying antique oil lamps is essential to understanding their history, authenticity, and value. This guide will walk you through the key elements of oil lamp identification, from construction and materials to maker's marks and manufacturing periods.
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Oil Lamps" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Oil Lamps" columns="3" / / />}}
 <tr>
   <td>Evolution Timeline</td>
   <td>1780s-1930s</td>
@@ -300,14 +300,14 @@ With the popularity of antique oil lamps, the market has become saturated with r
 Several methods can help determine if an oil lamp is genuinely antique:
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Key factors to examine when determining authenticity" >}}
-  {{< interactive-modules/checklist-item label="Black Light Test: Glass parts should not glow brightly under UV light" / />}}
-  {{< interactive-modules/checklist-item label="Machine Marks: Look for hand-finishing vs. modern manufacturing signatures" / />}}
-  {{< interactive-modules/checklist-item label="Weight: Antique lamps are typically heavier than reproductions" / />}}
-  {{< interactive-modules/checklist-item label="Glass Seams: Check for pontil marks and other period-appropriate manufacturing signs" / />}}
-  {{< interactive-modules/checklist-item label="Patina: Natural aging vs. artificial antiquing techniques" / />}}
-  {{< interactive-modules/checklist-item label="Metal Composition: Brass tarnishes differently than modern alloys" / />}}
-  {{< interactive-modules/checklist-item label="Assembly Methods: Look for original construction techniques" / />}}
-  {{< interactive-modules/checklist-item label="Part Compatibility: All components should match in age and style" / />}}
+  {{< interactive-modules/checklist-item label="Black Light Test: Glass parts should not glow brightly under UV light" / / />}}
+  {{< interactive-modules/checklist-item label="Machine Marks: Look for hand-finishing vs. modern manufacturing signatures" / / />}}
+  {{< interactive-modules/checklist-item label="Weight: Antique lamps are typically heavier than reproductions" / / />}}
+  {{< interactive-modules/checklist-item label="Glass Seams: Check for pontil marks and other period-appropriate manufacturing signs" / / />}}
+  {{< interactive-modules/checklist-item label="Patina: Natural aging vs. artificial antiquing techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Metal Composition: Brass tarnishes differently than modern alloys" / / />}}
+  {{< interactive-modules/checklist-item label="Assembly Methods: Look for original construction techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Part Compatibility: All components should match in age and style" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Reproductions to Watch For

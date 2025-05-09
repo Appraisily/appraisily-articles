@@ -95,10 +95,10 @@ For example, "NJ" would represent 1979, while "PA" would indicate 1980.
 Dating becomes more complex after the 1980s, with various systems used depending on the watch model and production location.
 
 {{< interactive-modules/condition-checklist title="Locating Bulova Date Codes" description="Where to look for date codes on your vintage Bulova watch:" >}}
-  {{< interactive-modules/checklist-item label="Case back (remove with proper tools)" / />}}
-  {{< interactive-modules/checklist-item label="Inside the case (requires opening by a professional)" / />}}
-  {{< interactive-modules/checklist-item label="On the movement itself" / />}}
-  {{< interactive-modules/checklist-item label="Sometimes on the dial (rare)" / />}}
+  {{< interactive-modules/checklist-item label="Case back (remove with proper tools)" / / />}}
+  {{< interactive-modules/checklist-item label="Inside the case (requires opening by a professional)" / / />}}
+  {{< interactive-modules/checklist-item label="On the movement itself" / / />}}
+  {{< interactive-modules/checklist-item label="Sometimes on the dial (rare)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For the most accurate dating of your vintage Bulova watch, consider consulting specialist resources like [MyBulova.com](https://www.mybulova.com/), a comprehensive database maintained by Bulova collectors and experts.
@@ -195,13 +195,13 @@ Multiple factors influence the market value of a vintage Bulova watch beyond jus
 ### Condition
 Perhaps the most significant factor determining value is condition:
 
-{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / / />}}
 
-{{< data-modules/stat-card value="40-60%" label="Value Reduction" color="red" / />}}
+{{< data-modules/stat-card value="40-60%" label="Value Reduction" color="red" / / />}}
 
-{{< data-modules/stat-card value="20-30%" label="Premium" color="green" / />}}
+{{< data-modules/stat-card value="20-30%" label="Premium" color="green" / / />}}
 
-{{< data-modules/stat-card value="15-25%" label="Value Added" color="blue" / />}}
+{{< data-modules/stat-card value="15-25%" label="Value Added" color="blue" / / />}}
 
 ### Original Parts and Authenticity
 Watches with all original components typically command higher prices:
@@ -234,14 +234,14 @@ Documentation and history can significantly enhance value:
 - Original boxes and papers
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Vintage Bulova Watches" description="Check all that apply to evaluate your watch's condition:" >}}
-  {{< interactive-modules/checklist-item label="Case shows original finish with minimal scratches or wear" / />}}
-  {{< interactive-modules/checklist-item label="Dial is original with no refinishing, discoloration, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Hands are original and match the watch model" / />}}
-  {{< interactive-modules/checklist-item label="Crystal is clear with no significant scratches or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Movement is clean, functioning properly, and keeps accurate time" / />}}
-  {{< interactive-modules/checklist-item label="All functions (date, chronograph, etc.) work correctly" / />}}
-  {{< interactive-modules/checklist-item label="Original bracelet or strap is present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original box, papers, and accessories are present" / />}}
+  {{< interactive-modules/checklist-item label="Case shows original finish with minimal scratches or wear" / / />}}
+  {{< interactive-modules/checklist-item label="Dial is original with no refinishing, discoloration, or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Hands are original and match the watch model" / / />}}
+  {{< interactive-modules/checklist-item label="Crystal is clear with no significant scratches or cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Movement is clean, functioning properly, and keeps accurate time" / / />}}
+  {{< interactive-modules/checklist-item label="All functions (date, chronograph, etc.) work correctly" / / />}}
+  {{< interactive-modules/checklist-item label="Original bracelet or strap is present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original box, papers, and accessories are present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Research Your Vintage Bulova Watch" level="2" >}}
@@ -330,13 +330,13 @@ Selling directly to collectors can maximize your return:
 
 When selling, consider the following to maximize value:
 
-{{< data-modules/stats-highlight title="Selling Success Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Selling Success Factors" columns="3" / / />}}
 
-{{< data-modules/stat-card value="87%" label="Higher Sale Price" color="green" / />}}
+{{< data-modules/stat-card value="87%" label="Higher Sale Price" color="green" / / />}}
 
-{{< data-modules/stat-card value="35%" label="Value Premium" color="blue" / />}}
+{{< data-modules/stat-card value="35%" label="Value Premium" color="blue" / / />}}
 
-{{< data-modules/stat-card value="20-30%" label="Consignment Fee" color="orange" / />}}
+{{< data-modules/stat-card value="20-30%" label="Consignment Fee" color="orange" / / />}}
 
 {{< content-modules/section-header title="Restoration and Service Considerations" level="2" >}}
 Understanding when and how to service or restore a vintage Bulova watch is crucial to maintaining or enhancing its value.
@@ -360,12 +360,12 @@ Some restoration practices can significantly reduce the value of vintage Bulova 
 ### Best Practices for Service and Restoration
 
 {{< interactive-modules/condition-checklist title="Proper Vintage Bulova Service Guidelines" description="Follow these guidelines when having your vintage Bulova serviced:" >}}
-  {{< interactive-modules/checklist-item label="Use a watchmaker specializing in vintage watches" / />}}
-  {{< interactive-modules/checklist-item label="Request that original parts be returned if replaced" / />}}
-  {{< interactive-modules/checklist-item label="Specify minimal case polishing (or none)" / />}}
-  {{< interactive-modules/checklist-item label="Obtain detailed documentation of all work performed" / />}}
-  {{< interactive-modules/checklist-item label="Request before and after photographs" / />}}
-  {{< interactive-modules/checklist-item label="For valuable models, seek second opinions" / />}}
+  {{< interactive-modules/checklist-item label="Use a watchmaker specializing in vintage watches" / / />}}
+  {{< interactive-modules/checklist-item label="Request that original parts be returned if replaced" / / />}}
+  {{< interactive-modules/checklist-item label="Specify minimal case polishing (or none)" / / />}}
+  {{< interactive-modules/checklist-item label="Obtain detailed documentation of all work performed" / / />}}
+  {{< interactive-modules/checklist-item label="Request before and after photographs" / / />}}
+  {{< interactive-modules/checklist-item label="For valuable models, seek second opinions" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Finding a Qualified Watchmaker

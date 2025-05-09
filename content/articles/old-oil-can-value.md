@@ -130,13 +130,13 @@ Some oil cans are inherently more valuable due to their scarcity or the signific
 The condition of an oil can dramatically affects its value. Collectors prioritize cans with:
 
 {{< interactive-modules/condition-checklist title="Oil Can Condition Factors" description="Elements that impact the value based on condition" >}}
-  {{< interactive-modules/checklist-item label="Original paint and graphics intact" / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Minimal dents or damage to the can body" / />}}
-  {{< interactive-modules/checklist-item label="Original caps or spouts present" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible text and logos" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
-  {{< interactive-modules/checklist-item label="Original contents (for sealed cans)" / />}}
+  {{< interactive-modules/checklist-item label="Original paint and graphics intact" / / />}}
+  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal dents or damage to the can body" / / />}}
+  {{< interactive-modules/checklist-item label="Original caps or spouts present" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible text and logos" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" / / />}}
+  {{< interactive-modules/checklist-item label="Original contents (for sealed cans)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Graphic Design and Aesthetic Appeal
@@ -151,7 +151,7 @@ Cans with connections to significant events, technological innovations, or cultu
 
 While age alone doesn't determine value, older cans from the early automotive era (pre-1940s) are generally more valuable than later examples, assuming comparable condition and rarity. According to information from [Richmond Auctions](https://www.richmondauctions.com/petroliana/vintage-oil-cans/), early hand-pump oilers from the 1900s-1920s can be particularly valuable.
 
-{{< data-modules/stats-highlight title="Key Value Indicators for Vintage Oil Cans" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Indicators for Vintage Oil Cans" columns="3" / / />}}
 
 {{< content-modules/section-header title="Types of Collectible Oil Cans" level="2" >}}
 The world of vintage oil can collecting encompasses several distinct types, each with its own collector base and value ranges. Understanding these categories will help you identify and specialize in the types that most interest you.

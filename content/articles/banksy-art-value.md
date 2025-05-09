@@ -89,7 +89,7 @@ Banksy's artistic journey from Bristol's underground scene to global art phenome
 
 The value of Banksy's art has seen exceptional growth over the past decade, with some pieces appreciating over 1000% in value. This guide explores the current state of Banksy's art market, the factors that influence valuation, authentication processes, and what potential buyers and collectors should know before investing.
 
-{{< data-modules/stats-highlight title="Banksy Art Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Banksy Art Market Highlights" columns="3" / / />}}
 <div class="stat-card" style="color: blue">
   <div class="stat-value">£18.6M</div>
   <div class="stat-label">Record Auction Price</div>
@@ -272,13 +272,13 @@ Established in 2008, Pest Control serves as Banksy's official authentication bod
 It's important to note that Pest Control will not authenticate street pieces that have been removed from their original location, as Banksy believes these works belong in their intended public context.
 
 {{< interactive-modules/condition-checklist title="Banksy Authentication Checklist" description="Key elements to verify when assessing a potential Banksy artwork" >}}
-  {{< interactive-modules/checklist-item label="Pest Control Certificate of Authenticity is present" / />}}
-  {{< interactive-modules/checklist-item label="Certificate includes matching half-torn card with artwork image" / />}}
-  {{< interactive-modules/checklist-item label="Unique certification number is verifiable" / />}}
-  {{< interactive-modules/checklist-item label="Paper, printing technique, and edition number match known specifications" / />}}
-  {{< interactive-modules/checklist-item label="Provenance is documented and transparent" / />}}
-  {{< interactive-modules/checklist-item label="Purchase is from a reputable gallery or auction house" / />}}
-  {{< interactive-modules/checklist-item label="Signature (if present) matches known Banksy signatures" / />}}
+  {{< interactive-modules/checklist-item label="Pest Control Certificate of Authenticity is present" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate includes matching half-torn card with artwork image" / / />}}
+  {{< interactive-modules/checklist-item label="Unique certification number is verifiable" / / />}}
+  {{< interactive-modules/checklist-item label="Paper, printing technique, and edition number match known specifications" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance is documented and transparent" / / />}}
+  {{< interactive-modules/checklist-item label="Purchase is from a reputable gallery or auction house" / / />}}
+  {{< interactive-modules/checklist-item label="Signature (if present) matches known Banksy signatures" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Authentication Issues and Red Flags

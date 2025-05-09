@@ -112,7 +112,7 @@ Many antique Singer machines feature elaborate decals, ornate detailing, and bea
 
 Machines with documented history, especially those with connections to historical events or notable owners, can command premium prices from serious collectors.
 
-{{< data-modules/stats-highlight title="Singer Sewing Machine Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Singer Sewing Machine Market Facts" columns="3" / / />}}
 <tr>
   <td>$50-$500</td>
   <td>Typical value range for most vintage Singer machines</td>
@@ -243,16 +243,16 @@ The condition of an antique Singer sewing machine is often the most critical fac
 ### Essential Condition Factors
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Assessment" description="Check all that apply to determine your machine's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Machine runs properly when plugged in or operated with treadle/handcrank" / />}}
-  {{< interactive-modules/checklist-item label="Original decals are clear and intact (minimal fading or wear)" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacement parts)" / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal components" / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact (not repainted or refinished)" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet or case in good condition (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original manual and accessories included" / />}}
-  {{< interactive-modules/checklist-item label="Bobbin winder functional" / />}}
-  {{< interactive-modules/checklist-item label="Tension mechanism works properly" / />}}
-  {{< interactive-modules/checklist-item label="No cracks in body casting or significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Machine runs properly when plugged in or operated with treadle/handcrank" / / />}}
+  {{< interactive-modules/checklist-item label="Original decals are clear and intact (minimal fading or wear)" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacement parts)" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal components" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (not repainted or refinished)" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet or case in good condition (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original manual and accessories included" / / />}}
+  {{< interactive-modules/checklist-item label="Bobbin winder functional" / / />}}
+  {{< interactive-modules/checklist-item label="Tension mechanism works properly" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks in body casting or significant damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Grading Scale

@@ -94,7 +94,7 @@ Several features distinguish antique keys from their modern counterparts:
 
 4. **Design Elements**: The style, shape, and decorative elements of a key can help date it to a specific period or region. Ornate bow (handle) designs often indicate keys from the 18th or 19th centuries.
 
-{{< data-modules/stats-highlight title="Key Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts" columns="3" / / />}}
 
 ![Various types of antique keys showing different bows and bits](https://ik.imagekit.io/appraisily/SEO/antique-key-identification-guide/antique-key-identification-guide-image-2_Qy_W_dXV-.png)
 
@@ -313,14 +313,14 @@ According to a YouTube video on [The Rarest Antique Skeleton Keys](https://www.y
 5. Keys with documented connections to historical figures or events
 
 {{< interactive-modules/condition-checklist title="Antique Key Condition Assessment" description="Use this checklist to evaluate the condition and authenticity of an antique key" >}}
-  {{< interactive-modules/checklist-item label="Original patina consistent with age (not artificially aged)" / />}}
-  {{< interactive-modules/checklist-item label="No modern machine marks or manufacturing techniques" / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns consistent with actual use" / />}}
-  {{< interactive-modules/checklist-item label="Material appropriate for purported age (iron, brass, bronze, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Design elements consistent with historical period" / />}}
-  {{< interactive-modules/checklist-item label="No modern repairs or alterations" / />}}
-  {{< interactive-modules/checklist-item label="Bit shows proper wear from use in locks" / />}}
-  {{< interactive-modules/checklist-item label="Documentation or provenance available" / />}}
+  {{< interactive-modules/checklist-item label="Original patina consistent with age (not artificially aged)" / / />}}
+  {{< interactive-modules/checklist-item label="No modern machine marks or manufacturing techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Wear patterns consistent with actual use" / / />}}
+  {{< interactive-modules/checklist-item label="Material appropriate for purported age (iron, brass, bronze, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Design elements consistent with historical period" / / />}}
+  {{< interactive-modules/checklist-item label="No modern repairs or alterations" / / />}}
+  {{< interactive-modules/checklist-item label="Bit shows proper wear from use in locks" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation or provenance available" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Rare ornate antique key with decorative bow design](https://ik.imagekit.io/appraisily/SEO/antique-key-identification-guide/antique-key-identification-guide-image-5_4T7pTuuWv.png)

@@ -108,7 +108,7 @@ The brilliance of these pieces came from multiple factors: the use of high-quali
 Before attempting to identify specific patterns, it's important to understand the key characteristics that distinguish authentic antique cut glass from more modern reproductions or pressed glass imitations.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Qualities of American Brilliant Cut Glass" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Qualities of American Brilliant Cut Glass" columns="3" / / />}}
 
 True antique cut glass possesses several distinguishing characteristics:
 
@@ -125,14 +125,14 @@ True antique cut glass possesses several distinguishing characteristics:
 ![Close-up of cut glass pattern showing intricate geometric details](https://ik.imagekit.io/appraisily/SEO/antique-cut-glass-patterns-identification/antique-cut-glass-patterns-identification-image-2_sJjfPrBwh.png)
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use this checklist to evaluate potential antique cut glass pieces" >}}
-  {{< interactive-modules/checklist-item label="Piece has substantial weight relative to its size" / />}}
-  {{< interactive-modules/checklist-item label="Glass produces a clear, bell-like ring when gently tapped" / />}}
-  {{< interactive-modules/checklist-item label="Cutting edges are sharp and precise, not rounded or blunt" / />}}
-  {{< interactive-modules/checklist-item label="Pattern shows consistently deep cutting throughout" / />}}
-  {{< interactive-modules/checklist-item label="Surface is highly polished with exceptional clarity" / />}}
-  {{< interactive-modules/checklist-item label="No mold marks or seams are visible" / />}}
-  {{< interactive-modules/checklist-item label="Pattern details are symmetrical and evenly spaced" / />}}
-  {{< interactive-modules/checklist-item label="Base is well-finished with no rough pontil mark" / />}}
+  {{< interactive-modules/checklist-item label="Piece has substantial weight relative to its size" / / />}}
+  {{< interactive-modules/checklist-item label="Glass produces a clear, bell-like ring when gently tapped" / / />}}
+  {{< interactive-modules/checklist-item label="Cutting edges are sharp and precise, not rounded or blunt" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern shows consistently deep cutting throughout" / / />}}
+  {{< interactive-modules/checklist-item label="Surface is highly polished with exceptional clarity" / / />}}
+  {{< interactive-modules/checklist-item label="No mold marks or seams are visible" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern details are symmetrical and evenly spaced" / / />}}
+  {{< interactive-modules/checklist-item label="Base is well-finished with no rough pontil mark" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 It's important to distinguish true cut glass from pressed glass, which became a popular and less expensive alternative in the early 20th century. Pressed glass was created by pouring molten glass into molds that imitated cut glass patterns. Key differences include:

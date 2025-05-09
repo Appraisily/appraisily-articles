@@ -135,7 +135,7 @@ Identifying the wood in an antique piece is often the first step in authenticati
 
 Moreover, understanding wood types helps in valuation. Certain woods, like Cuban mahogany or Brazilian rosewood, command premium prices due to their rarity and desirable properties. Others, like pine, are generally considered less valuable unless the piece has exceptional provenance or craftsmanship.
 
-{{< data-modules/stats-highlight title="Wood Identification Impact" columns="3" / />}}
+{{< data-modules/stats-highlight title="Wood Identification Impact" columns="3" / / />}}
 
 {{< content-modules/section-header title="Basic Wood Identification Techniques" level="2" >}}
 Before diving into specific wood types, it's important to understand the fundamental techniques used to identify wood in antique furniture. These methods rely on both visual inspection and physical examination.
@@ -166,13 +166,13 @@ Beyond visual inspection, physical characteristics can provide valuable clues:
 4. **End Grain**: Examining the end grain (the cut surface perpendicular to the grain) can reveal distinctive cell structures that help identify the wood species.
 
 {{< interactive-modules/condition-checklist title="Wood Identification Checklist" description="Use these steps to systematically identify wood in antique furniture" >}}
-  {{< interactive-modules/checklist-item label="Examine the color in both exposed and hidden areas" / />}}
-  {{< interactive-modules/checklist-item label="Analyze the grain pattern and direction" / />}}
-  {{< interactive-modules/checklist-item label="Check for distinctive figure patterns" / />}}
-  {{< interactive-modules/checklist-item label="Assess the weight relative to the piece's size" / />}}
-  {{< interactive-modules/checklist-item label="Test hardness on an inconspicuous area" / />}}
-  {{< interactive-modules/checklist-item label="Look for end grain patterns where visible" / />}}
-  {{< interactive-modules/checklist-item label="Consider the furniture's age and style when making determinations" / />}}
+  {{< interactive-modules/checklist-item label="Examine the color in both exposed and hidden areas" / / />}}
+  {{< interactive-modules/checklist-item label="Analyze the grain pattern and direction" / / />}}
+  {{< interactive-modules/checklist-item label="Check for distinctive figure patterns" / / />}}
+  {{< interactive-modules/checklist-item label="Assess the weight relative to the piece's size" / / />}}
+  {{< interactive-modules/checklist-item label="Test hardness on an inconspicuous area" / / />}}
+  {{< interactive-modules/checklist-item label="Look for end grain patterns where visible" / / />}}
+  {{< interactive-modules/checklist-item label="Consider the furniture's age and style when making determinations" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Distinguishing Hardwoods vs. Softwoods" level="2" >}}

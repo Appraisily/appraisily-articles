@@ -118,7 +118,7 @@ These details not only help authenticate an antique bottle but can dramatically 
 
 In this comprehensive guide, we'll explore the different types of markings found on bottle bases, how to interpret common symbols and numbers, and how these identifiers can help determine the age and value of your antique glass bottles.
 
-{{< data-modules/stats-highlight title="Antique Bottle Collecting Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Bottle Collecting Facts" columns="3" / / />}}
   <div class="stat-card green">
     <div class="stat-value">1600s</div>
     <div class="stat-label">Earliest Marked Bottles</div>
@@ -296,13 +296,13 @@ Some bottles feature symbols rather than numbers or letters. Common symbols incl
 Many of these symbols were internal manufacturer codes, though some had specific meaning. For example, certain dot patterns on mid-century glass indicated the quarter of production within a specific year.
 
 {{< interactive-modules/condition-checklist title="Bottle Authenticity Assessment" description="Use this checklist to evaluate if your bottle markings are consistent with authentic antiques" >}}
-  {{< interactive-modules/checklist-item label="Embossing is clear and distinctly molded, not painted or etched" / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns on base are consistent with bottle's overall condition" / />}}
-  {{< interactive-modules/checklist-item label="Marks align with documented manufacturer patterns from reference sources" / />}}
-  {{< interactive-modules/checklist-item label="Mold seams and manufacturing evidence match the purported age" / />}}
-  {{< interactive-modules/checklist-item label="Pontil mark (if present) shows genuine wear and proper formation" / />}}
-  {{< interactive-modules/checklist-item label="Base thickness and glass consistency is appropriate for the time period" / />}}
-  {{< interactive-modules/checklist-item label="Glass color is consistent with claimed manufacturing period" / />}}
+  {{< interactive-modules/checklist-item label="Embossing is clear and distinctly molded, not painted or etched" / / />}}
+  {{< interactive-modules/checklist-item label="Wear patterns on base are consistent with bottle's overall condition" / / />}}
+  {{< interactive-modules/checklist-item label="Marks align with documented manufacturer patterns from reference sources" / / />}}
+  {{< interactive-modules/checklist-item label="Mold seams and manufacturing evidence match the purported age" / / />}}
+  {{< interactive-modules/checklist-item label="Pontil mark (if present) shows genuine wear and proper formation" / / />}}
+  {{< interactive-modules/checklist-item label="Base thickness and glass consistency is appropriate for the time period" / / />}}
+  {{< interactive-modules/checklist-item label="Glass color is consistent with claimed manufacturing period" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Dating Bottles Using Base Markings" level="2" >}}
@@ -385,7 +385,7 @@ While base markings are crucial for identification, overall condition still matt
 
 According to discussions on forums like [Antique Bottles, Glass, Jars Online](https://www.antique-bottles.net/threads/bottle-identification-and-value.699141/), even common bottles can sometimes fetch premium prices if they have particularly clear, well-preserved maker's marks that help document a manufacturer's history.
 
-{{< data-modules/stats-highlight title="Bottle Collecting Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Bottle Collecting Market Insights" columns="3" / / />}}
   <div class="stat-card blue">
     <div class="stat-value">75%</div>
     <div class="stat-label">Value Attribution</div>

@@ -66,7 +66,7 @@ According to recent market data, standard antique brass items typically sell for
 
 ![Antique brass candlesticks and decorative items arranged on display](https://ik.imagekit.io/appraisily/SEO/how-much-is-antique-brass-worth/how-much-is-antique-brass-worth-image-2_EibeeyfJv.png)
 
-{{< data-modules/stats-highlight title="Brass Market Snapshot" columns="3" / />}}
+{{< data-modules/stats-highlight title="Brass Market Snapshot" columns="3" / / />}}
 
 When evaluating brass by weight, the current scrap value provides a baseline. As of recent data, brass scrap is valued at approximately $1.76 per pound. However, this represents the absolute minimum value for your antique items, as collectible value almost always exceeds scrap value for quality pieces.
 
@@ -89,12 +89,12 @@ Items from well-known brass makers or with documented history can command premiu
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Brass Condition Evaluation" description="Check these items to assess the condition of your brass pieces" >}}
-  {{< interactive-modules/checklist-item label="Original patina intact" / />}}
-  {{< interactive-modules/checklist-item label="No dents or significant damage" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or solder marks" / />}}
-  {{< interactive-modules/checklist-item label="Original finish (not over-polished)" / />}}
-  {{< interactive-modules/checklist-item label="All components present and functional" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or signatures visible" / />}}
+  {{< interactive-modules/checklist-item label="Original patina intact" / / />}}
+  {{< interactive-modules/checklist-item label="No dents or significant damage" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or solder marks" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish (not over-polished)" / / />}}
+  {{< interactive-modules/checklist-item label="All components present and functional" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or signatures visible" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Design and Craftsmanship

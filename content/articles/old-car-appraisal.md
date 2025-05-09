@@ -124,7 +124,7 @@ For classic car owners, an official appraisal serves multiple important purposes
 - **Damage Claims**: Essential for proving value in the event of an accident or theft
 - **Divorce or Legal Settlements**: Establishes agreed-upon value for asset division
 
-{{< data-modules/stats-highlight title="Classic Car Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Classic Car Market Statistics" columns="3" / / />}}
 
 ![A professional appraiser inspecting the engine of a classic car](https://ik.imagekit.io/appraisily/SEO/old-car-appraisal/old-car-appraisal-image-2_Brabat-C1.png)
 
@@ -176,15 +176,15 @@ A classic car's physical condition plays a crucial role in determining its value
 {{< /data-modules/price-table >}}
 
 {{< interactive-modules/condition-checklist title="Classic Car Condition Assessment" description="Use this checklist to evaluate your vehicle's condition" >}}
-  {{< interactive-modules/checklist-item label="Body shows no dents, rust, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Paint is original and shows consistent finish" / />}}
-  {{< interactive-modules/checklist-item label="Chrome and trim pieces are undamaged and show proper shine" / />}}
-  {{< interactive-modules/checklist-item label="Interior upholstery and dashboard are original and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Original engine starts easily and runs smoothly" / />}}
-  {{< interactive-modules/checklist-item label="Transmission shifts properly through all gears" / />}}
-  {{< interactive-modules/checklist-item label="Electrical systems (lights, gauges, radio) function correctly" / />}}
-  {{< interactive-modules/checklist-item label="Undercarriage shows no significant rust or damage" / />}}
-  {{< interactive-modules/checklist-item label="Documentation includes original paperwork and service records" / />}}
+  {{< interactive-modules/checklist-item label="Body shows no dents, rust, or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Paint is original and shows consistent finish" / / />}}
+  {{< interactive-modules/checklist-item label="Chrome and trim pieces are undamaged and show proper shine" / / />}}
+  {{< interactive-modules/checklist-item label="Interior upholstery and dashboard are original and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Original engine starts easily and runs smoothly" / / />}}
+  {{< interactive-modules/checklist-item label="Transmission shifts properly through all gears" / / />}}
+  {{< interactive-modules/checklist-item label="Electrical systems (lights, gauges, radio) function correctly" / / />}}
+  {{< interactive-modules/checklist-item label="Undercarriage shows no significant rust or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation includes original paperwork and service records" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Desirability

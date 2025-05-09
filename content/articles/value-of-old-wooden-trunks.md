@@ -136,7 +136,7 @@ Unusual or rare features can significantly increase a trunk's value. These might
 - Unusual woods or construction techniques
 - Documented historical provenance or famous ownership
 
-{{< data-modules/stats-highlight title="Antique Trunk Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Trunk Market Insights" columns="3" / / />}}
 <div class="stat-card" style="--stat-color: var(--color-blue);">
   <div class="stat-value">$1,000-$1,200</div>
   <div class="stat-label">Average Value</div>
@@ -346,18 +346,18 @@ Before determining the value of your antique trunk, you'll need to carefully eva
 ### Condition Assessment Checklist
 
 {{< interactive-modules/condition-checklist title="Antique Trunk Condition Assessment" description="Check applicable items to evaluate your trunk's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="Original hardware (handles, locks, hinges) intact" / />}}
-  {{< interactive-modules/checklist-item label="Functioning lock mechanism with key" / />}}
-  {{< interactive-modules/checklist-item label="Original interior lining/paper present" / />}}
-  {{< interactive-modules/checklist-item label="Interior compartments or trays intact" / />}}
-  {{< interactive-modules/checklist-item label="Original exterior covering (canvas, leather, tin) in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original paint or finish present" / />}}
-  {{< interactive-modules/checklist-item label="No significant water damage or wood rot" / />}}
-  {{< interactive-modules/checklist-item label="Minimal or no repairs to the structure" / />}}
-  {{< interactive-modules/checklist-item label="No significant odors (mildew, mothballs)" / />}}
-  {{< interactive-modules/checklist-item label="Sturdy construction with no wobbling" / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark or label present" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (handles, locks, hinges) intact" / / />}}
+  {{< interactive-modules/checklist-item label="Functioning lock mechanism with key" / / />}}
+  {{< interactive-modules/checklist-item label="Original interior lining/paper present" / / />}}
+  {{< interactive-modules/checklist-item label="Interior compartments or trays intact" / / />}}
+  {{< interactive-modules/checklist-item label="Original exterior covering (canvas, leather, tin) in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint or finish present" / / />}}
+  {{< interactive-modules/checklist-item label="No significant water damage or wood rot" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal or no repairs to the structure" / / />}}
+  {{< interactive-modules/checklist-item label="No significant odors (mildew, mothballs)" / / />}}
+  {{< interactive-modules/checklist-item label="Sturdy construction with no wobbling" / / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark or label present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Identifying Original vs. Replacement Parts

@@ -100,7 +100,7 @@ Understanding what makes one trunk worth $100 and another worth $3,000 requires 
 
 Antique steamer trunks vary dramatically in value based on multiple factors. Before you can determine what your trunk might be worth, you need to understand the elements that appraisers and collectors consider most important.
 
-{{< data-modules/stats-highlight title="Value Influence Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Influence Factors" columns="3" / / />}}
 <tr>
   <td>Brand & Manufacturer</td>
   <td>30-50%</td>
@@ -163,14 +163,14 @@ Trunks with provable historical significance—such as those with documentation 
 The condition of an antique steamer trunk is perhaps the most critical factor in determining its value. A trunk in excellent condition will command a significantly higher price than a similar one in poor condition.
 
 {{< interactive-modules/condition-checklist title="Trunk Condition Assessment" description="Check all items that apply to your trunk to help determine its condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original hardware is intact and functional" / />}}
-  {{< interactive-modules/checklist-item label="Interior lining or compartments are present and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Exterior canvas or leather covering is in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Wood structure is solid with minimal warping" / />}}
-  {{< interactive-modules/checklist-item label="Original trays or dividers are present" / />}}
-  {{< interactive-modules/checklist-item label="Minimal odor, mold, or water damage" / />}}
-  {{< interactive-modules/checklist-item label="Original locks and keys are present" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer labels or markings are visible" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware is intact and functional" / / />}}
+  {{< interactive-modules/checklist-item label="Interior lining or compartments are present and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Exterior canvas or leather covering is in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Wood structure is solid with minimal warping" / / />}}
+  {{< interactive-modules/checklist-item label="Original trays or dividers are present" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal odor, mold, or water damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original locks and keys are present" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer labels or markings are visible" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [Reddit's r/Antiques community](https://www.reddit.com/r/Antiques/comments/1b7ct1c/need_help_identifying_the_age_of_this_steamer/), a truly exceptional steamer trunk in pristine condition from a prestigious manufacturer could be worth upwards of $3,000 to serious collectors.

@@ -92,7 +92,7 @@ Since her debut in 1959, Barbie has captivated the hearts of children and collec
 
 Whether you've discovered a box of old Barbies in your attic or you're considering starting a collection, understanding what makes these dolls valuable is essential. In this comprehensive guide, we'll explore how much old Barbie dolls are worth, which models command premium prices, and what factors influence their value in today's collector's market.
 
-{{< data-modules/stats-highlight title="Key Vintage Barbie Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Vintage Barbie Statistics" columns="3" / / />}}
 
 {{< content-modules/section-header title="Factors That Determine Vintage Barbie Value" level="2" >}}
 Understanding what makes an old Barbie doll valuable requires considering multiple aspects beyond just age. These factors work together to determine a doll's worth in the collector's market.
@@ -299,14 +299,14 @@ Collectors typically grade Barbie dolls on this scale:
 Each step down the condition scale typically reduces value by 15-30%.
 
 {{< interactive-modules/condition-checklist title="Barbie Doll Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your vintage Barbie dolls" >}}
-  {{< interactive-modules/checklist-item label="Original box and packaging present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Doll has no discoloration, stains, or greenish hue (green ear syndrome)" / />}}
-  {{< interactive-modules/checklist-item label="Hair is original, not cut, and retains original style" / />}}
-  {{< interactive-modules/checklist-item label="Face paint is intact with no rubbing or fading" / />}}
-  {{< interactive-modules/checklist-item label="Limbs are tight and properly functioning" / />}}
-  {{< interactive-modules/checklist-item label="Original clothing and accessories are complete" / />}}
-  {{< interactive-modules/checklist-item label="No cracks, scratches, or teeth marks on the body" / />}}
-  {{< interactive-modules/checklist-item label="Original documentation, tags, and inserts are present" / />}}
+  {{< interactive-modules/checklist-item label="Original box and packaging present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Doll has no discoloration, stains, or greenish hue (green ear syndrome)" / / />}}
+  {{< interactive-modules/checklist-item label="Hair is original, not cut, and retains original style" / / />}}
+  {{< interactive-modules/checklist-item label="Face paint is intact with no rubbing or fading" / / />}}
+  {{< interactive-modules/checklist-item label="Limbs are tight and properly functioning" / / />}}
+  {{< interactive-modules/checklist-item label="Original clothing and accessories are complete" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks, scratches, or teeth marks on the body" / / />}}
+  {{< interactive-modules/checklist-item label="Original documentation, tags, and inserts are present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-much-are-old-barbie-dolls-worth/how-much-are-old-barbie-dolls-worth-image-5__9t7VpV19.png" alt="Diverse collection of Barbie dolls from different eras showing evolution of the doll through decades" caption="The evolution of Barbie dolls through different eras shows distinct styles, hair, and fashion trends that help collectors identify valuable pieces." />}}

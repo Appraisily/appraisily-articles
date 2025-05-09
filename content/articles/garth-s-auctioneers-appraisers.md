@@ -134,7 +134,7 @@ Garth's has developed specialized knowledge across numerous categories of antiqu
 
 Garth's reputation is built on deep expertise across multiple collecting categories. Their specialists have decades of combined experience evaluating and selling everything from museum-quality pieces to everyday collectibles.
 
-{{< data-modules/stats-highlight title="Garth's by the Numbers" columns="3" / />}}
+{{< data-modules/stats-highlight title="Garth's by the Numbers" columns="3" / / />}}
 
 Some of Garth's primary specialties include:
 
@@ -229,13 +229,13 @@ Garth's team includes multiple certified appraisers with specialized knowledge a
 Appraisals can be conducted either on-site (for large collections or estates) or by appointment at Garth's facilities. Their written appraisals comply with Uniform Standards of Professional Appraisal Practice (USPAP) requirements.
 
 {{< interactive-modules/condition-checklist title="When to Consider a Professional Appraisal" description="Check if any of these situations apply to your antiques or collectibles" >}}
-  {{< interactive-modules/checklist-item label="You've inherited items of unknown value" / />}}
-  {{< interactive-modules/checklist-item label="You're planning your estate" / />}}
-  {{< interactive-modules/checklist-item label="You need to insure valuable items" / />}}
-  {{< interactive-modules/checklist-item label="You're considering selling at auction" / />}}
-  {{< interactive-modules/checklist-item label="You're donating items to charity" / />}}
-  {{< interactive-modules/checklist-item label="You're dividing assets in a divorce" / />}}
-  {{< interactive-modules/checklist-item label="You've experienced damage or loss to valuable items" / />}}
+  {{< interactive-modules/checklist-item label="You've inherited items of unknown value" / / />}}
+  {{< interactive-modules/checklist-item label="You're planning your estate" / / />}}
+  {{< interactive-modules/checklist-item label="You need to insure valuable items" / / />}}
+  {{< interactive-modules/checklist-item label="You're considering selling at auction" / / />}}
+  {{< interactive-modules/checklist-item label="You're donating items to charity" / / />}}
+  {{< interactive-modules/checklist-item label="You're dividing assets in a divorce" / / />}}
+  {{< interactive-modules/checklist-item label="You've experienced damage or loss to valuable items" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The cost of appraisal services varies depending on:

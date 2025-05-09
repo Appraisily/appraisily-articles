@@ -122,16 +122,16 @@ Older Royal models, particularly those from the early 1900s through the 1940s, t
 The functional and aesthetic condition dramatically impacts value. Working mechanisms, original paint, and minimal rust or damage are crucial for maximum value.
 
 {{< interactive-modules/condition-checklist title="Royal Typewriter Condition Assessment" description="Use this checklist to evaluate your typewriter's condition" >}}
-  {{< interactive-modules/checklist-item label="All keys function properly" / />}}
-  {{< interactive-modules/checklist-item label="Carriage moves smoothly" / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with minimal scratches" / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal parts" / />}}
-  {{< interactive-modules/checklist-item label="All glass keys present (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original decals and logos visible" / />}}
-  {{< interactive-modules/checklist-item label="Space bar works consistently" / />}}
-  {{< interactive-modules/checklist-item label="Ribbon mechanism functions" / />}}
-  {{< interactive-modules/checklist-item label="Original case included" / />}}
-  {{< interactive-modules/checklist-item label="Documentation or manual present" / />}}
+  {{< interactive-modules/checklist-item label="All keys function properly" / / />}}
+  {{< interactive-modules/checklist-item label="Carriage moves smoothly" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with minimal scratches" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal parts" / / />}}
+  {{< interactive-modules/checklist-item label="All glass keys present (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original decals and logos visible" / / />}}
+  {{< interactive-modules/checklist-item label="Space bar works consistently" / / />}}
+  {{< interactive-modules/checklist-item label="Ribbon mechanism functions" / / />}}
+  {{< interactive-modules/checklist-item label="Original case included" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation or manual present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 3. Rarity and Special Features
@@ -148,7 +148,7 @@ Professional restoration can enhance value for rare models, though collectors of
 
 ![Restored Royal portable typewriter showing excellent condition](https://ik.imagekit.io/appraisily/SEO/antique-royal-typewriter-value/antique-royal-typewriter-value-image-3_Gi08bVt-S.png)
 
-{{< data-modules/stats-highlight title="Valuation Impact Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Valuation Impact Factors" columns="3" / / />}}
 
 {{< content-modules/section-header title="Popular Royal Typewriter Models and Their Values" level="2" >}}
 Different Royal typewriter models command varying prices in today's collector market. Here's a breakdown of the most sought-after models and their current market values.

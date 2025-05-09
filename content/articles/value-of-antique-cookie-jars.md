@@ -61,12 +61,12 @@ While age alone doesn't determine value, the historical era of production matter
 Condition dramatically impacts value, with mint or near-mint pieces commanding premium prices:
 
 {{< interactive-modules/condition-checklist title="Cookie Jar Condition Assessment" description="Check applicable items when examining a vintage cookie jar" >}}
-{{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / />}}
-{{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / />}}
-{{< interactive-modules/checklist-item label="Lid fits properly and is original to the jar" / />}}
-{{< interactive-modules/checklist-item label="No crazing or fine lines in the glaze" / />}}
-{{< interactive-modules/checklist-item label="Clean, legible manufacturer's mark (if applicable)" / />}}
-{{< interactive-modules/checklist-item label="Original stickers or paper labels present" / />}}
+{{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / / />}}
+{{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / / />}}
+{{< interactive-modules/checklist-item label="Lid fits properly and is original to the jar" / / />}}
+{{< interactive-modules/checklist-item label="No crazing or fine lines in the glaze" / / />}}
+{{< interactive-modules/checklist-item label="Clean, legible manufacturer's mark (if applicable)" / / />}}
+{{< interactive-modules/checklist-item label="Original stickers or paper labels present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Demand Factors
@@ -263,7 +263,7 @@ Many successful collectors focus their efforts on specific themes:
 
 A focused collection often becomes more valuable than a random assortment, as it shows curation and expertise that appeals to future buyers.
 
-{{< data-modules/stats-highlight title="Vintage Cookie Jar Market Trends" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Cookie Jar Market Trends" columns="3" / / />}}
 <tr>
   <td>75%</td>
   <td>Value Premium for Mint Condition</td>

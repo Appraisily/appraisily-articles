@@ -79,7 +79,7 @@ Discovering the true value of an antique item is both exciting and potentially r
 
 This comprehensive guide explores the various methods for getting your antiques professionally appraised, from traditional in-person evaluations to modern online services. We'll cover everything you need to know about the appraisal process, including costs, preparation, and how to choose the right appraisal method for your specific needs.
 
-{{< data-modules/stats-highlight title="Antique Appraisal Industry Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Appraisal Industry Facts" columns="3" / / />}}
 - **$250-$350**: Average starting cost for formal single-item appraisals
 - **72 Hours**: Typical turnaround time for online professional appraisals
 - **3+ Years**: Experience required for professional appraiser certification
@@ -236,14 +236,14 @@ The typical process for getting an online appraisal includes:
 - **Limited Legal Standing**: Some online appraisals may not be accepted for insurance or tax purposes
 
 {{< interactive-modules/condition-checklist title="Preparing Your Item for Appraisal" description="Complete these steps before submitting your antique for appraisal" >}}
-  {{< interactive-modules/checklist-item label="Clean the item gently without using harsh chemicals" / />}}
-  {{< interactive-modules/checklist-item label="Photograph from multiple angles in good lighting" / />}}
-  {{< interactive-modules/checklist-item label="Document any signatures, marks, or labels" / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions accurately" / />}}
-  {{< interactive-modules/checklist-item label="Compile any known history or provenance" / />}}
-  {{< interactive-modules/checklist-item label="Gather original receipts or previous appraisals if available" / />}}
-  {{< interactive-modules/checklist-item label="Make note of any damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Research comparable items if possible" / />}}
+  {{< interactive-modules/checklist-item label="Clean the item gently without using harsh chemicals" / / />}}
+  {{< interactive-modules/checklist-item label="Photograph from multiple angles in good lighting" / / />}}
+  {{< interactive-modules/checklist-item label="Document any signatures, marks, or labels" / / />}}
+  {{< interactive-modules/checklist-item label="Measure dimensions accurately" / / />}}
+  {{< interactive-modules/checklist-item label="Compile any known history or provenance" / / />}}
+  {{< interactive-modules/checklist-item label="Gather original receipts or previous appraisals if available" / / />}}
+  {{< interactive-modules/checklist-item label="Make note of any damage or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Research comparable items if possible" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="In-Person Appraisal Process" level="2" >}}

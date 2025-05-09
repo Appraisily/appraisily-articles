@@ -125,7 +125,7 @@ According to the Cascadia Art Museum, "Value is the lightness or darkness of a c
 
 Our eyes naturally perceive value differences before color. As noted by Shelby Dillon Studio, "Our eyes see first in light and dark, and see color second." This biological fact explains why value is so foundational to successful art—it's integral to how humans visually process information.
 
-{{< data-modules/stats-highlight title="Key Facts About Value in Art" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Value in Art" columns="3" / / />}}
 <tr>
   <td>Element Ranking</td>
   <td>Top 3</td>
@@ -181,11 +181,11 @@ Painters manipulate value through:
 - **Scumbling**: Dragging semi-opaque paint over dried layers
 
 {{< interactive-modules/condition-checklist title="Effective Use of Value in Art" description="Key techniques that demonstrate mastery of value" >}}
-  {{< interactive-modules/checklist-item label="Clear value hierarchy with distinct light, middle, and dark ranges" / />}}
-  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / />}}
-  {{< interactive-modules/checklist-item label="Contrasting values to create focal points" / />}}
-  {{< interactive-modules/checklist-item label="Gradual value transitions to create three-dimensional forms" / />}}
-  {{< interactive-modules/checklist-item label="Strategic use of high contrast for emphasis" / />}}
+  {{< interactive-modules/checklist-item label="Clear value hierarchy with distinct light, middle, and dark ranges" / / />}}
+  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / / />}}
+  {{< interactive-modules/checklist-item label="Contrasting values to create focal points" / / />}}
+  {{< interactive-modules/checklist-item label="Gradual value transitions to create three-dimensional forms" / / />}}
+  {{< interactive-modules/checklist-item label="Strategic use of high contrast for emphasis" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Digital Art and Value

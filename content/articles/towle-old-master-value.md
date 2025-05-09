@@ -156,7 +156,7 @@ According to recent appraisals and market listings, Towle Old Master sterling fl
 
 For complete sets, the value increases significantly with the number of place settings and additional serving pieces:
 
-{{< data-modules/stats-highlight title="Towle Old Master Set Values" columns="3" / />}}
+{{< data-modules/stats-highlight title="Towle Old Master Set Values" columns="3" / / />}}
 
 * **4-Piece Setting**: $760-$800
 * **5-Piece Setting**: $925-$1,000
@@ -170,14 +170,14 @@ Several key factors influence the market value of Towle Old Master sterling silv
 ![Towle Old Master sterling silver flatware showing tarnish and condition issues](https://ik.imagekit.io/appraisily/SEO/towle-old-master-value/towle-old-master-value-image-3_GpcooFkHQ.png)
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that impact the value of your Towle Old Master pieces" >}}
-  {{< interactive-modules/checklist-item label="No dents, dings, or deep scratches" / />}}
-  {{< interactive-modules/checklist-item label="Even patina with no excessive polish wear" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or alterations to the original design" / />}}
-  {{< interactive-modules/checklist-item label="Complete set with consistent pattern pieces" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible hallmarks present" / />}}
-  {{< interactive-modules/checklist-item label="Original monogramming (if any) is minimal or attractive" / />}}
-  {{< interactive-modules/checklist-item label="No bent tines on forks or warped spoon bowls" / />}}
-  {{< interactive-modules/checklist-item label="Serving pieces present in addition to place settings" / />}}
+  {{< interactive-modules/checklist-item label="No dents, dings, or deep scratches" / / />}}
+  {{< interactive-modules/checklist-item label="Even patina with no excessive polish wear" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or alterations to the original design" / / />}}
+  {{< interactive-modules/checklist-item label="Complete set with consistent pattern pieces" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible hallmarks present" / / />}}
+  {{< interactive-modules/checklist-item label="Original monogramming (if any) is minimal or attractive" / / />}}
+  {{< interactive-modules/checklist-item label="No bent tines on forks or warped spoon bowls" / / />}}
+  {{< interactive-modules/checklist-item label="Serving pieces present in addition to place settings" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness of Set
@@ -252,7 +252,7 @@ If you're considering selling your Towle Old Master sterling silver, several opt
 
 Sellers should realistically expect to receive 50-70% of the current retail value when selling to dealers or through auction houses. Direct sales to collectors can yield higher returns but may take longer to complete.
 
-{{< data-modules/stats-highlight title="Selling Value Expectations" columns="3" / />}}
+{{< data-modules/stats-highlight title="Selling Value Expectations" columns="3" / / />}}
 
 * **Retail Price Recovery**: 50-70% when selling complete sets to dealers
 * **Individual Piece Value**: 40-60% of retail when selling separate pieces

@@ -129,7 +129,7 @@ Antique identification apps work by analyzing photos of your items and comparing
 
 The appeal of these apps is clear: they offer instant, accessible expertise without the need to visit an appraiser or antique dealer. While they can't completely replace professional evaluation for high-value items, they provide a valuable starting point for understanding what you might have.
 
-{{< data-modules/stats-highlight title="Antique Identification App Usage Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Identification App Usage Statistics" columns="3" / / />}}
 <div class="stat-card">
   <div class="stat-value" style="color: var(--primary-color);">78%</div>
   <div class="stat-label">Accuracy</div>
@@ -321,11 +321,11 @@ According to user experiences shared on platforms like Reddit, apps like Google 
 However, it's important to remember that these apps are best used as a starting point rather than the final word on authenticity or value. For valuable items, professional appraisal is still recommended.
 
 {{< interactive-modules/condition-checklist title="App Accuracy Assessment" description="Factors that impact identification accuracy" >}}
-{{< interactive-modules/checklist-item label="Clear, well-lit photographs of the item" / />}}
-{{< interactive-modules/checklist-item label="Multiple angles captured of the object" / />}}
-{{< interactive-modules/checklist-item label="Close-ups of any maker's marks or signatures" / />}}
-{{< interactive-modules/checklist-item label="Clean background without distracting elements" / />}}
-{{< interactive-modules/checklist-item label="Proper size reference included in photo" / />}}
+{{< interactive-modules/checklist-item label="Clear, well-lit photographs of the item" / / />}}
+{{< interactive-modules/checklist-item label="Multiple angles captured of the object" / / />}}
+{{< interactive-modules/checklist-item label="Close-ups of any maker's marks or signatures" / / />}}
+{{< interactive-modules/checklist-item label="Clean background without distracting elements" / / />}}
+{{< interactive-modules/checklist-item label="Proper size reference included in photo" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Tips for Getting the Best Results" level="2" >}}

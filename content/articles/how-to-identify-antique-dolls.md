@@ -79,7 +79,7 @@ Identifying antique dolls is both an art and a science, requiring careful observ
 
 ![Collection of antique porcelain and bisque dolls with period clothing](https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-dolls/how-to-identify-antique-dolls-image-2_XV6yUA4LA.png)
 
-{{< data-modules/stats-highlight title="Key Statistics in Antique Doll Collecting" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Statistics in Antique Doll Collecting" columns="3" / / />}}
 
 {{< visual-modules/timeline title="Historical Evolution of Doll Manufacturing" >}}
   {{< visual-modules/timeline-item date="Pre-1800s" title="Early Wooden & Wax Dolls" >}}
@@ -206,14 +206,14 @@ Celluloid, an early plastic, was lightweight but flammable:
 ![Various antique dolls showing different body materials and construction](https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-dolls/how-to-identify-antique-dolls-image-4_p-Nx-WGP2.png)
 
 {{< interactive-modules/condition-checklist title="Material Identification Checklist" description="Use these checks to determine your doll's material" >}}
-  {{< interactive-modules/checklist-item label="Glazed, shiny porcelain head (china doll)" / />}}
-  {{< interactive-modules/checklist-item label="Unglazed, matte porcelain head (bisque doll)" / />}}
-  {{< interactive-modules/checklist-item label="Wood pulp composition with painted features" / />}}
-  {{< interactive-modules/checklist-item label="Extremely lightweight, hollow feel (celluloid)" / />}}
-  {{< interactive-modules/checklist-item label="Hard plastic with molded hair (post-1950s)" / />}}
-  {{< interactive-modules/checklist-item label="Vinyl with soft feel (modern doll or reproduction)" / />}}
-  {{< interactive-modules/checklist-item label="Cloth body with porcelain/bisque limbs" / />}}
-  {{< interactive-modules/checklist-item label="Fully jointed composition or wood body" / />}}
+  {{< interactive-modules/checklist-item label="Glazed, shiny porcelain head (china doll)" / / />}}
+  {{< interactive-modules/checklist-item label="Unglazed, matte porcelain head (bisque doll)" / / />}}
+  {{< interactive-modules/checklist-item label="Wood pulp composition with painted features" / / />}}
+  {{< interactive-modules/checklist-item label="Extremely lightweight, hollow feel (celluloid)" / / />}}
+  {{< interactive-modules/checklist-item label="Hard plastic with molded hair (post-1950s)" / / />}}
+  {{< interactive-modules/checklist-item label="Vinyl with soft feel (modern doll or reproduction)" / / />}}
+  {{< interactive-modules/checklist-item label="Cloth body with porcelain/bisque limbs" / / />}}
+  {{< interactive-modules/checklist-item label="Fully jointed composition or wood body" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Body Construction and Jointing Methods" level="2" >}}

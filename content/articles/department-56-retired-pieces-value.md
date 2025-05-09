@@ -46,7 +46,7 @@ Department 56 collectibles hold a special place in the hearts of holiday enthusi
 
 Department 56 began as a giftware department within the Bachman's floral company in 1976, introducing the first ceramic lighted buildings known as "Original Snow Village." Since then, the company has expanded to create multiple village series including Dickens' Village, North Pole Series, Christmas in the City, New England Village, and more. Each year, Department 56 retires certain pieces to make room for new designs, creating opportunities for collectors to invest in potentially valuable retired items.
 
-{{< data-modules/stats-highlight title="Department 56 Collecting By The Numbers" columns="3" / />}}
+{{< data-modules/stats-highlight title="Department 56 Collecting By The Numbers" columns="3" / / />}}
 <tr>
   <td>1976</td>
   <td>Year Department 56 was founded</td>
@@ -151,15 +151,15 @@ Limited editions and special releases generally command higher prices:
 - **Dealer Exclusives** - Pieces only available through certain retailers
 
 {{< interactive-modules/condition-checklist title="Department 56 Piece Value Assessment Checklist" description="Check applicable items to help determine potential value" >}}
-  {{< interactive-modules/checklist-item label="Original box and packaging present" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity included" / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or paint damage" / />}}
-  {{< interactive-modules/checklist-item label="Original light cord included" / />}}
-  {{< interactive-modules/checklist-item label="All accessories present" / />}}
-  {{< interactive-modules/checklist-item label="Limited edition or numbered piece" / />}}
-  {{< interactive-modules/checklist-item label="Early production year (pre-1990)" / />}}
-  {{< interactive-modules/checklist-item label="From a particularly popular series" / />}}
-  {{< interactive-modules/checklist-item label="Retired 10+ years ago" / />}}
+  {{< interactive-modules/checklist-item label="Original box and packaging present" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity included" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or paint damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original light cord included" / / />}}
+  {{< interactive-modules/checklist-item label="All accessories present" / / />}}
+  {{< interactive-modules/checklist-item label="Limited edition or numbered piece" / / />}}
+  {{< interactive-modules/checklist-item label="Early production year (pre-1990)" / / />}}
+  {{< interactive-modules/checklist-item label="From a particularly popular series" / / />}}
+  {{< interactive-modules/checklist-item label="Retired 10+ years ago" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Current Market Values for Retired Department 56 Pieces

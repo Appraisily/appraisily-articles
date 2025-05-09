@@ -73,7 +73,7 @@ Many antique tools were highly specialized for specific trades, from carpentry t
 
 ### Step 2: Look for Manufacturer's Marks and Patents
 
-{{< data-modules/stats-highlight title="Key Brand Identification Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Brand Identification Statistics" columns="3" / / />}}
 
 Examine the tool carefully for:
 - Maker's marks or manufacturer stamps
@@ -95,13 +95,13 @@ The materials and construction methods can reveal much about a tool's age:
 ### Step 4: Assess Condition and Completeness
 
 {{< interactive-modules/condition-checklist title="Antique Tool Condition Assessment" description="Check applicable items to evaluate your tool's condition" >}}
-  {{< interactive-modules/checklist-item label="Complete with all original parts" / />}}
-  {{< interactive-modules/checklist-item label="Functional or restorable to working condition" / />}}
-  {{< interactive-modules/checklist-item label="Original finish or patina preserved" / />}}
-  {{< interactive-modules/checklist-item label="No significant rust, rot, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Handles and wooden components intact" / />}}
-  {{< interactive-modules/checklist-item label="Original markings clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate repairs (if any)" / />}}
+  {{< interactive-modules/checklist-item label="Complete with all original parts" / / />}}
+  {{< interactive-modules/checklist-item label="Functional or restorable to working condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish or patina preserved" / / />}}
+  {{< interactive-modules/checklist-item label="No significant rust, rot, or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Handles and wooden components intact" / / />}}
+  {{< interactive-modules/checklist-item label="Original markings clearly visible" / / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate repairs (if any)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition dramatically affects both identification and value. A tool's completeness and functionality matter significantly to collectors. Note:

@@ -101,7 +101,7 @@ According to multiple financial sources and wealth trackers, Bob Dylan has accum
 
 As of 2025, **Bob Dylan's net worth is estimated at approximately $500 million**. This figure places him among the wealthiest musicians in the world, though not at the very top of the list. His wealth stems from multiple revenue streams developed throughout his career, with his songwriting catalog representing the most valuable asset in his financial portfolio.
 
-{{< data-modules/stats-highlight title="Bob Dylan's Financial Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Bob Dylan's Financial Highlights" columns="3" / / />}}
 
 While Dylan's net worth reflects his commercial success, it's worth noting that his artistic decisions were rarely driven by financial considerations. His willingness to evolve artistically, sometimes at the risk of alienating fans, demonstrates that Dylan's primary focus has always been on creative expression rather than commercial gain.
 
@@ -299,13 +299,13 @@ Despite his age, Dylan continues to create. New musical releases, art collection
 How Dylan has invested the proceeds from his catalog sale will significantly impact his net worth going forward. In a high-inflation environment, investment performance becomes crucial to maintaining the value of his liquid assets.
 
 {{< interactive-modules/condition-checklist title="Factors That Built Dylan's Wealth" description="Key elements that contributed to Bob Dylan's $500 million net worth" >}}
-  {{< interactive-modules/checklist-item label="Long-term retention of publishing rights before strategic sale" / />}}
-  {{< interactive-modules/checklist-item label="Consistent touring schedule for over three decades" / />}}
-  {{< interactive-modules/checklist-item label="Diversification into non-music ventures (whiskey, art, books)" / />}}
-  {{< interactive-modules/checklist-item label="Strategic real estate investments in premium locations" / />}}
-  {{< interactive-modules/checklist-item label="Continued creation of new material throughout career" / />}}
-  {{< interactive-modules/checklist-item label="Cultural relevance maintained across multiple generations" / />}}
-  {{< interactive-modules/checklist-item label="Global appeal extending beyond American audience" / />}}
+  {{< interactive-modules/checklist-item label="Long-term retention of publishing rights before strategic sale" / / />}}
+  {{< interactive-modules/checklist-item label="Consistent touring schedule for over three decades" / / />}}
+  {{< interactive-modules/checklist-item label="Diversification into non-music ventures (whiskey, art, books)" / / />}}
+  {{< interactive-modules/checklist-item label="Strategic real estate investments in premium locations" / / />}}
+  {{< interactive-modules/checklist-item label="Continued creation of new material throughout career" / / />}}
+  {{< interactive-modules/checklist-item label="Cultural relevance maintained across multiple generations" / / />}}
+  {{< interactive-modules/checklist-item label="Global appeal extending beyond American audience" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Bob Dylan's Personal Life and Spending Habits" level="2" >}}

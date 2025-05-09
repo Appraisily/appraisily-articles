@@ -101,7 +101,7 @@ Every December, as families unpack ornaments passed down through generations, ma
 
 From delicate hand-blown German glass figurals to mid-century ceramic trees, the world of vintage Christmas ornaments offers something for every collector and budget. Let's explore what makes these festive treasures valuable and which specific types command the highest prices in today's market.
 
-{{< data-modules/stats-highlight title="Antique Christmas Ornament Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Christmas Ornament Market Highlights" columns="3" / / />}}
 
 ## Most Valuable Types of Antique Christmas Ornaments
 
@@ -320,14 +320,14 @@ Multiple factors determine the value of antique Christmas ornaments. Understandi
 According to [The Spruce Crafts](https://www.thesprucecrafts.com/high-value-vintage-christmas-ornaments-4125847), condition is paramount when evaluating vintage Christmas ornaments. Those with minimal paint loss, all original components, and intact glass will always command higher prices than damaged examples.
 
 {{< interactive-modules/condition-checklist title="Ornament Condition Assessment Checklist" description="Check applicable items to determine the potential value of your antique Christmas ornaments" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or breaks in glass ornaments" / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear or scratching" / />}}
-  {{< interactive-modules/checklist-item label="Original hanging cap or hook present" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging included" / />}}
-  {{< interactive-modules/checklist-item label="No tarnishing on metallic surfaces" / />}}
-  {{< interactive-modules/checklist-item label="No fading of colors from sun exposure" / />}}
-  {{< interactive-modules/checklist-item label="All components present (for mechanical ornaments)" / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history available" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or breaks in glass ornaments" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear or scratching" / / />}}
+  {{< interactive-modules/checklist-item label="Original hanging cap or hook present" / / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging included" / / />}}
+  {{< interactive-modules/checklist-item label="No tarnishing on metallic surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="No fading of colors from sun exposure" / / />}}
+  {{< interactive-modules/checklist-item label="All components present (for mechanical ornaments)" / / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history available" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Beyond condition, these factors significantly influence value:

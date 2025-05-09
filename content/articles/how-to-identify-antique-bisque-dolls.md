@@ -182,7 +182,7 @@ Bisque refers to unglazed porcelain that has been fired twice to create a matte,
 
 True antique bisque has several distinctive characteristics:
 
-{{< data-modules/stats-highlight title="Key Characteristics of Bisque Material" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Characteristics of Bisque Material" columns="3" / / />}}
 
 - **Matte Finish**: Authentic bisque has a soft, non-reflective surface similar to human skin
 - **Porosity**: When touched to the tongue, bisque slightly sticks due to its porous nature
@@ -209,11 +209,11 @@ Maker's marks generally include:
 To locate these marks:
 
 {{< interactive-modules/condition-checklist title="Where to Look for Doll Marks" description="Check these areas when searching for maker's marks on your bisque doll:" >}}
-  {{< interactive-modules/checklist-item label="Back of the head (may require removing wig)" / />}}
-  {{< interactive-modules/checklist-item label="Back of shoulders or shoulder plate" / />}}
-  {{< interactive-modules/checklist-item label="Inside the head if accessible" / />}}
-  {{< interactive-modules/checklist-item label="Back of the doll's body (for all-bisque types)" / />}}
-  {{< interactive-modules/checklist-item label="Bottoms of the feet (for all-bisque dolls)" / />}}
+  {{< interactive-modules/checklist-item label="Back of the head (may require removing wig)" / / />}}
+  {{< interactive-modules/checklist-item label="Back of shoulders or shoulder plate" / / />}}
+  {{< interactive-modules/checklist-item label="Inside the head if accessible" / / />}}
+  {{< interactive-modules/checklist-item label="Back of the doll's body (for all-bisque types)" / / />}}
+  {{< interactive-modules/checklist-item label="Bottoms of the feet (for all-bisque dolls)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Some of the most common and valuable maker's marks include:
@@ -367,7 +367,7 @@ According to doll expert Elizabeth Appraisals, "If the head is Bisque, bisque is
 
 Here's how to tell the difference:
 
-{{< data-modules/stats-highlight title="Bisque vs. Porcelain Comparison" columns="2" / />}}
+{{< data-modules/stats-highlight title="Bisque vs. Porcelain Comparison" columns="2" / / />}}
 
 ### Bisque
 - **Finish**: Matte, non-reflective surface
@@ -447,14 +447,14 @@ With the value of authentic antique bisque dolls ranging from hundreds to thousa
 PBS's Antiques Roadshow expert [video on identifying antique versus reproduction dolls](https://www.youtube.com/watch?v=f-OtlRuaNfU) highlights several key factors to consider. Here are some tell-tale signs that a doll is a modern reproduction:
 
 {{< interactive-modules/condition-checklist title="Red Flags for Reproduction Dolls" description="Watch for these indicators that may suggest a doll is not a genuine antique:" >}}
-  {{< interactive-modules/checklist-item label="Perfect, uncrazed surface with no age lines" / />}}
-  {{< interactive-modules/checklist-item label="Bright, vivid colors that show no fading" / />}}
-  {{< interactive-modules/checklist-item label="Machine-made lace or synthetic fabrics on clothing" / />}}
-  {{< interactive-modules/checklist-item label="Poorly executed or inaccurate maker's marks" / />}}
-  {{< interactive-modules/checklist-item label="Modern fasteners (zippers, Velcro) on clothing" / />}}
-  {{< interactive-modules/checklist-item label="Overly uniform crazing that appears deliberate" / />}}
-  {{< interactive-modules/checklist-item label="Lightweight, hollow feeling when handled" / />}}
-  {{< interactive-modules/checklist-item label="Made in China" markings (though modern German reproductions exist too)" / />}}
+  {{< interactive-modules/checklist-item label="Perfect, uncrazed surface with no age lines" / / />}}
+  {{< interactive-modules/checklist-item label="Bright, vivid colors that show no fading" / / />}}
+  {{< interactive-modules/checklist-item label="Machine-made lace or synthetic fabrics on clothing" / / />}}
+  {{< interactive-modules/checklist-item label="Poorly executed or inaccurate maker's marks" / / />}}
+  {{< interactive-modules/checklist-item label="Modern fasteners (zippers, Velcro) on clothing" / / />}}
+  {{< interactive-modules/checklist-item label="Overly uniform crazing that appears deliberate" / / />}}
+  {{< interactive-modules/checklist-item label="Lightweight, hollow feeling when handled" / / />}}
+  {{< interactive-modules/checklist-item label="Made in China" markings (though modern German reproductions exist too)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Modern reproductions often try to mimic antique crazing by applying a chemical solution to create artificial crackling, but this typically appears too uniform compared to the natural aging process of genuine antiques.

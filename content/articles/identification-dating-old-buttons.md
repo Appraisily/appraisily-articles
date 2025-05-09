@@ -60,7 +60,7 @@ Accurate identification allows you to:
 
 For metal detectorists, button identification can provide critical dating evidence for archaeological sites. According to the [Friendly Metal Detecting Forum](https://metaldetectingforum.com/index.php?threads/identifying-buttons.290827/), "There are some websites that link to some old button manufacturers info can be found online" that can help place buttons in their proper historical context.
 
-{{< data-modules/stats-highlight title="Button Collecting Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Button Collecting Facts" columns="3" / / />}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/identification-dating-old-buttons/identification-dating-old-buttons-image-2_ux9yd_yPE.png" alt="Close-up of antique brass buttons showing backmarks and shank styles" caption="Backmarks and shank styles are crucial for dating metal buttons" />}}
 
@@ -283,14 +283,14 @@ Many collectors focus on specific button categories:
 - **Jewel buttons:** Featuring cut steel, rhinestones, or other gem-like elements
 
 {{< interactive-modules/condition-checklist title="Button Authentication Checklist" description="Use this checklist to help authenticate antique buttons" >}}
-  {{< interactive-modules/checklist-item label="Signs of appropriate age-related wear" / />}}
-  {{< interactive-modules/checklist-item label="Material consistent with claimed age" / />}}
-  {{< interactive-modules/checklist-item label="Attachment method matches historical period" / />}}
-  {{< interactive-modules/checklist-item label="Patina appears natural and undisturbed" / />}}
-  {{< interactive-modules/checklist-item label="Design elements match the artistic period" / />}}
-  {{< interactive-modules/checklist-item label="Weight feels appropriate for the material" / />}}
-  {{< interactive-modules/checklist-item label="Any backmarks are period-appropriate" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing technique consistent with era" / />}}
+  {{< interactive-modules/checklist-item label="Signs of appropriate age-related wear" / / />}}
+  {{< interactive-modules/checklist-item label="Material consistent with claimed age" / / />}}
+  {{< interactive-modules/checklist-item label="Attachment method matches historical period" / / />}}
+  {{< interactive-modules/checklist-item label="Patina appears natural and undisturbed" / / />}}
+  {{< interactive-modules/checklist-item label="Design elements match the artistic period" / / />}}
+  {{< interactive-modules/checklist-item label="Weight feels appropriate for the material" / / />}}
+  {{< interactive-modules/checklist-item label="Any backmarks are period-appropriate" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturing technique consistent with era" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Tools and Techniques for Button Identification" level="2" >}}

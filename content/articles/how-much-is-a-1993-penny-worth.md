@@ -107,7 +107,7 @@ The 1993 Lincoln Memorial cent is a common coin that most Americans have likely 
 The 1993 penny is part of the Lincoln Memorial cent series that was produced from 1959 to 2008. These coins feature Abraham Lincoln's profile on the obverse (designed by Victor David Brenner) and the Lincoln Memorial on the reverse (designed by Frank Gasparro). In 1993, pennies were minted at three different facilities: Philadelphia (no mint mark), Denver (D mint mark), and San Francisco (S mint mark for proof coins only).
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="1993 Penny Production Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="1993 Penny Production Facts" columns="3" / / />}}
 
 | Mint Location | Mintage | Mint Mark |
 |--------------|---------|-----------|
@@ -331,14 +331,14 @@ If you're wondering whether your 1993 penny might be valuable, there are several
 ![A magnifying glass examining a 1993 penny to identify valuable features](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1993-penny-worth/how-much-is-a-1993-penny-worth-image-5_V8Gz_vhXDj.png)
 
 {{< interactive-modules/condition-checklist title="1993 Penny Valuable Features Checklist" description="Check all that apply to your 1993 penny" >}}
-  {{< interactive-modules/checklist-item label="Original red or red-brown color (not cleaned or damaged)" / />}}
-  {{< interactive-modules/checklist-item label="No visible wear on high points (uncirculated condition)" / />}}
-  {{< interactive-modules/checklist-item label="Close AM variety (letters A and M in AMERICA are close/touching)" / />}}
-  {{< interactive-modules/checklist-item label="Visible doubling on lettering or date" / />}}
-  {{< interactive-modules/checklist-item label="Off-center strike (design not centered on the coin)" / />}}
-  {{< interactive-modules/checklist-item label="Die cracks or breaks visible on the surface" / />}}
-  {{< interactive-modules/checklist-item label="S mint mark (indicates proof coin from San Francisco)" / />}}
-  {{< interactive-modules/checklist-item label="Unusual color or appearance (possible wrong planchet)" / />}}
+  {{< interactive-modules/checklist-item label="Original red or red-brown color (not cleaned or damaged)" / / />}}
+  {{< interactive-modules/checklist-item label="No visible wear on high points (uncirculated condition)" / / />}}
+  {{< interactive-modules/checklist-item label="Close AM variety (letters A and M in AMERICA are close/touching)" / / />}}
+  {{< interactive-modules/checklist-item label="Visible doubling on lettering or date" / / />}}
+  {{< interactive-modules/checklist-item label="Off-center strike (design not centered on the coin)" / / />}}
+  {{< interactive-modules/checklist-item label="Die cracks or breaks visible on the surface" / / />}}
+  {{< interactive-modules/checklist-item label="S mint mark (indicates proof coin from San Francisco)" / / />}}
+  {{< interactive-modules/checklist-item label="Unusual color or appearance (possible wrong planchet)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< visual-modules/timeline title="Evolution of the Lincoln Cent" >}}
@@ -376,12 +376,12 @@ Proper storage is crucial to maintaining your coin's condition and value. Never 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="1993 Penny Preservation Tips" description="Follow these guidelines to maintain your coin's condition" >}}
-  {{< interactive-modules/checklist-item label="Handle coins only by their edges" / />}}
-  {{< interactive-modules/checklist-item label="Store in non-PVC coin flips, holders, or albums" / />}}
-  {{< interactive-modules/checklist-item label="Keep coins in a cool, dry environment" / />}}
-  {{< interactive-modules/checklist-item label="Never clean coins with chemicals or abrasives" / />}}
-  {{< interactive-modules/checklist-item label="Consider professional grading for valuable specimens" / />}}
-  {{< interactive-modules/checklist-item label="Protect from exposure to air, moisture, and sulfur" / />}}
+  {{< interactive-modules/checklist-item label="Handle coins only by their edges" / / />}}
+  {{< interactive-modules/checklist-item label="Store in non-PVC coin flips, holders, or albums" / / />}}
+  {{< interactive-modules/checklist-item label="Keep coins in a cool, dry environment" / / />}}
+  {{< interactive-modules/checklist-item label="Never clean coins with chemicals or abrasives" / / />}}
+  {{< interactive-modules/checklist-item label="Consider professional grading for valuable specimens" / / />}}
+  {{< interactive-modules/checklist-item label="Protect from exposure to air, moisture, and sulfur" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Professional Grading" level="3" >}}

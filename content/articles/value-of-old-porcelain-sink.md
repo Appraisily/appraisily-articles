@@ -84,7 +84,7 @@ Several key factors influence the value of vintage porcelain sinks. Understandin
 
 ![Vintage porcelain bathroom sink with ornate pedestal base](https://ik.imagekit.io/appraisily/SEO/value-of-old-porcelain-sink/value-of-old-porcelain-sink-image-2_VFBEteFOp.png)
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
 
 ### Age and Era
 
@@ -225,14 +225,14 @@ According to historical records from the [Kohler Company](https://www.us.kohler.
 ### Identify Design Features by Era
 
 {{< interactive-modules/condition-checklist title="Period-Specific Design Features" description="Identify these elements to help date your vintage sink" >}}
-  {{< interactive-modules/checklist-item label="High backsplash with detailed molding (1890s-1920s)" / />}}
-  {{< interactive-modules/checklist-item label="Wall-mounted with exposed brackets (1910s-1930s)" / />}}
-  {{< interactive-modules/checklist-item label="Pedestal base with Art Deco details (1920s-1930s)" / />}}
-  {{< interactive-modules/checklist-item label="Integrated soap dishes or cup holders (1920s-1940s)" / />}}
-  {{< interactive-modules/checklist-item label="Decorative chrome or brass legs (1920s-1940s)" / />}}
-  {{< interactive-modules/checklist-item label="Colored porcelain (most common 1920s-1950s)" / />}}
-  {{< interactive-modules/checklist-item label="Integrated drainboards (most popular 1930s-1950s)" / />}}
-  {{< interactive-modules/checklist-item label="Double basin with center divider (1940s-1960s)" / />}}
+  {{< interactive-modules/checklist-item label="High backsplash with detailed molding (1890s-1920s)" / / />}}
+  {{< interactive-modules/checklist-item label="Wall-mounted with exposed brackets (1910s-1930s)" / / />}}
+  {{< interactive-modules/checklist-item label="Pedestal base with Art Deco details (1920s-1930s)" / / />}}
+  {{< interactive-modules/checklist-item label="Integrated soap dishes or cup holders (1920s-1940s)" / / />}}
+  {{< interactive-modules/checklist-item label="Decorative chrome or brass legs (1920s-1940s)" / / />}}
+  {{< interactive-modules/checklist-item label="Colored porcelain (most common 1920s-1950s)" / / />}}
+  {{< interactive-modules/checklist-item label="Integrated drainboards (most popular 1930s-1950s)" / / />}}
+  {{< interactive-modules/checklist-item label="Double basin with center divider (1940s-1960s)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Examine Plumbing Fixtures

@@ -180,7 +180,7 @@ Several factors are driving this revival:
 
 According to data from [1stDibs](https://www.1stdibs.com/answers/do-old-rotary-phones-have-any-value/), collectors particularly seek phones in colors other than the standard black, brown, white, and beige. Models in blue, green, yellow, red, pink, or purple typically command significantly higher prices due to their rarity and visual appeal.
 
-{{< data-modules/stats-highlight title="Rotary Phone Market Trends" columns="3" / />}}
+{{< data-modules/stats-highlight title="Rotary Phone Market Trends" columns="3" / / />}}
 
 **500%** | **Price Increase** | Average value growth for vintage rotary phones in recent years
 
@@ -221,14 +221,14 @@ Phones manufactured by certain companies tend to be more valuable:
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Rotary Phone Condition Factors" description="These factors significantly impact valuation" >}}
-  {{< interactive-modules/checklist-item label="Working dial mechanism" / />}}
-  {{< interactive-modules/checklist-item label="Original handset with intact cord" / />}}
-  {{< interactive-modules/checklist-item label="Clear, undamaged dial face" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or chips in the housing" / />}}
-  {{< interactive-modules/checklist-item label="Original color without fading" / />}}
-  {{< interactive-modules/checklist-item label="Functional ringer mechanism" / />}}
-  {{< interactive-modules/checklist-item label="Original wall mount (for wall models)" / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or documentation" / />}}
+  {{< interactive-modules/checklist-item label="Working dial mechanism" / / />}}
+  {{< interactive-modules/checklist-item label="Original handset with intact cord" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, undamaged dial face" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks or chips in the housing" / / />}}
+  {{< interactive-modules/checklist-item label="Original color without fading" / / />}}
+  {{< interactive-modules/checklist-item label="Functional ringer mechanism" / / />}}
+  {{< interactive-modules/checklist-item label="Original wall mount (for wall models)" / / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or documentation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Uniqueness

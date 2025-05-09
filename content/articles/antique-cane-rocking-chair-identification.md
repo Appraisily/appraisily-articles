@@ -142,7 +142,7 @@ To authenticate hand-caning, look for:
 - A dimensional quality when viewed from different angles
 - Natural variations in the color and thickness of strands
 
-{{< data-modules/stats-highlight title="Cane Chair Identification Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Cane Chair Identification Statistics" columns="3" / / />}}
 
 ### Wood Types and Construction Techniques
 
@@ -159,12 +159,12 @@ The wood used in antique cane rocking chairs can provide valuable clues about ag
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Antique Construction Indicators" description="Look for these construction features when examining a chair" >}}
-  {{< interactive-modules/checklist-item label="Mortise and tenon joints with visible pegs" / />}}
-  {{< interactive-modules/checklist-item label="Irregular saw marks or hand-planing evidence" / />}}
-  {{< interactive-modules/checklist-item label="Square-headed or hand-forged nails" / />}}
-  {{< interactive-modules/checklist-item label="Original rockers with wear consistent with the chair's age" / />}}
-  {{< interactive-modules/checklist-item label="Asymmetry in matching parts (indicating handwork)" / />}}
-  {{< interactive-modules/checklist-item label="Patina consistent across all wooden components" / />}}
+  {{< interactive-modules/checklist-item label="Mortise and tenon joints with visible pegs" / / />}}
+  {{< interactive-modules/checklist-item label="Irregular saw marks or hand-planing evidence" / / />}}
+  {{< interactive-modules/checklist-item label="Square-headed or hand-forged nails" / / />}}
+  {{< interactive-modules/checklist-item label="Original rockers with wear consistent with the chair's age" / / />}}
+  {{< interactive-modules/checklist-item label="Asymmetry in matching parts (indicating handwork)" / / />}}
+  {{< interactive-modules/checklist-item label="Patina consistent across all wooden components" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Maker's Marks and Labels
@@ -326,12 +326,12 @@ According to the [Fontaine's Auction guide on antique furniture appraisal](https
 The condition of an antique cane rocking chair dramatically affects its value:
 
 {{< interactive-modules/condition-checklist title="Condition Factors Affecting Value" description="Assess these elements when evaluating a chair's condition" >}}
-  {{< interactive-modules/checklist-item label="Original caning intact and stable" / />}}
-  {{< interactive-modules/checklist-item label="All structural joints sound with no repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original finish present with natural patina" / />}}
-  {{< interactive-modules/checklist-item label="No replacement parts or inappropriate restoration" / />}}
-  {{< interactive-modules/checklist-item label="Rockers with even, age-appropriate wear" / />}}
-  {{< interactive-modules/checklist-item label="Free from wood-boring insect damage" / />}}
+  {{< interactive-modules/checklist-item label="Original caning intact and stable" / / />}}
+  {{< interactive-modules/checklist-item label="All structural joints sound with no repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish present with natural patina" / / />}}
+  {{< interactive-modules/checklist-item label="No replacement parts or inappropriate restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Rockers with even, age-appropriate wear" / / />}}
+  {{< interactive-modules/checklist-item label="Free from wood-boring insect damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Historical Significance

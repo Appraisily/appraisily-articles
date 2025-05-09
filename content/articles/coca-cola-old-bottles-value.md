@@ -46,7 +46,7 @@ For collectors and enthusiasts alike, vintage Coca-Cola bottles represent a fasc
 
 This comprehensive guide will help you identify valuable Coca-Cola bottles in your collection, understand what factors affect their worth, and learn current market prices for the most sought-after examples.
 
-{{< data-modules/stats-highlight title="Coca-Cola Bottle Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Coca-Cola Bottle Market Highlights" columns="3" / / />}}
 <tr>
   <td>$240,000</td>
   <td>Highest auction price</td>
@@ -163,14 +163,14 @@ Test designs, prototype bottles, and production errors can be exceptionally valu
 Bottles produced for special occasions, anniversaries, or with unique historical significance often have higher values.
 
 {{< interactive-modules/condition-checklist title="Coca-Cola Bottle Condition Assessment" description="Check applicable items to evaluate your bottle's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original label intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossing" / />}}
-  {{< interactive-modules/checklist-item label="Original contents (unopened)" / />}}
-  {{< interactive-modules/checklist-item label="No significant wear or scratches" / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or box included" / />}}
-  {{< interactive-modules/checklist-item label="From small town or limited distribution" / />}}
-  {{< interactive-modules/checklist-item label="Rare color variation" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Original label intact (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossing" / / />}}
+  {{< interactive-modules/checklist-item label="Original contents (unopened)" / / />}}
+  {{< interactive-modules/checklist-item label="No significant wear or scratches" / / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or box included" / / />}}
+  {{< interactive-modules/checklist-item label="From small town or limited distribution" / / />}}
+  {{< interactive-modules/checklist-item label="Rare color variation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Your Bottle's Era" level="2" >}}

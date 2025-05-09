@@ -159,7 +159,7 @@ These pattern identifiers can help collectors:
 - Research the production history of specific designs
 - Determine market value based on pattern demand
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Tea Cup Markings" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Tea Cup Markings" columns="3" / / />}}
 
 ## How to Examine Tea Cup Markings
 
@@ -180,13 +180,13 @@ Properly examining tea cup markings requires attention to detail and good lighti
 6. **Document what you find**: Take clear photos of any markings for research purposes. Note any text, numbers, symbols, or images.
 
 {{< interactive-modules/condition-checklist title="Tea Cup Examination Checklist" description="Use this checklist when examining antique tea cups" >}}
-  {{< interactive-modules/checklist-item label="Examine in good natural light" / />}}
-  {{< interactive-modules/checklist-item label="Use magnification for small details" / />}}
-  {{< interactive-modules/checklist-item label="Clean the bottom surface gently" / />}}
-  {{< interactive-modules/checklist-item label="Look for faded or partial markings" / />}}
-  {{< interactive-modules/checklist-item label="Check for pattern numbers and names" / />}}
-  {{< interactive-modules/checklist-item label="Document markings with clear photos" / />}}
-  {{< interactive-modules/checklist-item label="Examine all pieces in a set" / />}}
+  {{< interactive-modules/checklist-item label="Examine in good natural light" / / />}}
+  {{< interactive-modules/checklist-item label="Use magnification for small details" / / />}}
+  {{< interactive-modules/checklist-item label="Clean the bottom surface gently" / / />}}
+  {{< interactive-modules/checklist-item label="Look for faded or partial markings" / / />}}
+  {{< interactive-modules/checklist-item label="Check for pattern numbers and names" / / />}}
+  {{< interactive-modules/checklist-item label="Document markings with clear photos" / / />}}
+  {{< interactive-modules/checklist-item label="Examine all pieces in a set" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Identifying Common Manufacturer Marks

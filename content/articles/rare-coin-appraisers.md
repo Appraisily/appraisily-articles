@@ -89,7 +89,7 @@ Rare coins can be worth significantly more than their face value, sometimes reac
 
 A professional coin appraiser brings expertise that goes beyond what an average collector might know:
 
-{{< data-modules/stats-highlight title="Why Professional Appraisals Matter" columns="3" / />}}
+{{< data-modules/stats-highlight title="Why Professional Appraisals Matter" columns="3" / / />}}
 
 1. **Expert Authentication**: Professional appraisers can distinguish authentic rare coins from counterfeits or altered specimens.
 
@@ -223,14 +223,14 @@ During the first contact, the appraiser will ask about:
 The appraiser will examine each coin, considering:
 
 {{< interactive-modules/condition-checklist title="Coin Appraisal Evaluation Factors" description="What professionals look for when appraising coins" >}}
-  {{< interactive-modules/checklist-item label="Authenticity indicators" / />}}
-  {{< interactive-modules/checklist-item label="Grade and condition" / />}}
-  {{< interactive-modules/checklist-item label="Mint marks and date" / />}}
-  {{< interactive-modules/checklist-item label="Errors or varieties" / />}}
-  {{< interactive-modules/checklist-item label="Toning and surface preservation" / />}}
-  {{< interactive-modules/checklist-item label="Strike quality" / />}}
-  {{< interactive-modules/checklist-item label="Historical significance" / />}}
-  {{< interactive-modules/checklist-item label="Rarity" / />}}
+  {{< interactive-modules/checklist-item label="Authenticity indicators" / / />}}
+  {{< interactive-modules/checklist-item label="Grade and condition" / / />}}
+  {{< interactive-modules/checklist-item label="Mint marks and date" / / />}}
+  {{< interactive-modules/checklist-item label="Errors or varieties" / / />}}
+  {{< interactive-modules/checklist-item label="Toning and surface preservation" / / />}}
+  {{< interactive-modules/checklist-item label="Strike quality" / / />}}
+  {{< interactive-modules/checklist-item label="Historical significance" / / />}}
+  {{< interactive-modules/checklist-item label="Rarity" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 3. Research and Valuation

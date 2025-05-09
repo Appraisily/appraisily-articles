@@ -209,7 +209,7 @@ Uncommon features that can increase value include:
 - Advertising or merchant marks
 - Regional rarities
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / / />}}
 
 ## Current Market Values for Antique Brown Jugs
 
@@ -328,15 +328,15 @@ Several features can help determine a jug's approximate age:
 - Post-1920: Often machine-made with uniform appearance
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Check applicable items to determine if your brown jug might be valuable" >}}
-  {{< interactive-modules/checklist-item label="Jug dates from before 1880" / />}}
-  {{< interactive-modules/checklist-item label="Has visible maker's mark or stamp" / />}}
-  {{< interactive-modules/checklist-item label="Features hand-painted decoration" / />}}
-  {{< interactive-modules/checklist-item label="Shows distinctive salt glaze finish" / />}}
-  {{< interactive-modules/checklist-item label="Free from cracks, chips, and repairs" / />}}
-  {{< interactive-modules/checklist-item label="Unusual size, shape, or design" / />}}
-  {{< interactive-modules/checklist-item label="Has capacity marking (gallon number)" / />}}
-  {{< interactive-modules/checklist-item label="Features advertising or merchant information" / />}}
-  {{< interactive-modules/checklist-item label="From a known regional pottery" / />}}
+  {{< interactive-modules/checklist-item label="Jug dates from before 1880" / / />}}
+  {{< interactive-modules/checklist-item label="Has visible maker's mark or stamp" / / />}}
+  {{< interactive-modules/checklist-item label="Features hand-painted decoration" / / />}}
+  {{< interactive-modules/checklist-item label="Shows distinctive salt glaze finish" / / />}}
+  {{< interactive-modules/checklist-item label="Free from cracks, chips, and repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Unusual size, shape, or design" / / />}}
+  {{< interactive-modules/checklist-item label="Has capacity marking (gallon number)" / / />}}
+  {{< interactive-modules/checklist-item label="Features advertising or merchant information" / / />}}
+  {{< interactive-modules/checklist-item label="From a known regional pottery" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Notable Makers and Their Brown Jugs

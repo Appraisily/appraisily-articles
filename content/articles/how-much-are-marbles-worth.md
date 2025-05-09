@@ -70,7 +70,7 @@ Handmade marbles are generally more valuable than machine-made varieties. Certai
 
 Larger marbles (over 3/4 inch) tend to be worth more than smaller ones. Unusual or vibrant color combinations increase value, as do complex, well-executed patterns. Swirls, ribbons, and other intricate designs are particularly desirable.
 
-{{< data-modules/stats-highlight title="Marble Collecting Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Marble Collecting Market Statistics" columns="3" / / />}}
 
 {{< data-modules/price-table title="Value Ranges for Antique and Vintage Marbles" description="Current market values based on marble type and condition" >}}
   <tr>
@@ -128,13 +128,13 @@ American handmade marbles from the late 19th and early 20th centuries are also h
 - **Bricks**: Unique pattern resembling stacked bricks in cross-section
 
 {{< interactive-modules/condition-checklist title="Handmade Marble Identification Checklist" description="Use this checklist to help identify potentially valuable handmade marbles" >}}
-  {{< interactive-modules/checklist-item label="Visible pontil mark (rough spot where marble was cut from rod)" / />}}
-  {{< interactive-modules/checklist-item label="Slightly irregular in shape (not perfectly round)" / />}}
-  {{< interactive-modules/checklist-item label="Contains gold aventurine flecks (Lutz marbles)" / />}}
-  {{< interactive-modules/checklist-item label="Shows internal pattern of swirled ribbons" / />}}
-  {{< interactive-modules/checklist-item label="Has complex, layered construction visible from different angles" / />}}
-  {{< interactive-modules/checklist-item label="Size larger than standard (over 3/4 inch)" / />}}
-  {{< interactive-modules/checklist-item label="Contains embedded figurine (sulphide marble)" / />}}
+  {{< interactive-modules/checklist-item label="Visible pontil mark (rough spot where marble was cut from rod)" / / />}}
+  {{< interactive-modules/checklist-item label="Slightly irregular in shape (not perfectly round)" / / />}}
+  {{< interactive-modules/checklist-item label="Contains gold aventurine flecks (Lutz marbles)" / / />}}
+  {{< interactive-modules/checklist-item label="Shows internal pattern of swirled ribbons" / / />}}
+  {{< interactive-modules/checklist-item label="Has complex, layered construction visible from different angles" / / />}}
+  {{< interactive-modules/checklist-item label="Size larger than standard (over 3/4 inch)" / / />}}
+  {{< interactive-modules/checklist-item label="Contains embedded figurine (sulphide marble)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Machine-Made Marble Values" level="2" >}}

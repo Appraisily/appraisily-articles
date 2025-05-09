@@ -245,7 +245,7 @@ More complex are the mechanical seed planters, ranging from handheld models to e
 
 ## Identifying Materials and Construction Methods
 
-{{< data-modules/stats-highlight title="Key Identification Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Identification Factors" columns="3" / / />}}
 
 ### Materials as Age Indicators
 
@@ -336,14 +336,14 @@ Many companies revised their logos and maker's marks over time. For example:
 ## Assessing Condition and Authenticity
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of antique garden tools" >}}
-  {{< interactive-modules/checklist-item label="Original handle intact and secure" / />}}
-  {{< interactive-modules/checklist-item label="Metal components free from excessive rust or pitting" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks visible and legible" / />}}
-  {{< interactive-modules/checklist-item label="Moving parts (if any) still functional" / />}}
-  {{< interactive-modules/checklist-item label="No modern repairs or replacement parts" / />}}
-  {{< interactive-modules/checklist-item label="Patina consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or breaks in wooden components" / />}}
-  {{< interactive-modules/checklist-item label="Original finish (if applicable) still present" / />}}
+  {{< interactive-modules/checklist-item label="Original handle intact and secure" / / />}}
+  {{< interactive-modules/checklist-item label="Metal components free from excessive rust or pitting" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks visible and legible" / / />}}
+  {{< interactive-modules/checklist-item label="Moving parts (if any) still functional" / / />}}
+  {{< interactive-modules/checklist-item label="No modern repairs or replacement parts" / / />}}
+  {{< interactive-modules/checklist-item label="Patina consistent with age" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks or breaks in wooden components" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish (if applicable) still present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Signs of Authenticity

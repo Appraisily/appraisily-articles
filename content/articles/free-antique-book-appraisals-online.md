@@ -132,7 +132,7 @@ Unlike common household items, rare books can have substantial hidden value that
 
 A comprehensive appraisal from a rare book specialist provides more than just a price tag—it offers insights into your book's historical context, cultural significance, and preservation needs.
 
-{{< data-modules/stats-highlight title="Key Book Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Book Value Factors" columns="3" / / />}}
 
 ![Rare book dealer examining a first edition](https://ik.imagekit.io/appraisily/SEO/free-antique-book-appraisals-online/free-antique-book-appraisals-online-image-2_NxLelMhgX.png)
 
@@ -240,15 +240,15 @@ Clear, well-lit photographs are essential for accurate online appraisals:
 ![Multiple angles of an antique book for appraisal](https://ik.imagekit.io/appraisily/SEO/free-antique-book-appraisals-online/free-antique-book-appraisals-online-image-4_QB3KV8lTS.png)
 
 {{< interactive-modules/condition-checklist title="Book Photography Checklist" description="Essential photos to include with your appraisal request" >}}
-  {{< interactive-modules/checklist-item label="Front cover (full view)" / />}}
-  {{< interactive-modules/checklist-item label="Spine of the book" / />}}
-  {{< interactive-modules/checklist-item label="Back cover" / />}}
-  {{< interactive-modules/checklist-item label="Title page (complete)" / />}}
-  {{< interactive-modules/checklist-item label="Copyright/publication page" / />}}
-  {{< interactive-modules/checklist-item label="Any signatures or inscriptions" / />}}
-  {{< interactive-modules/checklist-item label="Notable illustrations or plates" / />}}
-  {{< interactive-modules/checklist-item label="Any damage or defects" / />}}
-  {{< interactive-modules/checklist-item label="Full binding (showing condition)" / />}}
+  {{< interactive-modules/checklist-item label="Front cover (full view)" / / />}}
+  {{< interactive-modules/checklist-item label="Spine of the book" / / />}}
+  {{< interactive-modules/checklist-item label="Back cover" / / />}}
+  {{< interactive-modules/checklist-item label="Title page (complete)" / / />}}
+  {{< interactive-modules/checklist-item label="Copyright/publication page" / / />}}
+  {{< interactive-modules/checklist-item label="Any signatures or inscriptions" / / />}}
+  {{< interactive-modules/checklist-item label="Notable illustrations or plates" / / />}}
+  {{< interactive-modules/checklist-item label="Any damage or defects" / / />}}
+  {{< interactive-modules/checklist-item label="Full binding (showing condition)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Write a Detailed Description

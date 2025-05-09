@@ -165,7 +165,7 @@ Common woods used in antique tables include:
 
 Look closely at the color, grain pattern, and weight of the wood. Genuine antiques typically show a patina that develops with age—a rich, warm glow that can't be accurately replicated in modern reproductions.
 
-{{< data-modules/stats-highlight title="Wood Identification Tips" columns="3" / />}}
+{{< data-modules/stats-highlight title="Wood Identification Tips" columns="3" / / />}}
 
 ### Analyzing Joinery Methods
 
@@ -204,11 +204,11 @@ Key joinery features to look for in genuine antiques:
 Genuine antique tables bear the subtle marks of age and use that are difficult to fake convincingly.
 
 {{< interactive-modules/condition-checklist title="Authentic Age Indicators" description="Look for these signs of natural aging and wear" >}}
-  {{< interactive-modules/checklist-item label="Uneven wear on table surfaces, feet, and edges" / />}}
-  {{< interactive-modules/checklist-item label="Color differences between exposed and hidden areas" / />}}
-  {{< interactive-modules/checklist-item label="Irregularities in hand-planed surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Patina (warm, mellow color developed over time)" / />}}
-  {{< interactive-modules/checklist-item label="Oxidation of exposed wood" / />}}
+  {{< interactive-modules/checklist-item label="Uneven wear on table surfaces, feet, and edges" / / />}}
+  {{< interactive-modules/checklist-item label="Color differences between exposed and hidden areas" / / />}}
+  {{< interactive-modules/checklist-item label="Irregularities in hand-planed surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="Patina (warm, mellow color developed over time)" / / />}}
+  {{< interactive-modules/checklist-item label="Oxidation of exposed wood" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Remember that perfect condition can sometimes be a red flag. Antiques that look pristine might be reproductions or heavily restored pieces, which impacts their value and authenticity.
@@ -449,14 +449,14 @@ Even experienced collectors can be fooled by clever reproductions. Here are crit
 ### Common Red Flags for Reproductions
 
 {{< interactive-modules/condition-checklist title="Warning Signs of Reproduction or Fakery" description="Be cautious if you observe any of these indicators" >}}
-  {{< interactive-modules/checklist-item label="Machine-perfect dovetail joints" / />}}
-  {{< interactive-modules/checklist-item label="Phillips head screws (not used before the 1930s)" / />}}
-  {{< interactive-modules/checklist-item label="Perfectly matching wood color throughout" / />}}
-  {{< interactive-modules/checklist-item label="Modern glues or adhesives visible in joints" / />}}
-  {{< interactive-modules/checklist-item label="Artificially distressed surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Inconsistent style elements from different periods" / />}}
-  {{< interactive-modules/checklist-item label="Wood species inconsistent with the period" / />}}
-  {{< interactive-modules/checklist-item label="Circular saw marks (not common before mid-19th century)" / />}}
+  {{< interactive-modules/checklist-item label="Machine-perfect dovetail joints" / / />}}
+  {{< interactive-modules/checklist-item label="Phillips head screws (not used before the 1930s)" / / />}}
+  {{< interactive-modules/checklist-item label="Perfectly matching wood color throughout" / / />}}
+  {{< interactive-modules/checklist-item label="Modern glues or adhesives visible in joints" / / />}}
+  {{< interactive-modules/checklist-item label="Artificially distressed surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="Inconsistent style elements from different periods" / / />}}
+  {{< interactive-modules/checklist-item label="Wood species inconsistent with the period" / / />}}
+  {{< interactive-modules/checklist-item label="Circular saw marks (not common before mid-19th century)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Examining Hardware and Fittings

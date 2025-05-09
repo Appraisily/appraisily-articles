@@ -81,7 +81,7 @@ There are different types of appraisals, including:
 - **Retail replacement value appraisals**: Used for buying or selling art
 - **Liquidation value appraisals**: For quick sales or auction estimates
 
-{{< data-modules/stats-highlight title="Art Appraisal Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Market Insights" columns="3" / / />}}
 
 ## Why Free Appraisals Exist
 
@@ -184,13 +184,13 @@ Dealers at antique shows and art fairs often provide free opinions:
 - Participate in appraisal events often held during these shows
 
 {{< interactive-modules/condition-checklist title="Preparation Checklist for Art Appraisal" description="Before seeking a free appraisal, ensure you have the following information ready:" >}}
-  {{< interactive-modules/checklist-item label="Clear photographs of the artwork (front, back, signatures, details)" / />}}
-  {{< interactive-modules/checklist-item label="Measurements (height, width, and depth if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Information about the artist (if known)" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation (history of ownership)" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of damage or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Original receipts or previous appraisals" / />}}
-  {{< interactive-modules/checklist-item label="Information about when and where the artwork was acquired" / />}}
+  {{< interactive-modules/checklist-item label="Clear photographs of the artwork (front, back, signatures, details)" / / />}}
+  {{< interactive-modules/checklist-item label="Measurements (height, width, and depth if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Information about the artist (if known)" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation (history of ownership)" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation of damage or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Original receipts or previous appraisals" / / />}}
+  {{< interactive-modules/checklist-item label="Information about when and where the artwork was acquired" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="What to Expect from a Free Art Appraisal" level="2" >}}

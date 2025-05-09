@@ -111,7 +111,7 @@ A snapshot of Bobby Bones' current financial standing and how he compares to oth
 
 According to multiple financial sources including [Celebrity Net Worth](https://www.celebritynetworth.com/richest-celebrities/richest-djs/bobby-bones-net-worth/), Bobby Bones' net worth stands at approximately $14 million as of 2025. This figure represents a significant increase from earlier estimates, which placed his wealth at around $7 million in 2022, according to [Sportskeeda](https://www.sportskeeda.com/pop-culture/what-bobby-bones-net-worth-fortune-explored-radio-personality-quits-american-idol).
 
-{{< data-modules/stats-highlight title="Bobby Bones Financial Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Bobby Bones Financial Highlights" columns="3" / / />}}
 
 | Metric | Value | Context |
 |--------|-------|---------|
@@ -294,13 +294,13 @@ Potential developments that could impact Bones' financial standing in coming yea
 3. **Career Transitions**: Moving away from established revenue sources to pursue new opportunities.
 
 {{< interactive-modules/condition-checklist title="Bobby Bones' Wealth Building Strategies" description="Key factors that have contributed to Bobby Bones' financial success" >}}
-  {{< interactive-modules/checklist-item label="Diversification across multiple entertainment platforms" / />}}
-  {{< interactive-modules/checklist-item label="Strategic real estate investments in growing markets" / />}}
-  {{< interactive-modules/checklist-item label="Development of personal brand beyond radio" / />}}
-  {{< interactive-modules/checklist-item label="Creation of intellectual property through books and content" / />}}
-  {{< interactive-modules/checklist-item label="Leveraging radio audience to launch complementary businesses" / />}}
-  {{< interactive-modules/checklist-item label="Building equity through business ownership rather than just salary" / />}}
-  {{< interactive-modules/checklist-item label="Using philanthropic work to strengthen personal brand" / />}}
+  {{< interactive-modules/checklist-item label="Diversification across multiple entertainment platforms" / / />}}
+  {{< interactive-modules/checklist-item label="Strategic real estate investments in growing markets" / / />}}
+  {{< interactive-modules/checklist-item label="Development of personal brand beyond radio" / / />}}
+  {{< interactive-modules/checklist-item label="Creation of intellectual property through books and content" / / />}}
+  {{< interactive-modules/checklist-item label="Leveraging radio audience to launch complementary businesses" / / />}}
+  {{< interactive-modules/checklist-item label="Building equity through business ownership rather than just salary" / / />}}
+  {{< interactive-modules/checklist-item label="Using philanthropic work to strengthen personal brand" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/faq title="Common Questions About Bobby Bones' Net Worth" id="faq-section" >}}

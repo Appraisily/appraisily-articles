@@ -91,7 +91,7 @@ Cast iron stoves first became popular in the 18th century and continued to be ma
 
 The value of antique cast iron stoves varies widely, with prices ranging from as little as $100 for basic, damaged models to several thousand dollars for rare, pristine examples from prestigious manufacturers. The most exceptional pieces, particularly those with historical significance or extraordinary craftsmanship, can command $5,000 or more in today's market.
 
-{{< data-modules/stats-highlight title="Antique Cast Iron Stove Market Overview" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Cast Iron Stove Market Overview" columns="3" / / />}}
 
 <tr>
   <td>Average Parlor Stove</td>
@@ -327,25 +327,25 @@ The condition of an antique cast iron stove is perhaps the single most important
 
 {{< interactive-modules/condition-checklist title="Cast Iron Stove Condition Assessment" description="Check all applicable items to help determine your stove's condition rating" >}}
 
-  {{< interactive-modules/checklist-item label="Original parts are all present (doors, legs, grates, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Original parts are all present (doors, legs, grates, etc.)" / / />}}
   
-  {{< interactive-modules/checklist-item label="Decorative elements and trim are intact" / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements and trim are intact" / / />}}
   
-  {{< interactive-modules/checklist-item label="No significant cracks in the cast iron body" / />}}
+  {{< interactive-modules/checklist-item label="No significant cracks in the cast iron body" / / />}}
   
-  {{< interactive-modules/checklist-item label="Minimal to no rust damage" / />}}
+  {{< interactive-modules/checklist-item label="Minimal to no rust damage" / / />}}
   
-  {{< interactive-modules/checklist-item label="Original nickel or chrome trim in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Original nickel or chrome trim in good condition" / / />}}
   
-  {{< interactive-modules/checklist-item label="Doors open and close properly" / />}}
+  {{< interactive-modules/checklist-item label="Doors open and close properly" / / />}}
   
-  {{< interactive-modules/checklist-item label="Manufacturer markings are visible" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer markings are visible" / / />}}
   
-  {{< interactive-modules/checklist-item label="Stove is functional for its intended purpose" / />}}
+  {{< interactive-modules/checklist-item label="Stove is functional for its intended purpose" / / />}}
   
-  {{< interactive-modules/checklist-item label="No amateur repairs or modifications" / />}}
+  {{< interactive-modules/checklist-item label="No amateur repairs or modifications" / / />}}
   
-  {{< interactive-modules/checklist-item label="Any restoration work professionally done" / />}}
+  {{< interactive-modules/checklist-item label="Any restoration work professionally done" / / />}}
 
 {{< /interactive-modules/condition-checklist >}}
 

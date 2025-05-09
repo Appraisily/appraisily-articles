@@ -117,7 +117,7 @@ Value refers to the lightness or darkness of tones or colors in artwork. It is t
 
 Value in art is sometimes called "tone" and exists on a scale from white (lightest) to black (darkest), with infinite gray values in between. Our eyes naturally perceive value before they register color—we see light and dark first, then hue. This physiological reality makes value the backbone of visual perception and a key determinant in how we interpret visual information.
 
-{{< data-modules/stats-highlight title="Key Facts About Value in Visual Art" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Value in Visual Art" columns="3" / / />}}
 <tr>
   <td>1st Element</td>
   <td>Perceived by Viewers</td>
@@ -264,13 +264,13 @@ In drawing and printmaking, artists create value through:
 - **Stippling**: Patterns of dots with varying density
 
 {{< interactive-modules/condition-checklist title="Evaluating Value in Artwork" description="Use this checklist to assess the effective use of value in a piece of art" >}}
-  {{< interactive-modules/checklist-item label="Clear value hierarchy with identifiable focal points" / />}}
-  {{< interactive-modules/checklist-item label="Full range of values from light to dark" / />}}
-  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / />}}
-  {{< interactive-modules/checklist-item label="Effective creation of form and volume through value" / />}}
-  {{< interactive-modules/checklist-item label="Value grouping that creates visual interest" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate contrast levels for subject matter" / />}}
-  {{< interactive-modules/checklist-item label="Coherent value pattern across the composition" / />}}
+  {{< interactive-modules/checklist-item label="Clear value hierarchy with identifiable focal points" / / />}}
+  {{< interactive-modules/checklist-item label="Full range of values from light to dark" / / />}}
+  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / / />}}
+  {{< interactive-modules/checklist-item label="Effective creation of form and volume through value" / / />}}
+  {{< interactive-modules/checklist-item label="Value grouping that creates visual interest" / / />}}
+  {{< interactive-modules/checklist-item label="Appropriate contrast levels for subject matter" / / />}}
+  {{< interactive-modules/checklist-item label="Coherent value pattern across the composition" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Role of Value in Creating Depth and Space" level="2" >}}

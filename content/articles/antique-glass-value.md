@@ -108,7 +108,7 @@ Antique and vintage glassware represents one of the most diverse and fascinating
 
 According to appraisers and auction houses, truly antique glassware is at least 100 years old, while vintage pieces are typically 40+ years old. The distinction matters significantly for valuation purposes. While some mass-produced vintage pieces might sell for under $50, rare antique examples in excellent condition can command prices from $5,000 to $10,000 or more.
 
-{{< data-modules/stats-highlight title="Antique Glass Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Glass Market Highlights" columns="3" / / />}}
 - **100+ years**: Age requirement for true "antique" glass designation
 - **40+ years**: Age requirement for "vintage" glass designation
 - **$5-$10,000+**: Price range for antique glassware depending on rarity and condition
@@ -248,14 +248,14 @@ Color can dramatically affect value, with certain hues being more desirable:
 - "Test colors" or experimental pieces are highly collectible
 
 {{< interactive-modules/condition-checklist title="Antique Glass Condition Assessment" description="Check all applicable conditions that affect your glassware's value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or fleabites" / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact (no wear to painted/gilded elements)" / />}}
-  {{< interactive-modules/checklist-item label="No clouding or etching from dishwasher use" / />}}
-  {{< interactive-modules/checklist-item label="Complete set (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging present" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restorations" / />}}
-  {{< interactive-modules/checklist-item label="Good clarity without internal bubbles/flaws (unless period-appropriate)" / />}}
-  {{< interactive-modules/checklist-item label="Bright, unfaded colors" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or fleabites" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (no wear to painted/gilded elements)" / / />}}
+  {{< interactive-modules/checklist-item label="No clouding or etching from dishwasher use" / / />}}
+  {{< interactive-modules/checklist-item label="Complete set (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging present" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restorations" / / />}}
+  {{< interactive-modules/checklist-item label="Good clarity without internal bubbles/flaws (unless period-appropriate)" / / />}}
+  {{< interactive-modules/checklist-item label="Bright, unfaded colors" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Determine Antique Glass Value" level="2" >}}

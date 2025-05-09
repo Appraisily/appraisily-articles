@@ -150,7 +150,7 @@ The VAM-12A "Moustache" variety is a fascinating die error where a curved die go
 
 According to [Find Bullion Prices](https://findbullionprices.com/blog/1922-silver-dollar-value-errors-rare-mint-marks-and-peace-dollar-varieties-worth-money/), these "Moustache" varieties typically sell for:
 
-{{< data-modules/stats-highlight title="'Moustache' VAM-12A Variety Values" columns="3" / />}}
+{{< data-modules/stats-highlight title="'Moustache' VAM-12A Variety Values" columns="3" / / />}}
 
 - Fine (F) condition: $100 to $150
 - Extra Fine (XF45) condition: $250 to $400
@@ -263,11 +263,11 @@ The genuine 1922 No Mint Mark Peace Dollar resulted from excessive die polishing
 Be cautious of artificially removed mint marks, where someone has tampered with a 1922-D to make it appear as the valuable No Mint Mark variety.
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for 1922 No Mint Mark Dollars" description="Verify these points to help authenticate a potential 1922 No Mint Mark error" >}}
-  {{< interactive-modules/checklist-item label="Complete absence of mint mark (not just faint)" / />}}
-  {{< interactive-modules/checklist-item label="Weakened reverse design, especially on 'ONE DOLLAR'" / />}}
-  {{< interactive-modules/checklist-item label="No signs of tooling marks where mint mark should be" / />}}
-  {{< interactive-modules/checklist-item label="Coin weight matches standard Peace Dollar (26.73 grams)" / />}}
-  {{< interactive-modules/checklist-item label="Silver ring test produces correct tone" / />}}
+  {{< interactive-modules/checklist-item label="Complete absence of mint mark (not just faint)" / / />}}
+  {{< interactive-modules/checklist-item label="Weakened reverse design, especially on 'ONE DOLLAR'" / / />}}
+  {{< interactive-modules/checklist-item label="No signs of tooling marks where mint mark should be" / / />}}
+  {{< interactive-modules/checklist-item label="Coin weight matches standard Peace Dollar (26.73 grams)" / / />}}
+  {{< interactive-modules/checklist-item label="Silver ring test produces correct tone" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authenticating the "Moustache" VAM-12A Variety

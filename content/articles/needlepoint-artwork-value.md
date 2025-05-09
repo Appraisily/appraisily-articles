@@ -105,7 +105,7 @@ One of the challenges in valuing needlepoint artwork is the highly subjective na
 
 ![Vintage needlepoint artwork featuring a hunt scene in ornate gold frame](https://ik.imagekit.io/appraisily/SEO/needlepoint-artwork-value/needlepoint-artwork-value-image-2_VFrrNhXPy.png)
 
-{{< data-modules/stats-highlight title="Needlepoint Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Needlepoint Market Insights" columns="3" / / />}}
 
 {{< data-modules/price-table title="Price Ranges for Needlepoint Artwork" description="Current market values based on category and condition" >}}
   <tr>
@@ -187,14 +187,14 @@ As with all collectibles, condition significantly impacts value. Appraisers exam
 - **Evidence of repairs**: Quality of restoration work, if present
 
 {{< interactive-modules/condition-checklist title="Needlepoint Condition Assessment Checklist" description="Use this checklist to evaluate the condition of a needlepoint artwork" >}}
-  {{< interactive-modules/checklist-item label="Canvas is intact with no tears or fraying" / />}}
-  {{< interactive-modules/checklist-item label="All stitches are secure with no unraveling" / />}}
-  {{< interactive-modules/checklist-item label="Colors retain original vibrancy without significant fading" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, stains, or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Frame (if present) is in good condition and period-appropriate" / />}}
-  {{< interactive-modules/checklist-item label="No evidence of insect damage or mold" / />}}
-  {{< interactive-modules/checklist-item label="No amateur repairs or modifications visible" / />}}
-  {{< interactive-modules/checklist-item label="Backing materials are intact and acid-free" / />}}
+  {{< interactive-modules/checklist-item label="Canvas is intact with no tears or fraying" / / />}}
+  {{< interactive-modules/checklist-item label="All stitches are secure with no unraveling" / / />}}
+  {{< interactive-modules/checklist-item label="Colors retain original vibrancy without significant fading" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage, stains, or discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Frame (if present) is in good condition and period-appropriate" / / />}}
+  {{< interactive-modules/checklist-item label="No evidence of insect damage or mold" / / />}}
+  {{< interactive-modules/checklist-item label="No amateur repairs or modifications visible" / / />}}
+  {{< interactive-modules/checklist-item label="Backing materials are intact and acid-free" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Documentation

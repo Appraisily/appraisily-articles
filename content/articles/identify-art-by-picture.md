@@ -87,7 +87,7 @@ Over the past decade, we've witnessed remarkable advancements in image recogniti
 
 Art identification apps use sophisticated image recognition algorithms to match your photos against vast databases of artwork. These tools can recognize brushstrokes, compositional elements, color palettes, and other distinctive features to identify artists, periods, and specific works. This technology has democratized art knowledge, making it accessible to anyone with a smartphone.
 
-{{< data-modules/stats-highlight title="Art Recognition Technology Impact" columns="3" / />}}
+{{< data-modules/stats-highlight title="Art Recognition Technology Impact" columns="3" / / />}}
   <div>
     <h3>8M+</h3>
     <p>Artworks in Smartify's database</p>
@@ -205,14 +205,14 @@ With multiple options available, selecting the best art identification tool depe
 ### Considerations When Choosing an App
 
 {{< interactive-modules/condition-checklist title="Art Identification App Selection Criteria" description="Consider these factors when choosing an art identification app" >}}
-  {{< interactive-modules/checklist-item label="Database size and comprehensiveness" / />}}
-  {{< interactive-modules/checklist-item label="Geographic coverage (Western vs. global art)" / />}}
-  {{< interactive-modules/checklist-item label="Contemporary art inclusion" / />}}
-  {{< interactive-modules/checklist-item label="Museum/gallery partnerships in your area" / />}}
-  {{< interactive-modules/checklist-item label="Additional features (audio tours, maps, personalization)" / />}}
-  {{< interactive-modules/checklist-item label="Price information and market data needs" / />}}
-  {{< interactive-modules/checklist-item label="User interface and ease of use" / />}}
-  {{< interactive-modules/checklist-item label="Offline functionality" / />}}
+  {{< interactive-modules/checklist-item label="Database size and comprehensiveness" / / />}}
+  {{< interactive-modules/checklist-item label="Geographic coverage (Western vs. global art)" / / />}}
+  {{< interactive-modules/checklist-item label="Contemporary art inclusion" / / />}}
+  {{< interactive-modules/checklist-item label="Museum/gallery partnerships in your area" / / />}}
+  {{< interactive-modules/checklist-item label="Additional features (audio tours, maps, personalization)" / / />}}
+  {{< interactive-modules/checklist-item label="Price information and market data needs" / / />}}
+  {{< interactive-modules/checklist-item label="User interface and ease of use" / / />}}
+  {{< interactive-modules/checklist-item label="Offline functionality" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Best App for Different User Needs

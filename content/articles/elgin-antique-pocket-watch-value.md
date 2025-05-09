@@ -147,7 +147,7 @@ Elgin manufactured movements in various grades, with higher grades featuring:
 - Better finishing and decoration
 - Enhanced accuracy and adjustment capabilities
 
-{{< data-modules/stats-highlight title="Movement Quality Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Movement Quality Factors" columns="3" / / />}}
 
 | Movement Type | Typical Jewel Count | Value Impact |
 |---------------|---------------------|--------------|
@@ -169,14 +169,14 @@ The condition of an Elgin pocket watch dramatically affects its value:
 - **Poor**: Heavy damage, non-functional – minimal value except for parts
 
 {{< interactive-modules/condition-checklist title="Elgin Pocket Watch Condition Assessment" description="Check all items that apply to your watch to estimate its condition" >}}
-  {{< interactive-modules/checklist-item label="Watch runs accurately and holds time" / />}}
-  {{< interactive-modules/checklist-item label="Case retains original finish with minimal scratches" / />}}
-  {{< interactive-modules/checklist-item label="Original dial is intact without cracks or significant discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Crystal is clear without cracks or chips" / />}}
-  {{< interactive-modules/checklist-item label="Winding and setting mechanisms work smoothly" / />}}
-  {{< interactive-modules/checklist-item label="Original hands are present and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Case opens and closes properly" / />}}
-  {{< interactive-modules/checklist-item label="Watch has original movement (not replaced)" / />}}
+  {{< interactive-modules/checklist-item label="Watch runs accurately and holds time" / / />}}
+  {{< interactive-modules/checklist-item label="Case retains original finish with minimal scratches" / / />}}
+  {{< interactive-modules/checklist-item label="Original dial is intact without cracks or significant discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Crystal is clear without cracks or chips" / / />}}
+  {{< interactive-modules/checklist-item label="Winding and setting mechanisms work smoothly" / / />}}
+  {{< interactive-modules/checklist-item label="Original hands are present and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Case opens and closes properly" / / />}}
+  {{< interactive-modules/checklist-item label="Watch has original movement (not replaced)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Special Features

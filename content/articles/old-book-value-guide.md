@@ -103,7 +103,7 @@ The physical condition of a book has an enormous impact on its value. Books in p
 ### Demand
 A book is ultimately worth what someone is willing to pay for it. Demand is influenced by factors like historical significance, literary importance, author reputation, aesthetic qualities, and current collector trends. A rare book in excellent condition still needs interested buyers to command a high price.
 
-{{< data-modules/stats-highlight title="Key Facts About Book Values" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Book Values" columns="3" / / />}}
 
 {{< content-modules/section-header title="Common Misconceptions About Book Value" level="3" >}}
   Many people have mistaken beliefs about what makes books valuable. Understanding these misconceptions can save you time and prevent disappointment.
@@ -181,14 +181,14 @@ Familiarize yourself with these common condition grades (from best to worst):
 According to [Biblio's condition guide](https://www.biblio.com/book-value?srsltid=AfmBOorskBB9-wexWqACMqh0_nekAIqFfiVnE-9ncyabohODudh8XaNK), condition can affect value by 50% or more between grades, particularly for collectible books.
 
 {{< interactive-modules/condition-checklist title="Book Condition Assessment Checklist" description="Use this checklist to help evaluate the condition of your old books" >}}
-  {{< interactive-modules/checklist-item label="Complete with all pages and maps/illustrations intact" / />}}
-  {{< interactive-modules/checklist-item label="Original binding in good condition (not rebacked or rebound)" / />}}
-  {{< interactive-modules/checklist-item label="Free of moisture damage, stains, and foxing (brown spots)" / />}}
-  {{< interactive-modules/checklist-item label="Original dust jacket present (for 20th century books)" / />}}
-  {{< interactive-modules/checklist-item label="No library markings, bookplates, or owner inscriptions" / />}}
-  {{< interactive-modules/checklist-item label="Spine is tight with no loose pages" / />}}
-  {{< interactive-modules/checklist-item label="No torn or dog-eared pages" / />}}
-  {{< interactive-modules/checklist-item label="No pencil marks or annotations" / />}}
+  {{< interactive-modules/checklist-item label="Complete with all pages and maps/illustrations intact" / / />}}
+  {{< interactive-modules/checklist-item label="Original binding in good condition (not rebacked or rebound)" / / />}}
+  {{< interactive-modules/checklist-item label="Free of moisture damage, stains, and foxing (brown spots)" / / />}}
+  {{< interactive-modules/checklist-item label="Original dust jacket present (for 20th century books)" / / />}}
+  {{< interactive-modules/checklist-item label="No library markings, bookplates, or owner inscriptions" / / />}}
+  {{< interactive-modules/checklist-item label="Spine is tight with no loose pages" / / />}}
+  {{< interactive-modules/checklist-item label="No torn or dog-eared pages" / / />}}
+  {{< interactive-modules/checklist-item label="No pencil marks or annotations" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Crucial Importance of Dust Jackets" level="3" >}}

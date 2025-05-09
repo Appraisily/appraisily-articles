@@ -162,7 +162,7 @@ Tartabull's official rookie cards were released in 1985, with his key rookie app
 
 The 1985 Donruss card is generally considered his primary rookie card among collectors. For high-grade examples (PSA 9 or PSA 10), prices can increase significantly compared to raw cards. In particular, PSA 10 examples of Tartabull's rookie cards can command a substantial premium, often selling for 5-10 times the value of a PSA 9.
 
-{{< data-modules/stats-highlight title="Danny Tartabull Rookie Card Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Danny Tartabull Rookie Card Market Statistics" columns="3" / / />}}
 
 ## Key Danny Tartabull Cards By Year
 
@@ -265,11 +265,11 @@ Several key factors influence the market value of Tartabull baseball cards.
 Condition is perhaps the most critical factor affecting Tartabull card values. Cards in near-mint to mint condition (NM-MT or better) can command significantly higher prices than those with visible wear.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Danny Tartabull Cards" description="Check all that apply to determine your card's condition" >}}
-  {{< interactive-modules/checklist-item label="Sharp, well-defined corners with no visible wear" / />}}
-  {{< interactive-modules/checklist-item label="Card is perfectly centered (50/50 on all sides)" / />}}
-  {{< interactive-modules/checklist-item label="Surface is free of scratches, print defects, and stains" / />}}
-  {{< interactive-modules/checklist-item label="Card edges are clean with no chipping or wear" / />}}
-  {{< interactive-modules/checklist-item label="Card has proper gloss and color saturation" / />}}
+  {{< interactive-modules/checklist-item label="Sharp, well-defined corners with no visible wear" / / />}}
+  {{< interactive-modules/checklist-item label="Card is perfectly centered (50/50 on all sides)" / / />}}
+  {{< interactive-modules/checklist-item label="Surface is free of scratches, print defects, and stains" / / />}}
+  {{< interactive-modules/checklist-item label="Card edges are clean with no chipping or wear" / / />}}
+  {{< interactive-modules/checklist-item label="Card has proper gloss and color saturation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Professional Grading
@@ -313,7 +313,7 @@ Understanding current market dynamics can help collectors make informed decision
 
 According to recent market data from Collectibles.com:
 
-{{< data-modules/stats-highlight title="Danny Tartabull Card Market Data" columns="3" / />}}
+{{< data-modules/stats-highlight title="Danny Tartabull Card Market Data" columns="3" / / />}}
 
 - Average Sale Price: $25.04
 - Total Sales Volume: $1,051.55

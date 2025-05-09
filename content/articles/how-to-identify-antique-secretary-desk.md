@@ -155,7 +155,7 @@ A secretary desk (sometimes called a secrétaire) typically features a drop-fron
 
 Today, collectors and enthusiasts value these pieces not only for their beauty but for their historical significance and craftsmanship. This guide will help you identify authentic antique secretary desks, understand their styles and periods, and recognize the quality indicators that determine their value.
 
-{{< data-modules/stats-highlight title="Antique Secretary Desk Key Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Secretary Desk Key Facts" columns="3" / / />}}
 <tr>
   <td>Origin Period</td>
   <td>Early 18th century</td>
@@ -238,11 +238,11 @@ Many high-quality antique secretary desks use different woods for different comp
 The joinery techniques used provide significant clues to a piece's age and authenticity:
 
 {{< interactive-modules/condition-checklist title="Joinery Authentication Checklist" description="Examine these joinery elements to authenticate an antique secretary desk" >}}
-  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints with irregular spacing and sizing" / />}}
-  {{< interactive-modules/checklist-item label="Mortise and tenon joints in frame construction" / />}}
-  {{< interactive-modules/checklist-item label="Wooden pegs or dowels reinforcing joints" / />}}
-  {{< interactive-modules/checklist-item label="Hand-planed surfaces with slight irregularities" / />}}
-  {{< interactive-modules/checklist-item label="Drawer bottoms running front-to-back (earlier pieces) or side-to-side (later pieces)" / />}}
+  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints with irregular spacing and sizing" / / />}}
+  {{< interactive-modules/checklist-item label="Mortise and tenon joints in frame construction" / / />}}
+  {{< interactive-modules/checklist-item label="Wooden pegs or dowels reinforcing joints" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-planed surfaces with slight irregularities" / / />}}
+  {{< interactive-modules/checklist-item label="Drawer bottoms running front-to-back (earlier pieces) or side-to-side (later pieces)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Hardware Examination
@@ -427,11 +427,11 @@ Be alert to these red flags suggesting inappropriate restoration:
 - **Excessive uniformity**: Overly perfect or machine-made appearance
 
 {{< interactive-modules/condition-checklist title="Restoration Assessment Checklist" description="Evaluate restoration quality and impact on authenticity" >}}
-  {{< interactive-modules/checklist-item label="Original finish preserved (even if worn)" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate hardware (even if some replacement)" / />}}
-  {{< interactive-modules/checklist-item label="Structural repairs done with traditional methods" / />}}
-  {{< interactive-modules/checklist-item label="Original wood patina maintained" / />}}
-  {{< interactive-modules/checklist-item label="Minimal replacement of original materials" / />}}
+  {{< interactive-modules/checklist-item label="Original finish preserved (even if worn)" / / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate hardware (even if some replacement)" / / />}}
+  {{< interactive-modules/checklist-item label="Structural repairs done with traditional methods" / / />}}
+  {{< interactive-modules/checklist-item label="Original wood patina maintained" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal replacement of original materials" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Regional Variations and Distinctive Features" level="2" >}}

@@ -193,7 +193,7 @@ Recent sales data from various sources confirms these valuation trends:
 
 It's worth noting that prices have steadily increased in recent years as these decanters become scarcer in unopened condition.
 
-{{< data-modules/stats-highlight title="Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Market Highlights" columns="3" / / />}}
 
 ![Old Grand-Dad Bicentennial Decanter with original box and packaging materials](https://ik.imagekit.io/appraisily/SEO/old-grand-dad-bicentennial-decanter-value/old-grand-dad-bicentennial-decanter-value-image-3_A7n88IXBH.png)
 
@@ -216,14 +216,14 @@ Complete packaging significantly enhances value:
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Condition Factors Checklist" description="Key condition elements affecting decanter value" >}}
-  {{< interactive-modules/checklist-item label="Intact tax seal with no damage or tampering" / />}}
-  {{< interactive-modules/checklist-item label="Clear, undamaged glass with no chips or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Original box in good condition with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity present" / />}}
-  {{< interactive-modules/checklist-item label="No leakage or evaporation of contents" / />}}
-  {{< interactive-modules/checklist-item label="Original glass stopper intact" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible labeling without significant fading" / />}}
-  {{< interactive-modules/checklist-item label="No clouding or discoloration of the bourbon" / />}}
+  {{< interactive-modules/checklist-item label="Intact tax seal with no damage or tampering" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, undamaged glass with no chips or cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Original box in good condition with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity present" / / />}}
+  {{< interactive-modules/checklist-item label="No leakage or evaporation of contents" / / />}}
+  {{< interactive-modules/checklist-item label="Original glass stopper intact" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible labeling without significant fading" / / />}}
+  {{< interactive-modules/checklist-item label="No clouding or discoloration of the bourbon" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Authentication

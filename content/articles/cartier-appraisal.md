@@ -129,7 +129,7 @@ Cartier continues to be a leading luxury brand with items that typically hold th
 An accurate appraisal of your Cartier pieces serves multiple purposes beyond simply knowing their monetary value, providing important documentation for insurance, estate planning, or potential sales.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Benefits of Professional Cartier Appraisals" columns="3" / />}}
+{{< data-modules/stats-highlight title="Benefits of Professional Cartier Appraisals" columns="3" / / />}}
 
 Here are the key reasons to invest in a professional Cartier appraisal:
 
@@ -164,14 +164,14 @@ Authentic Cartier pieces feature specific hallmarks that indicate their authenti
 - **Quality of Craftsmanship**: Authentic Cartier items exhibit flawless craftsmanship. Even tiny details like edges, gemstone settings, and closures will be perfectly executed.
 
 {{< interactive-modules/condition-checklist title="Cartier Authentication Checklist" description="Key elements to examine when authenticating Cartier items" >}}
-  {{< interactive-modules/checklist-item label="Clear, properly proportioned Cartier signature or logo" / />}}
-  {{< interactive-modules/checklist-item label="Proper metal hallmarks (18K, 750, PT950) next to the Cartier mark" / />}}
-  {{< interactive-modules/checklist-item label="Serial number that matches certificate (if available)" / />}}
-  {{< interactive-modules/checklist-item label="Crisp, precise engravings with no sloppy lettering" / />}}
-  {{< interactive-modules/checklist-item label="High-quality gemstones with proper certification for larger stones" / />}}
-  {{< interactive-modules/checklist-item label="Perfect finishing with no rough edges or uneven surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Substantial weight appropriate for the precious metal used" / />}}
-  {{< interactive-modules/checklist-item label="Original packaging and documentation (ideal but not always available)" / />}}
+  {{< interactive-modules/checklist-item label="Clear, properly proportioned Cartier signature or logo" / / />}}
+  {{< interactive-modules/checklist-item label="Proper metal hallmarks (18K, 750, PT950) next to the Cartier mark" / / />}}
+  {{< interactive-modules/checklist-item label="Serial number that matches certificate (if available)" / / />}}
+  {{< interactive-modules/checklist-item label="Crisp, precise engravings with no sloppy lettering" / / />}}
+  {{< interactive-modules/checklist-item label="High-quality gemstones with proper certification for larger stones" / / />}}
+  {{< interactive-modules/checklist-item label="Perfect finishing with no rough edges or uneven surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="Substantial weight appropriate for the precious metal used" / / />}}
+  {{< interactive-modules/checklist-item label="Original packaging and documentation (ideal but not always available)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authentication Resources

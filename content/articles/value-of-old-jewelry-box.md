@@ -149,7 +149,7 @@ Art Deco brought geometric precision and modern materials to jewelry box design:
 
 Well-preserved Art Deco jewelry boxes typically range from $200-$800 in today's market.
 
-{{< data-modules/stats-highlight title="Antique Jewelry Box Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Jewelry Box Market Statistics" columns="3" / / />}}
 <div class="stat-card blue">
   <div class="stat-value">$50-$985,000</div>
   <div class="stat-label">Price Range</div>
@@ -183,14 +183,14 @@ Generally, older jewelry boxes command higher prices, especially those from the 
 Condition dramatically impacts value, with pristine examples fetching significantly higher prices.
 
 {{< interactive-modules/condition-checklist title="Jewelry Box Condition Assessment" description="Check applicable items to determine your jewelry box's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original hardware intact (hinges, locks, handles)" / />}}
-  {{< interactive-modules/checklist-item label="Interior fabric in good condition (no tears or staining)" / />}}
-  {{< interactive-modules/checklist-item label="No wood damage, warping, or veneer lifting" / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical elements (music box, moving parts)" / />}}
-  {{< interactive-modules/checklist-item label="Original finish present and minimally worn" / />}}
-  {{< interactive-modules/checklist-item label="Complete with all original compartments and dividers" / />}}
-  {{< interactive-modules/checklist-item label="No significant repairs or alterations" / />}}
-  {{< interactive-modules/checklist-item label="Original key present (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware intact (hinges, locks, handles)" / / />}}
+  {{< interactive-modules/checklist-item label="Interior fabric in good condition (no tears or staining)" / / />}}
+  {{< interactive-modules/checklist-item label="No wood damage, warping, or veneer lifting" / / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical elements (music box, moving parts)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish present and minimally worn" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with all original compartments and dividers" / / />}}
+  {{< interactive-modules/checklist-item label="No significant repairs or alterations" / / />}}
+  {{< interactive-modules/checklist-item label="Original key present (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Materials and Craftsmanship

@@ -110,7 +110,7 @@ As noted on platforms like [1stDibs](https://www.1stdibs.com/buy/vintage-record-
 
 ![Antique phonograph cabinet with ornate wooden details](https://ik.imagekit.io/appraisily/SEO/how-much-is-an-antique-record-player-cabinet-worth/how-much-is-an-antique-record-player-cabinet-worth-image-2_YXot0XexS.png)
 
-{{< data-modules/stats-highlight title="Vintage Record Player Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Record Player Market Insights" columns="3" / / />}}
 
 - **287%** - Increase in collector interest since 2015
 - **$1,895** - Average price for premium console stereos
@@ -159,14 +159,14 @@ Different eras produced distinctive cabinet styles:
 The physical and functional condition of an antique record player cabinet is perhaps the most critical factor in determining its value.
 
 {{< interactive-modules/condition-checklist title="Record Player Cabinet Condition Checklist" description="Use this checklist to assess your cabinet's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="Cabinet has original finish with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="All original hardware is present and intact" / />}}
-  {{< interactive-modules/checklist-item label="Turntable functions properly at all speeds" / />}}
-  {{< interactive-modules/checklist-item label="Speakers produce clear sound without distortion" / />}}
-  {{< interactive-modules/checklist-item label="Radio components (if present) work correctly" / />}}
-  {{< interactive-modules/checklist-item label="No significant water damage or veneer issues" / />}}
-  {{< interactive-modules/checklist-item label="Original documentation or manuals included" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet has been professionally serviced/restored" / />}}
+  {{< interactive-modules/checklist-item label="Cabinet has original finish with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="All original hardware is present and intact" / / />}}
+  {{< interactive-modules/checklist-item label="Turntable functions properly at all speeds" / / />}}
+  {{< interactive-modules/checklist-item label="Speakers produce clear sound without distortion" / / />}}
+  {{< interactive-modules/checklist-item label="Radio components (if present) work correctly" / / />}}
+  {{< interactive-modules/checklist-item label="No significant water damage or veneer issues" / / />}}
+  {{< interactive-modules/checklist-item label="Original documentation or manuals included" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet has been professionally serviced/restored" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to AudioKarma forums, the condition significantly impacts value, with working electronics commanding a premium over cabinets that require extensive restoration.

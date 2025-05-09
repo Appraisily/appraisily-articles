@@ -86,7 +86,7 @@ Old metal milk cans have become cherished collectibles that evoke nostalgia for 
 
 ![Vintage metal milk can with lid showing patina and age-related wear](https://ik.imagekit.io/appraisily/SEO/value-of-old-metal-milk-cans/value-of-old-metal-milk-cans-image-1_3pif6HEvC.png)
 
-{{< data-modules/stats-highlight title="Vintage Milk Can Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Milk Can Market at a Glance" columns="3" / / />}}
   <tr>
     <td>Average Value Range</td>
     <td>$30-$300</td>
@@ -138,13 +138,13 @@ Accurately dating a milk can is essential for determining its value. Several key
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Milk Can Dating Identification Checklist" description="Use these criteria to help determine the age of your vintage milk can" >}}
-  {{< interactive-modules/checklist-item label="Check the seams and construction method" / />}}
-  {{< interactive-modules/checklist-item label="Examine the material thickness and weight" / />}}
-  {{< interactive-modules/checklist-item label="Look for manufacturer's marks or dairy names" / />}}
-  {{< interactive-modules/checklist-item label="Note handle design and attachment method" / />}}
-  {{< interactive-modules/checklist-item label="Inspect the lid design and securing mechanism" / />}}
-  {{< interactive-modules/checklist-item label="Search for patent dates or numbers" / />}}
-  {{< interactive-modules/checklist-item label="Observe overall shape and proportions" / />}}
+  {{< interactive-modules/checklist-item label="Check the seams and construction method" / / />}}
+  {{< interactive-modules/checklist-item label="Examine the material thickness and weight" / / />}}
+  {{< interactive-modules/checklist-item label="Look for manufacturer's marks or dairy names" / / />}}
+  {{< interactive-modules/checklist-item label="Note handle design and attachment method" / / />}}
+  {{< interactive-modules/checklist-item label="Inspect the lid design and securing mechanism" / / />}}
+  {{< interactive-modules/checklist-item label="Search for patent dates or numbers" / / />}}
+  {{< interactive-modules/checklist-item label="Observe overall shape and proportions" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Material and Construction

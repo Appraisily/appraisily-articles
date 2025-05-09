@@ -82,7 +82,7 @@ Cat cookie jars have been beloved collectibles for decades, with certain vintage
 
 This comprehensive guide explores the fascinating world of antique cat cookie jars, examining key factors that influence their value, identifying prestigious manufacturers, and providing current market price ranges. We'll also share essential tips for authentication, care, and where to buy or sell these cherished collectibles.
 
-{{< data-modules/stats-highlight title="Antique Cat Cookie Jar Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Cat Cookie Jar Market at a Glance" columns="3" / / />}}
 <tr>
   <td>$25-$2,500+</td>
   <td>Price Range</td>
@@ -230,14 +230,14 @@ Some cat designs have simply proven more popular with collectors over time. Char
 A documented history of ownership, especially if a piece was part of a well-known collection or has been featured in publications, can enhance value.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your cat cookie jar" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks on the jar body" / />}}
-  {{< interactive-modules/checklist-item label="Original lid present and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="No crazing in the glaze" / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact (for cold-painted details)" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restorations" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's mark present and legible" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or staining" / />}}
-  {{< interactive-modules/checklist-item label="All appendages (ears, tail, etc.) intact" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks on the jar body" / / />}}
+  {{< interactive-modules/checklist-item label="Original lid present and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="No crazing in the glaze" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact (for cold-painted details)" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restorations" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's mark present and legible" / / />}}
+  {{< interactive-modules/checklist-item label="No discoloration or staining" / / />}}
+  {{< interactive-modules/checklist-item label="All appendages (ears, tail, etc.) intact" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Antique Cat Cookie Jars" level="2" >}}

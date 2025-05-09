@@ -130,7 +130,7 @@ Before assessing value, it's important to understand the physical characteristic
 
 The 1927 Buffalo Nickel shares the same physical specifications as other years in the series:
 
-{{< data-modules/stats-highlight title="1927 Buffalo Nickel Specifications" columns="3" / />}}
+{{< data-modules/stats-highlight title="1927 Buffalo Nickel Specifications" columns="3" / / />}}
 - **Composition:** 75% copper, 25% nickel
 - **Weight:** 5.0 grams
 - **Diameter:** 21.2 mm
@@ -179,11 +179,11 @@ Before looking at specific values, it's important to understand the basic gradin
 For Buffalo Nickels, key details to examine include:
 
 {{< interactive-modules/condition-checklist title="Buffalo Nickel Grading Points" description="Check these areas to assess your coin's condition" >}}
-  {{< interactive-modules/checklist-item label="Cheek of the Native American (high point that wears first)" / />}}
-  {{< interactive-modules/checklist-item label="Feathers in the headdress (detail often lost with wear)" / />}}
-  {{< interactive-modules/checklist-item label="Date clarity (often worn away on Buffalo Nickels)" / />}}
-  {{< interactive-modules/checklist-item label="Buffalo's head and shoulder (high points on reverse)" / />}}
-  {{< interactive-modules/checklist-item label="Overall luster and surface quality" / />}}
+  {{< interactive-modules/checklist-item label="Cheek of the Native American (high point that wears first)" / / />}}
+  {{< interactive-modules/checklist-item label="Feathers in the headdress (detail often lost with wear)" / / />}}
+  {{< interactive-modules/checklist-item label="Date clarity (often worn away on Buffalo Nickels)" / / />}}
+  {{< interactive-modules/checklist-item label="Buffalo's head and shoulder (high points on reverse)" / / />}}
+  {{< interactive-modules/checklist-item label="Overall luster and surface quality" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 1927 Buffalo Nickel Value Chart (No Mint Mark - Philadelphia)
@@ -478,11 +478,11 @@ If you're interested in collecting 1927 Buffalo Nickels or building a larger Buf
 If you're new to collecting Buffalo Nickels, consider these approaches:
 
 {{< interactive-modules/condition-checklist title="Beginner Collection Strategies" description="Ways to start collecting 1927 Buffalo Nickels" >}}
-  {{< interactive-modules/checklist-item label="Focus on acquiring one example from each mint (P, D, S)" / />}}
-  {{< interactive-modules/checklist-item label="Start with affordable circulated examples in G-4 to F-12 grades" / />}}
-  {{< interactive-modules/checklist-item label="Look for coins with clearly visible dates (a common issue with Buffalo Nickels)" / />}}
-  {{< interactive-modules/checklist-item label="Avoid cleaned or damaged coins, even if they appear attractive" / />}}
-  {{< interactive-modules/checklist-item label="Consider investing in a good magnifying glass (10x) for examining details" / />}}
+  {{< interactive-modules/checklist-item label="Focus on acquiring one example from each mint (P, D, S)" / / />}}
+  {{< interactive-modules/checklist-item label="Start with affordable circulated examples in G-4 to F-12 grades" / / />}}
+  {{< interactive-modules/checklist-item label="Look for coins with clearly visible dates (a common issue with Buffalo Nickels)" / / />}}
+  {{< interactive-modules/checklist-item label="Avoid cleaned or damaged coins, even if they appear attractive" / / />}}
+  {{< interactive-modules/checklist-item label="Consider investing in a good magnifying glass (10x) for examining details" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authentication and Grading

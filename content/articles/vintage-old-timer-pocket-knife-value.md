@@ -161,20 +161,20 @@ Authentic vintage Old Timer knives typically feature:
 - Brass liners and nickel silver bolsters
 - Distinctive shield inlays with the Old Timer logo
 
-{{< data-modules/stats-highlight title="Old Timer Knife Identification Stats" columns="3" / />}}
+{{< data-modules/stats-highlight title="Old Timer Knife Identification Stats" columns="3" / / />}}
 
 - **70+** - Different Old Timer models produced during Schrade's USA manufacturing era
 - **46 years** - Span of original USA production (1958-2004)
 - **3 distinct** - Tang stamp variations help date authentic models
 
 {{< interactive-modules/condition-checklist title="Vintage Old Timer Authentication Checklist" description="Use this checklist to help verify an authentic vintage Old Timer knife" >}}
-  {{< interactive-modules/checklist-item label="Tang stamp includes 'USA' marking" / />}}
-  {{< interactive-modules/checklist-item label="Has distinctive saw-cut Delrin handles" / />}}
-  {{< interactive-modules/checklist-item label="Features brass linings and pins" / />}}
-  {{< interactive-modules/checklist-item label="Contains Old Timer shield or emblem" / />}}
-  {{< interactive-modules/checklist-item label="Model number stamped on blade tang" / />}}
-  {{< interactive-modules/checklist-item label="Properly aligned blades with even gapping" / />}}
-  {{< interactive-modules/checklist-item label="Shows appropriate signs of age consistent with claimed vintage" / />}}
+  {{< interactive-modules/checklist-item label="Tang stamp includes 'USA' marking" / / />}}
+  {{< interactive-modules/checklist-item label="Has distinctive saw-cut Delrin handles" / / />}}
+  {{< interactive-modules/checklist-item label="Features brass linings and pins" / / />}}
+  {{< interactive-modules/checklist-item label="Contains Old Timer shield or emblem" / / />}}
+  {{< interactive-modules/checklist-item label="Model number stamped on blade tang" / / />}}
+  {{< interactive-modules/checklist-item label="Properly aligned blades with even gapping" / / />}}
+  {{< interactive-modules/checklist-item label="Shows appropriate signs of age consistent with claimed vintage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of Old Timer knife showing tang stamp and identification markings](https://ik.imagekit.io/appraisily/SEO/vintage-old-timer-pocket-knife-value/vintage-old-timer-pocket-knife-value-image-3_tqYr5TSmQ.png)

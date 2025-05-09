@@ -97,7 +97,7 @@ The 1918 Lincoln wheat penny represents an important piece of American numismati
 
 If you've discovered a 1918 penny in your collection, you might be wondering about its true value. In this comprehensive guide, we'll explore the factors that determine the worth of a 1918 wheat penny, including mint marks, condition grades, errors, and current market trends.
 
-{{< data-modules/stats-highlight title="1918 Wheat Penny Key Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="1918 Wheat Penny Key Statistics" columns="3" / / />}}
 <tr>
   <td>Total Mintage</td>
   <td>481,123,000</td>
@@ -248,13 +248,13 @@ Lincoln cents also receive a color designation that affects their value:
 Full "Red" specimens command the highest premiums, often selling for many times more than similar-grade "Brown" examples. For example, a 1918 penny in MS65 Brown might be worth $150, while the same coin in MS65 Red could fetch $550 or more.
 
 {{< interactive-modules/condition-checklist title="1918 Wheat Penny Condition Assessment Guide" description="Check all characteristics that apply to your penny to estimate its grade" >}}
-  {{< interactive-modules/checklist-item label="Full wheat stalk details visible on reverse" / />}}
-  {{< interactive-modules/checklist-item label="Clear separation of Lincoln's hair strands" / />}}
-  {{< interactive-modules/checklist-item label="Date and mint mark (if present) are sharp and clear" / />}}
-  {{< interactive-modules/checklist-item label="Maintains original copper-red color (not brown)" / />}}
-  {{< interactive-modules/checklist-item label="No visible scratches, nicks, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Full mint luster present" / />}}
-  {{< interactive-modules/checklist-item label="No signs of cleaning or artificial toning" / />}}
+  {{< interactive-modules/checklist-item label="Full wheat stalk details visible on reverse" / / />}}
+  {{< interactive-modules/checklist-item label="Clear separation of Lincoln's hair strands" / / />}}
+  {{< interactive-modules/checklist-item label="Date and mint mark (if present) are sharp and clear" / / />}}
+  {{< interactive-modules/checklist-item label="Maintains original copper-red color (not brown)" / / />}}
+  {{< interactive-modules/checklist-item label="No visible scratches, nicks, or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Full mint luster present" / / />}}
+  {{< interactive-modules/checklist-item label="No signs of cleaning or artificial toning" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Valuable 1918 Wheat Penny Errors" level="2" >}}

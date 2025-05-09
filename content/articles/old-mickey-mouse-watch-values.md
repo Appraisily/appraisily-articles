@@ -135,7 +135,7 @@ The oldest Mickey Mouse watches, particularly those made by Ingersoll between 19
 
 ### Condition and Functionality
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / / />}}
 
 1. **Working Mechanism**: A functioning watch is worth significantly more than a non-working example. Original Mickey Mouse watches with working movements can be worth 2-3 times more than non-working examples.
 
@@ -199,13 +199,13 @@ Bradley Time became a significant producer of Mickey Mouse watches following Ing
 - Often featured merchandising tie-ins with Disney films or TV shows
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for Vintage Mickey Mouse Watches" description="Use this checklist to help verify the authenticity of a vintage Mickey Mouse timepiece" >}}
-  {{< interactive-modules/checklist-item label="Proper trademark markings for the era (Ingersoll, Bradley, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Correct typography and dial design for the period" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate case material and finishing techniques" / />}}
-  {{< interactive-modules/checklist-item label="Movement type matches the manufacturer and period" / />}}
-  {{< interactive-modules/checklist-item label="Mickey's image shows correct artistic style for the era" / />}}
-  {{< interactive-modules/checklist-item label="Original band or period-appropriate replacement" / />}}
-  {{< interactive-modules/checklist-item label="Proper caseback markings and serial numbers if applicable" / />}}
+  {{< interactive-modules/checklist-item label="Proper trademark markings for the era (Ingersoll, Bradley, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Correct typography and dial design for the period" / / />}}
+  {{< interactive-modules/checklist-item label="Appropriate case material and finishing techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Movement type matches the manufacturer and period" / / />}}
+  {{< interactive-modules/checklist-item label="Mickey's image shows correct artistic style for the era" / / />}}
+  {{< interactive-modules/checklist-item label="Original band or period-appropriate replacement" / / />}}
+  {{< interactive-modules/checklist-item label="Proper caseback markings and serial numbers if applicable" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Japanese Manufacturer Era (1970s-1980s)

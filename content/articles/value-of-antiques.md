@@ -128,7 +128,7 @@ The world of antiques can be fascinating but complex. While some items maintain 
 
 Determining the value of an antique requires consideration of multiple factors, including age, rarity, condition, provenance, and current market demand. In this comprehensive guide, we'll explore the essential aspects of antique valuation, from DIY research methods to professional appraisal options.
 
-{{< data-modules/stats-highlight title="Key Antique Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Antique Market Statistics" columns="3" / / />}}
 <tr>
   <td>$124 Billion</td>
   <td>Global antiques market size</td>
@@ -164,12 +164,12 @@ To verify authenticity:
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Antique Condition Factors" description="Elements that impact value based on condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact" / />}}
-  {{< interactive-modules/checklist-item label="No significant damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present" / />}}
-  {{< interactive-modules/checklist-item label="Signs of appropriate age/patina" / />}}
-  {{< interactive-modules/checklist-item label="Functionality (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or documentation" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact" / / />}}
+  {{< interactive-modules/checklist-item label="No significant damage or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts present" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of appropriate age/patina" / / />}}
+  {{< interactive-modules/checklist-item label="Functionality (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or documentation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition dramatically impacts value, with mint or near-mint items commanding significant premiums. According to [Old Crow's Antiques](https://www.oldcrowsantiques.com/blog/find-value-antiques), a pristine example might be worth several times more than the same item with damage or extensive restoration.

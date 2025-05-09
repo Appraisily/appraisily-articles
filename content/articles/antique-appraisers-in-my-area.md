@@ -143,7 +143,7 @@ Professional antique appraisers bring specialized knowledge, experience, and obj
 - **Historical Context**: Appraisers provide insights into your item's historical significance and provenance
 - **Market Knowledge**: Professionals understand current market trends and demand for specific items
 
-{{< data-modules/stats-highlight title="Professional Appraisal Benefits" columns="3" / />}}
+{{< data-modules/stats-highlight title="Professional Appraisal Benefits" columns="3" / / />}}
 
 {{< content-modules/section-header title="How to Find Antique Appraisers in Your Area" level="2" >}}
 Proven strategies for locating qualified appraisers near you
@@ -258,14 +258,14 @@ Don't hesitate to:
 - Request samples of previous appraisal reports (with confidential information redacted)
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist to evaluate potential appraisers" >}}
-  {{< interactive-modules/checklist-item label="Membership in recognized professional appraisal organization" / />}}
-  {{< interactive-modules/checklist-item label="USPAP certification (required for legal and insurance appraisals)" / />}}
-  {{< interactive-modules/checklist-item label="Specialization in your specific type of antique" / />}}
-  {{< interactive-modules/checklist-item label="No conflict of interest (doesn't offer to purchase items they appraise)" / />}}
-  {{< interactive-modules/checklist-item label="Clear fee structure with written estimate" / />}}
-  {{< interactive-modules/checklist-item label="Provides formal written appraisal reports" / />}}
-  {{< interactive-modules/checklist-item label="Positive client references or reviews" / />}}
-  {{< interactive-modules/checklist-item label="Proof of insurance (especially for in-home appraisals)" / />}}
+  {{< interactive-modules/checklist-item label="Membership in recognized professional appraisal organization" / / />}}
+  {{< interactive-modules/checklist-item label="USPAP certification (required for legal and insurance appraisals)" / / />}}
+  {{< interactive-modules/checklist-item label="Specialization in your specific type of antique" / / />}}
+  {{< interactive-modules/checklist-item label="No conflict of interest (doesn't offer to purchase items they appraise)" / / />}}
+  {{< interactive-modules/checklist-item label="Clear fee structure with written estimate" / / />}}
+  {{< interactive-modules/checklist-item label="Provides formal written appraisal reports" / / />}}
+  {{< interactive-modules/checklist-item label="Positive client references or reviews" / / />}}
+  {{< interactive-modules/checklist-item label="Proof of insurance (especially for in-home appraisals)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Appraisal Costs" level="2" >}}
@@ -601,14 +601,14 @@ Plan the practical aspects:
 - **Payment method**: Confirm acceptable payment forms
 
 {{< interactive-modules/condition-checklist title="Appraisal Preparation Checklist" description="Use this checklist to prepare for your appointment" >}}
-  {{< interactive-modules/checklist-item label="Gather all available documentation and provenance materials" / />}}
-  {{< interactive-modules/checklist-item label="Create a preliminary inventory list of items to be appraised" / />}}
-  {{< interactive-modules/checklist-item label="Clean items gently (no harsh cleaning or polishing)" / />}}
-  {{< interactive-modules/checklist-item label="Organize items by category or type" / />}}
-  {{< interactive-modules/checklist-item label="Prepare a well-lit examination space" / />}}
-  {{< interactive-modules/checklist-item label="Have questions ready about specific items" / />}}
-  {{< interactive-modules/checklist-item label="Confirm appointment details and payment method" / />}}
-  {{< interactive-modules/checklist-item label="Make notes about each item's history and provenance" / />}}
+  {{< interactive-modules/checklist-item label="Gather all available documentation and provenance materials" / / />}}
+  {{< interactive-modules/checklist-item label="Create a preliminary inventory list of items to be appraised" / / />}}
+  {{< interactive-modules/checklist-item label="Clean items gently (no harsh cleaning or polishing)" / / />}}
+  {{< interactive-modules/checklist-item label="Organize items by category or type" / / />}}
+  {{< interactive-modules/checklist-item label="Prepare a well-lit examination space" / / />}}
+  {{< interactive-modules/checklist-item label="Have questions ready about specific items" / / />}}
+  {{< interactive-modules/checklist-item label="Confirm appointment details and payment method" / / />}}
+  {{< interactive-modules/checklist-item label="Make notes about each item's history and provenance" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="After the Appraisal" level="2" >}}

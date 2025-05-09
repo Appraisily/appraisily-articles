@@ -88,7 +88,7 @@ A thorough examination of each component can reveal valuable information about a
 
 Understanding the relationship between these components helps distinguish authentic period pieces from modern reproductions or heavily modified antiques.
 
-{{< data-modules/stats-highlight title="Flintlock Pistol Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Flintlock Pistol Facts" columns="3" / / />}}
 - **130 Years**: Approximate period of flintlock dominance (1700-1830s)
 - **30-80 Caliber**: Common range of flintlock pistol bore sizes
 - **1898**: Cut-off year for an antique firearm under U.S. federal law
@@ -182,14 +182,14 @@ Proof mark systems changed over time, making them useful for dating:
 - American marks evolved from individual makers to more standardized systems
 
 {{< interactive-modules/condition-checklist title="Mark Identification Checklist" description="Use this checklist to thoroughly examine your flintlock pistol for identifying marks" >}}
-  {{< interactive-modules/checklist-item label="Examine barrel top flats near breech" / />}}
-  {{< interactive-modules/checklist-item label="Check underside of barrel (may require removal)" / />}}
-  {{< interactive-modules/checklist-item label="Inspect lock plate surface for engraving" / />}}
-  {{< interactive-modules/checklist-item label="Look at trigger guard for hallmarks" / />}}
-  {{< interactive-modules/checklist-item label="Examine butt cap for maker's marks" / />}}
-  {{< interactive-modules/checklist-item label="Check barrel tang for numbers or symbols" / />}}
-  {{< interactive-modules/checklist-item label="Use magnification for faint or worn marks" / />}}
-  {{< interactive-modules/checklist-item label="Document all marks with photographs" / />}}
+  {{< interactive-modules/checklist-item label="Examine barrel top flats near breech" / / />}}
+  {{< interactive-modules/checklist-item label="Check underside of barrel (may require removal)" / / />}}
+  {{< interactive-modules/checklist-item label="Inspect lock plate surface for engraving" / / />}}
+  {{< interactive-modules/checklist-item label="Look at trigger guard for hallmarks" / / />}}
+  {{< interactive-modules/checklist-item label="Examine butt cap for maker's marks" / / />}}
+  {{< interactive-modules/checklist-item label="Check barrel tang for numbers or symbols" / / />}}
+  {{< interactive-modules/checklist-item label="Use magnification for faint or worn marks" / / />}}
+  {{< interactive-modules/checklist-item label="Document all marks with photographs" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Dating Antique Flintlock Pistols" level="2" >}}

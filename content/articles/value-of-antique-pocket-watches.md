@@ -116,7 +116,7 @@ The value of an antique pocket watch is influenced by multiple factors working t
 
 ![Antique pocket watch with open case showing intricate movement and mechanisms](https://ik.imagekit.io/appraisily/SEO/value-of-antique-pocket-watches/value-of-antique-pocket-watches-image-2_Mmt3ou-WD.png)
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
 
 Before diving deeper into specific valuation factors, it's important to recognize that most standard antique pocket watches are worth less than $200, especially if they're in rough condition or non-working order. However, certain exemplary pieces from prestigious manufacturers can command prices in the thousands or even millions. The Patek Philippe Henry Graves Supercomplication pocket watch achieved a record-breaking $24 million at auction, demonstrating the extraordinary potential value at the highest end of the market.
 
@@ -156,13 +156,13 @@ Condition is paramount when evaluating antique pocket watches, with functionalit
 ![Close-up of pocket watch dial showing condition factors that affect value](https://ik.imagekit.io/appraisily/SEO/value-of-antique-pocket-watches/value-of-antique-pocket-watches-image-3_9lGQYaRKf.png)
 
 {{< interactive-modules/condition-checklist title="Pocket Watch Condition Factors" description="Key elements that determine condition quality" >}}
-  {{< interactive-modules/checklist-item label="Fully functional movement that keeps accurate time" / />}}
-  {{< interactive-modules/checklist-item label="Original components without replacement parts" / />}}
-  {{< interactive-modules/checklist-item label="Intact crystal without cracks or clouding" / />}}
-  {{< interactive-modules/checklist-item label="Undamaged dial with clear numerals and minimal discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Case free from dents, deep scratches, or excessive wear" / />}}
-  {{< interactive-modules/checklist-item label="Original finish with limited wear appropriate to age" / />}}
-  {{< interactive-modules/checklist-item label="Presence of original accessories like chains or fobs" / />}}
+  {{< interactive-modules/checklist-item label="Fully functional movement that keeps accurate time" / / />}}
+  {{< interactive-modules/checklist-item label="Original components without replacement parts" / / />}}
+  {{< interactive-modules/checklist-item label="Intact crystal without cracks or clouding" / / />}}
+  {{< interactive-modules/checklist-item label="Undamaged dial with clear numerals and minimal discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Case free from dents, deep scratches, or excessive wear" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish with limited wear appropriate to age" / / />}}
+  {{< interactive-modules/checklist-item label="Presence of original accessories like chains or fobs" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Working condition is particularly important—a non-functioning pocket watch may be worth only 20-30% of its potential value. Watch repair can be expensive, often exceeding the value of common pocket watches. However, rare or valuable pieces may justify professional restoration.

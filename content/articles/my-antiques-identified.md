@@ -82,7 +82,7 @@ Before diving into identification methods, it's important to understand why accu
 
 Proper identification isn't just about satisfying curiosity—though that's certainly part of the appeal. Knowing what you have affects everything from insurance coverage to proper care and preservation techniques. Most importantly, it can significantly impact value.
 
-{{< data-modules/stats-highlight title="The Impact of Proper Identification" columns="3" / />}}
+{{< data-modules/stats-highlight title="The Impact of Proper Identification" columns="3" / / />}}
   <tr>
     <td>Correct Attribution</td>
     <td>+500%</td>
@@ -159,14 +159,14 @@ According to Martha Stewart's guide on identifying antiques, examining specific 
 ![Close-up of maker's marks and identification stamps on the bottom of antique porcelain pieces](https://ik.imagekit.io/appraisily/SEO/my-antiques-identified/my-antiques-identified-image-4_-KyIUyOg8.png)
 
 {{< interactive-modules/condition-checklist title="Essential Elements to Inspect" description="Use this checklist when examining potential antiques for identification" >}}
-  {{< interactive-modules/checklist-item label="Maker's Marks & Signatures" / />}}
-  {{< interactive-modules/checklist-item label="Materials & Construction Methods" / />}}
-  {{< interactive-modules/checklist-item label="Hardware (nails, screws, hinges)" / />}}
-  {{< interactive-modules/checklist-item label="Patina & Signs of Age" / />}}
-  {{< interactive-modules/checklist-item label="Style & Design Elements" / />}}
-  {{< interactive-modules/checklist-item label="Regional Characteristics" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of Repairs or Alterations" / />}}
-  {{< interactive-modules/checklist-item label="Provenance & Documentation" / />}}
+  {{< interactive-modules/checklist-item label="Maker's Marks & Signatures" / / />}}
+  {{< interactive-modules/checklist-item label="Materials & Construction Methods" / / />}}
+  {{< interactive-modules/checklist-item label="Hardware (nails, screws, hinges)" / / />}}
+  {{< interactive-modules/checklist-item label="Patina & Signs of Age" / / />}}
+  {{< interactive-modules/checklist-item label="Style & Design Elements" / / />}}
+  {{< interactive-modules/checklist-item label="Regional Characteristics" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of Repairs or Alterations" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance & Documentation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Maker's marks are particularly valuable for identification. Look underneath objects and in hidden spots for stamps, signatures, or hallmarks. These marks can tell you who made the item and where, making them essential for identifying many antiques and collectibles.

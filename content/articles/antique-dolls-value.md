@@ -80,7 +80,7 @@ In this comprehensive guide, we'll explore how to identify antique dolls, determ
 Before diving into specific types of dolls, it's important to understand what determines their value in today's market. Several critical factors influence how much collectors and enthusiasts are willing to pay.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Factors for Antique Dolls" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Factors for Antique Dolls" columns="3" / / />}}
 
 **Rarity**: Dolls produced in limited quantities or from manufacturers that went out of business quickly command higher prices. For example, rare French fashion dolls from the 1800s can sell for thousands of dollars.
 
@@ -125,14 +125,14 @@ The materials used can help date and identify a doll:
 5. **Hard Plastic**: Used extensively for dolls in the 1940s-1960s. Brands like Madame Alexander and early Barbie dolls can be quite valuable.
 
 {{< interactive-modules/condition-checklist title="Antique Doll Condition Assessment" description="Check all applicable conditions to help determine your doll's overall state and potential value" >}}
-  {{< interactive-modules/checklist-item label="Original wig in good condition (no significant hair loss)" / />}}
-  {{< interactive-modules/checklist-item label="Original clothing and accessories present" / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to porcelain/bisque" / />}}
-  {{< interactive-modules/checklist-item label="Eyes function properly (sleep eyes work if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original body in good condition (no repairs or replaced limbs)" / />}}
-  {{< interactive-modules/checklist-item label="No significant paint wear on face or body" / />}}
-  {{< interactive-modules/checklist-item label="Joints move properly and are tight" / />}}
-  {{< interactive-modules/checklist-item label="Has original box or documentation" / />}}
+  {{< interactive-modules/checklist-item label="Original wig in good condition (no significant hair loss)" / / />}}
+  {{< interactive-modules/checklist-item label="Original clothing and accessories present" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to porcelain/bisque" / / />}}
+  {{< interactive-modules/checklist-item label="Eyes function properly (sleep eyes work if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original body in good condition (no repairs or replaced limbs)" / / />}}
+  {{< interactive-modules/checklist-item label="No significant paint wear on face or body" / / />}}
+  {{< interactive-modules/checklist-item label="Joints move properly and are tight" / / />}}
+  {{< interactive-modules/checklist-item label="Has original box or documentation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Antique Doll Types" level="2" >}}

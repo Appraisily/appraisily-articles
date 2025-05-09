@@ -109,7 +109,7 @@ Since her debut in 1959, Barbie has transcended being just a doll to become a cu
 
 In this comprehensive guide, we'll explore what makes certain Barbie dolls valuable, provide current price ranges for different eras and types, and help you determine if your dolls might be worth a significant sum. From the earliest ponytail Barbies to modern limited editions, we'll cover the factors that influence value and how to assess your collection accurately.
 
-{{< data-modules/stats-highlight title="Barbie Value Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Barbie Value Highlights" columns="3" / / />}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-much-are-barbie-dolls-worth/how-much-are-barbie-dolls-worth-image-3_J17FMhZU2.png" alt="Original 1959 #1 Barbie doll with original box and accessories" caption="An original 1959 #1 Barbie in mint condition with box can command prices over $25,000" />}}
 
@@ -413,21 +413,21 @@ Most Barbie dolls have date markings that can help identify when they were made:
 3. **Box Dating**: Original packaging will often have copyright dates and product codes that can help identify the exact production year.
 
 {{< interactive-modules/condition-checklist title="Barbie Condition Assessment Checklist" description="Check all items that apply to determine your doll's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Mint in Box (MIB): Doll has never been removed from original packaging" / />}}
+  {{< interactive-modules/checklist-item label="Mint in Box (MIB): Doll has never been removed from original packaging" / / />}}
   
-  {{< interactive-modules/checklist-item label="Mint: Perfect condition with no flaws, like new" / />}}
+  {{< interactive-modules/checklist-item label="Mint: Perfect condition with no flaws, like new" / / />}}
   
-  {{< interactive-modules/checklist-item label="Near Mint: Almost perfect with very minor flaws" / />}}
+  {{< interactive-modules/checklist-item label="Near Mint: Almost perfect with very minor flaws" / / />}}
   
-  {{< interactive-modules/checklist-item label="Excellent: Minor wear but no significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Excellent: Minor wear but no significant damage" / / />}}
   
-  {{< interactive-modules/checklist-item label="Very Good: Shows moderate play wear but all parts intact" / />}}
+  {{< interactive-modules/checklist-item label="Very Good: Shows moderate play wear but all parts intact" / / />}}
   
-  {{< interactive-modules/checklist-item label="Good: Noticeable play wear, possible minor repairs" / />}}
+  {{< interactive-modules/checklist-item label="Good: Noticeable play wear, possible minor repairs" / / />}}
   
-  {{< interactive-modules/checklist-item label="Fair: Heavy wear, may need restoration" / />}}
+  {{< interactive-modules/checklist-item label="Fair: Heavy wear, may need restoration" / / />}}
   
-  {{< interactive-modules/checklist-item label="Poor: Significant damage, missing parts" / />}}
+  {{< interactive-modules/checklist-item label="Poor: Significant damage, missing parts" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Issues That Affect Value

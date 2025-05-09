@@ -125,7 +125,7 @@ Most online valuations follow a similar process:
 
 It's important to understand that these free services provide estimates rather than formal appraisals. A true appraisal, which might be needed for insurance, tax, or legal purposes, typically requires an in-person examination and comes with a fee.
 
-{{< data-modules/stats-highlight title="Online Art Valuation Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Online Art Valuation Statistics" columns="3" / / />}}
 
 | Statistic | Value | Context |
 | --- | --- | --- |
@@ -179,14 +179,14 @@ For a more personalized approach, [FreeArtAppraiser.com](https://www.freeartappr
 The accuracy of your online valuation depends largely on the quality of information you provide. Follow these steps to get the most reliable estimate:
 
 {{< interactive-modules/condition-checklist title="Art Valuation Preparation Checklist" description="Complete these steps before submitting for an online valuation" >}}
-  {{< interactive-modules/checklist-item label="Take high-resolution, well-lit photographs of the entire artwork" / />}}
-  {{< interactive-modules/checklist-item label="Capture close-up images of the artist's signature, if present" / />}}
-  {{< interactive-modules/checklist-item label="Photograph any labels, stamps, or markings on the back of the artwork" / />}}
-  {{< interactive-modules/checklist-item label="Document any certificates of authenticity or provenance documents" / />}}
-  {{< interactive-modules/checklist-item label="Measure and record the exact dimensions of the artwork" / />}}
-  {{< interactive-modules/checklist-item label="Note the medium and materials (oil, acrylic, watercolor, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Document the artwork's condition, including any damage" / />}}
-  {{< interactive-modules/checklist-item label="Research and include any known history of the piece" / />}}
+  {{< interactive-modules/checklist-item label="Take high-resolution, well-lit photographs of the entire artwork" / / />}}
+  {{< interactive-modules/checklist-item label="Capture close-up images of the artist's signature, if present" / / />}}
+  {{< interactive-modules/checklist-item label="Photograph any labels, stamps, or markings on the back of the artwork" / / />}}
+  {{< interactive-modules/checklist-item label="Document any certificates of authenticity or provenance documents" / / />}}
+  {{< interactive-modules/checklist-item label="Measure and record the exact dimensions of the artwork" / / />}}
+  {{< interactive-modules/checklist-item label="Note the medium and materials (oil, acrylic, watercolor, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Document the artwork's condition, including any damage" / / />}}
+  {{< interactive-modules/checklist-item label="Research and include any known history of the piece" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Photography Tips for Art Valuation

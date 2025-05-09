@@ -110,7 +110,7 @@ When it comes to old currency, values can range from face value to thousands of 
 
 Professional appraisals offer several key benefits:
 
-{{< data-modules/stats-highlight title="Benefits of Professional Currency Appraisal" columns="3" / />}}
+{{< data-modules/stats-highlight title="Benefits of Professional Currency Appraisal" columns="3" / / />}}
 
 - **Accurate Valuation**: Experts can assess the true market value based on current trends
 - **Authentication**: Verification that your currency is genuine, not counterfeit
@@ -157,14 +157,14 @@ Don't overlook these local options:
 Not all currency appraisers offer the same level of expertise or ethical standards. Here are important qualities to look for when selecting an appraiser:
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Key factors to consider when selecting a currency appraiser" >}}
-  {{< interactive-modules/checklist-item label="Professional certifications from recognized numismatic organizations" / />}}
-  {{< interactive-modules/checklist-item label="Membership in professional guilds like PNG or ANA" / />}}
-  {{< interactive-modules/checklist-item label="Positive reviews and testimonials from previous clients" / />}}
-  {{< interactive-modules/checklist-item label="Years of experience in numismatics" / />}}
-  {{< interactive-modules/checklist-item label="Transparent pricing for appraisal services" / />}}
-  {{< interactive-modules/checklist-item label="Knowledge of your specific type of currency" / />}}
-  {{< interactive-modules/checklist-item label="No pressure to sell during the appraisal process" / />}}
-  {{< interactive-modules/checklist-item label="Written appraisal documents provided" / />}}
+  {{< interactive-modules/checklist-item label="Professional certifications from recognized numismatic organizations" / / />}}
+  {{< interactive-modules/checklist-item label="Membership in professional guilds like PNG or ANA" / / />}}
+  {{< interactive-modules/checklist-item label="Positive reviews and testimonials from previous clients" / / />}}
+  {{< interactive-modules/checklist-item label="Years of experience in numismatics" / / />}}
+  {{< interactive-modules/checklist-item label="Transparent pricing for appraisal services" / / />}}
+  {{< interactive-modules/checklist-item label="Knowledge of your specific type of currency" / / />}}
+  {{< interactive-modules/checklist-item label="No pressure to sell during the appraisal process" / / />}}
+  {{< interactive-modules/checklist-item label="Written appraisal documents provided" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Red Flags to Watch For

@@ -169,7 +169,7 @@ Antique Victor and Victrola phonographs represent an important chapter in early 
 Based on current market data, antique Victrolas have a wide value range depending on several key factors. While some models can be found for as little as $150, rare and pristine examples can fetch thousands of dollars.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Antique Victrola Value Ranges" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Victrola Value Ranges" columns="3" / / />}}
 
 {{< data-modules/price-table title="Victrola Value Ranges" description="Current market values based on model and condition" >}}
 <tr>
@@ -220,14 +220,14 @@ The Victor Talking Machine Company produced numerous models over its history, ea
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Victrola Condition Factors" description="These factors significantly impact the value of an antique Victrola" >}}
-  {{< interactive-modules/checklist-item label="Working mechanical components (motor, soundbox, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Original finish with minimal damage" / />}}
-  {{< interactive-modules/checklist-item label="Complete horn with no cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original Victor decals and badges intact" / />}}
-  {{< interactive-modules/checklist-item label="Complete with original crank and accessories" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet free of significant scratches or veneer damage" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (hinges, latches, doors functioning)" / />}}
-  {{< interactive-modules/checklist-item label="Documentation, manual or original sales receipt" / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical components (motor, soundbox, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish with minimal damage" / / />}}
+  {{< interactive-modules/checklist-item label="Complete horn with no cracks or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Original Victor decals and badges intact" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with original crank and accessories" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet free of significant scratches or veneer damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (hinges, latches, doors functioning)" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation, manual or original sales receipt" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The condition of your Victrola is perhaps the most significant factor affecting its value. A fully functioning phonograph in excellent original condition can command premium prices, while damaged or heavily restored examples may be worth only a fraction of that amount.

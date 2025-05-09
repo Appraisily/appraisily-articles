@@ -86,7 +86,7 @@ Elgin pocket watches represent one of America's most significant contributions t
 
 Whether you've inherited an Elgin pocket watch from a family member or are considering adding one to your collection, understanding its value is essential. This comprehensive guide will help you identify, evaluate, and determine the worth of your vintage Elgin timepiece in today's market.
 
-{{< data-modules/stats-highlight title="Elgin Pocket Watch Market Overview" columns="3" / />}}
+{{< data-modules/stats-highlight title="Elgin Pocket Watch Market Overview" columns="3" / / />}}
 <tr>
   <td>50%</td>
   <td>Of all U.S. pocket watches produced were Elgin</td>
@@ -192,14 +192,14 @@ The internal mechanism (movement) is often the most important value factor for a
 - Pristine condition with all original parts
 
 {{< interactive-modules/condition-checklist title="Movement Condition Assessment" description="Check applicable items to help determine your watch's condition value" >}}
-  {{< interactive-modules/checklist-item label="Watch runs accurately when wound" / />}}
-  {{< interactive-modules/checklist-item label="All hands are original and intact" / />}}
-  {{< interactive-modules/checklist-item label="Movement is clean with no rust or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="All jewels are present and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Balance wheel oscillates freely" / />}}
-  {{< interactive-modules/checklist-item label="Original factory finishing is intact" / />}}
-  {{< interactive-modules/checklist-item label="No amateur repair marks or damage" / />}}
-  {{< interactive-modules/checklist-item label="Movement matches case (not a marriage)" / />}}
+  {{< interactive-modules/checklist-item label="Watch runs accurately when wound" / / />}}
+  {{< interactive-modules/checklist-item label="All hands are original and intact" / / />}}
+  {{< interactive-modules/checklist-item label="Movement is clean with no rust or corrosion" / / />}}
+  {{< interactive-modules/checklist-item label="All jewels are present and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Balance wheel oscillates freely" / / />}}
+  {{< interactive-modules/checklist-item label="Original factory finishing is intact" / / />}}
+  {{< interactive-modules/checklist-item label="No amateur repair marks or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Movement matches case (not a marriage)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Case Material and Condition

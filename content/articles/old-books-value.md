@@ -90,7 +90,7 @@ The scarcity of a book significantly impacts its value. Books with limited print
 
 The physical state of a book is perhaps the most crucial factor affecting its value. Collectors typically use the following condition grades:
 
-{{< data-modules/stats-highlight title="Book Condition Grades Impact on Value" columns="3" / />}}
+{{< data-modules/stats-highlight title="Book Condition Grades Impact on Value" columns="3" / / />}}
 - Fine/As New (100% of potential value)
 - Very Good (80% of potential value)
 - Good (50% of potential value)
@@ -118,11 +118,11 @@ One of the most important factors in book valuation is determining if you have a
 Publishers use different methods to indicate first editions, making identification sometimes challenging. Here are some common indicators:
 
 {{< interactive-modules/condition-checklist title="First Edition Indicators" description="Look for these elements when examining a book" >}}
-{{< interactive-modules/checklist-item label="'First Edition' statement on the copyright page" / />}}
-{{< interactive-modules/checklist-item label="Number line that includes '1' (e.g., 10 9 8 7 6 5 4 3 2 1)" / />}}
-{{< interactive-modules/checklist-item label="No mention of additional printings or editions" / />}}
-{{< interactive-modules/checklist-item label="Copyright date matches the publication date" / />}}
-{{< interactive-modules/checklist-item label="Publisher-specific first edition codes" / />}}
+{{< interactive-modules/checklist-item label="'First Edition' statement on the copyright page" / / />}}
+{{< interactive-modules/checklist-item label="Number line that includes '1' (e.g., 10 9 8 7 6 5 4 3 2 1)" / / />}}
+{{< interactive-modules/checklist-item label="No mention of additional printings or editions" / / />}}
+{{< interactive-modules/checklist-item label="Copyright date matches the publication date" / / />}}
+{{< interactive-modules/checklist-item label="Publisher-specific first edition codes" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Different publishers use different conventions, so it's worth researching the specific indicators used by the publisher of your book. For example, Random House typically uses the statement "First Edition" along with a number line, while early Hemingway books published by Scribner's typically have no statement at all but feature a distinct Scribner's seal.
@@ -314,11 +314,11 @@ If you decide to keep your valuable books, proper preservation is essential to m
 The ideal storage environment for books includes:
 
 {{< interactive-modules/condition-checklist title="Optimal Book Storage Conditions" description="Aim to maintain these conditions for valuable books" >}}
-{{< interactive-modules/checklist-item label="Consistent temperature between 65-70°F (18-21°C)" / />}}
-{{< interactive-modules/checklist-item label="Relative humidity between 30-50%" / />}}
-{{< interactive-modules/checklist-item label="Minimal exposure to direct sunlight" / />}}
-{{< interactive-modules/checklist-item label="Good air circulation" / />}}
-{{< interactive-modules/checklist-item label="Clean environment free from pests" / />}}
+{{< interactive-modules/checklist-item label="Consistent temperature between 65-70°F (18-21°C)" / / />}}
+{{< interactive-modules/checklist-item label="Relative humidity between 30-50%" / / />}}
+{{< interactive-modules/checklist-item label="Minimal exposure to direct sunlight" / / />}}
+{{< interactive-modules/checklist-item label="Good air circulation" / / />}}
+{{< interactive-modules/checklist-item label="Clean environment free from pests" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Avoid storing books in attics, basements, or garages where temperature and humidity fluctuate dramatically. Keep books away from exterior walls to prevent condensation damage.

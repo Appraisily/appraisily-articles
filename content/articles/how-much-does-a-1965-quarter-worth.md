@@ -103,7 +103,7 @@ faqSchema:
 The 1965 Washington quarter holds a special place in American numismatic history as it marks a pivotal transition in U.S. coinage. While most 1965 quarters you'll encounter are worth their face value of 25 cents, certain specimens can be worth substantially more—potentially even thousands of dollars. This comprehensive guide will help you understand what makes some 1965 quarters valuable, how to identify potential rarities, and what to look for when examining your own coins.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="1965 Quarter Value Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="1965 Quarter Value Highlights" columns="3" / / />}}
 <tr>
   <td>Standard Value</td>
   <td>25¢ - $5</td>
@@ -220,11 +220,11 @@ The most valuable 1965 quarter error is the "transitional error" - quarters that
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="How to Identify a Silver 1965 Quarter" description="Check these characteristics to determine if your 1965 quarter might be silver:" >}}
-  {{< interactive-modules/checklist-item label="Edge Check: Look at the edge/rim of the coin - silver quarters show solid silver color with no copper line" / />}}
-  {{< interactive-modules/checklist-item label="Weight Test: A silver quarter weighs approximately 6.25 grams, while a clad quarter weighs 5.67 grams" / />}}
-  {{< interactive-modules/checklist-item label="Sound Test: When dropped on a hard surface, silver quarters produce a higher-pitched ring than clad quarters" / />}}
-  {{< interactive-modules/checklist-item label="Magnet Test: Silver quarters are not magnetic (though standard clad quarters aren't magnetic either)" / />}}
-  {{< interactive-modules/checklist-item label="Professional Verification: For suspected silver quarters, professional authentication is essential" / />}}
+  {{< interactive-modules/checklist-item label="Edge Check: Look at the edge/rim of the coin - silver quarters show solid silver color with no copper line" / / />}}
+  {{< interactive-modules/checklist-item label="Weight Test: A silver quarter weighs approximately 6.25 grams, while a clad quarter weighs 5.67 grams" / / />}}
+  {{< interactive-modules/checklist-item label="Sound Test: When dropped on a hard surface, silver quarters produce a higher-pitched ring than clad quarters" / / />}}
+  {{< interactive-modules/checklist-item label="Magnet Test: Silver quarters are not magnetic (though standard clad quarters aren't magnetic either)" / / />}}
+  {{< interactive-modules/checklist-item label="Professional Verification: For suspected silver quarters, professional authentication is essential" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< auction-results title="Notable 1965 Silver Quarter Auction Results" description="Recent sales of 1965 silver transitional error quarters" >}}
@@ -267,13 +267,13 @@ Properly evaluating the condition of your 1965 quarter is essential for determin
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="1965 Quarter Grading Guidelines" description="Key characteristics to assess when grading a 1965 quarter:" >}}
-  {{< interactive-modules/checklist-item label="Mint State (MS60-MS70): No wear whatsoever; quality ranges from heavily marked (MS60) to virtually perfect (MS70)" / />}}
-  {{< interactive-modules/checklist-item label="About Uncirculated (AU50-AU58): Extremely light wear visible only on highest points; retains 95%+ of original luster" / />}}
-  {{< interactive-modules/checklist-item label="Extremely Fine (XF40-XF45): Light wear on high points; still shows significant detail and some luster" / />}}
-  {{< interactive-modules/checklist-item label="Very Fine (VF20-VF35): Moderate wear on high points; all major details still clear" / />}}
-  {{< interactive-modules/checklist-item label="Fine (F12-F15): Well-worn with clear major details; hair details on Washington starting to flatten" / />}}
-  {{< interactive-modules/checklist-item label="Very Good (VG8-VG10): Heavily worn but major details visible; rim complete" / />}}
-  {{< interactive-modules/checklist-item label="Good (G4-G6): Very heavily worn with outline of design visible; some details merged with rim" / />}}
+  {{< interactive-modules/checklist-item label="Mint State (MS60-MS70): No wear whatsoever; quality ranges from heavily marked (MS60) to virtually perfect (MS70)" / / />}}
+  {{< interactive-modules/checklist-item label="About Uncirculated (AU50-AU58): Extremely light wear visible only on highest points; retains 95%+ of original luster" / / />}}
+  {{< interactive-modules/checklist-item label="Extremely Fine (XF40-XF45): Light wear on high points; still shows significant detail and some luster" / / />}}
+  {{< interactive-modules/checklist-item label="Very Fine (VF20-VF35): Moderate wear on high points; all major details still clear" / / />}}
+  {{< interactive-modules/checklist-item label="Fine (F12-F15): Well-worn with clear major details; hair details on Washington starting to flatten" / / />}}
+  {{< interactive-modules/checklist-item label="Very Good (VG8-VG10): Heavily worn but major details visible; rim complete" / / />}}
+  {{< interactive-modules/checklist-item label="Good (G4-G6): Very heavily worn with outline of design visible; some details merged with rim" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Sell Valuable 1965 Quarters" level="2" >}}

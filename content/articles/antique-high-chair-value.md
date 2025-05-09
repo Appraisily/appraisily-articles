@@ -128,7 +128,7 @@ According to market research and recent sales data, most antique high chairs typ
 
 It's important to note that while antique dealers and specialty sites might list high chairs at premium prices, the actual selling prices are often lower. According to a [Reddit discussion on antique high chairs](https://www.reddit.com/r/Antiques/comments/1an9822/a_high_chair_whats_it_worth_its_late_1800s/), even 19th-century examples often struggle to find buyers because they serve such a specific purpose that is now outdated due to modern safety standards.
 
-{{< data-modules/stats-highlight title="Antique High Chair Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique High Chair Market Insights" columns="3" / / />}}
 
 - **Decorative Value**: Most antique high chairs are purchased for display rather than use
 - **Limited Demand**: Smaller collector base compared to other antique furniture categories
@@ -149,13 +149,13 @@ According to expertise from [JustAnswer's antique appraisals](https://www.justan
 Condition significantly impacts an antique high chair's value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that affect the value assessment of antique high chairs" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and not heavily refinished" / />}}
-  {{< interactive-modules/checklist-item label="Free of significant damage, repairs, or replaced parts" / />}}
-  {{< interactive-modules/checklist-item label="Structural integrity with stable joints and no wobbling" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and tray mechanisms functional" / />}}
-  {{< interactive-modules/checklist-item label="Free of excessive wear, deep scratches, or gouges" / />}}
-  {{< interactive-modules/checklist-item label="No significant splits, cracks, or missing pieces" / />}}
-  {{< interactive-modules/checklist-item label="Original decorative elements intact (carvings, turnings, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and not heavily refinished" / / />}}
+  {{< interactive-modules/checklist-item label="Free of significant damage, repairs, or replaced parts" / / />}}
+  {{< interactive-modules/checklist-item label="Structural integrity with stable joints and no wobbling" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and tray mechanisms functional" / / />}}
+  {{< interactive-modules/checklist-item label="Free of excessive wear, deep scratches, or gouges" / / />}}
+  {{< interactive-modules/checklist-item label="No significant splits, cracks, or missing pieces" / / />}}
+  {{< interactive-modules/checklist-item label="Original decorative elements intact (carvings, turnings, etc.)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Craftsmanship and Materials

@@ -110,7 +110,7 @@ An online art appraisal is a professional evaluation of artwork conducted digita
 
 Online appraisals have gained significant traction in recent years due to their affordability, speed, and wide reach. Unlike traditional in-person appraisals that might cost hundreds of dollars and require scheduling appointments, online services often provide evaluations within days—sometimes even hours—at a fraction of the cost.
 
-{{< data-modules/stats-highlight title="Online Art Appraisal Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Online Art Appraisal Market Statistics" columns="3" / / />}}
 - **72 hours**: Average turnaround time for online art appraisals
 - **$36-500**: Typical price range for professional online art valuation services
 - **30-50%**: Cost savings compared to in-person appraisal services
@@ -191,12 +191,12 @@ Understanding how online art appraisals work will help you prepare properly and 
 The first and most crucial step is properly documenting your artwork with high-quality photographs:
 
 {{< interactive-modules/condition-checklist title="Art Documentation Checklist" description="Essential elements to include when photographing artwork for appraisal" >}}
-  {{< interactive-modules/checklist-item label="Full front view in natural light" / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of signature or markings" / />}}
-  {{< interactive-modules/checklist-item label="Photos of the back of the artwork" / />}}
-  {{< interactive-modules/checklist-item label="Detail shots of any damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Image of artwork with measuring tool for scale" / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of frame or mounting (if relevant)" / />}}
+  {{< interactive-modules/checklist-item label="Full front view in natural light" / / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of signature or markings" / / />}}
+  {{< interactive-modules/checklist-item label="Photos of the back of the artwork" / / />}}
+  {{< interactive-modules/checklist-item label="Detail shots of any damage or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Image of artwork with measuring tool for scale" / / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of frame or mounting (if relevant)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Step 2: Gather Provenance Information
@@ -313,7 +313,7 @@ While free options provide valuable starting points, they typically lack:
 - Authentication verification
 - Formal written documentation
 
-{{< data-modules/stats-highlight title="Free vs. Paid Appraisal Comparison" columns="2" / />}}
+{{< data-modules/stats-highlight title="Free vs. Paid Appraisal Comparison" columns="2" / / />}}
 - **Free Appraisals**: 65% accuracy rate, no legal standing for insurance/tax, limited detailed analysis
 - **Paid Professional Appraisals**: 90-95% accuracy rate, legally valid documentation, comprehensive market analysis, authentication assessment
 

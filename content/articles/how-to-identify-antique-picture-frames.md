@@ -72,7 +72,7 @@ Antique picture frames are more than just decorative items - they're historical 
 
 Generally, a picture frame must be at least 100 years old to be considered truly antique. However, many "vintage" frames from the early-to-mid 20th century can also have significant value. The market for authentic antique frames continues to grow, with fine examples from the 18th and 19th centuries often commanding prices in the thousands of dollars at auction.
 
-{{< data-modules/stats-highlight title="Antique Frame Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Frame Market Insights" columns="3" / / />}}
   <div class="stat-card" style="color: var(--primary-color);">
     <span class="stat-value">100+</span>
     <span class="stat-label">Years Old</span>
@@ -128,12 +128,12 @@ According to experts at [Frinton Frames](https://frintonframes.co.uk/2023/10/02/
 Here's what to look for when analyzing frame materials:
 
 {{< interactive-modules/condition-checklist title="Material Authentication Checklist" description="Key indicators to examine when assessing frame materials" >}}
-  {{< interactive-modules/checklist-item label="Solid wood construction (not composite wood or plaster)" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand carving rather than machine molding" / />}}
-  {{< interactive-modules/checklist-item label="Gold or silver leaf gilding rather than paint" / />}}
-  {{< interactive-modules/checklist-item label="Darkened natural patina on wood surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Original finish without modern varnishes or sealants" / />}}
-  {{< interactive-modules/checklist-item label="Age-appropriate joinery methods (hand-cut joints)" / />}}
+  {{< interactive-modules/checklist-item label="Solid wood construction (not composite wood or plaster)" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand carving rather than machine molding" / / />}}
+  {{< interactive-modules/checklist-item label="Gold or silver leaf gilding rather than paint" / / />}}
+  {{< interactive-modules/checklist-item label="Darkened natural patina on wood surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish without modern varnishes or sealants" / / />}}
+  {{< interactive-modules/checklist-item label="Age-appropriate joinery methods (hand-cut joints)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Wood type can also provide clues about a frame's origin and age. European frames were commonly made from oak, walnut, or fruitwoods like pear, while American frames often utilized pine, maple, or cherry. The wood choice often reflected what was locally available during the period of creation.

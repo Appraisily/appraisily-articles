@@ -118,7 +118,7 @@ The value of vintage Christmas ornaments isn't just about age—though ornaments
 
 ![Closeup of antique mercury glass Christmas ornaments with detailed hand-painted designs](https://ik.imagekit.io/appraisily/SEO/value-of-old-christmas-ornaments/value-of-old-christmas-ornaments-image-2_Y5mlWFZIt.png)
 
-{{< data-modules/stats-highlight title="Vintage Christmas Ornament Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Christmas Ornament Market Facts" columns="3" / / />}}
 <div class="stat-card">
   <div class="stat-value" style="color: #e6433b;">300%</div>
   <div class="stat-label">Value Increase</div>
@@ -237,14 +237,14 @@ Original boxes can provide definitive information about age and significantly in
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Vintage Ornament Condition Assessment" description="Use this checklist to evaluate the condition of your vintage Christmas ornaments" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or missing pieces" / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Original cap and hanger present" / />}}
-  {{< interactive-modules/checklist-item label="Silvering inside glass ornaments still vibrant" / />}}
-  {{< interactive-modules/checklist-item label="Original box present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration attempts" / />}}
-  {{< interactive-modules/checklist-item label="Colors remain bright without fading" / />}}
-  {{< interactive-modules/checklist-item label="All moving parts or electrical components work (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or missing pieces" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Original cap and hanger present" / / />}}
+  {{< interactive-modules/checklist-item label="Silvering inside glass ornaments still vibrant" / / />}}
+  {{< interactive-modules/checklist-item label="Original box present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration attempts" / / />}}
+  {{< interactive-modules/checklist-item label="Colors remain bright without fading" / / />}}
+  {{< interactive-modules/checklist-item label="All moving parts or electrical components work (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Understanding Condition Terminology

@@ -141,7 +141,7 @@ An accurate professional appraisal of your antique furniture can be essential fo
 
 Additionally, a professional appraisal can reveal important historical context about your furniture, including its age, origin, style period, and the techniques used in its construction. This information enhances your appreciation of the piece and can significantly impact its value.
 
-{{< data-modules/stats-highlight title="Antique Furniture Appraisal Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Furniture Appraisal Facts" columns="3" / / />}}
 
 ![Person taking detailed photos of antique furniture for online appraisal](https://ik.imagekit.io/appraisily/SEO/how-to-get-antique-furniture-appraised/how-to-get-antique-furniture-appraised-image-2_6yxssp5V3.png)
 
@@ -166,12 +166,12 @@ According to [Fontaine's Auction Gallery](https://www.fontainesauction.com/antiq
 Take clear, well-lit photographs of your furniture from multiple angles:
 
 {{< interactive-modules/condition-checklist title="Furniture Documentation Checklist" description="Ensure you capture these important elements" >}}
-{{< interactive-modules/checklist-item label="Full front, back, and side views" / />}}
-{{< interactive-modules/checklist-item label="Close-ups of any maker's marks or signatures" / />}}
-{{< interactive-modules/checklist-item label="Detail shots of decorative elements" / />}}
-{{< interactive-modules/checklist-item label="Areas showing condition issues or damage" / />}}
-{{< interactive-modules/checklist-item label="Hardware details (knobs, hinges, etc.)" / />}}
-{{< interactive-modules/checklist-item label="Inside drawers and cabinets" / />}}
+{{< interactive-modules/checklist-item label="Full front, back, and side views" / / />}}
+{{< interactive-modules/checklist-item label="Close-ups of any maker's marks or signatures" / / />}}
+{{< interactive-modules/checklist-item label="Detail shots of decorative elements" / / />}}
+{{< interactive-modules/checklist-item label="Areas showing condition issues or damage" / / />}}
+{{< interactive-modules/checklist-item label="Hardware details (knobs, hinges, etc.)" / / />}}
+{{< interactive-modules/checklist-item label="Inside drawers and cabinets" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Additionally, take precise measurements of your piece, including height, width, depth, and any other relevant dimensions. This information will be particularly important for online appraisals.

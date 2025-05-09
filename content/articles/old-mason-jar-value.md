@@ -130,7 +130,7 @@ The age of a Mason jar significantly impacts its value. Ball jars, the most comm
 
 Color is perhaps the most immediately noticeable factor affecting Mason jar values:
 
-{{< data-modules/stats-highlight title="Most Valuable Mason Jar Colors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Most Valuable Mason Jar Colors" columns="3" / / />}}
 
 - **Clear Glass**: Most common and typically least valuable
 - **Aqua and Light Blue**: Common in older jars due to natural glass composition
@@ -146,14 +146,14 @@ Color is perhaps the most immediately noticeable factor affecting Mason jar valu
 Beyond age and color, collectors value jars with distinctive features:
 
 {{< interactive-modules/condition-checklist title="Valuable Mason Jar Feature Checklist" description="Check for these features that can significantly increase a jar's value" >}}
-  {{< interactive-modules/checklist-item label="Embossing errors or misspellings" / />}}
-  {{< interactive-modules/checklist-item label="Unusual closures or sealing mechanisms" / />}}
-  {{< interactive-modules/checklist-item label="Half-gallon or larger sizes" / />}}
-  {{< interactive-modules/checklist-item label="Unique shapes (square, midget, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Original zinc lids or glass inserts" / />}}
-  {{< interactive-modules/checklist-item label="Limited production runs" / />}}
-  {{< interactive-modules/checklist-item label="Regional or small manufacturer markings" / />}}
-  {{< interactive-modules/checklist-item label="Pontil marks on base (indicating handblown production)" / />}}
+  {{< interactive-modules/checklist-item label="Embossing errors or misspellings" / / />}}
+  {{< interactive-modules/checklist-item label="Unusual closures or sealing mechanisms" / / />}}
+  {{< interactive-modules/checklist-item label="Half-gallon or larger sizes" / / />}}
+  {{< interactive-modules/checklist-item label="Unique shapes (square, midget, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Original zinc lids or glass inserts" / / />}}
+  {{< interactive-modules/checklist-item label="Limited production runs" / / />}}
+  {{< interactive-modules/checklist-item label="Regional or small manufacturer markings" / / />}}
+  {{< interactive-modules/checklist-item label="Pontil marks on base (indicating handblown production)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Rarest and Most Valuable Mason Jars" level="2" >}}
@@ -291,14 +291,14 @@ The condition of a vintage Mason jar dramatically affects its value, with collec
 Collectors grade Mason jars on several condition factors:
 
 {{< interactive-modules/condition-checklist title="Mason Jar Condition Assessment" description="Check all that apply to determine your jar's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks anywhere on the glass" / />}}
-  {{< interactive-modules/checklist-item label="Original closure present (zinc lid, glass insert, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Clear, readable embossing with no wear" / />}}
-  {{< interactive-modules/checklist-item label="Strong, vibrant color (for colored glass jars)" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" / />}}
-  {{< interactive-modules/checklist-item label="No staining or residue inside the jar" / />}}
-  {{< interactive-modules/checklist-item label="Original paper labels intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging present" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks anywhere on the glass" / / />}}
+  {{< interactive-modules/checklist-item label="Original closure present (zinc lid, glass insert, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, readable embossing with no wear" / / />}}
+  {{< interactive-modules/checklist-item label="Strong, vibrant color (for colored glass jars)" / / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" / / />}}
+  {{< interactive-modules/checklist-item label="No staining or residue inside the jar" / / />}}
+  {{< interactive-modules/checklist-item label="Original paper labels intact (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Detailed view of zinc lid and glass liner from vintage Mason jar](https://ik.imagekit.io/appraisily/SEO/old-mason-jar-value/old-mason-jar-value-image-5_rwOwQL--7.png)

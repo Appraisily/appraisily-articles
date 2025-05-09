@@ -145,7 +145,7 @@ According to a recent auction covered by [Coin World](https://www.coinworld.com/
 
 The late 19th and early 20th centuries saw a transition to Western-style coinage in China, with silver dollars becoming particularly important. Coins from this period are among the most valuable Chinese coins on the market today.
 
-{{< data-modules/stats-highlight title="Key Value Markers for Chinese Silver Dollars" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Markers for Chinese Silver Dollars" columns="3" / / />}}
 
 1. **Rarity**: Provincial issues with limited mintages
 2. **Condition**: Minimal circulation wear and original luster
@@ -203,13 +203,13 @@ For example, "Qian Long Tong Bao" indicates a coin from the Qianlong Emperor's r
 ### Valuable Qing Dynasty Coin Types
 
 {{< interactive-modules/condition-checklist title="Factors Affecting Qing Dynasty Coin Values" description="Check applicable items when assessing your coins" >}}
-  {{< interactive-modules/checklist-item label="Complete, legible inscription" / />}}
-  {{< interactive-modules/checklist-item label="No significant corrosion or damage" / />}}
-  {{< interactive-modules/checklist-item label="Even color and patina" / />}}
-  {{< interactive-modules/checklist-item label="Authentic mint marks (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Correct weight for the period" / />}}
-  {{< interactive-modules/checklist-item label="Proper centering of the square hole" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of genuine casting methods" / />}}
+  {{< interactive-modules/checklist-item label="Complete, legible inscription" / / />}}
+  {{< interactive-modules/checklist-item label="No significant corrosion or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Even color and patina" / / />}}
+  {{< interactive-modules/checklist-item label="Authentic mint marks (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Correct weight for the period" / / />}}
+  {{< interactive-modules/checklist-item label="Proper centering of the square hole" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of genuine casting methods" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to eBay's [Chinese Empire coins category](https://www.ebay.com/b/Chinese-Empire-Coins-Pre-1948/173597/bn_16562290), Qing Dynasty coins often show signs of wear but command higher prices due to their historical value. Complete strings of original cash coins, like those sold by [888 Auctions](https://www.invaluable.com/blog/rare-chinese-coins-qing-dynasty-coins-overview/) (five strings of ten Yongzheng Tongbao coins) for $300, represent an affordable entry point for collectors interested in this era.
@@ -400,7 +400,7 @@ Video explorations of [Chinese coin collections](https://www.youtube.com/watch?v
 
 While many collectors focus on historical and aesthetic aspects, Chinese coins have also attracted attention as investments. According to market analysis, rare Chinese coins have shown strong appreciation over the past two decades, with some specimens increasing in value tenfold or more.
 
-{{< data-modules/stats-highlight title="Chinese Coin Market Trends" columns="3" / />}}
+{{< data-modules/stats-highlight title="Chinese Coin Market Trends" columns="3" / / />}}
 
 1. **Growing prices** for premium Republic-era coins
 2. **Increased authentication** requirements due to sophisticated counterfeits

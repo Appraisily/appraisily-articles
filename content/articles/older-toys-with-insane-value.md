@@ -98,7 +98,7 @@ The vintage toy market has produced some truly staggering sales prices, with the
 
 While most childhood toys don't reach these astronomical values, understanding what makes certain items exceptionally valuable can help you identify potential treasures in your own collection.
 
-{{< data-modules/stats-highlight title="Record-Breaking Toy Values" columns="3" / />}}
+{{< data-modules/stats-highlight title="Record-Breaking Toy Values" columns="3" / / />}}
   <tr>
     <td>$302,500</td>
     <td>Barbie by Stefano Canturi</td>
@@ -164,13 +164,13 @@ The 1979 Rocket Firing Boba Fett action figure exemplifies rarity's impact on va
 Condition dramatically affects a vintage toy's value, with mint-in-box (MIB) or mint-on-card (MOC) items often worth several times more than the same toy that's been played with or removed from its packaging.
 
 {{< interactive-modules/condition-checklist title="Toy Condition Assessment Checklist" description="Factors that determine the condition grade of a vintage toy" >}}
-  {{< interactive-modules/checklist-item label="Original packaging intact and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Original paperwork, instructions and accessories present" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or yellowing of plastic" / />}}
-  {{< interactive-modules/checklist-item label="No scratches, chips, or paint wear" / />}}
-  {{< interactive-modules/checklist-item label="Original stickers/decals in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Moving parts function correctly" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
+  {{< interactive-modules/checklist-item label="Original packaging intact and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Original paperwork, instructions and accessories present" / / />}}
+  {{< interactive-modules/checklist-item label="No discoloration or yellowing of plastic" / / />}}
+  {{< interactive-modules/checklist-item label="No scratches, chips, or paint wear" / / />}}
+  {{< interactive-modules/checklist-item label="Original stickers/decals in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Moving parts function correctly" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Professional grading services like Action Figure Authority (AFA) provide standardized condition assessments, with sealed, mint-condition toys receiving the highest grades and values.

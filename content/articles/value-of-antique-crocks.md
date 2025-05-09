@@ -74,7 +74,7 @@ Antique stoneware crock values span an extremely wide range, influenced by numer
 
 According to appraisal sources, the full value range for antique stoneware crocks spans from $500 for common examples to upwards of $400,000 for the rarest and most exceptional pieces. As reported by [True Legacy Homes](https://www.truelegacyhomes.com/antique-crocks/), the most valuable antique crocks typically feature unique decorative elements, exceptional craftsmanship, and clear provenance.
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
 
 - **Age**: Pre-Civil War crocks (pre-1860s) generally command higher prices
 - **Decoration**: Elaborate cobalt blue designs can increase value by 300-500%
@@ -118,14 +118,14 @@ Identifying potentially valuable crocks requires careful examination of several 
 According to [The Spruce Crafts](https://www.thesprucecrafts.com/antique-stoneware-identification-value-guide-4066123), these are the primary features to look for when identifying valuable antique crocks:
 
 {{< interactive-modules/condition-checklist title="Valuable Crock Identification Checklist" description="Look for these characteristics when evaluating an antique crock" >}}
-  {{< interactive-modules/checklist-item label="Shiny, glass-like surface with occasional bumps (salt particles)" / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted decorations (particularly in cobalt blue)" / />}}
-  {{< interactive-modules/checklist-item label="Decorations applied beneath the glaze (not on top)" / />}}
-  {{< interactive-modules/checklist-item label="Hand-drawn or stenciled numbers indicating capacity" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark or pottery company signature" / />}}
-  {{< interactive-modules/checklist-item label="Signs of handmade construction (slight asymmetry)" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate base (unglazed, rough texture)" / />}}
-  {{< interactive-modules/checklist-item label="Natural aging and wear consistent with authentic use" / />}}
+  {{< interactive-modules/checklist-item label="Shiny, glass-like surface with occasional bumps (salt particles)" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-painted decorations (particularly in cobalt blue)" / / />}}
+  {{< interactive-modules/checklist-item label="Decorations applied beneath the glaze (not on top)" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-drawn or stenciled numbers indicating capacity" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark or pottery company signature" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of handmade construction (slight asymmetry)" / / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate base (unglazed, rough texture)" / / />}}
+  {{< interactive-modules/checklist-item label="Natural aging and wear consistent with authentic use" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Identifying Maker's Marks

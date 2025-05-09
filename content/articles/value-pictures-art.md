@@ -37,7 +37,7 @@ Value is one of the fundamental elements of art, alongside line, shape, form, te
 
 Artists typically work with a value scale ranging from pure black to pure white, with various shades of gray in between. Understanding this range is crucial for creating depth and dimension in artistic compositions.
 
-{{< data-modules/stats-highlight title="Value Scale Characteristics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Scale Characteristics" columns="3" / / />}}
 
 **8-10 Values**: A typical value scale used by artists contains 8-10 distinct values from black to white
 
@@ -70,11 +70,11 @@ The distribution of values across an artwork creates different moods and visual 
 Value plays several crucial roles in artistic composition:
 
 {{< interactive-modules/condition-checklist title="Functions of Value in Art" description="How value creates visual impact in artwork" >}}
-  {{< interactive-modules/checklist-item label="Creates the illusion of form and volume" / />}}
-  {{< interactive-modules/checklist-item label="Establishes depth and spatial relationships" / />}}
-  {{< interactive-modules/checklist-item label="Directs viewer's eye to focal points" / />}}
-  {{< interactive-modules/checklist-item label="Conveys mood and atmosphere" / />}}
-  {{< interactive-modules/checklist-item label="Provides contrast and visual interest" / />}}
+  {{< interactive-modules/checklist-item label="Creates the illusion of form and volume" / / />}}
+  {{< interactive-modules/checklist-item label="Establishes depth and spatial relationships" / / />}}
+  {{< interactive-modules/checklist-item label="Directs viewer's eye to focal points" / / />}}
+  {{< interactive-modules/checklist-item label="Conveys mood and atmosphere" / / />}}
+  {{< interactive-modules/checklist-item label="Provides contrast and visual interest" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to the [New York Times' analysis of art elements](https://www.nytimes.com/2018/01/03/learning/lesson-plans/analyzing-the-elements-of-art-four-ways-to-think-about-value.html), "Value defines how light or dark a given color or hue can be. Values are best understood when visualized as a scale or gradient, from dark to light."
@@ -177,14 +177,14 @@ Beyond visual elements, "value" also refers to the monetary worth of artwork. Un
 Multiple elements contribute to an artwork's market value:
 
 {{< interactive-modules/condition-checklist title="Art Valuation Factors" description="Key elements that determine an artwork's financial worth" >}}
-  {{< interactive-modules/checklist-item label="Artist reputation and career trajectory" / />}}
-  {{< interactive-modules/checklist-item label="Provenance and ownership history" / />}}
-  {{< interactive-modules/checklist-item label="Condition and conservation status" / />}}
-  {{< interactive-modules/checklist-item label="Size, medium, and materials" / />}}
-  {{< interactive-modules/checklist-item label="Subject matter and aesthetic appeal" / />}}
-  {{< interactive-modules/checklist-item label="Rarity and scarcity in the market" / />}}
-  {{< interactive-modules/checklist-item label="Exhibition history and literature mentions" / />}}
-  {{< interactive-modules/checklist-item label="Authenticity and documentation" / />}}
+  {{< interactive-modules/checklist-item label="Artist reputation and career trajectory" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance and ownership history" / / />}}
+  {{< interactive-modules/checklist-item label="Condition and conservation status" / / />}}
+  {{< interactive-modules/checklist-item label="Size, medium, and materials" / / />}}
+  {{< interactive-modules/checklist-item label="Subject matter and aesthetic appeal" / / />}}
+  {{< interactive-modules/checklist-item label="Rarity and scarcity in the market" / / />}}
+  {{< interactive-modules/checklist-item label="Exhibition history and literature mentions" / / />}}
+  {{< interactive-modules/checklist-item label="Authenticity and documentation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [Austin Galleries](https://www.austingalleries.com/post/how-to-tell-if-your-art-is-valuable?srsltid=AfmBOopJyNDDhKwJmPAPVXUbqH2DQlXzpR57rMI3zNRc4bORVwQYLg7e), determining if your artwork is valuable involves several steps: "Step 1: Determine if your artwork is a painting or a print. Step 2: Consider the provenance."

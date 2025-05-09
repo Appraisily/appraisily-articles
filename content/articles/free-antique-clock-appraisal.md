@@ -159,7 +159,7 @@ Having your antique clock professionally appraised provides several important be
 
 5. **Restoration Decisions**: Determine if investing in restoration is financially worthwhile.
 
-{{< data-modules/stats-highlight title="Antique Clock Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Clock Market Facts" columns="3" / / />}}
 
 - **$10,000-$100,000+**: Value range for rare grandfather clocks in excellent condition
 - **15-25%**: Typical value increase for clocks with original documentation  
@@ -322,14 +322,14 @@ Properly preparing for your appraisal appointment will help ensure you receive t
 Whether you're seeking an online or in-person appraisal, proper preparation ensures you'll receive the most accurate evaluation possible:
 
 {{< interactive-modules/condition-checklist title="Appraisal Preparation Checklist" description="Use this checklist to prepare for your clock appraisal" >}}
-{{< interactive-modules/checklist-item label="Clean the clock gently but do not polish or attempt repairs" / />}}
-{{< interactive-modules/checklist-item label="Gather any documentation, receipts, or provenance information" / />}}
-{{< interactive-modules/checklist-item label="Take detailed photographs of all sides, the dial, and any markings" / />}}
-{{< interactive-modules/checklist-item label="Make notes about the clock's working condition" / />}}
-{{< interactive-modules/checklist-item label="Measure dimensions (height, width, depth)" / />}}
-{{< interactive-modules/checklist-item label="Locate and document any maker's marks or serial numbers" / />}}
-{{< interactive-modules/checklist-item label="Prepare a list of any known repairs or restorations" / />}}
-{{< interactive-modules/checklist-item label="Research the maker if known (but keep an open mind)" / />}}
+{{< interactive-modules/checklist-item label="Clean the clock gently but do not polish or attempt repairs" / / />}}
+{{< interactive-modules/checklist-item label="Gather any documentation, receipts, or provenance information" / / />}}
+{{< interactive-modules/checklist-item label="Take detailed photographs of all sides, the dial, and any markings" / / />}}
+{{< interactive-modules/checklist-item label="Make notes about the clock's working condition" / / />}}
+{{< interactive-modules/checklist-item label="Measure dimensions (height, width, depth)" / / />}}
+{{< interactive-modules/checklist-item label="Locate and document any maker's marks or serial numbers" / / />}}
+{{< interactive-modules/checklist-item label="Prepare a list of any known repairs or restorations" / / />}}
+{{< interactive-modules/checklist-item label="Research the maker if known (but keep an open mind)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Essential Information to Provide

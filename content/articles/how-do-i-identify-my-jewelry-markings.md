@@ -161,7 +161,7 @@ Jewelry markings are more than just decorative elements—they're crucial pieces
 
 Understanding these markings can help you:
 
-{{< data-modules/stats-highlight title="Why Jewelry Markings Matter" columns="3" / />}}
+{{< data-modules/stats-highlight title="Why Jewelry Markings Matter" columns="3" / / />}}
 
 * **Verify authenticity** - Distinguish genuine pieces from counterfeits
 * **Determine value** - Precious metal content significantly affects worth
@@ -179,12 +179,12 @@ Jewelry without markings isn't necessarily fake or worthless, but it can be more
 To properly examine and identify jewelry markings, you'll need:
 
 {{< interactive-modules/condition-checklist title="Jewelry Marking Identification Tool Kit" description="Essential items for examining jewelry markings" >}}
-  {{< interactive-modules/checklist-item label="Jeweler's loupe (10x magnification is standard)" / />}}
-  {{< interactive-modules/checklist-item label="Good lighting source (natural light or a bright desk lamp)" / />}}
-  {{< interactive-modules/checklist-item label="Clean, soft cloth for polishing" / />}}
-  {{< interactive-modules/checklist-item label="Smartphone with camera for taking clear photos" / />}}
-  {{< interactive-modules/checklist-item label="Ruler or calipers for measuring dimensions" / />}}
-  {{< interactive-modules/checklist-item label="Hallmark reference guide or app" / />}}
+  {{< interactive-modules/checklist-item label="Jeweler's loupe (10x magnification is standard)" / / />}}
+  {{< interactive-modules/checklist-item label="Good lighting source (natural light or a bright desk lamp)" / / />}}
+  {{< interactive-modules/checklist-item label="Clean, soft cloth for polishing" / / />}}
+  {{< interactive-modules/checklist-item label="Smartphone with camera for taking clear photos" / / />}}
+  {{< interactive-modules/checklist-item label="Ruler or calipers for measuring dimensions" / / />}}
+  {{< interactive-modules/checklist-item label="Hallmark reference guide or app" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The most important tool is a quality jeweler's loupe. These specialized magnifying glasses allow you to see tiny details that are invisible to the naked eye. When examining markings, try to find a well-lit area—natural light is ideal, but a bright desk lamp can work well too.
@@ -466,12 +466,12 @@ Not all jewelry has visible markings, but that doesn't necessarily mean it lacks
 For unmarked jewelry, consider these alternative identification methods:
 
 {{< interactive-modules/condition-checklist title="Evaluating Unmarked Jewelry" description="When hallmarks are absent, consider these assessment approaches" >}}
-  {{< interactive-modules/checklist-item label="Test precious metal content with professional testing methods" / />}}
-  {{< interactive-modules/checklist-item label="Examine construction techniques and craftsmanship quality" / />}}
-  {{< interactive-modules/checklist-item label="Identify period-specific design elements and styles" / />}}
-  {{< interactive-modules/checklist-item label="Assess gemstone cutting and setting methods" / />}}
-  {{< interactive-modules/checklist-item label="Look for hallmark remnants under magnification" / />}}
-  {{< interactive-modules/checklist-item label="Consult a professional appraiser specializing in antique jewelry" / />}}
+  {{< interactive-modules/checklist-item label="Test precious metal content with professional testing methods" / / />}}
+  {{< interactive-modules/checklist-item label="Examine construction techniques and craftsmanship quality" / / />}}
+  {{< interactive-modules/checklist-item label="Identify period-specific design elements and styles" / / />}}
+  {{< interactive-modules/checklist-item label="Assess gemstone cutting and setting methods" / / />}}
+  {{< interactive-modules/checklist-item label="Look for hallmark remnants under magnification" / / />}}
+  {{< interactive-modules/checklist-item label="Consult a professional appraiser specializing in antique jewelry" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Professional jewelers can conduct tests to determine metal content even without markings. These may include:
@@ -483,7 +483,7 @@ Professional jewelers can conduct tests to determine metal content even without 
 
 For potential antique pieces, stylistic elements can help determine age and origin, even without marks. Cutting styles, setting techniques, and clasping mechanisms evolved over time and can provide valuable dating clues.
 
-{{< data-modules/stats-highlight title="Unmarked Jewelry Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Unmarked Jewelry Statistics" columns="3" / / />}}
 
 * Many pre-1900s American jewelry pieces lack hallmarks
 * Up to 30% of antique jewelry may have lost markings due to wear

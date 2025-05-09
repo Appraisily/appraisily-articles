@@ -124,7 +124,7 @@ Today, early models from the 1850s-1870s with ornate detailing, limited edition 
 
 ![Restored vintage Singer 201 sewing machine showing detailed decals and chrome accents](https://ik.imagekit.io/appraisily/SEO/antique-singer-sewing-machine-value/antique-singer-sewing-machine-value-image-2_m-QVjF072.png)
 
-{{< data-modules/stats-highlight title="Antique Singer Sewing Machine Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Singer Sewing Machine Market Highlights" columns="3" / / />}}
 - **1.5 Million+** Singer machines produced annually during peak production years
 - **$50-$2,100** Typical price range for collectible Singer machines depending on model and condition
 - **30-50%** Value increase for machines with original accessories and documentation
@@ -264,16 +264,16 @@ The condition of your Singer sewing machine significantly impacts its value in t
 ### Key Condition Factors That Impact Value
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Assessment" description="Check applicable items to evaluate your machine's condition" >}}
-  {{< interactive-modules/checklist-item label="Machine runs smoothly when operated" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacement parts)" / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Decals clear and vibrant with minimal fading" / />}}
-  {{< interactive-modules/checklist-item label="All mechanical functions work properly" / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Complete with original case or cabinet" / />}}
-  {{< interactive-modules/checklist-item label="Original accessories included (bobbins, attachments)" / />}}
-  {{< interactive-modules/checklist-item label="Original manual and documentation present" / />}}
-  {{< interactive-modules/checklist-item label="No cracks in bakelite or plastic components" / />}}
+  {{< interactive-modules/checklist-item label="Machine runs smoothly when operated" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacement parts)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Decals clear and vibrant with minimal fading" / / />}}
+  {{< interactive-modules/checklist-item label="All mechanical functions work properly" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with original case or cabinet" / / />}}
+  {{< interactive-modules/checklist-item label="Original accessories included (bobbins, attachments)" / / />}}
+  {{< interactive-modules/checklist-item label="Original manual and documentation present" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks in bakelite or plastic components" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Understanding Condition Terminology

@@ -139,7 +139,7 @@ Once you have located the serial number, you can reference it against the [Typew
 
 Royal produced numerous models throughout its history. Here are some of the most collectible:
 
-{{< data-modules/stats-highlight title="Key Royal Typewriter Models" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Royal Typewriter Models" columns="3" / / />}}
 
 **Royal Standard/Upright Models (1906-1950s)**
 - Model 5: Early upright visible model (1910s)
@@ -179,16 +179,16 @@ Generally, Royal typewriters from the 1900s through the 1930s command higher pri
 The condition of your Royal typewriter significantly impacts its value. Collectors prize machines in excellent original condition or those that have been professionally restored.
 
 {{< interactive-modules/condition-checklist title="Royal Typewriter Condition Checklist" description="Assess your typewriter's condition with these key factors" >}}
-  {{< interactive-modules/checklist-item label="All keys are present and functional" / />}}
-  {{< interactive-modules/checklist-item label="Carriage moves smoothly across its full range" / />}}
-  {{< interactive-modules/checklist-item label="Type bars strike cleanly and return properly" / />}}
-  {{< interactive-modules/checklist-item label="Ribbon advance mechanism works correctly" / />}}
-  {{< interactive-modules/checklist-item label="Shift key functions on both sides" / />}}
-  {{< interactive-modules/checklist-item label="Platen (rubber roller) is not hardened or cracked" / />}}
-  {{< interactive-modules/checklist-item label="Original decals and badging are intact" / />}}
-  {{< interactive-modules/checklist-item label="Chrome or painted surfaces have minimal rust or wear" / />}}
-  {{< interactive-modules/checklist-item label="Case or cover is present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original documentation or manuals are included" / />}}
+  {{< interactive-modules/checklist-item label="All keys are present and functional" / / />}}
+  {{< interactive-modules/checklist-item label="Carriage moves smoothly across its full range" / / />}}
+  {{< interactive-modules/checklist-item label="Type bars strike cleanly and return properly" / / />}}
+  {{< interactive-modules/checklist-item label="Ribbon advance mechanism works correctly" / / />}}
+  {{< interactive-modules/checklist-item label="Shift key functions on both sides" / / />}}
+  {{< interactive-modules/checklist-item label="Platen (rubber roller) is not hardened or cracked" / / />}}
+  {{< interactive-modules/checklist-item label="Original decals and badging are intact" / / />}}
+  {{< interactive-modules/checklist-item label="Chrome or painted surfaces have minimal rust or wear" / / />}}
+  {{< interactive-modules/checklist-item label="Case or cover is present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original documentation or manuals are included" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Aesthetic Appeal and Unique Features

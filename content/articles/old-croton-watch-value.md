@@ -190,14 +190,14 @@ Original boxes, papers, warranty cards, and purchase receipts can significantly 
 Like any collectible, vintage Croton watch values are subject to market trends and collector interest. The popularity of certain models can fluctuate over time, affecting their market value.
 
 {{< interactive-modules/condition-checklist title="Vintage Croton Watch Condition Assessment" description="Use this checklist to evaluate the condition of your vintage Croton watch" >}}
-  {{< interactive-modules/checklist-item label="Original dial with no restoration or repainting" / />}}
-  {{< interactive-modules/checklist-item label="Movement functioning accurately with proper service history" / />}}
-  {{< interactive-modules/checklist-item label="Case shows appropriate wear for age without excessive polishing" / />}}
-  {{< interactive-modules/checklist-item label="Original hands, crown, and crystal (or period-correct replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Bracelet or strap is original to the watch (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, corrosion, or moisture intrusion visible" / />}}
-  {{< interactive-modules/checklist-item label="All complications and functions work properly" / />}}
-  {{< interactive-modules/checklist-item label="Original box and papers are present" / />}}
+  {{< interactive-modules/checklist-item label="Original dial with no restoration or repainting" / / />}}
+  {{< interactive-modules/checklist-item label="Movement functioning accurately with proper service history" / / />}}
+  {{< interactive-modules/checklist-item label="Case shows appropriate wear for age without excessive polishing" / / />}}
+  {{< interactive-modules/checklist-item label="Original hands, crown, and crystal (or period-correct replacements)" / / />}}
+  {{< interactive-modules/checklist-item label="Bracelet or strap is original to the watch (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage, corrosion, or moisture intrusion visible" / / />}}
+  {{< interactive-modules/checklist-item label="All complications and functions work properly" / / />}}
+  {{< interactive-modules/checklist-item label="Original box and papers are present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Authenticate a Vintage Croton Watch" level="2" >}}
@@ -312,7 +312,7 @@ Clean your vintage Croton gently using a soft cloth. Avoid chemical cleaners tha
 
 Resist the temptation to "improve" your vintage watch with modern parts or customizations. Collectors value originality, and modifications generally decrease a watch's value significantly.
 
-{{< data-modules/stats-highlight title="Vintage Croton Watch Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Croton Watch Market Statistics" columns="3" / / />}}
 
 {{< content-modules/section-header title="Collecting Vintage Croton Watches" level="2" >}}
 For those interested in building a collection of vintage Croton timepieces, here are strategic approaches and considerations.

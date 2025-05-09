@@ -158,7 +158,7 @@ Antique appraisal is more than just putting a price tag on old items. It involve
   Accurate antique appraisal serves multiple important purposes beyond simple curiosity about an item's worth.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Benefits of Professional Antique Appraisals" columns="3" / />}}
+{{< data-modules/stats-highlight title="Benefits of Professional Antique Appraisals" columns="3" / / />}}
 
 For collectors and enthusiasts, proper appraisal helps:
 
@@ -198,11 +198,11 @@ Provenance refers to the history of ownership of an item. Documentation of previ
 Take multiple high-resolution photographs from various angles, including any distinctive features, damage, repairs, and maker's marks. Measure the item carefully and note all dimensions. Document any unique characteristics that distinguish it from similar pieces.
 
 {{< interactive-modules/condition-checklist title="Documentation Checklist" description="Essential information to gather for a thorough appraisal" >}}
-  {{< interactive-modules/checklist-item label="Clear photographs from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of maker's marks, signatures, or labels" / />}}
-  {{< interactive-modules/checklist-item label="Precise measurements (height, width, depth, weight)" / />}}
-  {{< interactive-modules/checklist-item label="Known history of ownership (provenance)" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of any repairs or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Clear photographs from multiple angles" / / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of maker's marks, signatures, or labels" / / />}}
+  {{< interactive-modules/checklist-item label="Precise measurements (height, width, depth, weight)" / / />}}
+  {{< interactive-modules/checklist-item label="Known history of ownership (provenance)" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation of any repairs or restoration" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Assessing Condition" level="2" >}}

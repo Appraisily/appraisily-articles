@@ -170,7 +170,7 @@ Despite their popularity and historical significance, the 1993 Elvis stamps have
 
 As stamp expert [JustAnswer](https://www.justanswer.com/appraisals/mws2c-elvis-stamp-29-dont-know-old-good.html) confirms: "Fair market value is just 40 or 50 cents each for those 29 cent Elvis stamps." This assessment aligns with current eBay listings where full sheets of 40 stamps typically sell for around $17, only marginally above their $11.60 face value.
 
-{{< data-modules/stats-highlight title="Elvis Stamp Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Elvis Stamp Facts" columns="3" / / />}}
 
 - **500 million** - Number of Elvis stamps printed in 1993
 - **124 million** - Elvis stamps saved by collectors
@@ -188,12 +188,12 @@ While regular 29¢ Elvis stamps have minimal premium value, certain factors can 
 Mint condition, never-hinged stamps always command the highest prices. Even minor defects like:
 
 {{< interactive-modules/condition-checklist title="Elvis Stamp Condition Assessment" description="Check for these factors that reduce stamp value" >}}
-  {{< interactive-modules/checklist-item label="Creases or folds in the paper" / />}}
-  {{< interactive-modules/checklist-item label="Tears or rips (even microscopic ones)" / />}}
-  {{< interactive-modules/checklist-item label="Damaged perforations around edges" / />}}
-  {{< interactive-modules/checklist-item label="Discoloration or toning of the paper" / />}}
-  {{< interactive-modules/checklist-item label="Gum damage on reverse (for mint stamps)" / />}}
-  {{< interactive-modules/checklist-item label="Heavy cancellation marks (for used stamps)" / />}}
+  {{< interactive-modules/checklist-item label="Creases or folds in the paper" / / />}}
+  {{< interactive-modules/checklist-item label="Tears or rips (even microscopic ones)" / / />}}
+  {{< interactive-modules/checklist-item label="Damaged perforations around edges" / / />}}
+  {{< interactive-modules/checklist-item label="Discoloration or toning of the paper" / / />}}
+  {{< interactive-modules/checklist-item label="Gum damage on reverse (for mint stamps)" / / />}}
+  {{< interactive-modules/checklist-item label="Heavy cancellation marks (for used stamps)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### First Day Covers

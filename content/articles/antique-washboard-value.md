@@ -169,7 +169,7 @@ The earliest washboards were often made entirely of wood, with ridged wooden sur
 
 Later wooden washboards typically featured metal or glass washing surfaces mounted in wooden frames, with the wood used primarily for the structural elements.
 
-{{< data-modules/stats-highlight title="Antique Washboard Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Washboard Market Insights" columns="3" / / />}}
 
 {{< content-modules/section-header title="Factors That Determine Washboard Value" level="2" >}}
 Several key factors influence the market value of an antique washboard, from material composition to historical significance.
@@ -192,12 +192,12 @@ The materials used in a washboard significantly impact its value:
 As with most antiques, condition is paramount:
 
 {{< interactive-modules/condition-checklist title="Washboard Condition Assessment" description="Check applicable items to assess your washboard's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact (minimal wear or fading)" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or chips in glass surface" / />}}
-  {{< interactive-modules/checklist-item label="No rust on metal components" / />}}
-  {{< interactive-modules/checklist-item label="Solid, stable wooden frame (no warping or separation)" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer's markings visible" / />}}
-  {{< interactive-modules/checklist-item label="No repairs, replacements, or modern additions" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (minimal wear or fading)" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks or chips in glass surface" / / />}}
+  {{< interactive-modules/checklist-item label="No rust on metal components" / / />}}
+  {{< interactive-modules/checklist-item label="Solid, stable wooden frame (no warping or separation)" / / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer's markings visible" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs, replacements, or modern additions" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

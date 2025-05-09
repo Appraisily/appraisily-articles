@@ -45,7 +45,7 @@ Antique 20-gallon crocks are massive stoneware pieces that have become highly so
 Antique 20-gallon crocks can range from $150 to over $1,000 depending on several key factors. Understanding these elements will help you accurately assess your crock's worth.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Valuation Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Valuation Factors" columns="3" / / />}}
 
 ## Maker and Manufacturer
 
@@ -89,14 +89,14 @@ Condition plays a crucial role in determining a 20-gallon crock's market value. 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="20-Gallon Crock Condition Checklist" description="Use this checklist to assess your crock's condition" >}}
-  {{< interactive-modules/checklist-item label="No cracks or hairline fractures" / />}}
-  {{< interactive-modules/checklist-item label="Original glaze intact with minimal crazing" / />}}
-  {{< interactive-modules/checklist-item label="Handles present and undamaged (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No significant chips around rim or base" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="Original decoration preserved with minimal fading" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
-  {{< interactive-modules/checklist-item label="No significant staining or interior discoloration" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or hairline fractures" / / />}}
+  {{< interactive-modules/checklist-item label="Original glaze intact with minimal crazing" / / />}}
+  {{< interactive-modules/checklist-item label="Handles present and undamaged (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No significant chips around rim or base" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark clearly visible" / / />}}
+  {{< interactive-modules/checklist-item label="Original decoration preserved with minimal fading" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" / / />}}
+  {{< interactive-modules/checklist-item label="No significant staining or interior discoloration" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Minor condition issues like glaze crazing (fine networks of small cracks in the glaze) are expected in pieces over 100 years old and minimally impact value. However, structural damage like large cracks, significant chips, or missing handles can reduce value by 40-70%.

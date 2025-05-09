@@ -174,15 +174,15 @@ The era in which a Bulova watch was made plays a crucial role in determining its
 The condition of a vintage Bulova watch dramatically affects its value, with collectors willing to pay significant premiums for pieces in excellent original condition.
 
 {{< interactive-modules/condition-checklist title="Vintage Bulova Watch Condition Assessment" description="Check applicable items to gauge your watch's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="Original dial with no restoration or damage" / />}}
-  {{< interactive-modules/checklist-item label="Movement works properly and keeps accurate time" / />}}
-  {{< interactive-modules/checklist-item label="Case shows minimal wear appropriate for age" / />}}
-  {{< interactive-modules/checklist-item label="Original crown present (not replaced)" / />}}
-  {{< interactive-modules/checklist-item label="Crystal clear with no major scratches or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Original band or bracelet in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original box and papers preserved" / />}}
-  {{< interactive-modules/checklist-item label="No water damage or signs of moisture intrusion" / />}}
-  {{< interactive-modules/checklist-item label="All gemstones (if any) present and secure" / />}}
+  {{< interactive-modules/checklist-item label="Original dial with no restoration or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Movement works properly and keeps accurate time" / / />}}
+  {{< interactive-modules/checklist-item label="Case shows minimal wear appropriate for age" / / />}}
+  {{< interactive-modules/checklist-item label="Original crown present (not replaced)" / / />}}
+  {{< interactive-modules/checklist-item label="Crystal clear with no major scratches or cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Original band or bracelet in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original box and papers preserved" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage or signs of moisture intrusion" / / />}}
+  {{< interactive-modules/checklist-item label="All gemstones (if any) present and secure" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Demand
@@ -196,7 +196,7 @@ Certain Bulova women's watch models are significantly rarer than others, making 
 
 According to data from online auction sites like [1stDibs](https://www.1stdibs.com/buy/vintage-bulova-watch/), watches with documented provenance can sell for 2-3 times the price of identical models without such history.
 
-{{< data-modules/stats-highlight title="Vintage Bulova Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Bulova Market Statistics" columns="3" / / />}}
 
 {{< content-modules/section-header title="Identifying Vintage Women's Bulova Watches" level="2" >}}
 To accurately value a vintage Bulova watch, you must first correctly identify its model, age, and authenticity. Bulova has produced thousands of different models over the decades, each with unique characteristics that help determine its origin and value.

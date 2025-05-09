@@ -139,12 +139,12 @@ The composition of the milk can provides significant clues about its age:
 According to detailed dating guides on [wikiHow](https://www.wikihow.com/Date-Old-Milk-Cans), these features can help pinpoint a milk can's era:
 
 {{< interactive-modules/condition-checklist title="Dating Indicators for Milk Cans" description="Check applicable features to help determine the age of your milk can" >}}
-  {{< interactive-modules/checklist-item label="Seamless construction (indicating older manufacturing methods)" / />}}
-  {{< interactive-modules/checklist-item label="Hand-soldered joints and seams (typical of pre-1930s cans)" / />}}
-  {{< interactive-modules/checklist-item label="Embossed manufacturer marks (more common on cans from 1900-1940)" / />}}
-  {{< interactive-modules/checklist-item label="Stamped capacity markings (standard on most post-1920 cans)" / />}}
-  {{< interactive-modules/checklist-item label="Dairy identification numbers or names" / />}}
-  {{< interactive-modules/checklist-item label="Patent dates or numbers visible on the can or lid" / />}}
+  {{< interactive-modules/checklist-item label="Seamless construction (indicating older manufacturing methods)" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-soldered joints and seams (typical of pre-1930s cans)" / / />}}
+  {{< interactive-modules/checklist-item label="Embossed manufacturer marks (more common on cans from 1900-1940)" / / />}}
+  {{< interactive-modules/checklist-item label="Stamped capacity markings (standard on most post-1920 cans)" / / />}}
+  {{< interactive-modules/checklist-item label="Dairy identification numbers or names" / / />}}
+  {{< interactive-modules/checklist-item label="Patent dates or numbers visible on the can or lid" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Analyzing Markings and Labels
@@ -158,7 +158,7 @@ The markings on milk cans evolved over time, providing valuable dating clues:
 
 As [Pinterest collectors note](https://www.pinterest.com/pin/antique-milk-cans-value-identification-price-guides--867435578204148541/), these identifying marks can significantly impact valuation.
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Milk Cans" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Milk Cans" columns="3" / / />}}
 
 {{< content-modules/section-header title="Factors That Determine Milk Can Value" level="2" >}}
 Multiple elements influence the market value of vintage milk cans, with condition and rarity being paramount considerations.
@@ -171,13 +171,13 @@ When assessing the value of an antique milk can, several key factors come into p
 Condition is perhaps the most significant factor affecting value. According to collectors on forums like [Reddit's r/Antiques](https://www.reddit.com/r/Antiques/comments/16jexnz/any_advice_on_determining_the_value_and_age_of_an/), pristine examples can command premium prices.
 
 {{< interactive-modules/condition-checklist title="Milk Can Condition Checklist" description="Evaluate the condition of your milk can using these criteria" >}}
-  {{< interactive-modules/checklist-item label="Original paint or finish intact" / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Functional lid with good seal" / />}}
-  {{< interactive-modules/checklist-item label="Handles intact and operational" / />}}
-  {{< interactive-modules/checklist-item label="No dents or damage to body" / />}}
-  {{< interactive-modules/checklist-item label="Original markings clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or modifications" / />}}
+  {{< interactive-modules/checklist-item label="Original paint or finish intact" / / />}}
+  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / / />}}
+  {{< interactive-modules/checklist-item label="Functional lid with good seal" / / />}}
+  {{< interactive-modules/checklist-item label="Handles intact and operational" / / />}}
+  {{< interactive-modules/checklist-item label="No dents or damage to body" / / />}}
+  {{< interactive-modules/checklist-item label="Original markings clearly visible" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or modifications" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Unique Features

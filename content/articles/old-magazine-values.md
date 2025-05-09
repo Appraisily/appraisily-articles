@@ -110,7 +110,7 @@ This comprehensive guide will help you understand what makes old magazines valua
 Several key factors influence whether an old magazine is merely nostalgic or genuinely valuable to collectors. Understanding these value drivers can help you identify potential treasures in your collection.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Value Factors for Old Magazines" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for Old Magazines" columns="3" / / />}}
 
 ### Historical Significance
 
@@ -145,13 +145,13 @@ Special commemorative editions, anniversary issues, and other limited releases o
 ### Complete Condition
 
 {{< interactive-modules/condition-checklist title="Magazine Condition Assessment" description="Check applicable items to evaluate your magazine's condition" >}}
-  {{< interactive-modules/checklist-item label="Cover is intact with no tears, creases or writing" / />}}
-  {{< interactive-modules/checklist-item label="All pages present with no cutouts or missing content" / />}}
-  {{< interactive-modules/checklist-item label="Magazine shows minimal yellowing or age spots" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, stains, or mildew present" / />}}
-  {{< interactive-modules/checklist-item label="Spine is fully intact with no separation" / />}}
-  {{< interactive-modules/checklist-item label="No address labels, stickers, or markings added" / />}}
-  {{< interactive-modules/checklist-item label="Original inserts, posters, or supplements included" / />}}
+  {{< interactive-modules/checklist-item label="Cover is intact with no tears, creases or writing" / / />}}
+  {{< interactive-modules/checklist-item label="All pages present with no cutouts or missing content" / / />}}
+  {{< interactive-modules/checklist-item label="Magazine shows minimal yellowing or age spots" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage, stains, or mildew present" / / />}}
+  {{< interactive-modules/checklist-item label="Spine is fully intact with no separation" / / />}}
+  {{< interactive-modules/checklist-item label="No address labels, stickers, or markings added" / / />}}
+  {{< interactive-modules/checklist-item label="Original inserts, posters, or supplements included" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition dramatically impacts magazine value. Issues in mint or near-mint condition—with no tears, markings, fading, or missing pages—can be worth many times more than the same issue in poor condition.

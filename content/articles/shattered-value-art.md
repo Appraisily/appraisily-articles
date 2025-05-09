@@ -147,7 +147,7 @@ The technique serves multiple purposes:
 
 This approach is particularly popular in art education settings because it provides a clear structure for students to practice value rendering while producing visually impressive results. The fractured appearance allows for creative interpretation while maintaining recognizable subject matter.
 
-{{< data-modules/stats-highlight title="Key Benefits of Shattered Value Drawing" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Benefits of Shattered Value Drawing" columns="3" / / />}}
 
 {{< content-modules/section-header title="The Elements of Value in Art" level="2" >}}
 Understanding value is essential to successful shattered value drawings and all forms of visual art.
@@ -244,12 +244,12 @@ Now comes the detailed work of shading each fragment:
 As recommended by Mr. Knight Art's teaching resources, "When creating your value scale, practice applying even pressure and consistent strokes to achieve smooth gradations from light to dark."
 
 {{< interactive-modules/condition-checklist title="Shaded Value Quality Assessment" description="Check these criteria when evaluating your shattered value drawing" >}}
-  {{< interactive-modules/checklist-item label="Full range of values from white to black" / />}}
-  {{< interactive-modules/checklist-item label="Even, consistent shading within each fragment" / />}}
-  {{< interactive-modules/checklist-item label="Sharp, clean edges between different value areas" / />}}
-  {{< interactive-modules/checklist-item label="Balanced distribution of light and dark areas" / />}}
-  {{< interactive-modules/checklist-item label="Subject remains recognizable despite fragmentation" / />}}
-  {{< interactive-modules/checklist-item label="Drawing shows understanding of how value creates form" / />}}
+  {{< interactive-modules/checklist-item label="Full range of values from white to black" / / />}}
+  {{< interactive-modules/checklist-item label="Even, consistent shading within each fragment" / / />}}
+  {{< interactive-modules/checklist-item label="Sharp, clean edges between different value areas" / / />}}
+  {{< interactive-modules/checklist-item label="Balanced distribution of light and dark areas" / / />}}
+  {{< interactive-modules/checklist-item label="Subject remains recognizable despite fragmentation" / / />}}
+  {{< interactive-modules/checklist-item label="Drawing shows understanding of how value creates form" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Materials and Techniques" level="2" >}}

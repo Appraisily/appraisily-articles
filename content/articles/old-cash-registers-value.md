@@ -100,7 +100,7 @@ Antique cash registers represent a fascinating intersection of commercial histor
 
 In this comprehensive guide, we'll explore the factors that influence antique cash register values, provide identification tools for major manufacturers and models, examine current market trends, and offer insights into buying, selling, and restoring these mechanical marvels. Whether you've discovered an old register in an estate or are actively building a collection, understanding these factors will help you navigate the market with confidence.
 
-{{< data-modules/stats-highlight title="Antique Cash Register Market Snapshot" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Cash Register Market Snapshot" columns="3" / / />}}
 <div class="stat-card" data-color="green">
   <span class="stat-value">$100-$5,000+</span>
   <span class="stat-label">Price Range</span>
@@ -160,13 +160,13 @@ Early model numbers (1-100) typically indicate registers from the late 19th to e
 ### Key Identification Elements
 
 {{< interactive-modules/condition-checklist title="Cash Register Identification Checklist" description="Use these points to help identify your antique cash register" >}}
-  {{< interactive-modules/checklist-item label="Locate the model number tag (usually on the front)" / />}}
-  {{< interactive-modules/checklist-item label="Find the serial number (may be on a separate plate)" / />}}
-  {{< interactive-modules/checklist-item label="Determine the number of drawers and register keys" / />}}
-  {{< interactive-modules/checklist-item label="Identify the casing material (brass, bronze, nickel, iron)" / />}}
-  {{< interactive-modules/checklist-item label="Note decorative elements and their condition" / />}}
-  {{< interactive-modules/checklist-item label="Check for manufacturer's logo or emblems" / />}}
-  {{< interactive-modules/checklist-item label="Assess mechanical function (if possible)" / />}}
+  {{< interactive-modules/checklist-item label="Locate the model number tag (usually on the front)" / / />}}
+  {{< interactive-modules/checklist-item label="Find the serial number (may be on a separate plate)" / / />}}
+  {{< interactive-modules/checklist-item label="Determine the number of drawers and register keys" / / />}}
+  {{< interactive-modules/checklist-item label="Identify the casing material (brass, bronze, nickel, iron)" / / />}}
+  {{< interactive-modules/checklist-item label="Note decorative elements and their condition" / / />}}
+  {{< interactive-modules/checklist-item label="Check for manufacturer's logo or emblems" / / />}}
+  {{< interactive-modules/checklist-item label="Assess mechanical function (if possible)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Major Cash Register Types by Era
@@ -350,12 +350,12 @@ For regular maintenance, collectors can safely:
 ### Restoration Considerations
 
 {{< interactive-modules/condition-checklist title="Restoration Decision Guide" description="Considerations when deciding whether to restore an antique cash register" >}}
-  {{< interactive-modules/checklist-item label="Determine if the register has significant historical value in its current state" / />}}
-  {{< interactive-modules/checklist-item label="Evaluate whether restoration will enhance or diminish collector value" / />}}
-  {{< interactive-modules/checklist-item label="Consider the cost of professional restoration versus potential value increase" / />}}
-  {{< interactive-modules/checklist-item label="Check if original parts are available or if reproduction parts will be needed" / />}}
-  {{< interactive-modules/checklist-item label="Research the reputation and expertise of restoration specialists" / />}}
-  {{< interactive-modules/checklist-item label="Decide whether mechanical restoration or aesthetic restoration is the priority" / />}}
+  {{< interactive-modules/checklist-item label="Determine if the register has significant historical value in its current state" / / />}}
+  {{< interactive-modules/checklist-item label="Evaluate whether restoration will enhance or diminish collector value" / / />}}
+  {{< interactive-modules/checklist-item label="Consider the cost of professional restoration versus potential value increase" / / />}}
+  {{< interactive-modules/checklist-item label="Check if original parts are available or if reproduction parts will be needed" / / />}}
+  {{< interactive-modules/checklist-item label="Research the reputation and expertise of restoration specialists" / / />}}
+  {{< interactive-modules/checklist-item label="Decide whether mechanical restoration or aesthetic restoration is the priority" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Detailed view of the mechanical components inside an antique cash register](https://ik.imagekit.io/appraisily/SEO/old-cash-registers-value/old-cash-registers-value-image-5_-x5LNMFtg.png)

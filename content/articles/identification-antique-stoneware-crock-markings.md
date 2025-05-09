@@ -90,7 +90,7 @@ Unlike modern manufactured goods with standardized labels, antique crocks featur
 
 Learning to recognize and interpret these markings is an essential skill for anyone interested in collecting antique stoneware. With practice, you'll be able to distinguish authentic period pieces from reproductions, identify rare manufacturer marks, and make informed decisions about the value and authenticity of these historic vessels.
 
-{{< data-modules/stats-highlight title="Antique Stoneware Crock Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Stoneware Crock Facts" columns="3" / / />}}
 <tr>
   <td>1700s-1950s</td>
   <td>Primary Production Period</td>
@@ -147,13 +147,13 @@ Antique stoneware crocks typically feature distinct design characteristics that 
 4. **Base Design**: Early crocks often have unglazed bottoms or simple foot rings, while later pieces may have more refined bases.
 
 {{< interactive-modules/condition-checklist title="Antique Stoneware Authentication Checklist" description="Check these features to help determine if your crock is an authentic antique" >}}
-  {{< interactive-modules/checklist-item label="Heavy, dense construction with substantial weight" / />}}
-  {{< interactive-modules/checklist-item label="Salt-glazed surface with characteristic tiny bumps" / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted decorations (typically cobalt blue)" / />}}
-  {{< interactive-modules/checklist-item label="Visible throwing lines or tool marks from handcrafting" / />}}
-  {{< interactive-modules/checklist-item label="Slightly uneven rim or base when placed on flat surface" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark or capacity number consistent with period" / />}}
-  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear on base and handles" / />}}
+  {{< interactive-modules/checklist-item label="Heavy, dense construction with substantial weight" / / />}}
+  {{< interactive-modules/checklist-item label="Salt-glazed surface with characteristic tiny bumps" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-painted decorations (typically cobalt blue)" / / />}}
+  {{< interactive-modules/checklist-item label="Visible throwing lines or tool marks from handcrafting" / / />}}
+  {{< interactive-modules/checklist-item label="Slightly uneven rim or base when placed on flat surface" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark or capacity number consistent with period" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear on base and handles" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Maker's Marks and Stamps" level="2" >}}

@@ -98,7 +98,7 @@ The Beanie Baby craze of the 1990s created one of the most memorable collecting 
 
 This comprehensive guide will help you understand what determines a Beanie Baby's worth, which ones actually hold significant value, and how to assess your own collection. We'll separate fact from fiction and provide realistic expectations for valuing these beloved collectibles.
 
-{{< data-modules/stats-highlight title="Beanie Baby Market Reality Check" columns="3" / />}}
+{{< data-modules/stats-highlight title="Beanie Baby Market Reality Check" columns="3" / / />}}
 
 <tr>
   <td>Most Common Beanie Babies</td>
@@ -142,13 +142,13 @@ Beanies with documented manufacturing errors or unique variations can command hi
 As with most collectibles, condition significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Beanie Baby Condition Assessment" description="Check items that apply to your Beanie Babies" >}}
-  {{< interactive-modules/checklist-item label="Original hang tag attached and mint condition" / />}}
-  {{< interactive-modules/checklist-item label="Tush tag intact and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="No stains, tears, or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Original packaging (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No odors or evidence of smoke exposure" / />}}
-  {{< interactive-modules/checklist-item label="Never played with (display only)" / />}}
-  {{< interactive-modules/checklist-item label="Authentication certificate (for rare models)" / />}}
+  {{< interactive-modules/checklist-item label="Original hang tag attached and mint condition" / / />}}
+  {{< interactive-modules/checklist-item label="Tush tag intact and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="No stains, tears, or discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Original packaging (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No odors or evidence of smoke exposure" / / />}}
+  {{< interactive-modules/checklist-item label="Never played with (display only)" / / />}}
+  {{< interactive-modules/checklist-item label="Authentication certificate (for rare models)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authentication and Documentation

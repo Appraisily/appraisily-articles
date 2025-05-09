@@ -120,7 +120,7 @@ Some bottles may be genuinely scarce but have limited collector interest, which 
 
 Color is perhaps the most visually striking attribute of antique bottles and often the first thing collectors notice. Unusual or particularly attractive colors can dramatically increase a bottle's value.
 
-{{< data-modules/stats-highlight title="Most Valuable Bottle Colors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Most Valuable Bottle Colors" columns="3" / / />}}
 
 The most common colors for antique bottles were aqua (a blue-green tint) and clear glass. These typically command lower prices than bottles in rarer colors like:
 
@@ -146,13 +146,13 @@ As with most collectibles, condition significantly impacts value. Bottles in min
 While minor wear consistent with age may be acceptable, significant damage can reduce value by 50% or more, even for rare bottles.
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment" description="Check all that apply to determine your bottle's condition grade" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or visible damage" / />}}
-  {{< interactive-modules/checklist-item label="Original closure or cap (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Clear glass with no clouding or sick glass" / />}}
-  {{< interactive-modules/checklist-item label="No interior staining or residue" / />}}
-  {{< interactive-modules/checklist-item label="Original embossing is crisp and clear" / />}}
-  {{< interactive-modules/checklist-item label="Minimal case wear or scratches" / />}}
-  {{< interactive-modules/checklist-item label="Original labels intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or visible damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original closure or cap (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Clear glass with no clouding or sick glass" / / />}}
+  {{< interactive-modules/checklist-item label="No interior staining or residue" / / />}}
+  {{< interactive-modules/checklist-item label="Original embossing is crisp and clear" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal case wear or scratches" / / />}}
+  {{< interactive-modules/checklist-item label="Original labels intact (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Manufacturing Techniques and Distinctive Features

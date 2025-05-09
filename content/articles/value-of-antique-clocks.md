@@ -151,7 +151,7 @@ The more unusual or innovative the design, the greater the potential value to sp
 
 ### Condition and Originality
 
-{{< data-modules/stats-highlight title="Condition Impact on Antique Clock Values" columns="3" / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Antique Clock Values" columns="3" / / />}}
 
 <tr>
   <td>Excellent Original Condition</td>
@@ -305,14 +305,14 @@ The case's design, materials, and construction techniques provide valuable clues
 Regional distinctive features, such as painted decoration in Black Forest clocks or specific hood styles in English tall cases, can help identify the clock's origins.
 
 {{< interactive-modules/condition-checklist title="Antique Clock Condition Assessment Checklist" description="Use this checklist to evaluate the condition of an antique clock" >}}
-  {{< interactive-modules/checklist-item label="Original dial with minimal restoration" / />}}
-  {{< interactive-modules/checklist-item label="Original hands matching the period of the clock" / />}}
-  {{< interactive-modules/checklist-item label="Movement appears complete with no obvious replacement parts" / />}}
-  {{< interactive-modules/checklist-item label="Case retains original finish or appropriate patina" / />}}
-  {{< interactive-modules/checklist-item label="Glass or door panels are original to the piece" / />}}
-  {{< interactive-modules/checklist-item label="All decorative elements (finials, feet, etc.) are present and original" / />}}
-  {{< interactive-modules/checklist-item label="No significant structural damage to the case" / />}}
-  {{< interactive-modules/checklist-item label="Movement functions or shows signs it could function with proper maintenance" / />}}
+  {{< interactive-modules/checklist-item label="Original dial with minimal restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Original hands matching the period of the clock" / / />}}
+  {{< interactive-modules/checklist-item label="Movement appears complete with no obvious replacement parts" / / />}}
+  {{< interactive-modules/checklist-item label="Case retains original finish or appropriate patina" / / />}}
+  {{< interactive-modules/checklist-item label="Glass or door panels are original to the piece" / / />}}
+  {{< interactive-modules/checklist-item label="All decorative elements (finials, feet, etc.) are present and original" / / />}}
+  {{< interactive-modules/checklist-item label="No significant structural damage to the case" / / />}}
+  {{< interactive-modules/checklist-item label="Movement functions or shows signs it could function with proper maintenance" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values and Price Ranges" level="2" >}}

@@ -86,7 +86,7 @@ The intrinsic value of art is perhaps the most challenging aspect of artistic wo
 
 This emotional and sensory dimension of art is what many consider its most essential quality. When we stand before a painting that moves us to tears, or encounter a sculpture that leaves us speechless with wonder, we're experiencing the intrinsic value of art in its purest form.
 
-{{< data-modules/stats-highlight title="Key Dimensions of Artistic Value" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Dimensions of Artistic Value" columns="3" / / />}}
 
 <tr>
   <td>Intrinsic Value</td>
@@ -175,13 +175,13 @@ Art that engages the intellect, challenges assumptions, poses questions, or offe
 As [Just Luxe](https://www.justluxe.com/community/the-intrinsic-value-of-art_a_1951859.php) observes, "Intrinsic value is measured by how unique, irreplaceable and sacred the work is." This uniqueness often stems from the artwork's ability to communicate complex ideas in ways that transcend words.
 
 {{< interactive-modules/condition-checklist title="Recognizing Intrinsic Value in Artwork" description="Consider these factors when assessing an artwork's intrinsic qualities" >}}
-  {{< interactive-modules/checklist-item label="Does the artwork evoke a strong emotional response?" / />}}
-  {{< interactive-modules/checklist-item label="Is there evidence of technical skill or innovative approach?" / />}}
-  {{< interactive-modules/checklist-item label="Does the piece challenge you intellectually or offer new perspectives?" / />}}
-  {{< interactive-modules/checklist-item label="Does the work have authentic expressive qualities?" / />}}
-  {{< interactive-modules/checklist-item label="Does the artwork reward repeated viewing with new discoveries?" / />}}
-  {{< interactive-modules/checklist-item label="Does it connect with universal human experiences or concerns?" / />}}
-  {{< interactive-modules/checklist-item label="Is there a sense of originality or uniqueness to the work?" / />}}
+  {{< interactive-modules/checklist-item label="Does the artwork evoke a strong emotional response?" / / />}}
+  {{< interactive-modules/checklist-item label="Is there evidence of technical skill or innovative approach?" / / />}}
+  {{< interactive-modules/checklist-item label="Does the piece challenge you intellectually or offer new perspectives?" / / />}}
+  {{< interactive-modules/checklist-item label="Does the work have authentic expressive qualities?" / / />}}
+  {{< interactive-modules/checklist-item label="Does the artwork reward repeated viewing with new discoveries?" / / />}}
+  {{< interactive-modules/checklist-item label="Does it connect with universal human experiences or concerns?" / / />}}
+  {{< interactive-modules/checklist-item label="Is there a sense of originality or uniqueness to the work?" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Cultural and Societal Dimensions

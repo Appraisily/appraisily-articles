@@ -78,7 +78,7 @@ Antique pocket watches represent a fascinating intersection of craftsmanship, hi
 
 According to experts, while most old pocket watches are worth less than $200, particularly if they're in poor condition or non-working order, exceptional pieces from renowned watchmakers can command prices from several thousand dollars to millions at auction. The most expensive pocket watch ever sold—the Patek Philippe Henry Graves Supercomplication—fetched an astonishing $24 million at auction in 2014, demonstrating the extraordinary upper limits of pocket watch valuation.
 
-{{< data-modules/stats-highlight title="Pocket Watch Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Pocket Watch Market Statistics" columns="3" / / />}}
 <tr>
   <td>Average Value</td>
   <td>$100-$500</td>
@@ -115,12 +115,12 @@ Generally, older pocket watches tend to be more valuable, especially those from 
 The overall condition of a pocket watch dramatically impacts its value. Working timepieces are typically worth substantially more than non-working examples. Other condition factors include:
 
 {{< interactive-modules/condition-checklist title="Pocket Watch Condition Assessment" description="Key factors that affect value based on condition" >}}
-  {{< interactive-modules/checklist-item label="Working movement with accurate timekeeping" / />}}
-  {{< interactive-modules/checklist-item label="Original parts (not replacement components)" / />}}
-  {{< interactive-modules/checklist-item label="Undamaged case with minimal scratches or dents" / />}}
-  {{< interactive-modules/checklist-item label="Intact crystal without cracks or fogging" / />}}
-  {{< interactive-modules/checklist-item label="Original dial without repairs or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Presence of original chain and fob" / />}}
+  {{< interactive-modules/checklist-item label="Working movement with accurate timekeeping" / / />}}
+  {{< interactive-modules/checklist-item label="Original parts (not replacement components)" / / />}}
+  {{< interactive-modules/checklist-item label="Undamaged case with minimal scratches or dents" / / />}}
+  {{< interactive-modules/checklist-item label="Intact crystal without cracks or fogging" / / />}}
+  {{< interactive-modules/checklist-item label="Original dial without repairs or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Presence of original chain and fob" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Materials and Craftsmanship

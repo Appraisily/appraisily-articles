@@ -107,7 +107,7 @@ Ever discovered an intriguing item at a yard sale and wondered about its history
 
 In this comprehensive guide, we'll explore the best antique appraisal apps available today, evaluate their features, effectiveness, and accuracy, and help you choose the right tool for your antique identification needs. Whether you're a seasoned collector, antique dealer, or simply curious about family heirlooms, these apps can provide valuable insights into the treasures around you.
 
-{{< data-modules/stats-highlight title="Antique App Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique App Market Statistics" columns="3" / / />}}
 <tr>
   <td>4.7/5</td>
   <td>Average User Rating</td>
@@ -290,14 +290,14 @@ A clean, intuitive interface can make a significant difference in usability, esp
 Consider whether you need an app for iOS, Android, or both. While most major apps are available on both platforms, some (like Antique ID) are exclusive to one operating system.
 
 {{< interactive-modules/condition-checklist title="Antique Appraisal App Selection Checklist" description="Consider these factors when choosing the right app for your needs" >}}
-  {{< interactive-modules/checklist-item label="Does the app cover the specific types of antiques in your collection?" / />}}
-  {{< interactive-modules/checklist-item label="Is the app available for your device (iOS/Android)?" / />}}
-  {{< interactive-modules/checklist-item label="Does the pricing model fit your usage patterns (one-time vs. subscription)?" / />}}
-  {{< interactive-modules/checklist-item label="Is the user interface intuitive and easy to navigate?" / />}}
-  {{< interactive-modules/checklist-item label="Does the app provide detailed information beyond basic identification?" / />}}
-  {{< interactive-modules/checklist-item label="Are the price estimates based on actual market data?" / />}}
-  {{< interactive-modules/checklist-item label="Does the app receive regular updates and database expansions?" / />}}
-  {{< interactive-modules/checklist-item label="Are user reviews generally positive about accuracy and reliability?" / />}}
+  {{< interactive-modules/checklist-item label="Does the app cover the specific types of antiques in your collection?" / / />}}
+  {{< interactive-modules/checklist-item label="Is the app available for your device (iOS/Android)?" / / />}}
+  {{< interactive-modules/checklist-item label="Does the pricing model fit your usage patterns (one-time vs. subscription)?" / / />}}
+  {{< interactive-modules/checklist-item label="Is the user interface intuitive and easy to navigate?" / / />}}
+  {{< interactive-modules/checklist-item label="Does the app provide detailed information beyond basic identification?" / / />}}
+  {{< interactive-modules/checklist-item label="Are the price estimates based on actual market data?" / / />}}
+  {{< interactive-modules/checklist-item label="Does the app receive regular updates and database expansions?" / / />}}
+  {{< interactive-modules/checklist-item label="Are user reviews generally positive about accuracy and reliability?" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Get the Most Accurate Appraisals" level="2" >}}

@@ -104,7 +104,7 @@ Many free services are offered by businesses hoping to either purchase your art 
 
 ![Artists evaluating artwork online through digital platforms](https://www.freeartappraiser.com/wp-content/uploads/2017/02/cuadro.jpg)
 
-{{< data-modules/stats-highlight title="Online Art Appraisal Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Online Art Appraisal Statistics" columns="3" / / />}}
 
 ## Top Free Online Art Appraisal Services
 
@@ -224,13 +224,13 @@ The quality of information you provide directly impacts the accuracy of your onl
 The cornerstone of any online appraisal is high-quality, detailed photographs that allow experts to examine your artwork remotely:
 
 {{< interactive-modules/condition-checklist title="Photography Checklist for Art Appraisal" description="Follow these steps for optimal appraisal photos" >}}
-  {{< interactive-modules/checklist-item label="Take photos in natural, indirect light to avoid glare" / />}}
-  {{< interactive-modules/checklist-item label="Include full-frontal view of the entire artwork" / />}}
-  {{< interactive-modules/checklist-item label="Capture close-up details of the signature, if present" / />}}
-  {{< interactive-modules/checklist-item label="Photograph any labels, stamps, or markings on the back" / />}}
-  {{< interactive-modules/checklist-item label="Include close-ups of any damage or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Show the artwork unframed if possible" / />}}
-  {{< interactive-modules/checklist-item label="Include a ruler or object for scale reference" / />}}
+  {{< interactive-modules/checklist-item label="Take photos in natural, indirect light to avoid glare" / / />}}
+  {{< interactive-modules/checklist-item label="Include full-frontal view of the entire artwork" / / />}}
+  {{< interactive-modules/checklist-item label="Capture close-up details of the signature, if present" / / />}}
+  {{< interactive-modules/checklist-item label="Photograph any labels, stamps, or markings on the back" / / />}}
+  {{< interactive-modules/checklist-item label="Include close-ups of any damage or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Show the artwork unframed if possible" / / />}}
+  {{< interactive-modules/checklist-item label="Include a ruler or object for scale reference" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Information to Include

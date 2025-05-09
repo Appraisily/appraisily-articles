@@ -150,7 +150,7 @@ Different situations call for different types of appraisals:
 3. **Liquidation Value Appraisals**: Establishes value in forced-sale situations
 4. **Donation Appraisals**: Required for tax deductions on donated items valued over $5,000
 
-{{< data-modules/stats-highlight title="Key Appraisal Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Appraisal Statistics" columns="3" / / />}}
 
 ## How to Find Qualified Antique Furniture Appraisers Near You
 
@@ -209,14 +209,14 @@ A professional furniture appraisal typically follows these steps:
 ### What Appraisers Look For
 
 {{< interactive-modules/condition-checklist title="Furniture Examination Checklist" description="Key aspects appraisers evaluate during assessment:" >}}
-  {{< interactive-modules/checklist-item label="Authenticity and age verification" / />}}
-  {{< interactive-modules/checklist-item label="Construction methods and materials" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or signatures" / />}}
-  {{< interactive-modules/checklist-item label="Original vs. replacement hardware" / />}}
-  {{< interactive-modules/checklist-item label="Repairs, modifications, or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Wood type and quality" / />}}
-  {{< interactive-modules/checklist-item label="Finish condition and patina" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation" / />}}
+  {{< interactive-modules/checklist-item label="Authenticity and age verification" / / />}}
+  {{< interactive-modules/checklist-item label="Construction methods and materials" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or signatures" / / />}}
+  {{< interactive-modules/checklist-item label="Original vs. replacement hardware" / / />}}
+  {{< interactive-modules/checklist-item label="Repairs, modifications, or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Wood type and quality" / / />}}
+  {{< interactive-modules/checklist-item label="Finish condition and patina" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Appraisal Costs and What Influences Them

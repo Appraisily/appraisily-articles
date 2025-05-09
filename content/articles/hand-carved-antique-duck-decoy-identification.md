@@ -179,14 +179,14 @@ Original paint is crucial for value and authentication. Look for:
 - Natural wear patterns consistent with actual use in hunting
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use this checklist to evaluate potential antique duck decoys" >}}
-  {{< interactive-modules/checklist-item label="Natural wood aging and patina present" />}}
-  {{< interactive-modules/checklist-item label="Construction methods appropriate to the period" />}}
-  {{< interactive-modules/checklist-item label="Paint shows natural wear consistent with use" />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand carving (tool marks, asymmetry)" />}}
-  {{< interactive-modules/checklist-item label="Weight appropriate for vintage decoys" />}}
-  {{< interactive-modules/checklist-item label="Authentic maker's mark or signature (if applicable)" />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation available" />}}
-  {{< interactive-modules/checklist-item label="Regional style characteristics evident" />}}
+  {{< interactive-modules/checklist-item label="Natural wood aging and patina present" / />}}
+  {{< interactive-modules/checklist-item label="Construction methods appropriate to the period" / />}}
+  {{< interactive-modules/checklist-item label="Paint shows natural wear consistent with use" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand carving (tool marks, asymmetry)" / />}}
+  {{< interactive-modules/checklist-item label="Weight appropriate for vintage decoys" / />}}
+  {{< interactive-modules/checklist-item label="Authentic maker's mark or signature (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation available" / />}}
+  {{< interactive-modules/checklist-item label="Regional style characteristics evident" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Famous Decoy Carvers and Their Signatures" level="2" >}}
@@ -222,7 +222,7 @@ One of the first commercial producers of decoys, Mason decoys are known for:
 - Consistent form and construction methods
 - High-quality original paint patterns
 
-{{< data-modules/stats-highlight title="Remarkable Duck Decoy Auction Records" columns="3" / />}}
+{{< data-modules/stats-highlight title="Remarkable Duck Decoy Auction Records" columns="3" / / />}}
 
 ![Close-up of hand-carved details on an antique duck decoy](https://ik.imagekit.io/appraisily/SEO/hand-carved-antique-duck-decoy-identification/hand-carved-antique-duck-decoy-identification-image-4_FCIaw_Q9Y.png)
 

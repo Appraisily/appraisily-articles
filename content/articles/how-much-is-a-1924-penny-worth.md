@@ -109,7 +109,7 @@ By 1924, the Lincoln penny had been in circulation for 15 years and was a staple
 
 The mintage numbers varied significantly between facilities, directly affecting today's values:
 
-{{< data-modules/stats-highlight title="1924 Penny Mintage Figures" columns="3" / />}}
+{{< data-modules/stats-highlight title="1924 Penny Mintage Figures" columns="3" / / />}}
 
 - **Philadelphia:** 75,178,000 pennies (no mint mark)
 - **Denver:** 2,520,000 pennies (D mint mark)
@@ -260,13 +260,13 @@ For 1924 pennies, color also plays a crucial role in grading uncirculated specim
 - **Brown (BN)**: Less than 5% of original mint color remains
 
 {{< interactive-modules/condition-checklist title="1924 Penny Condition Assessment" description="Check applicable items to help estimate your coin's grade" >}}
-{{< interactive-modules/checklist-item label="Lincoln's portrait shows clear details in hair and beard" / />}}
-{{< interactive-modules/checklist-item label="Date and mint mark (if present) are clear and legible" / />}}
-{{< interactive-modules/checklist-item label="Wheat stalks on reverse are sharp and well-defined" / />}}
-{{< interactive-modules/checklist-item label="Coin retains some original luster or mint red color" / />}}
-{{< interactive-modules/checklist-item label="No major scratches, dents, or damage visible" / />}}
-{{< interactive-modules/checklist-item label="Lettering is sharp and well-defined throughout" / />}}
-{{< interactive-modules/checklist-item label="Coin has an even, natural appearance without cleaning" / />}}
+{{< interactive-modules/checklist-item label="Lincoln's portrait shows clear details in hair and beard" / / />}}
+{{< interactive-modules/checklist-item label="Date and mint mark (if present) are clear and legible" / / />}}
+{{< interactive-modules/checklist-item label="Wheat stalks on reverse are sharp and well-defined" / / />}}
+{{< interactive-modules/checklist-item label="Coin retains some original luster or mint red color" / / />}}
+{{< interactive-modules/checklist-item label="No major scratches, dents, or damage visible" / / />}}
+{{< interactive-modules/checklist-item label="Lettering is sharp and well-defined throughout" / / />}}
+{{< interactive-modules/checklist-item label="Coin has an even, natural appearance without cleaning" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Valuable 1924 Penny Errors and Varieties" level="2" >}}

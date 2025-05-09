@@ -113,7 +113,7 @@ Beyond age, what separates valuable antiques from merely old items includes:
 - Provenance (documented history of ownership)
 - Original condition or appropriate conservation
 
-{{< data-modules/stats-highlight title="Antique Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Market Statistics" columns="3" / / />}}
 
 {{< visual-modules/timeline title="Evolution of Antique Definitions and Value Factors" >}}
   {{< visual-modules/timeline-item date="Pre-1930s" title="The 100-Year Rule Emerges" >}}
@@ -186,14 +186,14 @@ Every era has distinctive design styles that can help date an item:
 - Architectural elements and proportions
 
 {{< interactive-modules/condition-checklist title="Antique Authentication Checklist" description="Use this checklist to systematically assess potential antiques" >}}
-  {{< interactive-modules/checklist-item label="Examine for maker's marks, signatures, or stamps" / />}}
-  {{< interactive-modules/checklist-item label="Assess materials for appropriate age characteristics" / />}}
-  {{< interactive-modules/checklist-item label="Check construction methods for period-appropriate techniques" / />}}
-  {{< interactive-modules/checklist-item label="Research the style to confirm it matches the presumed period" / />}}
-  {{< interactive-modules/checklist-item label="Look for signs of appropriate wear and patina" / />}}
-  {{< interactive-modules/checklist-item label="Verify dimensions match standard sizes for the period" / />}}
-  {{< interactive-modules/checklist-item label="Examine for repairs, modifications, or restorations" / />}}
-  {{< interactive-modules/checklist-item label="Research provenance and ownership history if available" / />}}
+  {{< interactive-modules/checklist-item label="Examine for maker's marks, signatures, or stamps" / / />}}
+  {{< interactive-modules/checklist-item label="Assess materials for appropriate age characteristics" / / />}}
+  {{< interactive-modules/checklist-item label="Check construction methods for period-appropriate techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Research the style to confirm it matches the presumed period" / / />}}
+  {{< interactive-modules/checklist-item label="Look for signs of appropriate wear and patina" / / />}}
+  {{< interactive-modules/checklist-item label="Verify dimensions match standard sizes for the period" / / />}}
+  {{< interactive-modules/checklist-item label="Examine for repairs, modifications, or restorations" / / />}}
+  {{< interactive-modules/checklist-item label="Research provenance and ownership history if available" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Tools and Resources for Antique Identification

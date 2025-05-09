@@ -108,7 +108,7 @@ Professional appraisers typically use specialized tools including:
 - Reference materials and pricing guides
 - Authentication equipment (XRF analyzers, ultrasound, etc.)
 
-{{< data-modules/stats-highlight title="The Impact of Professional Appraisal" columns="3" / />}}
+{{< data-modules/stats-highlight title="The Impact of Professional Appraisal" columns="3" / / />}}
 
 | Statistic | Value | Context |
 |-----------|-------|---------|
@@ -137,13 +137,13 @@ While not every coin requires professional appraisal, certain situations make ex
 7. **Donation Valuation**: Determining fair market value for tax deduction purposes when donating to institutions.
 
 {{< interactive-modules/condition-checklist title="Signs You Need Professional Coin Appraisal" description="Check any of these scenarios that apply to your situation" >}}
-  {{< interactive-modules/checklist-item label="You own coins valued at over $1,000" / />}}
-  {{< interactive-modules/checklist-item label="You're considering selling a coin collection" / />}}
-  {{< interactive-modules/checklist-item label="You've inherited coins of unknown value" / />}}
-  {{< interactive-modules/checklist-item label="You need documentation for insurance purposes" / />}}
-  {{< interactive-modules/checklist-item label="You suspect you have counterfeits in your collection" / />}}
-  {{< interactive-modules/checklist-item label="You need to verify third-party grading accuracy" / />}}
-  {{< interactive-modules/checklist-item label="You're considering a significant coin purchase" / />}}
+  {{< interactive-modules/checklist-item label="You own coins valued at over $1,000" / / />}}
+  {{< interactive-modules/checklist-item label="You're considering selling a coin collection" / / />}}
+  {{< interactive-modules/checklist-item label="You've inherited coins of unknown value" / / />}}
+  {{< interactive-modules/checklist-item label="You need documentation for insurance purposes" / / />}}
+  {{< interactive-modules/checklist-item label="You suspect you have counterfeits in your collection" / / />}}
+  {{< interactive-modules/checklist-item label="You need to verify third-party grading accuracy" / / />}}
+  {{< interactive-modules/checklist-item label="You're considering a significant coin purchase" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Types of Coin Appraisal Services" level="2" >}}
@@ -447,7 +447,7 @@ For formal appraisals, expect to receive:
 - Discuss options for insurance, sale, or further authentication if needed
 - Receive recommendations for storage or conservation if applicable
 
-{{< data-modules/stats-highlight title="The Appraisal Impact" columns="3" / />}}
+{{< data-modules/stats-highlight title="The Appraisal Impact" columns="3" / / />}}
 
 | Statistic | Value | Context |
 |-----------|-------|---------|

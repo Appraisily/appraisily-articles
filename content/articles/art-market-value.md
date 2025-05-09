@@ -28,7 +28,7 @@ The art market continues to demonstrate remarkable resilience despite economic f
 
 This dynamic marketplace encompasses everything from Old Masters to contemporary digital art, with values determined through a complex interplay of aesthetic merit, provenance, artist reputation, and market demand. Whether you're an established collector, a new investor, or simply curious about how artwork is valued, understanding the mechanisms that drive art market values can help you navigate this fascinating world with greater confidence.
 
-{{< data-modules/stats-highlight title="Global Art Market at a Glance (2024)" columns="3" / />}}
+{{< data-modules/stats-highlight title="Global Art Market at a Glance (2024)" columns="3" / / />}}
 
 <div class="stat-card">
   <div class="stat-value">$57.5B</div>
@@ -245,14 +245,14 @@ Many professional appraisals incorporate multiple methodologies:
 - Qualitative adjustments for artistic significance and exhibition history
 
 {{< interactive-modules/condition-checklist title="Art Condition Assessment for Valuation" description="Factors professional appraisers evaluate when considering condition's impact on value" >}}
-  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" / />}}
-  {{< interactive-modules/checklist-item label="Original coloration without significant fading" / />}}
-  {{< interactive-modules/checklist-item label="No evidence of improper restoration or overpainting" / />}}
-  {{< interactive-modules/checklist-item label="Stable support (canvas, panel, paper) without warping" / />}}
-  {{< interactive-modules/checklist-item label="Original frame or historically appropriate mounting" / />}}
-  {{< interactive-modules/checklist-item label="Absence of environmental damage (water, mold, smoke)" / />}}
-  {{< interactive-modules/checklist-item label="Structural stability without requiring immediate conservation" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of previous conservation treatments" / />}}
+  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" / / />}}
+  {{< interactive-modules/checklist-item label="Original coloration without significant fading" / / />}}
+  {{< interactive-modules/checklist-item label="No evidence of improper restoration or overpainting" / / />}}
+  {{< interactive-modules/checklist-item label="Stable support (canvas, panel, paper) without warping" / / />}}
+  {{< interactive-modules/checklist-item label="Original frame or historically appropriate mounting" / / />}}
+  {{< interactive-modules/checklist-item label="Absence of environmental damage (water, mold, smoke)" / / />}}
+  {{< interactive-modules/checklist-item label="Structural stability without requiring immediate conservation" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation of previous conservation treatments" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Growing Art Investment Perspective" level="2" >}}

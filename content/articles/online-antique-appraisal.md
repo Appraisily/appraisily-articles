@@ -118,7 +118,7 @@ In today's digital age, discovering the value of your antiques and collectibles 
 
 The world of online antique appraisals has expanded dramatically in recent years, with numerous platforms offering varying levels of service, expertise, and pricing. This comprehensive guide will explore everything you need to know about getting your treasures evaluated remotely, from the process and costs to the most reputable services available.
 
-{{< data-modules/stats-highlight title="Online Antique Appraisal Market" columns="3" / />}}
+{{< data-modules/stats-highlight title="Online Antique Appraisal Market" columns="3" / / />}}
 - **$50-$200**: Average cost of a professional online antique appraisal
 - **24-72 hours**: Typical turnaround time for most online appraisal services
 - **60+%**: Percentage of collectors who have used online appraisal services
@@ -156,12 +156,12 @@ For optimal results, it's crucial to provide high-quality photographs and as muc
 According to [Consumer Reports](https://www.consumerreports.org/cro/magazine/2012/10/how-much-is-your-stuff-worth/index.htm), "Several websites offer estimates by professional appraisers and other experts in areas as diverse as antique furniture, political memorabilia, and Barbie dolls. You upload photos of your items and provide descriptions; the sites send back valuations, not authentications, usually within a week."
 
 {{< interactive-modules/condition-checklist title="Preparing for Your Online Appraisal" description="Ensure you have the following ready before submitting an item for online appraisal:" >}}
-  {{< interactive-modules/checklist-item label="High-resolution photos from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Close-up images of signatures, marks, and damage" / />}}
-  {{< interactive-modules/checklist-item label="Accurate measurements (height, width, depth, weight)" / />}}
-  {{< interactive-modules/checklist-item label="Known provenance or history of the item" / />}}
-  {{< interactive-modules/checklist-item label="Previous repair or restoration information" / />}}
-  {{< interactive-modules/checklist-item label="Any documentation, certificates, or receipts" / />}}
+  {{< interactive-modules/checklist-item label="High-resolution photos from multiple angles" / / />}}
+  {{< interactive-modules/checklist-item label="Close-up images of signatures, marks, and damage" / / />}}
+  {{< interactive-modules/checklist-item label="Accurate measurements (height, width, depth, weight)" / / />}}
+  {{< interactive-modules/checklist-item label="Known provenance or history of the item" / / />}}
+  {{< interactive-modules/checklist-item label="Previous repair or restoration information" / / />}}
+  {{< interactive-modules/checklist-item label="Any documentation, certificates, or receipts" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Leading Online Antique Appraisal Services" level="2" >}}

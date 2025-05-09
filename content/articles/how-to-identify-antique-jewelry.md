@@ -112,7 +112,7 @@ Antique jewelry carries stories from bygone eras, reflecting craftsmanship, arti
 
 Understanding the difference between antique, vintage, and estate jewelry is the first step in proper identification:
 
-{{< data-modules/stats-highlight title="Jewelry Age Classifications" columns="3" / />}}
+{{< data-modules/stats-highlight title="Jewelry Age Classifications" columns="3" / / />}}
 <tr>
   <td>Antique Jewelry</td>
   <td>100+ years old</td>
@@ -146,11 +146,11 @@ Hallmarks are official stamps that indicate:
 When examining hallmarks, use these techniques:
 
 {{< interactive-modules/condition-checklist title="Hallmark Examination Process" description="Follow these steps to properly identify jewelry hallmarks" >}}
-{{< interactive-modules/checklist-item label="Use a 10x loupe or magnifying glass to examine the piece thoroughly" / />}}
-{{< interactive-modules/checklist-item label="Look for marks on clasps, inside rings, back of pendants, or ear wire posts" / />}}
-{{< interactive-modules/checklist-item label="Check for multiple marks that may appear together" / />}}
-{{< interactive-modules/checklist-item label="Reference hallmark guides or online databases for identification" / />}}
-{{< interactive-modules/checklist-item label="Note that very old pieces may have worn or missing marks" / />}}
+{{< interactive-modules/checklist-item label="Use a 10x loupe or magnifying glass to examine the piece thoroughly" / / />}}
+{{< interactive-modules/checklist-item label="Look for marks on clasps, inside rings, back of pendants, or ear wire posts" / / />}}
+{{< interactive-modules/checklist-item label="Check for multiple marks that may appear together" / / />}}
+{{< interactive-modules/checklist-item label="Reference hallmark guides or online databases for identification" / / />}}
+{{< interactive-modules/checklist-item label="Note that very old pieces may have worn or missing marks" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Common gold hallmarks include:
@@ -287,12 +287,12 @@ The market for antique jewelry includes numerous reproductions and outright fake
 ### Warning Signs of Reproductions
 
 {{< interactive-modules/condition-checklist title="Red Flags for Fake Antique Jewelry" description="Watch for these indicators of reproductions or fakes" >}}
-{{< interactive-modules/checklist-item label="Machine-made appearance in supposedly hand-crafted pieces" / />}}
-{{< interactive-modules/checklist-item label="Modern findings (clasps, pins, earring backs) inconsistent with the era" / />}}
-{{< interactive-modules/checklist-item label="Perfect condition with no signs of wear or patina" / />}}
-{{< interactive-modules/checklist-item label="Inconsistent metal composition throughout the piece" / />}}
-{{< interactive-modules/checklist-item label="Modern cutting techniques on gemstones in pre-1940s jewelry" / />}}
-{{< interactive-modules/checklist-item label="Hallmarks that appear too crisp or are historically inaccurate" / />}}
+{{< interactive-modules/checklist-item label="Machine-made appearance in supposedly hand-crafted pieces" / / />}}
+{{< interactive-modules/checklist-item label="Modern findings (clasps, pins, earring backs) inconsistent with the era" / / />}}
+{{< interactive-modules/checklist-item label="Perfect condition with no signs of wear or patina" / / />}}
+{{< interactive-modules/checklist-item label="Inconsistent metal composition throughout the piece" / / />}}
+{{< interactive-modules/checklist-item label="Modern cutting techniques on gemstones in pre-1940s jewelry" / / />}}
+{{< interactive-modules/checklist-item label="Hallmarks that appear too crisp or are historically inaccurate" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Many Art Deco and Art Nouveau styles have been extensively reproduced since the 1980s. To authenticate these pieces:

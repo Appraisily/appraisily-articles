@@ -104,7 +104,7 @@ When items need to be sold quickly, a liquidation value appraisal provides an es
 
 Auction houses provide estimates of what items might sell for at auction. These are typically presented as a range (e.g., $2,000-$3,000) rather than a precise figure, acknowledging the unpredictable nature of auction bidding.
 
-{{< data-modules/stats-highlight title="Antique Appraisal Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Appraisal Market Statistics" columns="3" / / />}}
 
 | Statistic | Value | Context |
 |-----------|-------|---------|
@@ -283,14 +283,14 @@ Current collector interest greatly affects values. Fashion trends in interior de
 Items connected to significant historical periods, events, or movements often carry premium values beyond their decorative or functional qualities.
 
 {{< interactive-modules/condition-checklist title="Antique Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your antique before seeking an appraisal" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact" / />}}
-  {{< interactive-modules/checklist-item label="No missing parts or components" / />}}
-  {{< interactive-modules/checklist-item label="Free of repairs or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware present" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or signatures visible" / />}}
-  {{< interactive-modules/checklist-item label="Free of structural damage" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance available" / />}}
-  {{< interactive-modules/checklist-item label="Functions as originally intended (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact" / / />}}
+  {{< interactive-modules/checklist-item label="No missing parts or components" / / />}}
+  {{< interactive-modules/checklist-item label="Free of repairs or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware present" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or signatures visible" / / />}}
+  {{< interactive-modules/checklist-item label="Free of structural damage" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance available" / / />}}
+  {{< interactive-modules/checklist-item label="Functions as originally intended (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Online vs. In-Person Appraisals" level="2" >}}

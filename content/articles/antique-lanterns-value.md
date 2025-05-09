@@ -258,14 +258,14 @@ The condition of an antique lantern significantly impacts its value. Collectors 
 - Retaining original finish and patina
 
 {{< interactive-modules/condition-checklist title="Antique Lantern Condition Assessment" description="Check applicable items to assess your lantern's condition" >}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Original globe intact without cracks" / />}}
-  {{< interactive-modules/checklist-item label="Metal frame free from significant rust or damage" / />}}
-  {{< interactive-modules/checklist-item label="Original finish largely preserved" / />}}
-  {{< interactive-modules/checklist-item label="Functioning wick adjustment mechanism" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer marks clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="No significant dents or deformations" / />}}
-  {{< interactive-modules/checklist-item label="Original burner assembly intact" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / / />}}
+  {{< interactive-modules/checklist-item label="Original globe intact without cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Metal frame free from significant rust or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish largely preserved" / / />}}
+  {{< interactive-modules/checklist-item label="Functioning wick adjustment mechanism" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer marks clearly visible" / / />}}
+  {{< interactive-modules/checklist-item label="No significant dents or deformations" / / />}}
+  {{< interactive-modules/checklist-item label="Original burner assembly intact" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Manufacturer and Provenance
@@ -293,7 +293,7 @@ Collectors value lanterns that retain all their original components:
 
 Replacement parts, especially modern reproductions, can significantly decrease a lantern's value.
 
-{{< data-modules/stats-highlight title="Antique Lantern Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Lantern Market Insights" columns="3" / / />}}
 
 {{< content-modules/section-header title="Railroad Lanterns Value Guide" level="2" >}}
 Railroad lanterns represent one of the most systematically collected categories of antique lanterns, with established value ranges based on type, manufacturer, and features.

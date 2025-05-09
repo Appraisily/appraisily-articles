@@ -208,14 +208,14 @@ Condition dramatically impacts value, with mint or near-mint specimens worth sig
 - **Crazing:** Fine surface cracks in the glass, often caused by temperature changes
 
 {{< interactive-modules/condition-checklist title="Marble Condition Assessment" description="Check applicable items to assess the condition of your marble" >}}
-  {{< interactive-modules/checklist-item label="No visible chips or nicks in the glass surface" / />}}
-  {{< interactive-modules/checklist-item label="No scratches visible to the naked eye" / />}}
-  {{< interactive-modules/checklist-item label="Original surface luster is intact with minimal dulling" / />}}
-  {{< interactive-modules/checklist-item label="No crazing (fine surface cracks in the glass)" / />}}
-  {{< interactive-modules/checklist-item label="Colors remain vibrant with no fading" / />}}
-  {{< interactive-modules/checklist-item label="Perfect spherical shape with no deformities" / />}}
-  {{< interactive-modules/checklist-item label="Original pontil (where marble was separated from glass rod) is intact" / />}}
-  {{< interactive-modules/checklist-item label="No internal cloudiness or degradation of glass" / />}}
+  {{< interactive-modules/checklist-item label="No visible chips or nicks in the glass surface" / / />}}
+  {{< interactive-modules/checklist-item label="No scratches visible to the naked eye" / / />}}
+  {{< interactive-modules/checklist-item label="Original surface luster is intact with minimal dulling" / / />}}
+  {{< interactive-modules/checklist-item label="No crazing (fine surface cracks in the glass)" / / />}}
+  {{< interactive-modules/checklist-item label="Colors remain vibrant with no fading" / / />}}
+  {{< interactive-modules/checklist-item label="Perfect spherical shape with no deformities" / / />}}
+  {{< interactive-modules/checklist-item label="Original pontil (where marble was separated from glass rod) is intact" / / />}}
+  {{< interactive-modules/checklist-item label="No internal cloudiness or degradation of glass" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Size
@@ -250,7 +250,7 @@ Marbles with documented historical significance can command premium prices. Exam
 - First-run production examples from notable manufacturers
 - Experimental or prototype designs that never went into full production
 
-{{< data-modules/stats-highlight title="Collectible Marble Market Statistics" columns="3"  />}}
+{{< data-modules/stats-highlight title="Collectible Marble Market Statistics" columns="3"  / />}}
   <tr>
     <td>
       <div class="stat-card stat-card-green">

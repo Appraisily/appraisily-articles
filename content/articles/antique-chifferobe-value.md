@@ -82,7 +82,7 @@ A chifferobe (sometimes spelled chifforobe or chiffarobe) is a hybrid furniture 
 
 The term itself first appeared in the Sears Roebuck catalog around 1908, marking it as a distinctly American furniture innovation. These versatile storage pieces were designed to provide comprehensive clothing storage in homes that lacked built-in closets, which were uncommon in older houses.
 
-{{< data-modules/stats-highlight title="Key Chifferobe Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Chifferobe Facts" columns="3" / / />}}
 - **Origin Period:** Early 1900s
 - **Peak Popularity:** 1920s-1940s
 - **Primary Materials:** Oak, walnut, mahogany
@@ -118,14 +118,14 @@ Hand-crafted pieces with dovetail joints and other signs of quality craftsmanshi
 Condition critically impacts value, with original hardware, unaltered finishes, and minimal damage being particularly important. According to [research from ThriftyFun](https://www.thriftyfun.com/Selling-a-1920-Chifferobe.html), condition can affect value by as much as 50-70%.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="These factors significantly impact chifferobe value" >}}
-  {{< interactive-modules/checklist-item label="Original hardware intact (handles, hinges, locks)" / />}}
-  {{< interactive-modules/checklist-item label="Doors and drawers function properly" / />}}
-  {{< interactive-modules/checklist-item label="Original finish preserved (not stripped/refinished)" / />}}
-  {{< interactive-modules/checklist-item label="Minimal scratches, dents, or veneer damage" / />}}
-  {{< interactive-modules/checklist-item label="No water damage or wood rot" / />}}
-  {{< interactive-modules/checklist-item label="Mirror (if present) without significant silvering issues" / />}}
-  {{< interactive-modules/checklist-item label="Original back panels intact" / />}}
-  {{< interactive-modules/checklist-item label="Interior compartments clean and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware intact (handles, hinges, locks)" / / />}}
+  {{< interactive-modules/checklist-item label="Doors and drawers function properly" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish preserved (not stripped/refinished)" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal scratches, dents, or veneer damage" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage or wood rot" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror (if present) without significant silvering issues" / / />}}
+  {{< interactive-modules/checklist-item label="Original back panels intact" / / />}}
+  {{< interactive-modules/checklist-item label="Interior compartments clean and undamaged" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Style and Design Features

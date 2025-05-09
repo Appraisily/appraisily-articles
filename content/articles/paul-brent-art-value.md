@@ -172,7 +172,7 @@ Certain subjects in Paul Brent's portfolio are particularly sought after:
 - **Marine Life**: Depictions of sea turtles, fish, and other ocean creatures.
 - **Seaside Architecture**: Lighthouses, beach cottages, and coastal buildings.
 
-{{< data-modules/stats-highlight title="Paul Brent Art Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Paul Brent Art Market Insights" columns="3" / / />}}
 
 ### Signature and Authentication
 
@@ -290,12 +290,12 @@ Paul Brent's signature is a crucial authentication element:
 - **Date Inclusion**: Many originals include the year of creation alongside the signature.
 
 {{< interactive-modules/condition-checklist title="Paul Brent Signature Authentication Checklist" description="Use these criteria to help verify a genuine Paul Brent signature" >}}
-  {{< interactive-modules/checklist-item label="Signature flows naturally and shows confident brushwork" / />}}
-  {{< interactive-modules/checklist-item label="Distinctive capital 'P' and 'B' with characteristic style" / />}}
-  {{< interactive-modules/checklist-item label="On originals, signature is applied in the same medium as the artwork" / />}}
-  {{< interactive-modules/checklist-item label="Signature placement is in lower corner, typically right side" / />}}
-  {{< interactive-modules/checklist-item label="Limited editions include both signature and numbering (e.g., 45/500)" / />}}
-  {{< interactive-modules/checklist-item label="Many originals include the year alongside signature" / />}}
+  {{< interactive-modules/checklist-item label="Signature flows naturally and shows confident brushwork" / / />}}
+  {{< interactive-modules/checklist-item label="Distinctive capital 'P' and 'B' with characteristic style" / / />}}
+  {{< interactive-modules/checklist-item label="On originals, signature is applied in the same medium as the artwork" / / />}}
+  {{< interactive-modules/checklist-item label="Signature placement is in lower corner, typically right side" / / />}}
+  {{< interactive-modules/checklist-item label="Limited editions include both signature and numbering (e.g., 45/500)" / / />}}
+  {{< interactive-modules/checklist-item label="Many originals include the year alongside signature" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Artistic Style and Technique

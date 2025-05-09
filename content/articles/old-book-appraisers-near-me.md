@@ -101,7 +101,7 @@ Professional appraisers have expertise in identifying first editions, rare print
 
 ![Collection of antique books in various conditions being assessed](https://ik.imagekit.io/appraisily/SEO/old-book-appraisers-near-me/old-book-appraisers-near-me-image-2_h51v55gUb.png)
 
-{{< data-modules/stats-highlight title="The Rare Book Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="The Rare Book Market at a Glance" columns="3" / / />}}
 
 {{< content-modules/section-header title="How to Find Qualified Book Appraisers Near You" level="2" >}}
 Locating reputable book appraisers in your area requires knowing where to look and understanding the differences between various types of appraisal services.
@@ -161,13 +161,13 @@ Before committing to an appraiser, ask these important questions:
 - Do you have any conflicts of interest (such as wanting to purchase items you appraise)?
 
 {{< interactive-modules/condition-checklist title="Appraiser Vetting Checklist" description="Use this checklist when evaluating potential book appraisers" >}}
-{{< interactive-modules/checklist-item label="Verified credentials from recognized appraisal organizations" / />}}
-{{< interactive-modules/checklist-item label="Specializes in your type of books or manuscripts" / />}}
-{{< interactive-modules/checklist-item label="Can provide references from previous clients" / />}}
-{{< interactive-modules/checklist-item label="Transparent fee structure with no hidden costs" / />}}
-{{< interactive-modules/checklist-item label="Offers formal written appraisals for insurance/tax purposes" / />}}
-{{< interactive-modules/checklist-item label="No conflicts of interest (doesn't try to buy books they appraise)" / />}}
-{{< interactive-modules/checklist-item label="Positive reviews or references from trusted sources" / />}}
+{{< interactive-modules/checklist-item label="Verified credentials from recognized appraisal organizations" / / />}}
+{{< interactive-modules/checklist-item label="Specializes in your type of books or manuscripts" / / />}}
+{{< interactive-modules/checklist-item label="Can provide references from previous clients" / / />}}
+{{< interactive-modules/checklist-item label="Transparent fee structure with no hidden costs" / / />}}
+{{< interactive-modules/checklist-item label="Offers formal written appraisals for insurance/tax purposes" / / />}}
+{{< interactive-modules/checklist-item label="No conflicts of interest (doesn't try to buy books they appraise)" / / />}}
+{{< interactive-modules/checklist-item label="Positive reviews or references from trusted sources" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding the Book Appraisal Process" level="2" >}}

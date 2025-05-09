@@ -120,7 +120,7 @@ To identify your specific New Home model:
 
 While New Home doesn't maintain a comprehensive serial number database like Singer, general manufacturing periods can be determined by design elements and mechanical features.
 
-{{< data-modules/stats-highlight title="New Home Sewing Machine Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="New Home Sewing Machine Market Facts" columns="3" / / />}}
 
 {{< content-modules/section-header title="Factors Affecting New Home Sewing Machine Value" level="2" >}}
 Several key factors influence the market value of New Home antique sewing machines, from mechanical condition to aesthetic qualities and historical significance.
@@ -145,14 +145,14 @@ Machines with original accessories, attachments, and instruction manuals are mor
 New Home machines are known for their beautiful decorative elements. Models with well-preserved gold leaf decals, mother-of-pearl inlays, or other artistic embellishments command premium prices.
 
 {{< interactive-modules/condition-checklist title="New Home Sewing Machine Condition Assessment" description="Use this checklist to evaluate the condition of your New Home sewing machine" >}}
-  {{< interactive-modules/checklist-item label="Machine is in complete working order" / />}}
-  {{< interactive-modules/checklist-item label="Original finish and decals are intact" / />}}
-  {{< interactive-modules/checklist-item label="All mechanical parts move freely" / />}}
-  {{< interactive-modules/checklist-item label="Original cabinet or case is present" / />}}
-  {{< interactive-modules/checklist-item label="Accessories and attachments are included" / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Serial number plate is legible" / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements are well-preserved" / />}}
+  {{< interactive-modules/checklist-item label="Machine is in complete working order" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish and decals are intact" / / />}}
+  {{< interactive-modules/checklist-item label="All mechanical parts move freely" / / />}}
+  {{< interactive-modules/checklist-item label="Original cabinet or case is present" / / />}}
+  {{< interactive-modules/checklist-item label="Accessories and attachments are included" / / />}}
+  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / / />}}
+  {{< interactive-modules/checklist-item label="Serial number plate is legible" / / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements are well-preserved" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for New Home Sewing Machines" level="2" >}}

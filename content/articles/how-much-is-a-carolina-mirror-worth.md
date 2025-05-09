@@ -80,7 +80,7 @@ The value of Carolina mirrors varies widely based on several factors, including 
 
 Expert appraisers on [JustAnswer](https://www.justanswer.com/antiques/mu7qy-vintage-mirror-carolina-mirror-company-it-s.html) have valued typical Carolina mirrors from the 1970s-1980s at around $225, while collectors on forums like [Reddit](https://www.reddit.com/r/whatsthisworth/comments/109pdro/i_picked_up_a_mirror_at_a_thrift_store_today_for/) suggest thrift store finds can be worth $150-$200 when resold through decorator or vintage shops.
 
-{{< data-modules/stats-highlight title="Carolina Mirror Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Carolina Mirror Market Insights" columns="3" / / />}}
 
 {{< content-modules/section-header title="Factors That Influence Carolina Mirror Values" level="2" >}}
 Several key factors can significantly impact the value of your Carolina mirror. Understanding these elements will help you more accurately assess what your piece might be worth in today's market.
@@ -98,12 +98,12 @@ Larger mirrors generally fetch higher prices, with oversized pieces (40+ inches)
 The condition of your mirror significantly impacts its value, with experts on [1stDibs](https://www.1stdibs.com/answers/are-carolina-mirrors-worth-anything/) noting that perfect condition can increase values substantially:
 
 {{< interactive-modules/condition-checklist title="Carolina Mirror Condition Assessment" description="Check applicable items to evaluate your mirror's condition" >}}
-  {{< interactive-modules/checklist-item label="Mirror glass is clear without spotting, fogging, or black edges" / />}}
-  {{< interactive-modules/checklist-item label="Frame is intact without chips, cracks, or missing pieces" / />}}
-  {{< interactive-modules/checklist-item label="Original finish is preserved without significant wear or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Hanging hardware is original and functional" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work visible" / />}}
-  {{< interactive-modules/checklist-item label="Original label or marking from Carolina Mirror Company present" / />}}
+  {{< interactive-modules/checklist-item label="Mirror glass is clear without spotting, fogging, or black edges" / / />}}
+  {{< interactive-modules/checklist-item label="Frame is intact without chips, cracks, or missing pieces" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is preserved without significant wear or discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Hanging hardware is original and functional" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work visible" / / />}}
+  {{< interactive-modules/checklist-item label="Original label or marking from Carolina Mirror Company present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Age and Provenance

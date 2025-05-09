@@ -110,7 +110,7 @@ Key value factors for ukiyo-e prints include:
 - **Rarity**: Uncommon subjects or designs from limited print runs increase desirability
 - **Provenance**: Documented history of ownership enhances value and authenticity
 
-{{< data-modules/stats-highlight title="Ukiyo-e Print Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Ukiyo-e Print Market Insights" columns="3" / / />}}
 
 ### Ceramics & Pottery
 
@@ -202,14 +202,14 @@ Condition significantly impacts Japanese art valuations, with mint or near-mint 
 When assessing condition, experts look for:
 
 {{< interactive-modules/condition-checklist title="Japanese Print Condition Checklist" description="Factors affecting the value of ukiyo-e and other Japanese prints" >}}
-  {{< interactive-modules/checklist-item label="Original untrimmed margins present" / />}}
-  {{< interactive-modules/checklist-item label="No significant fading of colors" / />}}
-  {{< interactive-modules/checklist-item label="Free from water damage or staining" / />}}
-  {{< interactive-modules/checklist-item label="No significant paper foxing (brown spotting)" / />}}
-  {{< interactive-modules/checklist-item label="No tears, creases or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original album mounting (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Sharp impression without wear" / />}}
-  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" / />}}
+  {{< interactive-modules/checklist-item label="Original untrimmed margins present" / / />}}
+  {{< interactive-modules/checklist-item label="No significant fading of colors" / / />}}
+  {{< interactive-modules/checklist-item label="Free from water damage or staining" / / />}}
+  {{< interactive-modules/checklist-item label="No significant paper foxing (brown spotting)" / / />}}
+  {{< interactive-modules/checklist-item label="No tears, creases or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Original album mounting (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Sharp impression without wear" / / />}}
+  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For ceramics and three-dimensional works, condition assessments also evaluate:

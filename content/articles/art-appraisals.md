@@ -97,7 +97,7 @@ An art appraisal is a formal, written estimate of the fair market value, replace
 
 Art appraisals differ from casual opinions or online estimations. A proper appraisal follows specific industry standards, including the Uniform Standards of Professional Appraisal Practice (USPAP), and provides documented evidence to support the valuation. This thorough approach ensures that the appraisal can stand up to scrutiny from insurance companies, tax authorities, legal entities, and potential buyers.
 
-{{< data-modules/stats-highlight title="Art Appraisal Market" columns="3" / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Market" columns="3" / / />}}
   <tr>
     <td>$125-$350</td>
     <td>Average hourly rate for professional art appraisers</td>
@@ -186,14 +186,14 @@ During the examination phase, the appraiser will:
 6. Ask questions about the artwork's history and acquisition
 
 {{< interactive-modules/condition-checklist title="Art Appraisal Examination Checklist" description="Key elements examined during a professional art appraisal" >}}
-  {{< interactive-modules/checklist-item label="Artist identification and signature verification" / />}}
-  {{< interactive-modules/checklist-item label="Medium and materials assessment" / />}}
-  {{< interactive-modules/checklist-item label="Physical measurements" / />}}
-  {{< interactive-modules/checklist-item label="Condition analysis and documentation" / />}}
-  {{< interactive-modules/checklist-item label="Provenance verification" / />}}
-  {{< interactive-modules/checklist-item label="Stylistic and period authentication" / />}}
-  {{< interactive-modules/checklist-item label="Technical examination (may include UV light, magnification)" / />}}
-  {{< interactive-modules/checklist-item label="Frame condition assessment (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Artist identification and signature verification" / / />}}
+  {{< interactive-modules/checklist-item label="Medium and materials assessment" / / />}}
+  {{< interactive-modules/checklist-item label="Physical measurements" / / />}}
+  {{< interactive-modules/checklist-item label="Condition analysis and documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance verification" / / />}}
+  {{< interactive-modules/checklist-item label="Stylistic and period authentication" / / />}}
+  {{< interactive-modules/checklist-item label="Technical examination (may include UV light, magnification)" / / />}}
+  {{< interactive-modules/checklist-item label="Frame condition assessment (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Research and Analysis

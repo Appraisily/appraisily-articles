@@ -141,14 +141,14 @@ Early Dam trolls from the late 1950s through the 1960s typically command the hig
 ### Condition Matters
 
 {{< interactive-modules/condition-checklist title="Troll Doll Condition Assessment" description="Check applicable items to assess your troll doll's condition" >}}
-  {{< interactive-modules/checklist-item label="Original hair is intact and vibrant" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or damage to vinyl body" / />}}
-  {{< interactive-modules/checklist-item label="Original clothing or accessories present" / />}}
-  {{< interactive-modules/checklist-item label="Clear manufacturer markings visible" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or yellowing" / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or tags present" / />}}
-  {{< interactive-modules/checklist-item label="Joints and limbs work properly (if articulated)" / />}}
-  {{< interactive-modules/checklist-item label="Free from odors, stains, or damage" / />}}
+  {{< interactive-modules/checklist-item label="Original hair is intact and vibrant" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks or damage to vinyl body" / / />}}
+  {{< interactive-modules/checklist-item label="Original clothing or accessories present" / / />}}
+  {{< interactive-modules/checklist-item label="Clear manufacturer markings visible" / / />}}
+  {{< interactive-modules/checklist-item label="No discoloration or yellowing" / / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or tags present" / / />}}
+  {{< interactive-modules/checklist-item label="Joints and limbs work properly (if articulated)" / / />}}
+  {{< interactive-modules/checklist-item label="Free from odors, stains, or damage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Special Features and Variations
@@ -169,7 +169,7 @@ Certain characteristics can significantly increase a troll doll's value:
   The value of vintage troll dolls varies widely based on age, manufacturer, condition, and rarity. Here's a breakdown of current market values.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Notable Troll Doll Sales" columns="3" / />}}
+{{< data-modules/stats-highlight title="Notable Troll Doll Sales" columns="3" / / />}}
 
 {{< data-modules/price-table title="Vintage Troll Doll Value Guide" description="Average market prices as of 2024" >}}
   <tr>

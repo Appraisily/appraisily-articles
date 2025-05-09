@@ -141,7 +141,7 @@ More secure than warded locks, lever locks contain a series of levers that must 
 ### Combination Padlocks
 These keyless locks operate using a sequence of numbers, letters, or symbols. Antique combination padlocks date back to the mid-19th century and feature rotating dials or movable rings.
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Padlocks" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Padlocks" columns="3" / / />}}
 - More than 25,000 different padlock patents were issued in the USA alone between 1790-1930
 - The oldest known padlocks date back nearly 4,000 years to ancient Mesopotamia
 - Collector-grade antique padlocks can command prices exceeding $1,000 for rare examples
@@ -178,12 +178,12 @@ Another prestigious British maker whose locks are highly collectible, often bear
 Look for maker's marks such as "ABUS" (founded 1924), "Abloy" (Finland), and various local smithing marks on older examples.
 
 {{< interactive-modules/condition-checklist title="Padlock Authentication Checklist" description="Use this checklist to help authenticate a potentially valuable antique padlock" >}}
-  {{< interactive-modules/checklist-item label="Patina and wear consistent with claimed age" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or patent dates match known manufacturers" / />}}
-  {{< interactive-modules/checklist-item label="Construction methods appropriate for the era (hand-forged vs. machine-made)" / />}}
-  {{< interactive-modules/checklist-item label="Material composition authentic to the period" / />}}
-  {{< interactive-modules/checklist-item label="Key design matches the lock mechanism technology" / />}}
-  {{< interactive-modules/checklist-item label="No modern materials or manufacturing techniques present" / />}}
+  {{< interactive-modules/checklist-item label="Patina and wear consistent with claimed age" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or patent dates match known manufacturers" / / />}}
+  {{< interactive-modules/checklist-item label="Construction methods appropriate for the era (hand-forged vs. machine-made)" / / />}}
+  {{< interactive-modules/checklist-item label="Material composition authentic to the period" / / />}}
+  {{< interactive-modules/checklist-item label="Key design matches the lock mechanism technology" / / />}}
+  {{< interactive-modules/checklist-item label="No modern materials or manufacturing techniques present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For definitive identification of rare or valuable specimens, consider consulting specialized reference books or connecting with knowledgeable collectors through organizations like the Antique Doorknob Collectors of America, which includes many lock enthusiasts.

@@ -84,7 +84,7 @@ Salt cellars—small, decorative containers designed to hold table salt—have a
 
 Salt cellars come in a fascinating variety of materials, styles, and designs—from elaborate sterling silver pieces crafted by master silversmiths to delicate crystal and glass creations. As collectibles, their values can range dramatically based on age, material, condition, maker, and rarity. This guide will help you understand what makes these diminutive tableware items valuable and how to identify potential treasures in your collection.
 
-{{< data-modules/stats-highlight title="Antique Salt Cellar Market Overview" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Salt Cellar Market Overview" columns="3" / / />}}
 
 <div class="stat-card" style="color: blue">
   <div class="stat-value">$25-$3,000+</div>
@@ -263,16 +263,16 @@ Complete sets of matching salt cellars with their original cases and salt spoons
 Like all antiques, salt cellar values fluctuate with collector interest. According to [1stDibs](https://www.1stdibs.com/buy/salt-cellars/), there are currently over 60 antique salt cellars available on their platform alone, indicating steady collector interest. Silver examples remain the most consistently valuable, while colored glass varieties have seen increasing interest in recent years.
 
 {{< interactive-modules/condition-checklist title="Salt Cellar Condition Assessment" description="Use this checklist to evaluate the condition of your antique salt cellar" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to glass/crystal" / />}}
-  {{< interactive-modules/checklist-item label="Sterling silver shows no major dents or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original gold or glass liner is present and intact" / />}}
-  {{< interactive-modules/checklist-item label="Matching salt spoon is present" / />}}
-  {{< interactive-modules/checklist-item label="Original case or box is preserved" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or hallmarks are visible and legible" / />}}
-  {{< interactive-modules/checklist-item label="No significant wear to gilding or silver plating" / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements (feet, handles, etc.) are intact" / />}}
-  {{< interactive-modules/checklist-item label="Porcelain has no hairline cracks or crazing" / />}}
-  {{< interactive-modules/checklist-item label="Original patina on silver (not over-polished)" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to glass/crystal" / / />}}
+  {{< interactive-modules/checklist-item label="Sterling silver shows no major dents or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Original gold or glass liner is present and intact" / / />}}
+  {{< interactive-modules/checklist-item label="Matching salt spoon is present" / / />}}
+  {{< interactive-modules/checklist-item label="Original case or box is preserved" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or hallmarks are visible and legible" / / />}}
+  {{< interactive-modules/checklist-item label="No significant wear to gilding or silver plating" / / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements (feet, handles, etc.) are intact" / / />}}
+  {{< interactive-modules/checklist-item label="Porcelain has no hairline cracks or crazing" / / />}}
+  {{< interactive-modules/checklist-item label="Original patina on silver (not over-polished)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying and Dating Antique Salt Cellars" level="2" >}}

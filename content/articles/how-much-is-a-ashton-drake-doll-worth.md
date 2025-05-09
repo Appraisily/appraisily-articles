@@ -101,7 +101,7 @@ Ashton Drake dolls encompass a wide variety of styles, from porcelain collector 
 
 For collectors and sellers alike, understanding the value of Ashton Drake dolls is essential. Whether you're considering selling your collection or looking to add to it, this comprehensive guide will help you determine how much your Ashton Drake dolls are worth in today's market.
 
-{{< data-modules/stats-highlight title="Ashton Drake Doll Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Ashton Drake Doll Market at a Glance" columns="3" / / />}}
 
 ## Factors That Affect Ashton Drake Doll Values
 
@@ -120,12 +120,12 @@ Older Ashton Drake dolls, particularly those from the 1980s and 1990s, often com
 The condition of a doll is perhaps the most critical factor affecting its value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that maximize an Ashton Drake doll's value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to porcelain parts" / />}}
-  {{< interactive-modules/checklist-item label="Original clothing in excellent condition" / />}}
-  {{< interactive-modules/checklist-item label="Hair intact without styling damage" / />}}
-  {{< interactive-modules/checklist-item label="No fading, discoloration, or yellowing" / />}}
-  {{< interactive-modules/checklist-item label="Joints and movable parts in working order" / />}}
-  {{< interactive-modules/checklist-item label="No odors, stains, or signs of poor storage" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to porcelain parts" / / />}}
+  {{< interactive-modules/checklist-item label="Original clothing in excellent condition" / / />}}
+  {{< interactive-modules/checklist-item label="Hair intact without styling damage" / / />}}
+  {{< interactive-modules/checklist-item label="No fading, discoloration, or yellowing" / / />}}
+  {{< interactive-modules/checklist-item label="Joints and movable parts in working order" / / />}}
+  {{< interactive-modules/checklist-item label="No odors, stains, or signs of poor storage" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Original Packaging and Documentation

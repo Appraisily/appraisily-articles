@@ -89,7 +89,7 @@ Vintage clawfoot bathtubs are more than just functional bathroom fixtures—they
 
 Once a symbol of luxury in Victorian and Edwardian bathrooms, clawfoot tubs have experienced a resurgence in popularity among interior designers, home renovators, and antique collectors. Their timeless appeal and durability make them valuable pieces that can range from affordable finds to high-end investments.
 
-{{< data-modules/stats-highlight title="Clawfoot Tub Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Clawfoot Tub Market Insights" columns="3" / / />}}
 - Value Range: $50-$3,000+
 - Key Factor: Condition & Style
 - Market Trend: Growing Demand
@@ -215,14 +215,14 @@ Older isn't always better when it comes to clawfoot tubs, but certain eras and m
 According to an expert on [JustAnswer Antiques](https://www.justanswer.com/antiques/nmxmi-1923-claw-foot-bath-tub-want-sell.html), a 1923 clawfoot tub by Standard Sanitary Manufacturing Company (S.S.M. Co Standard) was valued between $600-$1,000.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of an antique clawfoot tub" >}}
-  {{< interactive-modules/checklist-item label="Original porcelain in good condition with minimal crazing" / />}}
-  {{< interactive-modules/checklist-item label="No major rust spots, cracks, or repairs to the cast iron" / />}}
-  {{< interactive-modules/checklist-item label="Complete set of original matching feet" / />}}
-  {{< interactive-modules/checklist-item label="Drain and overflow in working condition" / />}}
-  {{< interactive-modules/checklist-item label="Original finish (not previously refinished)" / />}}
-  {{< interactive-modules/checklist-item label="No significant chips or damage to the rim" / />}}
-  {{< interactive-modules/checklist-item label="Visible manufacturer's mark or stamp" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate hardware (if included)" / />}}
+  {{< interactive-modules/checklist-item label="Original porcelain in good condition with minimal crazing" / / />}}
+  {{< interactive-modules/checklist-item label="No major rust spots, cracks, or repairs to the cast iron" / / />}}
+  {{< interactive-modules/checklist-item label="Complete set of original matching feet" / / />}}
+  {{< interactive-modules/checklist-item label="Drain and overflow in working condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish (not previously refinished)" / / />}}
+  {{< interactive-modules/checklist-item label="No significant chips or damage to the rim" / / />}}
+  {{< interactive-modules/checklist-item label="Visible manufacturer's mark or stamp" / / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate hardware (if included)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition

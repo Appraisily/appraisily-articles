@@ -200,7 +200,7 @@ Regimental steins are a specialized category commemorating military service, pri
 - Battle scenes or military activities
 - Personalization to the original owner
 
-{{< data-modules/stats-highlight title="German Beer Stein Market Statistics" columns="3"  />}}
+{{< data-modules/stats-highlight title="German Beer Stein Market Statistics" columns="3"  / />}}
   <tr>
     <td><strong>200-300%</strong><br>Value increase for rare regimental steins in the past decade</td>
     <td><strong>$7,000</strong><br>Record price for a 1900 German Regimental stein</td>
@@ -241,14 +241,14 @@ Authentic old German steins have:
 - Comfortable handle ergonomics
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use this checklist to evaluate if your German beer stein is likely authentic" >}}
-  {{< interactive-modules/checklist-item label="The stein has a maker's mark on the bottom or inside the pewter lid" / />}}
-  {{< interactive-modules/checklist-item label="The pewter lid shows appropriate patina and wear consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted decorations show minor inconsistencies typical of hand craftsmanship" / />}}
-  {{< interactive-modules/checklist-item label="The stein has substantial weight appropriate for its size and material" / />}}
-  {{< interactive-modules/checklist-item label="Ceramic body shows appropriate crazing (fine cracks in the glaze) for its age" / />}}
-  {{< interactive-modules/checklist-item label="Relief decorations show fine detail and craftsmanship" / />}}
-  {{< interactive-modules/checklist-item label="The stein has a traditional capacity of 0.5L or 1L for drinking steins" / />}}
-  {{< interactive-modules/checklist-item label="There are no modern manufacturing marks like "Made in China" or "Made in Taiwan"" / />}}
+  {{< interactive-modules/checklist-item label="The stein has a maker's mark on the bottom or inside the pewter lid" / / />}}
+  {{< interactive-modules/checklist-item label="The pewter lid shows appropriate patina and wear consistent with age" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-painted decorations show minor inconsistencies typical of hand craftsmanship" / / />}}
+  {{< interactive-modules/checklist-item label="The stein has substantial weight appropriate for its size and material" / / />}}
+  {{< interactive-modules/checklist-item label="Ceramic body shows appropriate crazing (fine cracks in the glaze) for its age" / / />}}
+  {{< interactive-modules/checklist-item label="Relief decorations show fine detail and craftsmanship" / / />}}
+  {{< interactive-modules/checklist-item label="The stein has a traditional capacity of 0.5L or 1L for drinking steins" / / />}}
+  {{< interactive-modules/checklist-item label="There are no modern manufacturing marks like "Made in China" or "Made in Taiwan"" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Reproduction Red Flags
@@ -456,7 +456,7 @@ Documented history adds significantly to value:
 - Historical documentation
 - Original packaging or certificates
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3"  />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3"  / />}}
   <tr>
     <td><strong>40-60%</strong><br>Value reduction for steins with repairs or significant damage</td>
     <td><strong>25-35%</strong><br>Premium for steins with documented historical provenance</td>

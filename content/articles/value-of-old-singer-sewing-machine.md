@@ -44,7 +44,7 @@ For over 170 years, Singer sewing machines have been essential tools for home se
 
 ![Antique Singer sewing machine with ornate decorations and wooden cabinet](https://ik.imagekit.io/appraisily/SEO/value-of-old-singer-sewing-machine/value-of-old-singer-sewing-machine-image-1_vWS-Tuegw.png)
 
-{{< data-modules/stats-highlight title="Singer Sewing Machine Value Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Singer Sewing Machine Value Highlights" columns="3" / / />}}
 
 {{< content-modules/section-header title="What Makes Old Singer Sewing Machines Valuable?" level="2" >}}
 Not all vintage Singer sewing machines carry the same value. Several key factors determine whether your old Singer is worth $50 or $2,000. Understanding these elements is crucial for proper valuation.
@@ -65,14 +65,14 @@ The condition of your Singer sewing machine significantly impacts its value. Mac
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Assessment" description="Check applicable items to determine the condition of your sewing machine" >}}
-  {{< interactive-modules/checklist-item label="Machine is in complete working order" / />}}
-  {{< interactive-modules/checklist-item label="Original decals are intact and vibrant" / />}}
-  {{< interactive-modules/checklist-item label="No rust or significant wear on metal parts" / />}}
-  {{< interactive-modules/checklist-item label="Original finish is well-preserved" / />}}
-  {{< interactive-modules/checklist-item label="All original accessories are present" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet or case is in good condition" / />}}
-  {{< interactive-modules/checklist-item label="No modifications or replacement parts" / />}}
-  {{< interactive-modules/checklist-item label="Manual and documentation are included" / />}}
+  {{< interactive-modules/checklist-item label="Machine is in complete working order" / / />}}
+  {{< interactive-modules/checklist-item label="Original decals are intact and vibrant" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or significant wear on metal parts" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is well-preserved" / / />}}
+  {{< interactive-modules/checklist-item label="All original accessories are present" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet or case is in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="No modifications or replacement parts" / / />}}
+  {{< interactive-modules/checklist-item label="Manual and documentation are included" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Original Components and Accessories" level="3" >}}

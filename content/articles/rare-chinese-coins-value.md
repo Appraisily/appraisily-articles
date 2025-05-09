@@ -136,7 +136,7 @@ For collectors, the allure of Chinese coins lies not only in their aesthetic bea
 
 The most valuable Chinese coins typically come from the late Qing Dynasty through the Republic Period (late 1800s to mid-1900s). During this time, China was transitioning from traditional cash coinage to modern minting techniques, producing some of the most sought-after rarities in the numismatic world.
 
-{{< data-modules/stats-highlight title="Record-Breaking Chinese Coins" columns="3" / />}}
+{{< data-modules/stats-highlight title="Record-Breaking Chinese Coins" columns="3" / / />}}
 
 {{< data-modules/price-table title="Most Valuable Chinese Coins" description="Notable auction results for rare Chinese coins" >}}
   <tr>
@@ -192,11 +192,11 @@ According to [Coin World](https://www.coinworld.com/news/world-coins/rare-chines
 Silver Dragon dollars from the late Qing Dynasty (1875-1911) are among the most popular Chinese coins with collectors. These large silver coins feature a dragon on one side and were China's first modern, machine-struck coins.
 
 {{< interactive-modules/condition-checklist title="Silver Dragon Dollar Authentication Checklist" description="Key factors to verify authenticity" >}}
-  {{< interactive-modules/checklist-item label="Check weight (should be approximately 26.7 grams)" / />}}
-  {{< interactive-modules/checklist-item label="Examine edge reeding for consistency" / />}}
-  {{< interactive-modules/checklist-item label="Look for proper silver patina and toning" / />}}
-  {{< interactive-modules/checklist-item label="Verify detailed scales on the dragon design" / />}}
-  {{< interactive-modules/checklist-item label="Confirm precise character formation on inscriptions" / />}}
+  {{< interactive-modules/checklist-item label="Check weight (should be approximately 26.7 grams)" / / />}}
+  {{< interactive-modules/checklist-item label="Examine edge reeding for consistency" / / />}}
+  {{< interactive-modules/checklist-item label="Look for proper silver patina and toning" / / />}}
+  {{< interactive-modules/checklist-item label="Verify detailed scales on the dragon design" / / />}}
+  {{< interactive-modules/checklist-item label="Confirm precise character formation on inscriptions" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Republic Period Coins (1912-1949)

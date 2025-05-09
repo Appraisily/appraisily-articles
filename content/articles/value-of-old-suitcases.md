@@ -172,7 +172,7 @@ Condition dramatically affects value, with mint or near-mint examples commanding
 
 A documented history of ownership or association with notable individuals or historical events can significantly enhance value. Suitcases with original travel stickers from famous hotels or destinations also command premiums among collectors.
 
-{{< data-modules/stats-highlight title="Vintage Suitcase Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Suitcase Market Statistics" columns="3" / / />}}
 
 {{< visual-modules/timeline title="Evolution of Suitcase Design" >}}
   {{< visual-modules/timeline-item date="1800s" title="Steamer Trunks" >}}
@@ -314,16 +314,16 @@ Determining a suitcase's age helps establish its value:
 - **Manufacturer history**: Research when specific brands were active or when certain designs were produced.
 
 {{< interactive-modules/condition-checklist title="Vintage Suitcase Condition Assessment" description="Check applicable items to evaluate a vintage suitcase's condition" >}}
-  {{< interactive-modules/checklist-item label="Original hardware intact and functional (locks, latches, handles)" / />}}
-  {{< interactive-modules/checklist-item label="Interior lining clean and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, mold, or mildew" / />}}
-  {{< interactive-modules/checklist-item label="Corners and edges show minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Original maker's marks or labels present" / />}}
-  {{< interactive-modules/checklist-item label="Leather surfaces supple without cracking" / />}}
-  {{< interactive-modules/checklist-item label="No significant odors (mustiness, smoke)" / />}}
-  {{< interactive-modules/checklist-item label="Original interior compartments/trays present" / />}}
-  {{< interactive-modules/checklist-item label="External canvas or fabric free from tears" / />}}
-  {{< interactive-modules/checklist-item label="Original travel stickers or labels (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware intact and functional (locks, latches, handles)" / / />}}
+  {{< interactive-modules/checklist-item label="Interior lining clean and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="No water damage, mold, or mildew" / / />}}
+  {{< interactive-modules/checklist-item label="Corners and edges show minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Original maker's marks or labels present" / / />}}
+  {{< interactive-modules/checklist-item label="Leather surfaces supple without cracking" / / />}}
+  {{< interactive-modules/checklist-item label="No significant odors (mustiness, smoke)" / / />}}
+  {{< interactive-modules/checklist-item label="Original interior compartments/trays present" / / />}}
+  {{< interactive-modules/checklist-item label="External canvas or fabric free from tears" / / />}}
+  {{< interactive-modules/checklist-item label="Original travel stickers or labels (if applicable)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Buy and Sell Vintage Suitcases" level="2" >}}

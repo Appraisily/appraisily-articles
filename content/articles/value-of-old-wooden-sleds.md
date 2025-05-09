@@ -26,7 +26,7 @@ Wooden sleds represent a cherished piece of winter nostalgia that has increasing
 The market for antique and vintage wooden sleds encompasses a wide price spectrum, with factors like age, manufacturer, condition, and rarity determining their ultimate worth. While some sleds may serve as simple seasonal decor, others can command premium prices from serious collectors.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Antique Sled Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Sled Market at a Glance" columns="3" / / />}}
 
 The price range for antique and vintage wooden sleds generally falls between $50 and $1,000+, with several factors influencing where a particular sled lands on this spectrum:
 
@@ -56,13 +56,13 @@ Primitive, handmade sleds that predate mass manufacturing can be especially valu
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Sled Condition Evaluation Checklist" description="Use this checklist to assess your wooden sled's condition" >}}
-  {{< interactive-modules/checklist-item label="Original paint and decals intact" / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust on runners and hardware" / />}}
-  {{< interactive-modules/checklist-item label="No major cracks or repairs to the wood" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and components present" / />}}
-  {{< interactive-modules/checklist-item label="Steering mechanism works (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Wood is solid with no rot or severe warping" / />}}
-  {{< interactive-modules/checklist-item label="Original rope or handle present" / />}}
+  {{< interactive-modules/checklist-item label="Original paint and decals intact" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust on runners and hardware" / / />}}
+  {{< interactive-modules/checklist-item label="No major cracks or repairs to the wood" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and components present" / / />}}
+  {{< interactive-modules/checklist-item label="Steering mechanism works (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Wood is solid with no rot or severe warping" / / />}}
+  {{< interactive-modules/checklist-item label="Original rope or handle present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition significantly impacts value, with unrestored sleds in excellent original condition commanding the highest prices. Key condition factors include:

@@ -111,7 +111,7 @@ Learning to recognize the distinctive characteristics of old medicine bottles is
 
 One of the most reliable indicators of a bottle's age is how it was manufactured, which can be determined by examining mold seams and other production marks.
 
-{{< data-modules/stats-highlight title="Dating Medicine Bottles by Manufacturing Technique" columns="3" / />}}
+{{< data-modules/stats-highlight title="Dating Medicine Bottles by Manufacturing Technique" columns="3" / / />}}
 
 **Hand-Blown Bottles (pre-1860s)**
 - No mold seams
@@ -233,16 +233,16 @@ The method used to seal medicine bottles changed over time:
 4. **Crown Caps** (post-1892): Special lip design to accept crimped metal caps
 
 {{< interactive-modules/condition-checklist title="Bottle Dating Checklist" description="Use this checklist to help determine the approximate age of your medicine bottle" >}}
-  {{< interactive-modules/checklist-item label="Pontil scar present on base (pre-1860s)" / />}}
-  {{< interactive-modules/checklist-item label="Applied finish with visible seam where top meets neck (1830s-1880s)" / />}}
-  {{< interactive-modules/checklist-item label="Tooled finish with smooth transition to neck (1870s-1910s)" / />}}
-  {{< interactive-modules/checklist-item label="Mold seams stop below the finish (pre-1910)" / />}}
-  {{< interactive-modules/checklist-item label="Mold seams extend through the finish to the top (post-1910)" / />}}
-  {{< interactive-modules/checklist-item label="Owens suction scar on base (1905-1950s)" / />}}
-  {{< interactive-modules/checklist-item label="Aqua or light green tint to glass (pre-1920s)" / />}}
-  {{< interactive-modules/checklist-item label="Purple-tinted clear glass (1880-1916)" / />}}
-  {{< interactive-modules/checklist-item label="Machine-made screw threads (post-1910)" / />}}
-  {{< interactive-modules/checklist-item label="Embossed volume graduations on side (common 1890s-1930s)" / />}}
+  {{< interactive-modules/checklist-item label="Pontil scar present on base (pre-1860s)" / / />}}
+  {{< interactive-modules/checklist-item label="Applied finish with visible seam where top meets neck (1830s-1880s)" / / />}}
+  {{< interactive-modules/checklist-item label="Tooled finish with smooth transition to neck (1870s-1910s)" / / />}}
+  {{< interactive-modules/checklist-item label="Mold seams stop below the finish (pre-1910)" / / />}}
+  {{< interactive-modules/checklist-item label="Mold seams extend through the finish to the top (post-1910)" / / />}}
+  {{< interactive-modules/checklist-item label="Owens suction scar on base (1905-1950s)" / / />}}
+  {{< interactive-modules/checklist-item label="Aqua or light green tint to glass (pre-1920s)" / / />}}
+  {{< interactive-modules/checklist-item label="Purple-tinted clear glass (1880-1916)" / / />}}
+  {{< interactive-modules/checklist-item label="Machine-made screw threads (post-1910)" / / />}}
+  {{< interactive-modules/checklist-item label="Embossed volume graduations on side (common 1890s-1930s)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Value Factors for Antique Medicine Bottles" level="2" >}}

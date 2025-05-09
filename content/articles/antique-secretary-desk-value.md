@@ -96,7 +96,7 @@ This ingenious design allowed users to keep writing implements, important docume
 
 The term "secretary" itself refers to the desk's association with writing and correspondence—the essential tasks of a secretary or clerk. Over centuries, these pieces evolved in style and complexity, from elaborate rococo designs to more restrained Federal and Victorian versions.
 
-{{< data-modules/stats-highlight title="Key Facts About Secretary Desks" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Facts About Secretary Desks" columns="3" / / />}}
 <tr>
   <td>Origin Period</td>
   <td>17th Century</td>
@@ -149,13 +149,13 @@ Original hardware provides strong evidence of age:
 - **Locks**: Handmade locks with irregular keyhole shapes point to earlier construction; machine-made locks with perfect symmetry indicate later production.
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist to help determine if your secretary desk is a genuine antique" >}}
-  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints with slight irregularities" / />}}
-  {{< interactive-modules/checklist-item label="Consistent patina across all wood surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of natural wear in appropriate places (writing surface, drawer handles)" / />}}
-  {{< interactive-modules/checklist-item label="Secondary woods used in non-visible areas" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware with appropriate wear and patination" / />}}
-  {{< interactive-modules/checklist-item label="Symmetrical shrinkage cracks in solid wood components" / />}}
-  {{< interactive-modules/checklist-item label="No modern fasteners, glues, or construction techniques" / />}}
+  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints with slight irregularities" / / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina across all wood surfaces" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of natural wear in appropriate places (writing surface, drawer handles)" / / />}}
+  {{< interactive-modules/checklist-item label="Secondary woods used in non-visible areas" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware with appropriate wear and patination" / / />}}
+  {{< interactive-modules/checklist-item label="Symmetrical shrinkage cracks in solid wood components" / / />}}
+  {{< interactive-modules/checklist-item label="No modern fasteners, glues, or construction techniques" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Historical Styles and Their Values

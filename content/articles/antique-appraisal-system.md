@@ -80,7 +80,7 @@ At its core, an antique appraisal system combines expert knowledge, market resea
 
 The primary components of a comprehensive antique appraisal system include:
 
-{{< data-modules/stats-highlight title="Key Components of Appraisal Systems" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Components of Appraisal Systems" columns="3" / / />}}
 
 1. **Expert Knowledge Base**: Information on makers, styles, periods, and historical context
 2. **Market Analysis Tools**: Methods to analyze current market values and sales trends
@@ -114,11 +114,11 @@ According to Liberty Mutual's resource on [antique appraisals](https://www.liber
 Professional appraisers are particularly valuable for high-value items, insurance purposes, estate planning, or when legal documentation is required. As noted by Consumer Reports in their guide on [how to find an appraiser](https://www.consumerreports.org/cro/magazine/2012/10/how-much-is-your-stuff-worth/index.htm), "You can find an appraiser for almost any item, whether it's an antique Greek vase or a Richard Simmons autograph. The key is finding one who's accredited."
 
 {{< interactive-modules/condition-checklist title="When to Seek Professional Appraisal" description="Consider a professional appraiser when your item meets these criteria:" >}}
-  {{< interactive-modules/checklist-item label="Item appears potentially valuable (over $1,000)" / />}}
-  {{< interactive-modules/checklist-item label="Documentation is needed for insurance purposes" / />}}
-  {{< interactive-modules/checklist-item label="Item is part of an estate or legal settlement" / />}}
-  {{< interactive-modules/checklist-item label="You're considering donation with tax deduction" / />}}
-  {{< interactive-modules/checklist-item label="Item has potential historical significance" / />}}
+  {{< interactive-modules/checklist-item label="Item appears potentially valuable (over $1,000)" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation is needed for insurance purposes" / / />}}
+  {{< interactive-modules/checklist-item label="Item is part of an estate or legal settlement" / / />}}
+  {{< interactive-modules/checklist-item label="You're considering donation with tax deduction" / / />}}
+  {{< interactive-modules/checklist-item label="Item has potential historical significance" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Online Appraisal Services
@@ -245,7 +245,7 @@ Professional appraisers typically use a blend of these approaches depending on t
 
 When conducting an appraisal, professionals consider numerous factors that impact an item's value:
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
 
 1. **Provenance**: The item's documented history and chain of ownership
 2. **Condition**: Physical state relative to age and expected wear
@@ -381,7 +381,7 @@ As Veranda magazine notes in their article on [finding the value of antiques](ht
 
 The cost of appraisal services varies significantly based on the system you choose and the items being evaluated.
 
-{{< data-modules/stats-highlight title="Typical Appraisal Costs" columns="3" / />}}
+{{< data-modules/stats-highlight title="Typical Appraisal Costs" columns="3" / / />}}
 
 When budgeting for appraisals, consider these typical price ranges:
 
@@ -419,12 +419,12 @@ While self-appraisal can't replace professional expertise for formal purposes, i
 Developing your own systematic approach to preliminary appraisal involves establishing consistent processes:
 
 {{< interactive-modules/condition-checklist title="DIY Appraisal System Checklist" description="Key steps for developing your own preliminary assessment process:" >}}
-  {{< interactive-modules/checklist-item label="Document the item with detailed photographs" / />}}
-  {{< interactive-modules/checklist-item label="Research maker's marks, signatures, and identifying features" / />}}
-  {{< interactive-modules/checklist-item label="Examine condition systematically using consistent criteria" / />}}
-  {{< interactive-modules/checklist-item label="Research recent comparable sales across multiple platforms" / />}}
-  {{< interactive-modules/checklist-item label="Consult reference guides specific to the item category" / />}}
-  {{< interactive-modules/checklist-item label="Record findings in a standardized format" / />}}
+  {{< interactive-modules/checklist-item label="Document the item with detailed photographs" / / />}}
+  {{< interactive-modules/checklist-item label="Research maker's marks, signatures, and identifying features" / / />}}
+  {{< interactive-modules/checklist-item label="Examine condition systematically using consistent criteria" / / />}}
+  {{< interactive-modules/checklist-item label="Research recent comparable sales across multiple platforms" / / />}}
+  {{< interactive-modules/checklist-item label="Consult reference guides specific to the item category" / / />}}
+  {{< interactive-modules/checklist-item label="Record findings in a standardized format" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Many collectors maintain detailed spreadsheets or databases of their research findings, creating personalized reference systems that improve with each item evaluated.

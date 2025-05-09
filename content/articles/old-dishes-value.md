@@ -137,7 +137,7 @@ Not all old dishes are created equal when it comes to value. Learning what facto
 
 While most antique and vintage dishes are worth under $100, certain characteristics can significantly increase their value. Understanding these factors is the first step in determining whether your old dishes might be hidden treasures.
 
-{{< data-modules/stats-highlight title="Key Value Factors for Antique Dishes" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for Antique Dishes" columns="3" / / />}}
 
 ### Age Isn't Everything
 
@@ -216,13 +216,13 @@ Once you identify the manufacturer, research the specific pattern on your dishes
 4. Join online collector forums to tap into community knowledge
 
 {{< interactive-modules/condition-checklist title="Dish Identification Checklist" description="Work through these steps to properly identify your antique dishes" >}}
-  {{< interactive-modules/checklist-item label="Examine and photograph the backstamp" / />}}
-  {{< interactive-modules/checklist-item label="Note any pattern names, numbers, or codes" / />}}
-  {{< interactive-modules/checklist-item label="Document distinguishing features like colors and motifs" / />}}
-  {{< interactive-modules/checklist-item label="Research the manufacturer's history and marking system" / />}}
-  {{< interactive-modules/checklist-item label="Identify the specific pattern using reference materials" / />}}
-  {{< interactive-modules/checklist-item label="Determine the production period of your specific pattern" / />}}
-  {{< interactive-modules/checklist-item label="Check for any unique features that might indicate rarity" / />}}
+  {{< interactive-modules/checklist-item label="Examine and photograph the backstamp" / / />}}
+  {{< interactive-modules/checklist-item label="Note any pattern names, numbers, or codes" / / />}}
+  {{< interactive-modules/checklist-item label="Document distinguishing features like colors and motifs" / / />}}
+  {{< interactive-modules/checklist-item label="Research the manufacturer's history and marking system" / / />}}
+  {{< interactive-modules/checklist-item label="Identify the specific pattern using reference materials" / / />}}
+  {{< interactive-modules/checklist-item label="Determine the production period of your specific pattern" / / />}}
+  {{< interactive-modules/checklist-item label="Check for any unique features that might indicate rarity" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Array of different antique dish patterns showcasing valuable designs and decorative elements](https://ik.imagekit.io/appraisily/SEO/old-dishes-value/old-dishes-value-image-3_t85d12wNs.png)
@@ -295,13 +295,13 @@ Familiarize yourself with these common condition descriptions used in antique di
 These issues can significantly reduce the value of antique dishes:
 
 {{< interactive-modules/condition-checklist title="Condition Issues to Check" description="Examine your dishes for these common problems that affect value" >}}
-  {{< interactive-modules/checklist-item label="Chips or nicks along the edges" / />}}
-  {{< interactive-modules/checklist-item label="Crazing (fine cracks in the glaze)" / />}}
-  {{< interactive-modules/checklist-item label="Staining or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Repairs or restoration work" / />}}
-  {{< interactive-modules/checklist-item label="Pattern wear or fading" / />}}
-  {{< interactive-modules/checklist-item label="Scratches from cutlery use" / />}}
-  {{< interactive-modules/checklist-item label="Hairline cracks in the body" / />}}
+  {{< interactive-modules/checklist-item label="Chips or nicks along the edges" / / />}}
+  {{< interactive-modules/checklist-item label="Crazing (fine cracks in the glaze)" / / />}}
+  {{< interactive-modules/checklist-item label="Staining or discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Repairs or restoration work" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern wear or fading" / / />}}
+  {{< interactive-modules/checklist-item label="Scratches from cutlery use" / / />}}
+  {{< interactive-modules/checklist-item label="Hairline cracks in the body" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Impact on Value
@@ -401,13 +401,13 @@ While not as definitive as professional appraisals, these resources can help you
 To get the most accurate appraisal, gather this information:
 
 {{< interactive-modules/condition-checklist title="Appraisal Preparation Checklist" description="Items to gather before seeking professional appraisal" >}}
-  {{< interactive-modules/checklist-item label="Clear photographs of the front and back of each piece" / />}}
-  {{< interactive-modules/checklist-item label="Close-up images of any marks, signatures, or backstamps" / />}}
-  {{< interactive-modules/checklist-item label="Measurements of each piece" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of any known history or provenance" / />}}
-  {{< interactive-modules/checklist-item label="Note any damage or restoration, however minor" / />}}
-  {{< interactive-modules/checklist-item label="List of all pieces if you have a set" / />}}
-  {{< interactive-modules/checklist-item label="Any original packaging, if available" / />}}
+  {{< interactive-modules/checklist-item label="Clear photographs of the front and back of each piece" / / />}}
+  {{< interactive-modules/checklist-item label="Close-up images of any marks, signatures, or backstamps" / / />}}
+  {{< interactive-modules/checklist-item label="Measurements of each piece" / / />}}
+  {{< interactive-modules/checklist-item label="Documentation of any known history or provenance" / / />}}
+  {{< interactive-modules/checklist-item label="Note any damage or restoration, however minor" / / />}}
+  {{< interactive-modules/checklist-item label="List of all pieces if you have a set" / / />}}
+  {{< interactive-modules/checklist-item label="Any original packaging, if available" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Selling Antique and Vintage Dishes" level="2" >}}

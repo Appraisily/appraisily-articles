@@ -26,7 +26,7 @@ The Singer Spartan, also known as the Singer 192K, represents an important chapt
 
 If you've discovered a Singer Spartan in your grandmother's attic or spotted one at a thrift store, you might be wondering about its value and history. This comprehensive guide will help you understand what makes these machines special, how to identify them, and what factors influence their current market value.
 
-{{< data-modules/stats-highlight title="Singer Spartan Quick Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Singer Spartan Quick Facts" columns="3" / / />}}
 
 {{< content-modules/section-header title="History and Background of the Singer Spartan" level="2" >}}
 Understanding the history of the Singer Spartan gives important context to its value in today's collector's market. These machines have a fascinating story that explains both their design and their place in Singer's product lineup.
@@ -73,11 +73,11 @@ The Singer Spartan (model 192K) has several distinct characteristics:
 According to [Singer Sewing Info](https://www.singersewinginfo.co.uk/192), "The Singer model 192 'Spartan' was produced between 1959 and 1961 as a budget version of the popular class 99 models." This information can help you authenticate your machine and narrow down its manufacturing date.
 
 {{< interactive-modules/condition-checklist title="Singer Spartan Identification Checklist" description="Check all applicable items to confirm you have a Singer Spartan" >}}
-  {{< interactive-modules/checklist-item label="Machine is labeled 'Spartan' or '192K'" / />}}
-  {{< interactive-modules/checklist-item label="Compact size similar to Singer 99K" / />}}
-  {{< interactive-modules/checklist-item label="No built-in light fixture" / />}}
-  {{< interactive-modules/checklist-item label="Black enamel finish with gold decals" / />}}
-  {{< interactive-modules/checklist-item label="Serial number confirms 1959-1961 manufacture" / />}}
+  {{< interactive-modules/checklist-item label="Machine is labeled 'Spartan' or '192K'" / / />}}
+  {{< interactive-modules/checklist-item label="Compact size similar to Singer 99K" / / />}}
+  {{< interactive-modules/checklist-item label="No built-in light fixture" / / />}}
+  {{< interactive-modules/checklist-item label="Black enamel finish with gold decals" / / />}}
+  {{< interactive-modules/checklist-item label="Serial number confirms 1959-1961 manufacture" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Value of Singer Spartan Sewing Machines" level="2" >}}
@@ -148,15 +148,15 @@ Though the Spartan was a budget model, certain factors can make specific machine
 4. **Local Market**: Regional availability can affect prices
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Check all items that apply to determine potential value" >}}
-  {{< interactive-modules/checklist-item label="Machine runs smoothly at all speeds" / />}}
-  {{< interactive-modules/checklist-item label="All original parts are present and functional" / />}}
-  {{< interactive-modules/checklist-item label="Motor operates correctly without unusual noises" / />}}
-  {{< interactive-modules/checklist-item label="Foot pedal works properly with good response" / />}}
-  {{< interactive-modules/checklist-item label="Original case or cabinet included" / />}}
-  {{< interactive-modules/checklist-item label="Paint and decals in good condition" / />}}
-  {{< interactive-modules/checklist-item label="No rust or serious cosmetic damage" / />}}
-  {{< interactive-modules/checklist-item label="Original manual included" / />}}
-  {{< interactive-modules/checklist-item label="Complete set of original accessories" / />}}
+  {{< interactive-modules/checklist-item label="Machine runs smoothly at all speeds" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts are present and functional" / / />}}
+  {{< interactive-modules/checklist-item label="Motor operates correctly without unusual noises" / / />}}
+  {{< interactive-modules/checklist-item label="Foot pedal works properly with good response" / / />}}
+  {{< interactive-modules/checklist-item label="Original case or cabinet included" / / />}}
+  {{< interactive-modules/checklist-item label="Paint and decals in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or serious cosmetic damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original manual included" / / />}}
+  {{< interactive-modules/checklist-item label="Complete set of original accessories" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Practical Uses and Collectibility" level="2" >}}

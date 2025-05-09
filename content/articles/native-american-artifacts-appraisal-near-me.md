@@ -185,7 +185,7 @@ Professional appraisers specializing in Native American artifacts typically have
 
 There are several types of appraisals you might need, depending on your purpose:
 
-{{< data-modules/stats-highlight title="Types of Native American Artifact Appraisals" columns="3" / />}}
+{{< data-modules/stats-highlight title="Types of Native American Artifact Appraisals" columns="3" / / />}}
 
 1. **Insurance Appraisals**: Determining replacement value for coverage
 2. **Fair Market Value**: Establishing price for potential sale or tax purposes
@@ -287,11 +287,11 @@ Items from certain tribes may have higher market demand based on collector inter
 As with most collectibles, condition significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Key elements appraisers evaluate when assessing condition" >}}
-  {{< interactive-modules/checklist-item label="Structural integrity without restoration" / />}}
-  {{< interactive-modules/checklist-item label="Original finish and patina" / />}}
-  {{< interactive-modules/checklist-item label="Complete with all original components" / />}}
-  {{< interactive-modules/checklist-item label="Free of modern repairs or alterations" / />}}
-  {{< interactive-modules/checklist-item label="Absence of insect damage, fading, or staining" / />}}
+  {{< interactive-modules/checklist-item label="Structural integrity without restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish and patina" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with all original components" / / />}}
+  {{< interactive-modules/checklist-item label="Free of modern repairs or alterations" / / />}}
+  {{< interactive-modules/checklist-item label="Absence of insect damage, fading, or staining" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Craftsmanship and Artistic Merit

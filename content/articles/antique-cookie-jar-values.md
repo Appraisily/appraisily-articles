@@ -48,7 +48,7 @@ What began as humble ceramic containers has transformed into a diverse collectin
 
 In this comprehensive guide, we'll explore the fascinating world of antique cookie jars, identify the most valuable specimens, and provide expert advice on determining what makes certain jars worth a small fortune while others remain affordable decorative items.
 
-{{< data-modules/stats-highlight title="Antique Cookie Jar Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Cookie Jar Market Highlights" columns="3" / / />}}
   <div class="stat-card">
     <span class="value">$1,200+</span>
     <span class="label">Average Value</span>
@@ -183,14 +183,14 @@ Condition remains the single most important factor in cookie jar valuation. Even
 - Missing or damaged lids
 
 {{< interactive-modules/condition-checklist title="Cookie Jar Condition Assessment" description="Check applicable items to evaluate your jar's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks or repairs visible anywhere on the jar" / />}}
-  {{< interactive-modules/checklist-item label="Original lid present and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Colors are vibrant with no significant fading" / />}}
-  {{< interactive-modules/checklist-item label="Minimal or no crazing in the glaze" / />}}
-  {{< interactive-modules/checklist-item label="All decorative elements intact (faces, limbs, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Bottom markings/maker's mark clear and legible" / />}}
-  {{< interactive-modules/checklist-item label="No significant wear on base where jar sits" / />}}
-  {{< interactive-modules/checklist-item label="No restoration work or touch-up paint visible" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks or repairs visible anywhere on the jar" / / />}}
+  {{< interactive-modules/checklist-item label="Original lid present and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Colors are vibrant with no significant fading" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal or no crazing in the glaze" / / />}}
+  {{< interactive-modules/checklist-item label="All decorative elements intact (faces, limbs, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Bottom markings/maker's mark clear and legible" / / />}}
+  {{< interactive-modules/checklist-item label="No significant wear on base where jar sits" / / />}}
+  {{< interactive-modules/checklist-item label="No restoration work or touch-up paint visible" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Scarcity

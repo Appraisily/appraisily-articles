@@ -208,7 +208,7 @@ Many of the most valuable vintage Star Wars figures are early production variant
 - **Double-Telescoping Lightsabers**: The first production runs of Luke Skywalker, Darth Vader, and Obi-Wan Kenobi featured lightsabers with two extending parts, which proved too fragile and costly to mass-produce.
 - **Blue Snaggletooth**: A design error resulted in a tall, blue-suited version of the character that was quickly corrected to a short, red-suited version to match the film.
 
-{{< data-modules/stats-highlight title="Vintage Star Wars Figure Market Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Star Wars Figure Market Facts" columns="3" / / />}}
 
 - **1.1 billion+**: Estimated Star Wars action figures sold between 1978-1985
 - **$1.34 million**: Record auction price for a rocket-firing Boba Fett prototype in 2024
@@ -258,14 +258,14 @@ For loose figures:
 - **Complete sets** of related figures can command premium prices
 
 {{< interactive-modules/condition-checklist title="Star Wars Figure Condition Assessment Checklist" description="Use this checklist to evaluate your vintage Star Wars figures" >}}
-  {{< interactive-modules/checklist-item label="Figure has tight limbs with good joint functionality" / />}}
-  {{< interactive-modules/checklist-item label="Original paint is intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Figure has all original accessories (weapons, capes, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration, yellowing, or plastic deterioration" / />}}
-  {{< interactive-modules/checklist-item label="For carded figures: Clear bubble with no cracks or yellowing" / />}}
-  {{< interactive-modules/checklist-item label="For carded figures: Card has minimal wear, creases, or corner damage" / />}}
-  {{< interactive-modules/checklist-item label="Figure has original date stamp on leg or foot" / />}}
-  {{< interactive-modules/checklist-item label="No repairs, restorations, or reproduction parts" / />}}
+  {{< interactive-modules/checklist-item label="Figure has tight limbs with good joint functionality" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint is intact with minimal wear" / / />}}
+  {{< interactive-modules/checklist-item label="Figure has all original accessories (weapons, capes, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="No discoloration, yellowing, or plastic deterioration" / / />}}
+  {{< interactive-modules/checklist-item label="For carded figures: Clear bubble with no cracks or yellowing" / / />}}
+  {{< interactive-modules/checklist-item label="For carded figures: Card has minimal wear, creases, or corner damage" / / />}}
+  {{< interactive-modules/checklist-item label="Figure has original date stamp on leg or foot" / / />}}
+  {{< interactive-modules/checklist-item label="No repairs, restorations, or reproduction parts" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Average Values for Common Vintage Figures" level="2" >}}

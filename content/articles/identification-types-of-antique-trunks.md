@@ -87,7 +87,7 @@ This comprehensive guide will walk you through the various types of antique trun
 Antique trunks came in various shapes, sizes, and designs to serve different purposes. Each type has distinctive features that can help with identification and dating. Here we explore the most common types of antique trunks and their defining characteristics.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Antique Trunk Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Trunk Market Insights" columns="3" / / />}}
 
 ### Dome Top (Humpback) Trunks
 
@@ -293,18 +293,18 @@ Founded in 1910 by Jesse Shwayder, this company would later become the luggage g
 Early Shwayder trunks represent an interesting transitional period between traditional trunk design and modern luggage development.
 
 {{< interactive-modules/condition-checklist title="Antique Trunk Condition Assessment" description="Check applicable items to evaluate the condition of your antique trunk" >}}
-  {{< interactive-modules/checklist-item label="Original exterior covering intact (canvas, leather, or metal)" / />}}
-  {{< interactive-modules/checklist-item label="Complete set of original hardware (handles, locks, latches, corner pieces)" / />}}
-  {{< interactive-modules/checklist-item label="Lock mechanism functions properly" / />}}
-  {{< interactive-modules/checklist-item label="Unbroken hinges that operate smoothly" / />}}
-  {{< interactive-modules/checklist-item label="Original interior lining present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Interior compartments, trays, or hangers intact" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's label or markings visible" / />}}
-  {{< interactive-modules/checklist-item label="No significant water damage or wood rot" / />}}
-  {{< interactive-modules/checklist-item label="Minimal odor inside the trunk" / />}}
-  {{< interactive-modules/checklist-item label="Solid, stable structure without warping" / />}}
-  {{< interactive-modules/checklist-item label="Original leather straps present (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No amateur restoration or inappropriate repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original exterior covering intact (canvas, leather, or metal)" / / />}}
+  {{< interactive-modules/checklist-item label="Complete set of original hardware (handles, locks, latches, corner pieces)" / / />}}
+  {{< interactive-modules/checklist-item label="Lock mechanism functions properly" / / />}}
+  {{< interactive-modules/checklist-item label="Unbroken hinges that operate smoothly" / / />}}
+  {{< interactive-modules/checklist-item label="Original interior lining present and in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Interior compartments, trays, or hangers intact" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's label or markings visible" / / />}}
+  {{< interactive-modules/checklist-item label="No significant water damage or wood rot" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal odor inside the trunk" / / />}}
+  {{< interactive-modules/checklist-item label="Solid, stable structure without warping" / / />}}
+  {{< interactive-modules/checklist-item label="Original leather straps present (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No amateur restoration or inappropriate repairs" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors Affecting Antique Trunk Value" level="2" >}}

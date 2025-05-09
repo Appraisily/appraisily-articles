@@ -196,7 +196,7 @@ Authentic antique farm tools typically show consistent signs of age:
    - New paint over authentic patina
    - Modern fasteners replacing original components
 
-{{< data-modules/stats-highlight title="Antique Farm Tool Authentication Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Farm Tool Authentication Statistics" columns="3" / / />}}
 
 {{< content-modules/section-header title="Dating Antique Farm Tools" level="2" >}}
   Determining the approximate age of farm tools requires understanding how agricultural technology evolved over time. Here's a timeline approach to dating antique farm implements.
@@ -280,14 +280,14 @@ Different farm implements evolved at different rates. Here's how specific tools 
 Condition significantly impacts value in the antique farm tool market:
 
 {{< interactive-modules/condition-checklist title="Condition Checklist for Maximum Value" description="Look for these qualities when assessing condition:" >}}
-  {{< interactive-modules/checklist-item label="Original parts with no replacements" / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical components (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original finish or natural patina" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate repairs (if any)" / />}}
-  {{< interactive-modules/checklist-item label="Complete set for multi-part tools" / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust or corrosion on metal parts" / />}}
-  {{< interactive-modules/checklist-item label="No significant cracks or breaks in wooden handles" / />}}
-  {{< interactive-modules/checklist-item label="Legible manufacturer marks or patents" / />}}
+  {{< interactive-modules/checklist-item label="Original parts with no replacements" / / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical components (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish or natural patina" / / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate repairs (if any)" / / />}}
+  {{< interactive-modules/checklist-item label="Complete set for multi-part tools" / / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust or corrosion on metal parts" / / />}}
+  {{< interactive-modules/checklist-item label="No significant cracks or breaks in wooden handles" / / />}}
+  {{< interactive-modules/checklist-item label="Legible manufacturer marks or patents" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Demand Factors

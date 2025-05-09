@@ -94,7 +94,7 @@ Antique saddles represent a fascinating blend of functional craftsmanship and hi
 
 Antique saddles can range in value from under $100 for basic decorative pieces to tens of thousands of dollars for rare, historically significant specimens with silver embellishments. The market for these equestrian antiques remains strong, driven by collectors, interior designers, museums, and riding enthusiasts who appreciate both the artistry and history these pieces represent.
 
-{{< data-modules/stats-highlight title="Antique Saddle Market at a Glance" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Saddle Market at a Glance" columns="3" / / />}}
 <tr>
   <td>$25 - $55,000+</td>
   <td>Price Range</td>
@@ -214,14 +214,14 @@ A saddle's age can often be determined by examining construction techniques, mat
 Condition dramatically impacts value, with excellent-condition saddles commanding prices 2-3 times higher than those in poor condition. Key condition factors include:
 
 {{< interactive-modules/condition-checklist title="Antique Saddle Condition Assessment" description="Check applicable items to evaluate your saddle's condition" >}}
-  {{< interactive-modules/checklist-item label="Leather integrity (no cracks, tears, or significant wear)" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and mountings present" / />}}
-  {{< interactive-modules/checklist-item label="Stitching intact throughout" / />}}
-  {{< interactive-modules/checklist-item label="No significant repairs or alterations" / />}}
-  {{< interactive-modules/checklist-item label="Tree (internal frame) intact and not broken" / />}}
-  {{< interactive-modules/checklist-item label="Original finish preserved (not over-cleaned or restored)" / />}}
-  {{< interactive-modules/checklist-item label="Clear maker's marks or stamps" / />}}
-  {{< interactive-modules/checklist-item label="Original accessories present (stirrups, cinches, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Leather integrity (no cracks, tears, or significant wear)" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and mountings present" / / />}}
+  {{< interactive-modules/checklist-item label="Stitching intact throughout" / / />}}
+  {{< interactive-modules/checklist-item label="No significant repairs or alterations" / / />}}
+  {{< interactive-modules/checklist-item label="Tree (internal frame) intact and not broken" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish preserved (not over-cleaned or restored)" / / />}}
+  {{< interactive-modules/checklist-item label="Clear maker's marks or stamps" / / />}}
+  {{< interactive-modules/checklist-item label="Original accessories present (stirrups, cinches, etc.)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As Reddit discussions reveal, condition assessment is critical. One user cautioned that a particular older saddle [wasn't worth $100](https://www.reddit.com/r/Equestrian/comments/17qpaal/can_anyone_help_me_identify_how_old_this_saddle/) due to its poor condition, despite being at least 30 years old.
@@ -353,7 +353,7 @@ Connecting directly with collectors can maximize your return:
 
 Before selling, consider these steps to maximize your saddle's value:
 
-{{< data-modules/stats-highlight title="Selling Preparation Tips" columns="2" / />}}
+{{< data-modules/stats-highlight title="Selling Preparation Tips" columns="2" / / />}}
 <tr>
   <td>Professional Cleaning</td>
   <td>Gentle cleaning can improve appearance but avoid over-restoration</td>

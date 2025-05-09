@@ -80,7 +80,7 @@ Antique firearms represent a fascinating intersection of history, craftsmanship,
 
 The antique gun market continues to show remarkable strength, with rare specimens regularly commanding five and six-figure prices at major auction houses. Understanding what drives these values requires examining multiple factors that collectors and appraisers consider when evaluating historical firearms.
 
-{{< data-modules/stats-highlight title="Antique Firearms Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Antique Firearms Market Highlights" columns="3" / / />}}
   <div>
     <h3>$200-$200,000</h3>
     <p>Typical price range for collectible antique firearms</p>
@@ -123,13 +123,13 @@ A standard production rifle might be worth several hundred dollars, while the sa
 ### 3. Condition and Originality
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Elements that determine an antique firearm's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original finish preserved (not refinished)" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (not replaced)" / />}}
-  {{< interactive-modules/checklist-item label="Bore remains in good condition without pitting" / />}}
-  {{< interactive-modules/checklist-item label="Action functions properly as designed" / />}}
-  {{< interactive-modules/checklist-item label="Original markings clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="Wood components free of cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Matching serial numbers on all components" / />}}
+  {{< interactive-modules/checklist-item label="Original finish preserved (not refinished)" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (not replaced)" / / />}}
+  {{< interactive-modules/checklist-item label="Bore remains in good condition without pitting" / / />}}
+  {{< interactive-modules/checklist-item label="Action functions properly as designed" / / />}}
+  {{< interactive-modules/checklist-item label="Original markings clearly visible" / / />}}
+  {{< interactive-modules/checklist-item label="Wood components free of cracks or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Matching serial numbers on all components" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition represents perhaps the most significant value factor for antique firearms. Collectors generally prize guns that retain their original finish, parts, and functionality. The National Rifle Association (NRA) established standardized condition ratings commonly used in the industry:

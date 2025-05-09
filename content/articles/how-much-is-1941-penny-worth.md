@@ -93,7 +93,7 @@ The 1941 Lincoln wheat penny represents an important piece of American numismati
 
 ## At a Glance: 1941 Penny Value
 
-{{< data-modules/stats-highlight title="1941 Penny Value by Condition & Mint Mark" columns="3" / />}}
+{{< data-modules/stats-highlight title="1941 Penny Value by Condition & Mint Mark" columns="3" / / />}}
 
 | Variety | Circulated (Good) | Uncirculated (MS63) | Proof |
 |---------|-------------------|---------------------|-------|
@@ -291,14 +291,14 @@ Die cracks appear as raised lines on coins, while a cud is a more substantial ra
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="1941 Penny Condition Assessment" description="Check applicable items to help determine your coin's condition" >}}
-  {{< interactive-modules/checklist-item label="Lincoln's profile shows clear detail in the hair and beard" / />}}
-  {{< interactive-modules/checklist-item label="The word LIBERTY is fully legible" / />}}
-  {{< interactive-modules/checklist-item label="The date and mint mark (if present) are sharp and clear" / />}}
-  {{< interactive-modules/checklist-item label="Wheat stalks on reverse show distinct lines" / />}}
-  {{< interactive-modules/checklist-item label="The rim is intact with no significant damage" / />}}
-  {{< interactive-modules/checklist-item label="No visible scratches, dents, or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Coin retains some original luster (uncirculated coins)" / />}}
-  {{< interactive-modules/checklist-item label="Coin displays original red or red-brown color (uncirculated coins)" / />}}
+  {{< interactive-modules/checklist-item label="Lincoln's profile shows clear detail in the hair and beard" / / />}}
+  {{< interactive-modules/checklist-item label="The word LIBERTY is fully legible" / / />}}
+  {{< interactive-modules/checklist-item label="The date and mint mark (if present) are sharp and clear" / / />}}
+  {{< interactive-modules/checklist-item label="Wheat stalks on reverse show distinct lines" / / />}}
+  {{< interactive-modules/checklist-item label="The rim is intact with no significant damage" / / />}}
+  {{< interactive-modules/checklist-item label="No visible scratches, dents, or corrosion" / / />}}
+  {{< interactive-modules/checklist-item label="Coin retains some original luster (uncirculated coins)" / / />}}
+  {{< interactive-modules/checklist-item label="Coin displays original red or red-brown color (uncirculated coins)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Remember that professional grading is the most accurate way to determine a coin's true condition and value. Consider having valuable specimens authenticated and graded by services like PCGS (Professional Coin Grading Service) or NGC (Numismatic Guaranty Corporation).

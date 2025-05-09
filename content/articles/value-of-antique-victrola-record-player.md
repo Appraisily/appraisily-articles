@@ -175,14 +175,14 @@ For example, a basic Victrola VV-80 might be valued at $200-$300, while a rare V
 The operational and cosmetic condition is perhaps the most critical factor affecting value. According to [The Victor-Victrola Page's condition guide](http://www.victor-victrola.com/Condition%20and%20Grading%20A.htm), phonographs can be graded as follows:
 
 {{< interactive-modules/condition-checklist title="Victrola Condition Assessment" description="Check applicable items to evaluate your phonograph's condition" >}}
-  {{< interactive-modules/checklist-item label="Phonograph is completely original with no replaced parts" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet has original finish with minimal wear or damage" / />}}
-  {{< interactive-modules/checklist-item label="All mechanical components work properly" / />}}
-  {{< interactive-modules/checklist-item label="Spring motor runs smoothly and consistently" / />}}
-  {{< interactive-modules/checklist-item label="Soundbox/reproducer is original and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Turntable spins freely without wobble" / />}}
-  {{< interactive-modules/checklist-item label="Horn (internal or external) is undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer decals and badges are intact" / />}}
+  {{< interactive-modules/checklist-item label="Phonograph is completely original with no replaced parts" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet has original finish with minimal wear or damage" / / />}}
+  {{< interactive-modules/checklist-item label="All mechanical components work properly" / / />}}
+  {{< interactive-modules/checklist-item label="Spring motor runs smoothly and consistently" / / />}}
+  {{< interactive-modules/checklist-item label="Soundbox/reproducer is original and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Turntable spins freely without wobble" / / />}}
+  {{< interactive-modules/checklist-item label="Horn (internal or external) is undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer decals and badges are intact" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 A Victrola in "Fair" condition might be valued at around $125, while the same model in "Excellent" original condition could be worth several times more. Functionality matters tremendously – a non-working model often sells for less than half the price of a fully functional one.
@@ -255,7 +255,7 @@ For specific models, there are more detailed pricing examples:
 
 - RCA Victor Victrola cabinet models from later periods have estimated values in the range of $150-$225 in today's market, as noted by [antique appraisers](https://www.justanswer.com/antiques/b4bho-rca-victor-victrola-cabinet-how-worth-love.html).
 
-{{< data-modules/stats-highlight title="Notable Victrola Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Notable Victrola Market Statistics" columns="3" / / />}}
 
 ![My aunt has this victorla record player for sale](https://preview.redd.it/whntsp2yqws71.jpg?width=720&format=pjpg&auto=webp&s=ccb1f847244d026b3ac022b2f725a671fdbc76f7)
 

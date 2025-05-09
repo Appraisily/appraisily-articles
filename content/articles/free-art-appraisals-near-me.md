@@ -84,7 +84,7 @@ Art appraisals typically fall into several categories:
 
 Free appraisals generally provide an informal assessment rather than a legally binding document. They can be an excellent starting point before deciding whether to invest in a more comprehensive paid appraisal.
 
-{{< data-modules/stats-highlight title="Art Appraisal Facts" columns="3" / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Facts" columns="3" / / />}}
 
 {{< content-modules/section-header title="Types of Free Art Appraisal Services" level="2" >}}
 Several options exist for obtaining free art appraisals, each with their own advantages and limitations. Understanding these differences can help you choose the best option for your needs.
@@ -269,11 +269,11 @@ Before seeking an appraisal, collect as much information as possible:
 Whether for in-person or online appraisals, good photos are crucial:
 
 {{< interactive-modules/condition-checklist title="Artwork Photography Checklist" description="Ensure your photos meet these criteria for the best appraisal results" >}}
-  {{< interactive-modules/checklist-item label="Full-view photo of the front in good lighting" / />}}
-  {{< interactive-modules/checklist-item label="Photo of the back showing any labels or markings" / />}}
-  {{< interactive-modules/checklist-item label="Close-up of the signature" / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of any damage or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Photos of any documentation or certificates" / />}}
+  {{< interactive-modules/checklist-item label="Full-view photo of the front in good lighting" / / />}}
+  {{< interactive-modules/checklist-item label="Photo of the back showing any labels or markings" / / />}}
+  {{< interactive-modules/checklist-item label="Close-up of the signature" / / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of any damage or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Photos of any documentation or certificates" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Questions to Ask During Your Appraisal

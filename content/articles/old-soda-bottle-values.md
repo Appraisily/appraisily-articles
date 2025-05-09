@@ -136,7 +136,7 @@ Vintage soda bottles represent a fascinating intersection of history, nostalgia,
 
 In this comprehensive guide, we'll explore what makes certain vintage soda bottles valuable, how to identify different types and eras, current market values, and where to buy or sell these collectibles. Whether you've discovered old bottles in a family attic, are curious about starting a collection, or want to expand your existing one, this article will provide the essential knowledge you need to navigate the world of vintage soda bottle collecting.
 
-{{< data-modules/stats-highlight title="Vintage Soda Bottle Market Statistics" columns="3" / />}}
+{{< data-modules/stats-highlight title="Vintage Soda Bottle Market Statistics" columns="3" / / />}}
 <tr>
   <td>$5-$25</td>
   <td>Average price for common vintage bottles</td>
@@ -365,14 +365,14 @@ For Coca-Cola collectors, [My Weathered Home](https://myweatheredhome.com/dating
 - **Bottle color**: Early bottles often had slight blue or green tints
 
 {{< interactive-modules/condition-checklist title="Soda Bottle Condition Assessment" description="Check all criteria that apply to determine your bottle's condition rating" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / />}}
-  {{< interactive-modules/checklist-item label="Original closure or cap intact" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossing or labels" / />}}
-  {{< interactive-modules/checklist-item label="No significant wear to ACL (painted) labels" / />}}
-  {{< interactive-modules/checklist-item label="Original paper label intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No interior staining or residue" / />}}
-  {{< interactive-modules/checklist-item label="No case wear on base or body" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging present" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / / />}}
+  {{< interactive-modules/checklist-item label="Original closure or cap intact" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossing or labels" / / />}}
+  {{< interactive-modules/checklist-item label="No significant wear to ACL (painted) labels" / / />}}
+  {{< interactive-modules/checklist-item label="Original paper label intact (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No interior staining or residue" / / />}}
+  {{< interactive-modules/checklist-item label="No case wear on base or body" / / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging present" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Where to Buy and Sell Vintage Soda Bottles

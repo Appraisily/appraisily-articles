@@ -120,12 +120,12 @@ Antique furniture can hold significant value—both monetary and sentimental. Ho
 
 According to experts at [Fontaine's Auction Gallery](https://www.fontainesauction.com/antique-furniture-appraisal/), "The best way to determine its worth is to bring it to a professional antique furniture appraiser who has specific knowledge of antique furniture pieces and knows all the period, material and style details that impact its value."
 
-{{< data-modules/stats-highlight title="Key Furniture Appraisal Cost Factors" columns="3" />}}
-{{< data-modules/stat-card value="$150-$300" label="Hourly Rate" color="blue" description="Common billing method for certified appraisers" />}}
+{{< data-modules/stats-highlight title="Key Furniture Appraisal Cost Factors" columns="3" / />}}
+{{< data-modules/stat-card value="$150-$300" label="Hourly Rate" color="blue" description="Common billing method for certified appraisers" / />}}
 
-{{< data-modules/stat-card value="$500-$2,000+" label="Per Item Rate" color="green" description="Often used for single high-value pieces" />}}
+{{< data-modules/stat-card value="$500-$2,000+" label="Per Item Rate" color="green" description="Often used for single high-value pieces" / />}}
 
-{{< data-modules/stat-card value="Travel Fees" label="Additional Costs" color="orange" description="May apply for on-site appraisals outside local area" />}}
+{{< data-modules/stat-card value="Travel Fees" label="Additional Costs" color="orange" description="May apply for on-site appraisals outside local area" / />}}
 
 ![Interior of an antique appraisal office with furniture pieces being evaluated](https://ik.imagekit.io/appraisily/SEO/antique-furniture-appraiser-near-me/antique-furniture-appraiser-near-me-image-2_WXrg-FPn_s.png)
 
@@ -214,14 +214,14 @@ A professional appraisal typically follows these steps:
 Professional appraisers evaluate numerous factors when assessing antique furniture:
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Evaluation Criteria" description="Key factors appraisers consider when valuing your pieces" >}}
-  {{< interactive-modules/checklist-item label="Authenticity and age verification" / />}}
-  {{< interactive-modules/checklist-item label="Construction techniques and craftsmanship" / />}}
-  {{< interactive-modules/checklist-item label="Material quality and rarity" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks and provenance" / />}}
-  {{< interactive-modules/checklist-item label="Current condition and restoration history" / />}}
-  {{< interactive-modules/checklist-item label="Historical significance and design importance" / />}}
-  {{< interactive-modules/checklist-item label="Market demand and collector interest" / />}}
-  {{< interactive-modules/checklist-item label="Comparable recent sales" / />}}
+  {{< interactive-modules/checklist-item label="Authenticity and age verification" / / />}}
+  {{< interactive-modules/checklist-item label="Construction techniques and craftsmanship" / / />}}
+  {{< interactive-modules/checklist-item label="Material quality and rarity" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks and provenance" / / />}}
+  {{< interactive-modules/checklist-item label="Current condition and restoration history" / / />}}
+  {{< interactive-modules/checklist-item label="Historical significance and design importance" / / />}}
+  {{< interactive-modules/checklist-item label="Market demand and collector interest" / / />}}
+  {{< interactive-modules/checklist-item label="Comparable recent sales" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< data-modules/price-table title="Antique Furniture Appraisal Costs" description="Average fees for professional appraisal services (2024)" >}}

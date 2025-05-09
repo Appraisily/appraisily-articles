@@ -140,12 +140,12 @@ For example, "7" and "48" would indicate the bottle was manufactured at plant #7
 Many Duraglas bottles feature a distinctive stippling pattern (small raised dots) on the bottom and sometimes extending partway up the sides. This pattern was introduced as part of the Duraglas process to reduce surface abrasion.
 
 {{< interactive-modules/condition-checklist title="Authentic Duraglas Identification Checklist" description="Use this checklist to verify if your bottle is an authentic Duraglas" >}}
-  {{< interactive-modules/checklist-item label="Cursive 'Duraglas' embossing on the bottle base" / />}}
-  {{< interactive-modules/checklist-item label="Owens-Illinois maker's mark (I inside an O or diamond)" / />}}
-  {{< interactive-modules/checklist-item label="Numerical date code (typically to the right of the maker's mark)" / />}}
-  {{< interactive-modules/checklist-item label="Plant number code (typically to the left of the maker's mark)" / />}}
-  {{< interactive-modules/checklist-item label="Stippling pattern on bottom or lower portion of bottle" / />}}
-  {{< interactive-modules/checklist-item label="Glass color consistent with the era (clear, amber, green, blue)" / />}}
+  {{< interactive-modules/checklist-item label="Cursive 'Duraglas' embossing on the bottle base" / / />}}
+  {{< interactive-modules/checklist-item label="Owens-Illinois maker's mark (I inside an O or diamond)" / / />}}
+  {{< interactive-modules/checklist-item label="Numerical date code (typically to the right of the maker's mark)" / / />}}
+  {{< interactive-modules/checklist-item label="Plant number code (typically to the left of the maker's mark)" / / />}}
+  {{< interactive-modules/checklist-item label="Stippling pattern on bottom or lower portion of bottle" / / />}}
+  {{< interactive-modules/checklist-item label="Glass color consistent with the era (clear, amber, green, blue)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Understanding these identification markers is essential, as they provide crucial information about a bottle's age, origin, and authenticity—all factors that significantly impact value.
@@ -185,7 +185,7 @@ Unusual shapes, sizes, or design features can significantly increase a bottle's 
 
 Condition dramatically impacts value, with mint or near-mint examples often worth multiples of their damaged counterparts.
 
-{{< data-modules/stats-highlight title="Condition Impact on Duraglas Bottle Values" columns="3" / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Duraglas Bottle Values" columns="3" / / />}}
 
 <tr>
   <td>Mint Condition</td>
@@ -405,7 +405,7 @@ The market for Duraglas bottles has shown steady growth over the past decade, wi
 
 While not as volatile as some collectibles markets, Duraglas bottles have demonstrated reliable value patterns:
 
-{{< data-modules/stats-highlight title="Duraglas Bottle Value Trends" columns="3" / />}}
+{{< data-modules/stats-highlight title="Duraglas Bottle Value Trends" columns="3" / / />}}
 
 <tr>
   <td>Rare Colors</td>

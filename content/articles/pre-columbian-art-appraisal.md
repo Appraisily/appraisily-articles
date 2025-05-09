@@ -103,7 +103,7 @@ Pre-Columbian art represents the rich cultural heritage of indigenous civilizati
 
 Whether you're a collector, inheritor, or simply curious about a potential Pre-Columbian artifact, this comprehensive guide will walk you through the essential aspects of Pre-Columbian art appraisal, helping you understand what factors influence valuation and how to seek professional authentication.
 
-{{< data-modules/stats-highlight title="Pre-Columbian Art Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Pre-Columbian Art Market Highlights" columns="3" / / />}}
 <tr>
   <td>$45 million</td>
   <td>Total Pre-Columbian art sales at Sotheby's over the past 15 years</td>
@@ -168,11 +168,11 @@ As noted by the [Maya Archaeology site](https://www.maya-archaeology.org/html/la
 The condition greatly impacts valuation, with appraisers assessing:
 
 {{< interactive-modules/condition-checklist title="Pre-Columbian Artifact Condition Assessment" description="Key condition factors that affect valuation" >}}
-  {{< interactive-modules/checklist-item label="Original surface and patina integrity" / />}}
-  {{< interactive-modules/checklist-item label="Absence of modern repairs or restorations" / />}}
-  {{< interactive-modules/checklist-item label="Completeness (missing elements reduce value)" / />}}
-  {{< interactive-modules/checklist-item label="Signs of authentic age-related wear" / />}}
-  {{< interactive-modules/checklist-item label="Structural integrity without cracks or breaks" / />}}
+  {{< interactive-modules/checklist-item label="Original surface and patina integrity" / / />}}
+  {{< interactive-modules/checklist-item label="Absence of modern repairs or restorations" / / />}}
+  {{< interactive-modules/checklist-item label="Completeness (missing elements reduce value)" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of authentic age-related wear" / / />}}
+  {{< interactive-modules/checklist-item label="Structural integrity without cracks or breaks" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Artistic Quality
@@ -276,12 +276,12 @@ Professional appraisers use multiple approaches to verify authenticity:
 According to experienced appraisers and auction house specialists, these warning signs merit caution:
 
 {{< interactive-modules/condition-checklist title="Forgery Warning Signs" description="Check for these issues that may indicate a reproduction" >}}
-  {{< interactive-modules/checklist-item label="Artificially aged surfaces that appear too uniform" / />}}
-  {{< interactive-modules/checklist-item label="Inconsistent style elements from different periods or regions" / />}}
-  {{< interactive-modules/checklist-item label="Unusual combinations of iconography not seen in authentic pieces" / />}}
-  {{< interactive-modules/checklist-item label="Suspicious wear patterns that don't match typical degradation" / />}}
-  {{< interactive-modules/checklist-item label="Overly perfect condition for the claimed age" / />}}
-  {{< interactive-modules/checklist-item label="Use of modern materials, adhesives, or pigments" / />}}
+  {{< interactive-modules/checklist-item label="Artificially aged surfaces that appear too uniform" / / />}}
+  {{< interactive-modules/checklist-item label="Inconsistent style elements from different periods or regions" / / />}}
+  {{< interactive-modules/checklist-item label="Unusual combinations of iconography not seen in authentic pieces" / / />}}
+  {{< interactive-modules/checklist-item label="Suspicious wear patterns that don't match typical degradation" / / />}}
+  {{< interactive-modules/checklist-item label="Overly perfect condition for the claimed age" / / />}}
+  {{< interactive-modules/checklist-item label="Use of modern materials, adhesives, or pigments" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As [Elizabeth Appraisals notes](https://elizabethappraisals.com/pre-columbian-effigies/), even seemingly ancient pieces like Nayarit culture pottery figures can present authenticity challenges, requiring careful analysis beyond visual inspection alone.

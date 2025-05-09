@@ -107,7 +107,7 @@ Appraisers typically consider several key factors when evaluating antique furnit
 
 ![Detailed examination of antique furniture drawer construction and joinery](https://ik.imagekit.io/appraisily/SEO/antique-furniture-appraisal-near-me/antique-furniture-appraisal-near-me-image-2_6TagCeWaX.png)
 
-{{< data-modules/stats-highlight title="Key Appraisal Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Appraisal Insights" columns="3" / / />}}
 
 Professional appraisers distinguish between several different values, including:
 
@@ -133,13 +133,13 @@ While casual opinions from antique dealers or online research can give you a gen
 According to industry professionals, appraisals can reveal surprising values—sometimes significantly higher or lower than owners expect. This objective information helps you make informed decisions about insurance coverage, potential sales, or even restoration investments.
 
 {{< interactive-modules/condition-checklist title="When You Need a Professional Appraisal" description="Check applicable scenarios where you should seek a professional furniture appraisal" >}}
-  {{< interactive-modules/checklist-item label="Insurance coverage for valuable antiques" / />}}
-  {{< interactive-modules/checklist-item label="Estate planning or division of assets" / />}}
-  {{< interactive-modules/checklist-item label="Donation to a museum or charity" / />}}
-  {{< interactive-modules/checklist-item label="Tax purposes for inheritance or charitable giving" / />}}
-  {{< interactive-modules/checklist-item label="Potential sale at auction or to a dealer" / />}}
-  {{< interactive-modules/checklist-item label="Divorce proceedings requiring asset valuation" / />}}
-  {{< interactive-modules/checklist-item label="Verification of authenticity for a significant purchase" / />}}
+  {{< interactive-modules/checklist-item label="Insurance coverage for valuable antiques" / / />}}
+  {{< interactive-modules/checklist-item label="Estate planning or division of assets" / / />}}
+  {{< interactive-modules/checklist-item label="Donation to a museum or charity" / / />}}
+  {{< interactive-modules/checklist-item label="Tax purposes for inheritance or charitable giving" / / />}}
+  {{< interactive-modules/checklist-item label="Potential sale at auction or to a dealer" / / />}}
+  {{< interactive-modules/checklist-item label="Divorce proceedings requiring asset valuation" / / />}}
+  {{< interactive-modules/checklist-item label="Verification of authenticity for a significant purchase" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Antique appraiser using a loupe to examine furniture details and maker's marks](https://ik.imagekit.io/appraisily/SEO/antique-furniture-appraisal-near-me/antique-furniture-appraisal-near-me-image-3_SW1ZpIqPbp.png)

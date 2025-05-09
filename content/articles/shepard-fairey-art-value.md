@@ -99,7 +99,7 @@ In 2023, Fairey's "HOPE" poster sold for $950,000 at Santa Monica Auctions, sett
 
 Before this, the record stood at $112,500 for the piece "Arab Woman" (2006), which sold on October 10, 2018, at Heritage Auctions. This demonstrates the significant appreciation of Fairey's most important works over a relatively short period.
 
-{{< data-modules/stats-highlight title="Shepard Fairey Market Highlights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Shepard Fairey Market Highlights" columns="3" / / />}}
 
 {{< data-modules/price-table title="Shepard Fairey Art Value Ranges" description="Current market value ranges by format and edition size" >}}
   <tr>
@@ -227,14 +227,14 @@ Given the significant values now attached to Shepard Fairey's work, authenticati
 ![Close-up of a Shepard Fairey signature and edition numbering on limited print](https://ik.imagekit.io/appraisily/SEO/shepard-fairey-art-value/shepard-fairey-art-value-image-4_Q4NtCtv3P.png)
 
 {{< interactive-modules/condition-checklist title="Shepard Fairey Authentication Checklist" description="Key elements to verify when authenticating Shepard Fairey artwork" >}}
-  {{< interactive-modules/checklist-item label="Signature verification (compare to known authentic signatures)" / />}}
-  {{< interactive-modules/checklist-item label="Edition numbering format (when applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Paper quality and printing technique" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity from official sources" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation" / />}}
-  {{< interactive-modules/checklist-item label="Purchase history from authorized galleries or retailers" / />}}
-  {{< interactive-modules/checklist-item label="Verification of consistent paper size with known editions" / />}}
-  {{< interactive-modules/checklist-item label="Examination under UV light for security features (newer works)" / />}}
+  {{< interactive-modules/checklist-item label="Signature verification (compare to known authentic signatures)" / / />}}
+  {{< interactive-modules/checklist-item label="Edition numbering format (when applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Paper quality and printing technique" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity from official sources" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Purchase history from authorized galleries or retailers" / / />}}
+  {{< interactive-modules/checklist-item label="Verification of consistent paper size with known editions" / / />}}
+  {{< interactive-modules/checklist-item label="Examination under UV light for security features (newer works)" / / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Fairey's official studio, Obey Giant Art, produces and sells authentic work directly through their website and authorized galleries. Works purchased from these sources typically include proper documentation and certificates of authenticity.
