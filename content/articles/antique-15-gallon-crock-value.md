@@ -15,7 +15,23 @@ meta_title: "Antique 15 Gallon Crock Value: Complete Price Guide for Collectors"
 meta_description: "Expert guide to antique 15 gallon crock values. Learn how to identify valuable markings, assess condition, and get current market prices for these rare stoneware pieces."
 canonical_url: "https://appraisily.com/antique-15-gallon-crock-value/"
 keywords: "antique 15 gallon crock value, antique stoneware crock, Red Wing crock value, 15 gallon crock price, vintage stoneware valuation, collectible crocks, antique pottery pricing"
-structured_data: '{"@context":"https://schema.org","@type":"Article","headline":"Antique 15 Gallon Crock Value Guide: What Collectors Are Paying in 2024","description":"Discover what your antique 15 gallon crock is worth in today's market. Learn how to identify valuable markings, assess condition, and get the best price for your stoneware collectible.","image":"https://ik.imagekit.io/appraisily/SEO/antique-15-gallon-crock-value/antique-15-gallon-crock-value-image-1_sLAsCAzBY.png","author":{"@type":"Organization","name":"Appraisily Team"},"publisher":{"@type":"Organization","name":"Appraisily","logo":{"@type":"ImageObject","url":"https://appraisily.com/logo.png"}},"datePublished":"2024-05-12T10:30:00-04:00","dateModified":"2024-05-12T10:30:00-04:00"}'
+structured_data:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  headline: "Antique 15 Gallon Crock Value Guide: What Collectors Are Paying in 2024"
+  description: "Discover what your antique 15 gallon crock is worth in today's market. Learn how to identify valuable markings, assess condition, and get the best price for your stoneware collectible."
+  image: "https://ik.imagekit.io/appraisily/SEO/antique-15-gallon-crock-value/antique-15-gallon-crock-value-image-1_sLAsCAzBY.png"
+  author:
+    "@type": "Organization"
+    name: "Appraisily Team"
+  publisher:
+    "@type": "Organization"
+    name: "Appraisily"
+    logo:
+      "@type": "ImageObject"
+      url: "https://appraisily.com/logo.png"
+  datePublished: "2024-05-12T10:30:00-04:00"
+  dateModified: "2024-05-12T10:30:00-04:00"
 ---
 
 {{< content-modules/section-header title="Understanding the Value of Antique 15 Gallon Crocks" level="2" >}}

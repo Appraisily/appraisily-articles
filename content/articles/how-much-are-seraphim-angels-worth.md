@@ -1,18 +1,12 @@
 ---
 title: How Much Are Seraphim Angels Worth? A Collector's Price Guide
-description: >-
-  Discover the market value of Seraphim Angels figurines. This comprehensive
-  guide covers pricing factors, identification tips, and current values for
-  these beloved collectibles.
+description: Discover the market value of Seraphim Angels figurines. This comprehensive guide covers pricing factors, identification tips, and current values for these beloved collectibles.
 slug: how-much-are-seraphim-angels-worth
 date: 2023-10-25T14:30:00.000Z
 lastmod: 2023-10-25T14:30:00.000Z
 draft: false
-featured_image: >-
-  https://ik.imagekit.io/appraisily/SEO/how-much-are-seraphim-angels-worth/how-much-are-seraphim-angels-worth-image-1_O0RQ8LesP.png
-image_alt: >-
-  Collection of Seraphim Angels figurines with price tags showing their market
-  value
+featured_image: https://ik.imagekit.io/appraisily/SEO/how-much-are-seraphim-angels-worth/how-much-are-seraphim-angels-worth-image-1_O0RQ8LesP.png
+image_alt: Collection of Seraphim Angels figurines with price tags showing their market value
 category: Collectibles
 type: article
 author:
@@ -20,38 +14,27 @@ author:
   name: Appraisily Team
 featured: true
 meta_title: How Much Are Seraphim Angels Worth in 2023? Value Guide & Price Chart
-meta_description: >-
-  Expert guide on Seraphim Angels figurine values. Learn what determines prices,
-  how to identify rare pieces, and current market rates for these collectible
-  porcelain angels.
-canonical_url: 'https://www.appraisily.com/how-much-are-seraphim-angels-worth/'
-keywords: >-
-  Seraphim Angels worth, Seraphim Classics value, Roman angel figurines,
-  collectible angels, vintage Seraphim Angels, rare Seraphim Angels, Seraphim
-  Angels price guide
-structured_data: |-
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "How Much Are Seraphim Angels Worth? A Collector's Price Guide",
-    "description": "Discover the market value of Seraphim Angels figurines. This comprehensive guide covers pricing factors, identification tips, and current values for these beloved collectibles.",
-    "image": "https://ik.imagekit.io/appraisily/SEO/how-much-are-seraphim-angels-worth/how-much-are-seraphim-angels-worth-image-1_O0RQ8LesP.png",
-    "author": {
-      "@type": "Organization",
-      "name": "Appraisily Team"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Appraisily",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://www.appraisily.com/logo.png"
-      }
-    },
-    "datePublished": "2023-10-25T10:30:00-04:00",
-    "dateModified": "2023-10-25T10:30:00-04:00"
-  }
-'@context': 'https://schema.org'
+meta_description: Expert guide on Seraphim Angels figurine values. Learn what determines prices, how to identify rare pieces, and current market rates for these collectible porcelain angels.
+canonical_url: https://www.appraisily.com/how-much-are-seraphim-angels-worth/
+keywords: Seraphim Angels worth, Seraphim Classics value, Roman angel figurines, collectible angels, vintage Seraphim Angels, rare Seraphim Angels, Seraphim Angels price guide
+structured_data:
+  '@context': https://schema.org
+  '@type': Article
+  headline: How Much Are Seraphim Angels Worth? A Collector's Price Guide
+  description: Discover the market value of Seraphim Angels figurines. This comprehensive guide covers pricing factors, identification tips, and current values for these beloved collectibles.
+  image: https://ik.imagekit.io/appraisily/SEO/how-much-are-seraphim-angels-worth/how-much-are-seraphim-angels-worth-image-1_O0RQ8LesP.png
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: https://www.appraisily.com/logo.png
+  datePublished: '2023-10-25T10:30:00-04:00'
+  dateModified: '2023-10-25T10:30:00-04:00'
+'@context': https://schema.org
 '@type': Article
 headline: How Much Are Seraphim Angels Worth? A Collector's Price Guide
 publisher:
@@ -59,23 +42,20 @@ publisher:
   name: Appraisily
   logo:
     '@type': ImageObject
-    url: 'https://www.appraisily.com/logo.png'
+    url: https://www.appraisily.com/logo.png
     width: '600'
     height: '60'
 datePublished: '2023-10-25T14:30:00.000Z'
 dateModified: '2023-10-25T14:30:00.000Z'
 image:
   '@type': ImageObject
-  url: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-are-seraphim-angels-worth/how-much-are-seraphim-angels-worth-image-1_O0RQ8LesP.png
+  url: https://ik.imagekit.io/appraisily/SEO/how-much-are-seraphim-angels-worth/how-much-are-seraphim-angels-worth-image-1_O0RQ8LesP.png
   width: '1200'
   height: '630'
-  caption: >-
-    Collection of Seraphim Angels figurines with price tags showing their market
-    value and collectible worth
+  caption: Collection of Seraphim Angels figurines with price tags showing their market value and collectible worth
 mainEntityOfPage:
   '@type': WebPage
-  '@id': 'https://www.appraisily.com/how-much-are-seraphim-angels-worth/'
+  '@id': https://www.appraisily.com/how-much-are-seraphim-angels-worth/
 ---
 
 {{< content-modules/section-header title="Introduction to Seraphim Angels" level="2" >}}

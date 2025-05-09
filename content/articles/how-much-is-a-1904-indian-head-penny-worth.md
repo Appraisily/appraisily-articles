@@ -1,18 +1,12 @@
 ---
 title: '1904 Indian Head Penny Value Guide: What It''s Worth Today (2023)'
-description: >-
-  Discover the true value of a 1904 Indian Head penny in today's market. Learn
-  about condition grades, mintage history, error varieties, and how to determine
-  if your coin is worth $3 or over $5,000.
+description: Discover the true value of a 1904 Indian Head penny in today's market. Learn about condition grades, mintage history, error varieties, and how to determine if your coin is worth $3 or over $5,000.
 slug: how-much-is-a-1904-indian-head-penny-worth
 date: 2023-08-23T14:30:00.000Z
 lastmod: 2023-08-23T14:30:00.000Z
 draft: false
-featured_image: >-
-  https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1904-indian-head-penny-worth/how-much-is-a-1904-indian-head-penny-worth-image-1_y3mSYyY7s.png
-image_alt: >-
-  1904 Indian Head Penny showing obverse side featuring Liberty's profile with
-  headdress
+featured_image: https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1904-indian-head-penny-worth/how-much-is-a-1904-indian-head-penny-worth-image-1_y3mSYyY7s.png
+image_alt: 1904 Indian Head Penny showing obverse side featuring Liberty's profile with headdress
 category: Coins
 type: article
 author:
@@ -20,70 +14,53 @@ author:
   name: Appraisily Team
 featured: true
 meta_title: 1904 Indian Head Penny Value Guide (2023) - What Is It Worth Today?
-meta_description: >-
-  Learn the current value of a 1904 Indian Head penny based on condition,
-  errors, and rarity. Find out if your coin is worth $3 or potentially over
-  $5,000.
-canonical_url: 'https://appraisily.com/how-much-is-a-1904-indian-head-penny-worth/'
-keywords: >-
-  1904 Indian Head penny value, 1904 Indian cent worth, 1904 penny value, Indian
-  Head penny errors, 1904 coin value, Indian Head cent value, vintage penny
-  values, rare penny collection, 1904 proof penny, numismatic value
-structured_data: |
-  {
-    "@context": "https://schema.org/",
-    "@type": "Article",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://appraisily.com/how-much-is-a-1904-indian-head-penny-worth/"
-    },
-    "headline": "1904 Indian Head Penny Value Guide: What It's Worth Today (2023)",
-    "description": "Discover the true value of a 1904 Indian Head penny in today's market. Learn about condition grades, mintage history, error varieties, and how to determine if your coin is worth $3 or over $5,000.",
-    "image": {
-      "@type": "ImageObject",
-      "url": "https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1904-indian-head-penny-worth/how-much-is-a-1904-indian-head-penny-worth-image-1_y3mSYyY7s.png",
-      "width": "1200",
-      "height": "800"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Appraisily Team"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Appraisily",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://appraisily.com/images/logo.png",
-        "width": "600",
-        "height": "60"
-      }
-    },
-    "datePublished": "2023-08-23T10:30:00-04:00",
-    "dateModified": "2023-08-23T10:30:00-04:00"
-  }
-'@context': 'https://schema.org/'
+meta_description: Learn the current value of a 1904 Indian Head penny based on condition, errors, and rarity. Find out if your coin is worth $3 or potentially over $5,000.
+canonical_url: https://appraisily.com/how-much-is-a-1904-indian-head-penny-worth/
+keywords: 1904 Indian Head penny value, 1904 Indian cent worth, 1904 penny value, Indian Head penny errors, 1904 coin value, Indian Head cent value, vintage penny values, rare penny collection, 1904 proof penny, numismatic value
+structured_data:
+  '@context': https://schema.org/
+  '@type': Article
+  mainEntityOfPage:
+    '@type': WebPage
+    '@id': https://appraisily.com/how-much-is-a-1904-indian-head-penny-worth/
+  headline: '1904 Indian Head Penny Value Guide: What It''s Worth Today (2023)'
+  description: Discover the true value of a 1904 Indian Head penny in today's market. Learn about condition grades, mintage history, error varieties, and how to determine if your coin is worth $3 or over $5,000.
+  image:
+    '@type': ImageObject
+    url: https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1904-indian-head-penny-worth/how-much-is-a-1904-indian-head-penny-worth-image-1_y3mSYyY7s.png
+    width: '1200'
+    height: '800'
+  author:
+    '@type': Person
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: https://appraisily.com/images/logo.png
+      width: '600'
+      height: '60'
+  datePublished: '2023-08-23T10:30:00-04:00'
+  dateModified: '2023-08-23T10:30:00-04:00'
+'@context': https://schema.org/
 '@type': Article
 mainEntityOfPage:
   '@type': WebPage
-  '@id': 'https://appraisily.com/how-much-is-a-1904-indian-head-penny-worth/'
+  '@id': https://appraisily.com/how-much-is-a-1904-indian-head-penny-worth/
 headline: '1904 Indian Head Penny Value Guide: What It''s Worth Today (2023)'
 image:
   '@type': ImageObject
-  url: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1904-indian-head-penny-worth/how-much-is-a-1904-indian-head-penny-worth-image-1_y3mSYyY7s.png
+  url: https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1904-indian-head-penny-worth/how-much-is-a-1904-indian-head-penny-worth-image-1_y3mSYyY7s.png
   width: '1200'
   height: '630'
-  caption: >-
-    1904 Indian Head Penny showing obverse side featuring Liberty's profile with
-    Native American headdress, one of the final issues before the Lincoln cent
-    series
+  caption: 1904 Indian Head Penny showing obverse side featuring Liberty's profile with Native American headdress, one of the final issues before the Lincoln cent series
 publisher:
   '@type': Organization
   name: Appraisily
   logo:
     '@type': ImageObject
-    url: 'https://appraisily.com/images/logo.png'
+    url: https://appraisily.com/images/logo.png
     width: '600'
     height: '60'
 datePublished: '2023-08-23T14:30:00.000Z'

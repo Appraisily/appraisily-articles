@@ -1,18 +1,12 @@
 ---
 title: '1776-1976 Bicentennial Quarter Value Guide: What Your Coin Is Worth Today'
-description: >-
-  Discover the true value of your 1776-1976 Bicentennial quarter. Learn about
-  rare varieties, error coins worth thousands, and how to determine if your
-  quarter is valuable.
+description: Discover the true value of your 1776-1976 Bicentennial quarter. Learn about rare varieties, error coins worth thousands, and how to determine if your quarter is valuable.
 slug: how-much-is-a-1776-1976-quarter-worth
 date: 2023-10-24T14:30:00.000Z
 lastmod: 2023-10-24T14:30:00.000Z
 draft: false
-featured_image: >-
-  https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1776-1976-quarter-worth/how-much-is-a-1776-1976-quarter-worth-image-1_e6XfUxBSY.png
-image_alt: >-
-  1776-1976 Bicentennial Quarter - obverse and reverse sides showing the drummer
-  boy design
+featured_image: https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1776-1976-quarter-worth/how-much-is-a-1776-1976-quarter-worth-image-1_e6XfUxBSY.png
+image_alt: 1776-1976 Bicentennial Quarter - obverse and reverse sides showing the drummer boy design
 category: Coins
 type: article
 author:
@@ -20,48 +14,44 @@ author:
   name: Appraisily Team
 featured: true
 meta_title: 1776-1976 Bicentennial Quarter Value | How Much Is It Worth Today?
-meta_description: >-
-  Expert guide on 1776-1976 Bicentennial quarter values, from common circulated
-  coins to rare error varieties worth thousands. Learn what makes these
-  commemorative quarters valuable.
-canonical_url: 'https://appraisily.com/how-much-is-a-1776-1976-quarter-worth/'
-keywords: >-
-  1776-1976 quarter value, Bicentennial quarter worth, 1776-1976 D quarter
-  value, 1776-1976 S quarter value, Bicentennial quarter no mint mark,
-  Bicentennial quarter errors, drummer boy quarter value, rare Bicentennial
-  quarters, valuable quarters
-structured_data: >-
-  { "@context": "https://schema.org", "@type": "Article", "headline": "1776-1976
-  Bicentennial Quarter Value Guide: What Your Coin Is Worth Today",
-  "description": "Discover the true value of your 1776-1976 Bicentennial
-  quarter. Learn about rare varieties, error coins worth thousands, and how to
-  identify if your quarter is valuable.", "image":
-  "https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1776-1976-quarter-worth/how-much-is-a-1776-1976-quarter-worth-image-1_e6XfUxBSY.png",
-  "author": { "@type": "Organization", "name": "Appraisily Team" }, "publisher":
-  { "@type": "Organization", "name": "Appraisily", "logo": { "@type":
-  "ImageObject", "url": "https://appraisily.com/logo.png" } }, "datePublished":
-  "2023-10-24T10:30:00-04:00", "dateModified": "2023-10-24T10:30:00-04:00" }
-'@context': 'https://schema.org'
+meta_description: Expert guide on 1776-1976 Bicentennial quarter values, from common circulated coins to rare error varieties worth thousands. Learn what makes these commemorative quarters valuable.
+canonical_url: https://appraisily.com/how-much-is-a-1776-1976-quarter-worth/
+keywords: 1776-1976 quarter value, Bicentennial quarter worth, 1776-1976 D quarter value, 1776-1976 S quarter value, Bicentennial quarter no mint mark, Bicentennial quarter errors, drummer boy quarter value, rare Bicentennial quarters, valuable quarters
+structured_data:
+  '@context': https://schema.org
+  '@type': Article
+  headline: '1776-1976 Bicentennial Quarter Value Guide: What Your Coin Is Worth Today'
+  description: Discover the true value of your 1776-1976 Bicentennial quarter. Learn about rare varieties, error coins worth thousands, and how to identify if your quarter is valuable.
+  image: https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1776-1976-quarter-worth/how-much-is-a-1776-1976-quarter-worth-image-1_e6XfUxBSY.png
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: https://appraisily.com/logo.png
+  datePublished: '2023-10-24T10:30:00-04:00'
+  dateModified: '2023-10-24T10:30:00-04:00'
+'@context': https://schema.org
 '@type': Article
 headline: '1776-1976 Bicentennial Quarter Value Guide: What Your Coin Is Worth Today'
 image:
   '@type': ImageObject
-  url: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1776-1976-quarter-worth/how-much-is-a-1776-1976-quarter-worth-image-1_e6XfUxBSY.png
+  url: https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1776-1976-quarter-worth/how-much-is-a-1776-1976-quarter-worth-image-1_e6XfUxBSY.png
   width: '1200'
   height: '630'
-  caption: >-
-    1776-1976 Bicentennial Quarter showing both obverse and reverse sides with
-    the distinctive drummer boy design
+  caption: 1776-1976 Bicentennial Quarter showing both obverse and reverse sides with the distinctive drummer boy design
 publisher:
   '@type': Organization
   name: Appraisily
   logo:
     '@type': ImageObject
-    url: 'https://appraisily.com/logo.png'
+    url: https://appraisily.com/logo.png
 datePublished: '2023-10-24T14:30:00.000Z'
 dateModified: '2023-10-24T14:30:00.000Z'
-mainEntityOfPage: 'https://articles.appraisily.com/articles/how-much-is-a-1776-1976-quarter-worth'
+mainEntityOfPage: https://articles.appraisily.com/articles/how-much-is-a-1776-1976-quarter-worth
 ---
 
 {{< content-modules/section-header title="Introduction to the 1776-1976 Bicentennial Quarter" level="2" >}}

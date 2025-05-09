@@ -1,20 +1,12 @@
 ---
-title: >-
-  Old Barbie Dolls Value Guide: Discover What Your Vintage Barbies Are Worth in
-  2024
-description: >-
-  Learn how much old Barbie dolls are worth with our comprehensive value guide.
-  Discover pricing for vintage Barbies from the 1950s through 1990s and identify
-  valuable collector's items.
+title: 'Old Barbie Dolls Value Guide: Discover What Your Vintage Barbies Are Worth in 2024'
+description: Learn how much old Barbie dolls are worth with our comprehensive value guide. Discover pricing for vintage Barbies from the 1950s through 1990s and identify valuable collector's items.
 slug: how-much-are-old-barbie-dolls-worth
 date: 2024-10-15T14:30:00.000Z
 lastmod: 2024-10-15T14:30:00.000Z
 draft: false
-featured_image: >-
-  https://ik.imagekit.io/appraisily/SEO/how-much-are-old-barbie-dolls-worth/how-much-are-old-barbie-dolls-worth-image-1_srG7QaCjj.png
-image_alt: >-
-  Collection of vintage Barbie dolls from various decades showing their value
-  and collectibility
+featured_image: https://ik.imagekit.io/appraisily/SEO/how-much-are-old-barbie-dolls-worth/how-much-are-old-barbie-dolls-worth-image-1_srG7QaCjj.png
+image_alt: Collection of vintage Barbie dolls from various decades showing their value and collectibility
 category: Toys & Collectibles
 type: article
 author:
@@ -22,66 +14,49 @@ author:
   name: Appraisily Team
 featured: true
 meta_title: 'Old Barbie Dolls Value Guide: What Are Vintage Barbies Worth in 2024?'
-meta_description: >-
-  Expert guide to vintage Barbie doll values. Find out how much your old Barbie
-  dolls are worth based on age, condition, rarity, and more with our
-  comprehensive price guide.
-canonical_url: 'https://www.appraisily.com/how-much-are-old-barbie-dolls-worth/'
-keywords: >-
-  old Barbie dolls worth, vintage Barbie value, Barbie price guide, collectible
-  Barbie dolls, rare Barbie value, 1959 original Barbie, 90s Barbies worth,
-  Barbie collector guide
-structured_data: |
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Old Barbie Dolls Value Guide: Discover What Your Vintage Barbies Are Worth in 2024",
-    "description": "Learn how much old Barbie dolls are worth with our comprehensive value guide. Discover pricing for vintage Barbies from the 1950s through 1990s and identify valuable collector's items.",
-    "image": "https://ik.imagekit.io/appraisily/SEO/how-much-are-old-barbie-dolls-worth/how-much-are-old-barbie-dolls-worth-image-1_srG7QaCjj.png",
-    "author": {
-      "@type": "Organization",
-      "name": "Appraisily Team"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Appraisily",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://www.appraisily.com/logo.png"
-      }
-    },
-    "datePublished": "2024-10-15T10:30:00-04:00",
-    "dateModified": "2024-10-15T10:30:00-04:00",
-    "mainEntity": {
-      "@type": "WebPage",
-      "name": "How Much Are Old Barbie Dolls Worth"
-    }
-  }
-'@context': 'https://schema.org'
+meta_description: Expert guide to vintage Barbie doll values. Find out how much your old Barbie dolls are worth based on age, condition, rarity, and more with our comprehensive price guide.
+canonical_url: https://www.appraisily.com/how-much-are-old-barbie-dolls-worth/
+keywords: old Barbie dolls worth, vintage Barbie value, Barbie price guide, collectible Barbie dolls, rare Barbie value, 1959 original Barbie, 90s Barbies worth, Barbie collector guide
+structured_data:
+  '@context': https://schema.org
+  '@type': Article
+  headline: 'Old Barbie Dolls Value Guide: Discover What Your Vintage Barbies Are Worth in 2024'
+  description: Learn how much old Barbie dolls are worth with our comprehensive value guide. Discover pricing for vintage Barbies from the 1950s through 1990s and identify valuable collector's items.
+  image: https://ik.imagekit.io/appraisily/SEO/how-much-are-old-barbie-dolls-worth/how-much-are-old-barbie-dolls-worth-image-1_srG7QaCjj.png
+  author:
+    '@type': Organization
+    name: Appraisily Team
+  publisher:
+    '@type': Organization
+    name: Appraisily
+    logo:
+      '@type': ImageObject
+      url: https://www.appraisily.com/logo.png
+  datePublished: '2024-10-15T10:30:00-04:00'
+  dateModified: '2024-10-15T10:30:00-04:00'
+  mainEntity:
+    '@type': WebPage
+    name: How Much Are Old Barbie Dolls Worth
+'@context': https://schema.org
 '@type': Article
-headline: >-
-  Old Barbie Dolls Value Guide: Discover What Your Vintage Barbies Are Worth in
-  2024
+headline: 'Old Barbie Dolls Value Guide: Discover What Your Vintage Barbies Are Worth in 2024'
 publisher:
   '@type': Organization
   name: Appraisily
   logo:
     '@type': ImageObject
-    url: 'https://www.appraisily.com/logo.png'
+    url: https://www.appraisily.com/logo.png
     width: '600'
     height: '60'
 datePublished: '2024-10-15T14:30:00.000Z'
 dateModified: '2024-10-15T14:30:00.000Z'
 image:
   '@type': ImageObject
-  url: >-
-    https://ik.imagekit.io/appraisily/SEO/how-much-are-old-barbie-dolls-worth/how-much-are-old-barbie-dolls-worth-image-1_srG7QaCjj.png
+  url: https://ik.imagekit.io/appraisily/SEO/how-much-are-old-barbie-dolls-worth/how-much-are-old-barbie-dolls-worth-image-1_srG7QaCjj.png
   width: '1200'
   height: '630'
-  caption: >-
-    Collection of vintage Barbie dolls from various decades showing their value
-    and collectibility
-mainEntityOfPage: 'https://www.appraisily.com/how-much-are-old-barbie-dolls-worth/'
+  caption: Collection of vintage Barbie dolls from various decades showing their value and collectibility
+mainEntityOfPage: https://www.appraisily.com/how-much-are-old-barbie-dolls-worth/
 ---
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-much-are-old-barbie-dolls-worth/how-much-are-old-barbie-dolls-worth-image-1_srG7QaCjj.png" alt="Collection of vintage Barbie dolls from various decades showing their value and collectibility" caption="Vintage Barbie dolls can be worth hundreds or even thousands of dollars to collectors depending on era, condition, and rarity." />}}
