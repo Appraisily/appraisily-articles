@@ -201,7 +201,7 @@ Specialized collectors may focus on specific types of decorative bells, such as:
 - Figural bells shaped like animals or people
 - Souvenir bells from locations around the world
 
-{{< data-modules/stats-highlight title="Antique Bell Market Statistics" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Antique Bell Market Statistics" columns="3" / />}}
   <div class="stat-card">
     <div class="stat-value">287%</div>
     <div class="stat-label">Value Increase</div>

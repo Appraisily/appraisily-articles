@@ -84,7 +84,7 @@ Art appraisal fees can vary dramatically based on multiple factors, from the app
   Professional art appraisals typically follow one of two pricing models: hourly rates or flat fees. Understanding these structures can help you anticipate costs and budget accordingly.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Art Appraisal Cost Averages (2024)" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Cost Averages (2024)" columns="3" / />}}
   <div class="stat-card">
     <div class="stat-value">$150-$500</div>
     <div class="stat-label">Hourly Rate</div>

@@ -195,7 +195,7 @@ According to [1stDibs](https://www.1stdibs.com/creators/louis-icart/art/), "the 
 
 ![Louis Icart artwork showing his distinctive style and color palette](https://ik.imagekit.io/appraisily/SEO/louis-icart-paintings-value/louis-icart-paintings-value-image-4_aUzlCl6DC.png)
 
-{{< data-modules/stats-highlight title="Louis Icart Market Statistics" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Louis Icart Market Statistics" columns="3" / />}}
   <div class="stat-card" style="color: var(--stats-blue)">
     <div class="stat-value">3,499th</div>
     <div class="stat-label">Ranking Among Artists</div>

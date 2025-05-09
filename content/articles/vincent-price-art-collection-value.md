@@ -98,7 +98,7 @@ The Vincent Price Art Collection represents a fascinating intersection of celebr
 
 This comprehensive guide explores the history, components, and current value of items from the Vincent Price Collection, providing essential information for collectors, art enthusiasts, and those curious about this unique aspect of American cultural history.
 
-{{< data-modules/stats-highlight title="Vincent Price Collection Quick Facts" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Vincent Price Collection Quick Facts" columns="3" / />}}
   <tr>
     <td>1962-1971</td>
     <td>Active Years at Sears</td>

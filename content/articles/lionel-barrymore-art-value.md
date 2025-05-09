@@ -223,7 +223,7 @@ According to data from [MutualArt](https://www.mutualart.com/Artist/Lionel-Barry
 Several key factors significantly impact the market value of Lionel Barrymore's artwork. Understanding these can help collectors make informed purchasing decisions and accurate valuations.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / />}}
 <tr>
   <td style="text-align: center;"><strong>5-10x</strong></td>
   <td style="text-align: center;">Value difference between original etchings and gold foil reproductions</td>

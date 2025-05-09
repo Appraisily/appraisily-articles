@@ -271,7 +271,7 @@ Recent significant sales highlight the high-end market for these automatons:
   </tr>
 {{< /auction-results >}}
 
-{{< data-modules/stats-highlight title="Market Insights" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Market Insights" columns="3" / />}}
   <tr>
     <td>60%</td>
     <td>Value Premium for Original Box</td>

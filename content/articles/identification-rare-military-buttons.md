@@ -192,7 +192,7 @@ Material analysis can provide crucial dating information:
 - **Silver-plated**: Often found on officer's buttons
 - **Gilt**: Gold-washed brass, popular for dress uniforms
 
-{{< data-modules/stats-highlight title="Military Button Collecting Facts" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Military Button Collecting Facts" columns="3" / />}}
   <div class="stat-card green">
     <div class="stat-value">13</div>
     <div class="stat-label">Stars</div>

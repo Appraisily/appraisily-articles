@@ -200,7 +200,7 @@ Regimental steins are a specialized category commemorating military service, pri
 - Battle scenes or military activities
 - Personalization to the original owner
 
-{{< data-modules/stats-highlight title="German Beer Stein Market Statistics" columns="3"  / />}}
+{{< data-modules/stats-highlight title="German Beer Stein Market Statistics" columns="3" / />}}
   <tr>
     <td><strong>200-300%</strong><br>Value increase for rare regimental steins in the past decade</td>
     <td><strong>$7,000</strong><br>Record price for a 1900 German Regimental stein</td>
@@ -456,7 +456,7 @@ Documented history adds significantly to value:
 - Historical documentation
 - Original packaging or certificates
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / />}}
   <tr>
     <td><strong>40-60%</strong><br>Value reduction for steins with repairs or significant damage</td>
     <td><strong>25-35%</strong><br>Premium for steins with documented historical provenance</td>

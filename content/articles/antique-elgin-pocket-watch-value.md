@@ -169,7 +169,7 @@ The value of an antique Elgin pocket watch is determined by several key factors,
 
 ![Open Elgin pocket watch showing detailed gold case and watch face](https://ik.imagekit.io/appraisily/SEO/antique-elgin-pocket-watch-value/antique-elgin-pocket-watch-value-image-3_FV4fZU1m7.png)
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / />}}
 <div class="stat-card blue">
   <div class="stat-value">30-50%</div>
   <div class="stat-label">Premium for Railroad Grades</div>

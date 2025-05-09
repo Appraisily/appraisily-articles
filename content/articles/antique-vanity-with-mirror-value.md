@@ -140,7 +140,7 @@ Understanding the historical context of your vanity helps not only with accurate
 Several essential factors determine the market value of an antique vanity with mirror. Understanding these elements will help you better assess what your piece might be worth.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / />}}
   <div class="stat-card">
     <div class="stat-value">40-60%</div>
     <div class="stat-label">Condition Impact</div>

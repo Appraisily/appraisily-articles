@@ -161,7 +161,7 @@ Multiple elements determine the market value of antique and vintage record playe
 
 ![Mid-century modern record player cabinet with open turntable compartment](https://ik.imagekit.io/appraisily/SEO/antique-record-player-cabinet-value/antique-record-player-cabinet-value-image-3_oV7b9gfmk.png)
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / />}}
   <tr>
     <td><strong>Age</strong></td>
     <td>30-60%</td>

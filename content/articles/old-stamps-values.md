@@ -108,7 +108,7 @@ Contrary to popular belief, age alone doesn't make a stamp valuable. While many 
 
 Of that remaining 2%, about half are worth between $10 and $100, while the truly valuable stamps—just 1% of all stamps in existence—can command prices ranging from hundreds to millions of dollars.
 
-{{< data-modules/stats-highlight title="Stamp Value Distribution" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Stamp Value Distribution" columns="3" / />}}
   <div class="stat-card blue">
     <div class="stat-value">98%</div>
     <div class="stat-label">Worth Face Value</div>
@@ -354,7 +354,7 @@ Before seeking professional appraisal, you can conduct preliminary research usin
 
 For valuable collections or rare stamps, professional appraisal is recommended:
 
-{{< data-modules/stats-highlight title="Professional Appraisal Methods" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Professional Appraisal Methods" columns="3" / />}}
   <div class="stat-card blue">
     <div class="stat-value">Local</div>
     <div class="stat-label">Stamp Dealers</div>

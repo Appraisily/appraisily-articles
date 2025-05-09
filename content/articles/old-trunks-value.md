@@ -204,7 +204,7 @@ Multiple elements contribute to an antique trunk's market value beyond just its 
 
 When evaluating an old trunk's potential worth, consider these critical factors that collectors and appraisers use to determine value:
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / />}}
   <tr>
     <td>Manufacturer</td>
     <td>+300%</td>

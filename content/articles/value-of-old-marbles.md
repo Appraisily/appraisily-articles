@@ -250,7 +250,7 @@ Marbles with documented historical significance can command premium prices. Exam
 - First-run production examples from notable manufacturers
 - Experimental or prototype designs that never went into full production
 
-{{< data-modules/stats-highlight title="Collectible Marble Market Statistics" columns="3"  / />}}
+{{< data-modules/stats-highlight title="Collectible Marble Market Statistics" columns="3" / />}}
   <tr>
     <td>
       <div class="stat-card stat-card-green">
