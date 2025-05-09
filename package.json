@@ -51,6 +51,7 @@
     "crypto": "^1.0.1",
     "dotenv": "^16.4.5",
     "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
     "replace-in-file": "^8.3.0"
   },
   "devDependencies": {

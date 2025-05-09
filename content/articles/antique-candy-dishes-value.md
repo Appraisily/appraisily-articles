@@ -15,7 +15,23 @@ meta_title: "Antique Candy Dishes Value Guide: Pricing, Identification, and Hist
 meta_description: "Learn how to identify valuable antique candy dishes, understand pricing factors, and discover rare collectible pieces with our expert valuation guide."
 canonical_url: "https://appraisily.com/antique-candy-dishes-value/"
 keywords: "antique candy dishes value, vintage candy dishes, candy dish identification, rare candy dishes, glass candy dish value, candy dish with lid value, antique glass candy dishes, collectible candy dishes"
-structured_data: '{"@context":"https://schema.org","@type":"Article","headline":"Antique Candy Dishes Value: Collector\'s Guide to Identifying and Pricing","description":"Discover the true value of antique candy dishes with our comprehensive guide covering rare pieces, glass varieties, pricing factors, and expert identification tips.","image":"https://ik.imagekit.io/appraisily/SEO/antique-candy-dishes-value/antique-candy-dishes-value-image-1_w-EzJPNnV.png","author":{"@type":"Organization","name":"Appraisily Team"},"publisher":{"@type":"Organization","name":"Appraisily","logo":{"@type":"ImageObject","url":"https://appraisily.com/logo.png"}},"datePublished":"2023-07-26","dateModified":"2023-07-26"}'
+structured_data:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  headline: "Antique Candy Dishes Value: Collector's Guide to Identifying and Pricing"
+  description: "Discover the true value of antique candy dishes with our comprehensive guide covering rare pieces, glass varieties, pricing factors, and expert identification tips."
+  image: "https://ik.imagekit.io/appraisily/SEO/antique-candy-dishes-value/antique-candy-dishes-value-image-1_w-EzJPNnV.png"
+  author:
+    "@type": "Organization"
+    name: "Appraisily Team"
+  publisher:
+    "@type": "Organization"
+    name: "Appraisily"
+    logo:
+      "@type": "ImageObject"
+      url: "https://appraisily.com/logo.png"
+  datePublished: "2023-07-26"
+  dateModified: "2023-07-26"
 ---
 
 ## Introduction to Antique Candy Dishes
