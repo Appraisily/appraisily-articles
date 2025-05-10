@@ -264,13 +264,13 @@ Once you've identified the manufacturer, pattern, and approximate age of your vi
 The condition of a vintage pocket knife significantly impacts its value. Most collectors use a standard grading scale:
 
 {{< interactive-modules/condition-checklist title="Vintage Pocket Knife Condition Assessment" description="Check factors that apply to evaluate your knife's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Mint (100%): No visible wear, original edges and finish, perfect operation" / / />}}
-  {{< interactive-modules/checklist-item label="Near Mint (95-99%): Very slight wear, original finish, excellent operation" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent (85-94%): Minor wear, no rust or pitting, smooth operation" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good (70-84%): Noticeable wear but well-maintained, clean blades" / / />}}
-  {{< interactive-modules/checklist-item label="Good (60-69%): Definite wear, possible light rust, functional but stiff" / / />}}
-  {{< interactive-modules/checklist-item label="Fair (50-59%): Heavy wear, possible blade issues, incomplete parts" / / />}}
-  {{< interactive-modules/checklist-item label="Poor (Below 50%): Significant damage, heavy rust, missing parts" / / />}}
+  {{< interactive-modules/checklist-item label="Mint (100%): No visible wear, original edges and finish, perfect operation" / />}}
+  {{< interactive-modules/checklist-item label="Near Mint (95-99%): Very slight wear, original finish, excellent operation" / />}}
+  {{< interactive-modules/checklist-item label="Excellent (85-94%): Minor wear, no rust or pitting, smooth operation" / />}}
+  {{< interactive-modules/checklist-item label="Very Good (70-84%): Noticeable wear but well-maintained, clean blades" / />}}
+  {{< interactive-modules/checklist-item label="Good (60-69%): Definite wear, possible light rust, functional but stiff" / />}}
+  {{< interactive-modules/checklist-item label="Fair (50-59%): Heavy wear, possible blade issues, incomplete parts" / />}}
+  {{< interactive-modules/checklist-item label="Poor (Below 50%): Significant damage, heavy rust, missing parts" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 When evaluating condition, pay special attention to:
@@ -456,13 +456,13 @@ These auction results reflect the premium market for exceptional examples. Most 
 Proper storage and maintenance are essential to preserving both the condition and value of vintage pocket knives:
 
 {{< interactive-modules/condition-checklist title="Vintage Knife Care Guidelines" description="Follow these practices to maintain your collection" >}}
-  {{< interactive-modules/checklist-item label="Store knives in a climate-controlled environment to prevent humidity damage" / / />}}
-  {{< interactive-modules/checklist-item label="Use individual soft pouches or display cases to prevent scratching" / / />}}
-  {{< interactive-modules/checklist-item label="Apply light mineral oil to blades for rust prevention" / / />}}
-  {{< interactive-modules/checklist-item label="Keep natural handle materials (bone, stag) lightly oiled to prevent drying" / / />}}
-  {{< interactive-modules/checklist-item label="Handle knives with clean hands or cotton gloves to prevent oils and acids" / / />}}
-  {{< interactive-modules/checklist-item label="Document your collection with photographs and detailed notes" / / />}}
-  {{< interactive-modules/checklist-item label="Keep original boxes, papers, and packaging whenever possible" / / />}}
+  {{< interactive-modules/checklist-item label="Store knives in a climate-controlled environment to prevent humidity damage" / />}}
+  {{< interactive-modules/checklist-item label="Use individual soft pouches or display cases to prevent scratching" / />}}
+  {{< interactive-modules/checklist-item label="Apply light mineral oil to blades for rust prevention" / />}}
+  {{< interactive-modules/checklist-item label="Keep natural handle materials (bone, stag) lightly oiled to prevent drying" / />}}
+  {{< interactive-modules/checklist-item label="Handle knives with clean hands or cotton gloves to prevent oils and acids" / />}}
+  {{< interactive-modules/checklist-item label="Document your collection with photographs and detailed notes" / />}}
+  {{< interactive-modules/checklist-item label="Keep original boxes, papers, and packaging whenever possible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 With proper care, vintage pocket knives can maintain their condition and value for generations, making them both enjoyable collectibles and potential family heirlooms.

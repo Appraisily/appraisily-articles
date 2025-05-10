@@ -272,11 +272,11 @@ Most quality antique plows featured some form of manufacturer identification, th
 ### Cleaning Techniques to Reveal Markings
 
 {{< interactive-modules/condition-checklist title="Marking Revelation Methods" description="Safe techniques for exposing hidden markings on antique plows" >}}
-  {{< interactive-modules/checklist-item label="Wire brush gentle cleaning to remove loose rust and dirt" / / />}}
-  {{< interactive-modules/checklist-item label="WD-40 application to loosen caked dirt and light rust" / / />}}
-  {{< interactive-modules/checklist-item label="Careful scraping with wooden or plastic tools to avoid damaging metal" / / />}}
-  {{< interactive-modules/checklist-item label="Rubbing with penetrating oil and fine steel wool for stubborn areas" / / />}}
-  {{< interactive-modules/checklist-item label="Taking clear photographs in raking light to highlight subtle cast marks" / / />}}
+  {{< interactive-modules/checklist-item label="Wire brush gentle cleaning to remove loose rust and dirt" / />}}
+  {{< interactive-modules/checklist-item label="WD-40 application to loosen caked dirt and light rust" / />}}
+  {{< interactive-modules/checklist-item label="Careful scraping with wooden or plastic tools to avoid damaging metal" / />}}
+  {{< interactive-modules/checklist-item label="Rubbing with penetrating oil and fine steel wool for stubborn areas" / />}}
+  {{< interactive-modules/checklist-item label="Taking clear photographs in raking light to highlight subtle cast marks" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 **Pro Tip:** If markings remain elusive, try rubbing a piece of chalk over suspected areas - the chalk will often highlight raised letters that are otherwise difficult to see.
@@ -382,11 +382,11 @@ If you're considering restoring an antique plow, understanding proper approaches
 ### To Restore or Preserve?
 
 {{< interactive-modules/condition-checklist title="When to Consider Restoration" description="Factors suggesting restoration might be appropriate" >}}
-  {{< interactive-modules/checklist-item label="The plow is a common model with limited collector value" / / />}}
-  {{< interactive-modules/checklist-item label="You intend to use it for demonstration purposes" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint is completely gone or deteriorated" / / />}}
-  {{< interactive-modules/checklist-item label="Functional components need repair for stability or display" / / />}}
-  {{< interactive-modules/checklist-item label="Wooden components are damaged or missing" / / />}}
+  {{< interactive-modules/checklist-item label="The plow is a common model with limited collector value" / />}}
+  {{< interactive-modules/checklist-item label="You intend to use it for demonstration purposes" / />}}
+  {{< interactive-modules/checklist-item label="Original paint is completely gone or deteriorated" / />}}
+  {{< interactive-modules/checklist-item label="Functional components need repair for stability or display" / />}}
+  {{< interactive-modules/checklist-item label="Wooden components are damaged or missing" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Many collectors prefer "conserved" rather than "restored" plows - meaning stabilized to prevent further deterioration but retaining their patina and evidence of use.

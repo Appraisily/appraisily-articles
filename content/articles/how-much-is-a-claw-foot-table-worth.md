@@ -143,14 +143,14 @@ The wood type and construction methods are crucial value indicators:
 ### Condition
 
 {{< interactive-modules/condition-checklist title="Claw Foot Table Condition Assessment" description="Check applicable items to assess your table's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="All claw feet intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="No major cracks or structural damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware present" / / />}}
-  {{< interactive-modules/checklist-item label="Table surface free of deep scratches or burns" / / />}}
-  {{< interactive-modules/checklist-item label="No significant repairs or replacements" / / />}}
-  {{< interactive-modules/checklist-item label="Proper functioning of any extension mechanisms" / / />}}
-  {{< interactive-modules/checklist-item label="Original leaves (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish in good condition" / />}}
+  {{< interactive-modules/checklist-item label="All claw feet intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="No major cracks or structural damage" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware present" / />}}
+  {{< interactive-modules/checklist-item label="Table surface free of deep scratches or burns" / />}}
+  {{< interactive-modules/checklist-item label="No significant repairs or replacements" / />}}
+  {{< interactive-modules/checklist-item label="Proper functioning of any extension mechanisms" / />}}
+  {{< interactive-modules/checklist-item label="Original leaves (if applicable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The condition of your claw foot table dramatically affects its value. Tables with original finishes, minimal damage, and all original components will command significantly higher prices than those with extensive restoration or replaced parts.

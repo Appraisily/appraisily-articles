@@ -180,11 +180,11 @@ Most antique shops will offer informal evaluations, hoping you might eventually 
 4. Be prepared for a verbal rather than written valuation
 
 {{< interactive-modules/condition-checklist title="Preparation Checklist for Dealer Appraisals" description="Before visiting an antique dealer for a free valuation, make sure you:" >}}
-  {{< interactive-modules/checklist-item label="Research the dealer's specialty to ensure they have expertise in your furniture type" / / />}}
-  {{< interactive-modules/checklist-item label="Take clear photos from multiple angles if you cannot bring the item" / / />}}
-  {{< interactive-modules/checklist-item label="Know basic information about the piece (age, origin, provenance if available)" / / />}}
-  {{< interactive-modules/checklist-item label="Have measurements of the furniture ready" / / />}}
-  {{< interactive-modules/checklist-item label="Understand that verbal appraisals are estimates, not official valuations" / / />}}
+  {{< interactive-modules/checklist-item label="Research the dealer's specialty to ensure they have expertise in your furniture type" / />}}
+  {{< interactive-modules/checklist-item label="Take clear photos from multiple angles if you cannot bring the item" / />}}
+  {{< interactive-modules/checklist-item label="Know basic information about the piece (age, origin, provenance if available)" / />}}
+  {{< interactive-modules/checklist-item label="Have measurements of the furniture ready" / />}}
+  {{< interactive-modules/checklist-item label="Understand that verbal appraisals are estimates, not official valuations" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Antique shop owner examining furniture details](https://ik.imagekit.io/appraisily/SEO/free-antique-furniture-valuations-near-me/free-antique-furniture-valuations-near-me-image-3_D8WW2s_3E.png)

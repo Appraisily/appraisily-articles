@@ -188,12 +188,12 @@ While regular 29¢ Elvis stamps have minimal premium value, certain factors can 
 Mint condition, never-hinged stamps always command the highest prices. Even minor defects like:
 
 {{< interactive-modules/condition-checklist title="Elvis Stamp Condition Assessment" description="Check for these factors that reduce stamp value" >}}
-  {{< interactive-modules/checklist-item label="Creases or folds in the paper" / / />}}
-  {{< interactive-modules/checklist-item label="Tears or rips (even microscopic ones)" / / />}}
-  {{< interactive-modules/checklist-item label="Damaged perforations around edges" / / />}}
-  {{< interactive-modules/checklist-item label="Discoloration or toning of the paper" / / />}}
-  {{< interactive-modules/checklist-item label="Gum damage on reverse (for mint stamps)" / / />}}
-  {{< interactive-modules/checklist-item label="Heavy cancellation marks (for used stamps)" / / />}}
+  {{< interactive-modules/checklist-item label="Creases or folds in the paper" / />}}
+  {{< interactive-modules/checklist-item label="Tears or rips (even microscopic ones)" / />}}
+  {{< interactive-modules/checklist-item label="Damaged perforations around edges" / />}}
+  {{< interactive-modules/checklist-item label="Discoloration or toning of the paper" / />}}
+  {{< interactive-modules/checklist-item label="Gum damage on reverse (for mint stamps)" / />}}
+  {{< interactive-modules/checklist-item label="Heavy cancellation marks (for used stamps)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### First Day Covers

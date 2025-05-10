@@ -263,20 +263,20 @@ While free art appraisals can be useful starting points, they come with signific
 6. **No physical examination** - Online appraisals rely solely on photos, missing crucial physical details that affect value.
 
 {{< interactive-modules/condition-checklist title="When Free Appraisals Are Sufficient" description="Free appraisals may be adequate when:" >}}
-  {{< interactive-modules/checklist-item label="You need a general idea of value range rather than a precise figure" / / />}}
-  {{< interactive-modules/checklist-item label="The artwork has sentimental rather than significant financial value" / / />}}
-  {{< interactive-modules/checklist-item label="You're deciding whether to invest in a professional appraisal" / / />}}
-  {{< interactive-modules/checklist-item label="You're curious about an artwork but not planning to sell or insure it" / / />}}
-  {{< interactive-modules/checklist-item label="You need basic identification of an artist or style" / / />}}
+  {{< interactive-modules/checklist-item label="You need a general idea of value range rather than a precise figure" / />}}
+  {{< interactive-modules/checklist-item label="The artwork has sentimental rather than significant financial value" / />}}
+  {{< interactive-modules/checklist-item label="You're deciding whether to invest in a professional appraisal" / />}}
+  {{< interactive-modules/checklist-item label="You're curious about an artwork but not planning to sell or insure it" / />}}
+  {{< interactive-modules/checklist-item label="You need basic identification of an artist or style" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< interactive-modules/condition-checklist title="When to Invest in Professional Appraisals" description="Consider paying for professional appraisal services when:" >}}
-  {{< interactive-modules/checklist-item label="You need documentation for insurance purposes" / / />}}
-  {{< interactive-modules/checklist-item label="The artwork is being donated with tax deduction intentions" / / />}}
-  {{< interactive-modules/checklist-item label="You're dividing assets in a divorce or estate" / / />}}
-  {{< interactive-modules/checklist-item label="You suspect the artwork may be extremely valuable" / / />}}
-  {{< interactive-modules/checklist-item label="You need legal documentation of value" / / />}}
-  {{< interactive-modules/checklist-item label="Authentication questions exist that require expert analysis" / / />}}
+  {{< interactive-modules/checklist-item label="You need documentation for insurance purposes" / />}}
+  {{< interactive-modules/checklist-item label="The artwork is being donated with tax deduction intentions" / />}}
+  {{< interactive-modules/checklist-item label="You're dividing assets in a divorce or estate" / />}}
+  {{< interactive-modules/checklist-item label="You suspect the artwork may be extremely valuable" / />}}
+  {{< interactive-modules/checklist-item label="You need legal documentation of value" / />}}
+  {{< interactive-modules/checklist-item label="Authentication questions exist that require expert analysis" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Prepare for a Free Art Appraisal" level="2" >}}

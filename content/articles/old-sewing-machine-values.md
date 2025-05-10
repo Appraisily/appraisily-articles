@@ -111,12 +111,12 @@ While age alone doesn't guarantee value, it's a significant factor when combined
 The condition of an antique sewing machine dramatically affects its value. Collectors and enthusiasts generally evaluate machines using the following criteria:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Key elements that determine a machine's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original finish and decals intact" / / />}}
-  {{< interactive-modules/checklist-item label="Mechanical parts working properly" / / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Original manual and accessories included" / / />}}
-  {{< interactive-modules/checklist-item label="Original cabinet or case in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Free from rust, damage, and excessive wear" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish and decals intact" / />}}
+  {{< interactive-modules/checklist-item label="Mechanical parts working properly" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Original manual and accessories included" / />}}
+  {{< interactive-modules/checklist-item label="Original cabinet or case in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Free from rust, damage, and excessive wear" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

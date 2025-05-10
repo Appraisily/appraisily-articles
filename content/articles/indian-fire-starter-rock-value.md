@@ -109,12 +109,12 @@ Distinguishing genuine Native American fire starter rocks from natural stones re
 When examining a potential fire starter rock, look for these key identification markers:
 
 {{< interactive-modules/condition-checklist title="Identification Checklist" description="Features to look for in authentic fire starter rocks" >}}
-{{< interactive-modules/checklist-item label="One or more cup-shaped depressions (pits)" / / />}}
-{{< interactive-modules/checklist-item label="Smooth, polished texture within the depressions" / / />}}
-{{< interactive-modules/checklist-item label="Evidence of pecking, grinding or intentional shaping" / / />}}
-{{< interactive-modules/checklist-item label="Discoloration from heat or use within the cups" / / />}}
-{{< interactive-modules/checklist-item label="Appropriately sized for hand use (typically palm-sized)" / / />}}
-{{< interactive-modules/checklist-item label="Made from durable stone material (granite, sandstone, etc.)" / / />}}
+{{< interactive-modules/checklist-item label="One or more cup-shaped depressions (pits)" / />}}
+{{< interactive-modules/checklist-item label="Smooth, polished texture within the depressions" / />}}
+{{< interactive-modules/checklist-item label="Evidence of pecking, grinding or intentional shaping" / />}}
+{{< interactive-modules/checklist-item label="Discoloration from heat or use within the cups" / />}}
+{{< interactive-modules/checklist-item label="Appropriately sized for hand use (typically palm-sized)" / />}}
+{{< interactive-modules/checklist-item label="Made from durable stone material (granite, sandstone, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The cup-shaped depressions are the most defining characteristic. In authentic specimens, these depressions typically:

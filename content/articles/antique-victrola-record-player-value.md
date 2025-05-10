@@ -207,14 +207,14 @@ Multiple factors influence the market value of an antique Victrola record player
 Condition is perhaps the single most important factor in determining value. The [Victor-Victrola Page](http://www.victor-victrola.com/Condition%20and%20Grading%20A.htm) notes that "The appraised value of an example in typical 'Fair' condition runs about $125.00 in the current market. An example in absolutely mint original condition might [be worth significantly more]."
 
 {{< interactive-modules/condition-checklist title="Victrola Condition Assessment Guide" description="Check all applicable items to help determine your Victrola's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Motor runs smoothly at consistent speed" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Cabinet has no significant damage (cracks, warping, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="All hardware is original and functional" / / />}}
-  {{< interactive-modules/checklist-item label="Sound reproduction is clear and strong" / / />}}
-  {{< interactive-modules/checklist-item label="Original horn or amplifier is present and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Turntable platter is level and spins freely" / / />}}
-  {{< interactive-modules/checklist-item label="Original decals and labels are present and legible" / / />}}
+  {{< interactive-modules/checklist-item label="Motor runs smoothly at consistent speed" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Cabinet has no significant damage (cracks, warping, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="All hardware is original and functional" / />}}
+  {{< interactive-modules/checklist-item label="Sound reproduction is clear and strong" / />}}
+  {{< interactive-modules/checklist-item label="Original horn or amplifier is present and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Turntable platter is level and spins freely" / />}}
+  {{< interactive-modules/checklist-item label="Original decals and labels are present and legible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 2. Model and Rarity

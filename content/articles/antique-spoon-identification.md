@@ -310,14 +310,14 @@ Certain maker's marks associated with renowned silversmiths can dramatically inc
 The condition of an antique spoon significantly impacts its value. Collectors should carefully examine spoons for:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Antique Spoons" description="Check applicable conditions that affect spoon value" >}}
-  {{< interactive-modules/checklist-item label="Bowl damage (dents or misshapen areas)" / / />}}
-  {{< interactive-modules/checklist-item label="Worn pattern details on the handle" / / />}}
-  {{< interactive-modules/checklist-item label="Repairs or soldering" / / />}}
-  {{< interactive-modules/checklist-item label="Monograms or engraving (can decrease value)" / / />}}
-  {{< interactive-modules/checklist-item label="Bend or twist to the handle" / / />}}
-  {{< interactive-modules/checklist-item label="Excessive polishing that's worn away details" / / />}}
-  {{< interactive-modules/checklist-item label="Splits at the junction of bowl and handle" / / />}}
-  {{< interactive-modules/checklist-item label="Dark tarnish or silver sulfide spots" / / />}}
+  {{< interactive-modules/checklist-item label="Bowl damage (dents or misshapen areas)" / />}}
+  {{< interactive-modules/checklist-item label="Worn pattern details on the handle" / />}}
+  {{< interactive-modules/checklist-item label="Repairs or soldering" / />}}
+  {{< interactive-modules/checklist-item label="Monograms or engraving (can decrease value)" / />}}
+  {{< interactive-modules/checklist-item label="Bend or twist to the handle" / />}}
+  {{< interactive-modules/checklist-item label="Excessive polishing that's worn away details" / />}}
+  {{< interactive-modules/checklist-item label="Splits at the junction of bowl and handle" / />}}
+  {{< interactive-modules/checklist-item label="Dark tarnish or silver sulfide spots" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 While minor wear consistent with age is expected and doesn't necessarily detract from value, significant damage like deep dents, repairs, or missing parts can substantially reduce worth. Professional conservation rather than aggressive cleaning is recommended for valuable pieces.

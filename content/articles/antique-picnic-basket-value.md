@@ -164,13 +164,13 @@ The history of picnic baskets extends back centuries, but most collectible antiq
 When examining a potential antique picnic basket, pay close attention to these identifying markers:
 
 {{< interactive-modules/condition-checklist title="Antique Basket Authentication Checklist" description="Key features to look for when identifying genuine antique picnic baskets" >}}
-  {{< interactive-modules/checklist-item label="Solid or carved wood handle" / / />}}
-  {{< interactive-modules/checklist-item label="Heavier weight than modern reproductions" / / />}}
-  {{< interactive-modules/checklist-item label="Oak splint or ash splint construction (older baskets)" / / />}}
-  {{< interactive-modules/checklist-item label="Reinforced areas with metal or leather" / / />}}
-  {{< interactive-modules/checklist-item label="Natural patina and age discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-woven construction with irregularities" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware like brass latches or hinges" / / />}}
+  {{< interactive-modules/checklist-item label="Solid or carved wood handle" / />}}
+  {{< interactive-modules/checklist-item label="Heavier weight than modern reproductions" / />}}
+  {{< interactive-modules/checklist-item label="Oak splint or ash splint construction (older baskets)" / />}}
+  {{< interactive-modules/checklist-item label="Reinforced areas with metal or leather" / />}}
+  {{< interactive-modules/checklist-item label="Natural patina and age discoloration" / />}}
+  {{< interactive-modules/checklist-item label="Hand-woven construction with irregularities" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware like brass latches or hinges" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 True antique picnic baskets typically feature hand-woven construction with natural materials. Oak and ash splint baskets tend to indicate older pieces, while more recent vintage baskets (mid-20th century) often use wicker or rattan. Machine-stamped wicker with perfectly uniform patterns usually indicates a modern reproduction.

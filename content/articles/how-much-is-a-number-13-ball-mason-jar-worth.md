@@ -210,13 +210,13 @@ Genuine Number 13 Ball Mason jars have several distinctive features that help au
 ![Side view of an authentic Number 13 Ball Mason jar showing embossing](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-number-13-ball-mason-jar-worth/how-much-is-a-number-13-ball-mason-jar-worth-image-4_o75QkIb2G0.png)
 
 {{< interactive-modules/condition-checklist title="Number 13 Ball Mason Jar Authentication Checklist" description="Verify these features to confirm if your jar is an authentic Number 13 Ball Mason jar" >}}
-  {{< interactive-modules/checklist-item label="'Ball Perfect Mason' embossing on the front" / / />}}
-  {{< interactive-modules/checklist-item label="Number '13' clearly visible on the jar bottom" / / />}}
-  {{< interactive-modules/checklist-item label="Distinctive aqua blue color (most valuable versions)" / / />}}
-  {{< interactive-modules/checklist-item label="Seam lines consistent with 1920s-1930s production methods" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate signs of age and wear for a 90+ year old item" / / />}}
-  {{< interactive-modules/checklist-item label="Authentic mold markings consistent with Ball manufacturing" / / />}}
-  {{< interactive-modules/checklist-item label="Proper weight and glass thickness for the era" / / />}}
+  {{< interactive-modules/checklist-item label="'Ball Perfect Mason' embossing on the front" / />}}
+  {{< interactive-modules/checklist-item label="Number '13' clearly visible on the jar bottom" / />}}
+  {{< interactive-modules/checklist-item label="Distinctive aqua blue color (most valuable versions)" / />}}
+  {{< interactive-modules/checklist-item label="Seam lines consistent with 1920s-1930s production methods" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate signs of age and wear for a 90+ year old item" / />}}
+  {{< interactive-modules/checklist-item label="Authentic mold markings consistent with Ball manufacturing" / />}}
+  {{< interactive-modules/checklist-item label="Proper weight and glass thickness for the era" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Be wary of modern reproductions that have been artificially aged or tinted to appear vintage. A true Number 13 Ball jar will typically have some bubbles in the glass and slight imperfections characteristic of manufacturing methods from that era.

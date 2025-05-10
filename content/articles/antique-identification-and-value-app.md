@@ -159,13 +159,13 @@ The app leverages advanced machine learning to:
 Users particularly praise Antique AI's ability to identify unusual or rare items that other apps might struggle with.
 
 {{< interactive-modules/condition-checklist title="What Makes a Great Antique ID App" description="Look for these features when choosing an antique identification app" >}}
-  {{< interactive-modules/checklist-item label="Accurate identification capabilities" / / />}}
-  {{< interactive-modules/checklist-item label="Large, regularly updated database" / / />}}
-  {{< interactive-modules/checklist-item label="User-friendly interface" / / />}}
-  {{< interactive-modules/checklist-item label="Detailed historical information" / / />}}
-  {{< interactive-modules/checklist-item label="Current value estimates" / / />}}
-  {{< interactive-modules/checklist-item label="Option to save identified items" / / />}}
-  {{< interactive-modules/checklist-item label="Available on your device platform" / / />}}
+  {{< interactive-modules/checklist-item label="Accurate identification capabilities" / />}}
+  {{< interactive-modules/checklist-item label="Large, regularly updated database" / />}}
+  {{< interactive-modules/checklist-item label="User-friendly interface" / />}}
+  {{< interactive-modules/checklist-item label="Detailed historical information" / />}}
+  {{< interactive-modules/checklist-item label="Current value estimates" / />}}
+  {{< interactive-modules/checklist-item label="Option to save identified items" / />}}
+  {{< interactive-modules/checklist-item label="Available on your device platform" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Free vs. Premium Antique ID Apps

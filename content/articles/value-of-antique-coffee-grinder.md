@@ -152,12 +152,12 @@ Condition dramatically impacts value—sometimes accounting for a 40-50% differe
 * Absence of cracks, repairs, or replacements
 
 {{< interactive-modules/condition-checklist title="Coffee Grinder Condition Assessment" description="Check applicable items to gauge your grinder's condition" >}}
-  {{< interactive-modules/checklist-item label="Working grinding mechanism" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="All original components present (handle, drawer, hopper)" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks, repairs or replaced parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer markings visible" / / />}}
-  {{< interactive-modules/checklist-item label="Drawer operates smoothly" / / />}}
+  {{< interactive-modules/checklist-item label="Working grinding mechanism" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="All original components present (handle, drawer, hopper)" / />}}
+  {{< interactive-modules/checklist-item label="No cracks, repairs or replaced parts" / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer markings visible" / />}}
+  {{< interactive-modules/checklist-item label="Drawer operates smoothly" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Materials and Construction

@@ -249,13 +249,13 @@ Physical characteristics affect both market demand and value:
 - Materials and execution quality
 
 {{< interactive-modules/condition-checklist title="Artwork Condition Assessment" description="Factors that art appraisers examine when evaluating physical condition" >}}
-  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" / / />}}
-  {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" / / />}}
-  {{< interactive-modules/checklist-item label="Previous restoration or conservation work" / / />}}
-  {{< interactive-modules/checklist-item label="Structural stability of supports (canvas, panel, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Frame condition and originality" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of environmental damage (water, sunlight, mold)" / / />}}
-  {{< interactive-modules/checklist-item label="Signature integrity and authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" / />}}
+  {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" / />}}
+  {{< interactive-modules/checklist-item label="Previous restoration or conservation work" / />}}
+  {{< interactive-modules/checklist-item label="Structural stability of supports (canvas, panel, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Frame condition and originality" / />}}
+  {{< interactive-modules/checklist-item label="Signs of environmental damage (water, sunlight, mold)" / />}}
+  {{< interactive-modules/checklist-item label="Signature integrity and authenticity" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Current Market Trends and Economic Factors

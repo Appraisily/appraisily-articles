@@ -115,12 +115,12 @@ Generally, older pocket watches tend to be more valuable, especially those from 
 The overall condition of a pocket watch dramatically impacts its value. Working timepieces are typically worth substantially more than non-working examples. Other condition factors include:
 
 {{< interactive-modules/condition-checklist title="Pocket Watch Condition Assessment" description="Key factors that affect value based on condition" >}}
-  {{< interactive-modules/checklist-item label="Working movement with accurate timekeeping" / / />}}
-  {{< interactive-modules/checklist-item label="Original parts (not replacement components)" / / />}}
-  {{< interactive-modules/checklist-item label="Undamaged case with minimal scratches or dents" / / />}}
-  {{< interactive-modules/checklist-item label="Intact crystal without cracks or fogging" / / />}}
-  {{< interactive-modules/checklist-item label="Original dial without repairs or restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Presence of original chain and fob" / / />}}
+  {{< interactive-modules/checklist-item label="Working movement with accurate timekeeping" / />}}
+  {{< interactive-modules/checklist-item label="Original parts (not replacement components)" / />}}
+  {{< interactive-modules/checklist-item label="Undamaged case with minimal scratches or dents" / />}}
+  {{< interactive-modules/checklist-item label="Intact crystal without cracks or fogging" / />}}
+  {{< interactive-modules/checklist-item label="Original dial without repairs or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Presence of original chain and fob" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Materials and Craftsmanship

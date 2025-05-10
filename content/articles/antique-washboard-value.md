@@ -192,12 +192,12 @@ The materials used in a washboard significantly impact its value:
 As with most antiques, condition is paramount:
 
 {{< interactive-modules/condition-checklist title="Washboard Condition Assessment" description="Check applicable items to assess your washboard's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact (minimal wear or fading)" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or chips in glass surface" / / />}}
-  {{< interactive-modules/checklist-item label="No rust on metal components" / / />}}
-  {{< interactive-modules/checklist-item label="Solid, stable wooden frame (no warping or separation)" / / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer's markings visible" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs, replacements, or modern additions" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (minimal wear or fading)" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or chips in glass surface" / />}}
+  {{< interactive-modules/checklist-item label="No rust on metal components" / />}}
+  {{< interactive-modules/checklist-item label="Solid, stable wooden frame (no warping or separation)" / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer's markings visible" / />}}
+  {{< interactive-modules/checklist-item label="No repairs, replacements, or modern additions" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

@@ -210,14 +210,14 @@ Several online resources can help with identification:
 - Online catalogs available from retailers like [Country N More Gifts](https://countrynmoregifts.com/collections/catalog-and-value-guide)
 
 {{< interactive-modules/condition-checklist title="Snowbabies Authentication Checklist" description="Use this checklist to verify the authenticity of your Snowbabies figurines" >}}
-  {{< interactive-modules/checklist-item label="Has proper Department 56 logo on base" / / />}}
-  {{< interactive-modules/checklist-item label="Shows Snowbabies trademark symbol" / / />}}
-  {{< interactive-modules/checklist-item label="Includes production year or date range" / / />}}
-  {{< interactive-modules/checklist-item label="Features unique item number" / / />}}
-  {{< interactive-modules/checklist-item label="Shows consistent quality of porcelain and paint" / / />}}
-  {{< interactive-modules/checklist-item label="Snow texture appears proper and original" / / />}}
-  {{< interactive-modules/checklist-item label="Size appropriate for the specific piece" / / />}}
-  {{< interactive-modules/checklist-item label="Weight feels appropriate (not too light)" / / />}}
+  {{< interactive-modules/checklist-item label="Has proper Department 56 logo on base" / />}}
+  {{< interactive-modules/checklist-item label="Shows Snowbabies trademark symbol" / />}}
+  {{< interactive-modules/checklist-item label="Includes production year or date range" / />}}
+  {{< interactive-modules/checklist-item label="Features unique item number" / />}}
+  {{< interactive-modules/checklist-item label="Shows consistent quality of porcelain and paint" / />}}
+  {{< interactive-modules/checklist-item label="Snow texture appears proper and original" / />}}
+  {{< interactive-modules/checklist-item label="Size appropriate for the specific piece" / />}}
+  {{< interactive-modules/checklist-item label="Weight feels appropriate (not too light)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of Department 56 Snowbabies figurines showing detail and craftsmanship](https://ik.imagekit.io/appraisily/SEO/department-56-snowbabies-value-guide/department-56-snowbabies-value-guide-image-5_D84Zu77Fx.png)

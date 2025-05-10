@@ -302,13 +302,13 @@ As recommended in the [Metal Detecting Forum](https://metaldetectingforum.com/in
 ### Tools for Field Identification
 
 {{< interactive-modules/condition-checklist title="Field Identification Kit" description="Essential tools for identifying old nails in the field" >}}
-  {{< interactive-modules/checklist-item label="Small digital caliper for measuring dimensions" / / />}}
-  {{< interactive-modules/checklist-item label="Pocket magnifier (10x) for examining surface details" / / />}}
-  {{< interactive-modules/checklist-item label="Small wire brush for gentle cleaning" / / />}}
-  {{< interactive-modules/checklist-item label="Smartphone with nail identification reference images" / / />}}
-  {{< interactive-modules/checklist-item label="Small magnet to test material properties" / / />}}
-  {{< interactive-modules/checklist-item label="Small container of vinegar for material testing" / / />}}
-  {{< interactive-modules/checklist-item label="Notebook for recording findings and context" / / />}}
+  {{< interactive-modules/checklist-item label="Small digital caliper for measuring dimensions" / />}}
+  {{< interactive-modules/checklist-item label="Pocket magnifier (10x) for examining surface details" / />}}
+  {{< interactive-modules/checklist-item label="Small wire brush for gentle cleaning" / />}}
+  {{< interactive-modules/checklist-item label="Smartphone with nail identification reference images" / />}}
+  {{< interactive-modules/checklist-item label="Small magnet to test material properties" / />}}
+  {{< interactive-modules/checklist-item label="Small container of vinegar for material testing" / />}}
+  {{< interactive-modules/checklist-item label="Notebook for recording findings and context" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Special Considerations for Corroded Nails

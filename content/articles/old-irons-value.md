@@ -222,12 +222,12 @@ These makers often produced high-quality irons that remain desirable to collecto
 Patent dates and numbers can significantly increase an iron's value, especially for unusual or innovative designs. Check the base or handle for patent information such as "PAT. JUN 10 1880" or similar markings.
 
 {{< interactive-modules/condition-checklist title="Antique Iron Authentication Checklist" description="Use this checklist to verify authenticity of potential antique irons" >}}
-  {{< interactive-modules/checklist-item label="Appropriate weight and heft for size (genuine cast iron is heavy)" / / />}}
-  {{< interactive-modules/checklist-item label="Visible casting marks, seams, or irregularities consistent with period manufacturing" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of appropriate age-related wear (not artificially distressed)" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate manufacturer marks or patent information" / / />}}
-  {{< interactive-modules/checklist-item label="Metal composition consistent with period (typically cast iron or brass)" / / />}}
-  {{< interactive-modules/checklist-item label="Design elements match documented historical examples" / / />}}
+  {{< interactive-modules/checklist-item label="Appropriate weight and heft for size (genuine cast iron is heavy)" / />}}
+  {{< interactive-modules/checklist-item label="Visible casting marks, seams, or irregularities consistent with period manufacturing" / />}}
+  {{< interactive-modules/checklist-item label="Signs of appropriate age-related wear (not artificially distressed)" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate manufacturer marks or patent information" / />}}
+  {{< interactive-modules/checklist-item label="Metal composition consistent with period (typically cast iron or brass)" / />}}
+  {{< interactive-modules/checklist-item label="Design elements match documented historical examples" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Age Determination
@@ -323,13 +323,13 @@ According to data from [JustAnswer's antiques experts](https://www.justanswer.co
 Condition significantly impacts value, with pristine examples commanding premiums of 50% or more compared to similar irons with damage or excessive rust.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Antique Irons" description="Evaluate the condition of your antique iron using these criteria" >}}
-  {{< interactive-modules/checklist-item label="Original finish largely intact" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal or surface-only rust" / / />}}
-  {{< interactive-modules/checklist-item label="Original handle present and intact" / / />}}
-  {{< interactive-modules/checklist-item label="No major cracks, chips, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Legible markings and manufacturer information" / / />}}
-  {{< interactive-modules/checklist-item label="Moving parts (if applicable) function properly" / / />}}
-  {{< interactive-modules/checklist-item label="Original accessories present (trivets, stands, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish largely intact" / />}}
+  {{< interactive-modules/checklist-item label="Minimal or surface-only rust" / />}}
+  {{< interactive-modules/checklist-item label="Original handle present and intact" / />}}
+  {{< interactive-modules/checklist-item label="No major cracks, chips, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Legible markings and manufacturer information" / />}}
+  {{< interactive-modules/checklist-item label="Moving parts (if applicable) function properly" / />}}
+  {{< interactive-modules/checklist-item label="Original accessories present (trivets, stands, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity & Desirability

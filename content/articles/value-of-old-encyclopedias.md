@@ -139,14 +139,14 @@ Encyclopedias that mark important historical transitions or contain significant 
 Sets with leather bindings, especially those with ornate gold lettering or decorative elements, may have value based on their aesthetic qualities alone. Some buyers purchase old encyclopedias solely for decorative purposes, particularly those with uniform, attractive bindings.
 
 {{< interactive-modules/condition-checklist title="Encyclopedia Value Assessment Checklist" description="Check applicable items to determine potential value" >}}
-  {{< interactive-modules/checklist-item label="Set is complete with all volumes and supplementary materials" / / />}}
-  {{< interactive-modules/checklist-item label="Published before 1900" / / />}}
-  {{< interactive-modules/checklist-item label="First edition or early printing" / / />}}
-  {{< interactive-modules/checklist-item label="Leather-bound with decorative elements" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent condition with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage, mold, or musty odor" / / />}}
-  {{< interactive-modules/checklist-item label="Contains historically significant information or illustrations" / / />}}
-  {{< interactive-modules/checklist-item label="Published by prestigious publisher" / / />}}
+  {{< interactive-modules/checklist-item label="Set is complete with all volumes and supplementary materials" / />}}
+  {{< interactive-modules/checklist-item label="Published before 1900" / />}}
+  {{< interactive-modules/checklist-item label="First edition or early printing" / />}}
+  {{< interactive-modules/checklist-item label="Leather-bound with decorative elements" / />}}
+  {{< interactive-modules/checklist-item label="Excellent condition with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="No water damage, mold, or musty odor" / />}}
+  {{< interactive-modules/checklist-item label="Contains historically significant information or illustrations" / />}}
+  {{< interactive-modules/checklist-item label="Published by prestigious publisher" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Encyclopedia Editions" level="2" id="most-valuable-encyclopedia-editions" >}}

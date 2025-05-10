@@ -278,14 +278,14 @@ Look for natural aging that's difficult to fake:
 - Minor repairs that match the period
 
 {{< interactive-modules/condition-checklist title="Antique Murphy Bed Authentication Checklist" description="Use this checklist to assess whether a Murphy bed is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Patent markings from 1908-1925" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate wood (quarter-sawn oak, mahogany, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-cut joinery (dovetails, mortise-and-tenon)" / / />}}
-  {{< interactive-modules/checklist-item label="Cast iron or brass hardware with appropriate patina" / / />}}
-  {{< interactive-modules/checklist-item label="Design elements consistent with 1900-1940 styles" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish or period-appropriate refinishing" / / />}}
-  {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age and use" / / />}}
-  {{< interactive-modules/checklist-item label="Murphy Door Bed Company or similar manufacturer markings" / / />}}
+  {{< interactive-modules/checklist-item label="Patent markings from 1908-1925" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate wood (quarter-sawn oak, mahogany, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Hand-cut joinery (dovetails, mortise-and-tenon)" / />}}
+  {{< interactive-modules/checklist-item label="Cast iron or brass hardware with appropriate patina" / />}}
+  {{< interactive-modules/checklist-item label="Design elements consistent with 1900-1940 styles" / />}}
+  {{< interactive-modules/checklist-item label="Original finish or period-appropriate refinishing" / />}}
+  {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age and use" / />}}
+  {{< interactive-modules/checklist-item label="Murphy Door Bed Company or similar manufacturer markings" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Restoration Considerations" level="2" >}}

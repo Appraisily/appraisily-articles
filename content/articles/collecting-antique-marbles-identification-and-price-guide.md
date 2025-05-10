@@ -484,14 +484,14 @@ When evaluating a marble's condition, consider the following factors:
 ![Close-up of antique marble showing condition assessment points](https://ik.imagekit.io/appraisily/SEO/collecting-antique-marbles-identification-and-price-guide/collecting-antique-marbles-identification-and-price-guide-image-5_iICgraEbF.png)
 
 {{< interactive-modules/condition-checklist title="Marble Condition Assessment Checklist" description="Use this checklist to evaluate your marble's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or flakes visible on the surface" / / />}}
-  {{< interactive-modules/checklist-item label="No pinpricks or small impact marks" / / />}}
-  {{< interactive-modules/checklist-item label="No internal fractures or bruises" / / />}}
-  {{< interactive-modules/checklist-item label="Surface maintains original luster and polish" / / />}}
-  {{< interactive-modules/checklist-item label="Original coloration without fading" / / />}}
-  {{< interactive-modules/checklist-item label="No crazing or surface crackling" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern remains clear and distinct" / / />}}
-  {{< interactive-modules/checklist-item label="No repair attempts visible" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or flakes visible on the surface" / />}}
+  {{< interactive-modules/checklist-item label="No pinpricks or small impact marks" / />}}
+  {{< interactive-modules/checklist-item label="No internal fractures or bruises" / />}}
+  {{< interactive-modules/checklist-item label="Surface maintains original luster and polish" / />}}
+  {{< interactive-modules/checklist-item label="Original coloration without fading" / />}}
+  {{< interactive-modules/checklist-item label="No crazing or surface crackling" / />}}
+  {{< interactive-modules/checklist-item label="Pattern remains clear and distinct" / />}}
+  {{< interactive-modules/checklist-item label="No repair attempts visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Impact on Value

@@ -143,13 +143,13 @@ The composition of the glass itself offers significant clues about its age:
 - **Surface Wear**: Antique glass may show subtle signs of use, like a slight clouding or iridescence from years of handling and washing.
 
 {{< interactive-modules/condition-checklist title="Antique Glass Authentication Checklist" description="Check for these key indicators when examining a glass bowl" >}}
-  {{< interactive-modules/checklist-item label="Presence of small air bubbles in the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Subtle variations in glass thickness" / / />}}
-  {{< interactive-modules/checklist-item label="Pontil mark on the base of the bowl" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate pattern or design" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear on the base" / / />}}
-  {{< interactive-modules/checklist-item label="Distinctive color consistent with the era" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's mark or signature" / / />}}
+  {{< interactive-modules/checklist-item label="Presence of small air bubbles in the glass" / />}}
+  {{< interactive-modules/checklist-item label="Subtle variations in glass thickness" / />}}
+  {{< interactive-modules/checklist-item label="Pontil mark on the base of the bowl" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate pattern or design" / />}}
+  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear on the base" / />}}
+  {{< interactive-modules/checklist-item label="Distinctive color consistent with the era" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's mark or signature" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Key Distinguishing Marks" level="2" >}}

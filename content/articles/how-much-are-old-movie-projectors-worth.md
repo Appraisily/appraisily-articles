@@ -161,13 +161,13 @@ Generally, projectors from earlier eras (pre-1950) tend to be more valuable than
 As with most collectibles, condition dramatically affects value:
 
 {{< interactive-modules/condition-checklist title="Projector Condition Assessment" description="Factors that affect the value of vintage movie projectors" >}}
-  {{< interactive-modules/checklist-item label="Working mechanical parts (motor, feed mechanism, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Functional optical components (lens, light source)" / / />}}
-  {{< interactive-modules/checklist-item label="Original case or packaging included" / / />}}
-  {{< interactive-modules/checklist-item label="Working audio components (for sound projectors)" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal cosmetic damage or wear" / / />}}
-  {{< interactive-modules/checklist-item label="Original accessories included (reels, splicers, cleaning tools)" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation, manuals, and original purchase receipts" / / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical parts (motor, feed mechanism, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Functional optical components (lens, light source)" / />}}
+  {{< interactive-modules/checklist-item label="Original case or packaging included" / />}}
+  {{< interactive-modules/checklist-item label="Working audio components (for sound projectors)" / />}}
+  {{< interactive-modules/checklist-item label="Minimal cosmetic damage or wear" / />}}
+  {{< interactive-modules/checklist-item label="Original accessories included (reels, splicers, cleaning tools)" / />}}
+  {{< interactive-modules/checklist-item label="Documentation, manuals, and original purchase receipts" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

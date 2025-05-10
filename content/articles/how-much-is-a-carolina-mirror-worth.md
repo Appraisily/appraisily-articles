@@ -98,12 +98,12 @@ Larger mirrors generally fetch higher prices, with oversized pieces (40+ inches)
 The condition of your mirror significantly impacts its value, with experts on [1stDibs](https://www.1stdibs.com/answers/are-carolina-mirrors-worth-anything/) noting that perfect condition can increase values substantially:
 
 {{< interactive-modules/condition-checklist title="Carolina Mirror Condition Assessment" description="Check applicable items to evaluate your mirror's condition" >}}
-  {{< interactive-modules/checklist-item label="Mirror glass is clear without spotting, fogging, or black edges" / / />}}
-  {{< interactive-modules/checklist-item label="Frame is intact without chips, cracks, or missing pieces" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish is preserved without significant wear or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="Hanging hardware is original and functional" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work visible" / / />}}
-  {{< interactive-modules/checklist-item label="Original label or marking from Carolina Mirror Company present" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror glass is clear without spotting, fogging, or black edges" / />}}
+  {{< interactive-modules/checklist-item label="Frame is intact without chips, cracks, or missing pieces" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is preserved without significant wear or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="Hanging hardware is original and functional" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work visible" / />}}
+  {{< interactive-modules/checklist-item label="Original label or marking from Carolina Mirror Company present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Age and Provenance

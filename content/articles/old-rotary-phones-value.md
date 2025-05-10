@@ -221,14 +221,14 @@ Phones manufactured by certain companies tend to be more valuable:
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Rotary Phone Condition Factors" description="These factors significantly impact valuation" >}}
-  {{< interactive-modules/checklist-item label="Working dial mechanism" / / />}}
-  {{< interactive-modules/checklist-item label="Original handset with intact cord" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, undamaged dial face" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or chips in the housing" / / />}}
-  {{< interactive-modules/checklist-item label="Original color without fading" / / />}}
-  {{< interactive-modules/checklist-item label="Functional ringer mechanism" / / />}}
-  {{< interactive-modules/checklist-item label="Original wall mount (for wall models)" / / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Working dial mechanism" / />}}
+  {{< interactive-modules/checklist-item label="Original handset with intact cord" / />}}
+  {{< interactive-modules/checklist-item label="Clear, undamaged dial face" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or chips in the housing" / />}}
+  {{< interactive-modules/checklist-item label="Original color without fading" / />}}
+  {{< interactive-modules/checklist-item label="Functional ringer mechanism" / />}}
+  {{< interactive-modules/checklist-item label="Original wall mount (for wall models)" / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Uniqueness

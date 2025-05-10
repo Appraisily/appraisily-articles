@@ -236,14 +236,14 @@ The typical process for getting an online appraisal includes:
 - **Limited Legal Standing**: Some online appraisals may not be accepted for insurance or tax purposes
 
 {{< interactive-modules/condition-checklist title="Preparing Your Item for Appraisal" description="Complete these steps before submitting your antique for appraisal" >}}
-  {{< interactive-modules/checklist-item label="Clean the item gently without using harsh chemicals" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph from multiple angles in good lighting" / / />}}
-  {{< interactive-modules/checklist-item label="Document any signatures, marks, or labels" / / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions accurately" / / />}}
-  {{< interactive-modules/checklist-item label="Compile any known history or provenance" / / />}}
-  {{< interactive-modules/checklist-item label="Gather original receipts or previous appraisals if available" / / />}}
-  {{< interactive-modules/checklist-item label="Make note of any damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Research comparable items if possible" / / />}}
+  {{< interactive-modules/checklist-item label="Clean the item gently without using harsh chemicals" / />}}
+  {{< interactive-modules/checklist-item label="Photograph from multiple angles in good lighting" / />}}
+  {{< interactive-modules/checklist-item label="Document any signatures, marks, or labels" / />}}
+  {{< interactive-modules/checklist-item label="Measure dimensions accurately" / />}}
+  {{< interactive-modules/checklist-item label="Compile any known history or provenance" / />}}
+  {{< interactive-modules/checklist-item label="Gather original receipts or previous appraisals if available" / />}}
+  {{< interactive-modules/checklist-item label="Make note of any damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Research comparable items if possible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="In-Person Appraisal Process" level="2" >}}

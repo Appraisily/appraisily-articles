@@ -194,14 +194,14 @@ Authentic aging creates distinctive characteristics:
 3. **Strap Wear**: Leather straps should show appropriate aging and wear patterns at contact points
 
 {{< interactive-modules/condition-checklist title="Antique Sleigh Bell Authentication Checklist" description="Use this checklist to evaluate potential antique sleigh bells" >}}
-  {{< interactive-modules/checklist-item label="Bell has egg shape with gentle middle hump" / />}}
-  {{< interactive-modules/checklist-item label="Two holes present in the base" / />}}
-  {{< interactive-modules/checklist-item label="Crisp, detailed petal design (if not plain)" / />}}
-  {{< interactive-modules/checklist-item label="Even patination across all bells in set" / />}}
-  {{< interactive-modules/checklist-item label="Thinner metal shell than modern reproductions" / />}}
-  {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Leather strap shows appropriate aging" / />}}
-  {{< interactive-modules/checklist-item label="No dramatic color variations between adjacent bells" / />}}
+  {{< interactive-modules/checklist-item label="Bell has egg shape with gentle middle hump" />}}
+  {{< interactive-modules/checklist-item label="Two holes present in the base" />}}
+  {{< interactive-modules/checklist-item label="Crisp, detailed petal design (if not plain)" />}}
+  {{< interactive-modules/checklist-item label="Even patination across all bells in set" />}}
+  {{< interactive-modules/checklist-item label="Thinner metal shell than modern reproductions" />}}
+  {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age" />}}
+  {{< interactive-modules/checklist-item label="Leather strap shows appropriate aging" />}}
+  {{< interactive-modules/checklist-item label="No dramatic color variations between adjacent bells" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Recognizing Crotal Bells" level="2" >}}

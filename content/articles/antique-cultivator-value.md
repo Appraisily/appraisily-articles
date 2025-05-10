@@ -121,14 +121,14 @@ Rare brands or models with limited production runs typically attract serious col
 ### Condition and Completeness
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that affect an antique cultivator's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original paint and patina preserved" / / />}}
-  {{< interactive-modules/checklist-item label="All parts present and original (not replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Functional mechanical components" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust or just surface patina" / / />}}
-  {{< interactive-modules/checklist-item label="Original wooden handles intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer markings are legible" / / />}}
-  {{< interactive-modules/checklist-item label="No significant breaks, cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate hardware and fasteners" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint and patina preserved" / />}}
+  {{< interactive-modules/checklist-item label="All parts present and original (not replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Functional mechanical components" / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust or just surface patina" / />}}
+  {{< interactive-modules/checklist-item label="Original wooden handles intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer markings are legible" / />}}
+  {{< interactive-modules/checklist-item label="No significant breaks, cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate hardware and fasteners" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Cultivators with original parts, intact mechanisms, and minimal damage naturally bring higher prices. While some surface rust is expected and even desired for authentic patina, excessive deterioration significantly reduces value.

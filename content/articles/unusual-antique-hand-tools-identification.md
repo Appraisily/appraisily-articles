@@ -106,14 +106,14 @@ Understanding a tool's function is essential for proper identification:
 - **Wear Patterns**: How a tool has worn over time can suggest how it was used.
 
 {{< interactive-modules/condition-checklist title="Antique Tool Inspection Checklist" description="Examine your unusual antique tool for these important identification markers" >}}
-  {{< interactive-modules/checklist-item label="Check metal surfaces for maker's marks, logos, or patent information" / / />}}
-  {{< interactive-modules/checklist-item label="Examine wooden handles for manufacturer stamps or decals" / / />}}
-  {{< interactive-modules/checklist-item label="Look for patent dates or numbers (often preceded by 'PAT.' or 'PATD.')" / / />}}
-  {{< interactive-modules/checklist-item label="Identify primary materials (type of wood, metal composition)" / / />}}
-  {{< interactive-modules/checklist-item label="Note construction methods (hand-forged, cast, machined)" / / />}}
-  {{< interactive-modules/checklist-item label="Assess overall condition and authenticity of patina" / / />}}
-  {{< interactive-modules/checklist-item label="Measure the tool and document any unique features" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph from multiple angles including any markings" / / />}}
+  {{< interactive-modules/checklist-item label="Check metal surfaces for maker's marks, logos, or patent information" / />}}
+  {{< interactive-modules/checklist-item label="Examine wooden handles for manufacturer stamps or decals" / />}}
+  {{< interactive-modules/checklist-item label="Look for patent dates or numbers (often preceded by 'PAT.' or 'PATD.')" / />}}
+  {{< interactive-modules/checklist-item label="Identify primary materials (type of wood, metal composition)" / />}}
+  {{< interactive-modules/checklist-item label="Note construction methods (hand-forged, cast, machined)" / />}}
+  {{< interactive-modules/checklist-item label="Assess overall condition and authenticity of patina" / />}}
+  {{< interactive-modules/checklist-item label="Measure the tool and document any unique features" / />}}
+  {{< interactive-modules/checklist-item label="Photograph from multiple angles including any markings" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Categories of Unusual Antique Hand Tools" level="2" >}}

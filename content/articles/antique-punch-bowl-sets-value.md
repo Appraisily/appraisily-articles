@@ -266,13 +266,13 @@ Beyond material and maker, several other critical factors determine the market v
 The most valuable punch bowl sets retain all their original components. According to appraisal experts, a complete set with the original bowl, stand, ladle, and all matching cups can be worth 2-3 times more than the bowl alone.
 
 {{< interactive-modules/condition-checklist title="Punch Bowl Set Completeness Checklist" description="Check applicable items to gauge your set's completeness value" >}}
-  {{< interactive-modules/checklist-item label="Original punch bowl" / / />}}
-  {{< interactive-modules/checklist-item label="Matching ladle" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set of original cups (typically 8-12)" / / />}}
-  {{< interactive-modules/checklist-item label="Original stand or base" / / />}}
-  {{< interactive-modules/checklist-item label="Original underplate or tray" / / />}}
-  {{< interactive-modules/checklist-item label="Original storage/presentation box" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance or original purchase" / / />}}
+  {{< interactive-modules/checklist-item label="Original punch bowl" / />}}
+  {{< interactive-modules/checklist-item label="Matching ladle" / />}}
+  {{< interactive-modules/checklist-item label="Complete set of original cups (typically 8-12)" / />}}
+  {{< interactive-modules/checklist-item label="Original stand or base" / />}}
+  {{< interactive-modules/checklist-item label="Original underplate or tray" / />}}
+  {{< interactive-modules/checklist-item label="Original storage/presentation box" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance or original purchase" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Assessment

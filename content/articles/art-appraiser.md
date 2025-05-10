@@ -154,13 +154,13 @@ Understanding when professional appraisal services are necessary can save you ti
 There are several situations when hiring a professional art appraiser is advisable:
 
 {{< interactive-modules/condition-checklist title="Reasons to Hire an Art Appraiser" description="Common scenarios requiring professional art appraisal services" >}}
-  {{< interactive-modules/checklist-item label="Insuring valuable artwork" / / />}}
-  {{< interactive-modules/checklist-item label="Estate planning or division of assets" / / />}}
-  {{< interactive-modules/checklist-item label="Donating artwork to charitable organizations" / / />}}
-  {{< interactive-modules/checklist-item label="Selling significant pieces through galleries or auction houses" / / />}}
-  {{< interactive-modules/checklist-item label="Legal disputes involving artwork valuation" / / />}}
-  {{< interactive-modules/checklist-item label="Tax reporting requirements" / / />}}
-  {{< interactive-modules/checklist-item label="Verifying authenticity of purchased artwork" / / />}}
+  {{< interactive-modules/checklist-item label="Insuring valuable artwork" / />}}
+  {{< interactive-modules/checklist-item label="Estate planning or division of assets" / />}}
+  {{< interactive-modules/checklist-item label="Donating artwork to charitable organizations" / />}}
+  {{< interactive-modules/checklist-item label="Selling significant pieces through galleries or auction houses" / />}}
+  {{< interactive-modules/checklist-item label="Legal disputes involving artwork valuation" / />}}
+  {{< interactive-modules/checklist-item label="Tax reporting requirements" / />}}
+  {{< interactive-modules/checklist-item label="Verifying authenticity of purchased artwork" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Choose a Qualified Art Appraiser" level="2" >}}

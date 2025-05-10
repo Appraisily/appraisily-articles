@@ -212,14 +212,14 @@ The "blank" refers to the underlying glass form before any decoration was applie
 Identifying the blank can often narrow down the possible manufacturer, even when the etched pattern is difficult to determine.
 
 {{< interactive-modules/condition-checklist title="Etched Glass Authentication Checklist" description="Use this checklist to assess potential rare etched patterns" >}}
-  {{< interactive-modules/checklist-item label="Pattern is etched rather than cut or pressed into the glass" / / />}}
-  {{< interactive-modules/checklist-item label="The etching has consistent depth across the entire pattern" / / />}}
-  {{< interactive-modules/checklist-item label="Details are crisp and clear, not blurry or incomplete" / / />}}
-  {{< interactive-modules/checklist-item label="Glass blank matches known manufacturer specifications" / / />}}
-  {{< interactive-modules/checklist-item label="Glass color is consistent with the era and manufacturer" / / />}}
-  {{< interactive-modules/checklist-item label="Any acid-etched areas have uniform frosting" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern matches reference examples from catalogs or guides" / / />}}
-  {{< interactive-modules/checklist-item label="Size and proportions align with documented pieces" / / />}}
+  {{< interactive-modules/checklist-item label="Pattern is etched rather than cut or pressed into the glass" / />}}
+  {{< interactive-modules/checklist-item label="The etching has consistent depth across the entire pattern" / />}}
+  {{< interactive-modules/checklist-item label="Details are crisp and clear, not blurry or incomplete" / />}}
+  {{< interactive-modules/checklist-item label="Glass blank matches known manufacturer specifications" / />}}
+  {{< interactive-modules/checklist-item label="Glass color is consistent with the era and manufacturer" / />}}
+  {{< interactive-modules/checklist-item label="Any acid-etched areas have uniform frosting" / />}}
+  {{< interactive-modules/checklist-item label="Pattern matches reference examples from catalogs or guides" / />}}
+  {{< interactive-modules/checklist-item label="Size and proportions align with documented pieces" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Valuation Factors for Rare Etched Glass" level="2" >}}

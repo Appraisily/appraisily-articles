@@ -227,13 +227,13 @@ The oldest Pepsi cans from the 1950s and 1960s are naturally more valuable due t
 According to collector forums and marketplace data, condition dramatically impacts value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that determine the condition grade of vintage Pepsi cans" >}}
-  {{< interactive-modules/checklist-item label="Original coloration with minimal fading" / / />}}
-  {{< interactive-modules/checklist-item label="No significant dents or crushing" / / />}}
-  {{< interactive-modules/checklist-item label="Clean exterior without rust or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Original tab/opener intact (for pull-tab models)" / / />}}
-  {{< interactive-modules/checklist-item label="Unopened (significantly increases value)" / / />}}
-  {{< interactive-modules/checklist-item label="No punctures or leaks" / / />}}
-  {{< interactive-modules/checklist-item label="Original product residue inside (indicating authenticity)" / / />}}
+  {{< interactive-modules/checklist-item label="Original coloration with minimal fading" / />}}
+  {{< interactive-modules/checklist-item label="No significant dents or crushing" / />}}
+  {{< interactive-modules/checklist-item label="Clean exterior without rust or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Original tab/opener intact (for pull-tab models)" / />}}
+  {{< interactive-modules/checklist-item label="Unopened (significantly increases value)" / />}}
+  {{< interactive-modules/checklist-item label="No punctures or leaks" / />}}
+  {{< interactive-modules/checklist-item label="Original product residue inside (indicating authenticity)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

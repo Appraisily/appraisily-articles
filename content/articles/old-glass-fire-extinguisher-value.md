@@ -79,12 +79,12 @@ The age and scarcity of a fire grenade significantly impacts its value. Earlier 
 Condition is perhaps the most critical factor in valuation:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Glass Fire Extinguishers" description="Check applicable items to determine overall condition" >}}
-  {{< interactive-modules/checklist-item label="Complete glass integrity with no cracks or chips" / / />}}
-  {{< interactive-modules/checklist-item label="Original liquid contents still present and sealed" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossed manufacturer markings" / / />}}
-  {{< interactive-modules/checklist-item label="Original mounting hardware or brackets included" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint or finish in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Matching set or complete system intact" / / />}}
+  {{< interactive-modules/checklist-item label="Complete glass integrity with no cracks or chips" / />}}
+  {{< interactive-modules/checklist-item label="Original liquid contents still present and sealed" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossed manufacturer markings" / />}}
+  {{< interactive-modules/checklist-item label="Original mounting hardware or brackets included" / />}}
+  {{< interactive-modules/checklist-item label="Original paint or finish in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Matching set or complete system intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color and Decorative Elements

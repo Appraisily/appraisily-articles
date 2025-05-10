@@ -183,14 +183,14 @@ Condition remains the single most important factor in cookie jar valuation. Even
 - Missing or damaged lids
 
 {{< interactive-modules/condition-checklist title="Cookie Jar Condition Assessment" description="Check applicable items to evaluate your jar's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks or repairs visible anywhere on the jar" / / />}}
-  {{< interactive-modules/checklist-item label="Original lid present and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Colors are vibrant with no significant fading" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal or no crazing in the glaze" / / />}}
-  {{< interactive-modules/checklist-item label="All decorative elements intact (faces, limbs, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Bottom markings/maker's mark clear and legible" / / />}}
-  {{< interactive-modules/checklist-item label="No significant wear on base where jar sits" / / />}}
-  {{< interactive-modules/checklist-item label="No restoration work or touch-up paint visible" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks or repairs visible anywhere on the jar" / />}}
+  {{< interactive-modules/checklist-item label="Original lid present and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Colors are vibrant with no significant fading" / />}}
+  {{< interactive-modules/checklist-item label="Minimal or no crazing in the glaze" / />}}
+  {{< interactive-modules/checklist-item label="All decorative elements intact (faces, limbs, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Bottom markings/maker's mark clear and legible" / />}}
+  {{< interactive-modules/checklist-item label="No significant wear on base where jar sits" / />}}
+  {{< interactive-modules/checklist-item label="No restoration work or touch-up paint visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Scarcity

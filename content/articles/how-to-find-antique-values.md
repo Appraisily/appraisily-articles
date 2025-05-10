@@ -194,11 +194,11 @@ While online research is a great starting point, consulting with experts can pro
 Local dealers can offer valuable insights into your items, often at no cost:
 
 {{< interactive-modules/condition-checklist title="Before Visiting Local Dealers" description="Prepare to get the most from dealer consultations" >}}
-  {{< interactive-modules/checklist-item label="Clean your item (but don't restore or repair)" / / />}}
-  {{< interactive-modules/checklist-item label="Research basic identification information" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph your item from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Prepare questions about age, origin, and value" / / />}}
-  {{< interactive-modules/checklist-item label="Bring any provenance or documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Clean your item (but don't restore or repair)" / />}}
+  {{< interactive-modules/checklist-item label="Research basic identification information" / />}}
+  {{< interactive-modules/checklist-item label="Photograph your item from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Prepare questions about age, origin, and value" / />}}
+  {{< interactive-modules/checklist-item label="Bring any provenance or documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As noted in [Consumer Reports](https://www.consumerreports.org/cro/magazine/2012/10/how-much-is-your-stuff-worth/index.htm), visiting local antique stores to talk with dealers is an excellent way to gather information about your items. Many dealers are willing to provide informal appraisals, especially if you're considering selling to them.
@@ -329,12 +329,12 @@ According to a Martha Stewart [article](https://www.marthastewart.com/7618139/ho
 If you're planning to have items professionally appraised, proper preparation will help ensure accurate valuations:
 
 {{< interactive-modules/condition-checklist title="Appraisal Preparation Checklist" description="Steps to prepare items for professional evaluation" >}}
-  {{< interactive-modules/checklist-item label="Gather any documentation, receipts, or provenance" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph items from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Make note of any damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Research basic identification if possible" / / />}}
-  {{< interactive-modules/checklist-item label="Clean items gently (but don't restore)" / / />}}
-  {{< interactive-modules/checklist-item label="Organize similar items by category" / / />}}
+  {{< interactive-modules/checklist-item label="Gather any documentation, receipts, or provenance" / />}}
+  {{< interactive-modules/checklist-item label="Photograph items from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Make note of any damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Research basic identification if possible" / />}}
+  {{< interactive-modules/checklist-item label="Clean items gently (but don't restore)" / />}}
+  {{< interactive-modules/checklist-item label="Organize similar items by category" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/faq title="Common Questions About Finding Antique Values" id="faq-section" >}}

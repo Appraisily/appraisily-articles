@@ -165,11 +165,11 @@ Many established gun shops employ or can recommend appraisers with expertise in 
 Auction houses that regularly handle antique weapons often provide appraisal services:
 
 {{< interactive-modules/condition-checklist title="Questions to Ask Auction House Appraisers" description="Verify these points when contacting auction houses" >}}
-  {{< interactive-modules/checklist-item label="Do they have dedicated firearms specialists on staff?" / / />}}
-  {{< interactive-modules/checklist-item label="How frequently do they handle antique weapons auctions?" / / />}}
-  {{< interactive-modules/checklist-item label="Can they provide formal written appraisals for insurance or estate purposes?" / / />}}
-  {{< interactive-modules/checklist-item label="What are their fees for appraisal services?" / / />}}
-  {{< interactive-modules/checklist-item label="Will they travel to examine collections or is on-site evaluation required?" / / />}}
+  {{< interactive-modules/checklist-item label="Do they have dedicated firearms specialists on staff?" / />}}
+  {{< interactive-modules/checklist-item label="How frequently do they handle antique weapons auctions?" / />}}
+  {{< interactive-modules/checklist-item label="Can they provide formal written appraisals for insurance or estate purposes?" / />}}
+  {{< interactive-modules/checklist-item label="What are their fees for appraisal services?" / />}}
+  {{< interactive-modules/checklist-item label="Will they travel to examine collections or is on-site evaluation required?" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Online Directories and Professional Associations
@@ -273,14 +273,14 @@ The process typically begins with:
 During the examination, a professional appraiser will:
 
 {{< interactive-modules/condition-checklist title="Physical Examination Components" description="Elements assessed during professional appraisal" >}}
-  {{< interactive-modules/checklist-item label="Verify manufacturer markings and serial numbers" / / />}}
-  {{< interactive-modules/checklist-item label="Examine mechanical functionality and operation" / / />}}
-  {{< interactive-modules/checklist-item label="Assess barrel condition and bore status" / / />}}
-  {{< interactive-modules/checklist-item label="Evaluate wood components and stock condition" / / />}}
-  {{< interactive-modules/checklist-item label="Check for period-appropriate materials and techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Identify any repairs, replacements, or modifications" / / />}}
-  {{< interactive-modules/checklist-item label="Document patina and age-appropriate wear patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph significant details and markings" / / />}}
+  {{< interactive-modules/checklist-item label="Verify manufacturer markings and serial numbers" / />}}
+  {{< interactive-modules/checklist-item label="Examine mechanical functionality and operation" / />}}
+  {{< interactive-modules/checklist-item label="Assess barrel condition and bore status" / />}}
+  {{< interactive-modules/checklist-item label="Evaluate wood components and stock condition" / />}}
+  {{< interactive-modules/checklist-item label="Check for period-appropriate materials and techniques" / />}}
+  {{< interactive-modules/checklist-item label="Identify any repairs, replacements, or modifications" / />}}
+  {{< interactive-modules/checklist-item label="Document patina and age-appropriate wear patterns" / />}}
+  {{< interactive-modules/checklist-item label="Photograph significant details and markings" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Research and Valuation Phase
@@ -366,13 +366,13 @@ Documented history dramatically affects value:
 Condition is typically rated on a scale from poor to excellent, with several key considerations:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Elements that impact condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original finish percentage remaining" / / />}}
-  {{< interactive-modules/checklist-item label="Mechanical functionality and timing" / / />}}
-  {{< interactive-modules/checklist-item label="Barrel and bore condition" / / />}}
-  {{< interactive-modules/checklist-item label="Stock/grip condition without repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Presence of matching serial numbers on all parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original parts vs. replacements" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate patina vs. improper cleaning" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish percentage remaining" / />}}
+  {{< interactive-modules/checklist-item label="Mechanical functionality and timing" / />}}
+  {{< interactive-modules/checklist-item label="Barrel and bore condition" / />}}
+  {{< interactive-modules/checklist-item label="Stock/grip condition without repairs" / />}}
+  {{< interactive-modules/checklist-item label="Presence of matching serial numbers on all parts" / />}}
+  {{< interactive-modules/checklist-item label="Original parts vs. replacements" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate patina vs. improper cleaning" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Production Numbers
@@ -471,12 +471,12 @@ Taking specific steps before your appraisal appointment can improve the process 
 Collect any available information about your firearm:
 
 {{< interactive-modules/condition-checklist title="Helpful Documentation" description="Items to prepare before your appraisal" >}}
-  {{< interactive-modules/checklist-item label="Previous appraisals or sales receipts" / / />}}
-  {{< interactive-modules/checklist-item label="Family records or letters mentioning the firearm" / / />}}
-  {{< interactive-modules/checklist-item label="Photographs showing the weapon in earlier periods" / / />}}
-  {{< interactive-modules/checklist-item label="Military service records if service-related" / / />}}
-  {{< interactive-modules/checklist-item label="Any factory documentation or original packaging" / / />}}
-  {{< interactive-modules/checklist-item label="Maintenance records or gunsmith receipts" / / />}}
+  {{< interactive-modules/checklist-item label="Previous appraisals or sales receipts" / />}}
+  {{< interactive-modules/checklist-item label="Family records or letters mentioning the firearm" / />}}
+  {{< interactive-modules/checklist-item label="Photographs showing the weapon in earlier periods" / />}}
+  {{< interactive-modules/checklist-item label="Military service records if service-related" / />}}
+  {{< interactive-modules/checklist-item label="Any factory documentation or original packaging" / />}}
+  {{< interactive-modules/checklist-item label="Maintenance records or gunsmith receipts" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Safety Considerations

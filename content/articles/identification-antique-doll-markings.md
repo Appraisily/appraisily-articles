@@ -119,14 +119,14 @@ Doll markings can be found in several common locations, depending on the doll's 
 To thoroughly examine a doll for markings, use good lighting and a magnifying glass, as some marks can be quite small or worn. Be particularly careful when handling the doll, as antique specimens can be fragile. Sometimes, marks are hidden under wigs or clothing, so a gentle investigation may be necessary.
 
 {{< interactive-modules/condition-checklist title="Doll Inspection Checklist" description="Use this checklist when examining your doll for markings" >}}
-  {{< interactive-modules/checklist-item label="Examine the back of the head and neck" / / />}}
-  {{< interactive-modules/checklist-item label="Check the doll's back between shoulder blades" / / />}}
-  {{< interactive-modules/checklist-item label="Look at the bottoms of the feet" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect clothing tags and labels" / / />}}
-  {{< interactive-modules/checklist-item label="Use a magnifying glass for small markings" / / />}}
-  {{< interactive-modules/checklist-item label="Remove wig carefully (if necessary and safe)" / / />}}
-  {{< interactive-modules/checklist-item label="Check for marks that may be hidden by clothing" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph any markings you find" / / />}}
+  {{< interactive-modules/checklist-item label="Examine the back of the head and neck" / />}}
+  {{< interactive-modules/checklist-item label="Check the doll's back between shoulder blades" / />}}
+  {{< interactive-modules/checklist-item label="Look at the bottoms of the feet" / />}}
+  {{< interactive-modules/checklist-item label="Inspect clothing tags and labels" / />}}
+  {{< interactive-modules/checklist-item label="Use a magnifying glass for small markings" / />}}
+  {{< interactive-modules/checklist-item label="Remove wig carefully (if necessary and safe)" / />}}
+  {{< interactive-modules/checklist-item label="Check for marks that may be hidden by clothing" / />}}
+  {{< interactive-modules/checklist-item label="Photograph any markings you find" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Types of Doll Markings" level="2" >}}

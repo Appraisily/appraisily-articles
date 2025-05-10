@@ -215,12 +215,12 @@ Bottles from the early 20th century, particularly those produced when Avon was s
 As with most collectibles, condition significantly impacts value. Bottles should ideally have:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that affect the value of your Avon bottles" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original stopper or cap present" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear to paint or decoration" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents still present (increases value)" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and packaging included" / / />}}
-  {{< interactive-modules/checklist-item label="No cloudiness or interior staining" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original stopper or cap present" / />}}
+  {{< interactive-modules/checklist-item label="Minimal wear to paint or decoration" / />}}
+  {{< interactive-modules/checklist-item label="Original contents still present (increases value)" / />}}
+  {{< interactive-modules/checklist-item label="Original box and packaging included" / />}}
+  {{< interactive-modules/checklist-item label="No cloudiness or interior staining" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 3. Design and Aesthetic Appeal

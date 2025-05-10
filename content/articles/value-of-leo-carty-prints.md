@@ -165,13 +165,13 @@ Prints directly purchased from authorized galleries in the U.S. Virgin Islands o
 ### 2. Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Leo Carty Print Condition Checklist" description="Assessment criteria that impact value" >}}
-  {{< interactive-modules/checklist-item label="No fading or color loss" / / />}}
-  {{< interactive-modules/checklist-item label="No yellowing or acid damage to paper" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage or staining" / / />}}
-  {{< interactive-modules/checklist-item label="No tears, creases, or physical damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original matting/framing (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, undamaged signature" / / />}}
-  {{< interactive-modules/checklist-item label="No restoration or repair work" / / />}}
+  {{< interactive-modules/checklist-item label="No fading or color loss" / />}}
+  {{< interactive-modules/checklist-item label="No yellowing or acid damage to paper" / />}}
+  {{< interactive-modules/checklist-item label="No water damage or staining" / />}}
+  {{< interactive-modules/checklist-item label="No tears, creases, or physical damage" / />}}
+  {{< interactive-modules/checklist-item label="Original matting/framing (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Clear, undamaged signature" / />}}
+  {{< interactive-modules/checklist-item label="No restoration or repair work" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Prints in pristine condition can command premiums of 30-50% over examples with condition issues. Minor flaws like slight fading or minor edge wear typically reduce value by 10-25%, while significant damage can reduce value by 50% or more, depending on severity.

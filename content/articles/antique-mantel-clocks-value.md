@@ -125,14 +125,14 @@ The quality of materials used - whether fine woods, marble, bronze, or gilt - di
 ### Condition
 
 {{< interactive-modules/condition-checklist title="Mantel Clock Condition Assessment" description="Check applicable items to determine your clock's condition status" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and uncleaned" / / />}}
-  {{< interactive-modules/checklist-item label="All original mechanical components present" / / />}}
-  {{< interactive-modules/checklist-item label="Movement works properly at all settings" / / />}}
-  {{< interactive-modules/checklist-item label="Case free of significant damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original dial in good condition without touch-ups" / / />}}
-  {{< interactive-modules/checklist-item label="Original hands match the period and style" / / />}}
-  {{< interactive-modules/checklist-item label="Retains original glass or marble elements" / / />}}
-  {{< interactive-modules/checklist-item label="Strikes and chimes function correctly" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and uncleaned" / />}}
+  {{< interactive-modules/checklist-item label="All original mechanical components present" / />}}
+  {{< interactive-modules/checklist-item label="Movement works properly at all settings" / />}}
+  {{< interactive-modules/checklist-item label="Case free of significant damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original dial in good condition without touch-ups" / />}}
+  {{< interactive-modules/checklist-item label="Original hands match the period and style" / />}}
+  {{< interactive-modules/checklist-item label="Retains original glass or marble elements" / />}}
+  {{< interactive-modules/checklist-item label="Strikes and chimes function correctly" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Historical Significance

@@ -202,14 +202,14 @@ According to [MutualArt](https://www.mutualart.com/Artist/Pablo-Picasso/68EFD50C
 Works with distinguished ownership history or significant exhibition records command premium prices. Pieces that have been held in major museum collections or prestigious private collections often achieve higher values due to their confirmed authenticity and historical importance.
 
 {{< interactive-modules/condition-checklist title="Value Assessment Factors for Picasso Works" description="Key elements that contribute to higher valuations" >}}
-  {{< interactive-modules/checklist-item label="Signed by the artist" / / />}}
-  {{< interactive-modules/checklist-item label="Documented in Picasso's catalogue raisonné" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent condition with no restoration issues" / / />}}
-  {{< interactive-modules/checklist-item label="Strong provenance with no ownership gaps" / / />}}
-  {{< interactive-modules/checklist-item label="From a historically significant period in Picasso's career" / / />}}
-  {{< interactive-modules/checklist-item label="Important exhibition history" / / />}}
-  {{< interactive-modules/checklist-item label="Featured in scholarly publications" / / />}}
-  {{< interactive-modules/checklist-item label="Rare subject matter or technique" / / />}}
+  {{< interactive-modules/checklist-item label="Signed by the artist" / />}}
+  {{< interactive-modules/checklist-item label="Documented in Picasso's catalogue raisonné" / />}}
+  {{< interactive-modules/checklist-item label="Excellent condition with no restoration issues" / />}}
+  {{< interactive-modules/checklist-item label="Strong provenance with no ownership gaps" / />}}
+  {{< interactive-modules/checklist-item label="From a historically significant period in Picasso's career" / />}}
+  {{< interactive-modules/checklist-item label="Important exhibition history" / />}}
+  {{< interactive-modules/checklist-item label="Featured in scholarly publications" / />}}
+  {{< interactive-modules/checklist-item label="Rare subject matter or technique" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Print Market: More Accessible Picasso Investments" level="2" >}}
@@ -309,12 +309,12 @@ The market for Picasso's work includes millions of dollars in forgeries and misa
 According to [Heritage Auctions](https://fineart.ha.com/artist-index/pablo-picasso.s?id=500009666), proper authentication is essential when considering a Picasso purchase, particularly for paintings and unique works where values can reach into the millions.
 
 {{< interactive-modules/condition-checklist title="Authentication Red Flags" description="Warning signs that may indicate authenticity issues" >}}
-  {{< interactive-modules/checklist-item label="Work is not documented in appropriate catalogue raisonné" / / />}}
-  {{< interactive-modules/checklist-item label="Signature appears inconsistent with Picasso's known signatures from the period" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance has significant gaps or cannot be verified" / / />}}
-  {{< interactive-modules/checklist-item label="Technical elements (canvas, paper, pigments) are inconsistent with the purported date" / / />}}
-  {{< interactive-modules/checklist-item label="Style is atypical for Picasso's work from the claimed period" / / />}}
-  {{< interactive-modules/checklist-item label="Price seems unusually low for the type of work" / / />}}
+  {{< interactive-modules/checklist-item label="Work is not documented in appropriate catalogue raisonné" / />}}
+  {{< interactive-modules/checklist-item label="Signature appears inconsistent with Picasso's known signatures from the period" / />}}
+  {{< interactive-modules/checklist-item label="Provenance has significant gaps or cannot be verified" / />}}
+  {{< interactive-modules/checklist-item label="Technical elements (canvas, paper, pigments) are inconsistent with the purported date" / />}}
+  {{< interactive-modules/checklist-item label="Style is atypical for Picasso's work from the claimed period" / />}}
+  {{< interactive-modules/checklist-item label="Price seems unusually low for the type of work" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Market Trends and Investment Outlook" level="2" >}}

@@ -155,14 +155,14 @@ The physical condition of the baseball itself matters significantly:
 - **Age-appropriate baseballs** from Mantle's era add authenticity and value
 
 {{< interactive-modules/condition-checklist title="Mickey Mantle Signed Baseball Condition Assessment" description="Check applicable items to estimate condition quality" >}}
-  {{< interactive-modules/checklist-item label="Clean, unblemished baseball surface" / / />}}
-  {{< interactive-modules/checklist-item label="Dark, clearly legible signature" / / />}}
-  {{< interactive-modules/checklist-item label="Signature on the baseball's sweet spot" / / />}}
-  {{< interactive-modules/checklist-item label="Includes inscription (No.7, HOF, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Official American League baseball" / / />}}
-  {{< interactive-modules/checklist-item label="Contemporary to Mantle's career/lifetime" / / />}}
-  {{< interactive-modules/checklist-item label="Includes original display case" / / />}}
-  {{< interactive-modules/checklist-item label="Top-tier authentication (PSA/DNA, JSA)" / / />}}
+  {{< interactive-modules/checklist-item label="Clean, unblemished baseball surface" / />}}
+  {{< interactive-modules/checklist-item label="Dark, clearly legible signature" / />}}
+  {{< interactive-modules/checklist-item label="Signature on the baseball's sweet spot" / />}}
+  {{< interactive-modules/checklist-item label="Includes inscription (No.7, HOF, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Official American League baseball" / />}}
+  {{< interactive-modules/checklist-item label="Contemporary to Mantle's career/lifetime" / />}}
+  {{< interactive-modules/checklist-item label="Includes original display case" / />}}
+  {{< interactive-modules/checklist-item label="Top-tier authentication (PSA/DNA, JSA)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Documentation

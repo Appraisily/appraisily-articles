@@ -272,14 +272,14 @@ Several companies now offer online appraisal services where you submit photos an
 Larger coin shows often have professional appraisers on site who can evaluate your coins, sometimes for free or a nominal fee.
 
 {{< interactive-modules/condition-checklist title="Evaluating an Appraisal Service" description="Check these factors when choosing where to get your coins appraised" >}}
-  {{< interactive-modules/checklist-item label="Credentials and membership in professional organizations (PNG, ANA)" / / />}}
-  {{< interactive-modules/checklist-item label="Years of experience in numismatics" / / />}}
-  {{< interactive-modules/checklist-item label="Transparent fee structure" / / />}}
-  {{< interactive-modules/checklist-item label="Positive reviews and testimonials" / / />}}
-  {{< interactive-modules/checklist-item label="Clear explanation of the appraisal process" / / />}}
-  {{< interactive-modules/checklist-item label="Proper insurance and security measures" / / />}}
-  {{< interactive-modules/checklist-item label="No pressure to sell" / / />}}
-  {{< interactive-modules/checklist-item label="Provides written documentation of appraisal" / / />}}
+  {{< interactive-modules/checklist-item label="Credentials and membership in professional organizations (PNG, ANA)" / />}}
+  {{< interactive-modules/checklist-item label="Years of experience in numismatics" / />}}
+  {{< interactive-modules/checklist-item label="Transparent fee structure" / />}}
+  {{< interactive-modules/checklist-item label="Positive reviews and testimonials" / />}}
+  {{< interactive-modules/checklist-item label="Clear explanation of the appraisal process" / />}}
+  {{< interactive-modules/checklist-item label="Proper insurance and security measures" / />}}
+  {{< interactive-modules/checklist-item label="No pressure to sell" / />}}
+  {{< interactive-modules/checklist-item label="Provides written documentation of appraisal" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Preparing Your Coins for Appraisal

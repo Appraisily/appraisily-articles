@@ -145,14 +145,14 @@ Pieces that are rare, either because few were made or few have survived, typical
 Documented history of ownership, especially when connected to historical figures or events, can dramatically increase value. Furniture with provenance that can be verified through documentation often sells for multiples of similar pieces without such history.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Check applicable items to understand your antique's condition status" >}}
-    {{< interactive-modules/checklist-item label="Original finish intact" / / />}}
-    {{< interactive-modules/checklist-item label="All original hardware present" / / />}}
-    {{< interactive-modules/checklist-item label="No structural damage or repairs" / / />}}
-    {{< interactive-modules/checklist-item label="Minimal surface scratches or wear" / / />}}
-    {{< interactive-modules/checklist-item label="No water damage or stains" / / />}}
-    {{< interactive-modules/checklist-item label="No evidence of insect damage" / / />}}
-    {{< interactive-modules/checklist-item label="Original upholstery (if applicable)" / / />}}
-    {{< interactive-modules/checklist-item label="Proper period-appropriate patina" / / />}}
+    {{< interactive-modules/checklist-item label="Original finish intact" / />}}
+    {{< interactive-modules/checklist-item label="All original hardware present" / />}}
+    {{< interactive-modules/checklist-item label="No structural damage or repairs" / />}}
+    {{< interactive-modules/checklist-item label="Minimal surface scratches or wear" / />}}
+    {{< interactive-modules/checklist-item label="No water damage or stains" / />}}
+    {{< interactive-modules/checklist-item label="No evidence of insect damage" / />}}
+    {{< interactive-modules/checklist-item label="Original upholstery (if applicable)" / />}}
+    {{< interactive-modules/checklist-item label="Proper period-appropriate patina" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Antique Furniture Styles and Periods" level="2" >}}

@@ -239,14 +239,14 @@ Art galleries and dealers who specialize in specific artists or periods can ofte
 - Informal valuations based on their expertise
 
 {{< interactive-modules/condition-checklist title="Art Condition Assessment" description="Use this checklist to evaluate the condition of a painting, which significantly impacts its value" >}}
-{{< interactive-modules/checklist-item label="No visible tears, scratches or abrasions to the canvas/surface" / / />}}
-{{< interactive-modules/checklist-item label="Paint layer is stable with no flaking or cracking" / / />}}
-{{< interactive-modules/checklist-item label="No discoloration or fading of pigments" / / />}}
-{{< interactive-modules/checklist-item label="No visible restoration or overpainting" / / />}}
-{{< interactive-modules/checklist-item label="Frame is in good condition (if original)" / / />}}
-{{< interactive-modules/checklist-item label="No water damage or mold" / / />}}
-{{< interactive-modules/checklist-item label="Original signature is intact and visible" / / />}}
-{{< interactive-modules/checklist-item label="No warping of the support material" / / />}}
+{{< interactive-modules/checklist-item label="No visible tears, scratches or abrasions to the canvas/surface" / />}}
+{{< interactive-modules/checklist-item label="Paint layer is stable with no flaking or cracking" / />}}
+{{< interactive-modules/checklist-item label="No discoloration or fading of pigments" / />}}
+{{< interactive-modules/checklist-item label="No visible restoration or overpainting" / />}}
+{{< interactive-modules/checklist-item label="Frame is in good condition (if original)" / />}}
+{{< interactive-modules/checklist-item label="No water damage or mold" / />}}
+{{< interactive-modules/checklist-item label="Original signature is intact and visible" / />}}
+{{< interactive-modules/checklist-item label="No warping of the support material" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Social and Personal Value of Art" level="2" >}}

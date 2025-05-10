@@ -196,16 +196,16 @@ Before selling or insuring your collection, it's important to properly assess th
 ![Person carefully examining and cataloging a collection of TIME magazines](https://ik.imagekit.io/appraisily/SEO/old-time-magazines-value/old-time-magazines-value-image-4_Ea-nOKjfq.png)
 
 {{< interactive-modules/condition-checklist title="TIME Magazine Condition Assessment" description="Check applicable items to determine the condition grade of your magazines" >}}
-  {{< interactive-modules/checklist-item label="Cover is intact with bright, unfaded colors" / / />}}
-  {{< interactive-modules/checklist-item label="No address labels or subscriber markings" / / />}}
-  {{< interactive-modules/checklist-item label="No tears, creases, or folds on cover or pages" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage, stains, or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="All pages present and in original order" / / />}}
-  {{< interactive-modules/checklist-item label="No writing, highlighting, or markings inside" / / />}}
-  {{< interactive-modules/checklist-item label="Original inserts and advertisements included" / / />}}
-  {{< interactive-modules/checklist-item label="No musty smell or signs of mold/mildew" / / />}}
-  {{< interactive-modules/checklist-item label="Spine is intact with no splitting" / / />}}
-  {{< interactive-modules/checklist-item label="Magazine has been stored flat, not rolled" / / />}}
+  {{< interactive-modules/checklist-item label="Cover is intact with bright, unfaded colors" / />}}
+  {{< interactive-modules/checklist-item label="No address labels or subscriber markings" / />}}
+  {{< interactive-modules/checklist-item label="No tears, creases, or folds on cover or pages" / />}}
+  {{< interactive-modules/checklist-item label="No water damage, stains, or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="All pages present and in original order" / />}}
+  {{< interactive-modules/checklist-item label="No writing, highlighting, or markings inside" / />}}
+  {{< interactive-modules/checklist-item label="Original inserts and advertisements included" / />}}
+  {{< interactive-modules/checklist-item label="No musty smell or signs of mold/mildew" / />}}
+  {{< interactive-modules/checklist-item label="Spine is intact with no splitting" / />}}
+  {{< interactive-modules/checklist-item label="Magazine has been stored flat, not rolled" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Tips for Cataloging Your Collection

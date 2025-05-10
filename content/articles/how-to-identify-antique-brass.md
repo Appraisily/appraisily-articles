@@ -342,14 +342,14 @@ The natural patina on antique brass often contributes significantly to its chara
 - Consider light waxing with microcrystalline wax to preserve existing patina
 
 {{< interactive-modules/condition-checklist title="Antique Brass Condition Assessment" description="Check applicable items to evaluate your brass piece" >}}
-  {{< interactive-modules/checklist-item label="No dents, bends, or structural damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original patina largely intact" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with all original components" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or hallmarks present" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or soldering visible" / / />}}
-  {{< interactive-modules/checklist-item label="Mechanical elements (if any) function properly" / / />}}
-  {{< interactive-modules/checklist-item label="No signs of brass plating wearing off" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal surface scratching" / / />}}
+  {{< interactive-modules/checklist-item label="No dents, bends, or structural damage" / />}}
+  {{< interactive-modules/checklist-item label="Original patina largely intact" / />}}
+  {{< interactive-modules/checklist-item label="Complete with all original components" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or hallmarks present" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or soldering visible" / />}}
+  {{< interactive-modules/checklist-item label="Mechanical elements (if any) function properly" / />}}
+  {{< interactive-modules/checklist-item label="No signs of brass plating wearing off" / />}}
+  {{< interactive-modules/checklist-item label="Minimal surface scratching" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/faq title="Common Questions About Identifying Antique Brass" id="faq-section" >}}

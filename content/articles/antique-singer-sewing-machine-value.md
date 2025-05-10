@@ -264,16 +264,16 @@ The condition of your Singer sewing machine significantly impacts its value in t
 ### Key Condition Factors That Impact Value
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Assessment" description="Check applicable items to evaluate your machine's condition" >}}
-  {{< interactive-modules/checklist-item label="Machine runs smoothly when operated" / / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacement parts)" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Decals clear and vibrant with minimal fading" / / />}}
-  {{< interactive-modules/checklist-item label="All mechanical functions work properly" / / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with original case or cabinet" / / />}}
-  {{< interactive-modules/checklist-item label="Original accessories included (bobbins, attachments)" / / />}}
-  {{< interactive-modules/checklist-item label="Original manual and documentation present" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks in bakelite or plastic components" / / />}}
+  {{< interactive-modules/checklist-item label="Machine runs smoothly when operated" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacement parts)" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Decals clear and vibrant with minimal fading" / />}}
+  {{< interactive-modules/checklist-item label="All mechanical functions work properly" / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / />}}
+  {{< interactive-modules/checklist-item label="Complete with original case or cabinet" / />}}
+  {{< interactive-modules/checklist-item label="Original accessories included (bobbins, attachments)" / />}}
+  {{< interactive-modules/checklist-item label="Original manual and documentation present" / />}}
+  {{< interactive-modules/checklist-item label="No cracks in bakelite or plastic components" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Understanding Condition Terminology

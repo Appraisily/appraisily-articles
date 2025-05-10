@@ -321,14 +321,14 @@ As explained by the [Society for Historical Archaeology](https://sha.org/bottle/
 According to [WhiskeyID.com](https://whiskeyid.com/how-to-date-id-your-whiskey/) (which also applies to medicine bottles), most manufacturers molded the year into the glass at the bottom in 2-digit format, often found in the lower right portion.
 
 {{< interactive-modules/condition-checklist title="Antique Medicine Bottle Authentication Checklist" description="Use this checklist to evaluate authenticity and age of medicine bottles" >}}
-  {{< interactive-modules/checklist-item label="Glass shows signs of age (tiny bubbles, asymmetry, waviness)" / / />}}
-  {{< interactive-modules/checklist-item label="Mold seams do not extend all the way to the lip (pre-1920)" / / />}}
-  {{< interactive-modules/checklist-item label="Base shows pontil mark or scar (pre-1860s)" / / />}}
-  {{< interactive-modules/checklist-item label="Embossing is crude or irregular (earlier production)" / / />}}
-  {{< interactive-modules/checklist-item label="Glass has natural aqua tint from iron impurities" / / />}}
-  {{< interactive-modules/checklist-item label="Lip appears to be separately applied to the bottle" / / />}}
-  {{< interactive-modules/checklist-item label="Bottom has no suction scars from machine production" / / />}}
-  {{< interactive-modules/checklist-item label="Bottle feels lighter and more brittle than modern glass" / / />}}
+  {{< interactive-modules/checklist-item label="Glass shows signs of age (tiny bubbles, asymmetry, waviness)" / />}}
+  {{< interactive-modules/checklist-item label="Mold seams do not extend all the way to the lip (pre-1920)" / />}}
+  {{< interactive-modules/checklist-item label="Base shows pontil mark or scar (pre-1860s)" / />}}
+  {{< interactive-modules/checklist-item label="Embossing is crude or irregular (earlier production)" / />}}
+  {{< interactive-modules/checklist-item label="Glass has natural aqua tint from iron impurities" / />}}
+  {{< interactive-modules/checklist-item label="Lip appears to be separately applied to the bottle" / />}}
+  {{< interactive-modules/checklist-item label="Bottom has no suction scars from machine production" / />}}
+  {{< interactive-modules/checklist-item label="Bottle feels lighter and more brittle than modern glass" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Embossed Text and Markings Analysis" level="2" >}}

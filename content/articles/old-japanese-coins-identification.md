@@ -257,12 +257,12 @@ With the rising value of Japanese coins, the market has seen an increase in coun
 ### Key Authentication Indicators
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use these criteria to assess the authenticity of Japanese coins" >}}
-  {{< interactive-modules/checklist-item label="Material Composition Matches Era" / / />}}
-  {{< interactive-modules/checklist-item label="Correct Weight and Dimensions for Type" / / />}}
-  {{< interactive-modules/checklist-item label="Proper Character Formation and Style" / / />}}
-  {{< interactive-modules/checklist-item label="Expected Patina and Aging Patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Mint Marks Correspond to Historical Records" / / />}}
-  {{< interactive-modules/checklist-item label="Casting Methods Match Period Technology" / / />}}
+  {{< interactive-modules/checklist-item label="Material Composition Matches Era" / />}}
+  {{< interactive-modules/checklist-item label="Correct Weight and Dimensions for Type" / />}}
+  {{< interactive-modules/checklist-item label="Proper Character Formation and Style" / />}}
+  {{< interactive-modules/checklist-item label="Expected Patina and Aging Patterns" / />}}
+  {{< interactive-modules/checklist-item label="Mint Marks Correspond to Historical Records" / />}}
+  {{< interactive-modules/checklist-item label="Casting Methods Match Period Technology" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Counterfeiting Red Flags

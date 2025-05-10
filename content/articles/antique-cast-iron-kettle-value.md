@@ -161,13 +161,13 @@ Many reputable foundries marked their pieces, though earlier examples may only h
 ### Dating Techniques
 
 {{< interactive-modules/condition-checklist title="Age Identification Checklist" description="Features to look for when determining a kettle's age" >}}
-  {{< interactive-modules/checklist-item label="Gate mark (rough line across bottom)" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-hammered components" / / />}}
-  {{< interactive-modules/checklist-item label="Bail handle attachment method" / / />}}
-  {{< interactive-modules/checklist-item label="Crude, asymmetrical casting" / / />}}
-  {{< interactive-modules/checklist-item label="Three-legged design (earlier pieces)" / / />}}
-  {{< interactive-modules/checklist-item label="Visible mold seams" / / />}}
-  {{< interactive-modules/checklist-item label="Distinctive spout design" / / />}}
+  {{< interactive-modules/checklist-item label="Gate mark (rough line across bottom)" / />}}
+  {{< interactive-modules/checklist-item label="Hand-hammered components" / />}}
+  {{< interactive-modules/checklist-item label="Bail handle attachment method" / />}}
+  {{< interactive-modules/checklist-item label="Crude, asymmetrical casting" / />}}
+  {{< interactive-modules/checklist-item label="Three-legged design (earlier pieces)" / />}}
+  {{< interactive-modules/checklist-item label="Visible mold seams" / />}}
+  {{< interactive-modules/checklist-item label="Distinctive spout design" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The presence of a gate mark—a rough line across the bottom of the kettle where excess iron was broken off during casting—typically indicates production before 1890. Later pieces generally have smoother finishes and more precise castings. Hand-hammered components or primitive construction techniques also suggest earlier manufacturing dates.
@@ -197,13 +197,13 @@ Generally, older kettles command higher prices, especially those from the 18th o
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Condition Evaluation Checklist" description="Assess your kettle's condition using these criteria" >}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original components (handles, legs, lids)" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust or pitting" / / />}}
-  {{< interactive-modules/checklist-item label="Smooth, even patina" / / />}}
-  {{< interactive-modules/checklist-item label="Clear manufacturer's marks (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Working lid and mechanisms" / / />}}
-  {{< interactive-modules/checklist-item label="No warping or damage" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original components (handles, legs, lids)" / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust or pitting" / />}}
+  {{< interactive-modules/checklist-item label="Smooth, even patina" / />}}
+  {{< interactive-modules/checklist-item label="Clear manufacturer's marks (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Working lid and mechanisms" / />}}
+  {{< interactive-modules/checklist-item label="No warping or damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition significantly impacts value. Pieces without cracks, repairs, or excessive rust command premium prices. Original components—including handles, legs, and lids—are crucial for maintaining value. While some surface rust is acceptable and even expected for antique pieces, deep pitting or structural rust can substantially decrease value.
@@ -286,13 +286,13 @@ Carefully examine the piece for signs of age consistent with its purported perio
 {{< interactive-modules/condition-checklist title="Warning Signs Checklist" description="Features that may indicate problems or reproductions" >}}
   
 {{< /interactive-modules/condition-checklist >}}
-{{< interactive-modules/checklist-item label="Perfectly smooth bottom (on supposedly pre-1890 pieces)" / / />}}
-  {{< interactive-modules/checklist-item label="Unusually lightweight for size" / / />}}
-  {{< interactive-modules/checklist-item label="Unnaturally even coloration" / / />}}
-  {{< interactive-modules/checklist-item label="Obvious weld repairs (often masked with paint)" / / />}}
-  {{< interactive-modules/checklist-item label="Artificially aged appearance" / / />}}
-  {{< interactive-modules/checklist-item label="Inconsistent patina or suspicious rust patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Reproduction marks (study authentic marks first)" / / />}}
+{{< interactive-modules/checklist-item label="Perfectly smooth bottom (on supposedly pre-1890 pieces)" / />}}
+  {{< interactive-modules/checklist-item label="Unusually lightweight for size" / />}}
+  {{< interactive-modules/checklist-item label="Unnaturally even coloration" / />}}
+  {{< interactive-modules/checklist-item label="Obvious weld repairs (often masked with paint)" / />}}
+  {{< interactive-modules/checklist-item label="Artificially aged appearance" / />}}
+  {{< interactive-modules/checklist-item label="Inconsistent patina or suspicious rust patterns" / />}}
+  {{< interactive-modules/checklist-item label="Reproduction marks (study authentic marks first)" / />}}
 
 
 ### Where to Buy Authentic Pieces

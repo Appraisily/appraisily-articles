@@ -237,15 +237,15 @@ The condition of antique photographs significantly impacts their value. Accordin
 ![Close-up of antique photograph showing condition issues like foxing and fading](https://ik.imagekit.io/appraisily/SEO/antique-pictures-value/antique-pictures-value-image-4_eXdh0BHMF.png)
 
 {{< interactive-modules/condition-checklist title="Antique Photograph Condition Assessment" description="Check applicable items to evaluate your antique photograph's condition" >}}
-  {{< interactive-modules/checklist-item label="Image is clear with good contrast" / / />}}
-  {{< interactive-modules/checklist-item label="No visible fading of the image" / / />}}
-  {{< interactive-modules/checklist-item label="Free from foxing (brown spots)" / / />}}
-  {{< interactive-modules/checklist-item label="No tears, creases or physical damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original mount or case intact" / / />}}
-  {{< interactive-modules/checklist-item label="Photographer's marks or studio imprints visible" / / />}}
-  {{< interactive-modules/checklist-item label="No moisture damage or mold" / / />}}
-  {{< interactive-modules/checklist-item label="No silvering on image surface" / / />}}
-  {{< interactive-modules/checklist-item label="Original writing or identification preserved" / / />}}
+  {{< interactive-modules/checklist-item label="Image is clear with good contrast" / />}}
+  {{< interactive-modules/checklist-item label="No visible fading of the image" / />}}
+  {{< interactive-modules/checklist-item label="Free from foxing (brown spots)" / />}}
+  {{< interactive-modules/checklist-item label="No tears, creases or physical damage" / />}}
+  {{< interactive-modules/checklist-item label="Original mount or case intact" / />}}
+  {{< interactive-modules/checklist-item label="Photographer's marks or studio imprints visible" / />}}
+  {{< interactive-modules/checklist-item label="No moisture damage or mold" / />}}
+  {{< interactive-modules/checklist-item label="No silvering on image surface" / />}}
+  {{< interactive-modules/checklist-item label="Original writing or identification preserved" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Factors for Prints and Lithographs

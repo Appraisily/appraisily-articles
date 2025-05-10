@@ -147,13 +147,13 @@ Antique stoneware crocks typically feature distinct design characteristics that 
 4. **Base Design**: Early crocks often have unglazed bottoms or simple foot rings, while later pieces may have more refined bases.
 
 {{< interactive-modules/condition-checklist title="Antique Stoneware Authentication Checklist" description="Check these features to help determine if your crock is an authentic antique" >}}
-  {{< interactive-modules/checklist-item label="Heavy, dense construction with substantial weight" / / />}}
-  {{< interactive-modules/checklist-item label="Salt-glazed surface with characteristic tiny bumps" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted decorations (typically cobalt blue)" / / />}}
-  {{< interactive-modules/checklist-item label="Visible throwing lines or tool marks from handcrafting" / / />}}
-  {{< interactive-modules/checklist-item label="Slightly uneven rim or base when placed on flat surface" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark or capacity number consistent with period" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear on base and handles" / / />}}
+  {{< interactive-modules/checklist-item label="Heavy, dense construction with substantial weight" / />}}
+  {{< interactive-modules/checklist-item label="Salt-glazed surface with characteristic tiny bumps" / />}}
+  {{< interactive-modules/checklist-item label="Hand-painted decorations (typically cobalt blue)" / />}}
+  {{< interactive-modules/checklist-item label="Visible throwing lines or tool marks from handcrafting" / />}}
+  {{< interactive-modules/checklist-item label="Slightly uneven rim or base when placed on flat surface" / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark or capacity number consistent with period" / />}}
+  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear on base and handles" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Maker's Marks and Stamps" level="2" >}}

@@ -144,14 +144,14 @@ Submitting your art for Sotheby's free valuation service involves a straightforw
 For the best chance of receiving a response, be thorough when describing your artwork. Include any provenance information (history of ownership), condition details, dimensions, and artist information.
 
 {{< interactive-modules/condition-checklist title="Information to Include in Your Submission" description="Providing complete information increases your chances of receiving a response" >}}
-  {{< interactive-modules/checklist-item label="Artist name and biographical information" / / />}}
-  {{< interactive-modules/checklist-item label="Complete dimensions (height, width, depth)" / / />}}
-  {{< interactive-modules/checklist-item label="Medium and materials" / / />}}
-  {{< interactive-modules/checklist-item label="Date of creation" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance (ownership history)" / / />}}
-  {{< interactive-modules/checklist-item label="Condition details including any damage" / / />}}
-  {{< interactive-modules/checklist-item label="Signature location and details" / / />}}
-  {{< interactive-modules/checklist-item label="Any certificates of authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Artist name and biographical information" / />}}
+  {{< interactive-modules/checklist-item label="Complete dimensions (height, width, depth)" / />}}
+  {{< interactive-modules/checklist-item label="Medium and materials" / />}}
+  {{< interactive-modules/checklist-item label="Date of creation" / />}}
+  {{< interactive-modules/checklist-item label="Provenance (ownership history)" / />}}
+  {{< interactive-modules/checklist-item label="Condition details including any damage" / />}}
+  {{< interactive-modules/checklist-item label="Signature location and details" / />}}
+  {{< interactive-modules/checklist-item label="Any certificates of authenticity" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## What to Expect After Submission

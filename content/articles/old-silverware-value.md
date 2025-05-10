@@ -236,13 +236,13 @@ The most reliable way to identify sterling silver is to check for maker's marks 
 According to [Bellamy's World](https://bellamysworld.com/blog/identifying-and-valuing-antique-sterling-silver), examining these hallmarks is the crucial first step in valuation.
 
 {{< interactive-modules/condition-checklist title="Sterling Silver Identification Checklist" description="Use this checklist to determine if your silverware is sterling silver" >}}
-  {{< interactive-modules/checklist-item label="Item is marked 'Sterling' or '925'" / / />}}
-  {{< interactive-modules/checklist-item label="Piece has visible hallmarks or maker's marks" / / />}}
-  {{< interactive-modules/checklist-item label="NOT marked 'EPNS' or 'Silver Plate'" / / />}}
-  {{< interactive-modules/checklist-item label="Has a substantial weight (heavier than stainless steel)" / / />}}
-  {{< interactive-modules/checklist-item label="Develops tarnish (sterling tarnishes, plate typically doesn't)" / / />}}
-  {{< interactive-modules/checklist-item label="Makes a distinct 'ping' sound when tapped (not a dull sound)" / / />}}
-  {{< interactive-modules/checklist-item label="Magnetism test - sterling is not magnetic" / / />}}
+  {{< interactive-modules/checklist-item label="Item is marked 'Sterling' or '925'" / />}}
+  {{< interactive-modules/checklist-item label="Piece has visible hallmarks or maker's marks" / />}}
+  {{< interactive-modules/checklist-item label="NOT marked 'EPNS' or 'Silver Plate'" / />}}
+  {{< interactive-modules/checklist-item label="Has a substantial weight (heavier than stainless steel)" / />}}
+  {{< interactive-modules/checklist-item label="Develops tarnish (sterling tarnishes, plate typically doesn't)" / />}}
+  {{< interactive-modules/checklist-item label="Makes a distinct 'ping' sound when tapped (not a dull sound)" / />}}
+  {{< interactive-modules/checklist-item label="Magnetism test - sterling is not magnetic" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Testing Methods for Unmarked Pieces

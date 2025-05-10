@@ -185,14 +185,14 @@ The condition of a vintage Pepsi bottle dramatically impacts its value. Collecto
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Pepsi Bottle Condition Factors" description="Use this checklist to assess your bottle's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="Original closure/cap intact" / / />}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossing or label" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents preserved (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint or ACL decoration intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="No case wear or friction marks on exterior" / / />}}
-  {{< interactive-modules/checklist-item label="Clean interior without staining or residue" / / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging (for commemorative bottles)" / / />}}
+  {{< interactive-modules/checklist-item label="Original closure/cap intact" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossing or label" / />}}
+  {{< interactive-modules/checklist-item label="Original contents preserved (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original paint or ACL decoration intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="No case wear or friction marks on exterior" / />}}
+  {{< interactive-modules/checklist-item label="Clean interior without staining or residue" / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging (for commemorative bottles)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Where to Buy and Sell Vintage Pepsi Bottles

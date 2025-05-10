@@ -180,13 +180,13 @@ The rare book trade uses specific terminology to describe condition:
 For collectible books, common condition issues that affect value include:
 
 {{< interactive-modules/condition-checklist title="Common Book Condition Issues" description="Check for these problems when assessing book condition" >}}
-{{< interactive-modules/checklist-item label="Foxing (brown spots on pages)" / / />}}
-{{< interactive-modules/checklist-item label="Loose or detached pages" / / />}}
-{{< interactive-modules/checklist-item label="Damaged spine or binding" / / />}}
-{{< interactive-modules/checklist-item label="Water damage or stains" / / />}}
-{{< interactive-modules/checklist-item label="Torn or missing dust jacket (for 20th-century books)" / / />}}
-{{< interactive-modules/checklist-item label="Previous owner inscriptions or library markings" / / />}}
-{{< interactive-modules/checklist-item label="Sunning (fading from light exposure)" / / />}}
+{{< interactive-modules/checklist-item label="Foxing (brown spots on pages)" / />}}
+{{< interactive-modules/checklist-item label="Loose or detached pages" / />}}
+{{< interactive-modules/checklist-item label="Damaged spine or binding" / />}}
+{{< interactive-modules/checklist-item label="Water damage or stains" / />}}
+{{< interactive-modules/checklist-item label="Torn or missing dust jacket (for 20th-century books)" / />}}
+{{< interactive-modules/checklist-item label="Previous owner inscriptions or library markings" / />}}
+{{< interactive-modules/checklist-item label="Sunning (fading from light exposure)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Provenance and Association" level="3" >}}

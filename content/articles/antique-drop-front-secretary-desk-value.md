@@ -165,16 +165,16 @@ High-quality woods like mahogany, walnut, and rosewood typically indicate better
 Condition dramatically affects value. Original finish, hardware, and minimal repairs command premium prices. While some patina is expected and often desirable, significant damage, missing elements, or poor-quality repairs can substantially reduce value.
 
 {{< interactive-modules/condition-checklist title="Secretary Desk Condition Assessment" description="Check all applicable items to evaluate your desk's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact with appropriate patina" / / />}}
-  {{< interactive-modules/checklist-item label="All original hardware present and functional" / / />}}
-  {{< interactive-modules/checklist-item label="Drop front mechanism works smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="Interior compartments and pigeonholes complete" / / />}}
-  {{< interactive-modules/checklist-item label="Drawers slide smoothly with original runners" / / />}}
-  {{< interactive-modules/checklist-item label="No significant cracks, splits or veneer damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original feet with minimal wear or damage" / / />}}
-  {{< interactive-modules/checklist-item label="No signs of insect damage or active infestation" / / />}}
-  {{< interactive-modules/checklist-item label="If bookcase top present, original glass intact" / / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or maker's marks present" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with appropriate patina" / />}}
+  {{< interactive-modules/checklist-item label="All original hardware present and functional" / />}}
+  {{< interactive-modules/checklist-item label="Drop front mechanism works smoothly" / />}}
+  {{< interactive-modules/checklist-item label="Interior compartments and pigeonholes complete" / />}}
+  {{< interactive-modules/checklist-item label="Drawers slide smoothly with original runners" / />}}
+  {{< interactive-modules/checklist-item label="No significant cracks, splits or veneer damage" / />}}
+  {{< interactive-modules/checklist-item label="Original feet with minimal wear or damage" / />}}
+  {{< interactive-modules/checklist-item label="No signs of insect damage or active infestation" / />}}
+  {{< interactive-modules/checklist-item label="If bookcase top present, original glass intact" / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance or maker's marks present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Desirability

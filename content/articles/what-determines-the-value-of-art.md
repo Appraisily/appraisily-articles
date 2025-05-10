@@ -148,11 +148,11 @@ Provenance factors that can increase an artwork's value include:
 The provenance not only adds a layer of historical interest to an artwork but also helps verify its authenticity, which is crucial in establishing value. A well-documented provenance that traces ownership back to the artist provides confidence to buyers and can significantly increase an artwork's market value.
 
 {{< interactive-modules/condition-checklist title="Art Provenance Checklist" description="Key provenance elements that enhance art value" >}}
-{{< interactive-modules/checklist-item label="Complete ownership history from artist to present" / / />}}
-{{< interactive-modules/checklist-item label="Notable previous collectors or institutions" / / />}}
-{{< interactive-modules/checklist-item label="Documented exhibition history at prestigious venues" / / />}}
-{{< interactive-modules/checklist-item label="Sales records from reputable galleries or auction houses" / / />}}
-{{< interactive-modules/checklist-item label="Letters of authenticity and supporting documentation" / / />}}
+{{< interactive-modules/checklist-item label="Complete ownership history from artist to present" / />}}
+{{< interactive-modules/checklist-item label="Notable previous collectors or institutions" / />}}
+{{< interactive-modules/checklist-item label="Documented exhibition history at prestigious venues" / />}}
+{{< interactive-modules/checklist-item label="Sales records from reputable galleries or auction houses" / />}}
+{{< interactive-modules/checklist-item label="Letters of authenticity and supporting documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 3. Rarity and Scarcity

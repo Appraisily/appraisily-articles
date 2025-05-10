@@ -154,12 +154,12 @@ The materials used in crafting a Cartier watch significantly impact its value. P
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Material Value Assessment" description="Elements that increase a Cartier watch's value" >}}
-  {{< interactive-modules/checklist-item label="18K gold case and bracelet" / / />}}
-  {{< interactive-modules/checklist-item label="Genuine diamonds or precious gemstones" / / />}}
-  {{< interactive-modules/checklist-item label="Platinum components" / / />}}
-  {{< interactive-modules/checklist-item label="In-house Cartier movement" / / />}}
-  {{< interactive-modules/checklist-item label="Original sapphire crystal intact" / / />}}
-  {{< interactive-modules/checklist-item label="Specialized finishing techniques" / / />}}
+  {{< interactive-modules/checklist-item label="18K gold case and bracelet" / />}}
+  {{< interactive-modules/checklist-item label="Genuine diamonds or precious gemstones" / />}}
+  {{< interactive-modules/checklist-item label="Platinum components" / />}}
+  {{< interactive-modules/checklist-item label="In-house Cartier movement" / />}}
+  {{< interactive-modules/checklist-item label="Original sapphire crystal intact" / />}}
+  {{< interactive-modules/checklist-item label="Specialized finishing techniques" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Age and Rarity" level="3" >}}
@@ -189,13 +189,13 @@ The condition of a Cartier watch is perhaps the most critical factor in determin
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Condition Factors Examined During Appraisal" description="Elements that appraisers evaluate" >}}
-  {{< interactive-modules/checklist-item label="Case integrity and polish" / / />}}
-  {{< interactive-modules/checklist-item label="Dial condition (no fading, spotting, or damage)" / / />}}
-  {{< interactive-modules/checklist-item label="Movement functionality and service history" / / />}}
-  {{< interactive-modules/checklist-item label="Original bracelet condition" / / />}}
-  {{< interactive-modules/checklist-item label="Crystal clarity (no scratches or cracks)" / / />}}
-  {{< interactive-modules/checklist-item label="Crown and pusher functionality" / / />}}
-  {{< interactive-modules/checklist-item label="Original finishing intact" / / />}}
+  {{< interactive-modules/checklist-item label="Case integrity and polish" / />}}
+  {{< interactive-modules/checklist-item label="Dial condition (no fading, spotting, or damage)" / />}}
+  {{< interactive-modules/checklist-item label="Movement functionality and service history" / />}}
+  {{< interactive-modules/checklist-item label="Original bracelet condition" / />}}
+  {{< interactive-modules/checklist-item label="Crystal clarity (no scratches or cracks)" / />}}
+  {{< interactive-modules/checklist-item label="Crown and pusher functionality" / />}}
+  {{< interactive-modules/checklist-item label="Original finishing intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Provenance and Documentation" level="3" >}}
@@ -266,13 +266,13 @@ Authentication is a critical component of the appraisal process. Counterfeit Car
 ![Close examination of Cartier watch details for authentication](https://ik.imagekit.io/appraisily/SEO/cartier-watch-appraisal/cartier-watch-appraisal-image-5__6so9460w.png)
 
 {{< interactive-modules/condition-checklist title="Authenticating Your Cartier Watch" description="Key elements examiners look for during authentication" >}}
-  {{< interactive-modules/checklist-item label="Precise engraving of the Cartier logo" / / />}}
-  {{< interactive-modules/checklist-item label="Proper serial number format and placement" / / />}}
-  {{< interactive-modules/checklist-item label="Correct fonts on dial and caseback" / / />}}
-  {{< interactive-modules/checklist-item label="Quality of materials and finishing" / / />}}
-  {{< interactive-modules/checklist-item label="Authentic movement with proper markings" / / />}}
-  {{< interactive-modules/checklist-item label="Precise crown with sapphire cabochon" / / />}}
-  {{< interactive-modules/checklist-item label="Correct weight and feel" / / />}}
+  {{< interactive-modules/checklist-item label="Precise engraving of the Cartier logo" / />}}
+  {{< interactive-modules/checklist-item label="Proper serial number format and placement" / />}}
+  {{< interactive-modules/checklist-item label="Correct fonts on dial and caseback" / />}}
+  {{< interactive-modules/checklist-item label="Quality of materials and finishing" / />}}
+  {{< interactive-modules/checklist-item label="Authentic movement with proper markings" / />}}
+  {{< interactive-modules/checklist-item label="Precise crown with sapphire cabochon" / />}}
+  {{< interactive-modules/checklist-item label="Correct weight and feel" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Professional appraisers use specialized equipment including:
@@ -325,13 +325,13 @@ Taking specific steps before submitting your Cartier watch for appraisal can hel
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Pre-Appraisal Checklist" description="Steps to prepare your Cartier watch for professional evaluation" >}}
-  {{< interactive-modules/checklist-item label="Gather all original documentation (box, papers, warranty card, receipts)" / / />}}
-  {{< interactive-modules/checklist-item label="Compile service history records" / / />}}
-  {{< interactive-modules/checklist-item label="Clean the watch gently (no harsh chemicals)" / / />}}
-  {{< interactive-modules/checklist-item label="Take clear photographs from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Note any known issues or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Research recent sales of similar models" / / />}}
-  {{< interactive-modules/checklist-item label="Prepare information about provenance if relevant" / / />}}
+  {{< interactive-modules/checklist-item label="Gather all original documentation (box, papers, warranty card, receipts)" / />}}
+  {{< interactive-modules/checklist-item label="Compile service history records" / />}}
+  {{< interactive-modules/checklist-item label="Clean the watch gently (no harsh chemicals)" / />}}
+  {{< interactive-modules/checklist-item label="Take clear photographs from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Note any known issues or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Research recent sales of similar models" / />}}
+  {{< interactive-modules/checklist-item label="Prepare information about provenance if relevant" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Avoid these common mistakes:

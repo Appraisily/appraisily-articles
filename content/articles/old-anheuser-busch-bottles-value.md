@@ -189,13 +189,13 @@ The physical characteristics of the bottle itself can reveal much about its age:
 Special mention should be made of C. Conrad & Co. Budweiser bottles, which predate Anheuser-Busch's ownership of the Budweiser name. These extremely rare bottles from the 1870s represent some of the earliest Budweiser beer bottles ever produced. According to a post on [Antique-Bottles.net](https://www.antique-bottles.net/threads/budweiser-bottle-10-000-00-on-ebay.698503/), these bottles have sold for as much as $10,000 on specialty marketplaces.
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist to help authenticate vintage Anheuser-Busch bottles" >}}
-  {{< interactive-modules/checklist-item label="Check for authentic AB monogram or eagle logo embossing" / / />}}
-  {{< interactive-modules/checklist-item label="Examine base markings for manufacturer codes and dates" / / />}}
-  {{< interactive-modules/checklist-item label="Look for appropriate wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Verify glass color matches known production (amber most common)" / / />}}
-  {{< interactive-modules/checklist-item label="Confirm bottle dimensions match historical standards" / / />}}
-  {{< interactive-modules/checklist-item label="Check for appropriate seam marks based on manufacturing period" / / />}}
-  {{< interactive-modules/checklist-item label="Examine for proper patina or mineral deposits if dug" / / />}}
+  {{< interactive-modules/checklist-item label="Check for authentic AB monogram or eagle logo embossing" / />}}
+  {{< interactive-modules/checklist-item label="Examine base markings for manufacturer codes and dates" / />}}
+  {{< interactive-modules/checklist-item label="Look for appropriate wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Verify glass color matches known production (amber most common)" / />}}
+  {{< interactive-modules/checklist-item label="Confirm bottle dimensions match historical standards" / />}}
+  {{< interactive-modules/checklist-item label="Check for appropriate seam marks based on manufacturing period" / />}}
+  {{< interactive-modules/checklist-item label="Examine for proper patina or mineral deposits if dug" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors Affecting Bottle Value" level="2" >}}

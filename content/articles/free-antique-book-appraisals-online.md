@@ -240,15 +240,15 @@ Clear, well-lit photographs are essential for accurate online appraisals:
 ![Multiple angles of an antique book for appraisal](https://ik.imagekit.io/appraisily/SEO/free-antique-book-appraisals-online/free-antique-book-appraisals-online-image-4_QB3KV8lTS.png)
 
 {{< interactive-modules/condition-checklist title="Book Photography Checklist" description="Essential photos to include with your appraisal request" >}}
-  {{< interactive-modules/checklist-item label="Front cover (full view)" / / />}}
-  {{< interactive-modules/checklist-item label="Spine of the book" / / />}}
-  {{< interactive-modules/checklist-item label="Back cover" / / />}}
-  {{< interactive-modules/checklist-item label="Title page (complete)" / / />}}
-  {{< interactive-modules/checklist-item label="Copyright/publication page" / / />}}
-  {{< interactive-modules/checklist-item label="Any signatures or inscriptions" / / />}}
-  {{< interactive-modules/checklist-item label="Notable illustrations or plates" / / />}}
-  {{< interactive-modules/checklist-item label="Any damage or defects" / / />}}
-  {{< interactive-modules/checklist-item label="Full binding (showing condition)" / / />}}
+  {{< interactive-modules/checklist-item label="Front cover (full view)" / />}}
+  {{< interactive-modules/checklist-item label="Spine of the book" / />}}
+  {{< interactive-modules/checklist-item label="Back cover" / />}}
+  {{< interactive-modules/checklist-item label="Title page (complete)" / />}}
+  {{< interactive-modules/checklist-item label="Copyright/publication page" / />}}
+  {{< interactive-modules/checklist-item label="Any signatures or inscriptions" / />}}
+  {{< interactive-modules/checklist-item label="Notable illustrations or plates" / />}}
+  {{< interactive-modules/checklist-item label="Any damage or defects" / />}}
+  {{< interactive-modules/checklist-item label="Full binding (showing condition)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Write a Detailed Description

@@ -273,12 +273,12 @@ Many Ford tools were not manufactured by Ford itself but by various tool compani
 These marks are often found on the reverse side of the tool, opposite the Ford script or FoMoCo logo.
 
 {{< interactive-modules/condition-checklist title="Authenticity Checklist for Vintage Ford Tools" description="Use this checklist to help verify if a tool is an authentic Ford item" >}}
-  {{< interactive-modules/checklist-item label="Proper Ford script or FoMoCo oval marking" / / />}}
-  {{< interactive-modules/checklist-item label="Correct era-appropriate part number" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer code on reverse side" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate patina and wear for age" / / />}}
-  {{< interactive-modules/checklist-item label="Design consistent with known Ford tools" / / />}}
-  {{< interactive-modules/checklist-item label="Correct material and construction quality" / / />}}
+  {{< interactive-modules/checklist-item label="Proper Ford script or FoMoCo oval marking" / />}}
+  {{< interactive-modules/checklist-item label="Correct era-appropriate part number" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer code on reverse side" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate patina and wear for age" / />}}
+  {{< interactive-modules/checklist-item label="Design consistent with known Ford tools" / />}}
+  {{< interactive-modules/checklist-item label="Correct material and construction quality" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Valuing Vintage Ford Tools" level="2" >}}

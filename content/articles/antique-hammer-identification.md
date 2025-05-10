@@ -248,11 +248,11 @@ The materials used in a hammer's construction provide important clues about its 
 Manufacturer marks provide crucial information for identification and dating:
 
 {{< interactive-modules/condition-checklist title="Where to Look for Maker's Marks" description="Check these areas when examining an antique hammer" >}}
-  {{< interactive-modules/checklist-item label="Side of hammer head" / / />}}
-  {{< interactive-modules/checklist-item label="Top or bottom of hammer face" / / />}}
-  {{< interactive-modules/checklist-item label="Near the eye where handle enters" / / />}}
-  {{< interactive-modules/checklist-item label="On the claw or pein section" / / />}}
-  {{< interactive-modules/checklist-item label="Stamped on the handle (less common)" / / />}}
+  {{< interactive-modules/checklist-item label="Side of hammer head" / />}}
+  {{< interactive-modules/checklist-item label="Top or bottom of hammer face" / />}}
+  {{< interactive-modules/checklist-item label="Near the eye where handle enters" / />}}
+  {{< interactive-modules/checklist-item label="On the claw or pein section" / />}}
+  {{< interactive-modules/checklist-item label="Stamped on the handle (less common)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Common historical hammer manufacturers include:

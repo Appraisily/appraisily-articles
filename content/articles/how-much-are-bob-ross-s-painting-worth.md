@@ -381,14 +381,14 @@ Bob Ross painted over 30,000 artworks in his lifetime, but only a small fraction
 As with all art, condition significantly impacts value. Paintings that have been properly stored and preserved, without damage or restoration, will command higher prices.
 
 {{< interactive-modules/condition-checklist title="Bob Ross Painting Condition Assessment" description="Factors that can affect the value of a Bob Ross original painting" >}}
-  {{< interactive-modules/checklist-item label="Painting is on original 18\" x 24\" canvas" / / />}}
-  {{< interactive-modules/checklist-item label="Colors remain vibrant with no fading" / / />}}
-  {{< interactive-modules/checklist-item label="Canvas has no tears, punctures, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original Bob Ross signature is clearly visible" / / />}}
-  {{< interactive-modules/checklist-item label="Paint texture is intact with no flaking" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage or environmental exposure" / / />}}
-  {{< interactive-modules/checklist-item label="Original framing (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Accompanied by certificate of authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Painting is on original 18\" x 24\" canvas" / />}}
+  {{< interactive-modules/checklist-item label="Colors remain vibrant with no fading" / />}}
+  {{< interactive-modules/checklist-item label="Canvas has no tears, punctures, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original Bob Ross signature is clearly visible" / />}}
+  {{< interactive-modules/checklist-item label="Paint texture is intact with no flaking" / />}}
+  {{< interactive-modules/checklist-item label="No water damage or environmental exposure" / />}}
+  {{< interactive-modules/checklist-item label="Original framing (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Accompanied by certificate of authenticity" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Signature and Documentation

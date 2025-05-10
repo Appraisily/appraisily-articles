@@ -205,12 +205,12 @@ Different types of appraisals serve different purposes:
 To get the most accurate appraisal, prepare the following:
 
 {{< interactive-modules/condition-checklist title="Appraisal Preparation Checklist" description="Items to gather before your appraisal appointment" >}}
-  {{< interactive-modules/checklist-item label="Clear photographs showing the doll from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Close-up images of any maker's marks, signatures, or labels" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance (history of ownership)" / / />}}
-  {{< interactive-modules/checklist-item label="Original boxes, clothing, or accessories" / / />}}
-  {{< interactive-modules/checklist-item label="Any repair or restoration records" / / />}}
-  {{< interactive-modules/checklist-item label="Previous appraisals or sales receipts" / / />}}
+  {{< interactive-modules/checklist-item label="Clear photographs showing the doll from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Close-up images of any maker's marks, signatures, or labels" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance (history of ownership)" / />}}
+  {{< interactive-modules/checklist-item label="Original boxes, clothing, or accessories" / />}}
+  {{< interactive-modules/checklist-item label="Any repair or restoration records" / />}}
+  {{< interactive-modules/checklist-item label="Previous appraisals or sales receipts" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Typical Costs and Timeframes
@@ -297,13 +297,13 @@ While age alone doesn't determine value, it often correlates with rarity and his
 Condition is perhaps the single most important factor affecting an antique doll's value:
 
 {{< interactive-modules/condition-checklist title="Condition Factors Affecting Doll Value" description="Elements that appraisers examine closely" >}}
-  {{< interactive-modules/checklist-item label="Original finish and paint" / / />}}
-  {{< interactive-modules/checklist-item label="Intact limbs and body with no cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original wig or molded hair in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, undamaged glass or painted eyes" / / />}}
-  {{< interactive-modules/checklist-item label="Original clothing and accessories" / / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical features, if applicable" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and paperwork" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish and paint" / />}}
+  {{< interactive-modules/checklist-item label="Intact limbs and body with no cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original wig or molded hair in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Clear, undamaged glass or painted eyes" / />}}
+  {{< interactive-modules/checklist-item label="Original clothing and accessories" / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical features, if applicable" / />}}
+  {{< interactive-modules/checklist-item label="Original box and paperwork" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of antique porcelain doll head showing detailed features appraisers examine](https://ik.imagekit.io/appraisily/SEO/antique-doll-appraisers/antique-doll-appraisers-image-4_85DFJ2_aJ.png)
@@ -489,12 +489,12 @@ Proper preparation can make the appraisal process more efficient and accurate. F
 Before meeting with an appraiser, gather as much information as possible:
 
 {{< interactive-modules/condition-checklist title="Pre-Appraisal Documentation Checklist" description="Information to compile before your appraisal" >}}
-  {{< interactive-modules/checklist-item label="Original purchase receipts or gift documentation" / / />}}
-  {{< interactive-modules/checklist-item label="Previous appraisals or insurance records" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance documents (letters, photographs, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Family history or stories connected to the dolls" / / />}}
-  {{< interactive-modules/checklist-item label="Any restoration or repair records" / / />}}
-  {{< interactive-modules/checklist-item label="Original boxes, certificates, or paperwork" / / />}}
+  {{< interactive-modules/checklist-item label="Original purchase receipts or gift documentation" / />}}
+  {{< interactive-modules/checklist-item label="Previous appraisals or insurance records" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documents (letters, photographs, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Family history or stories connected to the dolls" / />}}
+  {{< interactive-modules/checklist-item label="Any restoration or repair records" / />}}
+  {{< interactive-modules/checklist-item label="Original boxes, certificates, or paperwork" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 

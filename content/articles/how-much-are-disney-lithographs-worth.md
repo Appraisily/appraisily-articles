@@ -140,13 +140,13 @@ Identifying authentic Disney lithographs is critical for determining value. Look
 5. **Disney Copyright Information**: Look for proper copyright notices and Disney trademarks
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist to verify Disney lithograph authenticity" >}}
-  {{< interactive-modules/checklist-item label="Official Disney seal or hologram present" / / />}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity with Disney branding" / / />}}
-  {{< interactive-modules/checklist-item label="Clear numbering showing limited edition status" / / />}}
-  {{< interactive-modules/checklist-item label="Hand signature from Disney artist (not printed)" / / />}}
-  {{< interactive-modules/checklist-item label="Proper Disney copyright information" / / />}}
-  {{< interactive-modules/checklist-item label="Original Disney-branded frame (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Official Disney seal or hologram present" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity with Disney branding" / />}}
+  {{< interactive-modules/checklist-item label="Clear numbering showing limited edition status" / />}}
+  {{< interactive-modules/checklist-item label="Hand signature from Disney artist (not printed)" / />}}
+  {{< interactive-modules/checklist-item label="Proper Disney copyright information" / />}}
+  {{< interactive-modules/checklist-item label="Original Disney-branded frame (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of Disney lithograph showing certificate of authenticity and numbering](https://ik.imagekit.io/appraisily/SEO/how-much-are-disney-lithographs-worth/how-much-are-disney-lithographs-worth-image-3_hYqF44tQD.png)

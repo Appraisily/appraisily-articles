@@ -152,11 +152,11 @@ While free online appraisals provide valuable insights, they do have limitations
 The quality of your photographs significantly impacts the accuracy of your appraisal:
 
 {{< interactive-modules/condition-checklist title="Photo Quality Checklist" description="Ensure your appraisal photos meet these criteria" >}}
-  {{< interactive-modules/checklist-item label="Use natural, diffused lighting to avoid glare and shadows" / / />}}
-  {{< interactive-modules/checklist-item label="Capture multiple angles (front, back, top, bottom, sides)" / / />}}
-  {{< interactive-modules/checklist-item label="Include close-ups of signatures, maker's marks, and hallmarks" / / />}}
-  {{< interactive-modules/checklist-item label="Document any damage, repairs, or restorations" / / />}}
-  {{< interactive-modules/checklist-item label="Include a ruler or common object for size reference" / / />}}
+  {{< interactive-modules/checklist-item label="Use natural, diffused lighting to avoid glare and shadows" / />}}
+  {{< interactive-modules/checklist-item label="Capture multiple angles (front, back, top, bottom, sides)" / />}}
+  {{< interactive-modules/checklist-item label="Include close-ups of signatures, maker's marks, and hallmarks" / />}}
+  {{< interactive-modules/checklist-item label="Document any damage, repairs, or restorations" / />}}
+  {{< interactive-modules/checklist-item label="Include a ruler or common object for size reference" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Providing Complete Information

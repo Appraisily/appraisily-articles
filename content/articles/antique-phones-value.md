@@ -192,14 +192,14 @@ Generally, older telephones command higher prices, especially those from the ear
 Condition significantly impacts an antique telephone's value. Phones in original, unrestored condition with minimal wear typically command premium prices. Key condition factors include:
 
 {{< interactive-modules/condition-checklist title="Antique Telephone Condition Assessment" description="Check applicable items to evaluate your phone's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="All original components present (no replacement parts)" / / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical functions (dial, ringer, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Original cord with minimal fraying" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs to the body" / / />}}
-  {{< interactive-modules/checklist-item label="Free of significant rust, corrosion, or tarnish" / / />}}
-  {{< interactive-modules/checklist-item label="Original decals and markings visible" / / />}}
-  {{< interactive-modules/checklist-item label="Original documentation or box included" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="All original components present (no replacement parts)" / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical functions (dial, ringer, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Original cord with minimal fraying" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs to the body" / />}}
+  {{< interactive-modules/checklist-item label="Free of significant rust, corrosion, or tarnish" / />}}
+  {{< interactive-modules/checklist-item label="Original decals and markings visible" / />}}
+  {{< interactive-modules/checklist-item label="Original documentation or box included" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Manufacturer and Model

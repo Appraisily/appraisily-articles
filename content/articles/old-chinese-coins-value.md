@@ -203,13 +203,13 @@ For example, "Qian Long Tong Bao" indicates a coin from the Qianlong Emperor's r
 ### Valuable Qing Dynasty Coin Types
 
 {{< interactive-modules/condition-checklist title="Factors Affecting Qing Dynasty Coin Values" description="Check applicable items when assessing your coins" >}}
-  {{< interactive-modules/checklist-item label="Complete, legible inscription" / / />}}
-  {{< interactive-modules/checklist-item label="No significant corrosion or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Even color and patina" / / />}}
-  {{< interactive-modules/checklist-item label="Authentic mint marks (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Correct weight for the period" / / />}}
-  {{< interactive-modules/checklist-item label="Proper centering of the square hole" / / />}}
-  {{< interactive-modules/checklist-item label="Evidence of genuine casting methods" / / />}}
+  {{< interactive-modules/checklist-item label="Complete, legible inscription" / />}}
+  {{< interactive-modules/checklist-item label="No significant corrosion or damage" / />}}
+  {{< interactive-modules/checklist-item label="Even color and patina" / />}}
+  {{< interactive-modules/checklist-item label="Authentic mint marks (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Correct weight for the period" / />}}
+  {{< interactive-modules/checklist-item label="Proper centering of the square hole" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of genuine casting methods" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to eBay's [Chinese Empire coins category](https://www.ebay.com/b/Chinese-Empire-Coins-Pre-1948/173597/bn_16562290), Qing Dynasty coins often show signs of wear but command higher prices due to their historical value. Complete strings of original cash coins, like those sold by [888 Auctions](https://www.invaluable.com/blog/rare-chinese-coins-qing-dynasty-coins-overview/) (five strings of ten Yongzheng Tongbao coins) for $300, represent an affordable entry point for collectors interested in this era.

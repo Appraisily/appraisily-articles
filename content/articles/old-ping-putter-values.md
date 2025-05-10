@@ -182,14 +182,14 @@ PING putters often feature colored dots that indicate the lie angle:
 While the colored dots primarily indicate fitting specifications rather than directly affecting value, original and correct color coding can be important to collectors seeking authentic examples.
 
 {{< interactive-modules/condition-checklist title="PING Putter Condition Assessment" description="Check applicable items to assess your putter's condition" >}}
-  {{< interactive-modules/checklist-item label="Original grip in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or reshafting" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, readable manufacturer's stamps" / / />}}
-  {{< interactive-modules/checklist-item label="No significant face wear or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish largely intact" / / />}}
-  {{< interactive-modules/checklist-item label="Shaft is straight without dents" / / />}}
-  {{< interactive-modules/checklist-item label="No significant nicks or dents on head" / / />}}
-  {{< interactive-modules/checklist-item label="Has original headcover (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original grip in good condition" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or reshafting" / />}}
+  {{< interactive-modules/checklist-item label="Clear, readable manufacturer's stamps" / />}}
+  {{< interactive-modules/checklist-item label="No significant face wear or damage" / />}}
+  {{< interactive-modules/checklist-item label="Original finish largely intact" / />}}
+  {{< interactive-modules/checklist-item label="Shaft is straight without dents" / />}}
+  {{< interactive-modules/checklist-item label="No significant nicks or dents on head" / />}}
+  {{< interactive-modules/checklist-item label="Has original headcover (if applicable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for Vintage PING Putters" level="2" >}}

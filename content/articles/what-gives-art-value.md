@@ -257,16 +257,16 @@ The critical discourse surrounding an artwork substantially impacts its perceive
 Critical reception contributes to an artwork's long-term cultural significance, which ultimately influences its market value. This explains why critically acclaimed works often appreciate substantially over time, even when initially undervalued by the market.
 
 {{< interactive-modules/condition-checklist title="Art Valuation Checklist" description="Key factors to consider when assessing art value" >}}
-  {{< interactive-modules/checklist-item label="Artist's reputation and exhibition history" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance and ownership history" / / />}}
-  {{< interactive-modules/checklist-item label="Authenticity documentation and certification" / / />}}
-  {{< interactive-modules/checklist-item label="Condition assessment" / / />}}
-  {{< interactive-modules/checklist-item label="Size, medium, and technical quality" / / />}}
-  {{< interactive-modules/checklist-item label="Historical significance and period importance" / / />}}
-  {{< interactive-modules/checklist-item label="Rarity and scarcity factors" / / />}}
-  {{< interactive-modules/checklist-item label="Previous sales and auction results" / / />}}
-  {{< interactive-modules/checklist-item label="Gallery representation and institutional recognition" / / />}}
-  {{< interactive-modules/checklist-item label="Cultural impact and contemporary relevance" / / />}}
+  {{< interactive-modules/checklist-item label="Artist's reputation and exhibition history" / />}}
+  {{< interactive-modules/checklist-item label="Provenance and ownership history" / />}}
+  {{< interactive-modules/checklist-item label="Authenticity documentation and certification" / />}}
+  {{< interactive-modules/checklist-item label="Condition assessment" / />}}
+  {{< interactive-modules/checklist-item label="Size, medium, and technical quality" / />}}
+  {{< interactive-modules/checklist-item label="Historical significance and period importance" / />}}
+  {{< interactive-modules/checklist-item label="Rarity and scarcity factors" / />}}
+  {{< interactive-modules/checklist-item label="Previous sales and auction results" / />}}
+  {{< interactive-modules/checklist-item label="Gallery representation and institutional recognition" / />}}
+  {{< interactive-modules/checklist-item label="Cultural impact and contemporary relevance" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Role of Experts in Determining Art Value" level="2" >}}

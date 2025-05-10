@@ -160,12 +160,12 @@ Bulova watches contain various movements depending on the era:
 - **1970s-1980s**: Mix of automatic, Accutron, and early quartz movements
 
 {{< interactive-modules/condition-checklist title="Bulova Authentication Checklist" description="Check these elements when verifying an authentic vintage Bulova" >}}
-  {{< interactive-modules/checklist-item label="Bulova logo correctly styled on dial and movement" / / />}}
-  {{< interactive-modules/checklist-item label="Case markings match the appropriate era" / / />}}
-  {{< interactive-modules/checklist-item label="Movement type consistent with production period" / / />}}
-  {{< interactive-modules/checklist-item label="Date code present (for watches made after 1950)" / / />}}
-  {{< interactive-modules/checklist-item label="Case style and dial design authentic to the period" / / />}}
-  {{< interactive-modules/checklist-item label="Quality of finishing consistent with Bulova standards" / / />}}
+  {{< interactive-modules/checklist-item label="Bulova logo correctly styled on dial and movement" / />}}
+  {{< interactive-modules/checklist-item label="Case markings match the appropriate era" / />}}
+  {{< interactive-modules/checklist-item label="Movement type consistent with production period" / />}}
+  {{< interactive-modules/checklist-item label="Date code present (for watches made after 1950)" / />}}
+  {{< interactive-modules/checklist-item label="Case style and dial design authentic to the period" / />}}
+  {{< interactive-modules/checklist-item label="Quality of finishing consistent with Bulova standards" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For more detailed identification help, the [My Bulova](https://www.mybulova.com/) website maintains an extensive database of vintage Bulova models that can be searched by characteristics or date codes.

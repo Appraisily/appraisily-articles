@@ -160,13 +160,13 @@ The earliest issues from the 1950s and early 1960s command the highest prices du
 Magazine condition dramatically impacts value, with price differences of 50-80% between mint and average condition copies. Collectors use a grading scale similar to comic books:
 
 {{< interactive-modules/condition-checklist title="Playboy Condition Assessment" description="Factors to consider when evaluating magazine condition" >}}
-  {{< interactive-modules/checklist-item label="Cover is intact with no tears, creases or fading" / / />}}
-  {{< interactive-modules/checklist-item label="Spine is straight and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Pages are clean with no writing, stains or yellowing" / / />}}
-  {{< interactive-modules/checklist-item label="Centerfold is intact and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="All inserts and special features are present" / / />}}
-  {{< interactive-modules/checklist-item label="No mailing labels or subscription markings" / / />}}
-  {{< interactive-modules/checklist-item label="Original staples show no rust" / / />}}
+  {{< interactive-modules/checklist-item label="Cover is intact with no tears, creases or fading" / />}}
+  {{< interactive-modules/checklist-item label="Spine is straight and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Pages are clean with no writing, stains or yellowing" / />}}
+  {{< interactive-modules/checklist-item label="Centerfold is intact and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="All inserts and special features are present" / />}}
+  {{< interactive-modules/checklist-item label="No mailing labels or subscription markings" / />}}
+  {{< interactive-modules/checklist-item label="Original staples show no rust" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Featured Celebrities

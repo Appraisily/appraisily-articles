@@ -232,14 +232,14 @@ The condition of a coin dramatically affects its value, with pristine uncirculat
 Third-party certification from respected grading services like PCGS or NGC adds significant confidence and typically increases a coin's market value by confirming authenticity and condition.
 
 {{< interactive-modules/condition-checklist title="Chinese Silver Coin Condition Assessment" description="Check applicable items to help determine your coin's condition" >}}
-  {{< interactive-modules/checklist-item label="All lettering is clear and fully visible" / / />}}
-  {{< interactive-modules/checklist-item label="Dragon scales or portrait details are sharp and well-defined" / / />}}
-  {{< interactive-modules/checklist-item label="Original luster is present with minimal dulling" / / />}}
-  {{< interactive-modules/checklist-item label="No visible scratches under normal viewing" / / />}}
-  {{< interactive-modules/checklist-item label="No evidence of cleaning or polishing" / / />}}
-  {{< interactive-modules/checklist-item label="Edge details and reeding are intact" / / />}}
-  {{< interactive-modules/checklist-item label="No corrosion, spotting, or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="No rim damage or bumps" / / />}}
+  {{< interactive-modules/checklist-item label="All lettering is clear and fully visible" / />}}
+  {{< interactive-modules/checklist-item label="Dragon scales or portrait details are sharp and well-defined" / />}}
+  {{< interactive-modules/checklist-item label="Original luster is present with minimal dulling" / />}}
+  {{< interactive-modules/checklist-item label="No visible scratches under normal viewing" / />}}
+  {{< interactive-modules/checklist-item label="No evidence of cleaning or polishing" / />}}
+  {{< interactive-modules/checklist-item label="Edge details and reeding are intact" / />}}
+  {{< interactive-modules/checklist-item label="No corrosion, spotting, or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="No rim damage or bumps" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authenticity Concerns

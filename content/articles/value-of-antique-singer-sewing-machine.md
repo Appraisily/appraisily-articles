@@ -239,12 +239,12 @@ Multiple factors determine the value of an antique Singer sewing machine beyond 
 Condition is perhaps the most critical factor affecting value. Machines in working order are worth significantly more than non-functioning models.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate your Singer machine's condition" >}}
-  {{< interactive-modules/checklist-item label="Machine runs smoothly when operated" / / />}}
-  {{< interactive-modules/checklist-item label="All mechanical parts are present and functioning" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish and decals are intact and vibrant" / / />}}
-  {{< interactive-modules/checklist-item label="No rust or significant corrosion present" / / />}}
-  {{< interactive-modules/checklist-item label="Cabinet or case in good condition (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original manual and accessories included" / / />}}
+  {{< interactive-modules/checklist-item label="Machine runs smoothly when operated" / />}}
+  {{< interactive-modules/checklist-item label="All mechanical parts are present and functioning" / />}}
+  {{< interactive-modules/checklist-item label="Original finish and decals are intact and vibrant" / />}}
+  {{< interactive-modules/checklist-item label="No rust or significant corrosion present" / />}}
+  {{< interactive-modules/checklist-item label="Cabinet or case in good condition (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original manual and accessories included" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 2. Completeness

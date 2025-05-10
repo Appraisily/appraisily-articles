@@ -249,12 +249,12 @@ Digital artists have precise control over value through:
 - Lighting and rendering settings
 
 {{< interactive-modules/condition-checklist title="Value Analysis Checklist" description="Use this checklist to assess the use of value in an artwork" >}}
-  {{< interactive-modules/checklist-item label="The artwork shows a full range of values from light to dark" / / />}}
-  {{< interactive-modules/checklist-item label="Values are used to create a sense of three-dimensional form" / / />}}
-  {{< interactive-modules/checklist-item label="There is a clear light source direction indicated by the values" / / />}}
-  {{< interactive-modules/checklist-item label="Value contrast is used to create focal points" / / />}}
-  {{< interactive-modules/checklist-item label="Value patterns create a sense of composition and movement" / / />}}
-  {{< interactive-modules/checklist-item label="Values contribute to the overall mood or emotion of the piece" / / />}}
+  {{< interactive-modules/checklist-item label="The artwork shows a full range of values from light to dark" / />}}
+  {{< interactive-modules/checklist-item label="Values are used to create a sense of three-dimensional form" / />}}
+  {{< interactive-modules/checklist-item label="There is a clear light source direction indicated by the values" / />}}
+  {{< interactive-modules/checklist-item label="Value contrast is used to create focal points" / />}}
+  {{< interactive-modules/checklist-item label="Value patterns create a sense of composition and movement" / />}}
+  {{< interactive-modules/checklist-item label="Values contribute to the overall mood or emotion of the piece" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Famous Examples of Value in Art" level="2" >}}

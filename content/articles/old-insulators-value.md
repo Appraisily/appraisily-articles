@@ -167,12 +167,12 @@ Some CD numbers are inherently more valuable due to their rarity or historical s
 As with most collectibles, condition significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Insulator Condition Assessment" description="Check applicable items to determine condition" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or flakes" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact (not cleaned with harsh methods)" / / />}}
-  {{< interactive-modules/checklist-item label="Clear glass with no internal cloudiness" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" / / />}}
-  {{< interactive-modules/checklist-item label="Proper embossing (clear, complete letters/numbers)" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or flakes" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (not cleaned with harsh methods)" / />}}
+  {{< interactive-modules/checklist-item label="Clear glass with no internal cloudiness" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" / />}}
+  {{< interactive-modules/checklist-item label="Proper embossing (clear, complete letters/numbers)" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The condition terminology for insulators typically includes:

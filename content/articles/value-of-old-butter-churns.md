@@ -242,15 +242,15 @@ The butter churn market includes many modern reproductions that have significant
 3. **Artificial Aging**: Intentionally distressed finishes that don't show authentic wear patterns
 
 {{< interactive-modules/condition-checklist title="Butter Churn Condition Assessment" description="Check applicable items to understand a churn's condition and value potential" >}}
-  {{< interactive-modules/checklist-item label="Complete with original dasher/paddle" / / />}}
-  {{< interactive-modules/checklist-item label="Original lid/top mechanism intact" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs to main vessel" / / />}}
-  {{< interactive-modules/checklist-item label="Original surface patina or paint" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark or patent date visible" / / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical components (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="No significant chips or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original bands or hardware (on wooden models)" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance or history" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with original dasher/paddle" / />}}
+  {{< interactive-modules/checklist-item label="Original lid/top mechanism intact" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs to main vessel" / />}}
+  {{< interactive-modules/checklist-item label="Original surface patina or paint" / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark or patent date visible" / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical components (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No significant chips or damage" / />}}
+  {{< interactive-modules/checklist-item label="Original bands or hardware (on wooden models)" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance or history" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Historical Context and Evolution" level="2" >}}

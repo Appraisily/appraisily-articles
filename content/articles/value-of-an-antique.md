@@ -135,12 +135,12 @@ The principle of supply and demand heavily influences antique values. Items prod
 The condition of an antique can dramatically impact its value—often by 50% or more between excellent and poor condition examples of the same item. Collectors generally prefer items that maintain their original condition with minimal restoration.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your antique" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact (no refinishing)" / / />}}
-  {{< interactive-modules/checklist-item label="No major repairs or restoration" / / />}}
-  {{< interactive-modules/checklist-item label="All original parts present" / / />}}
-  {{< interactive-modules/checklist-item label="No significant damage (chips, cracks, tears)" / / />}}
-  {{< interactive-modules/checklist-item label="Original markings or labels present" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of appropriate age-related wear" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (no refinishing)" / />}}
+  {{< interactive-modules/checklist-item label="No major repairs or restoration" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present" / />}}
+  {{< interactive-modules/checklist-item label="No significant damage (chips, cracks, tears)" / />}}
+  {{< interactive-modules/checklist-item label="Original markings or labels present" / />}}
+  {{< interactive-modules/checklist-item label="Signs of appropriate age-related wear" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Historical Significance

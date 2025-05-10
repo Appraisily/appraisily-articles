@@ -108,12 +108,12 @@ Color variations came from minerals and chemicals mixed into the glass during ma
 As with most collectibles, condition significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Check applicable items to assess bottle condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks" / / />}}
-  {{< interactive-modules/checklist-item label="Original closure/stopper present" / / />}}
-  {{< interactive-modules/checklist-item label="Strong embossing with clear lettering" / / />}}
-  {{< interactive-modules/checklist-item label="Original labels intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="No significant staining or content residue" / / />}}
-  {{< interactive-modules/checklist-item label="No excessive wear or scratching" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks" / />}}
+  {{< interactive-modules/checklist-item label="Original closure/stopper present" / />}}
+  {{< interactive-modules/checklist-item label="Strong embossing with clear lettering" / />}}
+  {{< interactive-modules/checklist-item label="Original labels intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No significant staining or content residue" / />}}
+  {{< interactive-modules/checklist-item label="No excessive wear or scratching" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

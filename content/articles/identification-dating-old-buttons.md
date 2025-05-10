@@ -283,14 +283,14 @@ Many collectors focus on specific button categories:
 - **Jewel buttons:** Featuring cut steel, rhinestones, or other gem-like elements
 
 {{< interactive-modules/condition-checklist title="Button Authentication Checklist" description="Use this checklist to help authenticate antique buttons" >}}
-  {{< interactive-modules/checklist-item label="Signs of appropriate age-related wear" / / />}}
-  {{< interactive-modules/checklist-item label="Material consistent with claimed age" / / />}}
-  {{< interactive-modules/checklist-item label="Attachment method matches historical period" / / />}}
-  {{< interactive-modules/checklist-item label="Patina appears natural and undisturbed" / / />}}
-  {{< interactive-modules/checklist-item label="Design elements match the artistic period" / / />}}
-  {{< interactive-modules/checklist-item label="Weight feels appropriate for the material" / / />}}
-  {{< interactive-modules/checklist-item label="Any backmarks are period-appropriate" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing technique consistent with era" / / />}}
+  {{< interactive-modules/checklist-item label="Signs of appropriate age-related wear" / />}}
+  {{< interactive-modules/checklist-item label="Material consistent with claimed age" / />}}
+  {{< interactive-modules/checklist-item label="Attachment method matches historical period" / />}}
+  {{< interactive-modules/checklist-item label="Patina appears natural and undisturbed" / />}}
+  {{< interactive-modules/checklist-item label="Design elements match the artistic period" / />}}
+  {{< interactive-modules/checklist-item label="Weight feels appropriate for the material" / />}}
+  {{< interactive-modules/checklist-item label="Any backmarks are period-appropriate" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturing technique consistent with era" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Tools and Techniques for Button Identification" level="2" >}}

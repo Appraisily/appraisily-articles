@@ -65,14 +65,14 @@ The condition of your Singer sewing machine significantly impacts its value. Mac
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Assessment" description="Check applicable items to determine the condition of your sewing machine" >}}
-  {{< interactive-modules/checklist-item label="Machine is in complete working order" / / />}}
-  {{< interactive-modules/checklist-item label="Original decals are intact and vibrant" / / />}}
-  {{< interactive-modules/checklist-item label="No rust or significant wear on metal parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish is well-preserved" / / />}}
-  {{< interactive-modules/checklist-item label="All original accessories are present" / / />}}
-  {{< interactive-modules/checklist-item label="Cabinet or case is in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="No modifications or replacement parts" / / />}}
-  {{< interactive-modules/checklist-item label="Manual and documentation are included" / / />}}
+  {{< interactive-modules/checklist-item label="Machine is in complete working order" / />}}
+  {{< interactive-modules/checklist-item label="Original decals are intact and vibrant" / />}}
+  {{< interactive-modules/checklist-item label="No rust or significant wear on metal parts" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is well-preserved" / />}}
+  {{< interactive-modules/checklist-item label="All original accessories are present" / />}}
+  {{< interactive-modules/checklist-item label="Cabinet or case is in good condition" / />}}
+  {{< interactive-modules/checklist-item label="No modifications or replacement parts" / />}}
+  {{< interactive-modules/checklist-item label="Manual and documentation are included" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Original Components and Accessories" level="3" >}}

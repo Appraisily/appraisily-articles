@@ -147,14 +147,14 @@ These businesses often employ or contract with professional appraisers:
 - **Antique dealers** may provide informal or formal appraisals
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist to evaluate potential antique appraisers" >}}
-  {{< interactive-modules/checklist-item label="Holds professional certifications (ISA, ASA, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Has experience with your specific type of antiques" / / />}}
-  {{< interactive-modules/checklist-item label="Provides clear fee structure in writing" / / />}}
-  {{< interactive-modules/checklist-item label="Has positive reviews or strong references" / / />}}
-  {{< interactive-modules/checklist-item label="Follows USPAP (Uniform Standards of Professional Appraisal Practice)" / / />}}
-  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / / />}}
-  {{< interactive-modules/checklist-item label="Offers a detailed written appraisal report" / / />}}
-  {{< interactive-modules/checklist-item label="Has no conflicts of interest (if also buying)" / / />}}
+  {{< interactive-modules/checklist-item label="Holds professional certifications (ISA, ASA, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Has experience with your specific type of antiques" / />}}
+  {{< interactive-modules/checklist-item label="Provides clear fee structure in writing" / />}}
+  {{< interactive-modules/checklist-item label="Has positive reviews or strong references" / />}}
+  {{< interactive-modules/checklist-item label="Follows USPAP (Uniform Standards of Professional Appraisal Practice)" / />}}
+  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / />}}
+  {{< interactive-modules/checklist-item label="Offers a detailed written appraisal report" / />}}
+  {{< interactive-modules/checklist-item label="Has no conflicts of interest (if also buying)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Different Types of Antique Appraisals" level="2" >}}

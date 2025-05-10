@@ -194,14 +194,14 @@ The bottom of the bottle often contains valuable information:
 - **Date codes**: In many bottles, the first number indicates the year of manufacture within a decade.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Coca-Cola Bottles" description="Check all applicable items to help determine your bottle's condition rating" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks anywhere on the bottle" / / />}}
-  {{< interactive-modules/checklist-item label="Glass has clear, consistent color without cloudiness" / / />}}
-  {{< interactive-modules/checklist-item label="Embossing is sharp and well-defined" / / />}}
-  {{< interactive-modules/checklist-item label="Original label present and intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original closure or cap preserved" / / />}}
-  {{< interactive-modules/checklist-item label="No significant case wear on base or sides" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents present (unopened bottles)" / / />}}
-  {{< interactive-modules/checklist-item label="No interior staining or residue" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks anywhere on the bottle" / />}}
+  {{< interactive-modules/checklist-item label="Glass has clear, consistent color without cloudiness" / />}}
+  {{< interactive-modules/checklist-item label="Embossing is sharp and well-defined" / />}}
+  {{< interactive-modules/checklist-item label="Original label present and intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original closure or cap preserved" / />}}
+  {{< interactive-modules/checklist-item label="No significant case wear on base or sides" / />}}
+  {{< interactive-modules/checklist-item label="Original contents present (unopened bottles)" / />}}
+  {{< interactive-modules/checklist-item label="No interior staining or residue" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Current Market Values for Vintage Coca-Cola Bottles

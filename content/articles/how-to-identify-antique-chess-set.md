@@ -226,14 +226,14 @@ Before the standardization brought by the Staunton pattern, several distinctive 
 6. **Calvert Pattern**: Early English design with distinctive multi-tiered kings
 
 {{< interactive-modules/condition-checklist title="Antique Chess Set Identification Checklist" description="Check applicable characteristics to help identify your set" >}}
-  {{< interactive-modules/checklist-item label="Pieces show evidence of hand carving and fine detail work" / / />}}
-  {{< interactive-modules/checklist-item label="Knights have three-dimensional facial features (not simply silhouettes)" / / />}}
-  {{< interactive-modules/checklist-item label="Material shows appropriate aging (patina, color changes, minor wear)" / / />}}
-  {{< interactive-modules/checklist-item label="Base of pieces show felt or leather padding (often green in antique sets)" / / />}}
-  {{< interactive-modules/checklist-item label="Chess board shows period-appropriate construction methods" / / />}}
-  {{< interactive-modules/checklist-item label="Set includes original storage box or case in period style" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks, stamps, or signatures are visible on pieces or board" / / />}}
-  {{< interactive-modules/checklist-item label="Design matches a known historical pattern (Staunton, St. George, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Pieces show evidence of hand carving and fine detail work" / />}}
+  {{< interactive-modules/checklist-item label="Knights have three-dimensional facial features (not simply silhouettes)" / />}}
+  {{< interactive-modules/checklist-item label="Material shows appropriate aging (patina, color changes, minor wear)" / />}}
+  {{< interactive-modules/checklist-item label="Base of pieces show felt or leather padding (often green in antique sets)" / />}}
+  {{< interactive-modules/checklist-item label="Chess board shows period-appropriate construction methods" / />}}
+  {{< interactive-modules/checklist-item label="Set includes original storage box or case in period style" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks, stamps, or signatures are visible on pieces or board" / />}}
+  {{< interactive-modules/checklist-item label="Design matches a known historical pattern (Staunton, St. George, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Examining for Authenticity

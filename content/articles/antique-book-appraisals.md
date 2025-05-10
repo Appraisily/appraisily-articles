@@ -119,14 +119,14 @@ The principle of supply and demand applies strongly to antique books. Limited pr
 A book's physical condition dramatically impacts its value. Collectors and appraisers use a standardized grading system to evaluate condition:
 
 {{< interactive-modules/condition-checklist title="Book Condition Assessment Factors" description="Key elements examined during a condition evaluation" >}}
-  {{< interactive-modules/checklist-item label="Intact binding with no loose pages" / / />}}
-  {{< interactive-modules/checklist-item label="Original dust jacket present (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Clean, unmarked pages without foxing or water damage" / / />}}
-  {{< interactive-modules/checklist-item label="No previous ownership marks or library stamps" / / />}}
-  {{< interactive-modules/checklist-item label="Sharp, uncreased spine without sunning" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with all maps, illustrations, or inserts" / / />}}
-  {{< interactive-modules/checklist-item label="No musty odors or signs of mold" / / />}}
-  {{< interactive-modules/checklist-item label="Original endpapers intact" / / />}}
+  {{< interactive-modules/checklist-item label="Intact binding with no loose pages" / />}}
+  {{< interactive-modules/checklist-item label="Original dust jacket present (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Clean, unmarked pages without foxing or water damage" / />}}
+  {{< interactive-modules/checklist-item label="No previous ownership marks or library stamps" / />}}
+  {{< interactive-modules/checklist-item label="Sharp, uncreased spine without sunning" / />}}
+  {{< interactive-modules/checklist-item label="Complete with all maps, illustrations, or inserts" / />}}
+  {{< interactive-modules/checklist-item label="No musty odors or signs of mold" / />}}
+  {{< interactive-modules/checklist-item label="Original endpapers intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical and Literary Significance
@@ -194,13 +194,13 @@ Different situations call for different types of appraisals:
 For valuable or rare books, working with a qualified appraiser is essential. Look for professionals with these credentials:
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualifications to Look For" description="Key credentials when selecting a book appraiser" >}}
-  {{< interactive-modules/checklist-item label="Membership in the Antiquarian Booksellers' Association of America (ABAA)" / / />}}
-  {{< interactive-modules/checklist-item label="Certified by the International Society of Appraisers (ISA)" / / />}}
-  {{< interactive-modules/checklist-item label="American Society of Appraisers (ASA) certification" / / />}}
-  {{< interactive-modules/checklist-item label="Specialized knowledge in your book's subject area or time period" / / />}}
-  {{< interactive-modules/checklist-item label="Years of experience in the rare book trade" / / />}}
-  {{< interactive-modules/checklist-item label="Transparent fee structure" / / />}}
-  {{< interactive-modules/checklist-item label="Willingness to provide references" / / />}}
+  {{< interactive-modules/checklist-item label="Membership in the Antiquarian Booksellers' Association of America (ABAA)" / />}}
+  {{< interactive-modules/checklist-item label="Certified by the International Society of Appraisers (ISA)" / />}}
+  {{< interactive-modules/checklist-item label="American Society of Appraisers (ASA) certification" / />}}
+  {{< interactive-modules/checklist-item label="Specialized knowledge in your book's subject area or time period" / />}}
+  {{< interactive-modules/checklist-item label="Years of experience in the rare book trade" / />}}
+  {{< interactive-modules/checklist-item label="Transparent fee structure" / />}}
+  {{< interactive-modules/checklist-item label="Willingness to provide references" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to Rebecca Romney, a rare book specialist featured on the History Channel's "Pawn Stars" and founder of Type Punch Matrix, "The best appraisers combine scholarly knowledge with marketplace experience. They should be able to not only identify what you have but understand its current value in various contexts."
@@ -433,15 +433,15 @@ Proper care and storage can maintain or even enhance the value of your antique b
 Create an environment that protects books from their primary enemies: extreme temperature, humidity, light, and pests.
 
 {{< interactive-modules/condition-checklist title="Book Preservation Checklist" description="Essential practices for preserving valuable books" >}}
-  {{< interactive-modules/checklist-item label="Store books at consistent temperature (65-70°F/18-21°C)" / / />}}
-  {{< interactive-modules/checklist-item label="Maintain moderate humidity (30-50%)" / / />}}
-  {{< interactive-modules/checklist-item label="Protect from direct sunlight and UV exposure" / / />}}
-  {{< interactive-modules/checklist-item label="Store books upright on shelves, not tightly packed" / / />}}
-  {{< interactive-modules/checklist-item label="Use acid-free book supports for oversized volumes" / / />}}
-  {{< interactive-modules/checklist-item label="Keep food and drinks away from book storage areas" / / />}}
-  {{< interactive-modules/checklist-item label="Implement pest management strategies" / / />}}
-  {{< interactive-modules/checklist-item label="Handle books with clean hands, consider cotton gloves for rare volumes" / / />}}
-  {{< interactive-modules/checklist-item label="Use acid-free protective enclosures for valuable books" / / />}}
+  {{< interactive-modules/checklist-item label="Store books at consistent temperature (65-70°F/18-21°C)" / />}}
+  {{< interactive-modules/checklist-item label="Maintain moderate humidity (30-50%)" / />}}
+  {{< interactive-modules/checklist-item label="Protect from direct sunlight and UV exposure" / />}}
+  {{< interactive-modules/checklist-item label="Store books upright on shelves, not tightly packed" / />}}
+  {{< interactive-modules/checklist-item label="Use acid-free book supports for oversized volumes" / />}}
+  {{< interactive-modules/checklist-item label="Keep food and drinks away from book storage areas" / />}}
+  {{< interactive-modules/checklist-item label="Implement pest management strategies" / />}}
+  {{< interactive-modules/checklist-item label="Handle books with clean hands, consider cotton gloves for rare volumes" / />}}
+  {{< interactive-modules/checklist-item label="Use acid-free protective enclosures for valuable books" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Professional Conservation

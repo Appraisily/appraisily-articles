@@ -268,15 +268,15 @@ Several characteristics can help determine your trunk's age:
    - Early synthetic linings (post-1920s)
 
 {{< interactive-modules/condition-checklist title="Steamer Trunk Identification Checklist" description="Use this checklist to help identify your trunk's key features" >}}
-  {{< interactive-modules/checklist-item label="Manufacturer label or mark is present" / / />}}
-  {{< interactive-modules/checklist-item label="Has flat top (true steamer trunk design)" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware is intact" / / />}}
-  {{< interactive-modules/checklist-item label="Interior compartments/trays are present" / / />}}
-  {{< interactive-modules/checklist-item label="Canvas/leather covering is original" / / />}}
-  {{< interactive-modules/checklist-item label="Wood slat reinforcements on exterior" / / />}}
-  {{< interactive-modules/checklist-item label="Original lock mechanism functions" / / />}}
-  {{< interactive-modules/checklist-item label="Travel/shipping labels are present" / / />}}
-  {{< interactive-modules/checklist-item label="Interior lining is original" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer label or mark is present" / />}}
+  {{< interactive-modules/checklist-item label="Has flat top (true steamer trunk design)" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware is intact" / />}}
+  {{< interactive-modules/checklist-item label="Interior compartments/trays are present" / />}}
+  {{< interactive-modules/checklist-item label="Canvas/leather covering is original" / />}}
+  {{< interactive-modules/checklist-item label="Wood slat reinforcements on exterior" / />}}
+  {{< interactive-modules/checklist-item label="Original lock mechanism functions" / />}}
+  {{< interactive-modules/checklist-item label="Travel/shipping labels are present" / />}}
+  {{< interactive-modules/checklist-item label="Interior lining is original" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Trunk Styles

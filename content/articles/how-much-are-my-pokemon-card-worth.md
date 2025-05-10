@@ -255,14 +255,14 @@ To accurately identify your Pokémon cards for valuation:
 ![Close-up of Pokémon card set symbols, edition markers, and card numbers](https://ik.imagekit.io/appraisily/SEO/how-much-are-my-pokemon-card-worth/how-much-are-my-pokemon-card-worth-image-4_SeNARMCE0.png)
 
 {{< interactive-modules/condition-checklist title="Pokémon Card Condition Assessment" description="Check all items that apply to your card to estimate its condition grade" >}}
-  {{< interactive-modules/checklist-item label="Perfect corners with no whitening or wear" / / />}}
-  {{< interactive-modules/checklist-item label="Perfectly centered borders (50/50 on all sides)" / / />}}
-  {{< interactive-modules/checklist-item label="No scratches on the holographic surface" / / />}}
-  {{< interactive-modules/checklist-item label="No creases, bends, or indentations" / / />}}
-  {{< interactive-modules/checklist-item label="Clean, unmarked back of card" / / />}}
-  {{< interactive-modules/checklist-item label="Sharp, clean edges with no fraying" / / />}}
-  {{< interactive-modules/checklist-item label="No print lines or print defects" / / />}}
-  {{< interactive-modules/checklist-item label="No surface scuffs or fingerprints" / / />}}
+  {{< interactive-modules/checklist-item label="Perfect corners with no whitening or wear" / />}}
+  {{< interactive-modules/checklist-item label="Perfectly centered borders (50/50 on all sides)" / />}}
+  {{< interactive-modules/checklist-item label="No scratches on the holographic surface" / />}}
+  {{< interactive-modules/checklist-item label="No creases, bends, or indentations" / />}}
+  {{< interactive-modules/checklist-item label="Clean, unmarked back of card" / />}}
+  {{< interactive-modules/checklist-item label="Sharp, clean edges with no fraying" / />}}
+  {{< interactive-modules/checklist-item label="No print lines or print defects" / />}}
+  {{< interactive-modules/checklist-item label="No surface scuffs or fingerprints" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Pokémon Cards" level="2" >}}

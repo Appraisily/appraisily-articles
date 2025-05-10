@@ -350,14 +350,14 @@ Discovered by a diver in California in 1990, this 470-carat abalone pearl was va
 This 14-pound natural pearl from a giant clam was once valued at $93 million, though more recent appraisals are considerably lower.
 
 {{< interactive-modules/condition-checklist title="Pearl Quality Assessment Checklist" description="Use this checklist to evaluate the quality and potential value of a pearl" >}}
-  {{< interactive-modules/checklist-item label="Perfect roundness (spherical shape)" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent luster (mirror-like reflection)" / / />}}
-  {{< interactive-modules/checklist-item label="Smooth surface with minimal blemishes" / / />}}
-  {{< interactive-modules/checklist-item label="Uniform color throughout" / / />}}
-  {{< interactive-modules/checklist-item label="Large size (10mm+ for high value)" / / />}}
-  {{< interactive-modules/checklist-item label="Thick nacre layer" / / />}}
-  {{< interactive-modules/checklist-item label="Natural pearl (not cultured)" / / />}}
-  {{< interactive-modules/checklist-item label="Comes with gemological certification" / / />}}
+  {{< interactive-modules/checklist-item label="Perfect roundness (spherical shape)" / />}}
+  {{< interactive-modules/checklist-item label="Excellent luster (mirror-like reflection)" / />}}
+  {{< interactive-modules/checklist-item label="Smooth surface with minimal blemishes" / />}}
+  {{< interactive-modules/checklist-item label="Uniform color throughout" / />}}
+  {{< interactive-modules/checklist-item label="Large size (10mm+ for high value)" / />}}
+  {{< interactive-modules/checklist-item label="Thick nacre layer" / />}}
+  {{< interactive-modules/checklist-item label="Natural pearl (not cultured)" / />}}
+  {{< interactive-modules/checklist-item label="Comes with gemological certification" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Determine What Your Pearl Is Worth" level="2" >}}

@@ -224,16 +224,16 @@ Before purchasing or selling a vintage Pepsi machine, it's crucial to accurately
 ![Close-up of vintage Pepsi machine coin mechanism and vending controls](https://ik.imagekit.io/appraisily/SEO/value-of-old-pepsi-machine/value-of-old-pepsi-machine-image-4_otyw5UdOj.png)
 
 {{< interactive-modules/condition-checklist title="Vintage Pepsi Machine Condition Checklist" description="Use this checklist to assess the condition of any vintage Pepsi vending machine" >}}
-  {{< interactive-modules/checklist-item label="Cooling system functions properly" / / />}}
-  {{< interactive-modules/checklist-item label="Vending mechanism works correctly" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Original decals and logos intact" / / />}}
-  {{< interactive-modules/checklist-item label="Chrome/metal trim free of significant rust" / / />}}
-  {{< interactive-modules/checklist-item label="Interior components complete and original" / / />}}
-  {{< interactive-modules/checklist-item label="Coin mechanism functions properly" / / />}}
-  {{< interactive-modules/checklist-item label="Door gaskets in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="All lights work correctly" / / />}}
-  {{< interactive-modules/checklist-item label="No significant dents or structural damage" / / />}}
+  {{< interactive-modules/checklist-item label="Cooling system functions properly" / />}}
+  {{< interactive-modules/checklist-item label="Vending mechanism works correctly" / />}}
+  {{< interactive-modules/checklist-item label="Original paint in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Original decals and logos intact" / />}}
+  {{< interactive-modules/checklist-item label="Chrome/metal trim free of significant rust" / />}}
+  {{< interactive-modules/checklist-item label="Interior components complete and original" / />}}
+  {{< interactive-modules/checklist-item label="Coin mechanism functions properly" / />}}
+  {{< interactive-modules/checklist-item label="Door gaskets in good condition" / />}}
+  {{< interactive-modules/checklist-item label="All lights work correctly" / />}}
+  {{< interactive-modules/checklist-item label="No significant dents or structural damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Rating Scale

@@ -204,11 +204,11 @@ The predominant value range (or "key") of an artwork significantly impacts its e
 As [Udemy's course on value keys](https://www.udemy.com/course/understanding-value-keys-in-landscape-painting/) explains, "Value key of a painting means the range of values used in that painting. Or in simple words how bright are the light areas and how dark are the dark areas in the painting."
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist for Artwork" description="Use this checklist to evaluate value effectiveness in artwork" >}}
-  {{< interactive-modules/checklist-item label="Clear value structure with distinguishable light, middle, and dark values" / / />}}
-  {{< interactive-modules/checklist-item label="Effective use of value contrast to create focal points" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate value key (high, middle, or low) to support the intended mood" / / />}}
-  {{< interactive-modules/checklist-item label="Adequate value range to create visual interest" / / />}}
+  {{< interactive-modules/checklist-item label="Clear value structure with distinguishable light, middle, and dark values" / />}}
+  {{< interactive-modules/checklist-item label="Effective use of value contrast to create focal points" / />}}
+  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate value key (high, middle, or low) to support the intended mood" / />}}
+  {{< interactive-modules/checklist-item label="Adequate value range to create visual interest" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Value's Relationship to Other Art Elements" level="2" >}}

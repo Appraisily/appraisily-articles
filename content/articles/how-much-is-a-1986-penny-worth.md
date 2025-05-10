@@ -270,13 +270,13 @@ To determine if your 1986 penny might be worth more than face value, follow thes
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="1986 Penny Examination Checklist" description="Use this checklist to evaluate your 1986 pennies for valuable attributes" >}}
-  {{< interactive-modules/checklist-item label="Check the mint mark (or absence)" / / />}}
-  {{< interactive-modules/checklist-item label="Examine for doubling with a magnifying glass" / / />}}
-  {{< interactive-modules/checklist-item label="Look for off-center striking" / / />}}
-  {{< interactive-modules/checklist-item label="Check AM spacing in AMERICA on reverse" / / />}}
-  {{< interactive-modules/checklist-item label="Weigh the coin (should be 2.5 grams)" / / />}}
-  {{< interactive-modules/checklist-item label="Look for die cracks or raised lines" / / />}}
-  {{< interactive-modules/checklist-item label="Check for unusual coloration or metal composition" / / />}}
+  {{< interactive-modules/checklist-item label="Check the mint mark (or absence)" / />}}
+  {{< interactive-modules/checklist-item label="Examine for doubling with a magnifying glass" / />}}
+  {{< interactive-modules/checklist-item label="Look for off-center striking" / />}}
+  {{< interactive-modules/checklist-item label="Check AM spacing in AMERICA on reverse" / />}}
+  {{< interactive-modules/checklist-item label="Weigh the coin (should be 2.5 grams)" / />}}
+  {{< interactive-modules/checklist-item label="Look for die cracks or raised lines" / />}}
+  {{< interactive-modules/checklist-item label="Check for unusual coloration or metal composition" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Mint Mark Identification

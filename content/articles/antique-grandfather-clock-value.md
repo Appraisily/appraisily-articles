@@ -205,16 +205,16 @@ The clock movement (mechanism) provides crucial information:
 - The presence of specific complications (moon phases, calendars, etc.) can indicate maker and period
 
 {{< interactive-modules/condition-checklist title="Antique Grandfather Clock Condition Assessment" description="Use this checklist to evaluate your clock's condition" >}}
-  {{< interactive-modules/checklist-item label="Clock movement runs properly and keeps accurate time" / / />}}
-  {{< interactive-modules/checklist-item label="Original movement with no replaced parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original dial in good condition with minimal restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Original hands matching the period of the clock" / / />}}
-  {{< interactive-modules/checklist-item label="Original weights and pendulum" / / />}}
-  {{< interactive-modules/checklist-item label="Case with original finish or appropriate period patina" / / />}}
-  {{< interactive-modules/checklist-item label="No significant damage, repairs, or replacements to the case" / / />}}
-  {{< interactive-modules/checklist-item label="Original glass or appropriate period replacement" / / />}}
-  {{< interactive-modules/checklist-item label="All chime functions work properly" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation or provenance information available" / / />}}
+  {{< interactive-modules/checklist-item label="Clock movement runs properly and keeps accurate time" / />}}
+  {{< interactive-modules/checklist-item label="Original movement with no replaced parts" / />}}
+  {{< interactive-modules/checklist-item label="Original dial in good condition with minimal restoration" / />}}
+  {{< interactive-modules/checklist-item label="Original hands matching the period of the clock" / />}}
+  {{< interactive-modules/checklist-item label="Original weights and pendulum" / />}}
+  {{< interactive-modules/checklist-item label="Case with original finish or appropriate period patina" / />}}
+  {{< interactive-modules/checklist-item label="No significant damage, repairs, or replacements to the case" / />}}
+  {{< interactive-modules/checklist-item label="Original glass or appropriate period replacement" / />}}
+  {{< interactive-modules/checklist-item label="All chime functions work properly" / />}}
+  {{< interactive-modules/checklist-item label="Documentation or provenance information available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Common Antique Grandfather Clock Styles" level="2" >}}

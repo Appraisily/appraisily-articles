@@ -184,14 +184,14 @@ The condition of a book is perhaps the single most important factor in determini
 The book collecting world uses standard terms to describe condition:
 
 {{< interactive-modules/condition-checklist title="Book Condition Assessment" description="Use this checklist to evaluate your book's condition" >}}
-  {{< interactive-modules/checklist-item label="Binding is tight and intact with no separation" / / />}}
-  {{< interactive-modules/checklist-item label="Pages are clean without stains, marks, or foxing" / / />}}
-  {{< interactive-modules/checklist-item label="Dust jacket (if applicable) is present and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="No previous owner inscriptions or bookplates" / / />}}
-  {{< interactive-modules/checklist-item label="No library stamps or markings" / / />}}
-  {{< interactive-modules/checklist-item label="Spine is uncreased and not faded" / / />}}
-  {{< interactive-modules/checklist-item label="Corners of covers are not bumped or worn" / / />}}
-  {{< interactive-modules/checklist-item label="No missing pages or text block damage" / / />}}
+  {{< interactive-modules/checklist-item label="Binding is tight and intact with no separation" / />}}
+  {{< interactive-modules/checklist-item label="Pages are clean without stains, marks, or foxing" / />}}
+  {{< interactive-modules/checklist-item label="Dust jacket (if applicable) is present and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No previous owner inscriptions or bookplates" / />}}
+  {{< interactive-modules/checklist-item label="No library stamps or markings" / />}}
+  {{< interactive-modules/checklist-item label="Spine is uncreased and not faded" / />}}
+  {{< interactive-modules/checklist-item label="Corners of covers are not bumped or worn" / />}}
+  {{< interactive-modules/checklist-item label="No missing pages or text block damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Book Condition Terminology

@@ -292,16 +292,16 @@ The condition of an antique tool can dramatically affect its value, with mint or
 Use this checklist to evaluate the condition of antique tools in your collection:
 
 {{< interactive-modules/condition-checklist title="Antique Tool Condition Assessment" description="Check all applicable items to determine condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original finish is intact (not refinished or repainted)" / / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks and logos clearly visible" / / />}}
-  {{< interactive-modules/checklist-item label="No significant rust, pitting, or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Wooden components free of cracks, splits, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Moving parts function as originally intended" / / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate modifications or alterations" / / />}}
-  {{< interactive-modules/checklist-item label="Original handles, grips, or totes intact" / / />}}
-  {{< interactive-modules/checklist-item label="Has original accessories, case, or box" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance or ownership history documented" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact (not refinished or repainted)" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks and logos clearly visible" / />}}
+  {{< interactive-modules/checklist-item label="No significant rust, pitting, or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Wooden components free of cracks, splits, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Moving parts function as originally intended" / />}}
+  {{< interactive-modules/checklist-item label="No inappropriate modifications or alterations" / />}}
+  {{< interactive-modules/checklist-item label="Original handles, grips, or totes intact" / />}}
+  {{< interactive-modules/checklist-item label="Has original accessories, case, or box" / />}}
+  {{< interactive-modules/checklist-item label="Provenance or ownership history documented" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### The Impact of Restoration

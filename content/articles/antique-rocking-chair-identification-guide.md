@@ -211,14 +211,14 @@ Look closely at surfaces for signs of authentic age and construction methods:
 - **Original finish**: Look for shellac or varnish finishes appropriate to the period
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Check applicable items to help determine if your rocking chair is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Shows signs of hand construction (irregular tool marks)" / / />}}
-  {{< interactive-modules/checklist-item label="Wood has developed natural patina with age" / / />}}
-  {{< interactive-modules/checklist-item label="Joinery appropriate to the period (dovetails, mortise-tenon)" / / />}}
-  {{< interactive-modules/checklist-item label="Square or cut nail heads visible in appropriate places" / / />}}
-  {{< interactive-modules/checklist-item label="Multiple wood types used for different components" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of wear consistent with age and use" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish with appropriate aging" / / />}}
-  {{< interactive-modules/checklist-item label="Hardware (if present) matches the period" / / />}}
+  {{< interactive-modules/checklist-item label="Shows signs of hand construction (irregular tool marks)" / />}}
+  {{< interactive-modules/checklist-item label="Wood has developed natural patina with age" / />}}
+  {{< interactive-modules/checklist-item label="Joinery appropriate to the period (dovetails, mortise-tenon)" / />}}
+  {{< interactive-modules/checklist-item label="Square or cut nail heads visible in appropriate places" / />}}
+  {{< interactive-modules/checklist-item label="Multiple wood types used for different components" / />}}
+  {{< interactive-modules/checklist-item label="Signs of wear consistent with age and use" / />}}
+  {{< interactive-modules/checklist-item label="Original finish with appropriate aging" / />}}
+  {{< interactive-modules/checklist-item label="Hardware (if present) matches the period" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up detail of hand-cut joinery in an antique rocking chair](https://ik.imagekit.io/appraisily/SEO/antique-rocking-chair-identification-guide/antique-rocking-chair-identification-guide-image-4_GYGvfJFsf.png)

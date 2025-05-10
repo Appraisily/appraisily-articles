@@ -248,14 +248,14 @@ Color can dramatically affect value, with certain hues being more desirable:
 - "Test colors" or experimental pieces are highly collectible
 
 {{< interactive-modules/condition-checklist title="Antique Glass Condition Assessment" description="Check all applicable conditions that affect your glassware's value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or fleabites" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact (no wear to painted/gilded elements)" / / />}}
-  {{< interactive-modules/checklist-item label="No clouding or etching from dishwasher use" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging present" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restorations" / / />}}
-  {{< interactive-modules/checklist-item label="Good clarity without internal bubbles/flaws (unless period-appropriate)" / / />}}
-  {{< interactive-modules/checklist-item label="Bright, unfaded colors" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or fleabites" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (no wear to painted/gilded elements)" / />}}
+  {{< interactive-modules/checklist-item label="No clouding or etching from dishwasher use" / />}}
+  {{< interactive-modules/checklist-item label="Complete set (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging present" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restorations" / />}}
+  {{< interactive-modules/checklist-item label="Good clarity without internal bubbles/flaws (unless period-appropriate)" / />}}
+  {{< interactive-modules/checklist-item label="Bright, unfaded colors" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Determine Antique Glass Value" level="2" >}}

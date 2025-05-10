@@ -202,16 +202,16 @@ When selecting an appraiser for your Chinese artwork, consider asking:
 10. Do you have any conflicts of interest I should be aware of?
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist to evaluate potential Chinese art appraisers" >}}
-{{< interactive-modules/checklist-item label="Holds recognized professional credentials (ASA, AAA, ISA)" / / />}}
-{{< interactive-modules/checklist-item label="Specializes specifically in Chinese or Asian art" / / />}}
-{{< interactive-modules/checklist-item label="Has relevant academic background in art history or Asian studies" / / />}}
-{{< interactive-modules/checklist-item label="Demonstrates 5+ years of experience in Chinese art" / / />}}
-{{< interactive-modules/checklist-item label="Provides clear, detailed explanation of appraisal methodology" / / />}}
-{{< interactive-modules/checklist-item label="Follows USPAP standards" / / />}}
-{{< interactive-modules/checklist-item label="Has no conflicts of interest (e.g., does not offer to purchase items)" / / />}}
-{{< interactive-modules/checklist-item label="Can provide references from previous clients" / / />}}
-{{< interactive-modules/checklist-item label="Maintains current market knowledge" / / />}}
-{{< interactive-modules/checklist-item label="Has access to necessary reference materials and resources" / / />}}
+{{< interactive-modules/checklist-item label="Holds recognized professional credentials (ASA, AAA, ISA)" / />}}
+{{< interactive-modules/checklist-item label="Specializes specifically in Chinese or Asian art" / />}}
+{{< interactive-modules/checklist-item label="Has relevant academic background in art history or Asian studies" / />}}
+{{< interactive-modules/checklist-item label="Demonstrates 5+ years of experience in Chinese art" / />}}
+{{< interactive-modules/checklist-item label="Provides clear, detailed explanation of appraisal methodology" / />}}
+{{< interactive-modules/checklist-item label="Follows USPAP standards" / />}}
+{{< interactive-modules/checklist-item label="Has no conflicts of interest (e.g., does not offer to purchase items)" / />}}
+{{< interactive-modules/checklist-item label="Can provide references from previous clients" / />}}
+{{< interactive-modules/checklist-item label="Maintains current market knowledge" / />}}
+{{< interactive-modules/checklist-item label="Has access to necessary reference materials and resources" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Chinese Art Appraisal Process" level="2" >}}
@@ -544,16 +544,16 @@ Even the best appraisers face constraints:
 - **Authentication disagreements**: Experts sometimes reach different conclusions
 
 {{< interactive-modules/condition-checklist title="Forgery Warning Signs Checklist" description="Common indicators that may suggest an inauthentic Chinese artwork" >}}
-{{< interactive-modules/checklist-item label="Artificially applied patina or aging effects" / / />}}
-{{< interactive-modules/checklist-item label="Inconsistent wear patterns or damage" / / />}}
-{{< interactive-modules/checklist-item label="Questionable provenance with significant gaps" / / />}}
-{{< interactive-modules/checklist-item label="Stylistic elements inconsistent with the period" / / />}}
-{{< interactive-modules/checklist-item label="Unusually pristine condition for purported age" / / />}}
-{{< interactive-modules/checklist-item label="Materials or pigments inconsistent with the period" / / />}}
-{{< interactive-modules/checklist-item label="Signatures or seals that appear too perfect or awkward" / / />}}
-{{< interactive-modules/checklist-item label="Seller unwilling to permit thorough examination" / / />}}
-{{< interactive-modules/checklist-item label="Price significantly below market value for similar works" / / />}}
-{{< interactive-modules/checklist-item label="No appearance in relevant literature or exhibition history" / / />}}
+{{< interactive-modules/checklist-item label="Artificially applied patina or aging effects" / />}}
+{{< interactive-modules/checklist-item label="Inconsistent wear patterns or damage" / />}}
+{{< interactive-modules/checklist-item label="Questionable provenance with significant gaps" / />}}
+{{< interactive-modules/checklist-item label="Stylistic elements inconsistent with the period" / />}}
+{{< interactive-modules/checklist-item label="Unusually pristine condition for purported age" / />}}
+{{< interactive-modules/checklist-item label="Materials or pigments inconsistent with the period" / />}}
+{{< interactive-modules/checklist-item label="Signatures or seals that appear too perfect or awkward" / />}}
+{{< interactive-modules/checklist-item label="Seller unwilling to permit thorough examination" / />}}
+{{< interactive-modules/checklist-item label="Price significantly below market value for similar works" / />}}
+{{< interactive-modules/checklist-item label="No appearance in relevant literature or exhibition history" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Finding and Working with Chinese Art Appraisers" level="2" >}}

@@ -232,16 +232,16 @@ Documented history adds significant value:
 - **Family Documentation**: Records proving ownership history or special significance
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Check all applicable items to gauge potential value factors for your Elgin pocket watch" >}}
-  {{< interactive-modules/checklist-item label="Solid gold case (14K or 18K)" / / />}}
-  {{< interactive-modules/checklist-item label="Railroad-grade movement (19+ jewels)" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and papers" / / />}}
-  {{< interactive-modules/checklist-item label="Movement in working condition" / / />}}
-  {{< interactive-modules/checklist-item label="Intact original dial without repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Pre-1900 manufacture date" / / />}}
-  {{< interactive-modules/checklist-item label="Special complications (chronograph, repeater, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Military issue or with military markings" / / />}}
-  {{< interactive-modules/checklist-item label="Known provenance or historical significance" / / />}}
-  {{< interactive-modules/checklist-item label="Ornate case with intact decoration" / / />}}
+  {{< interactive-modules/checklist-item label="Solid gold case (14K or 18K)" / />}}
+  {{< interactive-modules/checklist-item label="Railroad-grade movement (19+ jewels)" / />}}
+  {{< interactive-modules/checklist-item label="Original box and papers" / />}}
+  {{< interactive-modules/checklist-item label="Movement in working condition" / />}}
+  {{< interactive-modules/checklist-item label="Intact original dial without repairs" / />}}
+  {{< interactive-modules/checklist-item label="Pre-1900 manufacture date" / />}}
+  {{< interactive-modules/checklist-item label="Special complications (chronograph, repeater, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Military issue or with military markings" / />}}
+  {{< interactive-modules/checklist-item label="Known provenance or historical significance" / />}}
+  {{< interactive-modules/checklist-item label="Ornate case with intact decoration" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Elgin Pocket Watch Price Ranges" level="2" id="price-ranges" >}}

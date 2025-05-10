@@ -205,16 +205,16 @@ Models that represent important technological breakthroughs (like the first pop-
 ![Chrome 1950s Sunbeam toaster with distinctive mid-century styling](https://ik.imagekit.io/appraisily/SEO/antique-toaster-value/antique-toaster-value-image-4_JWaG0d1JJH.png)
 
 {{< interactive-modules/condition-checklist title="Antique Toaster Condition Assessment" description="Use this checklist to evaluate the condition of a vintage toaster" >}}
-  {{< interactive-modules/checklist-item label="Chrome plating is bright and intact with minimal pitting" / / />}}
-  {{< interactive-modules/checklist-item label="Electrical cord is original or period-appropriate" / / />}}
-  {{< interactive-modules/checklist-item label="All mechanical components function smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="Heating elements work properly without breaks" / / />}}
-  {{< interactive-modules/checklist-item label="Original bakelite or wooden handles are undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements and logos remain clear and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="Timer mechanisms function correctly (for automatic models)" / / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer markings are visible" / / />}}
-  {{< interactive-modules/checklist-item label="Hinges and doors operate smoothly (for swing-door models)" / / />}}
+  {{< interactive-modules/checklist-item label="Chrome plating is bright and intact with minimal pitting" / />}}
+  {{< interactive-modules/checklist-item label="Electrical cord is original or period-appropriate" / />}}
+  {{< interactive-modules/checklist-item label="All mechanical components function smoothly" / />}}
+  {{< interactive-modules/checklist-item label="Heating elements work properly without breaks" / />}}
+  {{< interactive-modules/checklist-item label="Original bakelite or wooden handles are undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements and logos remain clear and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / />}}
+  {{< interactive-modules/checklist-item label="Timer mechanisms function correctly (for automatic models)" / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer markings are visible" / />}}
+  {{< interactive-modules/checklist-item label="Hinges and doors operate smoothly (for swing-door models)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Valuable Antique Toasters" level="2" >}}

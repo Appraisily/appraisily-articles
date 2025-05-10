@@ -142,12 +142,12 @@ When it comes to antiques, age matters—but it's not the only consideration:
 An antique's condition can dramatically impact its value—sometimes accounting for price differences of 50% or more between similar items:
 
 {{< interactive-modules/condition-checklist title="Antique Condition Assessment Factors" description="Key elements that affect an item's condition rating and value" >}}
-  {{< interactive-modules/checklist-item label="Original finish or patina intact" / / />}}
-  {{< interactive-modules/checklist-item label="No significant damage, chips, or cracks" / / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and mechanisms functioning" / / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate repairs or restorations" / / />}}
-  {{< interactive-modules/checklist-item label="Original documentation or provenance available" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish or patina intact" / />}}
+  {{< interactive-modules/checklist-item label="No significant damage, chips, or cracks" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and mechanisms functioning" / />}}
+  {{< interactive-modules/checklist-item label="No inappropriate repairs or restorations" / />}}
+  {{< interactive-modules/checklist-item label="Original documentation or provenance available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Uniqueness

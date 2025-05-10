@@ -276,13 +276,13 @@ The grade or condition of a coin is perhaps the most significant factor affectin
 - **Uncirculated Grades**: Mint State (MS) grades from MS-60 through MS-67
 
 {{< interactive-modules/condition-checklist title="1912 Penny Condition Assessment" description="Check applicable items to evaluate your coin's condition" >}}
-  {{< interactive-modules/checklist-item label="Full wheat lines visible on reverse" / / />}}
-  {{< interactive-modules/checklist-item label="Lincoln's portrait shows strong detail in hair and beard" / / />}}
-  {{< interactive-modules/checklist-item label="Original mint luster present" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original copper color (not artificially cleaned)" / / />}}
-  {{< interactive-modules/checklist-item label="Visible mint mark (for D and S versions)" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear on high points" / / />}}
+  {{< interactive-modules/checklist-item label="Full wheat lines visible on reverse" / />}}
+  {{< interactive-modules/checklist-item label="Lincoln's portrait shows strong detail in hair and beard" / />}}
+  {{< interactive-modules/checklist-item label="Original mint luster present" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or damage" / />}}
+  {{< interactive-modules/checklist-item label="Original copper color (not artificially cleaned)" / />}}
+  {{< interactive-modules/checklist-item label="Visible mint mark (for D and S versions)" / />}}
+  {{< interactive-modules/checklist-item label="Minimal wear on high points" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color Designation

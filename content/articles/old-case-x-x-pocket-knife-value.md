@@ -162,15 +162,15 @@ For example, pattern "6254 SS" indicates:
 - "SS" indicates stainless steel blades
 
 {{< interactive-modules/condition-checklist title="Case XX Knife Condition Assessment" description="Check applicable items to help determine your knife's condition rating" >}}
-  {{< interactive-modules/checklist-item label="All blades open and close smoothly with good snap" / / />}}
-  {{< interactive-modules/checklist-item label="Blades have no chips, cracks, or significant rust" / / />}}
-  {{< interactive-modules/checklist-item label="Original edge with no improper resharpening" / / />}}
-  {{< interactive-modules/checklist-item label="Handle has no cracks, chips or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original bolsters intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Tang stamp fully visible and legible" / / />}}
-  {{< interactive-modules/checklist-item label="No blade play when open" / / />}}
-  {{< interactive-modules/checklist-item label="Original shield present and secure" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and paperwork present" / / />}}
+  {{< interactive-modules/checklist-item label="All blades open and close smoothly with good snap" / />}}
+  {{< interactive-modules/checklist-item label="Blades have no chips, cracks, or significant rust" / />}}
+  {{< interactive-modules/checklist-item label="Original edge with no improper resharpening" / />}}
+  {{< interactive-modules/checklist-item label="Handle has no cracks, chips or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original bolsters intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Tang stamp fully visible and legible" / />}}
+  {{< interactive-modules/checklist-item label="No blade play when open" / />}}
+  {{< interactive-modules/checklist-item label="Original shield present and secure" / />}}
+  {{< interactive-modules/checklist-item label="Original box and paperwork present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Case XX Knife Patterns" level="2" >}}

@@ -130,13 +130,13 @@ Some oil cans are inherently more valuable due to their scarcity or the signific
 The condition of an oil can dramatically affects its value. Collectors prioritize cans with:
 
 {{< interactive-modules/condition-checklist title="Oil Can Condition Factors" description="Elements that impact the value based on condition" >}}
-  {{< interactive-modules/checklist-item label="Original paint and graphics intact" / / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal dents or damage to the can body" / / />}}
-  {{< interactive-modules/checklist-item label="Original caps or spouts present" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible text and logos" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents (for sealed cans)" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint and graphics intact" / />}}
+  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Minimal dents or damage to the can body" / />}}
+  {{< interactive-modules/checklist-item label="Original caps or spouts present" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible text and logos" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
+  {{< interactive-modules/checklist-item label="Original contents (for sealed cans)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Graphic Design and Aesthetic Appeal

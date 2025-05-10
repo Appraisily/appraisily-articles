@@ -284,16 +284,16 @@ The final step is preparing a professional appraisal report that typically inclu
 - USPAP compliance statement
 
 {{< interactive-modules/condition-checklist title="Evaluating Your Art Appraiser's Report" description="Check that your certified appraisal includes these essential elements:" >}}
-  {{< interactive-modules/checklist-item label="Complete identification of the artwork (artist, title, medium, dimensions, date)" / / />}}
-  {{< interactive-modules/checklist-item label="Clear statement of the appraisal's purpose and intended use" / / />}}
-  {{< interactive-modules/checklist-item label="Defined value type (market value, replacement value, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Valuation methodology and approach" / / />}}
-  {{< interactive-modules/checklist-item label="Market analysis with comparable sales data" / / />}}
-  {{< interactive-modules/checklist-item label="Condition assessment" / / />}}
-  {{< interactive-modules/checklist-item label="High-quality photographs" / / />}}
-  {{< interactive-modules/checklist-item label="Appraiser's credentials and certification" / / />}}
-  {{< interactive-modules/checklist-item label="USPAP compliance statement" / / />}}
-  {{< interactive-modules/checklist-item label="Signature and date" / / />}}
+  {{< interactive-modules/checklist-item label="Complete identification of the artwork (artist, title, medium, dimensions, date)" / />}}
+  {{< interactive-modules/checklist-item label="Clear statement of the appraisal's purpose and intended use" / />}}
+  {{< interactive-modules/checklist-item label="Defined value type (market value, replacement value, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Valuation methodology and approach" / />}}
+  {{< interactive-modules/checklist-item label="Market analysis with comparable sales data" / />}}
+  {{< interactive-modules/checklist-item label="Condition assessment" / />}}
+  {{< interactive-modules/checklist-item label="High-quality photographs" / />}}
+  {{< interactive-modules/checklist-item label="Appraiser's credentials and certification" / />}}
+  {{< interactive-modules/checklist-item label="USPAP compliance statement" / />}}
+  {{< interactive-modules/checklist-item label="Signature and date" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Find a Qualified Art Appraiser" level="2" >}}

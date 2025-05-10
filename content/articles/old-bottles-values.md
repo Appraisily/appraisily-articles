@@ -283,14 +283,14 @@ The condition of an antique bottle can dramatically impact its value, with mint 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment Guide" description="Use this checklist to evaluate the condition of your antique bottles" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks present" / / />}}
-  {{< interactive-modules/checklist-item label="Original closure or stopper intact" / / />}}
-  {{< interactive-modules/checklist-item label="Original label present and legible" / / />}}
-  {{< interactive-modules/checklist-item label="No internal staining or residue" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or case wear" / / />}}
-  {{< interactive-modules/checklist-item label="Crisp embossing with no wear" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents still present (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="No cleaning damage or overcleaning" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks present" / />}}
+  {{< interactive-modules/checklist-item label="Original closure or stopper intact" / />}}
+  {{< interactive-modules/checklist-item label="Original label present and legible" / />}}
+  {{< interactive-modules/checklist-item label="No internal staining or residue" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or case wear" / />}}
+  {{< interactive-modules/checklist-item label="Crisp embossing with no wear" / />}}
+  {{< interactive-modules/checklist-item label="Original contents still present (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No cleaning damage or overcleaning" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Terminology

@@ -181,14 +181,14 @@ Condition dramatically impacts value:
 Hairline cracks, chips, and repairs can reduce value by 50% or more.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Wash Basin & Pitcher Sets" description="Use this checklist to evaluate the condition of your antique wash basin and pitcher" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs visible on either piece" / / />}}
-  {{< interactive-modules/checklist-item label="Original patina intact and appropriate for age" / / />}}
-  {{< interactive-modules/checklist-item label="Matching pattern/design on both basin and pitcher" / / />}}
-  {{< interactive-modules/checklist-item label="No crazing or discoloration on the glaze" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set with all original components" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark or manufacturer's stamp present" / / />}}
-  {{< interactive-modules/checklist-item label="No previous repairs or restoration evident" / / />}}
-  {{< interactive-modules/checklist-item label="No significant wear to decorative elements or gilding" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs visible on either piece" / />}}
+  {{< interactive-modules/checklist-item label="Original patina intact and appropriate for age" / />}}
+  {{< interactive-modules/checklist-item label="Matching pattern/design on both basin and pitcher" / />}}
+  {{< interactive-modules/checklist-item label="No crazing or discoloration on the glaze" / />}}
+  {{< interactive-modules/checklist-item label="Complete set with all original components" / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark or manufacturer's stamp present" / />}}
+  {{< interactive-modules/checklist-item label="No previous repairs or restoration evident" / />}}
+  {{< interactive-modules/checklist-item label="No significant wear to decorative elements or gilding" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Decoration and Artistic Merit

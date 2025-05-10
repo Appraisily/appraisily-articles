@@ -248,14 +248,14 @@ For restored equipment, the quality and authenticity of restoration significantl
 - Documentation of the restoration process
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate farm equipment condition" >}}
-  {{< interactive-modules/checklist-item label="Original paint visible (25-100% coverage)" / / />}}
-  {{< interactive-modules/checklist-item label="All major components present" / / />}}
-  {{< interactive-modules/checklist-item label="Serial numbers/data plates intact" / / />}}
-  {{< interactive-modules/checklist-item label="Engine turns freely (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original decals or markings visible" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust/structural damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original wheels/tires present" / / />}}
-  {{< interactive-modules/checklist-item label="Controls and mechanisms functional" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint visible (25-100% coverage)" / />}}
+  {{< interactive-modules/checklist-item label="All major components present" / />}}
+  {{< interactive-modules/checklist-item label="Serial numbers/data plates intact" / />}}
+  {{< interactive-modules/checklist-item label="Engine turns freely (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original decals or markings visible" / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust/structural damage" / />}}
+  {{< interactive-modules/checklist-item label="Original wheels/tires present" / />}}
+  {{< interactive-modules/checklist-item label="Controls and mechanisms functional" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Your Farm Equipment" level="2" >}}

@@ -248,16 +248,16 @@ The condition of a vintage bamboo fly rod dramatically affects its value. Unders
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Bamboo Fly Rod Condition Assessment" description="Check applicable items to determine condition rating" >}}
-  {{< interactive-modules/checklist-item label="Straight with no twists or warping" / / />}}
-  {{< interactive-modules/checklist-item label="Original varnish in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="All guides intact and aligned" / / />}}
-  {{< interactive-modules/checklist-item label="Original wrappings in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks in bamboo" / / />}}
-  {{< interactive-modules/checklist-item label="Ferrules tight with no looseness or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Original reel seat in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Cork grip intact without major deterioration" / / />}}
-  {{< interactive-modules/checklist-item label="Original bag and tube present" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks clearly visible" / / />}}
+  {{< interactive-modules/checklist-item label="Straight with no twists or warping" / />}}
+  {{< interactive-modules/checklist-item label="Original varnish in good condition" / />}}
+  {{< interactive-modules/checklist-item label="All guides intact and aligned" / />}}
+  {{< interactive-modules/checklist-item label="Original wrappings in good condition" / />}}
+  {{< interactive-modules/checklist-item label="No cracks in bamboo" / />}}
+  {{< interactive-modules/checklist-item label="Ferrules tight with no looseness or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Original reel seat in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Cork grip intact without major deterioration" / />}}
+  {{< interactive-modules/checklist-item label="Original bag and tube present" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks clearly visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Condition Issues

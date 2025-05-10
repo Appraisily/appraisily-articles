@@ -153,13 +153,13 @@ According to collectibles experts, many figurines labeled "Emmett Kelly Jr." wer
 The condition of your figurine dramatically affects its worth. Collectors should carefully examine their pieces for:
 
 {{< interactive-modules/condition-checklist title="Figurine Condition Factors" description="Check applicable items to assess your figurine's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with no wear" / / />}}
-  {{< interactive-modules/checklist-item label="Base is stable and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="All accessories present (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and packaging preserved" / / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity included" / / />}}
-  {{< interactive-modules/checklist-item label="Clear signature visible (if signed)" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with no wear" / />}}
+  {{< interactive-modules/checklist-item label="Base is stable and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="All accessories present (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original box and packaging preserved" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity included" / />}}
+  {{< interactive-modules/checklist-item label="Clear signature visible (if signed)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Mint condition figurines with original packaging and certificates of authenticity can sell for significantly more than damaged or restored pieces.

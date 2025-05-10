@@ -271,15 +271,15 @@ These utilitarian bottles provide insights into daily life:
 - **Household products**: Cleaning supplies, polishes, and chemicals in specialized bottles
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment Guide" description="Check applicable items to evaluate your bottle's condition" >}}
-  {{< interactive-modules/checklist-item label="Glass is clear without cloudiness or staining" / / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or flakes on the glass surface" / / />}}
-  {{< interactive-modules/checklist-item label="Original closure (cork, stopper, etc.) is present" / / />}}
-  {{< interactive-modules/checklist-item label="Label is intact and legible (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Embossing is sharp and well-defined" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents or packaging materials remain" / / />}}
-  {{< interactive-modules/checklist-item label="No modern repairs or restoration work evident" / / />}}
-  {{< interactive-modules/checklist-item label="Intact tax stamps or seals (for liquor bottles)" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance or history exists" / / />}}
+  {{< interactive-modules/checklist-item label="Glass is clear without cloudiness or staining" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or flakes on the glass surface" / />}}
+  {{< interactive-modules/checklist-item label="Original closure (cork, stopper, etc.) is present" / />}}
+  {{< interactive-modules/checklist-item label="Label is intact and legible (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Embossing is sharp and well-defined" / />}}
+  {{< interactive-modules/checklist-item label="Original contents or packaging materials remain" / />}}
+  {{< interactive-modules/checklist-item label="No modern repairs or restoration work evident" / />}}
+  {{< interactive-modules/checklist-item label="Intact tax stamps or seals (for liquor bottles)" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance or history exists" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Deciphering Makers Marks & Logos" level="2" >}}

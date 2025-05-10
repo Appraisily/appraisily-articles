@@ -168,12 +168,12 @@ When examining an antique safe, always look for:
 These identifying features can help establish authenticity, age, and potentially increase value for collectors seeking specific makers or models.
 
 {{< interactive-modules/condition-checklist title="Identification Checklist for Antique Safes" description="Use this checklist to thoroughly document your antique safe's identifying features" >}}
-  {{< interactive-modules/checklist-item label="Locate and photograph manufacturer's nameplate" / / />}}
-  {{< interactive-modules/checklist-item label="Record all patent dates and serial numbers" / / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions (height, width, depth)" / / />}}
-  {{< interactive-modules/checklist-item label="Note lock type (key, combination, time lock)" / / />}}
-  {{< interactive-modules/checklist-item label="Document decorative elements (paintings, gilt work)" / / />}}
-  {{< interactive-modules/checklist-item label="Check for original interior components" / / />}}
+  {{< interactive-modules/checklist-item label="Locate and photograph manufacturer's nameplate" / />}}
+  {{< interactive-modules/checklist-item label="Record all patent dates and serial numbers" / />}}
+  {{< interactive-modules/checklist-item label="Measure dimensions (height, width, depth)" / />}}
+  {{< interactive-modules/checklist-item label="Note lock type (key, combination, time lock)" / />}}
+  {{< interactive-modules/checklist-item label="Document decorative elements (paintings, gilt work)" / />}}
+  {{< interactive-modules/checklist-item label="Check for original interior components" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Antique safe with detailed manufacturer markings and decorations](https://ik.imagekit.io/appraisily/SEO/value-antique-safes/value-antique-safes-image-3__DcRXKA_J.png)

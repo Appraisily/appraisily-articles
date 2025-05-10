@@ -146,12 +146,12 @@ The handle often provides excellent clues about a cleaver's age and authenticity
 - **Patina and Wear**: Authentic antique handles show appropriate age-related wear patterns, with smooth areas where hands gripped the tool over decades of use.
 
 {{< interactive-modules/condition-checklist title="Antique Cleaver Handle Assessment" description="Check applicable items to evaluate handle authenticity" >}}
-  {{< interactive-modules/checklist-item label="Natural wood or bone material (not synthetic)" / / />}}
-  {{< interactive-modules/checklist-item label="Shows appropriate wear patterns and patina" / / />}}
-  {{< interactive-modules/checklist-item label="Full tang construction visible at handle end" / / />}}
-  {{< interactive-modules/checklist-item label="Original brass or copper rivets (not stainless steel)" / / />}}
-  {{< interactive-modules/checklist-item label="No modern adhesives or epoxy repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Wood grain pattern consistent with age" / / />}}
+  {{< interactive-modules/checklist-item label="Natural wood or bone material (not synthetic)" / />}}
+  {{< interactive-modules/checklist-item label="Shows appropriate wear patterns and patina" / />}}
+  {{< interactive-modules/checklist-item label="Full tang construction visible at handle end" / />}}
+  {{< interactive-modules/checklist-item label="Original brass or copper rivets (not stainless steel)" / />}}
+  {{< interactive-modules/checklist-item label="No modern adhesives or epoxy repairs" / />}}
+  {{< interactive-modules/checklist-item label="Wood grain pattern consistent with age" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Steel Composition and Patina

@@ -233,16 +233,16 @@ The Nikon F holds special status as the camera that revolutionized professional 
 The physical and mechanical condition of a vintage Nikon is perhaps the most crucial factor affecting its value in today's market.
 
 {{< interactive-modules/condition-checklist title="Nikon Camera Condition Checklist" description="Use this checklist to assess your camera's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="Fully operational shutter at all speeds" / / />}}
-  {{< interactive-modules/checklist-item label="Clean, fungus-free lens elements" / / />}}
-  {{< interactive-modules/checklist-item label="Working light meter (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Smooth film advance and rewind" / / />}}
-  {{< interactive-modules/checklist-item label="No significant brassing or finish wear" / / />}}
-  {{< interactive-modules/checklist-item label="Clean viewfinder without haze or separation" / / />}}
-  {{< interactive-modules/checklist-item label="Original parts (no third-party replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="No dents, cracks, or major cosmetic damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original strap, cap, and accessories included" / / />}}
-  {{< interactive-modules/checklist-item label="Original box, manual, and warranty card present" / / />}}
+  {{< interactive-modules/checklist-item label="Fully operational shutter at all speeds" / />}}
+  {{< interactive-modules/checklist-item label="Clean, fungus-free lens elements" / />}}
+  {{< interactive-modules/checklist-item label="Working light meter (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Smooth film advance and rewind" / />}}
+  {{< interactive-modules/checklist-item label="No significant brassing or finish wear" / />}}
+  {{< interactive-modules/checklist-item label="Clean viewfinder without haze or separation" / />}}
+  {{< interactive-modules/checklist-item label="Original parts (no third-party replacements)" / />}}
+  {{< interactive-modules/checklist-item label="No dents, cracks, or major cosmetic damage" / />}}
+  {{< interactive-modules/checklist-item label="Original strap, cap, and accessories included" / />}}
+  {{< interactive-modules/checklist-item label="Original box, manual, and warranty card present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Completeness and Accessories

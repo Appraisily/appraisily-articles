@@ -148,11 +148,11 @@ According to [Shelby Dillon Studio](https://www.shelbydillonstudio.com/blogs/new
 Here are several techniques to help you better observe and understand value:
 
 {{< interactive-modules/condition-checklist title="Value Perception Exercises" description="Try these activities to improve your ability to see value" >}}
-  {{< interactive-modules/checklist-item label="Squint at an image to reduce color information and see value patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Convert color photos to black and white to study value structures" / / />}}
-  {{< interactive-modules/checklist-item label="Create a simple value scale from white to black for reference" / / />}}
-  {{< interactive-modules/checklist-item label="Practice identifying values numerically (on a scale of 1-9)" / / />}}
-  {{< interactive-modules/checklist-item label="Look for value patterns in masterworks of art" / / />}}
+  {{< interactive-modules/checklist-item label="Squint at an image to reduce color information and see value patterns" / />}}
+  {{< interactive-modules/checklist-item label="Convert color photos to black and white to study value structures" / />}}
+  {{< interactive-modules/checklist-item label="Create a simple value scale from white to black for reference" / />}}
+  {{< interactive-modules/checklist-item label="Practice identifying values numerically (on a scale of 1-9)" / />}}
+  {{< interactive-modules/checklist-item label="Look for value patterns in masterworks of art" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The [University of Delaware's Art Foundation program](http://www1.udel.edu/artfoundations/drawing/value.html) explains that "Values allow us to perceive the three-dimensionality of objects because values correspond to planes of form." This connection between value and form is what enables artists to create realistic renderings of three-dimensional objects on two-dimensional surfaces.

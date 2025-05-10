@@ -183,13 +183,13 @@ Finding a qualified antique appraiser requires some research to ensure you're wo
 When selecting an antique appraiser, verification of credentials is crucial. Look for professionals with:
 
 {{< interactive-modules/condition-checklist title="Appraiser Credential Checklist" description="Verify these qualifications when selecting an appraiser" >}}
-  {{< interactive-modules/checklist-item label="Membership in professional appraisal organizations" / / />}}
-  {{< interactive-modules/checklist-item label="Specific accreditation in relevant specialties" / / />}}
-  {{< interactive-modules/checklist-item label="Adherence to USPAP (Uniform Standards of Professional Appraisal Practice)" / / />}}
-  {{< interactive-modules/checklist-item label="Formal education in appraisal methodology" / / />}}
-  {{< interactive-modules/checklist-item label="Years of experience in your item's category" / / />}}
-  {{< interactive-modules/checklist-item label="Professional liability insurance" / / />}}
-  {{< interactive-modules/checklist-item label="Positive reviews and references" / / />}}
+  {{< interactive-modules/checklist-item label="Membership in professional appraisal organizations" / />}}
+  {{< interactive-modules/checklist-item label="Specific accreditation in relevant specialties" / />}}
+  {{< interactive-modules/checklist-item label="Adherence to USPAP (Uniform Standards of Professional Appraisal Practice)" / />}}
+  {{< interactive-modules/checklist-item label="Formal education in appraisal methodology" / />}}
+  {{< interactive-modules/checklist-item label="Years of experience in your item's category" / />}}
+  {{< interactive-modules/checklist-item label="Professional liability insurance" / />}}
+  {{< interactive-modules/checklist-item label="Positive reviews and references" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Avoid appraisers who:

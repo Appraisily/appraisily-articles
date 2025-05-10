@@ -206,13 +206,13 @@ The Facebook group "Free Art Appraiser: Get Smart About Art!" has over 30,000 me
 Reddit's r/artcollecting and r/whatisthispainting communities also provide informal valuations, though the accuracy varies based on who responds to your query.
 
 {{< interactive-modules/condition-checklist title="Preparing for a Free Art Appraisal" description="Use this checklist to ensure you have everything needed for a productive appraisal" >}}
-  {{< interactive-modules/checklist-item label="Clear, well-lit photographs from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Close-up photos of the artist's signature" / / />}}
-  {{< interactive-modules/checklist-item label="Images of any labels, stamps, or markings on the back" / / />}}
-  {{< interactive-modules/checklist-item label="Measurements of the artwork (height x width)" / / />}}
-  {{< interactive-modules/checklist-item label="Information about the artwork's current condition" / / />}}
-  {{< interactive-modules/checklist-item label="Any known provenance or history of the piece" / / />}}
-  {{< interactive-modules/checklist-item label="Details about how and when you acquired it" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, well-lit photographs from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Close-up photos of the artist's signature" / />}}
+  {{< interactive-modules/checklist-item label="Images of any labels, stamps, or markings on the back" / />}}
+  {{< interactive-modules/checklist-item label="Measurements of the artwork (height x width)" / />}}
+  {{< interactive-modules/checklist-item label="Information about the artwork's current condition" / />}}
+  {{< interactive-modules/checklist-item label="Any known provenance or history of the piece" / />}}
+  {{< interactive-modules/checklist-item label="Details about how and when you acquired it" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Limitations of Free Art Appraisals" level="2" >}}

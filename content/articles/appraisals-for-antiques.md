@@ -186,11 +186,11 @@ Finding a qualified antique appraiser requires research to ensure you work with 
 When searching for an appraiser, look for professionals with:
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Key credentials to look for in a professional appraiser" >}}
-  {{< interactive-modules/checklist-item label="Certification from a recognized appraisal organization" / / />}}
-  {{< interactive-modules/checklist-item label="Specialization in your specific type of antique" / / />}}
-  {{< interactive-modules/checklist-item label="Experience with your appraisal purpose (insurance, estate, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="USPAP compliance (Uniform Standards of Professional Appraisal Practice)" / / />}}
-  {{< interactive-modules/checklist-item label="Professional references or reviews" / / />}}
+  {{< interactive-modules/checklist-item label="Certification from a recognized appraisal organization" / />}}
+  {{< interactive-modules/checklist-item label="Specialization in your specific type of antique" / />}}
+  {{< interactive-modules/checklist-item label="Experience with your appraisal purpose (insurance, estate, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="USPAP compliance (Uniform Standards of Professional Appraisal Practice)" / />}}
+  {{< interactive-modules/checklist-item label="Professional references or reviews" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Reputable Organizations and Certifications
@@ -464,12 +464,12 @@ Gather all available information about your items:
 ### Condition Preparation
 
 {{< interactive-modules/condition-checklist title="Pre-Appraisal Preparation Checklist" description="Steps to take before your appraisal appointment" >}}
-  {{< interactive-modules/checklist-item label="Clean items gently without using harsh chemicals" / / />}}
-  {{< interactive-modules/checklist-item label="Assemble all parts and accessories" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph items from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Create an inventory list with known details" / / />}}
-  {{< interactive-modules/checklist-item label="Prepare your questions for the appraiser" / / />}}
-  {{< interactive-modules/checklist-item label="Arrange appropriate display space for examination" / / />}}
+  {{< interactive-modules/checklist-item label="Clean items gently without using harsh chemicals" / />}}
+  {{< interactive-modules/checklist-item label="Assemble all parts and accessories" / />}}
+  {{< interactive-modules/checklist-item label="Photograph items from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Create an inventory list with known details" / />}}
+  {{< interactive-modules/checklist-item label="Prepare your questions for the appraiser" / />}}
+  {{< interactive-modules/checklist-item label="Arrange appropriate display space for examination" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Important considerations when cleaning antiques for appraisal:

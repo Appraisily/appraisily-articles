@@ -136,14 +136,14 @@ Georgian glassmakers created specialized forms for different beverages:
 - **Ratafia Glasses**: Very small glasses for sweet liqueurs
 
 {{< interactive-modules/condition-checklist title="Georgian Glass Authentication Checklist" description="Check applicable items when examining potential Georgian glass" >}}
-  {{< interactive-modules/checklist-item label="Pontil mark visible on the base" / / />}}
-  {{< interactive-modules/checklist-item label="Glass has significant weight due to lead content" / / />}}
-  {{< interactive-modules/checklist-item label="Produces clear ring when gently tapped" / / />}}
-  {{< interactive-modules/checklist-item label="No modern machine-made mold seams" / / />}}
-  {{< interactive-modules/checklist-item label="Slight variations showing hand-craftsmanship" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate stem style (air twist, plain, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Wear consistent with age (slight scratches, dulling)" / / />}}
-  {{< interactive-modules/checklist-item label="Glass color has slight grayish or yellowish tint" / / />}}
+  {{< interactive-modules/checklist-item label="Pontil mark visible on the base" / />}}
+  {{< interactive-modules/checklist-item label="Glass has significant weight due to lead content" / />}}
+  {{< interactive-modules/checklist-item label="Produces clear ring when gently tapped" / />}}
+  {{< interactive-modules/checklist-item label="No modern machine-made mold seams" / />}}
+  {{< interactive-modules/checklist-item label="Slight variations showing hand-craftsmanship" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate stem style (air twist, plain, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Wear consistent with age (slight scratches, dulling)" / />}}
+  {{< interactive-modules/checklist-item label="Glass color has slight grayish or yellowish tint" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Victorian and Early 20th Century Glass" level="2" >}}

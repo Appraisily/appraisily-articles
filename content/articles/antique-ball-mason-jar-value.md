@@ -105,14 +105,14 @@ Multiple factors affect the value of antique Ball mason jars, from age and rarit
 ### Key Value Determinants
 
 {{< interactive-modules/condition-checklist title="Factors Affecting Mason Jar Value" description="These elements significantly impact the market value of antique Ball jars" >}}
-  {{< interactive-modules/checklist-item label="Age (older jars typically command higher prices)" / / />}}
-  {{< interactive-modules/checklist-item label="Rarity (limited production runs or discontinued styles)" / / />}}
-  {{< interactive-modules/checklist-item label="Color (unusual colors like amber, green, or deep blue)" / / />}}
-  {{< interactive-modules/checklist-item label="Condition (cracks, chips, and cloudiness reduce value)" / / />}}
-  {{< interactive-modules/checklist-item label="Size (half-gallon and unusual sizes may be worth more)" / / />}}
-  {{< interactive-modules/checklist-item label="Embossing errors or variations" / / />}}
-  {{< interactive-modules/checklist-item label="Original closures or accessories included" / / />}}
-  {{< interactive-modules/checklist-item label="Historical significance" / / />}}
+  {{< interactive-modules/checklist-item label="Age (older jars typically command higher prices)" / />}}
+  {{< interactive-modules/checklist-item label="Rarity (limited production runs or discontinued styles)" / />}}
+  {{< interactive-modules/checklist-item label="Color (unusual colors like amber, green, or deep blue)" / />}}
+  {{< interactive-modules/checklist-item label="Condition (cracks, chips, and cloudiness reduce value)" / />}}
+  {{< interactive-modules/checklist-item label="Size (half-gallon and unusual sizes may be worth more)" / />}}
+  {{< interactive-modules/checklist-item label="Embossing errors or variations" / />}}
+  {{< interactive-modules/checklist-item label="Original closures or accessories included" / />}}
+  {{< interactive-modules/checklist-item label="Historical significance" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color and Rarity
@@ -347,12 +347,12 @@ Just starting your Ball mason jar collection? These practical tips will help you
 As values for rare mason jars have increased, so have reproductions. Here's how to spot them:
 
 {{< interactive-modules/condition-checklist title="Reproduction Warning Signs" description="Check for these indicators that a jar might not be authentically antique" >}}
-  {{< interactive-modules/checklist-item label="Too perfect - lacks expected wear for its supposed age" / / />}}
-  {{< interactive-modules/checklist-item label="Colors that are too vivid or unnatural for the era" / / />}}
-  {{< interactive-modules/checklist-item label="Embossing that appears too shallow or lacks detail" / / />}}
-  {{< interactive-modules/checklist-item label="Mold seams in unusual locations" / / />}}
-  {{< interactive-modules/checklist-item label="Pricing that seems suspiciously low for a supposedly rare jar" / / />}}
-  {{< interactive-modules/checklist-item label="Machine-made marks on jars claimed to be from hand-blown era" / / />}}
+  {{< interactive-modules/checklist-item label="Too perfect - lacks expected wear for its supposed age" / />}}
+  {{< interactive-modules/checklist-item label="Colors that are too vivid or unnatural for the era" / />}}
+  {{< interactive-modules/checklist-item label="Embossing that appears too shallow or lacks detail" / />}}
+  {{< interactive-modules/checklist-item label="Mold seams in unusual locations" / />}}
+  {{< interactive-modules/checklist-item label="Pricing that seems suspiciously low for a supposedly rare jar" / />}}
+  {{< interactive-modules/checklist-item label="Machine-made marks on jars claimed to be from hand-blown era" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Be particularly cautious with colored jars (especially purple and red) and those with unusual embossing variations, as these are frequently reproduced.

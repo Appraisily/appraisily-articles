@@ -261,13 +261,13 @@ Be aware that reproduction machines exist in the market. Authentic vintage machi
 - Authentic Coca-Cola logo styles matching the purported production period
 
 {{< interactive-modules/condition-checklist title="Vintage Coke Machine Identification Checklist" description="Use this checklist to properly identify your machine" >}}
-  {{< interactive-modules/checklist-item label="Locate and decode the serial number plate" / / />}}
-  {{< interactive-modules/checklist-item label="Document all Coca-Cola logos and design elements" / / />}}
-  {{< interactive-modules/checklist-item label="Research the manufacturer (Vendo, Cavalier, Westinghouse, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions and compare to known specifications" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph any unique features or design elements" / / />}}
-  {{< interactive-modules/checklist-item label="Check for period-appropriate coin mechanisms" / / />}}
-  {{< interactive-modules/checklist-item label="Consult collector resources for similar models" / / />}}
+  {{< interactive-modules/checklist-item label="Locate and decode the serial number plate" / />}}
+  {{< interactive-modules/checklist-item label="Document all Coca-Cola logos and design elements" / />}}
+  {{< interactive-modules/checklist-item label="Research the manufacturer (Vendo, Cavalier, Westinghouse, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Measure dimensions and compare to known specifications" / />}}
+  {{< interactive-modules/checklist-item label="Photograph any unique features or design elements" / />}}
+  {{< interactive-modules/checklist-item label="Check for period-appropriate coin mechanisms" / />}}
+  {{< interactive-modules/checklist-item label="Consult collector resources for similar models" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For definitive identification of rare or unusual models, consider consulting specialists at [Collectors Weekly](https://www.collectorsweekly.com/coca-cola/machines/stories) or dedicated Coca-Cola collector forums.

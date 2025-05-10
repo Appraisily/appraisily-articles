@@ -127,12 +127,12 @@ Before submitting your clock for appraisal, taking certain preparatory steps can
 Proper documentation is essential, particularly for online appraisals where experts will rely on your information to assess the clock:
 
 {{< interactive-modules/condition-checklist title="Pre-Appraisal Documentation Checklist" description="Complete these steps before seeking an appraisal" >}}
-{{< interactive-modules/checklist-item label="Take clear, well-lit photographs from multiple angles" / / />}}
-{{< interactive-modules/checklist-item label="Capture close-ups of maker's marks, labels, or signatures" / / />}}
-{{< interactive-modules/checklist-item label="Photograph the clock's movement (internal mechanism)" / / />}}
-{{< interactive-modules/checklist-item label="Measure dimensions (height, width, depth)" / / />}}
-{{< interactive-modules/checklist-item label="Document any known history or provenance" / / />}}
-{{< interactive-modules/checklist-item label="Note any repairs or restoration work" / / />}}
+{{< interactive-modules/checklist-item label="Take clear, well-lit photographs from multiple angles" / />}}
+{{< interactive-modules/checklist-item label="Capture close-ups of maker's marks, labels, or signatures" / />}}
+{{< interactive-modules/checklist-item label="Photograph the clock's movement (internal mechanism)" / />}}
+{{< interactive-modules/checklist-item label="Measure dimensions (height, width, depth)" / />}}
+{{< interactive-modules/checklist-item label="Document any known history or provenance" / />}}
+{{< interactive-modules/checklist-item label="Note any repairs or restoration work" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Information to Gather

@@ -101,13 +101,13 @@ As noted by [Rare Records](https://www.rarerecords.net/vinyl-records-value/), sc
 The condition of a vinyl record is perhaps the most crucial factor affecting its value. Collectors use standardized grading systems to describe condition:
 
 {{< interactive-modules/condition-checklist title="Record Grading Scale" description="Standard condition ratings for vinyl records" >}}
-  {{< interactive-modules/checklist-item label="Mint (M): Perfect condition, never played" / / />}}
-  {{< interactive-modules/checklist-item label="Near Mint (NM): Almost perfect, may have been played but shows no signs of wear" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent (E): Minor signs of handling but no significant marks" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good Plus (VG+): Some light marks and minor wear" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good (VG): Shows signs of play with light scratches" / / />}}
-  {{< interactive-modules/checklist-item label="Good (G): Plays through but with noticeable surface noise" / / />}}
-  {{< interactive-modules/checklist-item label="Poor (P): Severely damaged, may skip or be unplayable" / / />}}
+  {{< interactive-modules/checklist-item label="Mint (M): Perfect condition, never played" / />}}
+  {{< interactive-modules/checklist-item label="Near Mint (NM): Almost perfect, may have been played but shows no signs of wear" / />}}
+  {{< interactive-modules/checklist-item label="Excellent (E): Minor signs of handling but no significant marks" / />}}
+  {{< interactive-modules/checklist-item label="Very Good Plus (VG+): Some light marks and minor wear" / />}}
+  {{< interactive-modules/checklist-item label="Very Good (VG): Shows signs of play with light scratches" / />}}
+  {{< interactive-modules/checklist-item label="Good (G): Plays through but with noticeable surface noise" / />}}
+  {{< interactive-modules/checklist-item label="Poor (P): Severely damaged, may skip or be unplayable" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The difference between Near Mint and Very Good condition can significantly impact value—often reducing the price by 50% or more.

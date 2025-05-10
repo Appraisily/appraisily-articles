@@ -168,12 +168,12 @@ Many specialty auction houses offer free online appraisals for items in their ar
 Similarly, [Fine Art at Heritage Auctions](https://fineart.ha.com/free-appraisals.s) specializes in fine art and antique evaluations, providing free assessments for potential auction consignments.
 
 {{< interactive-modules/condition-checklist title="Online Appraisal Submission Checklist" description="Ensure your online appraisal submission is thorough by including these elements:" >}}
-  {{< interactive-modules/checklist-item label="Multiple high-resolution photos from different angles" / / />}}
-  {{< interactive-modules/checklist-item label="Close-up images of signatures, maker's marks, and any damage" / / />}}
-  {{< interactive-modules/checklist-item label="Measurements (height, width, depth, weight if relevant)" / / />}}
-  {{< interactive-modules/checklist-item label="Known provenance or history of the item" / / />}}
-  {{< interactive-modules/checklist-item label="Previous restoration work or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Any documentation, certificates, or receipts" / / />}}
+  {{< interactive-modules/checklist-item label="Multiple high-resolution photos from different angles" / />}}
+  {{< interactive-modules/checklist-item label="Close-up images of signatures, maker's marks, and any damage" / />}}
+  {{< interactive-modules/checklist-item label="Measurements (height, width, depth, weight if relevant)" / />}}
+  {{< interactive-modules/checklist-item label="Known provenance or history of the item" / />}}
+  {{< interactive-modules/checklist-item label="Previous restoration work or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Any documentation, certificates, or receipts" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding the Limitations of Free Appraisals" level="2" >}}

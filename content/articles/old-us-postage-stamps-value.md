@@ -142,12 +142,12 @@ Unused stamps with original gum (called "mint" condition) typically command high
 Well-centered stamps, where the design appears evenly positioned within the perforations, are more desirable and valuable than off-center examples.
 
 {{< interactive-modules/condition-checklist title="Stamp Condition Assessment" description="Check these items to evaluate your stamps" >}}
-  {{< interactive-modules/checklist-item label="Intact perforations with no tears or missing teeth" / / />}}
-  {{< interactive-modules/checklist-item label="No creases, bends, or wrinkles" / / />}}
-  {{< interactive-modules/checklist-item label="Well-centered design within borders" / / />}}
-  {{< interactive-modules/checklist-item label="Original gum present (for unused stamps)" / / />}}
-  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" / / />}}
-  {{< interactive-modules/checklist-item label="No thins or paper damage" / / />}}
+  {{< interactive-modules/checklist-item label="Intact perforations with no tears or missing teeth" / />}}
+  {{< interactive-modules/checklist-item label="No creases, bends, or wrinkles" / />}}
+  {{< interactive-modules/checklist-item label="Well-centered design within borders" / />}}
+  {{< interactive-modules/checklist-item label="Original gum present (for unused stamps)" / />}}
+  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" / />}}
+  {{< interactive-modules/checklist-item label="No thins or paper damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Old US Postage Stamps" level="2" >}}

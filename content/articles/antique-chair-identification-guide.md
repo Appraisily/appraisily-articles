@@ -246,13 +246,13 @@ Upholstery techniques and materials also evolved significantly:
 According to furniture restoration experts at [Museum Quality Restoration Services](https://www.museumqualityrestorationservices.com/how-to-identify-antique-chairs-a-comprehensive-guide/), "The first thing to look for right away is the overall design of the chair. What time period is it from?" This initial assessment should be followed by a detailed examination of construction techniques to confirm the period identification.
 
 {{< interactive-modules/condition-checklist title="Construction Authenticity Checklist" description="Check these items to assess the authenticity of construction techniques" >}}
-  {{< interactive-modules/checklist-item label="Evidence of hand-cut joinery (for pre-1880 pieces)" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate patination and wear patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Tool marks consistent with the purported period" / / />}}
-  {{< interactive-modules/checklist-item label="Secondary woods typical of the period and region" / / />}}
-  {{< interactive-modules/checklist-item label="Nails or screws appropriate to the era" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish or appropriate refinishing" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate upholstery technique (if original)" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand-cut joinery (for pre-1880 pieces)" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate patination and wear patterns" / />}}
+  {{< interactive-modules/checklist-item label="Tool marks consistent with the purported period" / />}}
+  {{< interactive-modules/checklist-item label="Secondary woods typical of the period and region" / />}}
+  {{< interactive-modules/checklist-item label="Nails or screws appropriate to the era" / />}}
+  {{< interactive-modules/checklist-item label="Original finish or appropriate refinishing" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate upholstery technique (if original)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Materials Used in Antique Chairs" level="2" >}}

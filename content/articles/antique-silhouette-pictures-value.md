@@ -203,12 +203,12 @@ Silhouettes featuring famous historical figures or subjects of special interest 
 ### 4. Condition Issues
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that impact silhouette value:" >}}
-  {{< interactive-modules/checklist-item label="Paper intact with no tears, creases or water damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original frame in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="No fading of the black image or background" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs, inpainting or restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Original backing and mounting materials present" / / />}}
-  {{< interactive-modules/checklist-item label="Any original labels or inscriptions intact" / / />}}
+  {{< interactive-modules/checklist-item label="Paper intact with no tears, creases or water damage" / />}}
+  {{< interactive-modules/checklist-item label="Original frame in good condition" / />}}
+  {{< interactive-modules/checklist-item label="No fading of the black image or background" / />}}
+  {{< interactive-modules/checklist-item label="No repairs, inpainting or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Original backing and mounting materials present" / />}}
+  {{< interactive-modules/checklist-item label="Any original labels or inscriptions intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 5. Frame and Presentation

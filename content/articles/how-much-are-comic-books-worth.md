@@ -227,25 +227,25 @@ Professional grading has revolutionized comic book collecting by providing stand
 The industry standard for grading comics uses a 10-point scale:
 
 {{< interactive-modules/condition-checklist title="Comic Book Grading Scale" description="The industry-standard 10-point grading scale explained" >}}
-  {{< interactive-modules/checklist-item label="Mint (MT) 10.0: Perfect in every way" / / />}}
-  {{< interactive-modules/checklist-item label="Near Mint/Mint (NM/MT) 9.8: Nearly perfect with minimal imperfections" / / />}}
-  {{< interactive-modules/checklist-item label="Near Mint+ (NM+) 9.6: Excellent condition with minor flaws" / / />}}
-  {{< interactive-modules/checklist-item label="Near Mint (NM) 9.4: Almost perfect with slight wear" / / />}}
-  {{< interactive-modules/checklist-item label="Near Mint- (NM-) 9.2: Minor wear but still excellent" / / />}}
-  {{< interactive-modules/checklist-item label="Very Fine/Near Mint (VF/NM) 9.0: Minor wear visible upon close inspection" / / />}}
-  {{< interactive-modules/checklist-item label="Very Fine+ (VF+) 8.5: Light wear but still impressive" / / />}}
-  {{< interactive-modules/checklist-item label="Very Fine (VF) 8.0: Minimal wear, still attractive" / / />}}
-  {{< interactive-modules/checklist-item label="Fine/Very Fine (F/VF) 7.5: Moderate wear but well-maintained" / / />}}
-  {{< interactive-modules/checklist-item label="Fine+ (F+) 6.5: Noticeable wear but still nice" / / />}}
-  {{< interactive-modules/checklist-item label="Fine (F) 6.0: Above-average condition with wear" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good/Fine (VG/F) 5.5: Moderate wear but intact" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good+ (VG+) 4.5: Significant wear but complete" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good (VG) 4.0: Well-read but intact" / / />}}
-  {{< interactive-modules/checklist-item label="Good/Very Good (G/VG) 3.5: Heavy wear but complete" / / />}}
-  {{< interactive-modules/checklist-item label="Good (G) 2.0: Heavy wear, may have small tears" / / />}}
-  {{< interactive-modules/checklist-item label="Fair/Good (F/G) 1.5: Heavy wear, significant defects" / / />}}
-  {{< interactive-modules/checklist-item label="Fair (FR) 1.0: Poor condition but complete" / / />}}
-  {{< interactive-modules/checklist-item label="Poor (PR) 0.5: Severe damage, barely holding together" / / />}}
+  {{< interactive-modules/checklist-item label="Mint (MT) 10.0: Perfect in every way" / />}}
+  {{< interactive-modules/checklist-item label="Near Mint/Mint (NM/MT) 9.8: Nearly perfect with minimal imperfections" / />}}
+  {{< interactive-modules/checklist-item label="Near Mint+ (NM+) 9.6: Excellent condition with minor flaws" / />}}
+  {{< interactive-modules/checklist-item label="Near Mint (NM) 9.4: Almost perfect with slight wear" / />}}
+  {{< interactive-modules/checklist-item label="Near Mint- (NM-) 9.2: Minor wear but still excellent" / />}}
+  {{< interactive-modules/checklist-item label="Very Fine/Near Mint (VF/NM) 9.0: Minor wear visible upon close inspection" / />}}
+  {{< interactive-modules/checklist-item label="Very Fine+ (VF+) 8.5: Light wear but still impressive" / />}}
+  {{< interactive-modules/checklist-item label="Very Fine (VF) 8.0: Minimal wear, still attractive" / />}}
+  {{< interactive-modules/checklist-item label="Fine/Very Fine (F/VF) 7.5: Moderate wear but well-maintained" / />}}
+  {{< interactive-modules/checklist-item label="Fine+ (F+) 6.5: Noticeable wear but still nice" / />}}
+  {{< interactive-modules/checklist-item label="Fine (F) 6.0: Above-average condition with wear" / />}}
+  {{< interactive-modules/checklist-item label="Very Good/Fine (VG/F) 5.5: Moderate wear but intact" / />}}
+  {{< interactive-modules/checklist-item label="Very Good+ (VG+) 4.5: Significant wear but complete" / />}}
+  {{< interactive-modules/checklist-item label="Very Good (VG) 4.0: Well-read but intact" / />}}
+  {{< interactive-modules/checklist-item label="Good/Very Good (G/VG) 3.5: Heavy wear but complete" / />}}
+  {{< interactive-modules/checklist-item label="Good (G) 2.0: Heavy wear, may have small tears" / />}}
+  {{< interactive-modules/checklist-item label="Fair/Good (F/G) 1.5: Heavy wear, significant defects" / />}}
+  {{< interactive-modules/checklist-item label="Fair (FR) 1.0: Poor condition but complete" / />}}
+  {{< interactive-modules/checklist-item label="Poor (PR) 0.5: Severe damage, barely holding together" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Professional Grading Services
@@ -411,14 +411,14 @@ Start by creating a systematic inventory:
 Use these guidelines to estimate your comics' conditions:
 
 {{< interactive-modules/condition-checklist title="Comic Condition Self-Assessment" description="Check these factors when evaluating your comics" >}}
-  {{< interactive-modules/checklist-item label="Cover is bright and glossy with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Spine is straight with no significant creasing" / / />}}
-  {{< interactive-modules/checklist-item label="Corners are sharp rather than rounded or bent" / / />}}
-  {{< interactive-modules/checklist-item label="Pages are white or off-white rather than yellowed or brittle" / / />}}
-  {{< interactive-modules/checklist-item label="No tears, stains, writing, or tape on cover or interior" / / />}}
-  {{< interactive-modules/checklist-item label="Staples are intact without rust" / / />}}
-  {{< interactive-modules/checklist-item label="No missing pages or cutouts" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage or mildew" / / />}}
+  {{< interactive-modules/checklist-item label="Cover is bright and glossy with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Spine is straight with no significant creasing" / />}}
+  {{< interactive-modules/checklist-item label="Corners are sharp rather than rounded or bent" / />}}
+  {{< interactive-modules/checklist-item label="Pages are white or off-white rather than yellowed or brittle" / />}}
+  {{< interactive-modules/checklist-item label="No tears, stains, writing, or tape on cover or interior" / />}}
+  {{< interactive-modules/checklist-item label="Staples are intact without rust" / />}}
+  {{< interactive-modules/checklist-item label="No missing pages or cutouts" / />}}
+  {{< interactive-modules/checklist-item label="No water damage or mildew" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Research Comparable Sales

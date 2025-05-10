@@ -365,14 +365,14 @@ For Coca-Cola collectors, [My Weathered Home](https://myweatheredhome.com/dating
 - **Bottle color**: Early bottles often had slight blue or green tints
 
 {{< interactive-modules/condition-checklist title="Soda Bottle Condition Assessment" description="Check all criteria that apply to determine your bottle's condition rating" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Original closure or cap intact" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossing or labels" / / />}}
-  {{< interactive-modules/checklist-item label="No significant wear to ACL (painted) labels" / / />}}
-  {{< interactive-modules/checklist-item label="Original paper label intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="No interior staining or residue" / / />}}
-  {{< interactive-modules/checklist-item label="No case wear on base or body" / / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging present" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / />}}
+  {{< interactive-modules/checklist-item label="Original closure or cap intact" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossing or labels" / />}}
+  {{< interactive-modules/checklist-item label="No significant wear to ACL (painted) labels" / />}}
+  {{< interactive-modules/checklist-item label="Original paper label intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No interior staining or residue" / />}}
+  {{< interactive-modules/checklist-item label="No case wear on base or body" / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Where to Buy and Sell Vintage Soda Bottles

@@ -140,11 +140,11 @@ Handmade glass marbles, particularly German-made examples from the 19th century,
 Identifying characteristics of handmade glass marbles include:
 
 {{< interactive-modules/condition-checklist title="Handmade Marble Identification Checklist" description="Look for these key features when identifying handmade glass marbles" >}}
-  {{< interactive-modules/checklist-item label="Pontil marks (small rough spots where the marble was cut from the glass rod)" / / />}}
-  {{< interactive-modules/checklist-item label="Slight size variations and imperfections" / / />}}
-  {{< interactive-modules/checklist-item label="Embedded designs that appear to float within the glass" / / />}}
-  {{< interactive-modules/checklist-item label="No seams (common in machine-made marbles)" / / />}}
-  {{< interactive-modules/checklist-item label="Complex, multi-colored internal designs" / / />}}
+  {{< interactive-modules/checklist-item label="Pontil marks (small rough spots where the marble was cut from the glass rod)" / />}}
+  {{< interactive-modules/checklist-item label="Slight size variations and imperfections" / />}}
+  {{< interactive-modules/checklist-item label="Embedded designs that appear to float within the glass" / />}}
+  {{< interactive-modules/checklist-item label="No seams (common in machine-made marbles)" / />}}
+  {{< interactive-modules/checklist-item label="Complex, multi-colored internal designs" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Machine-Made Glass Marbles
@@ -216,11 +216,11 @@ According to experts at [MarbleCollecting.com](https://www.marblecollecting.com/
 The condition of a marble significantly impacts its value. Collectors should examine marbles for:
 
 {{< interactive-modules/condition-checklist title="Marble Condition Factors" description="Check these elements when assessing a marble's condition" >}}
-  {{< interactive-modules/checklist-item label="Chips or flakes - even minor damage significantly reduces value" / / />}}
-  {{< interactive-modules/checklist-item label="Scratches on the surface" / / />}}
-  {{< interactive-modules/checklist-item label="Wear from play (often appears as overall cloudiness)" / / />}}
-  {{< interactive-modules/checklist-item label="Crazing or internal fractures" / / />}}
-  {{< interactive-modules/checklist-item label="Original polish and luster" / / />}}
+  {{< interactive-modules/checklist-item label="Chips or flakes - even minor damage significantly reduces value" / />}}
+  {{< interactive-modules/checklist-item label="Scratches on the surface" / />}}
+  {{< interactive-modules/checklist-item label="Wear from play (often appears as overall cloudiness)" / />}}
+  {{< interactive-modules/checklist-item label="Crazing or internal fractures" / />}}
+  {{< interactive-modules/checklist-item label="Original polish and luster" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 #### Manufacturing Techniques

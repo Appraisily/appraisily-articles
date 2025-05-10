@@ -135,16 +135,16 @@ Some of the highest values are found among motors from smaller manufacturers wit
 Specialized racing outboards from any manufacturer typically command significant premiums. According to the [Land-O-Lakes Classic Boat Club](https://lolcbc.org/boating-history/outboard/worth/), racing models often sell for 10 times the value of standard models from the same era.
 
 {{< interactive-modules/condition-checklist title="Outboard Motor Condition Assessment" description="Check these items to evaluate the condition and potential value of a vintage outboard motor" >}}
-  {{< interactive-modules/checklist-item label="Motor turns over freely by hand" / / />}}
-  {{< interactive-modules/checklist-item label="Has good compression" / / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (tank, controls, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Free of significant corrosion or pitting" / / />}}
-  {{< interactive-modules/checklist-item label="Decals and emblems intact" / / />}}
-  {{< interactive-modules/checklist-item label="Propeller undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Lower unit seals not leaking" / / />}}
-  {{< interactive-modules/checklist-item label="Ignition system functions properly" / / />}}
-  {{< interactive-modules/checklist-item label="Includes original documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Motor turns over freely by hand" / />}}
+  {{< interactive-modules/checklist-item label="Has good compression" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (tank, controls, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Original paint in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Free of significant corrosion or pitting" / />}}
+  {{< interactive-modules/checklist-item label="Decals and emblems intact" / />}}
+  {{< interactive-modules/checklist-item label="Propeller undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Lower unit seals not leaking" / />}}
+  {{< interactive-modules/checklist-item label="Ignition system functions properly" / />}}
+  {{< interactive-modules/checklist-item label="Includes original documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Your Vintage Outboard" level="2" >}}

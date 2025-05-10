@@ -118,12 +118,12 @@ Understanding how to locate and examine pottery marks is the first step in the i
 ![Close-up image of pottery mark examination techniques with magnifying glass](https://ik.imagekit.io/appraisily/SEO/antique-pottery-marks-identification-guide/antique-pottery-marks-identification-guide-image-3_PmGDkmgYc.png)
 
 {{< interactive-modules/condition-checklist title="Pottery Mark Examination Checklist" description="Use these steps to thoroughly examine ceramic marks" >}}
-  {{< interactive-modules/checklist-item label="Locate all marks (check base, foot ring, and sometimes sides or interior)" / / />}}
-  {{< interactive-modules/checklist-item label="Use magnification to see details clearly" / / />}}
-  {{< interactive-modules/checklist-item label="Note whether marks are impressed, printed, painted, or incised" / / />}}
-  {{< interactive-modules/checklist-item label="Record all letters, numbers, symbols, and their arrangement" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph marks for reference when researching" / / />}}
-  {{< interactive-modules/checklist-item label="Check for additional marks under glaze or in hard-to-see locations" / / />}}
+  {{< interactive-modules/checklist-item label="Locate all marks (check base, foot ring, and sometimes sides or interior)" / />}}
+  {{< interactive-modules/checklist-item label="Use magnification to see details clearly" / />}}
+  {{< interactive-modules/checklist-item label="Note whether marks are impressed, printed, painted, or incised" / />}}
+  {{< interactive-modules/checklist-item label="Record all letters, numbers, symbols, and their arrangement" / />}}
+  {{< interactive-modules/checklist-item label="Photograph marks for reference when researching" / />}}
+  {{< interactive-modules/checklist-item label="Check for additional marks under glaze or in hard-to-see locations" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Using Reference Materials and Resources" level="2" >}}

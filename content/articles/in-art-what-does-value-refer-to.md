@@ -282,14 +282,14 @@ In digital art, additional techniques include:
 As Artplacer notes, "Value in art might refer to a defining element of the composition of an art piece that gives it depth, contrast, and balance." These techniques are the practical means by which artists achieve those qualities.
 
 {{< interactive-modules/condition-checklist title="Value Assessment in Artwork" description="Use this checklist to evaluate how effectively value is used in a piece of art" >}}
-  {{< interactive-modules/checklist-item label="Contains a full range of values from light to dark" / / />}}
-  {{< interactive-modules/checklist-item label="Shows clear value relationships that create depth" / / />}}
-  {{< interactive-modules/checklist-item label="Uses value contrast to establish focal points" / / />}}
-  {{< interactive-modules/checklist-item label="Demonstrates consistent light source direction" / / />}}
-  {{< interactive-modules/checklist-item label="Employs value to create form and volume" / / />}}
-  {{< interactive-modules/checklist-item label="Uses value to establish atmospheric effects" / / />}}
-  {{< interactive-modules/checklist-item label="Shows technical skill in value transitions" / / />}}
-  {{< interactive-modules/checklist-item label="Creates emotional impact through value choices" / / />}}
+  {{< interactive-modules/checklist-item label="Contains a full range of values from light to dark" / />}}
+  {{< interactive-modules/checklist-item label="Shows clear value relationships that create depth" / />}}
+  {{< interactive-modules/checklist-item label="Uses value contrast to establish focal points" / />}}
+  {{< interactive-modules/checklist-item label="Demonstrates consistent light source direction" / />}}
+  {{< interactive-modules/checklist-item label="Employs value to create form and volume" / />}}
+  {{< interactive-modules/checklist-item label="Uses value to establish atmospheric effects" / />}}
+  {{< interactive-modules/checklist-item label="Shows technical skill in value transitions" / />}}
+  {{< interactive-modules/checklist-item label="Creates emotional impact through value choices" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Famous Examples of Value in Art History" level="2" >}}

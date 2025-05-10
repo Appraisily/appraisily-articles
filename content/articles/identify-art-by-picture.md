@@ -205,14 +205,14 @@ With multiple options available, selecting the best art identification tool depe
 ### Considerations When Choosing an App
 
 {{< interactive-modules/condition-checklist title="Art Identification App Selection Criteria" description="Consider these factors when choosing an art identification app" >}}
-  {{< interactive-modules/checklist-item label="Database size and comprehensiveness" / / />}}
-  {{< interactive-modules/checklist-item label="Geographic coverage (Western vs. global art)" / / />}}
-  {{< interactive-modules/checklist-item label="Contemporary art inclusion" / / />}}
-  {{< interactive-modules/checklist-item label="Museum/gallery partnerships in your area" / / />}}
-  {{< interactive-modules/checklist-item label="Additional features (audio tours, maps, personalization)" / / />}}
-  {{< interactive-modules/checklist-item label="Price information and market data needs" / / />}}
-  {{< interactive-modules/checklist-item label="User interface and ease of use" / / />}}
-  {{< interactive-modules/checklist-item label="Offline functionality" / / />}}
+  {{< interactive-modules/checklist-item label="Database size and comprehensiveness" / />}}
+  {{< interactive-modules/checklist-item label="Geographic coverage (Western vs. global art)" / />}}
+  {{< interactive-modules/checklist-item label="Contemporary art inclusion" / />}}
+  {{< interactive-modules/checklist-item label="Museum/gallery partnerships in your area" / />}}
+  {{< interactive-modules/checklist-item label="Additional features (audio tours, maps, personalization)" / />}}
+  {{< interactive-modules/checklist-item label="Price information and market data needs" / />}}
+  {{< interactive-modules/checklist-item label="User interface and ease of use" / />}}
+  {{< interactive-modules/checklist-item label="Offline functionality" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Best App for Different User Needs

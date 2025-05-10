@@ -225,14 +225,14 @@ Complete matching sets command significantly higher prices than individual piece
 Condition dramatically impacts value, with pristine or professionally restored pieces commanding premium prices:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this guide to evaluate your antique bedroom set's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and well-preserved" / / />}}
-  {{< interactive-modules/checklist-item label="All original hardware present" / / />}}
-  {{< interactive-modules/checklist-item label="Drawers operate smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="No structural damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original mirrors in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Bed frame complete with all components" / / />}}
-  {{< interactive-modules/checklist-item label="No significant water damage or veneer issues" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and well-preserved" / />}}
+  {{< interactive-modules/checklist-item label="All original hardware present" / />}}
+  {{< interactive-modules/checklist-item label="Drawers operate smoothly" / />}}
+  {{< interactive-modules/checklist-item label="No structural damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original mirrors in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Bed frame complete with all components" / />}}
+  {{< interactive-modules/checklist-item label="No significant water damage or veneer issues" / />}}
+  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Maker

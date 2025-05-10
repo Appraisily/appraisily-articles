@@ -216,14 +216,14 @@ Free online databases catalog thousands of marks found on:
 The US Patent and Trademark Office's free database allows you to search historical patents, which can help identify manufactured items from the late 19th and early 20th centuries.
 
 {{< interactive-modules/condition-checklist title="DIY Antique Examination Checklist" description="Follow these steps to gather key information for identification" >}}
-  {{< interactive-modules/checklist-item label="Photograph the item from multiple angles in natural light" / / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions precisely (height, width, depth, diameter)" / / />}}
-  {{< interactive-modules/checklist-item label="Document all markings, signatures, and labels" / / />}}
-  {{< interactive-modules/checklist-item label="Note materials and construction techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Check for repairs or modifications" / / />}}
-  {{< interactive-modules/checklist-item label="Research any provenance information from previous owners" / / />}}
-  {{< interactive-modules/checklist-item label="Examine the patina and signs of age" / / />}}
-  {{< interactive-modules/checklist-item label="Look for hidden marks on the bottom or inside" / / />}}
+  {{< interactive-modules/checklist-item label="Photograph the item from multiple angles in natural light" / />}}
+  {{< interactive-modules/checklist-item label="Measure dimensions precisely (height, width, depth, diameter)" / />}}
+  {{< interactive-modules/checklist-item label="Document all markings, signatures, and labels" / />}}
+  {{< interactive-modules/checklist-item label="Note materials and construction techniques" / />}}
+  {{< interactive-modules/checklist-item label="Check for repairs or modifications" / />}}
+  {{< interactive-modules/checklist-item label="Research any provenance information from previous owners" / />}}
+  {{< interactive-modules/checklist-item label="Examine the patina and signs of age" / />}}
+  {{< interactive-modules/checklist-item label="Look for hidden marks on the bottom or inside" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 8. Video Call Identification Services

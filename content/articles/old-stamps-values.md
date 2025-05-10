@@ -151,13 +151,13 @@ For example, according to [Mystic Stamp Company](https://www.mysticstamp.com/us-
 Condition is perhaps the single most important factor affecting a stamp's value. According to experts at [Warwick & Warwick](https://www.warwickandwarwick.com/news/guides/how-to-appraise-stamps), stamps are graded on several aspects:
 
 {{< interactive-modules/condition-checklist title="Stamp Condition Assessment Factors" description="Key elements that determine a stamp's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Centering (how well the design is centered within the margins)" / / />}}
-  {{< interactive-modules/checklist-item label="Gum condition (for mint/unused stamps)" / / />}}
-  {{< interactive-modules/checklist-item label="Presence of hinge marks (indicating previous mounting)" / / />}}
-  {{< interactive-modules/checklist-item label="Perforations (completeness and condition)" / / />}}
-  {{< interactive-modules/checklist-item label="Color vibrancy" / / />}}
-  {{< interactive-modules/checklist-item label="Paper quality" / / />}}
-  {{< interactive-modules/checklist-item label="Cancellation quality (for used stamps)" / / />}}
+  {{< interactive-modules/checklist-item label="Centering (how well the design is centered within the margins)" / />}}
+  {{< interactive-modules/checklist-item label="Gum condition (for mint/unused stamps)" / />}}
+  {{< interactive-modules/checklist-item label="Presence of hinge marks (indicating previous mounting)" / />}}
+  {{< interactive-modules/checklist-item label="Perforations (completeness and condition)" / />}}
+  {{< interactive-modules/checklist-item label="Color vibrancy" / />}}
+  {{< interactive-modules/checklist-item label="Paper quality" / />}}
+  {{< interactive-modules/checklist-item label="Cancellation quality (for used stamps)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 A stamp in "superb" condition can be worth many times more than the same stamp in merely "fine" condition.
@@ -431,12 +431,12 @@ Preserving the condition of valuable stamps is crucial to maintaining their wort
 ### Essential Storage Materials
 
 {{< interactive-modules/condition-checklist title="Recommended Stamp Storage Supplies" description="Materials needed for proper stamp preservation" >}}
-  {{< interactive-modules/checklist-item label="Acid-free stockbooks or albums" / / />}}
-  {{< interactive-modules/checklist-item label="Stamp mounts or hingeless album pages" / / />}}
-  {{< interactive-modules/checklist-item label="Stamp tongs (never handle valuable stamps with fingers)" / / />}}
-  {{< interactive-modules/checklist-item label="Watermark detection fluid (for identification)" / / />}}
-  {{< interactive-modules/checklist-item label="Perforation gauge" / / />}}
-  {{< interactive-modules/checklist-item label="Magnifying glass (10x or greater)" / / />}}
+  {{< interactive-modules/checklist-item label="Acid-free stockbooks or albums" / />}}
+  {{< interactive-modules/checklist-item label="Stamp mounts or hingeless album pages" / />}}
+  {{< interactive-modules/checklist-item label="Stamp tongs (never handle valuable stamps with fingers)" / />}}
+  {{< interactive-modules/checklist-item label="Watermark detection fluid (for identification)" / />}}
+  {{< interactive-modules/checklist-item label="Perforation gauge" / />}}
+  {{< interactive-modules/checklist-item label="Magnifying glass (10x or greater)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Environmental Factors

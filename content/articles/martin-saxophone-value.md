@@ -292,13 +292,13 @@ Several design elements can help identify specific Martin saxophone models:
 According to [Vintage Band Instruments](https://vintagebandinstruments.com/p-2342-the-martin-tenor-saxophone.aspx), specific details like the engraving style and keywork design can significantly impact a saxophone's value, with original cases and accessories adding additional value.
 
 {{< interactive-modules/condition-checklist title="Martin Saxophone Identification Checklist" description="Use this checklist to help identify your Martin saxophone model" >}}
-{{< interactive-modules/checklist-item label="Check the serial number on the back of the body" / / />}}
-{{< interactive-modules/checklist-item label="Identify the specific bell engraving" / / />}}
-{{< interactive-modules/checklist-item label="Note the octave key design (underslung or traditional)" / / />}}
-{{< interactive-modules/checklist-item label="Look for special engravings like the 'Lion & Crown'" / / />}}
-{{< interactive-modules/checklist-item label="Check the finish (lacquer, silver, etc.)" / / />}}
-{{< interactive-modules/checklist-item label="Identify any unique keywork features" / / />}}
-{{< interactive-modules/checklist-item label="Note if the original case is present" / / />}}
+{{< interactive-modules/checklist-item label="Check the serial number on the back of the body" / />}}
+{{< interactive-modules/checklist-item label="Identify the specific bell engraving" / />}}
+{{< interactive-modules/checklist-item label="Note the octave key design (underslung or traditional)" / />}}
+{{< interactive-modules/checklist-item label="Look for special engravings like the 'Lion & Crown'" / />}}
+{{< interactive-modules/checklist-item label="Check the finish (lacquer, silver, etc.)" / />}}
+{{< interactive-modules/checklist-item label="Identify any unique keywork features" / />}}
+{{< interactive-modules/checklist-item label="Note if the original case is present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Affect Martin Saxophone Value" level="2" >}}
@@ -475,15 +475,15 @@ If you're considering purchasing a Martin saxophone, conducting a thorough evalu
 When examining a Martin saxophone in person, pay special attention to:
 
 {{< interactive-modules/condition-checklist title="Martin Saxophone Pre-Purchase Inspection" description="Use this checklist when evaluating a Martin saxophone before buying" >}}
-{{< interactive-modules/checklist-item label="Check all keys for smooth operation without sticking or binding" / / />}}
-{{< interactive-modules/checklist-item label="Verify that all pads seal properly without leaks" / / />}}
-{{< interactive-modules/checklist-item label="Examine tone holes for damage, pulling, or previous repairs" / / />}}
-{{< interactive-modules/checklist-item label="Look for dents, dings, or repairs to the body" / / />}}
-{{< interactive-modules/checklist-item label="Check for evidence of relacquering or finish touch-ups" / / />}}
-{{< interactive-modules/checklist-item label="Verify that the neck fits properly and cork is in good condition" / / />}}
-{{< interactive-modules/checklist-item label="Test intonation across the full range" / / />}}
-{{< interactive-modules/checklist-item label="Inspect for serial number consistency on all parts" / / />}}
-{{< interactive-modules/checklist-item label="Check for engraving clarity and detail" / / />}}
+{{< interactive-modules/checklist-item label="Check all keys for smooth operation without sticking or binding" / />}}
+{{< interactive-modules/checklist-item label="Verify that all pads seal properly without leaks" / />}}
+{{< interactive-modules/checklist-item label="Examine tone holes for damage, pulling, or previous repairs" / />}}
+{{< interactive-modules/checklist-item label="Look for dents, dings, or repairs to the body" / />}}
+{{< interactive-modules/checklist-item label="Check for evidence of relacquering or finish touch-ups" / />}}
+{{< interactive-modules/checklist-item label="Verify that the neck fits properly and cork is in good condition" / />}}
+{{< interactive-modules/checklist-item label="Test intonation across the full range" / />}}
+{{< interactive-modules/checklist-item label="Inspect for serial number consistency on all parts" / />}}
+{{< interactive-modules/checklist-item label="Check for engraving clarity and detail" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Remote Purchase Considerations

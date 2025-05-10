@@ -170,13 +170,13 @@ Various factors influence the collector value of McDonald's Disney glasses. Unde
 The condition of your McDonald's Disney glasses significantly impacts their value. Collectors prioritize pieces without chips, cracks, or fading of the decorative elements.
 
 {{< interactive-modules/condition-checklist title="Glass Condition Assessment" description="Check applicable items to assess your McDonald's Disney glasses condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Vibrant, unfaded character designs" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches on design elements" / / />}}
-  {{< interactive-modules/checklist-item label="Original stickers or labels (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="No dishwasher damage to design" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set with all glasses from the series" / / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or boxes preserved" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / />}}
+  {{< interactive-modules/checklist-item label="Vibrant, unfaded character designs" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches on design elements" / />}}
+  {{< interactive-modules/checklist-item label="Original stickers or labels (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No dishwasher damage to design" / />}}
+  {{< interactive-modules/checklist-item label="Complete set with all glasses from the series" / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or boxes preserved" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness of Sets

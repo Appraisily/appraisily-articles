@@ -131,13 +131,13 @@ Additionally, the popularity of the character or show featured on the lunch box 
 Condition is perhaps the single most critical factor in determining a lunch box's value. Collectors prize examples that show minimal wear and retain their original appearance.
 
 {{< interactive-modules/condition-checklist title="Lunch Box Condition Factors" description="Key elements that affect condition assessment" >}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="Vivid, unfaded graphics with no scratches" / / />}}
-  {{< interactive-modules/checklist-item label="Functioning latches and hinges" / / />}}
-  {{< interactive-modules/checklist-item label="Original matching thermos included" / / />}}
-  {{< interactive-modules/checklist-item label="No dents or significant damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original stickers or decals intact" / / />}}
-  {{< interactive-modules/checklist-item label="Clean interior without stains or residue" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal surfaces" / />}}
+  {{< interactive-modules/checklist-item label="Vivid, unfaded graphics with no scratches" / />}}
+  {{< interactive-modules/checklist-item label="Functioning latches and hinges" / />}}
+  {{< interactive-modules/checklist-item label="Original matching thermos included" / />}}
+  {{< interactive-modules/checklist-item label="No dents or significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Original stickers or decals intact" / />}}
+  {{< interactive-modules/checklist-item label="Clean interior without stains or residue" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [Orion's Attic](https://orionsattic.com/whats-my-vintage-lunch-box-worth/), lunch boxes in mint or near-mint condition can sell for two to three times the value of the same box in good or fair condition. Even minor flaws like small scratches can significantly reduce value in the eyes of serious collectors.

@@ -186,14 +186,14 @@ According to [Value My Stuff](https://www.valuemystuff.com/us/blog/how-to-value-
 Condition dramatically impacts value. Furniture in original, excellent condition typically commands the highest prices.
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Condition Assessment" description="Check applicable items to help assess condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and well-preserved" / / />}}
-  {{< interactive-modules/checklist-item label="All original hardware present" / / />}}
-  {{< interactive-modules/checklist-item label="No structural damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="All drawers and doors function properly" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage, stains, or burns" / / />}}
-  {{< interactive-modules/checklist-item label="Original upholstery (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with all original components" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and well-preserved" / />}}
+  {{< interactive-modules/checklist-item label="All original hardware present" / />}}
+  {{< interactive-modules/checklist-item label="No structural damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="All drawers and doors function properly" / />}}
+  {{< interactive-modules/checklist-item label="No water damage, stains, or burns" / />}}
+  {{< interactive-modules/checklist-item label="Original upholstery (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Complete with all original components" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 When evaluating condition, consider:

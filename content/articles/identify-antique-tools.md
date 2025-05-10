@@ -297,14 +297,14 @@ Beware of these signs that may indicate a tool is a reproduction or has been art
 - **Inconsistent aging** - Some parts heavily aged while others look new
 
 {{< interactive-modules/condition-checklist title="Antique Tool Authentication Checklist" description="Use this checklist to help determine if a tool is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Shows appropriate patina and wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Contains maker's marks or identifiable manufacturer information" / / />}}
-  {{< interactive-modules/checklist-item label="Materials appropriate to the supposed era (no plastic in pre-1940s tools)" / / />}}
-  {{< interactive-modules/checklist-item label="Construction methods match the period (hand-forged, hand-filed, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns consistent with actual use rather than artificial aging" / / />}}
-  {{< interactive-modules/checklist-item label="No modern elements like Phillips head screws or contemporary materials" / / />}}
-  {{< interactive-modules/checklist-item label="Weight and feel appropriate for the era (older tools often heavier)" / / />}}
-  {{< interactive-modules/checklist-item label="Remnants of original finish or paint consistent with period techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Shows appropriate patina and wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Contains maker's marks or identifiable manufacturer information" / />}}
+  {{< interactive-modules/checklist-item label="Materials appropriate to the supposed era (no plastic in pre-1940s tools)" / />}}
+  {{< interactive-modules/checklist-item label="Construction methods match the period (hand-forged, hand-filed, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Wear patterns consistent with actual use rather than artificial aging" / />}}
+  {{< interactive-modules/checklist-item label="No modern elements like Phillips head screws or contemporary materials" / />}}
+  {{< interactive-modules/checklist-item label="Weight and feel appropriate for the era (older tools often heavier)" / />}}
+  {{< interactive-modules/checklist-item label="Remnants of original finish or paint consistent with period techniques" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Research and Identification Resources

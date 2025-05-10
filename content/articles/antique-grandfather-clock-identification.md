@@ -206,12 +206,12 @@ The clock's movement provides crucial identification evidence:
 According to Clockworks, "The movement number usually tells us the way the clock chimes, the location of the chime hammers, if it's weight or spring driven and much more." This information is invaluable for identification, as detailed on their website [Clockworks.com](https://www.clockworks.com/posts/identifying-a-mechanical-clock-movement).
 
 {{< interactive-modules/condition-checklist title="Grandfather Clock Movement Assessment" description="Use this checklist to evaluate your clock's movement condition" >}}
-  {{< interactive-modules/checklist-item label="Movement plates are clean with no excessive corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="All wheels and gears are present and intact" / / />}}
-  {{< interactive-modules/checklist-item label="Pendulum rod is straight and suspension spring is intact" / / />}}
-  {{< interactive-modules/checklist-item label="Weights are original and appropriate for the movement" / / />}}
-  {{< interactive-modules/checklist-item label="Strike train functions correctly through all hours" / / />}}
-  {{< interactive-modules/checklist-item label="Movement bears maker's signature or serial numbers" / / />}}
+  {{< interactive-modules/checklist-item label="Movement plates are clean with no excessive corrosion" / />}}
+  {{< interactive-modules/checklist-item label="All wheels and gears are present and intact" / />}}
+  {{< interactive-modules/checklist-item label="Pendulum rod is straight and suspension spring is intact" / />}}
+  {{< interactive-modules/checklist-item label="Weights are original and appropriate for the movement" / />}}
+  {{< interactive-modules/checklist-item label="Strike train functions correctly through all hours" / />}}
+  {{< interactive-modules/checklist-item label="Movement bears maker's signature or serial numbers" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of antique grandfather clock maker's mark on the brass backplate](https://ik.imagekit.io/appraisily/SEO/antique-grandfather-clock-identification/antique-grandfather-clock-identification-image-4_sZgtCcz_Z.png)

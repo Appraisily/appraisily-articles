@@ -167,14 +167,14 @@ Several key factors influence how much your Earth Stove is worth in today's mark
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Earth Stove Condition Assessment" description="Check applicable items to determine your stove's condition" >}}
-  {{< interactive-modules/checklist-item label="All original parts present and functional" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks in the cast iron body" / / />}}
-  {{< interactive-modules/checklist-item label="Door seal is intact and functioning properly" / / />}}
-  {{< interactive-modules/checklist-item label="Glass is clear and unbroken (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="All air controls work smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="No smoke leaks when operating" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Has original documentation/manual" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts present and functional" / />}}
+  {{< interactive-modules/checklist-item label="No cracks in the cast iron body" / />}}
+  {{< interactive-modules/checklist-item label="Door seal is intact and functioning properly" / />}}
+  {{< interactive-modules/checklist-item label="Glass is clear and unbroken (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="All air controls work smoothly" / />}}
+  {{< interactive-modules/checklist-item label="No smoke leaks when operating" / />}}
+  {{< interactive-modules/checklist-item label="Original finish in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Has original documentation/manual" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Additional Value Factors

@@ -206,13 +206,13 @@ Japanese art from different historical periods varies greatly in value:
 Condition dramatically affects value. Appraisers assess:
 
 {{< interactive-modules/condition-checklist title="Condition Factors in Japanese Art Appraisal" description="Appraisers evaluate these condition aspects when determining value" >}}
-  {{< interactive-modules/checklist-item label="Paper quality and condition (for prints and paintings)" / / />}}
-  {{< interactive-modules/checklist-item label="Color preservation and fading" / / />}}
-  {{< interactive-modules/checklist-item label="Tears, creases, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Foxing or water damage" / / />}}
-  {{< interactive-modules/checklist-item label="Trimming or remounting" / / />}}
-  {{< interactive-modules/checklist-item label="Frame condition (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Evidence of restoration or conservation" / / />}}
+  {{< interactive-modules/checklist-item label="Paper quality and condition (for prints and paintings)" / />}}
+  {{< interactive-modules/checklist-item label="Color preservation and fading" / />}}
+  {{< interactive-modules/checklist-item label="Tears, creases, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Foxing or water damage" / />}}
+  {{< interactive-modules/checklist-item label="Trimming or remounting" / />}}
+  {{< interactive-modules/checklist-item label="Frame condition (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of restoration or conservation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Scarcity

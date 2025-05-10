@@ -149,12 +149,12 @@ The National Rifle Association has established standardized condition ratings th
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="NRA Condition Standards Assessment" description="Check applicable condition criteria for your antique firearm" >}}
-  {{< interactive-modules/checklist-item label="Factory New (100%): Firearm is in same condition as when it left factory" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent (95%): In perfect condition but may show minimal storage wear" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good (85%): Shows minor wear and may have small repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Good (75%): Still in working condition with wear and minor replacement parts" / / />}}
-  {{< interactive-modules/checklist-item label="Fair (60%): Shows significant wear but still functions" / / />}}
-  {{< interactive-modules/checklist-item label="Poor (below 60%): May not function, significant repairs needed" / / />}}
+  {{< interactive-modules/checklist-item label="Factory New (100%): Firearm is in same condition as when it left factory" / />}}
+  {{< interactive-modules/checklist-item label="Excellent (95%): In perfect condition but may show minimal storage wear" / />}}
+  {{< interactive-modules/checklist-item label="Very Good (85%): Shows minor wear and may have small repairs" / />}}
+  {{< interactive-modules/checklist-item label="Good (75%): Still in working condition with wear and minor replacement parts" / />}}
+  {{< interactive-modules/checklist-item label="Fair (60%): Shows significant wear but still functions" / />}}
+  {{< interactive-modules/checklist-item label="Poor (below 60%): May not function, significant repairs needed" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 These condition ratings have a dramatic impact on value. For example, a Winchester Model 1873 in "Poor" condition might sell for $1,500-$2,500, while the same model in "Excellent" condition could command $10,000-$15,000 or more.

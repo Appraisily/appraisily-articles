@@ -153,13 +153,13 @@ Virtual appraisal services offer numerous advantages over traditional in-person 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Advantages of Online Appraisals" description="Key benefits of choosing online antique valuation services" >}}
-{{< interactive-modules/checklist-item label="Convenience and accessibility from anywhere" / / />}}
-{{< interactive-modules/checklist-item label="Lower cost than traditional in-person appraisals" / / />}}
-{{< interactive-modules/checklist-item label="Access to specialists regardless of your location" / / />}}
-{{< interactive-modules/checklist-item label="Quick turnaround times (typically 24-72 hours)" / / />}}
-{{< interactive-modules/checklist-item label="Written documentation for insurance or estate purposes" / / />}}
-{{< interactive-modules/checklist-item label="Privacy and discretion for valuable collections" / / />}}
-{{< interactive-modules/checklist-item label="Multiple expert opinions available through different services" / / />}}
+{{< interactive-modules/checklist-item label="Convenience and accessibility from anywhere" / />}}
+{{< interactive-modules/checklist-item label="Lower cost than traditional in-person appraisals" / />}}
+{{< interactive-modules/checklist-item label="Access to specialists regardless of your location" / />}}
+{{< interactive-modules/checklist-item label="Quick turnaround times (typically 24-72 hours)" / />}}
+{{< interactive-modules/checklist-item label="Written documentation for insurance or estate purposes" / />}}
+{{< interactive-modules/checklist-item label="Privacy and discretion for valuable collections" / />}}
+{{< interactive-modules/checklist-item label="Multiple expert opinions available through different services" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 These advantages make online appraisals particularly valuable for:

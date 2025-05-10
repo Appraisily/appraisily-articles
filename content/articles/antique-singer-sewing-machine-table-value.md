@@ -96,13 +96,13 @@ Limited production models or those with unique features typically command higher
 The condition of both the wooden cabinet and the cast iron components significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Singer Tables" description="Check applicable items to evaluate your table's condition" >}}
-{{< interactive-modules/checklist-item label="Original finish in good condition" / / />}}
-{{< interactive-modules/checklist-item label="No veneer damage or extensive chipping" / / />}}
-{{< interactive-modules/checklist-item label="Minimal or no rust on cast iron components" / / />}}
-{{< interactive-modules/checklist-item label="Original hardware and attachments present" / / />}}
-{{< interactive-modules/checklist-item label="Drawers functional with original handles" / / />}}
-{{< interactive-modules/checklist-item label="Treadle mechanism works smoothly" / / />}}
-{{< interactive-modules/checklist-item label="Original decals still visible" / / />}}
+{{< interactive-modules/checklist-item label="Original finish in good condition" / />}}
+{{< interactive-modules/checklist-item label="No veneer damage or extensive chipping" / />}}
+{{< interactive-modules/checklist-item label="Minimal or no rust on cast iron components" / />}}
+{{< interactive-modules/checklist-item label="Original hardware and attachments present" / />}}
+{{< interactive-modules/checklist-item label="Drawers functional with original handles" / />}}
+{{< interactive-modules/checklist-item label="Treadle mechanism works smoothly" / />}}
+{{< interactive-modules/checklist-item label="Original decals still visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness

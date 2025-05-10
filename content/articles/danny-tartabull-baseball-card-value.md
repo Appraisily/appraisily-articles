@@ -265,11 +265,11 @@ Several key factors influence the market value of Tartabull baseball cards.
 Condition is perhaps the most critical factor affecting Tartabull card values. Cards in near-mint to mint condition (NM-MT or better) can command significantly higher prices than those with visible wear.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Danny Tartabull Cards" description="Check all that apply to determine your card's condition" >}}
-  {{< interactive-modules/checklist-item label="Sharp, well-defined corners with no visible wear" / / />}}
-  {{< interactive-modules/checklist-item label="Card is perfectly centered (50/50 on all sides)" / / />}}
-  {{< interactive-modules/checklist-item label="Surface is free of scratches, print defects, and stains" / / />}}
-  {{< interactive-modules/checklist-item label="Card edges are clean with no chipping or wear" / / />}}
-  {{< interactive-modules/checklist-item label="Card has proper gloss and color saturation" / / />}}
+  {{< interactive-modules/checklist-item label="Sharp, well-defined corners with no visible wear" / />}}
+  {{< interactive-modules/checklist-item label="Card is perfectly centered (50/50 on all sides)" / />}}
+  {{< interactive-modules/checklist-item label="Surface is free of scratches, print defects, and stains" / />}}
+  {{< interactive-modules/checklist-item label="Card edges are clean with no chipping or wear" / />}}
+  {{< interactive-modules/checklist-item label="Card has proper gloss and color saturation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Professional Grading

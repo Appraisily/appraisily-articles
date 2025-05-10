@@ -237,14 +237,14 @@ There are several reliable sources for finding credentialed jewelry appraisers:
 Before committing to an appraiser, ask these important questions:
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Key questions to ask when selecting a jewelry appraiser" >}}
-  {{< interactive-modules/checklist-item label="What professional credentials do you hold?" / / />}}
-  {{< interactive-modules/checklist-item label="How many years of experience do you have appraising jewelry?" / / />}}
-  {{< interactive-modules/checklist-item label="Do you specialize in the type of jewelry I need appraised?" / / />}}
-  {{< interactive-modules/checklist-item label="What type of appraisal documents do you provide?" / / />}}
-  {{< interactive-modules/checklist-item label="What is your fee structure?" / / />}}
-  {{< interactive-modules/checklist-item label="How long will the appraisal process take?" / / />}}
-  {{< interactive-modules/checklist-item label="Do you have professional liability insurance?" / / />}}
-  {{< interactive-modules/checklist-item label="Can you provide references or testimonials?" / / />}}
+  {{< interactive-modules/checklist-item label="What professional credentials do you hold?" / />}}
+  {{< interactive-modules/checklist-item label="How many years of experience do you have appraising jewelry?" / />}}
+  {{< interactive-modules/checklist-item label="Do you specialize in the type of jewelry I need appraised?" / />}}
+  {{< interactive-modules/checklist-item label="What type of appraisal documents do you provide?" / />}}
+  {{< interactive-modules/checklist-item label="What is your fee structure?" / />}}
+  {{< interactive-modules/checklist-item label="How long will the appraisal process take?" / />}}
+  {{< interactive-modules/checklist-item label="Do you have professional liability insurance?" / />}}
+  {{< interactive-modules/checklist-item label="Can you provide references or testimonials?" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Red Flags to Watch For

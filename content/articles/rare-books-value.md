@@ -91,11 +91,11 @@ For example, first editions of classic literary works like "The Great Gatsby" by
 The condition of a rare book dramatically affects its value. Collectors and dealers use standardized terminology to describe book condition:
 
 {{< interactive-modules/condition-checklist title="Rare Book Condition Rating Scale" description="Understanding standard condition ratings used by professional dealers and collectors" >}}
-  {{< interactive-modules/checklist-item label="Fine/As New: Appears unread with no flaws or marks" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good: Shows minor signs of wear but overall clean and intact" / / />}}
-  {{< interactive-modules/checklist-item label="Good: Average used condition with some visible wear" / / />}}
-  {{< interactive-modules/checklist-item label="Fair: Heavily worn but complete and readable" / / />}}
-  {{< interactive-modules/checklist-item label="Poor: Significant damage, possibly missing pages" / / />}}
+  {{< interactive-modules/checklist-item label="Fine/As New: Appears unread with no flaws or marks" / />}}
+  {{< interactive-modules/checklist-item label="Very Good: Shows minor signs of wear but overall clean and intact" / />}}
+  {{< interactive-modules/checklist-item label="Good: Average used condition with some visible wear" / />}}
+  {{< interactive-modules/checklist-item label="Fair: Heavily worn but complete and readable" / />}}
+  {{< interactive-modules/checklist-item label="Poor: Significant damage, possibly missing pages" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Even for genuinely rare books, condition problems like water damage, torn pages, missing dust jackets, library markings, or broken bindings can reduce value by 50-90% compared to pristine copies.
@@ -398,12 +398,12 @@ The most successful collectors invest in knowledge before investing in books. Re
 Proper storage is essential for maintaining book value over time:
 
 {{< interactive-modules/condition-checklist title="Book Preservation Checklist" description="Essential practices for preserving valuable books" >}}
-  {{< interactive-modules/checklist-item label="Store books at consistent temperature (65-70°F) and humidity (30-50%)" / / />}}
-  {{< interactive-modules/checklist-item label="Avoid direct sunlight which can fade spines and dust jackets" / / />}}
-  {{< interactive-modules/checklist-item label="Store books upright, supported by other books of similar size" / / />}}
-  {{< interactive-modules/checklist-item label="Use archival-quality protective covers for dust jackets" / / />}}
-  {{< interactive-modules/checklist-item label="Handle books with clean hands or cotton gloves" / / />}}
-  {{< interactive-modules/checklist-item label="Keep books away from food, smoke, and potential water damage" / / />}}
+  {{< interactive-modules/checklist-item label="Store books at consistent temperature (65-70°F) and humidity (30-50%)" / />}}
+  {{< interactive-modules/checklist-item label="Avoid direct sunlight which can fade spines and dust jackets" / />}}
+  {{< interactive-modules/checklist-item label="Store books upright, supported by other books of similar size" / />}}
+  {{< interactive-modules/checklist-item label="Use archival-quality protective covers for dust jackets" / />}}
+  {{< interactive-modules/checklist-item label="Handle books with clean hands or cotton gloves" / />}}
+  {{< interactive-modules/checklist-item label="Keep books away from food, smoke, and potential water damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For particularly valuable books, consider:

@@ -225,12 +225,12 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Hubcap), "These caps were
 - Painted plastic with clear coatings
 
 {{< interactive-modules/condition-checklist title="Hubcap Material Identification Checklist" description="Use these checks to help determine the base material of your hubcap" >}}
-  {{< interactive-modules/checklist-item label="Magnet Test - Steel hubcaps will attract a magnet; aluminum, brass and plastic will not" / / />}}
-  {{< interactive-modules/checklist-item label="Weight Assessment - Metal hubcaps are typically heavier than plastic ones" / / />}}
-  {{< interactive-modules/checklist-item label="Tap Test - Metal hubcaps produce a ringing sound when tapped; plastic sounds dull" / / />}}
-  {{< interactive-modules/checklist-item label="Examine Reverse Side - Often shows unfinished material and manufacturing techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Check for Rust - Only steel hubcaps will rust; aluminum may oxidize with a white powder" / / />}}
-  {{< interactive-modules/checklist-item label="Flexibility Test - Plastic hubcaps have some give when pressed; metal is rigid" / / />}}
+  {{< interactive-modules/checklist-item label="Magnet Test - Steel hubcaps will attract a magnet; aluminum, brass and plastic will not" / />}}
+  {{< interactive-modules/checklist-item label="Weight Assessment - Metal hubcaps are typically heavier than plastic ones" / />}}
+  {{< interactive-modules/checklist-item label="Tap Test - Metal hubcaps produce a ringing sound when tapped; plastic sounds dull" / />}}
+  {{< interactive-modules/checklist-item label="Examine Reverse Side - Often shows unfinished material and manufacturing techniques" / />}}
+  {{< interactive-modules/checklist-item label="Check for Rust - Only steel hubcaps will rust; aluminum may oxidize with a white powder" / />}}
+  {{< interactive-modules/checklist-item label="Flexibility Test - Plastic hubcaps have some give when pressed; metal is rigid" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Understanding construction methods can also help with identification:

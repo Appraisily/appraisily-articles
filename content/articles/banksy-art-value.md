@@ -272,13 +272,13 @@ Established in 2008, Pest Control serves as Banksy's official authentication bod
 It's important to note that Pest Control will not authenticate street pieces that have been removed from their original location, as Banksy believes these works belong in their intended public context.
 
 {{< interactive-modules/condition-checklist title="Banksy Authentication Checklist" description="Key elements to verify when assessing a potential Banksy artwork" >}}
-  {{< interactive-modules/checklist-item label="Pest Control Certificate of Authenticity is present" / / />}}
-  {{< interactive-modules/checklist-item label="Certificate includes matching half-torn card with artwork image" / / />}}
-  {{< interactive-modules/checklist-item label="Unique certification number is verifiable" / / />}}
-  {{< interactive-modules/checklist-item label="Paper, printing technique, and edition number match known specifications" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance is documented and transparent" / / />}}
-  {{< interactive-modules/checklist-item label="Purchase is from a reputable gallery or auction house" / / />}}
-  {{< interactive-modules/checklist-item label="Signature (if present) matches known Banksy signatures" / / />}}
+  {{< interactive-modules/checklist-item label="Pest Control Certificate of Authenticity is present" / />}}
+  {{< interactive-modules/checklist-item label="Certificate includes matching half-torn card with artwork image" / />}}
+  {{< interactive-modules/checklist-item label="Unique certification number is verifiable" / />}}
+  {{< interactive-modules/checklist-item label="Paper, printing technique, and edition number match known specifications" / />}}
+  {{< interactive-modules/checklist-item label="Provenance is documented and transparent" / />}}
+  {{< interactive-modules/checklist-item label="Purchase is from a reputable gallery or auction house" / />}}
+  {{< interactive-modules/checklist-item label="Signature (if present) matches known Banksy signatures" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Authentication Issues and Red Flags

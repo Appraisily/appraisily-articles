@@ -120,12 +120,12 @@ Generally, older scythes command higher prices, particularly those from the 18th
 The overall condition significantly impacts value. Look for:
 
 {{< interactive-modules/condition-checklist title="Scythe Condition Assessment" description="Check applicable items to evaluate your scythe's condition" >}}
-  {{< interactive-modules/checklist-item label="Intact wooden snath (handle) without significant cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original blade with minimal rust or pitting" / / />}}
-  {{< interactive-modules/checklist-item label="Visible maker's marks or stamps on the blade" / / />}}
-  {{< interactive-modules/checklist-item label="Unbroken connection between blade and snath" / / />}}
-  {{< interactive-modules/checklist-item label="Original patina and finish" / / />}}
-  {{< interactive-modules/checklist-item label="All original hardware and fittings" / / />}}
+  {{< interactive-modules/checklist-item label="Intact wooden snath (handle) without significant cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original blade with minimal rust or pitting" / />}}
+  {{< interactive-modules/checklist-item label="Visible maker's marks or stamps on the blade" / />}}
+  {{< interactive-modules/checklist-item label="Unbroken connection between blade and snath" / />}}
+  {{< interactive-modules/checklist-item label="Original patina and finish" / />}}
+  {{< interactive-modules/checklist-item label="All original hardware and fittings" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to a post on [The Garage Journal](https://www.garagejournal.com/forum/threads/old-farm-scythe-why-so-expensive.107148/), condition is crucial in determining price: "Condition is a huge factor in the value. If the wood is cracked/broken or the metal is severely pitted with rust, the value will be considerably less."

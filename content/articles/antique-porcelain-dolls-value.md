@@ -294,16 +294,16 @@ Original clothing and accessories significantly enhance a doll's value:
 - Original wigs, especially mohair or human hair, add considerable value
 
 {{< interactive-modules/condition-checklist title="Antique Porcelain Doll Condition Assessment" description="Check applicable items to help determine your doll's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="Porcelain is free of cracks, chips, or hairline fractures" / / />}}
-  {{< interactive-modules/checklist-item label="Original wig in good condition (not matted or damaged)" / / />}}
-  {{< interactive-modules/checklist-item label="Glass eyes intact without clouding or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="Original clothing present and intact" / / />}}
-  {{< interactive-modules/checklist-item label="Body joints functioning properly" / / />}}
-  {{< interactive-modules/checklist-item label="Original accessories included (shoes, hat, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Visible maker's mark or manufacturer stamp" / / />}}
-  {{< interactive-modules/checklist-item label="No previous repairs or restoration attempts" / / />}}
-  {{< interactive-modules/checklist-item label="Original box or documentation included" / / />}}
-  {{< interactive-modules/checklist-item label="No significant fading, staining, or discoloration" / / />}}
+  {{< interactive-modules/checklist-item label="Porcelain is free of cracks, chips, or hairline fractures" / />}}
+  {{< interactive-modules/checklist-item label="Original wig in good condition (not matted or damaged)" / />}}
+  {{< interactive-modules/checklist-item label="Glass eyes intact without clouding or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="Original clothing present and intact" / />}}
+  {{< interactive-modules/checklist-item label="Body joints functioning properly" / />}}
+  {{< interactive-modules/checklist-item label="Original accessories included (shoes, hat, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Visible maker's mark or manufacturer stamp" / />}}
+  {{< interactive-modules/checklist-item label="No previous repairs or restoration attempts" / />}}
+  {{< interactive-modules/checklist-item label="Original box or documentation included" / />}}
+  {{< interactive-modules/checklist-item label="No significant fading, staining, or discoloration" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Collection of antique porcelain dolls with various styles and periods](https://ik.imagekit.io/appraisily/SEO/antique-porcelain-dolls-value/antique-porcelain-dolls-value-image-5_MmcNB9RA3.png)

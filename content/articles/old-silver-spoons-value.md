@@ -118,11 +118,11 @@ Silver-plated spoons have only a thin layer of silver over a base metal (usually
 Another important category is coin silver, which was commonly used in American spoons before the sterling standard was widely adopted. Coin silver contains 90% silver (900/1000) and was often made from melted silver coins. A "900" mark or "coin" on your spoon indicates this composition.
 
 {{< interactive-modules/condition-checklist title="Silver Content Identification Checklist" description="Use these markers to identify your spoon's silver content" >}}
-  {{< interactive-modules/checklist-item label="Marked 'Sterling' or '925'" / / />}}
-  {{< interactive-modules/checklist-item label="Marked with authentic hallmarks from Britain, France, etc." / / />}}
-  {{< interactive-modules/checklist-item label="Marked '900' or 'Coin' (indicating coin silver)" / / />}}
-  {{< interactive-modules/checklist-item label="Marked 'EPNS,' 'Silver on Copper,' or 'A1' (indicating silver plate)" / / />}}
-  {{< interactive-modules/checklist-item label="Has a magnetic attraction (suggests it's not solid silver)" / / />}}
+  {{< interactive-modules/checklist-item label="Marked 'Sterling' or '925'" / />}}
+  {{< interactive-modules/checklist-item label="Marked with authentic hallmarks from Britain, France, etc." / />}}
+  {{< interactive-modules/checklist-item label="Marked '900' or 'Coin' (indicating coin silver)" / />}}
+  {{< interactive-modules/checklist-item label="Marked 'EPNS,' 'Silver on Copper,' or 'A1' (indicating silver plate)" / />}}
+  {{< interactive-modules/checklist-item label="Has a magnetic attraction (suggests it's not solid silver)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As noted by spoon expert James Bucki from SpoonPlanet.com, "Silver Plated Spoons will normally sell from $1 to $15. Very few will exceed $15. If a spoon is NOT marked sterling or if it does not have legitimate European hallmarks, it is most likely plated."

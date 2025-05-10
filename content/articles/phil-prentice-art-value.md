@@ -214,13 +214,13 @@ Phil Prentice is best known for his wildlife art, particularly:
 - Occasional landscape backgrounds featuring African savanna or forest settings
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for Phil Prentice Art" description="Use this checklist when evaluating a potential Phil Prentice artwork" >}}
-  {{< interactive-modules/checklist-item label="Examine signature placement and quality (lower right corner is typical)" / / />}}
-  {{< interactive-modules/checklist-item label="Look for visible brush strokes and paint texture in originals" / / />}}
-  {{< interactive-modules/checklist-item label="Check stretcher bars and canvas quality on originals" / / />}}
-  {{< interactive-modules/checklist-item label="Verify creation date (1970s are common for prints)" / / />}}
-  {{< interactive-modules/checklist-item label="Look for certificates of authenticity with original works" / / />}}
-  {{< interactive-modules/checklist-item label="Check for frame styles typical of the period (wood frames for 1970s prints)" / / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions to compare with known works" / / />}}
+  {{< interactive-modules/checklist-item label="Examine signature placement and quality (lower right corner is typical)" / />}}
+  {{< interactive-modules/checklist-item label="Look for visible brush strokes and paint texture in originals" / />}}
+  {{< interactive-modules/checklist-item label="Check stretcher bars and canvas quality on originals" / />}}
+  {{< interactive-modules/checklist-item label="Verify creation date (1970s are common for prints)" / />}}
+  {{< interactive-modules/checklist-item label="Look for certificates of authenticity with original works" / />}}
+  {{< interactive-modules/checklist-item label="Check for frame styles typical of the period (wood frames for 1970s prints)" / />}}
+  {{< interactive-modules/checklist-item label="Measure dimensions to compare with known works" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors Affecting Phil Prentice Art Value" level="2" >}}

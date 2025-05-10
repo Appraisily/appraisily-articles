@@ -159,13 +159,13 @@ As with most collectibles, condition is paramount in determining value. Magazine
 - No writing or markings
 
 {{< interactive-modules/condition-checklist title="Reader's Digest Condition Assessment" description="Check all items that apply to your magazines to estimate their potential value" >}}
-  {{< interactive-modules/checklist-item label="Complete issue with no missing pages" / / />}}
-  {{< interactive-modules/checklist-item label="Original covers intact without tears" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage or significant staining" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal yellowing of pages" / / />}}
-  {{< interactive-modules/checklist-item label="No writing, markings, or address labels" / / />}}
-  {{< interactive-modules/checklist-item label="All inserts and promotional materials present" / / />}}
-  {{< interactive-modules/checklist-item label="Stored flat (not rolled or severely bent)" / / />}}
+  {{< interactive-modules/checklist-item label="Complete issue with no missing pages" / />}}
+  {{< interactive-modules/checklist-item label="Original covers intact without tears" / />}}
+  {{< interactive-modules/checklist-item label="No water damage or significant staining" / />}}
+  {{< interactive-modules/checklist-item label="Minimal yellowing of pages" / />}}
+  {{< interactive-modules/checklist-item label="No writing, markings, or address labels" / />}}
+  {{< interactive-modules/checklist-item label="All inserts and promotional materials present" / />}}
+  {{< interactive-modules/checklist-item label="Stored flat (not rolled or severely bent)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Complete Collections

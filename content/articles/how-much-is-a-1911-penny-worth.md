@@ -359,11 +359,11 @@ To accurately assess your 1911 penny's value, follow these steps to evaluate its
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="1911 Penny Valuation Checklist" description="Use this checklist to assess your coin's value factors" >}}
-  {{< interactive-modules/checklist-item label="Check for mint mark (none, D, or S) beneath the date" / / />}}
-  {{< interactive-modules/checklist-item label="Assess overall condition and grade (G, VG, F, EF, MS)" / / />}}
-  {{< interactive-modules/checklist-item label="Evaluate color (Brown, Red-Brown, or Red)" / / />}}
-  {{< interactive-modules/checklist-item label="Examine for errors (doubled die, off-center, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Check for artificial cleaning or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Check for mint mark (none, D, or S) beneath the date" / />}}
+  {{< interactive-modules/checklist-item label="Assess overall condition and grade (G, VG, F, EF, MS)" / />}}
+  {{< interactive-modules/checklist-item label="Evaluate color (Brown, Red-Brown, or Red)" / />}}
+  {{< interactive-modules/checklist-item label="Examine for errors (doubled die, off-center, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Check for artificial cleaning or damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authentication and Grading

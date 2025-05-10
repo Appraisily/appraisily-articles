@@ -151,13 +151,13 @@ For most circulated 1953 $2 bills, values typically range between $3 and $10, de
 {{< data-modules/stats-highlight title="Key Value Factors for 1953 $2 Bills" columns="3" / / />}}
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for 1953 $2 Bills" description="Check applicable condition factors to determine potential value" >}}
-  {{< interactive-modules/checklist-item label="No folds or creases visible (Uncirculated)" / / />}}
-  {{< interactive-modules/checklist-item label="Crisp paper with original sheen" / / />}}
-  {{< interactive-modules/checklist-item label="Bright, unfaded red seal and serial numbers" / / />}}
-  {{< interactive-modules/checklist-item label="No stains, marks, or writing" / / />}}
-  {{< interactive-modules/checklist-item label="Sharp, well-centered printing" / / />}}
-  {{< interactive-modules/checklist-item label="All corners sharp and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Original paper texture intact" / / />}}
+  {{< interactive-modules/checklist-item label="No folds or creases visible (Uncirculated)" / />}}
+  {{< interactive-modules/checklist-item label="Crisp paper with original sheen" / />}}
+  {{< interactive-modules/checklist-item label="Bright, unfaded red seal and serial numbers" / />}}
+  {{< interactive-modules/checklist-item label="No stains, marks, or writing" / />}}
+  {{< interactive-modules/checklist-item label="Sharp, well-centered printing" / />}}
+  {{< interactive-modules/checklist-item label="All corners sharp and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Original paper texture intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding 1953 $2 Bill Series and Variations" level="2" >}}

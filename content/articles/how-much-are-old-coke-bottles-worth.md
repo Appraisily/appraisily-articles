@@ -242,15 +242,15 @@ Manufacturing techniques can help date a bottle and confirm authenticity:
 Bottles associated with significant events in Coca-Cola history, experimental designs, or prototype production runs often have greater value to collectors due to their historical importance.
 
 {{< interactive-modules/condition-checklist title="Coca-Cola Bottle Condition Assessment" description="Check applicable items to help determine your bottle's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Original label present and intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossing" / / />}}
-  {{< interactive-modules/checklist-item label="Original cap or closure present" / / />}}
-  {{< interactive-modules/checklist-item label="No significant wear on base or contact surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="No interior staining or residue" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents preserved (for unopened bottles)" / / />}}
-  {{< interactive-modules/checklist-item label="Correct color clarity (not cloudy or discolored)" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / />}}
+  {{< interactive-modules/checklist-item label="Original label present and intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossing" / />}}
+  {{< interactive-modules/checklist-item label="Original cap or closure present" / />}}
+  {{< interactive-modules/checklist-item label="No significant wear on base or contact surfaces" / />}}
+  {{< interactive-modules/checklist-item label="No interior staining or residue" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
+  {{< interactive-modules/checklist-item label="Original contents preserved (for unopened bottles)" / />}}
+  {{< interactive-modules/checklist-item label="Correct color clarity (not cloudy or discolored)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of various Coca-Cola bottle markings showing city names and bottling information](https://ik.imagekit.io/appraisily/SEO/how-much-are-old-coke-bottles-worth/how-much-are-old-coke-bottles-worth-image-4_fGwUsoxzK.png)

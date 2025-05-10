@@ -137,13 +137,13 @@ The era during which your Old Crow bottle was produced significantly impacts its
 ![Close-up of vintage Old Crow bottle label showing condition details](https://ik.imagekit.io/appraisily/SEO/old-crow-whiskey-bottle-value/old-crow-whiskey-bottle-value-image-3_-4BV1RC21.png)
 
 {{< interactive-modules/condition-checklist title="Old Crow Bottle Condition Assessment" description="Check applicable items to determine your bottle's condition" >}}
-  {{< interactive-modules/checklist-item label="Original seal intact and unbroken" / / />}}
-  {{< interactive-modules/checklist-item label="Label in excellent condition with minimal fading or tearing" / / />}}
-  {{< interactive-modules/checklist-item label="Original tax stamp present and legible" / / />}}
-  {{< interactive-modules/checklist-item label="Fill level above the shoulder of the bottle" / / />}}
-  {{< interactive-modules/checklist-item label="No leakage or evaporation apparent" / / />}}
-  {{< interactive-modules/checklist-item label="Cap/cork in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging included" / / />}}
+  {{< interactive-modules/checklist-item label="Original seal intact and unbroken" / />}}
+  {{< interactive-modules/checklist-item label="Label in excellent condition with minimal fading or tearing" / />}}
+  {{< interactive-modules/checklist-item label="Original tax stamp present and legible" / />}}
+  {{< interactive-modules/checklist-item label="Fill level above the shoulder of the bottle" / />}}
+  {{< interactive-modules/checklist-item label="No leakage or evaporation apparent" / />}}
+  {{< interactive-modules/checklist-item label="Cap/cork in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging included" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Contents Status

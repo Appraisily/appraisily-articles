@@ -437,14 +437,14 @@ As noted by [Homes Direct 365](https://www.homesdirect365.co.uk/blog/2022/02/lis
 - **Consistency**: Ensure the mark is appropriate for the apparent age and style
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Authentication Checklist" description="Use this checklist to help determine if a piece is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints with slight irregularities" / / />}}
-  {{< interactive-modules/checklist-item label="Square nails or screws with irregular slots" / / />}}
-  {{< interactive-modules/checklist-item label="Natural wood shrinkage and movement patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Authentic patina consistent with age and use" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate materials and construction" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of period-appropriate repairs or alterations" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent wear patterns on feet, edges, and handles" / / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or maker's marks" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints with slight irregularities" / />}}
+  {{< interactive-modules/checklist-item label="Square nails or screws with irregular slots" / />}}
+  {{< interactive-modules/checklist-item label="Natural wood shrinkage and movement patterns" / />}}
+  {{< interactive-modules/checklist-item label="Authentic patina consistent with age and use" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate materials and construction" / />}}
+  {{< interactive-modules/checklist-item label="Signs of period-appropriate repairs or alterations" / />}}
+  {{< interactive-modules/checklist-item label="Consistent wear patterns on feet, edges, and handles" / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance or maker's marks" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Using Technology to Identify Antique Furniture" level="2" >}}

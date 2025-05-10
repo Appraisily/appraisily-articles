@@ -197,14 +197,14 @@ Context matters significantly when determining record value:
 4. **Historical context**: Albums associated with significant cultural moments or trends
 
 {{< interactive-modules/condition-checklist title="Vinyl Record Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your vinyl records" >}}
-  {{< interactive-modules/checklist-item label="Record surface is glossy with no visible scratches or scuffs" / / />}}
-  {{< interactive-modules/checklist-item label="No warping or distortion to the vinyl" / / />}}
-  {{< interactive-modules/checklist-item label="Original inner sleeve is present and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Album cover has sharp corners with no ring wear" / / />}}
-  {{< interactive-modules/checklist-item label="All original inserts, posters, or booklets are included" / / />}}
-  {{< interactive-modules/checklist-item label="No writing or stickers on label, sleeve, or cover" / / />}}
-  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or excessive noise" / / />}}
-  {{< interactive-modules/checklist-item label="Original shrink wrap (if applicable) is intact" / / />}}
+  {{< interactive-modules/checklist-item label="Record surface is glossy with no visible scratches or scuffs" / />}}
+  {{< interactive-modules/checklist-item label="No warping or distortion to the vinyl" / />}}
+  {{< interactive-modules/checklist-item label="Original inner sleeve is present and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Album cover has sharp corners with no ring wear" / />}}
+  {{< interactive-modules/checklist-item label="All original inserts, posters, or booklets are included" / />}}
+  {{< interactive-modules/checklist-item label="No writing or stickers on label, sleeve, or cover" / />}}
+  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or excessive noise" / />}}
+  {{< interactive-modules/checklist-item label="Original shrink wrap (if applicable) is intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## The Most Valuable Vinyl Records

@@ -151,14 +151,14 @@ Several websites offer free or low-cost preliminary artwork valuation services:
 Remember that these tools provide estimates rather than definitive valuations and may have limitations in their databases or expertise.
 
 {{< interactive-modules/condition-checklist title="Pre-Valuation Artwork Assessment" description="Complete this checklist before seeking a value estimate" >}}
-  {{< interactive-modules/checklist-item label="Photograph artwork from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions (height × width × depth)" / / />}}
-  {{< interactive-modules/checklist-item label="Document any signatures, dates, or marks" / / />}}
-  {{< interactive-modules/checklist-item label="Note medium and materials" / / />}}
-  {{< interactive-modules/checklist-item label="Assess and document condition issues" / / />}}
-  {{< interactive-modules/checklist-item label="Gather any provenance documentation" / / />}}
-  {{< interactive-modules/checklist-item label="Research the artist's basic information" / / />}}
-  {{< interactive-modules/checklist-item label="Check for edition numbers (for prints)" / / />}}
+  {{< interactive-modules/checklist-item label="Photograph artwork from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Measure dimensions (height × width × depth)" / />}}
+  {{< interactive-modules/checklist-item label="Document any signatures, dates, or marks" / />}}
+  {{< interactive-modules/checklist-item label="Note medium and materials" / />}}
+  {{< interactive-modules/checklist-item label="Assess and document condition issues" / />}}
+  {{< interactive-modules/checklist-item label="Gather any provenance documentation" / />}}
+  {{< interactive-modules/checklist-item label="Research the artist's basic information" / />}}
+  {{< interactive-modules/checklist-item label="Check for edition numbers (for prints)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Artist Research and Market Analysis

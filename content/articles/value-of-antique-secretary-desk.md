@@ -292,14 +292,14 @@ Be wary of these common issues:
 - **Machine-Cut Dovetails**: Regular, identical dovetails indicating modern construction
 
 {{< interactive-modules/condition-checklist title="Antique Secretary Desk Authentication Checklist" description="Check applicable items to help determine authenticity" >}}
-  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints on drawers" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent patina and wear patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Different wood species for visible vs. hidden areas" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent hardware with appropriate aging" / / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand-planing on interior surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate dimensions and proportions" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent construction techniques throughout" / / />}}
-  {{< interactive-modules/checklist-item label="Square nail or wooden peg construction" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints on drawers" / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina and wear patterns" / />}}
+  {{< interactive-modules/checklist-item label="Different wood species for visible vs. hidden areas" / />}}
+  {{< interactive-modules/checklist-item label="Consistent hardware with appropriate aging" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand-planing on interior surfaces" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate dimensions and proportions" / />}}
+  {{< interactive-modules/checklist-item label="Consistent construction techniques throughout" / />}}
+  {{< interactive-modules/checklist-item label="Square nail or wooden peg construction" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Restoration and Maintenance

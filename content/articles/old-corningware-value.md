@@ -184,13 +184,13 @@ While the Blue Cornflower pattern is the most recognizable, it's also the most c
 Certain CorningWare forms are more valuable than others, regardless of pattern:
 
 {{< interactive-modules/condition-checklist title="High-Value CorningWare Piece Types" description="These specific forms typically command higher prices" >}}
-  {{< interactive-modules/checklist-item label="Electromatic (E) Skillets and Percolators" / / />}}
-  {{< interactive-modules/checklist-item label="Range Toppers" / / />}}
-  {{< interactive-modules/checklist-item label="4-cup Petite Pans with lids" / / />}}
-  {{< interactive-modules/checklist-item label="Rare-sized casseroles (5 quart or A-5)" / / />}}
-  {{< interactive-modules/checklist-item label="Complete sets with original lids" / / />}}
-  {{< interactive-modules/checklist-item label="Promotional items with metal cradles/warmers" / / />}}
-  {{< interactive-modules/checklist-item label="Limited edition pieces" / / />}}
+  {{< interactive-modules/checklist-item label="Electromatic (E) Skillets and Percolators" / />}}
+  {{< interactive-modules/checklist-item label="Range Toppers" / />}}
+  {{< interactive-modules/checklist-item label="4-cup Petite Pans with lids" / />}}
+  {{< interactive-modules/checklist-item label="Rare-sized casseroles (5 quart or A-5)" / />}}
+  {{< interactive-modules/checklist-item label="Complete sets with original lids" / />}}
+  {{< interactive-modules/checklist-item label="Promotional items with metal cradles/warmers" / />}}
+  {{< interactive-modules/checklist-item label="Limited edition pieces" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Dating Your CorningWare
@@ -235,13 +235,13 @@ Beyond pattern and piece type, several other factors significantly influence wha
 Condition dramatically affects value—even rare patterns will sell for much less if they're damaged.
 
 {{< interactive-modules/condition-checklist title="CorningWare Condition Checklist" description="Check these factors when evaluating your pieces" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the Pyroceram material" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern is clear and vibrant without significant fading" / / />}}
-  {{< interactive-modules/checklist-item label="Original matching lid is present and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="No staining or discoloration from food" / / />}}
-  {{< interactive-modules/checklist-item label="Metal brackets or cradles included (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging materials" / / />}}
-  {{< interactive-modules/checklist-item label="No repair attempts or glue marks from previous fixes" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the Pyroceram material" / />}}
+  {{< interactive-modules/checklist-item label="Pattern is clear and vibrant without significant fading" / />}}
+  {{< interactive-modules/checklist-item label="Original matching lid is present and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No staining or discoloration from food" / />}}
+  {{< interactive-modules/checklist-item label="Metal brackets or cradles included (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging materials" / />}}
+  {{< interactive-modules/checklist-item label="No repair attempts or glue marks from previous fixes" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness

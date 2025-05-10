@@ -230,14 +230,14 @@ Some cat designs have simply proven more popular with collectors over time. Char
 A documented history of ownership, especially if a piece was part of a well-known collection or has been featured in publications, can enhance value.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your cat cookie jar" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks on the jar body" / / />}}
-  {{< interactive-modules/checklist-item label="Original lid present and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="No crazing in the glaze" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact (for cold-painted details)" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restorations" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's mark present and legible" / / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or staining" / / />}}
-  {{< interactive-modules/checklist-item label="All appendages (ears, tail, etc.) intact" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks on the jar body" / />}}
+  {{< interactive-modules/checklist-item label="Original lid present and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No crazing in the glaze" / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact (for cold-painted details)" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restorations" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's mark present and legible" / />}}
+  {{< interactive-modules/checklist-item label="No discoloration or staining" / />}}
+  {{< interactive-modules/checklist-item label="All appendages (ears, tail, etc.) intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Antique Cat Cookie Jars" level="2" >}}

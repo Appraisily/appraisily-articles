@@ -271,17 +271,17 @@ The condition of an antique armoire can dramatically impact its value. Collector
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Antique Armoire Condition Assessment" description="Check all applicable items when evaluating an armoire" >}}
-  {{< interactive-modules/checklist-item label="Original finish largely intact" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware present" / / />}}
-  {{< interactive-modules/checklist-item label="Doors align properly and close securely" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal repairs to wood structure" / / />}}
-  {{< interactive-modules/checklist-item label="Interior shelves and rods are original" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent patina throughout" / / />}}
-  {{< interactive-modules/checklist-item label="No replacement panels or significant parts" / / />}}
-  {{< interactive-modules/checklist-item label="No active wood insect damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original keys present (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal veneer loss or lifting" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance available" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish largely intact" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware present" / />}}
+  {{< interactive-modules/checklist-item label="Doors align properly and close securely" / />}}
+  {{< interactive-modules/checklist-item label="Minimal repairs to wood structure" / />}}
+  {{< interactive-modules/checklist-item label="Interior shelves and rods are original" / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina throughout" / />}}
+  {{< interactive-modules/checklist-item label="No replacement panels or significant parts" / />}}
+  {{< interactive-modules/checklist-item label="No active wood insect damage" / />}}
+  {{< interactive-modules/checklist-item label="Original keys present (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Minimal veneer loss or lifting" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Understanding "Condition Terminology"

@@ -202,14 +202,14 @@ Understanding the standardized grading scale is crucial for accurate valuation. 
 {{< /data-modules/price-table >}}
 
 {{< interactive-modules/condition-checklist title="Record Condition Assessment Checklist" description="Evaluate your vinyl records using these key condition factors" >}}
-  {{< interactive-modules/checklist-item label="Record surface is free of visible scratches" / / />}}
-  {{< interactive-modules/checklist-item label="No warping or physical damage to the vinyl" / / />}}
-  {{< interactive-modules/checklist-item label="Original sleeve/jacket in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Original inserts and liner notes present" / / />}}
-  {{< interactive-modules/checklist-item label="No visible mold, mildew, or water damage" / / />}}
-  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or significant noise" / / />}}
-  {{< interactive-modules/checklist-item label="Original labels intact and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Gatefold covers (if applicable) have intact hinges" / / />}}
+  {{< interactive-modules/checklist-item label="Record surface is free of visible scratches" / />}}
+  {{< interactive-modules/checklist-item label="No warping or physical damage to the vinyl" / />}}
+  {{< interactive-modules/checklist-item label="Original sleeve/jacket in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Original inserts and liner notes present" / />}}
+  {{< interactive-modules/checklist-item label="No visible mold, mildew, or water damage" / />}}
+  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or significant noise" / />}}
+  {{< interactive-modules/checklist-item label="Original labels intact and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Gatefold covers (if applicable) have intact hinges" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Completeness and Original Packaging

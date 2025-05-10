@@ -83,14 +83,14 @@ Before determining value, you need to confirm your cabinet is genuinely from the
 Authentic Hoosier cabinets have distinctive features that separate them from modern reproductions or similar kitchen furniture:
 
 {{< interactive-modules/condition-checklist title="Authenticity Verification Checklist" description="Look for these identifying features of genuine Hoosier cabinets" >}}
-  {{< interactive-modules/checklist-item label="Manufacturer's mark or label (check inside drawers and cabinet backs)" / / />}}
-  {{< interactive-modules/checklist-item label="Built-in flour sifter (typically metal with a crank mechanism)" / / />}}
-  {{< interactive-modules/checklist-item label="Original porcelain or enamel pull-out work surface" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate hardware (glass or metal knobs, latches)" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish or appropriate age-related patina" / / />}}
-  {{< interactive-modules/checklist-item label="Slide-out or drop-down cutting board" / / />}}
-  {{< interactive-modules/checklist-item label="Specialized storage features (spice racks, sugar dispensers)" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate construction methods (dovetail joints, solid wood)" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's mark or label (check inside drawers and cabinet backs)" / />}}
+  {{< interactive-modules/checklist-item label="Built-in flour sifter (typically metal with a crank mechanism)" / />}}
+  {{< interactive-modules/checklist-item label="Original porcelain or enamel pull-out work surface" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate hardware (glass or metal knobs, latches)" / />}}
+  {{< interactive-modules/checklist-item label="Original finish or appropriate age-related patina" / />}}
+  {{< interactive-modules/checklist-item label="Slide-out or drop-down cutting board" / />}}
+  {{< interactive-modules/checklist-item label="Specialized storage features (spice racks, sugar dispensers)" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate construction methods (dovetail joints, solid wood)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Major manufacturers to look for include:
@@ -266,14 +266,14 @@ If you're in the market to purchase a Hoosier cabinet, follow these guidelines t
 8. **Ask About Provenance**: Documentation of history and ownership can add value
 
 {{< interactive-modules/condition-checklist title="Pre-Purchase Inspection Checklist" description="What to check before buying a Hoosier cabinet" >}}
-  {{< interactive-modules/checklist-item label="Check structural integrity of the cabinet (no wobbly joints or loose panels)" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect drawers for smooth operation and proper construction" / / />}}
-  {{< interactive-modules/checklist-item label="Test all hardware (knobs, latches, doors) for functionality" / / />}}
-  {{< interactive-modules/checklist-item label="Look for water damage, especially on work surfaces and lower sections" / / />}}
-  {{< interactive-modules/checklist-item label="Check for signs of woodworm or other pest damage" / / />}}
-  {{< interactive-modules/checklist-item label="Verify that pull-out surfaces and cutting boards operate correctly" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect metal components for severe rust or deterioration" / / />}}
-  {{< interactive-modules/checklist-item label="Confirm all mechanical features (flour sifters, etc.) are functioning" / / />}}
+  {{< interactive-modules/checklist-item label="Check structural integrity of the cabinet (no wobbly joints or loose panels)" / />}}
+  {{< interactive-modules/checklist-item label="Inspect drawers for smooth operation and proper construction" / />}}
+  {{< interactive-modules/checklist-item label="Test all hardware (knobs, latches, doors) for functionality" / />}}
+  {{< interactive-modules/checklist-item label="Look for water damage, especially on work surfaces and lower sections" / />}}
+  {{< interactive-modules/checklist-item label="Check for signs of woodworm or other pest damage" / />}}
+  {{< interactive-modules/checklist-item label="Verify that pull-out surfaces and cutting boards operate correctly" / />}}
+  {{< interactive-modules/checklist-item label="Inspect metal components for severe rust or deterioration" / />}}
+  {{< interactive-modules/checklist-item label="Confirm all mechanical features (flour sifters, etc.) are functioning" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Restoration and Preservation" level="2" >}}

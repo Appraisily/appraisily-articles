@@ -198,14 +198,14 @@ Before you can determine the value of your antique dishes, you need to properly 
 ![Close-up of antique dish backstamp showing maker's mark and pattern information](https://ik.imagekit.io/appraisily/SEO/antique-dishes-value-list/antique-dishes-value-list-image-3_q7fxpRLHj.png)
 
 {{< interactive-modules/condition-checklist title="Antique Dish Identification Checklist" description="Key elements to check when identifying your antique dishes" >}}
-  {{< interactive-modules/checklist-item label="Look for backstamps or maker's marks" / / />}}
-  {{< interactive-modules/checklist-item label="Note the pattern name if visible" / / />}}
-  {{< interactive-modules/checklist-item label="Examine the quality of decoration and materials" / / />}}
-  {{< interactive-modules/checklist-item label="Check for handpainted vs. transfer printing" / / />}}
-  {{< interactive-modules/checklist-item label="Consider the weight and translucency" / / />}}
-  {{< interactive-modules/checklist-item label="Look for gold or platinum edging" / / />}}
-  {{< interactive-modules/checklist-item label="Search for any damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Note any unusual shapes or forms" / / />}}
+  {{< interactive-modules/checklist-item label="Look for backstamps or maker's marks" / />}}
+  {{< interactive-modules/checklist-item label="Note the pattern name if visible" / />}}
+  {{< interactive-modules/checklist-item label="Examine the quality of decoration and materials" / />}}
+  {{< interactive-modules/checklist-item label="Check for handpainted vs. transfer printing" / />}}
+  {{< interactive-modules/checklist-item label="Consider the weight and translucency" / />}}
+  {{< interactive-modules/checklist-item label="Look for gold or platinum edging" / />}}
+  {{< interactive-modules/checklist-item label="Search for any damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Note any unusual shapes or forms" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Reading Backstamps and Maker's Marks

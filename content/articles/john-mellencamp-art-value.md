@@ -155,12 +155,12 @@ When evaluating a John Mellencamp artwork, several key factors contribute to its
 6. **Condition**: As with all fine art, the condition dramatically affects value. Damage, fading, or poor framing can significantly reduce worth.
 
 {{< interactive-modules/condition-checklist title="John Mellencamp Artwork Condition Assessment" description="Use this checklist to evaluate the condition of a Mellencamp artwork" >}}
-  {{< interactive-modules/checklist-item label="Signature is clear and matches known examples" / / />}}
-  {{< interactive-modules/checklist-item label="No visible damage to canvas or paper" / / />}}
-  {{< interactive-modules/checklist-item label="Colors remain vibrant without fading" / / />}}
-  {{< interactive-modules/checklist-item label="Original framing or professionally framed" / / />}}
-  {{< interactive-modules/checklist-item label="Includes certificate of authenticity" / / />}}
-  {{< interactive-modules/checklist-item label="No restoration or repair work visible" / / />}}
+  {{< interactive-modules/checklist-item label="Signature is clear and matches known examples" / />}}
+  {{< interactive-modules/checklist-item label="No visible damage to canvas or paper" / />}}
+  {{< interactive-modules/checklist-item label="Colors remain vibrant without fading" / />}}
+  {{< interactive-modules/checklist-item label="Original framing or professionally framed" / />}}
+  {{< interactive-modules/checklist-item label="Includes certificate of authenticity" / />}}
+  {{< interactive-modules/checklist-item label="No restoration or repair work visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Types of John Mellencamp Artwork

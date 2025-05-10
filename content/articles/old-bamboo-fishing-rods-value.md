@@ -105,14 +105,14 @@ The rod maker's reputation is typically the most significant value factor. Rods 
 Condition dramatically impacts bamboo rod values. Key condition factors include:
 
 {{< interactive-modules/condition-checklist title="Bamboo Rod Condition Checklist" description="Use this checklist to assess your vintage bamboo rod's condition" >}}
-  {{< interactive-modules/checklist-item label="Straight sections with no significant warping" / / />}}
-  {{< interactive-modules/checklist-item label="All original guides present and secure" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or splits in the bamboo" / / />}}
-  {{< interactive-modules/checklist-item label="Original varnish intact without excessive flaking" / / />}}
-  {{< interactive-modules/checklist-item label="Cork grip in good condition without major deterioration" / / />}}
-  {{< interactive-modules/checklist-item label="Original ferrules present and functional" / / />}}
-  {{< interactive-modules/checklist-item label="Rod properly aligns when assembled" / / />}}
-  {{< interactive-modules/checklist-item label="Original rod bag and tube included" / / />}}
+  {{< interactive-modules/checklist-item label="Straight sections with no significant warping" / />}}
+  {{< interactive-modules/checklist-item label="All original guides present and secure" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or splits in the bamboo" / />}}
+  {{< interactive-modules/checklist-item label="Original varnish intact without excessive flaking" / />}}
+  {{< interactive-modules/checklist-item label="Cork grip in good condition without major deterioration" / />}}
+  {{< interactive-modules/checklist-item label="Original ferrules present and functional" / />}}
+  {{< interactive-modules/checklist-item label="Rod properly aligns when assembled" / />}}
+  {{< interactive-modules/checklist-item label="Original rod bag and tube included" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Historical Significance

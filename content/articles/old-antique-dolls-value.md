@@ -157,14 +157,14 @@ Several important elements contribute to an antique doll's market value. Underst
 Condition is perhaps the single most important factor affecting an antique doll's value:
 
 {{< interactive-modules/condition-checklist title="Doll Condition Assessment Checklist" description="Check all items that apply to accurately assess your doll's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or crazing on porcelain/bisque parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original wig in good condition (not deteriorated or replaced)" / / />}}
-  {{< interactive-modules/checklist-item label="Eyes function properly (open/close for sleep eyes)" / / />}}
-  {{< interactive-modules/checklist-item label="Original clothing and accessories present" / / />}}
-  {{< interactive-modules/checklist-item label="All body parts intact without repairs or replacements" / / />}}
-  {{< interactive-modules/checklist-item label="No significant paint wear on face or body" / / />}}
-  {{< interactive-modules/checklist-item label="Joints function and hold poses properly" / / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging preserved" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or crazing on porcelain/bisque parts" / />}}
+  {{< interactive-modules/checklist-item label="Original wig in good condition (not deteriorated or replaced)" / />}}
+  {{< interactive-modules/checklist-item label="Eyes function properly (open/close for sleep eyes)" / />}}
+  {{< interactive-modules/checklist-item label="Original clothing and accessories present" / />}}
+  {{< interactive-modules/checklist-item label="All body parts intact without repairs or replacements" / />}}
+  {{< interactive-modules/checklist-item label="No significant paint wear on face or body" / />}}
+  {{< interactive-modules/checklist-item label="Joints function and hold poses properly" / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging preserved" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 2. Rarity and Desirability

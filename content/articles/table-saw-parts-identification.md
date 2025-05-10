@@ -170,11 +170,11 @@ A quality fence should be:
 According to [Home Gnome](https://homegnome.com/blog/carpentry/the-parts-of-a-table-saw/): "The main parts of a table saw include the tabletop, the blade, and the mechanical components. Additional parts are specifically designed for safety and precision."
 
 {{< interactive-modules/condition-checklist title="Table Saw Fence Quality Assessment" description="Check these attributes to evaluate your fence system" >}}
-  {{< interactive-modules/checklist-item label="Fence remains parallel to blade when locked" / / />}}
-  {{< interactive-modules/checklist-item label="No deflection when pressure is applied to fence" / / />}}
-  {{< interactive-modules/checklist-item label="Smooth movement along rails without binding" / / />}}
-  {{< interactive-modules/checklist-item label="Measurement scale is accurate and readable" / / />}}
-  {{< interactive-modules/checklist-item label="Lock mechanism engages firmly and consistently" / / />}}
+  {{< interactive-modules/checklist-item label="Fence remains parallel to blade when locked" / />}}
+  {{< interactive-modules/checklist-item label="No deflection when pressure is applied to fence" / />}}
+  {{< interactive-modules/checklist-item label="Smooth movement along rails without binding" / />}}
+  {{< interactive-modules/checklist-item label="Measurement scale is accurate and readable" / />}}
+  {{< interactive-modules/checklist-item label="Lock mechanism engages firmly and consistently" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Miter Gauge and Slots" level="2" >}}
@@ -410,14 +410,14 @@ Understanding table saw components helps identify and resolve common issues. Her
    - Dust accumulation in motor
 
 {{< interactive-modules/condition-checklist title="Table Saw Maintenance Checklist" description="Regular maintenance items to keep your table saw in optimal condition" >}}
-  {{< interactive-modules/checklist-item label="Check and adjust blade alignment to miter slots" / / />}}
-  {{< interactive-modules/checklist-item label="Verify fence parallelism to blade" / / />}}
-  {{< interactive-modules/checklist-item label="Clean and lubricate trunnions" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect and tension drive belt" / / />}}
-  {{< interactive-modules/checklist-item label="Clean motor cooling vents" / / />}}
-  {{< interactive-modules/checklist-item label="Wax table surface to reduce friction" / / />}}
-  {{< interactive-modules/checklist-item label="Check and clean dust collection system" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect blade guard and riving knife function" / / />}}
+  {{< interactive-modules/checklist-item label="Check and adjust blade alignment to miter slots" / />}}
+  {{< interactive-modules/checklist-item label="Verify fence parallelism to blade" / />}}
+  {{< interactive-modules/checklist-item label="Clean and lubricate trunnions" / />}}
+  {{< interactive-modules/checklist-item label="Inspect and tension drive belt" / />}}
+  {{< interactive-modules/checklist-item label="Clean motor cooling vents" / />}}
+  {{< interactive-modules/checklist-item label="Wax table surface to reduce friction" / />}}
+  {{< interactive-modules/checklist-item label="Check and clean dust collection system" / />}}
+  {{< interactive-modules/checklist-item label="Inspect blade guard and riving knife function" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Vintage and Specialized Table Saw Parts" level="2" >}}

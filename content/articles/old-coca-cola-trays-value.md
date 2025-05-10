@@ -160,12 +160,12 @@ Generally, older trays command higher prices, with pre-1920 examples being parti
 Condition significantly impacts value, with mint or near-mint trays commanding substantial premiums over those with damage.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Coca-Cola Trays" description="Check applicable items to gauge your tray's condition" >}}
-  {{< interactive-modules/checklist-item label="No scratches, dents, or surface damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint and colors are bright and unfaded" / / />}}
-  {{< interactive-modules/checklist-item label="No rust spots or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Corners and edges are sharp and unworn" / / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer markings intact" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / / />}}
+  {{< interactive-modules/checklist-item label="No scratches, dents, or surface damage" / />}}
+  {{< interactive-modules/checklist-item label="Original paint and colors are bright and unfaded" / />}}
+  {{< interactive-modules/checklist-item label="No rust spots or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Corners and edges are sharp and unworn" / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer markings intact" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity

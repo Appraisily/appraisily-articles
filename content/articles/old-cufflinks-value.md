@@ -219,12 +219,12 @@ Period-specific materials can help date cufflinks:
 - **Gemstone Cuts**: Old mine cut diamonds (pre-1920s), calibré-cut gems (Art Deco era)
 
 {{< interactive-modules/condition-checklist title="Vintage Cufflink Identification Checklist" description="Use this checklist to help identify authentic vintage cufflinks" >}}
-  {{< interactive-modules/checklist-item label="Examine all metal surfaces for hallmarks and purity stamps" / / />}}
-  {{< interactive-modules/checklist-item label="Check for patina consistent with age (not artificially created)" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect connections and mechanisms for period-appropriate construction" / / />}}
-  {{< interactive-modules/checklist-item label="Look for hand-finishing details typical of the era" / / />}}
-  {{< interactive-modules/checklist-item label="Verify any gemstones have appropriate cutting styles for the period" / / />}}
-  {{< interactive-modules/checklist-item label="Research any maker's marks against known historical manufacturers" / / />}}
+  {{< interactive-modules/checklist-item label="Examine all metal surfaces for hallmarks and purity stamps" / />}}
+  {{< interactive-modules/checklist-item label="Check for patina consistent with age (not artificially created)" / />}}
+  {{< interactive-modules/checklist-item label="Inspect connections and mechanisms for period-appropriate construction" / />}}
+  {{< interactive-modules/checklist-item label="Look for hand-finishing details typical of the era" / />}}
+  {{< interactive-modules/checklist-item label="Verify any gemstones have appropriate cutting styles for the period" / />}}
+  {{< interactive-modules/checklist-item label="Research any maker's marks against known historical manufacturers" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Determining Age and Authenticity" level="2" >}}

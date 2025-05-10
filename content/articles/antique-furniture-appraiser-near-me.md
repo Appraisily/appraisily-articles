@@ -214,14 +214,14 @@ A professional appraisal typically follows these steps:
 Professional appraisers evaluate numerous factors when assessing antique furniture:
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Evaluation Criteria" description="Key factors appraisers consider when valuing your pieces" >}}
-  {{< interactive-modules/checklist-item label="Authenticity and age verification" / / />}}
-  {{< interactive-modules/checklist-item label="Construction techniques and craftsmanship" / / />}}
-  {{< interactive-modules/checklist-item label="Material quality and rarity" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks and provenance" / / />}}
-  {{< interactive-modules/checklist-item label="Current condition and restoration history" / / />}}
-  {{< interactive-modules/checklist-item label="Historical significance and design importance" / / />}}
-  {{< interactive-modules/checklist-item label="Market demand and collector interest" / / />}}
-  {{< interactive-modules/checklist-item label="Comparable recent sales" / / />}}
+  {{< interactive-modules/checklist-item label="Authenticity and age verification" / />}}
+  {{< interactive-modules/checklist-item label="Construction techniques and craftsmanship" / />}}
+  {{< interactive-modules/checklist-item label="Material quality and rarity" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks and provenance" / />}}
+  {{< interactive-modules/checklist-item label="Current condition and restoration history" / />}}
+  {{< interactive-modules/checklist-item label="Historical significance and design importance" / />}}
+  {{< interactive-modules/checklist-item label="Market demand and collector interest" / />}}
+  {{< interactive-modules/checklist-item label="Comparable recent sales" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< data-modules/price-table title="Antique Furniture Appraisal Costs" description="Average fees for professional appraisal services (2024)" >}}

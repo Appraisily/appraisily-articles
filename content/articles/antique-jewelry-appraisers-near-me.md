@@ -273,14 +273,14 @@ A comprehensive antique jewelry appraisal typically includes:
 8. **Value Assignment**: Determination of appropriate value based on appraisal purpose
 
 {{< interactive-modules/condition-checklist title="Antique Jewelry Pre-Appraisal Checklist" description="Items to prepare before meeting with an appraiser" >}}
-  {{< interactive-modules/checklist-item label="Clean jewelry gently without polishing" / / />}}
-  {{< interactive-modules/checklist-item label="Gather any existing documentation" / / />}}
-  {{< interactive-modules/checklist-item label="Note any known history or provenance" / / />}}
-  {{< interactive-modules/checklist-item label="List any repairs or modifications" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph each piece (optional)" / / />}}
-  {{< interactive-modules/checklist-item label="Prepare questions for the appraiser" / / />}}
-  {{< interactive-modules/checklist-item label="Check appraiser's credentials" / / />}}
-  {{< interactive-modules/checklist-item label="Understand the fee structure" / / />}}
+  {{< interactive-modules/checklist-item label="Clean jewelry gently without polishing" / />}}
+  {{< interactive-modules/checklist-item label="Gather any existing documentation" / />}}
+  {{< interactive-modules/checklist-item label="Note any known history or provenance" / />}}
+  {{< interactive-modules/checklist-item label="List any repairs or modifications" / />}}
+  {{< interactive-modules/checklist-item label="Photograph each piece (optional)" / />}}
+  {{< interactive-modules/checklist-item label="Prepare questions for the appraiser" / />}}
+  {{< interactive-modules/checklist-item label="Check appraiser's credentials" / />}}
+  {{< interactive-modules/checklist-item label="Understand the fee structure" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Different Types of Antique Jewelry Appraisals" level="2" >}}

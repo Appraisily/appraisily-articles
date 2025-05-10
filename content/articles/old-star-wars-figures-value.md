@@ -258,14 +258,14 @@ For loose figures:
 - **Complete sets** of related figures can command premium prices
 
 {{< interactive-modules/condition-checklist title="Star Wars Figure Condition Assessment Checklist" description="Use this checklist to evaluate your vintage Star Wars figures" >}}
-  {{< interactive-modules/checklist-item label="Figure has tight limbs with good joint functionality" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint is intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Figure has all original accessories (weapons, capes, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="No discoloration, yellowing, or plastic deterioration" / / />}}
-  {{< interactive-modules/checklist-item label="For carded figures: Clear bubble with no cracks or yellowing" / / />}}
-  {{< interactive-modules/checklist-item label="For carded figures: Card has minimal wear, creases, or corner damage" / / />}}
-  {{< interactive-modules/checklist-item label="Figure has original date stamp on leg or foot" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs, restorations, or reproduction parts" / / />}}
+  {{< interactive-modules/checklist-item label="Figure has tight limbs with good joint functionality" / />}}
+  {{< interactive-modules/checklist-item label="Original paint is intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Figure has all original accessories (weapons, capes, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="No discoloration, yellowing, or plastic deterioration" / />}}
+  {{< interactive-modules/checklist-item label="For carded figures: Clear bubble with no cracks or yellowing" / />}}
+  {{< interactive-modules/checklist-item label="For carded figures: Card has minimal wear, creases, or corner damage" / />}}
+  {{< interactive-modules/checklist-item label="Figure has original date stamp on leg or foot" / />}}
+  {{< interactive-modules/checklist-item label="No repairs, restorations, or reproduction parts" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Average Values for Common Vintage Figures" level="2" >}}

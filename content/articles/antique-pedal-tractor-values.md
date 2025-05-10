@@ -201,16 +201,16 @@ Properly assessing the condition of an antique pedal tractor is crucial for dete
 ![Close-up of a pedal tractor showing restoration details and condition assessment points](https://ik.imagekit.io/appraisily/SEO/antique-pedal-tractor-values/antique-pedal-tractor-values-image-4_rrHVlCBGm.png)
 
 {{< interactive-modules/condition-checklist title="Pedal Tractor Condition Assessment" description="Check applicable items to determine condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original paint with minimal wear (no repainting)" / / />}}
-  {{< interactive-modules/checklist-item label="Factory decals intact and legible" / / />}}
-  {{< interactive-modules/checklist-item label="All original mechanical parts present and functional" / / />}}
-  {{< interactive-modules/checklist-item label="Steering mechanism works smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="Original seat in good condition (no tears or replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Original tires with good tread (not cracked or perished)" / / />}}
-  {{< interactive-modules/checklist-item label="Chain drive intact and operational" / / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Original pedals with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Free from modifications or non-original parts" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint with minimal wear (no repainting)" / />}}
+  {{< interactive-modules/checklist-item label="Factory decals intact and legible" / />}}
+  {{< interactive-modules/checklist-item label="All original mechanical parts present and functional" / />}}
+  {{< interactive-modules/checklist-item label="Steering mechanism works smoothly" / />}}
+  {{< interactive-modules/checklist-item label="Original seat in good condition (no tears or replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Original tires with good tread (not cracked or perished)" / />}}
+  {{< interactive-modules/checklist-item label="Chain drive intact and operational" / />}}
+  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Original pedals with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Free from modifications or non-original parts" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Pedal tractor conditions are typically classified as:

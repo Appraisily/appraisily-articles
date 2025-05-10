@@ -99,12 +99,12 @@ Original 1982 dolls came with adoption papers and birth certificates:
 - The birth certificate should include the doll's name and birth date
 
 {{< interactive-modules/condition-checklist title="1982 Cabbage Patch Doll Identification Checklist" description="Use this checklist to verify if your doll is an authentic 1982 model" >}}
-{{< interactive-modules/checklist-item label="Blue or green Xavier Roberts signature on the bottom" / / />}}
-{{< interactive-modules/checklist-item label="Head mold number on back of head (#1-#4 common for early dolls)" / / />}}
-{{< interactive-modules/checklist-item label="Cloth tag with '© 1982' copyright mark" / / />}}
-{{< interactive-modules/checklist-item label="Coleco manufacturer markings" / / />}}
-{{< interactive-modules/checklist-item label="Original adoption papers with 1982 date" / / />}}
-{{< interactive-modules/checklist-item label="Made in Taiwan or Hong Kong label (not China)" / / />}}
+{{< interactive-modules/checklist-item label="Blue or green Xavier Roberts signature on the bottom" / />}}
+{{< interactive-modules/checklist-item label="Head mold number on back of head (#1-#4 common for early dolls)" / />}}
+{{< interactive-modules/checklist-item label="Cloth tag with '© 1982' copyright mark" / />}}
+{{< interactive-modules/checklist-item label="Coleco manufacturer markings" / />}}
+{{< interactive-modules/checklist-item label="Original adoption papers with 1982 date" / />}}
+{{< interactive-modules/checklist-item label="Made in Taiwan or Hong Kong label (not China)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of a 1982 Cabbage Patch doll head showing mold details](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1982-cabbage-patch-doll-worth/how-much-is-a-1982-cabbage-patch-doll-worth-image-3_13u3vai4s.png)

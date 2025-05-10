@@ -192,14 +192,14 @@ The type of stuffing used can be a key indicator of a bear's age:
 - **Non-Jointed**: More common in bears from the 1940s onward, especially in less expensive models.
 
 {{< interactive-modules/condition-checklist title="Antique Teddy Bear Material Assessment Checklist" description="Check applicable items to help identify your bear's age" >}}
-  {{< interactive-modules/checklist-item label="Mohair exterior with visible woven backing when fur is parted" / / />}}
-  {{< interactive-modules/checklist-item label="Wood wool (excelsior) stuffing with springy feel and rustling sound" / / />}}
-  {{< interactive-modules/checklist-item label="Disk-jointed limbs with visible metal or cardboard disks" / / />}}
-  {{< interactive-modules/checklist-item label="Felt paw pads with hand-stitched details" / / />}}
-  {{< interactive-modules/checklist-item label="Glass or boot button eyes secured from behind" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-stitched nose and mouth with silk or cotton thread" / / />}}
-  {{< interactive-modules/checklist-item label="Internal growler or squeaker mechanism" / / />}}
-  {{< interactive-modules/checklist-item label="Original tags, labels, or buttons in ear" / / />}}
+  {{< interactive-modules/checklist-item label="Mohair exterior with visible woven backing when fur is parted" / />}}
+  {{< interactive-modules/checklist-item label="Wood wool (excelsior) stuffing with springy feel and rustling sound" / />}}
+  {{< interactive-modules/checklist-item label="Disk-jointed limbs with visible metal or cardboard disks" / />}}
+  {{< interactive-modules/checklist-item label="Felt paw pads with hand-stitched details" / />}}
+  {{< interactive-modules/checklist-item label="Glass or boot button eyes secured from behind" / />}}
+  {{< interactive-modules/checklist-item label="Hand-stitched nose and mouth with silk or cotton thread" / />}}
+  {{< interactive-modules/checklist-item label="Internal growler or squeaker mechanism" / />}}
+  {{< interactive-modules/checklist-item label="Original tags, labels, or buttons in ear" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Dating Antique Teddy Bears by Physical Characteristics" level="2" >}}

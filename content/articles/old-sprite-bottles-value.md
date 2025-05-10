@@ -151,12 +151,12 @@ The age of a Sprite bottle is one of the primary factors in determining its valu
 Several bottle designs have proven particularly valuable to collectors:
 
 {{< interactive-modules/condition-checklist title="Most Valuable Sprite Bottle Types" description="Check if your bottle matches any of these valuable designs" >}}
-  {{< interactive-modules/checklist-item label="First generation (1961-1965) green glass bottles with diamond-patterned texture" / / />}}
-  {{< interactive-modules/checklist-item label="National Park series bottles (1966-1968) with park names embossed on bottom" / / />}}
-  {{< interactive-modules/checklist-item label="Foam label bottles from the 1970s with intact original labels" / / />}}
-  {{< interactive-modules/checklist-item label="Unopened bottles with original contents and intact seal" / / />}}
-  {{< interactive-modules/checklist-item label="Commemorative or limited edition bottles from any era" / / />}}
-  {{< interactive-modules/checklist-item label="Foreign or international Sprite bottles with unique designs" / / />}}
+  {{< interactive-modules/checklist-item label="First generation (1961-1965) green glass bottles with diamond-patterned texture" / />}}
+  {{< interactive-modules/checklist-item label="National Park series bottles (1966-1968) with park names embossed on bottom" / />}}
+  {{< interactive-modules/checklist-item label="Foam label bottles from the 1970s with intact original labels" / />}}
+  {{< interactive-modules/checklist-item label="Unopened bottles with original contents and intact seal" / />}}
+  {{< interactive-modules/checklist-item label="Commemorative or limited edition bottles from any era" / />}}
+  {{< interactive-modules/checklist-item label="Foreign or international Sprite bottles with unique designs" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Examining Bottle Bottoms

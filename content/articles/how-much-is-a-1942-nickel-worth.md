@@ -174,10 +174,10 @@ Before determining the value of your 1942 nickel, you need to identify which spe
 The easiest way to identify whether you have a standard nickel or a silver war nickel is to look at the reverse (back) of the coin:
 
 {{< interactive-modules/condition-checklist title="War Nickel Identification Checklist" description="Check these features to identify a 1942 silver war nickel:" >}}
-  {{< interactive-modules/checklist-item label="Large mint mark (P, D, or S) appears ABOVE Monticello on the reverse" / / />}}
-  {{< interactive-modules/checklist-item label="The mint mark is significantly larger than regular mint marks" / / />}}
-  {{< interactive-modules/checklist-item label="First time the Philadelphia mint used a 'P' mint mark" / / />}}
-  {{< interactive-modules/checklist-item label="Coin appears slightly darker or has a different tone than regular nickels" / / />}}
+  {{< interactive-modules/checklist-item label="Large mint mark (P, D, or S) appears ABOVE Monticello on the reverse" / />}}
+  {{< interactive-modules/checklist-item label="The mint mark is significantly larger than regular mint marks" / />}}
+  {{< interactive-modules/checklist-item label="First time the Philadelphia mint used a 'P' mint mark" / />}}
+  {{< interactive-modules/checklist-item label="Coin appears slightly darker or has a different tone than regular nickels" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 1942 Nickel Varieties by Mint
@@ -488,13 +488,13 @@ The condition, or grade, of your 1942 nickel is the most important factor in det
 ### Grading Guide for 1942 Nickels
 
 {{< interactive-modules/condition-checklist title="1942 Nickel Grading Checklist" description="Use these criteria to estimate your coin's grade:" >}}
-  {{< interactive-modules/checklist-item label="Good (G-4): Heavily worn with major details visible but flattened" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good (VG-8): Moderate to heavy wear, all major features clear but flat" / / />}}
-  {{< interactive-modules/checklist-item label="Fine (F-12): Moderate wear, all major details clear with some minor details visible" / / />}}
-  {{< interactive-modules/checklist-item label="Very Fine (VF-20): Light to moderate wear, most details clear including hair lines" / / />}}
-  {{< interactive-modules/checklist-item label="Extremely Fine (EF-40): Light wear only on highest points, sharp details throughout" / / />}}
-  {{< interactive-modules/checklist-item label="About Uncirculated (AU-50): Very slight wear on highest points, 95%+ mint luster remains" / / />}}
-  {{< interactive-modules/checklist-item label="Mint State (MS-60+): No wear, though may have contact marks, spots, or toning" / / />}}
+  {{< interactive-modules/checklist-item label="Good (G-4): Heavily worn with major details visible but flattened" / />}}
+  {{< interactive-modules/checklist-item label="Very Good (VG-8): Moderate to heavy wear, all major features clear but flat" / />}}
+  {{< interactive-modules/checklist-item label="Fine (F-12): Moderate wear, all major details clear with some minor details visible" / />}}
+  {{< interactive-modules/checklist-item label="Very Fine (VF-20): Light to moderate wear, most details clear including hair lines" / />}}
+  {{< interactive-modules/checklist-item label="Extremely Fine (EF-40): Light wear only on highest points, sharp details throughout" / />}}
+  {{< interactive-modules/checklist-item label="About Uncirculated (AU-50): Very slight wear on highest points, 95%+ mint luster remains" / />}}
+  {{< interactive-modules/checklist-item label="Mint State (MS-60+): No wear, though may have contact marks, spots, or toning" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For accurate grading, pay special attention to these areas:
@@ -567,11 +567,11 @@ The 1942 Jefferson nickel series offers a fascinating collecting opportunity due
 Proper storage is crucial for maintaining the condition and value of your 1942 nickels:
 
 {{< interactive-modules/condition-checklist title="Coin Preservation Checklist" description="Follow these guidelines to protect your 1942 nickels:" >}}
-  {{< interactive-modules/checklist-item label="Use inert coin holders (not PVC plastic, which can damage coins)" / / />}}
-  {{< interactive-modules/checklist-item label="Store in a cool, dry environment away from humidity" / / />}}
-  {{< interactive-modules/checklist-item label="Never clean your coins - this reduces collector value" / / />}}
-  {{< interactive-modules/checklist-item label="Handle only by edges, ideally wearing cotton gloves" / / />}}
-  {{< interactive-modules/checklist-item label="Consider professional storage for valuable specimens" / / />}}
+  {{< interactive-modules/checklist-item label="Use inert coin holders (not PVC plastic, which can damage coins)" / />}}
+  {{< interactive-modules/checklist-item label="Store in a cool, dry environment away from humidity" / />}}
+  {{< interactive-modules/checklist-item label="Never clean your coins - this reduces collector value" / />}}
+  {{< interactive-modules/checklist-item label="Handle only by edges, ideally wearing cotton gloves" / />}}
+  {{< interactive-modules/checklist-item label="Consider professional storage for valuable specimens" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/faq title="Frequently Asked Questions About 1942 Nickels" id="faq-section" >}}

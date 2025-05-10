@@ -193,13 +193,13 @@ Jade's value is uniquely influenced by cultural factors:
 - **Traditional Craftsmanship**: Pieces by renowned carvers command significant premiums.
 
 {{< interactive-modules/condition-checklist title="Jade Quality Assessment Checklist" description="Key factors to evaluate when determining jade quality and value" >}}
-  {{< interactive-modules/checklist-item label="Vibrant, even color distribution" / / />}}
-  {{< interactive-modules/checklist-item label="High degree of translucency" / / />}}
-  {{< interactive-modules/checklist-item label="Fine-grained, smooth texture" / / />}}
-  {{< interactive-modules/checklist-item label="Absence of cracks, fractures or visible inclusions" / / />}}
-  {{< interactive-modules/checklist-item label="High polish and luster" / / />}}
-  {{< interactive-modules/checklist-item label="Authentic natural material (not treated or imitation)" / / />}}
-  {{< interactive-modules/checklist-item label="Balanced proportions and skilled craftsmanship" / / />}}
+  {{< interactive-modules/checklist-item label="Vibrant, even color distribution" / />}}
+  {{< interactive-modules/checklist-item label="High degree of translucency" / />}}
+  {{< interactive-modules/checklist-item label="Fine-grained, smooth texture" / />}}
+  {{< interactive-modules/checklist-item label="Absence of cracks, fractures or visible inclusions" / />}}
+  {{< interactive-modules/checklist-item label="High polish and luster" / />}}
+  {{< interactive-modules/checklist-item label="Authentic natural material (not treated or imitation)" / />}}
+  {{< interactive-modules/checklist-item label="Balanced proportions and skilled craftsmanship" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Jade Price Ranges by Quality and Type" level="2" >}}

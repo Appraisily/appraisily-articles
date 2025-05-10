@@ -254,14 +254,14 @@ A good appraiser should:
 ![Antiques appraiser examining a vintage item with a client](https://ik.imagekit.io/appraisily/SEO/antiques-appraiser-near-me/antiques-appraiser-near-me-image-4_y3Cns8_Mg.png)
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist when evaluating potential antiques appraisers" >}}
-  {{< interactive-modules/checklist-item label="Holds certification from a recognized appraisal organization (ASA, ISA, AAA)" / / />}}
-  {{< interactive-modules/checklist-item label="USPAP compliant and follows ethical standards" / / />}}
-  {{< interactive-modules/checklist-item label="Has specific expertise in the type of items you need appraised" / / />}}
-  {{< interactive-modules/checklist-item label="Provides clear fee structure upfront" / / />}}
-  {{< interactive-modules/checklist-item label="Offers formal written appraisals with detailed documentation" / / />}}
-  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / / />}}
-  {{< interactive-modules/checklist-item label="Has positive reviews or referrals from past clients" / / />}}
-  {{< interactive-modules/checklist-item label="Maintains independence (doesn't offer to buy items they appraise)" / / />}}
+  {{< interactive-modules/checklist-item label="Holds certification from a recognized appraisal organization (ASA, ISA, AAA)" / />}}
+  {{< interactive-modules/checklist-item label="USPAP compliant and follows ethical standards" / />}}
+  {{< interactive-modules/checklist-item label="Has specific expertise in the type of items you need appraised" / />}}
+  {{< interactive-modules/checklist-item label="Provides clear fee structure upfront" / />}}
+  {{< interactive-modules/checklist-item label="Offers formal written appraisals with detailed documentation" / />}}
+  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / />}}
+  {{< interactive-modules/checklist-item label="Has positive reviews or referrals from past clients" / />}}
+  {{< interactive-modules/checklist-item label="Maintains independence (doesn't offer to buy items they appraise)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Appraisal Costs" level="2" >}}

@@ -296,13 +296,13 @@ Some bottles feature symbols rather than numbers or letters. Common symbols incl
 Many of these symbols were internal manufacturer codes, though some had specific meaning. For example, certain dot patterns on mid-century glass indicated the quarter of production within a specific year.
 
 {{< interactive-modules/condition-checklist title="Bottle Authenticity Assessment" description="Use this checklist to evaluate if your bottle markings are consistent with authentic antiques" >}}
-  {{< interactive-modules/checklist-item label="Embossing is clear and distinctly molded, not painted or etched" / / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns on base are consistent with bottle's overall condition" / / />}}
-  {{< interactive-modules/checklist-item label="Marks align with documented manufacturer patterns from reference sources" / / />}}
-  {{< interactive-modules/checklist-item label="Mold seams and manufacturing evidence match the purported age" / / />}}
-  {{< interactive-modules/checklist-item label="Pontil mark (if present) shows genuine wear and proper formation" / / />}}
-  {{< interactive-modules/checklist-item label="Base thickness and glass consistency is appropriate for the time period" / / />}}
-  {{< interactive-modules/checklist-item label="Glass color is consistent with claimed manufacturing period" / / />}}
+  {{< interactive-modules/checklist-item label="Embossing is clear and distinctly molded, not painted or etched" / />}}
+  {{< interactive-modules/checklist-item label="Wear patterns on base are consistent with bottle's overall condition" / />}}
+  {{< interactive-modules/checklist-item label="Marks align with documented manufacturer patterns from reference sources" / />}}
+  {{< interactive-modules/checklist-item label="Mold seams and manufacturing evidence match the purported age" / />}}
+  {{< interactive-modules/checklist-item label="Pontil mark (if present) shows genuine wear and proper formation" / />}}
+  {{< interactive-modules/checklist-item label="Base thickness and glass consistency is appropriate for the time period" / />}}
+  {{< interactive-modules/checklist-item label="Glass color is consistent with claimed manufacturing period" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Dating Bottles Using Base Markings" level="2" >}}

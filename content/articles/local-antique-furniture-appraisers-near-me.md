@@ -186,14 +186,14 @@ Don't underestimate the power of word-of-mouth referrals:
 As suggested by [Antique Appraisers Auctioneers](https://antiqueappraisersauctioneers.com/local-antique-appraisers-how-to-find-a-reputable-antique-appraiser-near-me/), recommendations from trusted sources can often lead you to the most reliable appraisers in your area.
 
 {{< interactive-modules/condition-checklist title="Appraiser Vetting Checklist" description="Use this checklist to evaluate potential antique furniture appraisers" >}}
-  {{< interactive-modules/checklist-item label="Holds credentials from recognized professional organizations (ISA, AAA, ASA)" / / />}}
-  {{< interactive-modules/checklist-item label="Has specific experience with antique furniture (not just general antiques)" / / />}}
-  {{< interactive-modules/checklist-item label="Provides clear information about their appraisal process and fees" / / />}}
-  {{< interactive-modules/checklist-item label="Has positive reviews or references from previous clients" / / />}}
-  {{< interactive-modules/checklist-item label="Can provide a sample appraisal report or explanation of what will be included" / / />}}
-  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / / />}}
-  {{< interactive-modules/checklist-item label="Maintains independence from buying/selling (to avoid conflicts of interest)" / / />}}
-  {{< interactive-modules/checklist-item label="Demonstrates knowledge when discussing your specific furniture type" / / />}}
+  {{< interactive-modules/checklist-item label="Holds credentials from recognized professional organizations (ISA, AAA, ASA)" / />}}
+  {{< interactive-modules/checklist-item label="Has specific experience with antique furniture (not just general antiques)" / />}}
+  {{< interactive-modules/checklist-item label="Provides clear information about their appraisal process and fees" / />}}
+  {{< interactive-modules/checklist-item label="Has positive reviews or references from previous clients" / />}}
+  {{< interactive-modules/checklist-item label="Can provide a sample appraisal report or explanation of what will be included" / />}}
+  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / />}}
+  {{< interactive-modules/checklist-item label="Maintains independence from buying/selling (to avoid conflicts of interest)" / />}}
+  {{< interactive-modules/checklist-item label="Demonstrates knowledge when discussing your specific furniture type" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Different Types of Furniture Appraisals" level="2" >}}

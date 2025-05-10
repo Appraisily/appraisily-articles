@@ -202,14 +202,14 @@ The Uniform Standards of Professional Appraisal Practice (USPAP) is a critical c
 This standardized approach ensures appraisers follow consistent, ethical practices regardless of their specialty area.
 
 {{< interactive-modules/condition-checklist title="Appraiser Career Path Checklist" description="Key steps to establishing yourself as a professional antique appraiser" >}}
-{{< interactive-modules/checklist-item label="Obtain relevant formal education (art history, decorative arts, etc.)" / / />}}
-{{< interactive-modules/checklist-item label="Complete the 15-hour USPAP course and examination" / / />}}
-{{< interactive-modules/checklist-item label="Join a professional appraisal organization as a candidate/student member" / / />}}
-{{< interactive-modules/checklist-item label="Complete required coursework from your chosen organization" / / />}}
-{{< interactive-modules/checklist-item label="Build specialized knowledge in your chosen area(s) of expertise" / / />}}
-{{< interactive-modules/checklist-item label="Accumulate documented appraisal experience (2-5 years)" / / />}}
-{{< interactive-modules/checklist-item label="Submit appraisal reports for peer review" / / />}}
-{{< interactive-modules/checklist-item label="Maintain continuing education requirements" / / />}}
+{{< interactive-modules/checklist-item label="Obtain relevant formal education (art history, decorative arts, etc.)" / />}}
+{{< interactive-modules/checklist-item label="Complete the 15-hour USPAP course and examination" / />}}
+{{< interactive-modules/checklist-item label="Join a professional appraisal organization as a candidate/student member" / />}}
+{{< interactive-modules/checklist-item label="Complete required coursework from your chosen organization" / />}}
+{{< interactive-modules/checklist-item label="Build specialized knowledge in your chosen area(s) of expertise" / />}}
+{{< interactive-modules/checklist-item label="Accumulate documented appraisal experience (2-5 years)" / />}}
+{{< interactive-modules/checklist-item label="Submit appraisal reports for peer review" / />}}
+{{< interactive-modules/checklist-item label="Maintain continuing education requirements" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Gaining Practical Experience

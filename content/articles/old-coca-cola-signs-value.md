@@ -183,14 +183,14 @@ One of the biggest challenges in collecting vintage Coca-Cola signs is distingui
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for Coca-Cola Signs" description="Use these criteria to help identify authentic vintage signs" >}}
-  {{< interactive-modules/checklist-item label="Examine the manufacturing marks or maker's stamps on the back or edges" / / />}}
-  {{< interactive-modules/checklist-item label="Check for appropriate aging consistent with claimed age" / / />}}
-  {{< interactive-modules/checklist-item label="Verify logo design matches the claimed production period" / / />}}
-  {{< interactive-modules/checklist-item label="Assess material composition and production techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Look for natural wear patterns rather than artificial distressing" / / />}}
-  {{< interactive-modules/checklist-item label="Research the specific design in Coca-Cola advertising catalogs" / / />}}
-  {{< interactive-modules/checklist-item label="Examine mounting holes for proper vintage specifications" / / />}}
-  {{< interactive-modules/checklist-item label="Verify color accuracy - certain color combinations were never used in authentic signs" / / />}}
+  {{< interactive-modules/checklist-item label="Examine the manufacturing marks or maker's stamps on the back or edges" / />}}
+  {{< interactive-modules/checklist-item label="Check for appropriate aging consistent with claimed age" / />}}
+  {{< interactive-modules/checklist-item label="Verify logo design matches the claimed production period" / />}}
+  {{< interactive-modules/checklist-item label="Assess material composition and production techniques" / />}}
+  {{< interactive-modules/checklist-item label="Look for natural wear patterns rather than artificial distressing" / />}}
+  {{< interactive-modules/checklist-item label="Research the specific design in Coca-Cola advertising catalogs" / />}}
+  {{< interactive-modules/checklist-item label="Examine mounting holes for proper vintage specifications" / />}}
+  {{< interactive-modules/checklist-item label="Verify color accuracy - certain color combinations were never used in authentic signs" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [The Martin Guide to Vintage Coca-Cola Memorabilia](https://www.earlycoke.com/made-in-mumbai), there are several key indicators of reproduction signs:

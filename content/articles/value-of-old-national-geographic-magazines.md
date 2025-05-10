@@ -102,14 +102,14 @@ This explains why post-WWII issues are generally worth very little regardless of
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="National Geographic Condition Factors" description="Factors that affect the value based on condition" >}}
-    {{< interactive-modules/checklist-item label="Cover intact with minimal wear" / / />}}
-    {{< interactive-modules/checklist-item label="Spine straight and undamaged" / / />}}
-    {{< interactive-modules/checklist-item label="Pages clean without stains or markings" / / />}}
-    {{< interactive-modules/checklist-item label="Map inserts present and undamaged" / / />}}
-    {{< interactive-modules/checklist-item label="No mildew, moisture damage or odors" / / />}}
-    {{< interactive-modules/checklist-item label="Original supplements or promotional items included" / / />}}
-    {{< interactive-modules/checklist-item label="No address labels or subscriber information" / / />}}
-    {{< interactive-modules/checklist-item label="No yellowing or brittle pages" / / />}}
+    {{< interactive-modules/checklist-item label="Cover intact with minimal wear" / />}}
+    {{< interactive-modules/checklist-item label="Spine straight and undamaged" / />}}
+    {{< interactive-modules/checklist-item label="Pages clean without stains or markings" / />}}
+    {{< interactive-modules/checklist-item label="Map inserts present and undamaged" / />}}
+    {{< interactive-modules/checklist-item label="No mildew, moisture damage or odors" / />}}
+    {{< interactive-modules/checklist-item label="Original supplements or promotional items included" / />}}
+    {{< interactive-modules/checklist-item label="No address labels or subscriber information" / />}}
+    {{< interactive-modules/checklist-item label="No yellowing or brittle pages" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

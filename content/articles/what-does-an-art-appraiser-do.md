@@ -471,14 +471,14 @@ In some situations, both appraisal and authentication are necessary:
 In these cases, authentication typically precedes appraisal, as genuine works command different values than copies or misattributions.
 
 {{< interactive-modules/condition-checklist title="Art Appraisal Preparation Checklist" description="Items to prepare before hiring an art appraiser" >}}
-  {{< interactive-modules/checklist-item label="Gather all available documentation on the artwork" / / />}}
-  {{< interactive-modules/checklist-item label="Collect purchase receipts and previous appraisals" / / />}}
-  {{< interactive-modules/checklist-item label="Photograph artwork from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Document any known history of the piece" / / />}}
-  {{< interactive-modules/checklist-item label="Research the artist's market performance" / / />}}
-  {{< interactive-modules/checklist-item label="Prepare a list of questions for the appraiser" / / />}}
-  {{< interactive-modules/checklist-item label="Ensure the artwork is accessible for examination" / / />}}
-  {{< interactive-modules/checklist-item label="Clean the artwork's surface gently (if appropriate)" / / />}}
+  {{< interactive-modules/checklist-item label="Gather all available documentation on the artwork" / />}}
+  {{< interactive-modules/checklist-item label="Collect purchase receipts and previous appraisals" / />}}
+  {{< interactive-modules/checklist-item label="Photograph artwork from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Document any known history of the piece" / />}}
+  {{< interactive-modules/checklist-item label="Research the artist's market performance" / />}}
+  {{< interactive-modules/checklist-item label="Prepare a list of questions for the appraiser" / />}}
+  {{< interactive-modules/checklist-item label="Ensure the artwork is accessible for examination" / />}}
+  {{< interactive-modules/checklist-item label="Clean the artwork's surface gently (if appropriate)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Select the Right Art Appraiser" level="2" >}}

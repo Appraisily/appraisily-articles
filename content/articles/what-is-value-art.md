@@ -198,11 +198,11 @@ Different value approaches evoke distinct emotional responses from viewers.
 - Low-key values frequently evoke mystery, solemnity, or drama
 
 {{< interactive-modules/condition-checklist title="Value Assessment in Artwork" description="Use this checklist to evaluate how value is used in a piece of art" >}}
-  {{< interactive-modules/checklist-item label="Does the artwork use a full range of values from light to dark?" / / />}}
-  {{< interactive-modules/checklist-item label="Is there a clear value pattern organizing the composition?" / / />}}
-  {{< interactive-modules/checklist-item label="Does value help create the illusion of three-dimensional form?" / / />}}
-  {{< interactive-modules/checklist-item label="Is value contrast used to create focal points?" / / />}}
-  {{< interactive-modules/checklist-item label="Does the overall value scheme contribute to the mood or message?" / / />}}
+  {{< interactive-modules/checklist-item label="Does the artwork use a full range of values from light to dark?" / />}}
+  {{< interactive-modules/checklist-item label="Is there a clear value pattern organizing the composition?" / />}}
+  {{< interactive-modules/checklist-item label="Does value help create the illusion of three-dimensional form?" / />}}
+  {{< interactive-modules/checklist-item label="Is value contrast used to create focal points?" / />}}
+  {{< interactive-modules/checklist-item label="Does the overall value scheme contribute to the mood or message?" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Value Beyond the Element: The Worth of Art

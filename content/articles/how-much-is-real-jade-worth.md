@@ -300,11 +300,11 @@ With jade's high value comes a significant market for imitations. Knowing how to
 To determine if jade is real and assess its grade:
 
 {{< interactive-modules/condition-checklist title="Jade Authentication Checklist" description="Simple tests to help identify genuine jade" >}}
-  {{< interactive-modules/checklist-item label="Temperature test: Real jade feels cool to the touch and warms slowly" / / />}}
-  {{< interactive-modules/checklist-item label="Sound test: When tapped, real jade produces a resonant, musical tone" / / />}}
-  {{< interactive-modules/checklist-item label="Light test: Shine a flashlight through the jade - genuine jade has a somewhat grainy structure" / / />}}
-  {{< interactive-modules/checklist-item label="Scratch test: Jade is very hard (6.5-7 on Mohs scale) and difficult to scratch" / / />}}
-  {{< interactive-modules/checklist-item label="Price check: If the price seems too good to be true, it probably is" / / />}}
+  {{< interactive-modules/checklist-item label="Temperature test: Real jade feels cool to the touch and warms slowly" / />}}
+  {{< interactive-modules/checklist-item label="Sound test: When tapped, real jade produces a resonant, musical tone" / />}}
+  {{< interactive-modules/checklist-item label="Light test: Shine a flashlight through the jade - genuine jade has a somewhat grainy structure" / />}}
+  {{< interactive-modules/checklist-item label="Scratch test: Jade is very hard (6.5-7 on Mohs scale) and difficult to scratch" / />}}
+  {{< interactive-modules/checklist-item label="Price check: If the price seems too good to be true, it probably is" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For valuable pieces, professional certification from a reputable gemological laboratory is recommended. These can detect treatments and confirm authenticity using:

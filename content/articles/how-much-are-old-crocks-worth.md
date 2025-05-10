@@ -276,14 +276,14 @@ Decorative elements can dramatically increase value:
 Use this checklist to evaluate your crock's condition:
 
 {{< interactive-modules/condition-checklist title="Antique Crock Condition Assessment" description="Check all applicable items to determine condition quality" >}}
-  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original glaze intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Decoration is clear and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark is legible" / / />}}
-  {{< interactive-modules/checklist-item label="Interior is clean without staining" / / />}}
-  {{< interactive-modules/checklist-item label="Original lid is present (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Handles are intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="No restored or repainted areas" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original glaze intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Decoration is clear and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark is legible" / />}}
+  {{< interactive-modules/checklist-item label="Interior is clean without staining" / />}}
+  {{< interactive-modules/checklist-item label="Original lid is present (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Handles are intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No restored or repainted areas" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Spotting Reproductions

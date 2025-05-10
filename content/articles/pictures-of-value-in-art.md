@@ -243,13 +243,13 @@ According to the [New York Times' lesson plan on value](https://www.nytimes.com/
 By carefully observing and rendering these value relationships, artists create the convincing illusion of three-dimensional form on a two-dimensional surface.
 
 {{< interactive-modules/condition-checklist title="Value Implementation Checklist" description="Use these criteria to assess the effective use of value in artwork" >}}
-    {{< interactive-modules/checklist-item label="Clear value structure with identifiable light source direction" / / />}}
-    {{< interactive-modules/checklist-item label="Full range of values from lightest highlights to darkest shadows" / / />}}
-    {{< interactive-modules/checklist-item label="Smooth transitions between value steps where appropriate" / / />}}
-    {{< interactive-modules/checklist-item label="Consistent value relationships across similar surfaces" / / />}}
-    {{< interactive-modules/checklist-item label="Strategic use of contrast to direct viewer attention" / / />}}
-    {{< interactive-modules/checklist-item label="Value groups that create visual unity and balance" / / />}}
-    {{< interactive-modules/checklist-item label="Appropriate value choices for the intended mood or atmosphere" / / />}}
+    {{< interactive-modules/checklist-item label="Clear value structure with identifiable light source direction" / />}}
+    {{< interactive-modules/checklist-item label="Full range of values from lightest highlights to darkest shadows" / />}}
+    {{< interactive-modules/checklist-item label="Smooth transitions between value steps where appropriate" / />}}
+    {{< interactive-modules/checklist-item label="Consistent value relationships across similar surfaces" / />}}
+    {{< interactive-modules/checklist-item label="Strategic use of contrast to direct viewer attention" / />}}
+    {{< interactive-modules/checklist-item label="Value groups that create visual unity and balance" / />}}
+    {{< interactive-modules/checklist-item label="Appropriate value choices for the intended mood or atmosphere" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Value as a Compositional Tool" level="2" >}}

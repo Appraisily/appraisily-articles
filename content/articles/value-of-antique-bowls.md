@@ -277,14 +277,14 @@ Compare your bowl to similar pieces that have recently sold:
 - Consult price guides or collector references specific to your bowl type
 
 {{< interactive-modules/condition-checklist title="Antique Bowl Condition Assessment Checklist" description="Use this checklist to evaluate the condition of an antique bowl. More checked items generally indicate higher potential value." >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or hairline fractures visible" / / />}}
-  {{< interactive-modules/checklist-item label="Original surface with no repairs or restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Complete and intact maker's mark or signature" / / />}}
-  {{< interactive-modules/checklist-item label="Original decoration with minimal wear or fading" / / />}}
-  {{< interactive-modules/checklist-item label="No crazing or if present, stable and appropriate for age" / / />}}
-  {{< interactive-modules/checklist-item label="Even coloration without discoloration or staining" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set (if part of a nesting set or service)" / / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or documentation preserved" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or hairline fractures visible" / />}}
+  {{< interactive-modules/checklist-item label="Original surface with no repairs or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Complete and intact maker's mark or signature" / />}}
+  {{< interactive-modules/checklist-item label="Original decoration with minimal wear or fading" / />}}
+  {{< interactive-modules/checklist-item label="No crazing or if present, stable and appropriate for age" / />}}
+  {{< interactive-modules/checklist-item label="Even coloration without discoloration or staining" / />}}
+  {{< interactive-modules/checklist-item label="Complete set (if part of a nesting set or service)" / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or documentation preserved" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Highly Collectible Antique Bowl Categories" level="2" >}}

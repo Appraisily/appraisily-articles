@@ -234,11 +234,11 @@ According to bottle collectors, certain colors like true purple (not sun-colored
 The condition of an antique bottle significantly impacts its value. Serious collectors generally prefer bottles without damage:
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment" description="Assess your bottle's condition using this checklist" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or scratches" / / />}}
-  {{< interactive-modules/checklist-item label="Original closure or stopper present" / / />}}
-  {{< interactive-modules/checklist-item label="Clear glass with no staining or cloudiness" / / />}}
-  {{< interactive-modules/checklist-item label="Strong, legible embossing (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original paper labels intact (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or scratches" / />}}
+  {{< interactive-modules/checklist-item label="Original closure or stopper present" / />}}
+  {{< interactive-modules/checklist-item label="Clear glass with no staining or cloudiness" / />}}
+  {{< interactive-modules/checklist-item label="Strong, legible embossing (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original paper labels intact (if applicable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Rarity and Desirability

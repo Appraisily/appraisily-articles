@@ -156,12 +156,12 @@ Learning to identify potentially valuable pop bottles is a crucial skill for col
 One of the most reliable ways to date a soda bottle is by examining its seams and base markings:
 
 {{< interactive-modules/condition-checklist title="Bottle Dating Characteristics" description="Look for these manufacturing indicators to help determine a bottle's age" >}}
-  {{< interactive-modules/checklist-item label="Pontil Mark - Pre-1860s bottles often have a rough or smooth pontil mark on the base" / / />}}
-  {{< interactive-modules/checklist-item label="Two-piece mold with side seams stopping below the lip - 1860-1880" / / />}}
-  {{< interactive-modules/checklist-item label="Side seams extending into but not through the lip - 1880-1900" / / />}}
-  {{< interactive-modules/checklist-item label="Seams extending through the entire lip - After 1920 (fully automatic bottle machines)" / / />}}
-  {{< interactive-modules/checklist-item label="Suction scars on the base (circular mark) - After 1905 (Owens Automatic Bottle Machine)" / / />}}
-  {{< interactive-modules/checklist-item label="Distinctive maker's marks and date codes on the bottle base" / / />}}
+  {{< interactive-modules/checklist-item label="Pontil Mark - Pre-1860s bottles often have a rough or smooth pontil mark on the base" / />}}
+  {{< interactive-modules/checklist-item label="Two-piece mold with side seams stopping below the lip - 1860-1880" / />}}
+  {{< interactive-modules/checklist-item label="Side seams extending into but not through the lip - 1880-1900" / />}}
+  {{< interactive-modules/checklist-item label="Seams extending through the entire lip - After 1920 (fully automatic bottle machines)" / />}}
+  {{< interactive-modules/checklist-item label="Suction scars on the base (circular mark) - After 1905 (Owens Automatic Bottle Machine)" / />}}
+  {{< interactive-modules/checklist-item label="Distinctive maker's marks and date codes on the bottle base" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Decoding Manufacturer Marks and Date Codes
@@ -279,14 +279,14 @@ Condition is a critical factor in determining a bottle's value. Collectors use a
 - **Poor (P)**: Heavy wear, chips, cracks, or other damage present. Typically of interest only if extremely rare.
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment Checklist" description="Use this checklist to evaluate your vintage bottle's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks present anywhere on the bottle" / / />}}
-  {{< interactive-modules/checklist-item label="Original embossing is clear and well-defined" / / />}}
-  {{< interactive-modules/checklist-item label="No case wear (scuffing from contact with other bottles)" / / />}}
-  {{< interactive-modules/checklist-item label="No staining or interior residue" / / />}}
-  {{< interactive-modules/checklist-item label="Applied Color Label (if present) is bright and intact" / / />}}
-  {{< interactive-modules/checklist-item label="Paper label (if applicable) is intact with minimal tears or fading" / / />}}
-  {{< interactive-modules/checklist-item label="Closure or cap (if present) is original and in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches on glass surface" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks present anywhere on the bottle" / />}}
+  {{< interactive-modules/checklist-item label="Original embossing is clear and well-defined" / />}}
+  {{< interactive-modules/checklist-item label="No case wear (scuffing from contact with other bottles)" / />}}
+  {{< interactive-modules/checklist-item label="No staining or interior residue" / />}}
+  {{< interactive-modules/checklist-item label="Applied Color Label (if present) is bright and intact" / />}}
+  {{< interactive-modules/checklist-item label="Paper label (if applicable) is intact with minimal tears or fading" / />}}
+  {{< interactive-modules/checklist-item label="Closure or cap (if present) is original and in good condition" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches on glass surface" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Buy and Sell Vintage Soda Bottles" level="2" >}}

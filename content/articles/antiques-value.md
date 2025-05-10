@@ -207,11 +207,11 @@ For valuable items or situations requiring documentation (insurance, estate divi
 Different situations call for different types of appraisals:
 
 {{< interactive-modules/condition-checklist title="Appraisal Types" description="Common appraisal categories based on purpose" >}}
-  {{< interactive-modules/checklist-item label="Insurance Appraisal" / / />}}
-  {{< interactive-modules/checklist-item label="Estate Appraisal" / / />}}
-  {{< interactive-modules/checklist-item label="Fair Market Value Appraisal" / / />}}
-  {{< interactive-modules/checklist-item label="Donation Appraisal" / / />}}
-  {{< interactive-modules/checklist-item label="Liquidation Appraisal" / / />}}
+  {{< interactive-modules/checklist-item label="Insurance Appraisal" / />}}
+  {{< interactive-modules/checklist-item label="Estate Appraisal" / />}}
+  {{< interactive-modules/checklist-item label="Fair Market Value Appraisal" / />}}
+  {{< interactive-modules/checklist-item label="Donation Appraisal" / />}}
+  {{< interactive-modules/checklist-item label="Liquidation Appraisal" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Finding Qualified Appraisers

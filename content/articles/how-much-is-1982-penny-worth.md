@@ -169,11 +169,11 @@ Two methods can help you determine your 1982 penny's composition:
    - Zinc pennies make a duller, less resonant sound
 
 {{< interactive-modules/condition-checklist title="1982 Penny Identification Checklist" description="Check these characteristics to identify your 1982 penny variety" >}}
-  {{< interactive-modules/checklist-item label="Check for mint mark (none, D, or S)" / / />}}
-  {{< interactive-modules/checklist-item label="Examine date size (large or small date)" / / />}}
-  {{< interactive-modules/checklist-item label="Weigh the coin (3.11g = copper, 2.5g = zinc)" / / />}}
-  {{< interactive-modules/checklist-item label="Check coin's sound when dropped (ring = copper, thud = zinc)" / / />}}
-  {{< interactive-modules/checklist-item label="Examine overall condition (wear, damage, toning)" / / />}}
+  {{< interactive-modules/checklist-item label="Check for mint mark (none, D, or S)" / />}}
+  {{< interactive-modules/checklist-item label="Examine date size (large or small date)" / />}}
+  {{< interactive-modules/checklist-item label="Weigh the coin (3.11g = copper, 2.5g = zinc)" / />}}
+  {{< interactive-modules/checklist-item label="Check coin's sound when dropped (ring = copper, thud = zinc)" / />}}
+  {{< interactive-modules/checklist-item label="Examine overall condition (wear, damage, toning)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 By carefully examining these three characteristics—mint mark, date size, and composition—you can accurately identify which 1982 penny variety you have.

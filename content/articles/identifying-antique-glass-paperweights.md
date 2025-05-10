@@ -262,14 +262,14 @@ The physical characteristics of the paperweight itself provide important authent
 - Check for signs of modern manufacturing techniques which would indicate a reproduction
 
 {{< interactive-modules/condition-checklist title="Antique Paperweight Authentication Checklist" description="Use this checklist to evaluate potential antique paperweights" >}}
-  {{< interactive-modules/checklist-item label="Weight has substantial heft and feels dense in hand" / / />}}
-  {{< interactive-modules/checklist-item label="Glass shows no modern cutting or polishing marks" / / />}}
-  {{< interactive-modules/checklist-item label="Base exhibits appropriate wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Design elements match known period styles" / / />}}
-  {{< interactive-modules/checklist-item label="Colors appear authentic to the period (not overly bright or synthetic)" / / />}}
-  {{< interactive-modules/checklist-item label="Pontil mark shows appropriate characteristics for purported age" / / />}}
-  {{< interactive-modules/checklist-item label="Any signature canes or marks match documented examples" / / />}}
-  {{< interactive-modules/checklist-item label="No evidence of modern adhesives or repair materials" / / />}}
+  {{< interactive-modules/checklist-item label="Weight has substantial heft and feels dense in hand" / />}}
+  {{< interactive-modules/checklist-item label="Glass shows no modern cutting or polishing marks" / />}}
+  {{< interactive-modules/checklist-item label="Base exhibits appropriate wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Design elements match known period styles" / />}}
+  {{< interactive-modules/checklist-item label="Colors appear authentic to the period (not overly bright or synthetic)" / />}}
+  {{< interactive-modules/checklist-item label="Pontil mark shows appropriate characteristics for purported age" / />}}
+  {{< interactive-modules/checklist-item label="Any signature canes or marks match documented examples" / />}}
+  {{< interactive-modules/checklist-item label="No evidence of modern adhesives or repair materials" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Various antique paperweights showing different maker styles and techniques](https://ik.imagekit.io/appraisily/SEO/identifying-antique-glass-paperweights/identifying-antique-glass-paperweights-image-5_v9LRA4Np6.png)

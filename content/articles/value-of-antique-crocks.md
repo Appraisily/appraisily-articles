@@ -118,14 +118,14 @@ Identifying potentially valuable crocks requires careful examination of several 
 According to [The Spruce Crafts](https://www.thesprucecrafts.com/antique-stoneware-identification-value-guide-4066123), these are the primary features to look for when identifying valuable antique crocks:
 
 {{< interactive-modules/condition-checklist title="Valuable Crock Identification Checklist" description="Look for these characteristics when evaluating an antique crock" >}}
-  {{< interactive-modules/checklist-item label="Shiny, glass-like surface with occasional bumps (salt particles)" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted decorations (particularly in cobalt blue)" / / />}}
-  {{< interactive-modules/checklist-item label="Decorations applied beneath the glaze (not on top)" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-drawn or stenciled numbers indicating capacity" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark or pottery company signature" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of handmade construction (slight asymmetry)" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate base (unglazed, rough texture)" / / />}}
-  {{< interactive-modules/checklist-item label="Natural aging and wear consistent with authentic use" / / />}}
+  {{< interactive-modules/checklist-item label="Shiny, glass-like surface with occasional bumps (salt particles)" / />}}
+  {{< interactive-modules/checklist-item label="Hand-painted decorations (particularly in cobalt blue)" / />}}
+  {{< interactive-modules/checklist-item label="Decorations applied beneath the glaze (not on top)" / />}}
+  {{< interactive-modules/checklist-item label="Hand-drawn or stenciled numbers indicating capacity" / />}}
+  {{< interactive-modules/checklist-item label="Maker's mark or pottery company signature" / />}}
+  {{< interactive-modules/checklist-item label="Signs of handmade construction (slight asymmetry)" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate base (unglazed, rough texture)" / />}}
+  {{< interactive-modules/checklist-item label="Natural aging and wear consistent with authentic use" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Identifying Maker's Marks

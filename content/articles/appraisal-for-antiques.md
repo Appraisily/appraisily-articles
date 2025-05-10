@@ -359,16 +359,16 @@ Items created by renowned craftsmen, designers, or manufacturers typically hold 
 Objects connected to significant historical events, cultural movements, or technological innovations often carry premium values beyond their decorative or functional merit.
 
 {{< interactive-modules/condition-checklist title="Antique Condition Assessment Guide" description="Key factors that professional appraisers evaluate when determining condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish preserved" / / />}}
-  {{< interactive-modules/checklist-item label="All original parts intact" / / />}}
-  {{< interactive-modules/checklist-item label="Free from breaks, cracks, or chips" / / />}}
-  {{< interactive-modules/checklist-item label="No significant wear patterns or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and fasteners present" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate repairs (if any)" / / />}}
-  {{< interactive-modules/checklist-item label="Original dimensions (not cut down)" / / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance available" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or signatures visible" / / />}}
-  {{< interactive-modules/checklist-item label="No environmental damage (water, sun, insects)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish preserved" / />}}
+  {{< interactive-modules/checklist-item label="All original parts intact" / />}}
+  {{< interactive-modules/checklist-item label="Free from breaks, cracks, or chips" / />}}
+  {{< interactive-modules/checklist-item label="No significant wear patterns or damage" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and fasteners present" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate repairs (if any)" / />}}
+  {{< interactive-modules/checklist-item label="Original dimensions (not cut down)" / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance available" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or signatures visible" / />}}
+  {{< interactive-modules/checklist-item label="No environmental damage (water, sun, insects)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Preparing for Your Antique Appraisal" level="2" >}}

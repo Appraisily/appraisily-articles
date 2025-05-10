@@ -194,14 +194,14 @@ Toys that represent important moments in history or cultural milestones often co
 Certain toy manufacturers have built a reputation for quality and collectibility. Brands like Steiff (teddy bears), Märklin (tin toys), Lionel (model trains), or certain eras of Mattel, Hasbro, and Kenner production are particularly sought after by collectors.
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Factors that can increase your antique toy's value" >}}
-  {{< interactive-modules/checklist-item label="Original packaging preserved (box, bubble card, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="All original accessories and paperwork included" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs, restoration, or replacement parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint and decals intact" / / />}}
-  {{< interactive-modules/checklist-item label="Moving parts function as intended" / / />}}
-  {{< interactive-modules/checklist-item label="Belongs to a known collectible line or brand" / / />}}
-  {{< interactive-modules/checklist-item label="Has provenance or documentation of ownership" / / />}}
-  {{< interactive-modules/checklist-item label="Represents a manufacturing variation or error" / / />}}
+  {{< interactive-modules/checklist-item label="Original packaging preserved (box, bubble card, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="All original accessories and paperwork included" / />}}
+  {{< interactive-modules/checklist-item label="No repairs, restoration, or replacement parts" / />}}
+  {{< interactive-modules/checklist-item label="Original paint and decals intact" / />}}
+  {{< interactive-modules/checklist-item label="Moving parts function as intended" / />}}
+  {{< interactive-modules/checklist-item label="Belongs to a known collectible line or brand" / />}}
+  {{< interactive-modules/checklist-item label="Has provenance or documentation of ownership" / />}}
+  {{< interactive-modules/checklist-item label="Represents a manufacturing variation or error" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Most Valuable Antique and Vintage Toys

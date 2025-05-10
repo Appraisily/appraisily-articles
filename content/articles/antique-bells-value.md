@@ -124,14 +124,14 @@ The material composition of an antique bell plays a crucial role in determining 
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Bell Condition Factors" description="Check which factors apply to your antique bell to help determine its condition and value" >}}
-  {{< interactive-modules/checklist-item label="Clear, resonant tone when struck" / / />}}
-  {{< interactive-modules/checklist-item label="Original clapper or striker intact" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs visible" / / />}}
-  {{< interactive-modules/checklist-item label="Original patina present" / / />}}
-  {{< interactive-modules/checklist-item label="Legible maker's marks or inscriptions" / / />}}
-  {{< interactive-modules/checklist-item label="Original mounting hardware included" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal surface wear or pitting" / / />}}
-  {{< interactive-modules/checklist-item label="Original decorative elements intact" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, resonant tone when struck" / />}}
+  {{< interactive-modules/checklist-item label="Original clapper or striker intact" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs visible" / />}}
+  {{< interactive-modules/checklist-item label="Original patina present" / />}}
+  {{< interactive-modules/checklist-item label="Legible maker's marks or inscriptions" / />}}
+  {{< interactive-modules/checklist-item label="Original mounting hardware included" / />}}
+  {{< interactive-modules/checklist-item label="Minimal surface wear or pitting" / />}}
+  {{< interactive-modules/checklist-item label="Original decorative elements intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The condition of an antique bell significantly affects its value. Bells with cracks, repairs, or excessive wear are generally worth less than those in pristine condition. However, a patina that has developed naturally over time is often desirable and can enhance value.

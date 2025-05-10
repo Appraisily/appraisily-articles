@@ -139,12 +139,12 @@ Determining the approximate age of lawn darts can significantly impact their val
 ### Completeness Assessment
 
 {{< interactive-modules/condition-checklist title="Vintage Lawn Darts Completeness Checklist" description="Use this checklist to assess the completeness of a vintage lawn dart set" >}}
-  {{< interactive-modules/checklist-item label="Original box or packaging with graphics intact" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set of darts (typically 4 darts, often in two colors)" / / />}}
-  {{< interactive-modules/checklist-item label="Target rings (usually 2 plastic hoops)" / / />}}
-  {{< interactive-modules/checklist-item label="Original instruction manual" / / />}}
-  {{< interactive-modules/checklist-item label="Original scorecard or scoring materials (if included with set)" / / />}}
-  {{< interactive-modules/checklist-item label="Storage components (internal packaging, dividers, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging with graphics intact" / />}}
+  {{< interactive-modules/checklist-item label="Complete set of darts (typically 4 darts, often in two colors)" / />}}
+  {{< interactive-modules/checklist-item label="Target rings (usually 2 plastic hoops)" / />}}
+  {{< interactive-modules/checklist-item label="Original instruction manual" / />}}
+  {{< interactive-modules/checklist-item label="Original scorecard or scoring materials (if included with set)" / />}}
+  {{< interactive-modules/checklist-item label="Storage components (internal packaging, dividers, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The most valuable lawn dart sets contain all original components, particularly the metal-tipped darts and target rings. The original packaging significantly increases value, especially if it's in good condition with intact graphics and product information.

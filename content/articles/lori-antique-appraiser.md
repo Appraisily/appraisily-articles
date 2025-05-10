@@ -270,14 +270,14 @@ Dr. Lori employs a systematic approach to evaluating antiques and collectibles, 
 ### Key Factors in Dr. Lori's Appraisal Process
 
 {{< interactive-modules/condition-checklist title="Dr. Lori's Appraisal Assessment Factors" description="Elements considered when evaluating antiques and collectibles" >}}
-  {{< interactive-modules/checklist-item label="Authenticity and provenance" / / />}}
-  {{< interactive-modules/checklist-item label="Age and historical context" / / />}}
-  {{< interactive-modules/checklist-item label="Condition and completeness" / / />}}
-  {{< interactive-modules/checklist-item label="Rarity and uniqueness" / / />}}
-  {{< interactive-modules/checklist-item label="Maker or artist identification" / / />}}
-  {{< interactive-modules/checklist-item label="Current market demand" / / />}}
-  {{< interactive-modules/checklist-item label="Comparable sales data" / / />}}
-  {{< interactive-modules/checklist-item label="Material quality and craftsmanship" / / />}}
+  {{< interactive-modules/checklist-item label="Authenticity and provenance" / />}}
+  {{< interactive-modules/checklist-item label="Age and historical context" / />}}
+  {{< interactive-modules/checklist-item label="Condition and completeness" / />}}
+  {{< interactive-modules/checklist-item label="Rarity and uniqueness" / />}}
+  {{< interactive-modules/checklist-item label="Maker or artist identification" / />}}
+  {{< interactive-modules/checklist-item label="Current market demand" / />}}
+  {{< interactive-modules/checklist-item label="Comparable sales data" / />}}
+  {{< interactive-modules/checklist-item label="Material quality and craftsmanship" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Dr. Lori's approach is distinguished by her ability to quickly identify key features that affect value. For example, when examining furniture, she often looks for:

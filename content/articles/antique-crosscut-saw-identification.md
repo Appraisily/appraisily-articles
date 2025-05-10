@@ -184,11 +184,11 @@ These specialized tooth configurations were designed to:
 The spacing, angle, and design of these teeth can help identify both the saw's intended purpose and its approximate age.
 
 {{< interactive-modules/condition-checklist title="Tooth Pattern Identification Checklist" description="Use these points to help identify the tooth pattern on your antique crosscut saw" >}}
-  {{< interactive-modules/checklist-item label="Look for alternating cutter teeth and raker teeth" / / />}}
-  {{< interactive-modules/checklist-item label="Measure the number of teeth per inch (typically 4-8 TPI)" / / />}}
-  {{< interactive-modules/checklist-item label="Check for special filings like 'Great American' or 'Champion' patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Look for a 'lance tooth' design (pointed raker teeth)" / / />}}
-  {{< interactive-modules/checklist-item label="Examine whether teeth are factory sharpened or hand filed" / / />}}
+  {{< interactive-modules/checklist-item label="Look for alternating cutter teeth and raker teeth" / />}}
+  {{< interactive-modules/checklist-item label="Measure the number of teeth per inch (typically 4-8 TPI)" / />}}
+  {{< interactive-modules/checklist-item label="Check for special filings like 'Great American' or 'Champion' patterns" / />}}
+  {{< interactive-modules/checklist-item label="Look for a 'lance tooth' design (pointed raker teeth)" / />}}
+  {{< interactive-modules/checklist-item label="Examine whether teeth are factory sharpened or hand filed" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Identifying Manufacturer Markings
@@ -333,13 +333,13 @@ According to collector standards, condition grades for antique crosscut saws typ
 The presence of special features like original carrying cases, manufacturer decals, or documented provenance can significantly enhance value regardless of condition category.
 
 {{< interactive-modules/condition-checklist title="Antique Crosscut Saw Condition Checklist" description="Use this checklist to evaluate the condition of an antique crosscut saw" >}}
-  {{< interactive-modules/checklist-item label="Blade is straight with no significant bends or warping" / / />}}
-  {{< interactive-modules/checklist-item label="Original etching or manufacturer marks are clearly visible" / / />}}
-  {{< interactive-modules/checklist-item label="Handles are original and intact (not replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust or pitting on the blade surface" / / />}}
-  {{< interactive-modules/checklist-item label="Teeth are complete without significant damage or improper filing" / / />}}
-  {{< interactive-modules/checklist-item label="Original tension (crown) is maintained in the blade" / / />}}
-  {{< interactive-modules/checklist-item label="If present, any auxiliary items (cases, blade guards) are intact" / / />}}
+  {{< interactive-modules/checklist-item label="Blade is straight with no significant bends or warping" / />}}
+  {{< interactive-modules/checklist-item label="Original etching or manufacturer marks are clearly visible" / />}}
+  {{< interactive-modules/checklist-item label="Handles are original and intact (not replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust or pitting on the blade surface" / />}}
+  {{< interactive-modules/checklist-item label="Teeth are complete without significant damage or improper filing" / />}}
+  {{< interactive-modules/checklist-item label="Original tension (crown) is maintained in the blade" / />}}
+  {{< interactive-modules/checklist-item label="If present, any auxiliary items (cases, blade guards) are intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Restoration Considerations

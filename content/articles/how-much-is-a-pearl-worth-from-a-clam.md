@@ -214,14 +214,14 @@ Surface quality refers to how clean and unblemished the pearl appears. Pearls wi
 ![Close-up of a natural pearl showing luster and surface details](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-pearl-worth-from-a-clam/how-much-is-a-pearl-worth-from-a-clam-image-4_nframKoyd.png)
 
 {{< interactive-modules/condition-checklist title="Clam Pearl Quality Assessment Checklist" description="Use this checklist to evaluate your clam pearl's potential value" >}}
-  {{< interactive-modules/checklist-item label="Pearl is larger than 5mm in diameter" / / />}}
-  {{< interactive-modules/checklist-item label="Pearl has a round or near-round shape" / / />}}
-  {{< interactive-modules/checklist-item label="Surface is smooth with minimal blemishes" / / />}}
-  {{< interactive-modules/checklist-item label="Pearl has strong luster (reflective quality)" / / />}}
-  {{< interactive-modules/checklist-item label="Color is even and attractive (purple/pink is premium)" / / />}}
-  {{< interactive-modules/checklist-item label="Pearl came from a quahog clam specifically" / / />}}
-  {{< interactive-modules/checklist-item label="Pearl has an iridescent or flame-like pattern" / / />}}
-  {{< interactive-modules/checklist-item label="You have documentation of its natural origin" / / />}}
+  {{< interactive-modules/checklist-item label="Pearl is larger than 5mm in diameter" / />}}
+  {{< interactive-modules/checklist-item label="Pearl has a round or near-round shape" / />}}
+  {{< interactive-modules/checklist-item label="Surface is smooth with minimal blemishes" / />}}
+  {{< interactive-modules/checklist-item label="Pearl has strong luster (reflective quality)" / />}}
+  {{< interactive-modules/checklist-item label="Color is even and attractive (purple/pink is premium)" / />}}
+  {{< interactive-modules/checklist-item label="Pearl came from a quahog clam specifically" / />}}
+  {{< interactive-modules/checklist-item label="Pearl has an iridescent or flame-like pattern" / />}}
+  {{< interactive-modules/checklist-item label="You have documentation of its natural origin" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify a Valuable Clam Pearl" level="2" >}}

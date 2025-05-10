@@ -182,13 +182,13 @@ As with most collectibles, rarity plays a crucial role in determining value. Rec
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="45 RPM Record Condition Assessment" description="Check these factors when evaluating a record's condition" >}}
-  {{< interactive-modules/checklist-item label="No visible scratches or scuffs on the playing surface" / / />}}
-  {{< interactive-modules/checklist-item label="Original label intact and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="No warping or bends in the vinyl" / / />}}
-  {{< interactive-modules/checklist-item label="Original picture sleeve present (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Record plays without skips or sound issues" / / />}}
-  {{< interactive-modules/checklist-item label="Original company sleeve present" / / />}}
-  {{< interactive-modules/checklist-item label="No writing or stickers on label or sleeve" / / />}}
+  {{< interactive-modules/checklist-item label="No visible scratches or scuffs on the playing surface" / />}}
+  {{< interactive-modules/checklist-item label="Original label intact and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No warping or bends in the vinyl" / />}}
+  {{< interactive-modules/checklist-item label="Original picture sleeve present (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Record plays without skips or sound issues" / />}}
+  {{< interactive-modules/checklist-item label="Original company sleeve present" / />}}
+  {{< interactive-modules/checklist-item label="No writing or stickers on label or sleeve" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition is perhaps the most critical factor in determining a record's value. Collectors typically use a grading system ranging from "Mint" (perfect condition) to "Poor" (severely damaged). A record in Mint or Near Mint condition can be worth several times more than the same record in Good or Fair condition.
@@ -425,12 +425,12 @@ Whether you're collecting for pleasure or investment, proper storage and handlin
 ### Handling Best Practices
 
 {{< interactive-modules/condition-checklist title="45 RPM Record Handling Guidelines" description="Follow these practices to maintain your records' condition and value" >}}
-  {{< interactive-modules/checklist-item label="Handle only by edges and label areas" / / />}}
-  {{< interactive-modules/checklist-item label="Ensure hands are clean and dry before handling" / / />}}
-  {{< interactive-modules/checklist-item label="Use record cleaning solution and microfiber cloth for cleaning" / / />}}
-  {{< interactive-modules/checklist-item label="Return to sleeve immediately after playing" / / />}}
-  {{< interactive-modules/checklist-item label="Use proper record weight when playing" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect and clean stylus regularly" / / />}}
+  {{< interactive-modules/checklist-item label="Handle only by edges and label areas" / />}}
+  {{< interactive-modules/checklist-item label="Ensure hands are clean and dry before handling" / />}}
+  {{< interactive-modules/checklist-item label="Use record cleaning solution and microfiber cloth for cleaning" / />}}
+  {{< interactive-modules/checklist-item label="Return to sleeve immediately after playing" / />}}
+  {{< interactive-modules/checklist-item label="Use proper record weight when playing" / />}}
+  {{< interactive-modules/checklist-item label="Inspect and clean stylus regularly" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Insurance and Documentation

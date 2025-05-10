@@ -191,13 +191,13 @@ Before determining value, it's essential to confirm you have an authentic lithog
 **Justification**: The "justification" refers to the artist's approval of the print quality. Look for annotations like "E.A." (épreuve d'artiste or artist's proof), "H.C." (hors commerce or not for sale), or "B.A.T." (bon à tirer or ready to print).
 
 {{< interactive-modules/condition-checklist title="Lithograph Authentication Checklist" description="Use this checklist to assess the authenticity of your lithograph" >}}
-  {{< interactive-modules/checklist-item label="Hand-signed by the artist (typically in pencil)" / / />}}
-  {{< interactive-modules/checklist-item label="Edition number clearly visible (e.g., '25/100')" / / />}}
-  {{< interactive-modules/checklist-item label="High-quality, acid-free paper with visible texture" / / />}}
-  {{< interactive-modules/checklist-item label="Presence of plate mark or embossing" / / />}}
-  {{< interactive-modules/checklist-item label="Visible justification or artist's proof markings" / / />}}
-  {{< interactive-modules/checklist-item label="Clear ink impression without digital dot patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation or certificate of authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-signed by the artist (typically in pencil)" / />}}
+  {{< interactive-modules/checklist-item label="Edition number clearly visible (e.g., '25/100')" / />}}
+  {{< interactive-modules/checklist-item label="High-quality, acid-free paper with visible texture" / />}}
+  {{< interactive-modules/checklist-item label="Presence of plate mark or embossing" / />}}
+  {{< interactive-modules/checklist-item label="Visible justification or artist's proof markings" / />}}
+  {{< interactive-modules/checklist-item label="Clear ink impression without digital dot patterns" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation or certificate of authenticity" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Key Factors Affecting Lithograph Value" level="2" >}}

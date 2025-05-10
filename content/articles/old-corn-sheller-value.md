@@ -263,14 +263,14 @@ The value of antique corn shellers can vary significantly based on several key f
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that contribute to higher value in antique corn shellers" >}}
-  {{< interactive-modules/checklist-item label="Complete mechanical components with no missing parts" / / />}}
-  {{< interactive-modules/checklist-item label="Functional operation with smooth turning mechanism" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint or appropriate period finish" / / />}}
-  {{< interactive-modules/checklist-item label="Intact wooden components without significant damage" / / />}}
-  {{< interactive-modules/checklist-item label="Visible manufacturer markings or patent information" / / />}}
-  {{< interactive-modules/checklist-item label="Original mounting hardware or stand included" / / />}}
-  {{< interactive-modules/checklist-item label="Free from excessive rust or metal deterioration" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate repairs (if any)" / / />}}
+  {{< interactive-modules/checklist-item label="Complete mechanical components with no missing parts" / />}}
+  {{< interactive-modules/checklist-item label="Functional operation with smooth turning mechanism" / />}}
+  {{< interactive-modules/checklist-item label="Original paint or appropriate period finish" / />}}
+  {{< interactive-modules/checklist-item label="Intact wooden components without significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Visible manufacturer markings or patent information" / />}}
+  {{< interactive-modules/checklist-item label="Original mounting hardware or stand included" / />}}
+  {{< interactive-modules/checklist-item label="Free from excessive rust or metal deterioration" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate repairs (if any)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Manufacturer and Rarity

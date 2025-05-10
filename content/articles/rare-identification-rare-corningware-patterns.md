@@ -228,14 +228,14 @@ The material composition significantly impacts value:
 2. **Stoneware (1998-present)**: Later CorningWare made from stoneware generally has much lower collectible value. These pieces are typically heavier, completely opaque, and cannot be used on stovetops.
 
 {{< interactive-modules/condition-checklist title="CorningWare Authentication Checklist" description="Check applicable items to help identify if your piece is valuable vintage CorningWare:" >}}
-  {{< interactive-modules/checklist-item label="Piece is made of Pyroceram (not stoneware)" / / />}}
-  {{< interactive-modules/checklist-item label="Has 'CORNING WARE' and 'PYROCERAM' markings" / / />}}
-  {{< interactive-modules/checklist-item label="Displays 'Made in USA' on the bottom" / / />}}
-  {{< interactive-modules/checklist-item label="Features an A, P, F, or B series model number" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern matches one of the known rare designs" / / />}}
-  {{< interactive-modules/checklist-item label="Has original lids (Pyrex or CorningWare)" / / />}}
-  {{< interactive-modules/checklist-item label="Shows minimal wear, no chips or cracks" / / />}}
-  {{< interactive-modules/checklist-item label="Has been properly authenticated by an expert" / / />}}
+  {{< interactive-modules/checklist-item label="Piece is made of Pyroceram (not stoneware)" / />}}
+  {{< interactive-modules/checklist-item label="Has 'CORNING WARE' and 'PYROCERAM' markings" / />}}
+  {{< interactive-modules/checklist-item label="Displays 'Made in USA' on the bottom" / />}}
+  {{< interactive-modules/checklist-item label="Features an A, P, F, or B series model number" / />}}
+  {{< interactive-modules/checklist-item label="Pattern matches one of the known rare designs" / />}}
+  {{< interactive-modules/checklist-item label="Has original lids (Pyrex or CorningWare)" / />}}
+  {{< interactive-modules/checklist-item label="Shows minimal wear, no chips or cracks" / />}}
+  {{< interactive-modules/checklist-item label="Has been properly authenticated by an expert" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Remember that some sellers may incorrectly label common patterns as "rare" to inflate prices. Using this checklist can help you make more informed purchasing decisions.

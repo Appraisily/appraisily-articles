@@ -156,14 +156,14 @@ If markings are worn or unclear, you can perform simple at-home tests:
 For definitive testing, consider acid testing kits or consult a professional appraiser.
 
 {{< interactive-modules/condition-checklist title="Silverware Condition Assessment" description="Check applicable items to gauge your silverware's condition grade" >}}
-  {{< interactive-modules/checklist-item label="No visible scratches or wear to pattern" / / />}}
-  {{< interactive-modules/checklist-item label="No dents or bent tines on forks" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or solder marks" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact (not over-polished)" / / />}}
-  {{< interactive-modules/checklist-item label="No monograms or personalization" / / />}}
-  {{< interactive-modules/checklist-item label="Complete matched set (no replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Original storage box or chest present" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance available" / / />}}
+  {{< interactive-modules/checklist-item label="No visible scratches or wear to pattern" / />}}
+  {{< interactive-modules/checklist-item label="No dents or bent tines on forks" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or solder marks" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (not over-polished)" / />}}
+  {{< interactive-modules/checklist-item label="No monograms or personalization" / />}}
+  {{< interactive-modules/checklist-item label="Complete matched set (no replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Original storage box or chest present" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for Antique Silverware" level="2" >}}

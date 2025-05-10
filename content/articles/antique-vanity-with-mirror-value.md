@@ -175,14 +175,14 @@ To verify authenticity, examine:
 According to experts on JustAnswer, condition is perhaps the most crucial factor in determining value. Issues that can significantly reduce worth include:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Common issues that affect antique vanity values" >}}
-  {{< interactive-modules/checklist-item label="Mirror damage (clouding, spotting, cracks)" / / />}}
-  {{< interactive-modules/checklist-item label="Missing or replaced hardware" / / />}}
-  {{< interactive-modules/checklist-item label="Structural damage to the frame or legs" / / />}}
-  {{< interactive-modules/checklist-item label="Significant wood veneer damage or loss" / / />}}
-  {{< interactive-modules/checklist-item label="Water damage or staining" / / />}}
-  {{< interactive-modules/checklist-item label="Poorly executed repairs or refinishing" / / />}}
-  {{< interactive-modules/checklist-item label="Missing original stool or bench" / / />}}
-  {{< interactive-modules/checklist-item label="Damaged or replaced mirror support mechanisms" / / />}}
+  {{< interactive-modules/checklist-item label="Mirror damage (clouding, spotting, cracks)" / />}}
+  {{< interactive-modules/checklist-item label="Missing or replaced hardware" / />}}
+  {{< interactive-modules/checklist-item label="Structural damage to the frame or legs" / />}}
+  {{< interactive-modules/checklist-item label="Significant wood veneer damage or loss" / />}}
+  {{< interactive-modules/checklist-item label="Water damage or staining" / />}}
+  {{< interactive-modules/checklist-item label="Poorly executed repairs or refinishing" / />}}
+  {{< interactive-modules/checklist-item label="Missing original stool or bench" / />}}
+  {{< interactive-modules/checklist-item label="Damaged or replaced mirror support mechanisms" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 A Reddit user in r/Antiques commented that replacing a vanity mirror can be costly, noting, "it's probably not worth your time and money to have the vanity mirror replaced," suggesting that incomplete pieces often sell for significantly less.
@@ -374,13 +374,13 @@ According to Pioneer Glass, proper antique mirror care involves:
 For the wooden vanity structure:
 
 {{< interactive-modules/condition-checklist title="Wood Restoration Guidelines" description="Best practices for maintaining antique wood furniture" >}}
-  {{< interactive-modules/checklist-item label="Clean gently with appropriate wood cleaners" / / />}}
-  {{< interactive-modules/checklist-item label="Avoid stripping original finishes when possible" / / />}}
-  {{< interactive-modules/checklist-item label="Use furniture wax rather than polyurethane on antiques" / / />}}
-  {{< interactive-modules/checklist-item label="Address structural issues before cosmetic ones" / / />}}
-  {{< interactive-modules/checklist-item label="Maintain consistent humidity levels to prevent cracking" / / />}}
-  {{< interactive-modules/checklist-item label="Seek professional restoration for valuable pieces" / / />}}
-  {{< interactive-modules/checklist-item label="Document the restoration process for provenance" / / />}}
+  {{< interactive-modules/checklist-item label="Clean gently with appropriate wood cleaners" / />}}
+  {{< interactive-modules/checklist-item label="Avoid stripping original finishes when possible" / />}}
+  {{< interactive-modules/checklist-item label="Use furniture wax rather than polyurethane on antiques" / />}}
+  {{< interactive-modules/checklist-item label="Address structural issues before cosmetic ones" / />}}
+  {{< interactive-modules/checklist-item label="Maintain consistent humidity levels to prevent cracking" / />}}
+  {{< interactive-modules/checklist-item label="Seek professional restoration for valuable pieces" / />}}
+  {{< interactive-modules/checklist-item label="Document the restoration process for provenance" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Hardware Considerations

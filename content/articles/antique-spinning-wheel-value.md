@@ -96,13 +96,13 @@ Use this checklist to evaluate the condition of an antique spinning wheel, which
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Spinning Wheel Condition Factors" description="Evaluate the following elements to assess overall condition" >}}
-{{< interactive-modules/checklist-item label="All original parts present (wheel, flyer, bobbin, etc.)" / / />}}
-{{< interactive-modules/checklist-item label="Wheel turns smoothly without wobbling" / / />}}
-{{< interactive-modules/checklist-item label="No missing spokes or damaged components" / / />}}
-{{< interactive-modules/checklist-item label="Original finish or historically appropriate restoration" / / />}}
-{{< interactive-modules/checklist-item label="Drive band/tension system intact and functional" / / />}}
-{{< interactive-modules/checklist-item label="No significant cracks, breaks, or repairs" / / />}}
-{{< interactive-modules/checklist-item label="Flyer assembly complete and operational" / / />}}
+{{< interactive-modules/checklist-item label="All original parts present (wheel, flyer, bobbin, etc.)" / />}}
+{{< interactive-modules/checklist-item label="Wheel turns smoothly without wobbling" / />}}
+{{< interactive-modules/checklist-item label="No missing spokes or damaged components" / />}}
+{{< interactive-modules/checklist-item label="Original finish or historically appropriate restoration" / />}}
+{{< interactive-modules/checklist-item label="Drive band/tension system intact and functional" / />}}
+{{< interactive-modules/checklist-item label="No significant cracks, breaks, or repairs" / />}}
+{{< interactive-modules/checklist-item label="Flyer assembly complete and operational" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Craftsmanship and Design

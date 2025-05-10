@@ -222,14 +222,14 @@ Multiple factors influence the market value of antique cookie jars, from conditi
 Condition is perhaps the single most important factor in valuing antique cookie jars. According to collectors and experts featured in [Taste of Home's article](https://www.tasteofhome.com/article/vintage-cookie-jars/), superficial cracks, chips, paint loss, or other damage can drastically reduce a jar's value by 40-60%.
 
 {{< interactive-modules/condition-checklist title="Cookie Jar Condition Assessment" description="Check applicable items to evaluate your cookie jar's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the ceramic body" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Lid fits properly and is original to the jar" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration visible" / / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer markings present" / / />}}
-  {{< interactive-modules/checklist-item label="No crazing (fine cracks in the glaze)" / / />}}
-  {{< interactive-modules/checklist-item label="Colors remain bright and unfaded" / / />}}
-  {{< interactive-modules/checklist-item label="If applicable, all decorative elements intact" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the ceramic body" / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Lid fits properly and is original to the jar" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration visible" / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer markings present" / />}}
+  {{< interactive-modules/checklist-item label="No crazing (fine cracks in the glaze)" / />}}
+  {{< interactive-modules/checklist-item label="Colors remain bright and unfaded" / />}}
+  {{< interactive-modules/checklist-item label="If applicable, all decorative elements intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Scarcity

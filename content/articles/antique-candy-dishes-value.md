@@ -137,13 +137,13 @@ Certain patterns and designs are particularly sought after by collectors:
 ### Assessing Condition
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Antique Candy Dishes" description="Check applicable criteria to help determine value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or fleabites on glass or ceramics" / / />}}
-  {{< interactive-modules/checklist-item label="Original lid or cover present and intact" / / />}}
-  {{< interactive-modules/checklist-item label="No wear to silver plate or gilding" / / />}}
-  {{< interactive-modules/checklist-item label="Colors remain vibrant without fading" / / />}}
-  {{< interactive-modules/checklist-item label="Original paper labels or stickers present" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration attempted" / / />}}
-  {{< interactive-modules/checklist-item label="Matching set with all original pieces" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or fleabites on glass or ceramics" / />}}
+  {{< interactive-modules/checklist-item label="Original lid or cover present and intact" / />}}
+  {{< interactive-modules/checklist-item label="No wear to silver plate or gilding" / />}}
+  {{< interactive-modules/checklist-item label="Colors remain vibrant without fading" / />}}
+  {{< interactive-modules/checklist-item label="Original paper labels or stickers present" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration attempted" / />}}
+  {{< interactive-modules/checklist-item label="Matching set with all original pieces" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition significantly impacts value, with mint condition pieces commanding substantial premiums. Common condition issues to watch for include:

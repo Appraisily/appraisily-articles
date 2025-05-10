@@ -274,13 +274,13 @@ Whether inherited, purchased, or received as a gift, your pearl jewelry has both
 Start with a visual examination using this checklist:
 
 {{< interactive-modules/condition-checklist title="Pearl Quality Assessment Checklist" description="Check all that apply to your pearls" >}}
-  {{< interactive-modules/checklist-item label="Pearls have a high luster with sharp reflections" / / />}}
-  {{< interactive-modules/checklist-item label="Pearls are perfectly or near-perfectly round" / / />}}
-  {{< interactive-modules/checklist-item label="Pearl surface is smooth with minimal imperfections" / / />}}
-  {{< interactive-modules/checklist-item label="Pearls are well-matched in size and color (for strands)" / / />}}
-  {{< interactive-modules/checklist-item label="Pearl color is rare or highly desirable" / / />}}
-  {{< interactive-modules/checklist-item label="Pearls are larger than 8mm in diameter" / / />}}
-  {{< interactive-modules/checklist-item label="Pearls have documentation of origin or certification" / / />}}
+  {{< interactive-modules/checklist-item label="Pearls have a high luster with sharp reflections" / />}}
+  {{< interactive-modules/checklist-item label="Pearls are perfectly or near-perfectly round" / />}}
+  {{< interactive-modules/checklist-item label="Pearl surface is smooth with minimal imperfections" / />}}
+  {{< interactive-modules/checklist-item label="Pearls are well-matched in size and color (for strands)" / />}}
+  {{< interactive-modules/checklist-item label="Pearl color is rare or highly desirable" / />}}
+  {{< interactive-modules/checklist-item label="Pearls are larger than 8mm in diameter" / />}}
+  {{< interactive-modules/checklist-item label="Pearls have documentation of origin or certification" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The more items you check off, the higher the potential value of your pearls.

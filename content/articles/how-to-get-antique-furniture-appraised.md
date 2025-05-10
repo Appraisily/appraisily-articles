@@ -166,12 +166,12 @@ According to [Fontaine's Auction Gallery](https://www.fontainesauction.com/antiq
 Take clear, well-lit photographs of your furniture from multiple angles:
 
 {{< interactive-modules/condition-checklist title="Furniture Documentation Checklist" description="Ensure you capture these important elements" >}}
-{{< interactive-modules/checklist-item label="Full front, back, and side views" / / />}}
-{{< interactive-modules/checklist-item label="Close-ups of any maker's marks or signatures" / / />}}
-{{< interactive-modules/checklist-item label="Detail shots of decorative elements" / / />}}
-{{< interactive-modules/checklist-item label="Areas showing condition issues or damage" / / />}}
-{{< interactive-modules/checklist-item label="Hardware details (knobs, hinges, etc.)" / / />}}
-{{< interactive-modules/checklist-item label="Inside drawers and cabinets" / / />}}
+{{< interactive-modules/checklist-item label="Full front, back, and side views" / />}}
+{{< interactive-modules/checklist-item label="Close-ups of any maker's marks or signatures" / />}}
+{{< interactive-modules/checklist-item label="Detail shots of decorative elements" / />}}
+{{< interactive-modules/checklist-item label="Areas showing condition issues or damage" / />}}
+{{< interactive-modules/checklist-item label="Hardware details (knobs, hinges, etc.)" / />}}
+{{< interactive-modules/checklist-item label="Inside drawers and cabinets" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Additionally, take precise measurements of your piece, including height, width, depth, and any other relevant dimensions. This information will be particularly important for online appraisals.

@@ -281,14 +281,14 @@ Sabre legs sweep outward like a cavalry sabre, typically curving away from the f
 According to the [Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100435487), the sabre leg "was first used on the classical Greek chair or klismos, and was revived for 18th- and 19th-century seat furniture, particularly during the Neoclassical period."
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Leg Authenticity Checklist" description="Use this checklist to assess whether furniture legs are original to the piece" >}}
-  {{< interactive-modules/checklist-item label="Consistent patina across all legs matches the rest of the piece" / / />}}
-  {{< interactive-modules/checklist-item label="Wood species matches between legs and the main body" / / />}}
-  {{< interactive-modules/checklist-item label="Joinery techniques are consistent with the period" / / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns are consistent and appropriate for the age" / / />}}
-  {{< interactive-modules/checklist-item label="No signs of modern fasteners or repair techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Proportions are appropriate for the style and period" / / />}}
-  {{< interactive-modules/checklist-item label="Tool marks are consistent with hand tools for pre-1860 pieces" / / />}}
-  {{< interactive-modules/checklist-item label="Hardware (if present) is appropriate for the period" / / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina across all legs matches the rest of the piece" / />}}
+  {{< interactive-modules/checklist-item label="Wood species matches between legs and the main body" / />}}
+  {{< interactive-modules/checklist-item label="Joinery techniques are consistent with the period" / />}}
+  {{< interactive-modules/checklist-item label="Wear patterns are consistent and appropriate for the age" / />}}
+  {{< interactive-modules/checklist-item label="No signs of modern fasteners or repair techniques" / />}}
+  {{< interactive-modules/checklist-item label="Proportions are appropriate for the style and period" / />}}
+  {{< interactive-modules/checklist-item label="Tool marks are consistent with hand tools for pre-1860 pieces" / />}}
+  {{< interactive-modules/checklist-item label="Hardware (if present) is appropriate for the period" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Leg Styles on Your Antique Furniture" level="2" >}}

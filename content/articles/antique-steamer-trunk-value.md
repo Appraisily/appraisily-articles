@@ -169,14 +169,14 @@ Beyond basic identification, several key factors significantly impact the market
 Condition remains the single most important factor in determining a steamer trunk's value. Use this checklist to evaluate your trunk:
 
 {{< interactive-modules/condition-checklist title="Steamer Trunk Condition Checklist" description="Check all items that apply to your trunk to assess its condition and potential value" >}}
-{{< interactive-modules/checklist-item label="Original hardware intact and functioning" / / />}}
-{{< interactive-modules/checklist-item label="Canvas/leather covering in good condition without major tears" / / />}}
-{{< interactive-modules/checklist-item label="Interior compartments and lining present and intact" / / />}}
-{{< interactive-modules/checklist-item label="Original lock with working key" / / />}}
-{{< interactive-modules/checklist-item label="Wood structure sound without warping or damage" / / />}}
-{{< interactive-modules/checklist-item label="Original tray/compartments present" / / />}}
-{{< interactive-modules/checklist-item label="Free from major odors, mold, or pest damage" / / />}}
-{{< interactive-modules/checklist-item label="Original manufacturer labels or markings visible" / / />}}
+{{< interactive-modules/checklist-item label="Original hardware intact and functioning" / />}}
+{{< interactive-modules/checklist-item label="Canvas/leather covering in good condition without major tears" / />}}
+{{< interactive-modules/checklist-item label="Interior compartments and lining present and intact" / />}}
+{{< interactive-modules/checklist-item label="Original lock with working key" / />}}
+{{< interactive-modules/checklist-item label="Wood structure sound without warping or damage" / />}}
+{{< interactive-modules/checklist-item label="Original tray/compartments present" / />}}
+{{< interactive-modules/checklist-item label="Free from major odors, mold, or pest damage" / />}}
+{{< interactive-modules/checklist-item label="Original manufacturer labels or markings visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to antique experts at [1stDibs](https://www.1stdibs.com/buy/antique-steamer-trunks/), "Steamer trunks can be worth as much as $3,000 depending on the quality and condition. Some renowned fashion houses, such as Goyard and Louis Vuitton, have produced steamer trunks that command even higher prices."

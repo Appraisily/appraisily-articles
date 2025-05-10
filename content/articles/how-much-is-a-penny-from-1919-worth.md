@@ -172,14 +172,14 @@ Coins with striking errors or recognized die varieties can be worth significantl
 Coins authenticated and graded by professional services like PCGS (Professional Coin Grading Service) or NGC (Numismatic Guaranty Corporation) often sell for premium prices due to the confidence they provide to buyers.
 
 {{< interactive-modules/condition-checklist title="1919 Wheat Penny Condition Assessment" description="Check applicable items to evaluate your coin's condition" >}}
-{{< interactive-modules/checklist-item label="Complete date and mint mark visible" / / />}}
-{{< interactive-modules/checklist-item label="Lincoln's hair details distinct" / / />}}
-{{< interactive-modules/checklist-item label="Wheat stalks clearly defined on reverse" / / />}}
-{{< interactive-modules/checklist-item label="Original copper color present (not cleaned)" / / />}}
-{{< interactive-modules/checklist-item label="No significant scratches or damage" / / />}}
-{{< interactive-modules/checklist-item label="Rim intact with no damage" / / />}}
-{{< interactive-modules/checklist-item label="Letters in 'LIBERTY' clearly visible" / / />}}
-{{< interactive-modules/checklist-item label="No green corrosion or spotting" / / />}}
+{{< interactive-modules/checklist-item label="Complete date and mint mark visible" / />}}
+{{< interactive-modules/checklist-item label="Lincoln's hair details distinct" / />}}
+{{< interactive-modules/checklist-item label="Wheat stalks clearly defined on reverse" / />}}
+{{< interactive-modules/checklist-item label="Original copper color present (not cleaned)" / />}}
+{{< interactive-modules/checklist-item label="No significant scratches or damage" / />}}
+{{< interactive-modules/checklist-item label="Rim intact with no damage" / />}}
+{{< interactive-modules/checklist-item label="Letters in 'LIBERTY' clearly visible" / />}}
+{{< interactive-modules/checklist-item label="No green corrosion or spotting" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="1919 (Philadelphia) Penny Value" level="2" >}}

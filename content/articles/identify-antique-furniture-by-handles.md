@@ -207,13 +207,13 @@ This era saw the full industrialization of hardware manufacturing, with mass pro
 ![Victorian era furniture hardware showing ornate brass pulls and porcelain knobs](https://ik.imagekit.io/appraisily/SEO/identify-antique-furniture-by-handles/identify-antique-furniture-by-handles-image-4_HSpnzS8XQ.png)
 
 {{< interactive-modules/condition-checklist title="Hardware Authenticity Assessment" description="Check these items to help determine if hardware is original to the piece" >}}
-  {{< interactive-modules/checklist-item label="Hardware shows consistent patina matching furniture age" / / />}}
-  {{< interactive-modules/checklist-item label="Mounting method matches the period (pins vs. screws)" / / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns on hardware align with furniture use" / / />}}
-  {{< interactive-modules/checklist-item label="Screw types match the period (handmade vs. machine-cut)" / / />}}
-  {{< interactive-modules/checklist-item label="Evidence of single set of mounting holes (no extra holes)" / / />}}
-  {{< interactive-modules/checklist-item label="Hardware style matches the furniture period and style" / / />}}
-  {{< interactive-modules/checklist-item label="Metal composition appropriate for the period" / / />}}
+  {{< interactive-modules/checklist-item label="Hardware shows consistent patina matching furniture age" / />}}
+  {{< interactive-modules/checklist-item label="Mounting method matches the period (pins vs. screws)" / />}}
+  {{< interactive-modules/checklist-item label="Wear patterns on hardware align with furniture use" / />}}
+  {{< interactive-modules/checklist-item label="Screw types match the period (handmade vs. machine-cut)" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of single set of mounting holes (no extra holes)" / />}}
+  {{< interactive-modules/checklist-item label="Hardware style matches the furniture period and style" / />}}
+  {{< interactive-modules/checklist-item label="Metal composition appropriate for the period" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Material Analysis: What Hardware Composition Reveals" level="2" >}}

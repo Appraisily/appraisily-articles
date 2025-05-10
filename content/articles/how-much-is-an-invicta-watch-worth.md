@@ -168,13 +168,13 @@ The materials used in construction significantly impact value:
 As with any timepiece, condition dramatically affects value:
 
 {{< interactive-modules/condition-checklist title="Invicta Watch Condition Assessment" description="Check applicable items to determine your watch's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Watch runs accurately and keeps proper time" / / />}}
-  {{< interactive-modules/checklist-item label="Crystal is clear with no scratches or cracks" / / />}}
-  {{< interactive-modules/checklist-item label="Case shows minimal wear with no deep scratches" / / />}}
-  {{< interactive-modules/checklist-item label="Bracelet/strap is intact with no damage" / / />}}
-  {{< interactive-modules/checklist-item label="All functions work properly (chronograph, date, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and papers included" / / />}}
-  {{< interactive-modules/checklist-item label="Watch has never been serviced by non-authorized technicians" / / />}}
+  {{< interactive-modules/checklist-item label="Watch runs accurately and keeps proper time" / />}}
+  {{< interactive-modules/checklist-item label="Crystal is clear with no scratches or cracks" / />}}
+  {{< interactive-modules/checklist-item label="Case shows minimal wear with no deep scratches" / />}}
+  {{< interactive-modules/checklist-item label="Bracelet/strap is intact with no damage" / />}}
+  {{< interactive-modules/checklist-item label="All functions work properly (chronograph, date, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Original box and papers included" / />}}
+  {{< interactive-modules/checklist-item label="Watch has never been serviced by non-authorized technicians" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Age and Rarity

@@ -258,11 +258,11 @@ The quality of your free online appraisal depends significantly on how you prese
 The old saying "a picture is worth a thousand words" couldn't be more accurate for online appraisals. Poor-quality images can lead to inaccurate valuations.
 
 {{< interactive-modules/condition-checklist title="Photo Checklist for Online Appraisals" description="Ensure your photos include these elements for the most accurate valuation" >}}
-  {{< interactive-modules/checklist-item label="Multiple angles (front, back, sides, bottom)" / / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of maker's marks, signatures, or hallmarks" / / />}}
-  {{< interactive-modules/checklist-item label="Well-lit, clear images without shadows obscuring details" / / />}}
-  {{< interactive-modules/checklist-item label="Images showing any damage or repair work" / / />}}
-  {{< interactive-modules/checklist-item label="Scale reference (ruler or coin) for size comparison" / / />}}
+  {{< interactive-modules/checklist-item label="Multiple angles (front, back, sides, bottom)" / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of maker's marks, signatures, or hallmarks" / />}}
+  {{< interactive-modules/checklist-item label="Well-lit, clear images without shadows obscuring details" / />}}
+  {{< interactive-modules/checklist-item label="Images showing any damage or repair work" / />}}
+  {{< interactive-modules/checklist-item label="Scale reference (ruler or coin) for size comparison" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Include Detailed Information

@@ -238,14 +238,14 @@ A professional appraisal culminates in a detailed written report that typically 
 - Terms and conditions of the appraisal
 
 {{< interactive-modules/condition-checklist title="Artwork Condition Assessment" description="Key factors that appraisers evaluate when determining condition" >}}
-  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" / / />}}
-  {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" / / />}}
-  {{< interactive-modules/checklist-item label="Evidence of previous restoration or conservation" / / />}}
-  {{< interactive-modules/checklist-item label="Frame condition and appropriateness" / / />}}
-  {{< interactive-modules/checklist-item label="Structural stability of the artwork" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of environmental damage (water, light, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Canvas tension and warping (for paintings)" / / />}}
-  {{< interactive-modules/checklist-item label="Signature clarity and authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" / />}}
+  {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of previous restoration or conservation" / />}}
+  {{< interactive-modules/checklist-item label="Frame condition and appropriateness" / />}}
+  {{< interactive-modules/checklist-item label="Structural stability of the artwork" / />}}
+  {{< interactive-modules/checklist-item label="Signs of environmental damage (water, light, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Canvas tension and warping (for paintings)" / />}}
+  {{< interactive-modules/checklist-item label="Signature clarity and authenticity" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Finding Qualified Art Appraisers" level="2" >}}

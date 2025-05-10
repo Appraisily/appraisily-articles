@@ -467,14 +467,14 @@ As noted in a discussion on [Reddit's r/Antiques](https://www.reddit.com/r/Antiq
 ![Close-up detail of aged patina and wear patterns on antique table legs](https://ik.imagekit.io/appraisily/SEO/identify-antique-table-legs/identify-antique-table-legs-image-5_1MFO6BRyq.png)
 
 {{< interactive-modules/condition-checklist title="Antique Table Leg Authentication Checklist" description="Use this checklist to assess potential antique table legs" >}}
-  {{< interactive-modules/checklist-item label="Leg style matches the purported period of the piece" / / />}}
-  {{< interactive-modules/checklist-item label="Construction shows hand tool marks appropriate to the era" / / />}}
-  {{< interactive-modules/checklist-item label="Wood has developed natural patina consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns appear in logical locations" / / />}}
-  {{< interactive-modules/checklist-item label="Joinery methods match period-appropriate techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Wood species is consistent with the claimed origin" / / />}}
-  {{< interactive-modules/checklist-item label="Any repairs use period-appropriate methods" / / />}}
-  {{< interactive-modules/checklist-item label="Wood shrinkage and aging appears consistent throughout" / / />}}
+  {{< interactive-modules/checklist-item label="Leg style matches the purported period of the piece" / />}}
+  {{< interactive-modules/checklist-item label="Construction shows hand tool marks appropriate to the era" / />}}
+  {{< interactive-modules/checklist-item label="Wood has developed natural patina consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Wear patterns appear in logical locations" / />}}
+  {{< interactive-modules/checklist-item label="Joinery methods match period-appropriate techniques" / />}}
+  {{< interactive-modules/checklist-item label="Wood species is consistent with the claimed origin" / />}}
+  {{< interactive-modules/checklist-item label="Any repairs use period-appropriate methods" / />}}
+  {{< interactive-modules/checklist-item label="Wood shrinkage and aging appears consistent throughout" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Special Considerations for Different Types of Tables

@@ -141,12 +141,12 @@ The process typically begins with a consultation where you discuss your artwork 
 The appraiser will examine the artwork, either in person or through high-quality photographs for online appraisals. They'll document:
 
 {{< interactive-modules/condition-checklist title="Artwork Examination Checklist" description="Elements assessed during professional appraisals" >}}
-  {{< interactive-modules/checklist-item label="Medium and technique" / />}}
-  {{< interactive-modules/checklist-item label="Dimensions and framing" / />}}
-  {{< interactive-modules/checklist-item label="Signature and date" / />}}
-  {{< interactive-modules/checklist-item label="Condition issues (damage, repairs)" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation" / />}}
-  {{< interactive-modules/checklist-item label="Exhibition history" / />}}
+  {{< interactive-modules/checklist-item label="Medium and technique" />}}
+  {{< interactive-modules/checklist-item label="Dimensions and framing" />}}
+  {{< interactive-modules/checklist-item label="Signature and date" />}}
+  {{< interactive-modules/checklist-item label="Condition issues (damage, repairs)" />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation" />}}
+  {{< interactive-modules/checklist-item label="Exhibition history" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Research and Analysis

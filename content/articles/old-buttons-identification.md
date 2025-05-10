@@ -199,14 +199,14 @@ The shank is often the most reliable indicator of a button's age:
 **Hand-Carved Buttons**: Look for slight irregularities and asymmetry indicating hand craftsmanship rather than machine production.
 
 {{< interactive-modules/condition-checklist title="Button Authentication Checklist" description="Use this checklist to help assess the age and authenticity of antique buttons" >}}
-  {{< interactive-modules/checklist-item label="Material appears consistent with claimed age" / / />}}
-  {{< interactive-modules/checklist-item label="Attachment method/shank style matches the time period" / / />}}
-  {{< interactive-modules/checklist-item label="Shows appropriate wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Patina, tarnish, or aging appears natural rather than artificial" / / />}}
-  {{< interactive-modules/checklist-item label="Any backmarks or maker's marks are appropriate for the period" / / />}}
-  {{< interactive-modules/checklist-item label="Design elements and motifs match the claimed era" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing techniques are consistent with the period" / / />}}
-  {{< interactive-modules/checklist-item label="Size is appropriate for the claimed use and era" / / />}}
+  {{< interactive-modules/checklist-item label="Material appears consistent with claimed age" / />}}
+  {{< interactive-modules/checklist-item label="Attachment method/shank style matches the time period" / />}}
+  {{< interactive-modules/checklist-item label="Shows appropriate wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Patina, tarnish, or aging appears natural rather than artificial" / />}}
+  {{< interactive-modules/checklist-item label="Any backmarks or maker's marks are appropriate for the period" / />}}
+  {{< interactive-modules/checklist-item label="Design elements and motifs match the claimed era" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturing techniques are consistent with the period" / />}}
+  {{< interactive-modules/checklist-item label="Size is appropriate for the claimed use and era" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Recognizing Important Makers and Marks" level="2" >}}

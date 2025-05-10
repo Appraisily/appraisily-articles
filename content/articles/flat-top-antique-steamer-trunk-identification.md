@@ -130,12 +130,12 @@ Authentic flat-top steamer trunks typically feature:
 The materials used in flat-top steamer trunks can provide important clues about their age and authenticity:
 
 {{< interactive-modules/condition-checklist title="Material Identification Checklist" description="Look for these common materials used in authentic flat-top steamer trunks" >}}
-  {{< interactive-modules/checklist-item label="Canvas covering (often treated with oil or paint)" / / />}}
-  {{< interactive-modules/checklist-item label="Leather trim or full leather covering" / / />}}
-  {{< interactive-modules/checklist-item label="Metal (typically tin) covering or embossed metal sheets" / / />}}
-  {{< interactive-modules/checklist-item label="Wooden slats reinforcing the exterior" / / />}}
-  {{< interactive-modules/checklist-item label="Pine or other softwood for the trunk body" / / />}}
-  {{< interactive-modules/checklist-item label="Metal hardware with a characteristic patina" / / />}}
+  {{< interactive-modules/checklist-item label="Canvas covering (often treated with oil or paint)" / />}}
+  {{< interactive-modules/checklist-item label="Leather trim or full leather covering" / />}}
+  {{< interactive-modules/checklist-item label="Metal (typically tin) covering or embossed metal sheets" / />}}
+  {{< interactive-modules/checklist-item label="Wooden slats reinforcing the exterior" / />}}
+  {{< interactive-modules/checklist-item label="Pine or other softwood for the trunk body" / />}}
+  {{< interactive-modules/checklist-item label="Metal hardware with a characteristic patina" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Many flat-top trunks were covered with canvas that was treated with oil, paint, or a combination to make it water-resistant. The canvas was often decorated with stripes or patterns, and in some cases, featured the manufacturer's name or logo.

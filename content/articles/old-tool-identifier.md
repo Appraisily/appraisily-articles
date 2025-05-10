@@ -131,13 +131,13 @@ Successful antique tool identification follows a methodical process. By examinin
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Tool Identification Checklist" description="Work through these steps when examining an unidentified antique tool" >}}
-  {{< interactive-modules/checklist-item label="Examine for maker's marks, stamps, or logos" / / />}}
-  {{< interactive-modules/checklist-item label="Identify the primary material (wood type, metal composition)" / / />}}
-  {{< interactive-modules/checklist-item label="Note construction methods (hand-forged, cast, machined)" / / />}}
-  {{< interactive-modules/checklist-item label="Determine the tool's intended function or trade" / / />}}
-  {{< interactive-modules/checklist-item label="Observe patina, wear patterns, and evidence of use" / / />}}
-  {{< interactive-modules/checklist-item label="Look for patent dates or numbers" / / />}}
-  {{< interactive-modules/checklist-item label="Check for design elements characteristic of specific periods" / / />}}
+  {{< interactive-modules/checklist-item label="Examine for maker's marks, stamps, or logos" / />}}
+  {{< interactive-modules/checklist-item label="Identify the primary material (wood type, metal composition)" / />}}
+  {{< interactive-modules/checklist-item label="Note construction methods (hand-forged, cast, machined)" / />}}
+  {{< interactive-modules/checklist-item label="Determine the tool's intended function or trade" / />}}
+  {{< interactive-modules/checklist-item label="Observe patina, wear patterns, and evidence of use" / />}}
+  {{< interactive-modules/checklist-item label="Look for patent dates or numbers" / />}}
+  {{< interactive-modules/checklist-item label="Check for design elements characteristic of specific periods" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Tools by Maker's Marks" level="2" >}}

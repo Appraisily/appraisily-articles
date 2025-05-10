@@ -283,16 +283,16 @@ These resources can help identify specific models:
 - The National Park Service's Museum Resource Center maintains a firearms identification guide
 
 {{< interactive-modules/condition-checklist title="Antique Gun Condition Assessment" description="Use this checklist to evaluate your antique firearm's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish is intact (80%+ for excellent condition)" / / />}}
-  {{< interactive-modules/checklist-item label="All markings and engravings are clear and legible" / / />}}
-  {{< interactive-modules/checklist-item label="Mechanical components function properly" / / />}}
-  {{< interactive-modules/checklist-item label="Bore is clean with strong rifling (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Wood components show no major cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="No replacement parts or non-original modifications" / / />}}
-  {{< interactive-modules/checklist-item label="Metal surfaces free from pitting or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Original screws with unmarred slots" / / />}}
-  {{< interactive-modules/checklist-item label="Period-correct ammunition components (if present)" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance or history available" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact (80%+ for excellent condition)" / />}}
+  {{< interactive-modules/checklist-item label="All markings and engravings are clear and legible" / />}}
+  {{< interactive-modules/checklist-item label="Mechanical components function properly" / />}}
+  {{< interactive-modules/checklist-item label="Bore is clean with strong rifling (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Wood components show no major cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="No replacement parts or non-original modifications" / />}}
+  {{< interactive-modules/checklist-item label="Metal surfaces free from pitting or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Original screws with unmarred slots" / />}}
+  {{< interactive-modules/checklist-item label="Period-correct ammunition components (if present)" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance or history available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Antique Gun Values by Type and Era" level="2" >}}

@@ -98,13 +98,13 @@ Machines made by certain manufacturers like Vendorlator are particularly sought 
 As with most collectibles, condition dramatically impacts value. Factors include:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Key factors that affect a vintage Pepsi machine's value" >}}
-  {{< interactive-modules/checklist-item label="Exterior condition (paint, decals, and logos intact)" / / />}}
-  {{< interactive-modules/checklist-item label="Interior condition (clean, free of rust)" / / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical components" / / />}}
-  {{< interactive-modules/checklist-item label="Functioning refrigeration system" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and parts" / / />}}
-  {{< interactive-modules/checklist-item label="Proper electrical system" / / />}}
-  {{< interactive-modules/checklist-item label="Door operation and seal integrity" / / />}}
+  {{< interactive-modules/checklist-item label="Exterior condition (paint, decals, and logos intact)" / />}}
+  {{< interactive-modules/checklist-item label="Interior condition (clean, free of rust)" / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical components" / />}}
+  {{< interactive-modules/checklist-item label="Functioning refrigeration system" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and parts" / />}}
+  {{< interactive-modules/checklist-item label="Proper electrical system" / />}}
+  {{< interactive-modules/checklist-item label="Door operation and seal integrity" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Restoration Status

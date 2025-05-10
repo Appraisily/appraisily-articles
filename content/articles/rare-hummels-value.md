@@ -277,14 +277,14 @@ The most critical factor in determining a Hummel's value is identifying its trad
 The condition of a Hummel figurine dramatically impacts its value. Use this checklist to assess your piece:
 
 {{< interactive-modules/condition-checklist title="Hummel Condition Assessment" description="Check all applicable items to determine condition grade" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with no wear" / / />}}
-  {{< interactive-modules/checklist-item label="No crazing (fine network of cracks in glaze)" / / />}}
-  {{< interactive-modules/checklist-item label="No fading or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="All parts intact (no missing elements)" / / />}}
-  {{< interactive-modules/checklist-item label="Original Goebel/Hummel box present" / / />}}
-  {{< interactive-modules/checklist-item label="Has accompanying certificates of authenticity" / / />}}
-  {{< interactive-modules/checklist-item label="Clean with no dust embedded in details" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with no wear" / />}}
+  {{< interactive-modules/checklist-item label="No crazing (fine network of cracks in glaze)" / />}}
+  {{< interactive-modules/checklist-item label="No fading or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="All parts intact (no missing elements)" / />}}
+  {{< interactive-modules/checklist-item label="Original Goebel/Hummel box present" / />}}
+  {{< interactive-modules/checklist-item label="Has accompanying certificates of authenticity" / />}}
+  {{< interactive-modules/checklist-item label="Clean with no dust embedded in details" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity Factors
@@ -386,14 +386,14 @@ As values for rare Hummels have increased, so has the prevalence of counterfeits
 ### Red Flags for Fake Hummels
 
 {{< interactive-modules/condition-checklist title="Counterfeit Warning Signs" description="Check for these telltale signs of fake Hummel figurines" >}}
-  {{< interactive-modules/checklist-item label="Incorrect trademark placement or appearance" / / />}}
-  {{< interactive-modules/checklist-item label="Mold lines in unusual locations" / / />}}
-  {{< interactive-modules/checklist-item label="Poor quality painting, especially in faces" / / />}}
-  {{< interactive-modules/checklist-item label="Unusual weight (too light or too heavy)" / / />}}
-  {{< interactive-modules/checklist-item label="Improper glazing or finish" / / />}}
-  {{< interactive-modules/checklist-item label="Inaccurate colors compared to authentic examples" / / />}}
-  {{< interactive-modules/checklist-item label="Missing incised model numbers" / / />}}
-  {{< interactive-modules/checklist-item label="Unusual material composition" / / />}}
+  {{< interactive-modules/checklist-item label="Incorrect trademark placement or appearance" / />}}
+  {{< interactive-modules/checklist-item label="Mold lines in unusual locations" / />}}
+  {{< interactive-modules/checklist-item label="Poor quality painting, especially in faces" / />}}
+  {{< interactive-modules/checklist-item label="Unusual weight (too light or too heavy)" / />}}
+  {{< interactive-modules/checklist-item label="Improper glazing or finish" / />}}
+  {{< interactive-modules/checklist-item label="Inaccurate colors compared to authentic examples" / />}}
+  {{< interactive-modules/checklist-item label="Missing incised model numbers" / />}}
+  {{< interactive-modules/checklist-item label="Unusual material composition" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Dr. Lori Verderame, an antiques expert, offers extensive guidance on [identifying fake Hummel figurines](https://www.youtube.com/watch?v=xc0bvOv4y7k), noting that counterfeiters often make mistakes in the facial details and trademark execution.
@@ -424,12 +424,12 @@ Proper care can help maintain or even increase the value of rare Hummel figurine
 ### Cleaning Guidelines
 
 {{< interactive-modules/condition-checklist title="Safe Cleaning Protocol" description="Follow these steps when cleaning valuable Hummels" >}}
-  {{< interactive-modules/checklist-item label="Use a soft, natural bristle brush for dusting" / / />}}
-  {{< interactive-modules/checklist-item label="Never use chemical cleaners or polishes" / / />}}
-  {{< interactive-modules/checklist-item label="If necessary, clean with distilled water only" / / />}}
-  {{< interactive-modules/checklist-item label="Dry immediately with soft, lint-free cloth" / / />}}
-  {{< interactive-modules/checklist-item label="Never submerge figurines in water" / / />}}
-  {{< interactive-modules/checklist-item label="Avoid touching painted surfaces during cleaning" / / />}}
+  {{< interactive-modules/checklist-item label="Use a soft, natural bristle brush for dusting" / />}}
+  {{< interactive-modules/checklist-item label="Never use chemical cleaners or polishes" / />}}
+  {{< interactive-modules/checklist-item label="If necessary, clean with distilled water only" / />}}
+  {{< interactive-modules/checklist-item label="Dry immediately with soft, lint-free cloth" / />}}
+  {{< interactive-modules/checklist-item label="Never submerge figurines in water" / />}}
+  {{< interactive-modules/checklist-item label="Avoid touching painted surfaces during cleaning" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Insurance Considerations

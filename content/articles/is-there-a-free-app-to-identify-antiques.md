@@ -258,11 +258,11 @@ For the best identification results:
 Before using an app, familiarize yourself with the key identifying features of different types of antiques:
 
 {{< interactive-modules/condition-checklist title="Pre-Identification Checklist" description="Check for these important elements before using an identification app" >}}
-  {{< interactive-modules/checklist-item label="Maker's marks, signatures, or stamps" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing techniques and materials" / / />}}
-  {{< interactive-modules/checklist-item label="Patina and signs of age appropriate to the period" / / />}}
-  {{< interactive-modules/checklist-item label="Style characteristics typical of specific eras" / / />}}
-  {{< interactive-modules/checklist-item label="Serial numbers or model identifiers" / / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks, signatures, or stamps" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturing techniques and materials" / />}}
+  {{< interactive-modules/checklist-item label="Patina and signs of age appropriate to the period" / />}}
+  {{< interactive-modules/checklist-item label="Style characteristics typical of specific eras" / />}}
+  {{< interactive-modules/checklist-item label="Serial numbers or model identifiers" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 3. Try Multiple Apps

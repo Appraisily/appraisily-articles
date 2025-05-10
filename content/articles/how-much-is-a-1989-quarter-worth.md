@@ -193,11 +193,11 @@ Beyond the mint mark, several other factors influence how much your 1989 quarter
 The condition of a coin has the most significant impact on its value. Numismatists use the Sheldon Scale to grade coins from 1 (Poor) to 70 (Perfect Uncirculated).
 
 {{< interactive-modules/condition-checklist title="1989 Quarter Condition Assessment" description="Check applicable items to estimate your coin's grade" >}}
-{{< interactive-modules/checklist-item label="No visible wear (Mint State)" / / />}}
-{{< interactive-modules/checklist-item label="Full mint luster present" / / />}}
-{{< interactive-modules/checklist-item label="No scratches or contact marks" / / />}}
-{{< interactive-modules/checklist-item label="Sharp design details and lettering" / / />}}
-{{< interactive-modules/checklist-item label="Clean fields (background areas)" / / />}}
+{{< interactive-modules/checklist-item label="No visible wear (Mint State)" / />}}
+{{< interactive-modules/checklist-item label="Full mint luster present" / />}}
+{{< interactive-modules/checklist-item label="No scratches or contact marks" / />}}
+{{< interactive-modules/checklist-item label="Sharp design details and lettering" / />}}
+{{< interactive-modules/checklist-item label="Clean fields (background areas)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Mint State Grading

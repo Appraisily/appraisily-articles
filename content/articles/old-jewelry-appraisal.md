@@ -105,11 +105,11 @@ A proper jewelry appraisal examines numerous aspects of your piece, including:
 Different situations call for different types of appraisals. Understanding which type you need is crucial for getting accurate information:
 
 {{< interactive-modules/condition-checklist title="Common Jewelry Appraisal Types" description="Select the type of appraisal that matches your needs" >}}
-  {{< interactive-modules/checklist-item label="Insurance Replacement Value: Determines the cost to replace with an item of similar quality" / / />}}
-  {{< interactive-modules/checklist-item label="Fair Market Value: Establishes what a willing buyer would pay a willing seller" / / />}}
-  {{< interactive-modules/checklist-item label="Estate Value: Used for inheritance, probate, and tax purposes" / / />}}
-  {{< interactive-modules/checklist-item label="Liquidation Value: Represents the amount expected in a forced or quick sale" / / />}}
-  {{< interactive-modules/checklist-item label="Donation Value: Establishes value for charitable contribution purposes" / / />}}
+  {{< interactive-modules/checklist-item label="Insurance Replacement Value: Determines the cost to replace with an item of similar quality" / />}}
+  {{< interactive-modules/checklist-item label="Fair Market Value: Establishes what a willing buyer would pay a willing seller" / />}}
+  {{< interactive-modules/checklist-item label="Estate Value: Used for inheritance, probate, and tax purposes" / />}}
+  {{< interactive-modules/checklist-item label="Liquidation Value: Represents the amount expected in a forced or quick sale" / />}}
+  {{< interactive-modules/checklist-item label="Donation Value: Establishes value for charitable contribution purposes" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of an appraiser examining antique jewelry with specialized tools](https://ik.imagekit.io/appraisily/SEO/old-jewelry-appraisal/old-jewelry-appraisal-image-2_uxcQ_0Whp.png)

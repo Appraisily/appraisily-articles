@@ -186,13 +186,13 @@ Different companies have manufactured licensed Mickey Mouse watches throughout t
 According to information from [wikiHow](https://www.wikihow.com/Date-a-Mickey-Mouse-Watch), one of the most reliable ways to identify a vintage Mickey Mouse watch is by examining the case back and movement for markings indicating the manufacturer and country of origin.
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use these criteria to help authenticate vintage Mickey Mouse watches" >}}
-  {{< interactive-modules/checklist-item label="Trademark markings (Ingersoll, Disney, etc.) are present on dial, movement, or case back" / />}}
-  {{< interactive-modules/checklist-item label="Hand design matches the appropriate era (character hands vs. standard hands)" / />}}
-  {{< interactive-modules/checklist-item label="Case material is consistent with the purported age (base metal, stainless steel, gold-filled)" / />}}
-  {{< interactive-modules/checklist-item label="Movement type matches the claimed production period" / />}}
-  {{< interactive-modules/checklist-item label="Dial typography and design elements match reference examples from the period" / />}}
-  {{< interactive-modules/checklist-item label="Serial numbers (when present) fall within known production ranges" / />}}
-  {{< interactive-modules/checklist-item label="For early pieces, 'Made in USA' marking is present (pre-1960s models)" / />}}
+  {{< interactive-modules/checklist-item label="Trademark markings (Ingersoll, Disney, etc.) are present on dial, movement, or case back" />}}
+  {{< interactive-modules/checklist-item label="Hand design matches the appropriate era (character hands vs. standard hands)" />}}
+  {{< interactive-modules/checklist-item label="Case material is consistent with the purported age (base metal, stainless steel, gold-filled)" />}}
+  {{< interactive-modules/checklist-item label="Movement type matches the claimed production period" />}}
+  {{< interactive-modules/checklist-item label="Dial typography and design elements match reference examples from the period" />}}
+  {{< interactive-modules/checklist-item label="Serial numbers (when present) fall within known production ranges" />}}
+  {{< interactive-modules/checklist-item label="For early pieces, 'Made in USA' marking is present (pre-1960s models)" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### How to Spot Reproductions and Fakes

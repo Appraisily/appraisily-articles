@@ -152,11 +152,11 @@ These ceramic figurine decanters were typically released as limited editions, an
 - Holiday-themed decanters
 
 {{< interactive-modules/condition-checklist title="Novelty Decanter Condition Checklist" description="Check applicable items when assessing a novelty decanter" >}}
-  {{< interactive-modules/checklist-item label="Original packaging or box present" / / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original seal and tax stamp intact" / / />}}
-  {{< interactive-modules/checklist-item label="Paint and decoration in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents (if unopened)" / / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or box present" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original seal and tax stamp intact" / />}}
+  {{< interactive-modules/checklist-item label="Paint and decoration in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Original contents (if unopened)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Crystal and Fine Glass Decanters
@@ -487,11 +487,11 @@ Proper care ensures your collection maintains its value:
 4. **Handling Precautions**: Always handle decanters by the body rather than delicate elements like stoppers or handles.
 
 {{< interactive-modules/condition-checklist title="Collection Maintenance Checklist" description="Regular maintenance tasks for whiskey decanter collections" >}}
-  {{< interactive-modules/checklist-item label="Dust items quarterly with a soft microfiber cloth" / / />}}
-  {{< interactive-modules/checklist-item label="Check crystal decanters annually for cloudiness or cracks" / / />}}
-  {{< interactive-modules/checklist-item label="Verify display lighting doesn't generate excessive heat" / / />}}
-  {{< interactive-modules/checklist-item label="Maintain inventory with photos and condition notes" / / />}}
-  {{< interactive-modules/checklist-item label="Monitor humidity levels in display areas" / / />}}
+  {{< interactive-modules/checklist-item label="Dust items quarterly with a soft microfiber cloth" / />}}
+  {{< interactive-modules/checklist-item label="Check crystal decanters annually for cloudiness or cracks" / />}}
+  {{< interactive-modules/checklist-item label="Verify display lighting doesn't generate excessive heat" / />}}
+  {{< interactive-modules/checklist-item label="Maintain inventory with photos and condition notes" / />}}
+  {{< interactive-modules/checklist-item label="Monitor humidity levels in display areas" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Modern Market Trends" level="2" >}}

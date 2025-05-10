@@ -298,15 +298,15 @@ Some Holiday Barbies were produced in smaller quantities or as special limited e
 Complete collections of Holiday Barbies spanning multiple years or even the entire series (1988 to present) can sometimes command premium prices compared to individual dolls. According to [eBay listings](https://www.ebay.com/itm/185539097843), some sellers offer complete multi-year collections for serious collectors.
 
 {{< interactive-modules/condition-checklist title="Holiday Barbie Value Assessment Checklist" description="Check all applicable items to help determine your doll's potential value" >}}
-  {{< interactive-modules/checklist-item label="Doll is still sealed in original packaging (NRFB)" / / />}}
-  {{< interactive-modules/checklist-item label="Box is in excellent condition with no damage or fading" / / />}}
-  {{< interactive-modules/checklist-item label="All original accessories and paperwork are present" / / />}}
-  {{< interactive-modules/checklist-item label="Doll is from pre-1995 (earlier releases tend to be more valuable)" / / />}}
-  {{< interactive-modules/checklist-item label="Doll is a known rare variant or limited edition" / / />}}
-  {{< interactive-modules/checklist-item label="Doll has a production error or misprint" / / />}}
-  {{< interactive-modules/checklist-item label="Doll's hair and clothing are in perfect condition" / / />}}
-  {{< interactive-modules/checklist-item label="Doll has original tags still attached" / / />}}
-  {{< interactive-modules/checklist-item label="Doll is part of a complete year collection series" / / />}}
+  {{< interactive-modules/checklist-item label="Doll is still sealed in original packaging (NRFB)" / />}}
+  {{< interactive-modules/checklist-item label="Box is in excellent condition with no damage or fading" / />}}
+  {{< interactive-modules/checklist-item label="All original accessories and paperwork are present" / />}}
+  {{< interactive-modules/checklist-item label="Doll is from pre-1995 (earlier releases tend to be more valuable)" / />}}
+  {{< interactive-modules/checklist-item label="Doll is a known rare variant or limited edition" / />}}
+  {{< interactive-modules/checklist-item label="Doll has a production error or misprint" / />}}
+  {{< interactive-modules/checklist-item label="Doll's hair and clothing are in perfect condition" / />}}
+  {{< interactive-modules/checklist-item label="Doll has original tags still attached" / />}}
+  {{< interactive-modules/checklist-item label="Doll is part of a complete year collection series" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Rare and Most Valuable Holiday Barbies" level="2" >}}

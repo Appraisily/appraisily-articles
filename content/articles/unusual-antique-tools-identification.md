@@ -419,15 +419,15 @@ Condition dramatically affects the value of antique tools, with collectors typic
 6. **Maker's Marks**: Clear, legible marks increase value significantly compared to tools with worn or missing marks.
 
 {{< interactive-modules/condition-checklist title="Unusual Antique Tool Condition Assessment" description="Use this checklist to evaluate the condition of unusual antique tools" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact (japanning, paint, or plating)" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible maker's marks" / / />}}
-  {{< interactive-modules/checklist-item label="Original wooden components without cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical components" / / />}}
-  {{< interactive-modules/checklist-item label="Free from significant rust or pitting" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (screws, rivets, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with all parts and attachments" / / />}}
-  {{< interactive-modules/checklist-item label="Original handles with good patina" / / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (japanning, paint, or plating)" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible maker's marks" / />}}
+  {{< interactive-modules/checklist-item label="Original wooden components without cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical components" / />}}
+  {{< interactive-modules/checklist-item label="Free from significant rust or pitting" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (screws, rivets, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Complete with all parts and attachments" / />}}
+  {{< interactive-modules/checklist-item label="Original handles with good patina" / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Current Market Trends for Unusual Tools

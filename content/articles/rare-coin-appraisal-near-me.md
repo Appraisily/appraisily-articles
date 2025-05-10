@@ -173,14 +173,14 @@ Before contacting any coin appraiser:
 3. **Check Specializations**: Some appraisers specialize in particular eras or types of coins. Find someone with expertise relevant to your collection.
 
 {{< interactive-modules/condition-checklist title="Coin Appraiser Vetting Checklist" description="Use this checklist when evaluating potential appraisers" >}}
-{{< interactive-modules/checklist-item label="Member of professional numismatic organizations (ANA, PNG)" / / />}}
-{{< interactive-modules/checklist-item label="Positive reviews and references from other collectors" / / />}}
-{{< interactive-modules/checklist-item label="Years of experience in numismatics" / / />}}
-{{< interactive-modules/checklist-item label="Transparent about appraisal fees and process" / / />}}
-{{< interactive-modules/checklist-item label="Maintains updated reference materials and price guides" / / />}}
-{{< interactive-modules/checklist-item label="Has experience with coins similar to yours" / / />}}
-{{< interactive-modules/checklist-item label="Provides detailed written appraisals" / / />}}
-{{< interactive-modules/checklist-item label="No pressure to sell your coins to them" / / />}}
+{{< interactive-modules/checklist-item label="Member of professional numismatic organizations (ANA, PNG)" / />}}
+{{< interactive-modules/checklist-item label="Positive reviews and references from other collectors" / />}}
+{{< interactive-modules/checklist-item label="Years of experience in numismatics" / />}}
+{{< interactive-modules/checklist-item label="Transparent about appraisal fees and process" / />}}
+{{< interactive-modules/checklist-item label="Maintains updated reference materials and price guides" / />}}
+{{< interactive-modules/checklist-item label="Has experience with coins similar to yours" / />}}
+{{< interactive-modules/checklist-item label="Provides detailed written appraisals" / />}}
+{{< interactive-modules/checklist-item label="No pressure to sell your coins to them" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Collection of rare coins displayed for professional appraisal](https://ik.imagekit.io/appraisily/SEO/rare-coin-appraisal-near-me/rare-coin-appraisal-near-me-image-3_3CelFi1o_.png)

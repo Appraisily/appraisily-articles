@@ -205,13 +205,13 @@ The age of a dry sink significantly impacts its value. Generally, pieces from th
 The materials and construction techniques provide important clues about a dry sink's age, origin, and value:
 
 {{< interactive-modules/condition-checklist title="Construction Assessment" description="Check these construction features to help determine authenticity and quality" >}}
-  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints (higher value)" / / />}}
-  {{< interactive-modules/checklist-item label="Square nails rather than modern round nails" / / />}}
-  {{< interactive-modules/checklist-item label="Solid wood construction (not plywood or composite materials)" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and fittings" / / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand planing on surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="Zinc, copper, or soapstone lined basin area" / / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns consistent with age and use" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints (higher value)" / />}}
+  {{< interactive-modules/checklist-item label="Square nails rather than modern round nails" / />}}
+  {{< interactive-modules/checklist-item label="Solid wood construction (not plywood or composite materials)" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and fittings" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand planing on surfaces" / />}}
+  {{< interactive-modules/checklist-item label="Zinc, copper, or soapstone lined basin area" / />}}
+  {{< interactive-modules/checklist-item label="Wear patterns consistent with age and use" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As discussed in a [Houzz forum thread](https://www.houzz.com/discussions/5217266/vintage-dry-sink-determining-age-and-style-without-dovetails), not all authentic antique dry sinks feature dovetail joints. Some legitimate pieces, especially more primitive or rustic examples, may use simpler joining methods but still hold significant value.

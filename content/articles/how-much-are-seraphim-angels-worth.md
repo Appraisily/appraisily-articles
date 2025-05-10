@@ -121,13 +121,13 @@ Various elements can influence how much a Seraphim Angel is worth on the seconda
 The condition of a Seraphim Angel is perhaps the most significant factor affecting its value. Collectors prefer figurines that are:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Maximum Value" description="Check these elements when evaluating your Seraphim Angels" >}}
-  {{< interactive-modules/checklist-item label="Free from chips, cracks, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint with no fading or wear" / / />}}
-  {{< interactive-modules/checklist-item label="All delicate parts (wings, hands) intact" / / />}}
-  {{< interactive-modules/checklist-item label="Clean with no stains or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and packaging present" / / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity included" / / />}}
-  {{< interactive-modules/checklist-item label="Original tags attached" / / />}}
+  {{< interactive-modules/checklist-item label="Free from chips, cracks, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original paint with no fading or wear" / />}}
+  {{< interactive-modules/checklist-item label="All delicate parts (wings, hands) intact" / />}}
+  {{< interactive-modules/checklist-item label="Clean with no stains or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="Original box and packaging present" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity included" / />}}
+  {{< interactive-modules/checklist-item label="Original tags attached" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Production Status

@@ -137,14 +137,14 @@ Multiple elements influence the market value of a vintage Pulsar watch beyond si
 The condition of a vintage Pulsar watch is perhaps the most significant value determinant:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Features that affect a vintage Pulsar watch's value" >}}
-  {{< interactive-modules/checklist-item label="Working Movement" / / />}}
-  {{< interactive-modules/checklist-item label="Original Bracelet Present" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal Wear to Case and Crystal" / / />}}
-  {{< interactive-modules/checklist-item label="Functioning LED Display (for LED models)" / / />}}
-  {{< interactive-modules/checklist-item label="Original Box and Papers Included" / / />}}
-  {{< interactive-modules/checklist-item label="No Moisture Damage or Corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Original Dial in Good Condition" / / />}}
-  {{< interactive-modules/checklist-item label="No Aftermarket Modifications" / / />}}
+  {{< interactive-modules/checklist-item label="Working Movement" / />}}
+  {{< interactive-modules/checklist-item label="Original Bracelet Present" / />}}
+  {{< interactive-modules/checklist-item label="Minimal Wear to Case and Crystal" / />}}
+  {{< interactive-modules/checklist-item label="Functioning LED Display (for LED models)" / />}}
+  {{< interactive-modules/checklist-item label="Original Box and Papers Included" / />}}
+  {{< interactive-modules/checklist-item label="No Moisture Damage or Corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Original Dial in Good Condition" / />}}
+  {{< interactive-modules/checklist-item label="No Aftermarket Modifications" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 A working watch in excellent cosmetic condition with its original bracelet can command significantly higher prices than a non-functional example with heavy wear. For LED models, a fully functioning display is essential, as repairs can be difficult and costly.

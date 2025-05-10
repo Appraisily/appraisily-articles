@@ -176,14 +176,14 @@ Certain manufacturers built reputations for quality, innovation, or exceptional 
 The physical and operational condition of an antique radio significantly impacts its value. Radios in original, working condition command much higher prices than those with damage or modifications.
 
 {{< interactive-modules/condition-checklist title="Antique Radio Condition Assessment" description="Use this checklist to evaluate your radio's condition and its potential value" >}}
-  {{< interactive-modules/checklist-item label="Cabinet is free from cracks, chips, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact and not refinished" / / />}}
-  {{< interactive-modules/checklist-item label="All knobs and controls are original and present" / / />}}
-  {{< interactive-modules/checklist-item label="Dial glass and face are intact without damage" / / />}}
-  {{< interactive-modules/checklist-item label="Electronic components appear undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Radio powers on and receives stations" / / />}}
-  {{< interactive-modules/checklist-item label="Speaker produces clear sound without distortion" / / />}}
-  {{< interactive-modules/checklist-item label="Original documentation or packaging is present" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet is free from cracks, chips, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact and not refinished" / />}}
+  {{< interactive-modules/checklist-item label="All knobs and controls are original and present" / />}}
+  {{< interactive-modules/checklist-item label="Dial glass and face are intact without damage" / />}}
+  {{< interactive-modules/checklist-item label="Electronic components appear undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Radio powers on and receives stations" / />}}
+  {{< interactive-modules/checklist-item label="Speaker produces clear sound without distortion" / />}}
+  {{< interactive-modules/checklist-item label="Original documentation or packaging is present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Scarcity

@@ -150,13 +150,13 @@ Ledan's work spans various media, with significant price variations between them
 The condition of a Fanch Ledan artwork significantly impacts its value. Collectors and appraisers should examine:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist for Fanch Ledan Artwork" description="Factors to consider when evaluating the condition of a Ledan piece" >}}
-    {{< interactive-modules/checklist-item label="Colors remain vibrant with no fading" / / />}}
-    {{< interactive-modules/checklist-item label="No visible scratches or surface damage" / / />}}
-    {{< interactive-modules/checklist-item label="Paper or canvas shows no discoloration or foxing" / / />}}
-    {{< interactive-modules/checklist-item label="Proper framing with archival materials" / / />}}
-    {{< interactive-modules/checklist-item label="No evidence of moisture damage or warping" / / />}}
-    {{< interactive-modules/checklist-item label="Original signature intact and legible" / / />}}
-    {{< interactive-modules/checklist-item label="Certificate of authenticity present" / / />}}
+    {{< interactive-modules/checklist-item label="Colors remain vibrant with no fading" / />}}
+    {{< interactive-modules/checklist-item label="No visible scratches or surface damage" / />}}
+    {{< interactive-modules/checklist-item label="Paper or canvas shows no discoloration or foxing" / />}}
+    {{< interactive-modules/checklist-item label="Proper framing with archival materials" / />}}
+    {{< interactive-modules/checklist-item label="No evidence of moisture damage or warping" / />}}
+    {{< interactive-modules/checklist-item label="Original signature intact and legible" / />}}
+    {{< interactive-modules/checklist-item label="Certificate of authenticity present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authentication Elements

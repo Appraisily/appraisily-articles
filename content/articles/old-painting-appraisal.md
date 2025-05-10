@@ -212,14 +212,14 @@ Generally, larger paintings by the same artist command higher prices than smalle
 Paintings that capture important historical moments, represent significant artistic movements, or offer cultural insights often carry additional value beyond their pure aesthetic qualities.
 
 {{< interactive-modules/condition-checklist title="Painting Condition Assessment" description="Check applicable items to evaluate your artwork's condition" >}}
-  {{< interactive-modules/checklist-item label="No visible cracks or crazing in the paint surface" / / />}}
-  {{< interactive-modules/checklist-item label="Canvas is taut with no tears or sagging" / / />}}
-  {{< interactive-modules/checklist-item label="No visible overpainting or improper restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Colors remain vibrant without significant fading" / / />}}
-  {{< interactive-modules/checklist-item label="Original frame in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage or mold present" / / />}}
-  {{< interactive-modules/checklist-item label="Painting is clean without significant dirt accumulation" / / />}}
-  {{< interactive-modules/checklist-item label="Back of canvas/support is intact and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="No visible cracks or crazing in the paint surface" / />}}
+  {{< interactive-modules/checklist-item label="Canvas is taut with no tears or sagging" / />}}
+  {{< interactive-modules/checklist-item label="No visible overpainting or improper restoration" / />}}
+  {{< interactive-modules/checklist-item label="Colors remain vibrant without significant fading" / />}}
+  {{< interactive-modules/checklist-item label="Original frame in good condition" / />}}
+  {{< interactive-modules/checklist-item label="No water damage or mold present" / />}}
+  {{< interactive-modules/checklist-item label="Painting is clean without significant dirt accumulation" / />}}
+  {{< interactive-modules/checklist-item label="Back of canvas/support is intact and undamaged" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Get Your Paintings Appraised" level="2" >}}

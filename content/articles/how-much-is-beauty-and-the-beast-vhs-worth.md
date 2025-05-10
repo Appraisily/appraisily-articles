@@ -139,13 +139,13 @@ While most copies aren't worth thousands, certain factors can significantly incr
 Several specific characteristics contribute to a Beauty and the Beast VHS tape's potential value:
 
 {{< interactive-modules/condition-checklist title="Value-Adding Features" description="Features that can increase your Beauty and the Beast VHS value" >}}
-  {{< interactive-modules/checklist-item label="Original sealed condition (never opened)" / / />}}
-  {{< interactive-modules/checklist-item label="Black Diamond logo on spine (1992 release)" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with original inserts and promotional materials" / / />}}
-  {{< interactive-modules/checklist-item label="Special edition or limited releases" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing errors or misprints" / / />}}
-  {{< interactive-modules/checklist-item label="Pristine clamshell case with no cracks or yellowing" / / />}}
-  {{< interactive-modules/checklist-item label="Original receipts or purchase documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Original sealed condition (never opened)" / />}}
+  {{< interactive-modules/checklist-item label="Black Diamond logo on spine (1992 release)" / />}}
+  {{< interactive-modules/checklist-item label="Complete with original inserts and promotional materials" / />}}
+  {{< interactive-modules/checklist-item label="Special edition or limited releases" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturing errors or misprints" / />}}
+  {{< interactive-modules/checklist-item label="Pristine clamshell case with no cracks or yellowing" / />}}
+  {{< interactive-modules/checklist-item label="Original receipts or purchase documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The condition is paramount when assessing value. According to the [JustAnswer appraisal service](https://www.justanswer.com/appraisals/mdaze-disney-vhs-movie-beauty-beast.html), even Black Diamond editions in poor condition hold little to no value beyond basic nostalgia.

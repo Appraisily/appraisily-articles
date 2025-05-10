@@ -222,15 +222,15 @@ Certain aesthetic styles have stronger collector appeal:
 Documented history, especially celebrity ownership or historical significance, can dramatically increase value.
 
 {{< interactive-modules/condition-checklist title="Record Player Cabinet Condition Assessment" description="Use this checklist to evaluate the condition of your vintage record player cabinet" >}}
-  {{< interactive-modules/checklist-item label="Cabinet has original finish with no refinishing" / / />}}
-  {{< interactive-modules/checklist-item label="Wood veneer is intact with no chips, peeling, or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (knobs, hinges, feet) are present" / / />}}
-  {{< interactive-modules/checklist-item label="Record player mechanism functions properly" / / />}}
-  {{< interactive-modules/checklist-item label="Speakers produce clear sound without distortion" / / />}}
-  {{< interactive-modules/checklist-item label="Radio components work (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Interior compartments are clean and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage, mold, or odors present" / / />}}
-  {{< interactive-modules/checklist-item label="Original documentation or manuals included" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet has original finish with no refinishing" / />}}
+  {{< interactive-modules/checklist-item label="Wood veneer is intact with no chips, peeling, or damage" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (knobs, hinges, feet) are present" / />}}
+  {{< interactive-modules/checklist-item label="Record player mechanism functions properly" / />}}
+  {{< interactive-modules/checklist-item label="Speakers produce clear sound without distortion" / />}}
+  {{< interactive-modules/checklist-item label="Radio components work (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Interior compartments are clean and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No water damage, mold, or odors present" / />}}
+  {{< interactive-modules/checklist-item label="Original documentation or manuals included" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Market Prices for Antique Record Player Cabinets" level="2" >}}

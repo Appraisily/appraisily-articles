@@ -151,15 +151,15 @@ Proper identification of archaeological artifacts serves multiple critical purpo
 Before examining potential archaeological artifacts, having the right tools will significantly improve your identification capabilities. While professional archaeologists and conservators have access to sophisticated laboratory equipment, collectors and enthusiasts can use these basic tools to conduct initial assessments:
 
 {{< interactive-modules/condition-checklist title="Essential Artifact Identification Tools" description="Basic equipment for examining and identifying archaeological artifacts" >}}
-  {{< interactive-modules/checklist-item label="Magnifying glass or loupe (10x to 30x magnification)" / / />}}
-  {{< interactive-modules/checklist-item label="Digital precision calipers for accurate measurements" / / />}}
-  {{< interactive-modules/checklist-item label="Digital scale for weight measurements" / / />}}
-  {{< interactive-modules/checklist-item label="Soft brushes for gentle cleaning" / / />}}
-  {{< interactive-modules/checklist-item label="Good lighting (natural daylight or adjustable desk lamp)" / / />}}
-  {{< interactive-modules/checklist-item label="Digital camera for documentation" / / />}}
-  {{< interactive-modules/checklist-item label="Clean workspace with white background" / / />}}
-  {{< interactive-modules/checklist-item label="Reference materials (books, identification guides)" / / />}}
-  {{< interactive-modules/checklist-item label="Notebook for recording observations" / / />}}
+  {{< interactive-modules/checklist-item label="Magnifying glass or loupe (10x to 30x magnification)" / />}}
+  {{< interactive-modules/checklist-item label="Digital precision calipers for accurate measurements" / />}}
+  {{< interactive-modules/checklist-item label="Digital scale for weight measurements" / />}}
+  {{< interactive-modules/checklist-item label="Soft brushes for gentle cleaning" / />}}
+  {{< interactive-modules/checklist-item label="Good lighting (natural daylight or adjustable desk lamp)" / />}}
+  {{< interactive-modules/checklist-item label="Digital camera for documentation" / />}}
+  {{< interactive-modules/checklist-item label="Clean workspace with white background" / />}}
+  {{< interactive-modules/checklist-item label="Reference materials (books, identification guides)" / />}}
+  {{< interactive-modules/checklist-item label="Notebook for recording observations" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For more advanced examination, specialized equipment may be necessary, though these typically require professional training to use effectively:

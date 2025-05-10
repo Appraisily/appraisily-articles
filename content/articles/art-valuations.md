@@ -151,13 +151,13 @@ The medium and materials used affect an artwork's value:
 - Size and scale of the work
 
 {{< interactive-modules/condition-checklist title="Art Condition Assessment Factors" description="Key elements appraisers evaluate when assessing artwork condition" >}}
-    {{< interactive-modules/checklist-item label="Surface integrity (free of cracks, flaking)" / / />}}
-    {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" / / />}}
-    {{< interactive-modules/checklist-item label="Structural stability and support" / / />}}
-    {{< interactive-modules/checklist-item label="Previous restoration or conservation work" / / />}}
-    {{< interactive-modules/checklist-item label="Frame condition (if original)" / / />}}
-    {{< interactive-modules/checklist-item label="Evidence of environmental damage" / / />}}
-    {{< interactive-modules/checklist-item label="Signature clarity and authenticity" / / />}}
+    {{< interactive-modules/checklist-item label="Surface integrity (free of cracks, flaking)" / />}}
+    {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" / />}}
+    {{< interactive-modules/checklist-item label="Structural stability and support" / />}}
+    {{< interactive-modules/checklist-item label="Previous restoration or conservation work" / />}}
+    {{< interactive-modules/checklist-item label="Frame condition (if original)" / />}}
+    {{< interactive-modules/checklist-item label="Evidence of environmental damage" / />}}
+    {{< interactive-modules/checklist-item label="Signature clarity and authenticity" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Market Trends and Demand

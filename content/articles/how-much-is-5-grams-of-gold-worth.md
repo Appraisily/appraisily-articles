@@ -227,13 +227,13 @@ Examining the advantages and limitations of investing in 5 gram gold bars compar
 - **Authentication Concerns**: Smaller bars can be more frequently counterfeited, making verification important.
 
 {{< interactive-modules/condition-checklist title="5 Gram Gold Bar Authentication Checklist" description="Key indicators to verify the authenticity of a 5 gram gold bar" >}}
-  {{< interactive-modules/checklist-item label="Bar has clear mint marks and serial numbers" / / />}}
-  {{< interactive-modules/checklist-item label="Weight matches exactly 5 grams on a precise scale" / / />}}
-  {{< interactive-modules/checklist-item label="Bar dimensions match manufacturer specifications" / / />}}
-  {{< interactive-modules/checklist-item label="Security features (holograms, micro-text) are present and clear" / / />}}
-  {{< interactive-modules/checklist-item label="Assay card or certificate is included with matching details" / / />}}
-  {{< interactive-modules/checklist-item label="Bar passes basic tests (e.g., magnetism, ping test)" / / />}}
-  {{< interactive-modules/checklist-item label="Purchased from a reputable, established dealer" / / />}}
+  {{< interactive-modules/checklist-item label="Bar has clear mint marks and serial numbers" / />}}
+  {{< interactive-modules/checklist-item label="Weight matches exactly 5 grams on a precise scale" / />}}
+  {{< interactive-modules/checklist-item label="Bar dimensions match manufacturer specifications" / />}}
+  {{< interactive-modules/checklist-item label="Security features (holograms, micro-text) are present and clear" / />}}
+  {{< interactive-modules/checklist-item label="Assay card or certificate is included with matching details" / />}}
+  {{< interactive-modules/checklist-item label="Bar passes basic tests (e.g., magnetism, ping test)" / />}}
+  {{< interactive-modules/checklist-item label="Purchased from a reputable, established dealer" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Buying and Selling 5 Gram Gold Bars" level="2" >}}

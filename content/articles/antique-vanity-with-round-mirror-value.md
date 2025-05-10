@@ -254,14 +254,14 @@ Look closely at the materials used:
 - **Finish Type**: Early 20th century pieces often used shellac or varnish finishes rather than modern polyurethane
 
 {{< interactive-modules/condition-checklist title="Antique Vanity Authentication Checklist" description="Use this checklist to help determine if your vanity is a genuine antique" >}}
-  {{< interactive-modules/checklist-item label="Dovetail joints visible in drawer construction" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (knobs, pulls, hinges) intact" / / />}}
-  {{< interactive-modules/checklist-item label="Mirror glass shows age-appropriate waviness or imperfections" / / />}}
-  {{< interactive-modules/checklist-item label="Wood shows consistent patina across all surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="Construction uses period-appropriate wood types" / / />}}
-  {{< interactive-modules/checklist-item label="Furniture shows signs of wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="No modern materials (particleboard, plywood, plastic elements)" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish (not recently refinished)" / / />}}
+  {{< interactive-modules/checklist-item label="Dovetail joints visible in drawer construction" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (knobs, pulls, hinges) intact" / />}}
+  {{< interactive-modules/checklist-item label="Mirror glass shows age-appropriate waviness or imperfections" / />}}
+  {{< interactive-modules/checklist-item label="Wood shows consistent patina across all surfaces" / />}}
+  {{< interactive-modules/checklist-item label="Construction uses period-appropriate wood types" / />}}
+  {{< interactive-modules/checklist-item label="Furniture shows signs of wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="No modern materials (particleboard, plywood, plastic elements)" / />}}
+  {{< interactive-modules/checklist-item label="Original finish (not recently refinished)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Tips for Preserving Value" level="2" >}}

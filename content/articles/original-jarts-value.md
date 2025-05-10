@@ -143,12 +143,12 @@ The most collectible and valuable Jarts were produced by:
 ### Key Identification Features
 
 {{< interactive-modules/condition-checklist title="Authentic Original Jarts Checklist" description="Look for these features when identifying genuine vintage Jarts:" >}}
-  {{< interactive-modules/checklist-item label="Heavy metal tips with substantial weight" / / />}}
-  {{< interactive-modules/checklist-item label="Plastic fins in bright colors (typically yellow, red, blue, or green)" / / />}}
-  {{< interactive-modules/checklist-item label="Original packaging with 'Jarts' branding" / / />}}
-  {{< interactive-modules/checklist-item label="Plastic ring targets in matching colors to the darts" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing date before 1988" / / />}}
-  {{< interactive-modules/checklist-item label="No safety modifications to the metal tips" / / />}}
+  {{< interactive-modules/checklist-item label="Heavy metal tips with substantial weight" / />}}
+  {{< interactive-modules/checklist-item label="Plastic fins in bright colors (typically yellow, red, blue, or green)" / />}}
+  {{< interactive-modules/checklist-item label="Original packaging with 'Jarts' branding" / />}}
+  {{< interactive-modules/checklist-item label="Plastic ring targets in matching colors to the darts" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturing date before 1988" / />}}
+  {{< interactive-modules/checklist-item label="No safety modifications to the metal tips" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of original Jarts box showing manufacturer details and packaging design](https://ik.imagekit.io/appraisily/SEO/original-jarts-value/original-jarts-value-image-3_hqRcP0HyZ.png)

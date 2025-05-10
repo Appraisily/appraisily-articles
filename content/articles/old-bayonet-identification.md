@@ -363,14 +363,14 @@ The main categories of markings include:
 - Soviet hammer and sickle
 
 {{< interactive-modules/condition-checklist title="Bayonet Markings Identification Checklist" description="Use this checklist to ensure you've examined all potential marking locations" >}}
-  {{< interactive-modules/checklist-item label="Blade ricasso (unsharpened section near hilt)" / / />}}
-  {{< interactive-modules/checklist-item label="Spine or back of blade" / / />}}
-  {{< interactive-modules/checklist-item label="Cross-guard or quillon area" / / />}}
-  {{< interactive-modules/checklist-item label="Pommel or butt cap" / / />}}
-  {{< interactive-modules/checklist-item label="Socket (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Grip or handle scales" / / />}}
-  {{< interactive-modules/checklist-item label="Scabbard body" / / />}}
-  {{< interactive-modules/checklist-item label="Scabbard mounts or fittings" / / />}}
+  {{< interactive-modules/checklist-item label="Blade ricasso (unsharpened section near hilt)" / />}}
+  {{< interactive-modules/checklist-item label="Spine or back of blade" / />}}
+  {{< interactive-modules/checklist-item label="Cross-guard or quillon area" / />}}
+  {{< interactive-modules/checklist-item label="Pommel or butt cap" / />}}
+  {{< interactive-modules/checklist-item label="Socket (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Grip or handle scales" / />}}
+  {{< interactive-modules/checklist-item label="Scabbard body" / />}}
+  {{< interactive-modules/checklist-item label="Scabbard mounts or fittings" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### International Marking Variations

@@ -82,14 +82,14 @@ Older silver soldered teapots, particularly those from the late 19th to early 20
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Silver Soldered Teapot Condition Checklist" description="Check all applicable items to assess your teapot's condition" >}}
-  {{< interactive-modules/checklist-item label="No dents or significant damage to the body" / / />}}
-  {{< interactive-modules/checklist-item label="Original silver plating intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Lid fits properly and hinges function correctly" / / />}}
-  {{< interactive-modules/checklist-item label="Handle is secure with no cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Spout is undamaged and shows no leaks" / / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer's marks are visible" / / />}}
-  {{< interactive-modules/checklist-item label="No significant tarnish or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="Any monograms or engravings are clear and undamaged" / / />}}
+  {{< interactive-modules/checklist-item label="No dents or significant damage to the body" / />}}
+  {{< interactive-modules/checklist-item label="Original silver plating intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Lid fits properly and hinges function correctly" / />}}
+  {{< interactive-modules/checklist-item label="Handle is secure with no cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Spout is undamaged and shows no leaks" / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer's marks are visible" / />}}
+  {{< interactive-modules/checklist-item label="No significant tarnish or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="Any monograms or engravings are clear and undamaged" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Design Aesthetics

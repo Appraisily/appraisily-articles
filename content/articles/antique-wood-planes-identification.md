@@ -179,13 +179,13 @@ Some planes feature multiple marks, including owner's marks added later. True ma
 You can often date wooden planes by examining specific design elements that changed over time:
 
 {{< interactive-modules/condition-checklist title="Dating Wooden Planes Through Features" description="Check for these features to help date your antique plane" >}}
-  {{< interactive-modules/checklist-item label="Chamfered edges (beveled corners)" / / />}}
-  {{< interactive-modules/checklist-item label="Carved decorative embellishments" / / />}}
-  {{< interactive-modules/checklist-item label="Style of wedge and wedge finial" / / />}}
-  {{< interactive-modules/checklist-item label="Presence of strike button (late 18th century onward)" / / />}}
-  {{< interactive-modules/checklist-item label="Type of wood used for the body" / / />}}
-  {{< interactive-modules/checklist-item label="Iron (blade) design and manufacturer" / / />}}
-  {{< interactive-modules/checklist-item label="Method of blade adjustment (if any)" / / />}}
+  {{< interactive-modules/checklist-item label="Chamfered edges (beveled corners)" / />}}
+  {{< interactive-modules/checklist-item label="Carved decorative embellishments" / />}}
+  {{< interactive-modules/checklist-item label="Style of wedge and wedge finial" / />}}
+  {{< interactive-modules/checklist-item label="Presence of strike button (late 18th century onward)" / />}}
+  {{< interactive-modules/checklist-item label="Type of wood used for the body" / />}}
+  {{< interactive-modules/checklist-item label="Iron (blade) design and manufacturer" / />}}
+  {{< interactive-modules/checklist-item label="Method of blade adjustment (if any)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Construction Methods and Materials
@@ -234,13 +234,13 @@ Rarity significantly impacts value, with several considerations:
 Condition is perhaps the most crucial factor in valuation:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Wooden Planes" description="Check these factors when evaluating a plane's condition" >}}
-  {{< interactive-modules/checklist-item label="Complete and original with no missing parts" / / />}}
-  {{< interactive-modules/checklist-item label="Blade (iron) in good condition without excessive pitting or rust" / / />}}
-  {{< interactive-modules/checklist-item label="Wood free from cracks, repairs, or significant wear" / / />}}
-  {{< interactive-modules/checklist-item label="Sole flat and true, not excessively worn" / / />}}
-  {{< interactive-modules/checklist-item label="Clear maker's marks or stamps" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish or attractive patina" / / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate modern alterations or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Complete and original with no missing parts" / />}}
+  {{< interactive-modules/checklist-item label="Blade (iron) in good condition without excessive pitting or rust" / />}}
+  {{< interactive-modules/checklist-item label="Wood free from cracks, repairs, or significant wear" / />}}
+  {{< interactive-modules/checklist-item label="Sole flat and true, not excessively worn" / />}}
+  {{< interactive-modules/checklist-item label="Clear maker's marks or stamps" / />}}
+  {{< interactive-modules/checklist-item label="Original finish or attractive patina" / />}}
+  {{< interactive-modules/checklist-item label="No inappropriate modern alterations or repairs" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Functionality vs. Collectibility
@@ -392,11 +392,11 @@ Restoration decisions significantly impact value:
 Most experts recommend the least invasive approach that meets your goals:
 
 {{< interactive-modules/condition-checklist title="Restoration Decision Checklist" description="Consider these factors before restoring an antique plane" >}}
-  {{< interactive-modules/checklist-item label="Is the plane rare or historically significant?" / / />}}
-  {{< interactive-modules/checklist-item label="Do you intend to use it or display it?" / / />}}
-  {{< interactive-modules/checklist-item label="Does it have original components worth preserving?" / / />}}
-  {{< interactive-modules/checklist-item label="Will restoration enhance or diminish its value?" / / />}}
-  {{< interactive-modules/checklist-item label="Do you have the skills to restore it properly?" / / />}}
+  {{< interactive-modules/checklist-item label="Is the plane rare or historically significant?" / />}}
+  {{< interactive-modules/checklist-item label="Do you intend to use it or display it?" / />}}
+  {{< interactive-modules/checklist-item label="Does it have original components worth preserving?" / />}}
+  {{< interactive-modules/checklist-item label="Will restoration enhance or diminish its value?" / />}}
+  {{< interactive-modules/checklist-item label="Do you have the skills to restore it properly?" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For valuable planes, consult with an expert before attempting any restoration work.

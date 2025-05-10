@@ -93,13 +93,13 @@ Older figurines, particularly those from the 18th century, generally command hig
 The condition dramatically impacts value, with mint condition pieces often worth 3-5 times more than damaged examples:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that affect antique figurine valuation" >}}
-  {{< interactive-modules/checklist-item label="No restoration or repairs (original condition)" / / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or hairlines" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint and gilding intact" / / />}}
-  {{< interactive-modules/checklist-item label="No crazing (fine surface cracks in glaze)" / / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or staining" / / />}}
-  {{< interactive-modules/checklist-item label="All delicate elements (fingers, flowers, etc.) intact" / / />}}
-  {{< interactive-modules/checklist-item label="Original base or stand included" / / />}}
+  {{< interactive-modules/checklist-item label="No restoration or repairs (original condition)" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or hairlines" / />}}
+  {{< interactive-modules/checklist-item label="Original paint and gilding intact" / />}}
+  {{< interactive-modules/checklist-item label="No crazing (fine surface cracks in glaze)" / />}}
+  {{< interactive-modules/checklist-item label="No discoloration or staining" / />}}
+  {{< interactive-modules/checklist-item label="All delicate elements (fingers, flowers, etc.) intact" / />}}
+  {{< interactive-modules/checklist-item label="Original base or stand included" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Artistic Merit and Detail

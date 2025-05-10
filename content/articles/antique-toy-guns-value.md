@@ -146,14 +146,14 @@ Like all collectibles, antique toy guns are valued based on several key factors 
 Condition is paramount when determining a vintage toy gun's value. Collectors use a standard grading system:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Antique Toy Guns" description="Use this checklist to evaluate toy gun condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish with minimal wear (90%+ intact)" / / />}}
-  {{< interactive-modules/checklist-item label="Functioning mechanical parts (trigger, hammer, cylinder)" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs to the body" / / />}}
-  {{< interactive-modules/checklist-item label="Original grips intact without damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original holster present (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and packaging present" / / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original decals or stickers intact (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish with minimal wear (90%+ intact)" / />}}
+  {{< interactive-modules/checklist-item label="Functioning mechanical parts (trigger, hammer, cylinder)" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs to the body" / />}}
+  {{< interactive-modules/checklist-item label="Original grips intact without damage" / />}}
+  {{< interactive-modules/checklist-item label="Original holster present (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original box and packaging present" / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal parts" / />}}
+  {{< interactive-modules/checklist-item label="Original decals or stickers intact (if applicable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity

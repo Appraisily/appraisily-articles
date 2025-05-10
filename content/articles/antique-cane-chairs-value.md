@@ -129,11 +129,11 @@ Machine-made caning (also called "pressed cane" or "cane webbing"), which became
 The wood used in antique cane chairs can provide important clues about age and origin:
 
 {{< interactive-modules/condition-checklist title="Wood Examination Checklist" description="Check for these indicators of authentic antique wood frames" >}}
-  {{< interactive-modules/checklist-item label="Uneven patina and natural aging" / / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand tool marks rather than machine precision" / / />}}
-  {{< interactive-modules/checklist-item label="Mortise and tenon or dowel joinery (not modern screws)" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate woods (walnut, mahogany, fruitwoods for earlier pieces)" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of old repairs or reinforcements" / / />}}
+  {{< interactive-modules/checklist-item label="Uneven patina and natural aging" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand tool marks rather than machine precision" / />}}
+  {{< interactive-modules/checklist-item label="Mortise and tenon or dowel joinery (not modern screws)" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate woods (walnut, mahogany, fruitwoods for earlier pieces)" / />}}
+  {{< interactive-modules/checklist-item label="Signs of old repairs or reinforcements" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Style Identification

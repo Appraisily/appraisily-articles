@@ -84,12 +84,12 @@ When photographing your artwork, ensure you capture:
 - Any framing, mounting, or display elements
 
 {{< interactive-modules/condition-checklist title="Sotheby's Submission Checklist" description="Ensure you have these elements ready before submitting" >}}
-  {{< interactive-modules/checklist-item label="Clear, well-lit photographs from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Images of signatures, markings, or labels" / / />}}
-  {{< interactive-modules/checklist-item label="Information about the artist or creator" / / />}}
-  {{< interactive-modules/checklist-item label="Known provenance or ownership history" / / />}}
-  {{< interactive-modules/checklist-item label="Dimensions and medium details" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of authenticity (if available)" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, well-lit photographs from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Images of signatures, markings, or labels" / />}}
+  {{< interactive-modules/checklist-item label="Information about the artist or creator" / />}}
+  {{< interactive-modules/checklist-item label="Known provenance or ownership history" / />}}
+  {{< interactive-modules/checklist-item label="Dimensions and medium details" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of authenticity (if available)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to their [valuations page](https://www.sothebys.com/en/about/services/valuations), Sotheby's experts review submissions and respond with preliminary guidance if they determine your item meets their auction criteria. Response times vary based on volume and complexity, but they generally aim to respond within a few weeks.

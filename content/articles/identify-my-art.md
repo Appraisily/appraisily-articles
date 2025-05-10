@@ -166,11 +166,11 @@ The most direct way to identify an artwork is through the artist's signature. Ar
 When examining the signature:
 
 {{< interactive-modules/condition-checklist title="Signature Examination Checklist" description="Elements to check when examining an artwork's signature" >}}
-  {{< interactive-modules/checklist-item label="Check all four corners of the front surface" / />}}
-  {{< interactive-modules/checklist-item label="Look along the bottom edge of the artwork" / />}}
-  {{< interactive-modules/checklist-item label="Examine the back for signatures or labels" / />}}
-  {{< interactive-modules/checklist-item label="Use a magnifying glass for small or faded signatures" / />}}
-  {{< interactive-modules/checklist-item label="Look for gallery labels or exhibition stickers on the back" / />}}
+  {{< interactive-modules/checklist-item label="Check all four corners of the front surface" />}}
+  {{< interactive-modules/checklist-item label="Look along the bottom edge of the artwork" />}}
+  {{< interactive-modules/checklist-item label="Examine the back for signatures or labels" />}}
+  {{< interactive-modules/checklist-item label="Use a magnifying glass for small or faded signatures" />}}
+  {{< interactive-modules/checklist-item label="Look for gallery labels or exhibition stickers on the back" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to the [Smithsonian American Art Museum](https://americanart.si.edu/research/my-art), gallery labels, exhibition stickers, and auction house markings on the back of artwork can provide valuable provenance information, often more helpful than the signature alone.
@@ -414,11 +414,11 @@ For unsigned pieces, focus on:
 Determining whether a piece is an original or reproduction requires careful examination:
 
 {{< interactive-modules/condition-checklist title="Original vs. Reproduction Checklist" description="Signs to look for when determining if artwork is original" >}}
-  {{< interactive-modules/checklist-item label="Visible brushstrokes or tool marks consistent with hand creation" / />}}
-  {{< interactive-modules/checklist-item label="Irregular paint application with texture and layering" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of artist's corrections or composition changes" / />}}
-  {{< interactive-modules/checklist-item label="Back of canvas or paper shows appropriate age indicators" / />}}
-  {{< interactive-modules/checklist-item label="No dot patterns or regular printing marks visible under magnification" / />}}
+  {{< interactive-modules/checklist-item label="Visible brushstrokes or tool marks consistent with hand creation" />}}
+  {{< interactive-modules/checklist-item label="Irregular paint application with texture and layering" />}}
+  {{< interactive-modules/checklist-item label="Evidence of artist's corrections or composition changes" />}}
+  {{< interactive-modules/checklist-item label="Back of canvas or paper shows appropriate age indicators" />}}
+  {{< interactive-modules/checklist-item label="No dot patterns or regular printing marks visible under magnification" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [wikiHow's guide on identifying paintings](https://www.wikihow.com/Identify-a-Painting), "Use an image recognition app or run a reverse image search. Ask an expert to identify the painting for you, or do it yourself using clues to narrow down the possibilities."

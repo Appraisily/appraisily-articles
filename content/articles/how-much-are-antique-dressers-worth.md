@@ -82,14 +82,14 @@ The age of a dresser significantly impacts its value, with pieces from certain p
 The condition of an antique dresser is perhaps the single most important factor affecting its value. Collectors and buyers look for:
 
 {{< interactive-modules/condition-checklist title="Antique Dresser Condition Assessment" description="Evaluate your dresser's condition by checking these factors" >}}
-  {{< interactive-modules/checklist-item label="Original finish in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="All original hardware present" / / />}}
-  {{< interactive-modules/checklist-item label="Drawers that open and close smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches, dents, or water damage" / / />}}
-  {{< interactive-modules/checklist-item label="Stable structure with no wobbling" / / />}}
-  {{< interactive-modules/checklist-item label="Original mirror intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="No missing veneer or severe wood damage" / / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate repairs or refinishing" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish in good condition" / />}}
+  {{< interactive-modules/checklist-item label="All original hardware present" / />}}
+  {{< interactive-modules/checklist-item label="Drawers that open and close smoothly" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches, dents, or water damage" / />}}
+  {{< interactive-modules/checklist-item label="Stable structure with no wobbling" / />}}
+  {{< interactive-modules/checklist-item label="Original mirror intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No missing veneer or severe wood damage" / />}}
+  {{< interactive-modules/checklist-item label="No inappropriate repairs or refinishing" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Craftmanship and Materials

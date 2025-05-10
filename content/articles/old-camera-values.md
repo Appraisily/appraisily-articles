@@ -102,13 +102,13 @@ Premium brands that typically command higher values include:
 Camera condition is perhaps the most significant factor affecting value. A camera in excellent working condition can be worth several times more than the same model in poor condition.
 
 {{< interactive-modules/condition-checklist title="Camera Condition Rating Guide" description="Key factors that determine a camera's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Fully functioning shutter at all speeds" / / />}}
-  {{< interactive-modules/checklist-item label="Clean, fungus-free lens elements" / / />}}
-  {{< interactive-modules/checklist-item label="Accurate light meter (if equipped)" / / />}}
-  {{< interactive-modules/checklist-item label="Intact leatherette or covering with no peeling" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal brassing (wear on metal surfaces)" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with original accessories" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Fully functioning shutter at all speeds" / />}}
+  {{< interactive-modules/checklist-item label="Clean, fungus-free lens elements" / />}}
+  {{< interactive-modules/checklist-item label="Accurate light meter (if equipped)" / />}}
+  {{< interactive-modules/checklist-item label="Intact leatherette or covering with no peeling" / />}}
+  {{< interactive-modules/checklist-item label="Minimal brassing (wear on metal surfaces)" / />}}
+  {{< interactive-modules/checklist-item label="Complete with original accessories" / />}}
+  {{< interactive-modules/checklist-item label="Original box and documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Common condition ratings for vintage cameras include:

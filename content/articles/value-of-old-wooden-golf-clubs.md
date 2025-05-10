@@ -143,14 +143,14 @@ Condition dramatically impacts value, with well-preserved clubs commanding much 
 ![Close-up of antique golf club head showing maker's mark and distinctive face pattern](https://ik.imagekit.io/appraisily/SEO/value-of-old-wooden-golf-clubs/value-of-old-wooden-golf-clubs-image-3_KHycIOIPR.png)
 
 {{< interactive-modules/condition-checklist title="Wooden Golf Club Condition Assessment" description="Check applicable items to assess the condition of your vintage golf clubs" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact on the head" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or splits in the wood" / / />}}
-  {{< interactive-modules/checklist-item label="Shaft is straight with no warping" / / />}}
-  {{< interactive-modules/checklist-item label="Original grip present and intact" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks clearly visible" / / />}}
-  {{< interactive-modules/checklist-item label="No modifications or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original patina consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with original components" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact on the head" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or splits in the wood" / />}}
+  {{< interactive-modules/checklist-item label="Shaft is straight with no warping" / />}}
+  {{< interactive-modules/checklist-item label="Original grip present and intact" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks clearly visible" / />}}
+  {{< interactive-modules/checklist-item label="No modifications or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original patina consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Complete with original components" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Completeness and Originality

@@ -179,14 +179,14 @@ Condition is perhaps the single most influential factor in determining a card's 
 ![A Pokémon card being examined with grading tools to assess its condition](https://ik.imagekit.io/appraisily/SEO/how-much-are-pokmon-cards-worth/how-much-are-pok-mon-cards-worth-image-3_9RkycQwWY.png)
 
 {{< interactive-modules/condition-checklist title="Pokémon Card Condition Assessment" description="Check these factors when evaluating your card's condition" >}}
-  {{< interactive-modules/checklist-item label="Card corners are sharp with no whitening or wear" / / />}}
-  {{< interactive-modules/checklist-item label="Card surface is free of scratches, scuffs, and print lines" / / />}}
-  {{< interactive-modules/checklist-item label="Card edges show no chipping, wear, or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Card is perfectly centered (front and back)" / / />}}
-  {{< interactive-modules/checklist-item label="Holographic surface shows no scratches or clouding" / / />}}
-  {{< interactive-modules/checklist-item label="Card has no creases, bends, or indentations" / / />}}
-  {{< interactive-modules/checklist-item label="Card is free from stains, dirt, or other contaminants" / / />}}
-  {{< interactive-modules/checklist-item label="Card text and colors are crisp with no fading" / / />}}
+  {{< interactive-modules/checklist-item label="Card corners are sharp with no whitening or wear" / />}}
+  {{< interactive-modules/checklist-item label="Card surface is free of scratches, scuffs, and print lines" / />}}
+  {{< interactive-modules/checklist-item label="Card edges show no chipping, wear, or damage" / />}}
+  {{< interactive-modules/checklist-item label="Card is perfectly centered (front and back)" / />}}
+  {{< interactive-modules/checklist-item label="Holographic surface shows no scratches or clouding" / />}}
+  {{< interactive-modules/checklist-item label="Card has no creases, bends, or indentations" / />}}
+  {{< interactive-modules/checklist-item label="Card is free from stains, dirt, or other contaminants" / />}}
+  {{< interactive-modules/checklist-item label="Card text and colors are crisp with no fading" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Professional Grading

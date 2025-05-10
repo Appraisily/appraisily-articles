@@ -234,13 +234,13 @@ According to [The Humble Beet](https://thehumblebeet.wordpress.com/2015/03/27/th
 Decorative reproductions often display several telltale characteristics:
 
 {{< interactive-modules/condition-checklist title="Decorative Replica Indicators" description="Check for these signs that a spinning wheel may be decorative rather than functional:" >}}
-  {{< interactive-modules/checklist-item label="Flyer and bobbin fused together as one piece" / / />}}
-  {{< interactive-modules/checklist-item label="Missing or non-functional orifice (where fiber enters flyer)" / / />}}
-  {{< interactive-modules/checklist-item label="Drive wheel that doesn't properly rotate or connect to flyer system" / / />}}
-  {{< interactive-modules/checklist-item label="Disproportionate or unrealistic sizing of components" / / />}}
-  {{< interactive-modules/checklist-item label="Extremely small size (miniature 'salesman samples' excepted)" / / />}}
-  {{< interactive-modules/checklist-item label="Missing tension system for drive band" / / />}}
-  {{< interactive-modules/checklist-item label="Overly decorative carvings that would interfere with function" / / />}}
+  {{< interactive-modules/checklist-item label="Flyer and bobbin fused together as one piece" / />}}
+  {{< interactive-modules/checklist-item label="Missing or non-functional orifice (where fiber enters flyer)" / />}}
+  {{< interactive-modules/checklist-item label="Drive wheel that doesn't properly rotate or connect to flyer system" / />}}
+  {{< interactive-modules/checklist-item label="Disproportionate or unrealistic sizing of components" / />}}
+  {{< interactive-modules/checklist-item label="Extremely small size (miniature 'salesman samples' excepted)" / />}}
+  {{< interactive-modules/checklist-item label="Missing tension system for drive band" / />}}
+  {{< interactive-modules/checklist-item label="Overly decorative carvings that would interfere with function" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Common Antique Spinning Wheel Styles" level="2" >}}
@@ -441,16 +441,16 @@ Be aware of these common alterations:
 According to a [JustAnswer appraisal discussion](https://www.justanswer.com/appraisals/jpofw-look-just-found-spinning-wheel-111114411mm1.html), authenticity can be difficult to verify since "One of the big issues with antique spinning wheels is the majority don't have maker marks."
 
 {{< interactive-modules/condition-checklist title="Antique Spinning Wheel Condition Assessment" description="Check all that apply to determine your wheel's condition level:" >}}
-  {{< interactive-modules/checklist-item label="All wooden components are original with no replacements" / / />}}
-  {{< interactive-modules/checklist-item label="Drive wheel runs true with no warping" / / />}}
-  {{< interactive-modules/checklist-item label="Flyer and bobbin move freely and independently" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact with natural patina" / / />}}
-  {{< interactive-modules/checklist-item label="Treadle operates smoothly with good connection" / / />}}
-  {{< interactive-modules/checklist-item label="All tension mechanisms are present and functional" / / />}}
-  {{< interactive-modules/checklist-item label="No active wood-boring insect damage" / / />}}
-  {{< interactive-modules/checklist-item label="No significant cracks or breaks in the wood" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (nails, pegs, or screws) present" / / />}}
-  {{< interactive-modules/checklist-item label="Wheel can be used for spinning without modifications" / / />}}
+  {{< interactive-modules/checklist-item label="All wooden components are original with no replacements" / />}}
+  {{< interactive-modules/checklist-item label="Drive wheel runs true with no warping" / />}}
+  {{< interactive-modules/checklist-item label="Flyer and bobbin move freely and independently" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact with natural patina" / />}}
+  {{< interactive-modules/checklist-item label="Treadle operates smoothly with good connection" / />}}
+  {{< interactive-modules/checklist-item label="All tension mechanisms are present and functional" / />}}
+  {{< interactive-modules/checklist-item label="No active wood-boring insect damage" / />}}
+  {{< interactive-modules/checklist-item label="No significant cracks or breaks in the wood" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (nails, pegs, or screws) present" / />}}
+  {{< interactive-modules/checklist-item label="Wheel can be used for spinning without modifications" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Distinguishing Regional Styles and Features" level="2" >}}

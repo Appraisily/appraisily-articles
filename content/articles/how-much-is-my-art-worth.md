@@ -180,12 +180,12 @@ Provenance—the documented history of an artwork's ownership—can significantl
 The physical condition of artwork dramatically affects its value:
 
 {{< interactive-modules/condition-checklist title="Artwork Condition Assessment" description="Check applicable items to understand your artwork's condition status" >}}
-    {{< interactive-modules/checklist-item label="No visible damage or repairs" / / />}}
-    {{< interactive-modules/checklist-item label="Colors retain original vibrancy" / / />}}
-    {{< interactive-modules/checklist-item label="Canvas/paper is not warped or yellowed" / / />}}
-    {{< interactive-modules/checklist-item label="Frame is original or period-appropriate" / / />}}
-    {{< interactive-modules/checklist-item label="No restoration or overpainting visible" / / />}}
-    {{< interactive-modules/checklist-item label="No mold, water damage, or insect damage" / / />}}
+    {{< interactive-modules/checklist-item label="No visible damage or repairs" / />}}
+    {{< interactive-modules/checklist-item label="Colors retain original vibrancy" / />}}
+    {{< interactive-modules/checklist-item label="Canvas/paper is not warped or yellowed" / />}}
+    {{< interactive-modules/checklist-item label="Frame is original or period-appropriate" / />}}
+    {{< interactive-modules/checklist-item label="No restoration or overpainting visible" / />}}
+    {{< interactive-modules/checklist-item label="No mold, water damage, or insect damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Rarity and Scarcity

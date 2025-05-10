@@ -290,16 +290,16 @@ Multiple factors come into play when determining the value of an antique music b
 Condition is perhaps the single most important factor affecting value. According to experts from [Music Box Attic](https://www.musicboxattic.com/traditional-music-boxes/reuge-orpheus-luxury-high-end/unique-one-of-a-kind-rare/), a music box in poor condition or non-working order may lose 50-70% of its potential value.
 
 {{< interactive-modules/condition-checklist title="Music Box Condition Assessment" description="Check applicable items to help determine condition rating" >}}
-  {{< interactive-modules/checklist-item label="Mechanism plays smoothly without skipping or jarring" / / />}}
-  {{< interactive-modules/checklist-item label="All notes sound clear and properly tuned" / / />}}
-  {{< interactive-modules/checklist-item label="Original comb teeth intact without breaks or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Case in excellent condition without major damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish present and in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="All decorative elements intact (inlay, veneer, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Cylinder or discs in good condition without damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (hinges, locks, key) present" / / />}}
-  {{< interactive-modules/checklist-item label="Movement has not been improperly repaired" / / />}}
-  {{< interactive-modules/checklist-item label="For disc boxes: original discs included and playable" / / />}}
+  {{< interactive-modules/checklist-item label="Mechanism plays smoothly without skipping or jarring" / />}}
+  {{< interactive-modules/checklist-item label="All notes sound clear and properly tuned" / />}}
+  {{< interactive-modules/checklist-item label="Original comb teeth intact without breaks or damage" / />}}
+  {{< interactive-modules/checklist-item label="Case in excellent condition without major damage" / />}}
+  {{< interactive-modules/checklist-item label="Original finish present and in good condition" / />}}
+  {{< interactive-modules/checklist-item label="All decorative elements intact (inlay, veneer, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Cylinder or discs in good condition without damage" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (hinges, locks, key) present" / />}}
+  {{< interactive-modules/checklist-item label="Movement has not been improperly repaired" / />}}
+  {{< interactive-modules/checklist-item label="For disc boxes: original discs included and playable" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Scarcity

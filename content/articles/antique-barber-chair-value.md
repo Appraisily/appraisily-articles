@@ -257,16 +257,16 @@ The condition of an antique barber chair has a profound impact on its market val
 When assessing the condition of an antique barber chair, several critical factors contribute to its overall value:
 
 {{< interactive-modules/condition-checklist title="Barber Chair Condition Assessment" description="Use this checklist to evaluate your antique barber chair's condition" >}}
-  {{< interactive-modules/checklist-item label="Original components and hardware intact" / / />}}
-  {{< interactive-modules/checklist-item label="Hydraulic mechanism works smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="Reclining function operates properly" / / />}}
-  {{< interactive-modules/checklist-item label="Rotating base turns without issues" / / />}}
-  {{< interactive-modules/checklist-item label="Upholstery in good condition without major tears or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Porcelain or enamel surfaces free from major chips or cracks" / / />}}
-  {{< interactive-modules/checklist-item label="Chrome or metal surfaces without significant rust or pitting" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish preserved or properly restored" / / />}}
-  {{< interactive-modules/checklist-item label="Footrest and headrest adjustment mechanisms functional" / / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer markings visible" / / />}}
+  {{< interactive-modules/checklist-item label="Original components and hardware intact" / />}}
+  {{< interactive-modules/checklist-item label="Hydraulic mechanism works smoothly" / />}}
+  {{< interactive-modules/checklist-item label="Reclining function operates properly" / />}}
+  {{< interactive-modules/checklist-item label="Rotating base turns without issues" / />}}
+  {{< interactive-modules/checklist-item label="Upholstery in good condition without major tears or damage" / />}}
+  {{< interactive-modules/checklist-item label="Porcelain or enamel surfaces free from major chips or cracks" / />}}
+  {{< interactive-modules/checklist-item label="Chrome or metal surfaces without significant rust or pitting" / />}}
+  {{< interactive-modules/checklist-item label="Original finish preserved or properly restored" / />}}
+  {{< interactive-modules/checklist-item label="Footrest and headrest adjustment mechanisms functional" / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer markings visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Mechanical Function

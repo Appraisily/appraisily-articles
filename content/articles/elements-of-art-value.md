@@ -264,13 +264,13 @@ In drawing and printmaking, artists create value through:
 - **Stippling**: Patterns of dots with varying density
 
 {{< interactive-modules/condition-checklist title="Evaluating Value in Artwork" description="Use this checklist to assess the effective use of value in a piece of art" >}}
-  {{< interactive-modules/checklist-item label="Clear value hierarchy with identifiable focal points" / / />}}
-  {{< interactive-modules/checklist-item label="Full range of values from light to dark" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / / />}}
-  {{< interactive-modules/checklist-item label="Effective creation of form and volume through value" / / />}}
-  {{< interactive-modules/checklist-item label="Value grouping that creates visual interest" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate contrast levels for subject matter" / / />}}
-  {{< interactive-modules/checklist-item label="Coherent value pattern across the composition" / / />}}
+  {{< interactive-modules/checklist-item label="Clear value hierarchy with identifiable focal points" / />}}
+  {{< interactive-modules/checklist-item label="Full range of values from light to dark" / />}}
+  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / />}}
+  {{< interactive-modules/checklist-item label="Effective creation of form and volume through value" / />}}
+  {{< interactive-modules/checklist-item label="Value grouping that creates visual interest" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate contrast levels for subject matter" / />}}
+  {{< interactive-modules/checklist-item label="Coherent value pattern across the composition" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Role of Value in Creating Depth and Space" level="2" >}}

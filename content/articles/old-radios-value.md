@@ -121,14 +121,14 @@ The condition of a vintage radio is often the single most important factor in de
 Condition assessment ranges from cosmetic appearance to electronic functionality. Collectors typically evaluate vintage radios using the following criteria:
 
 {{< interactive-modules/condition-checklist title="Vintage Radio Condition Assessment" description="Check applicable items to help determine your radio's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Cabinet/case shows no cracks, chips, or significant scratches" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact without touch-ups or refinishing" / / />}}
-  {{< interactive-modules/checklist-item label="Original knobs, grilles, and hardware are present and unmodified" / / />}}
-  {{< interactive-modules/checklist-item label="Dial glass is clear and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Electronic components appear original without modern substitutions" / / />}}
-  {{< interactive-modules/checklist-item label="Radio powers on and receives stations effectively" / / />}}
-  {{< interactive-modules/checklist-item label="Speaker produces clear sound without distortion" / / />}}
-  {{< interactive-modules/checklist-item label="Original documentation, box, or accessories are present" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet/case shows no cracks, chips, or significant scratches" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact without touch-ups or refinishing" / />}}
+  {{< interactive-modules/checklist-item label="Original knobs, grilles, and hardware are present and unmodified" / />}}
+  {{< interactive-modules/checklist-item label="Dial glass is clear and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Electronic components appear original without modern substitutions" / />}}
+  {{< interactive-modules/checklist-item label="Radio powers on and receives stations effectively" / />}}
+  {{< interactive-modules/checklist-item label="Speaker produces clear sound without distortion" / />}}
+  {{< interactive-modules/checklist-item label="Original documentation, box, or accessories are present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Ratings Explained

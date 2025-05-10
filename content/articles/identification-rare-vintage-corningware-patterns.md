@@ -155,12 +155,12 @@ True vintage pyroceram CorningWare has distinctive physical properties:
 - Has exceptional durability and resistance to thermal shock
 
 {{< interactive-modules/condition-checklist title="Vintage CorningWare Identification Checklist" description="Use this checklist to verify if you have authentic vintage pyroceram CorningWare" >}}
-  {{< interactive-modules/checklist-item label="Piece produces a clear, bell-like tone when gently tapped" / / />}}
-  {{< interactive-modules/checklist-item label="Bottom has proper vintage Corning markings with appropriate trademark symbols" / / />}}
-  {{< interactive-modules/checklist-item label="Model number follows the vintage coding system (P, A, or F series)" / / />}}
-  {{< interactive-modules/checklist-item label="Material has slight translucency when held up to light" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern matches known vintage designs with correct coloration" / / />}}
-  {{< interactive-modules/checklist-item label="Glass lid (if present) has correct vintage Pyrex or CorningWare markings" / / />}}
+  {{< interactive-modules/checklist-item label="Piece produces a clear, bell-like tone when gently tapped" / />}}
+  {{< interactive-modules/checklist-item label="Bottom has proper vintage Corning markings with appropriate trademark symbols" / />}}
+  {{< interactive-modules/checklist-item label="Model number follows the vintage coding system (P, A, or F series)" / />}}
+  {{< interactive-modules/checklist-item label="Material has slight translucency when held up to light" / />}}
+  {{< interactive-modules/checklist-item label="Pattern matches known vintage designs with correct coloration" / />}}
+  {{< interactive-modules/checklist-item label="Glass lid (if present) has correct vintage Pyrex or CorningWare markings" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Being able to authenticate vintage CorningWare is just the first step. The pattern identification is where the true value assessment begins.

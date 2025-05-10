@@ -208,14 +208,14 @@ Consider these specialized appraisal options based on your items:
 - For general antiques in the Hudson Valley area, [Rhinebeck Antique Emporium](https://rhinebeckantiqueemporium.com/appraisals/) provides specialized services
 
 {{< interactive-modules/condition-checklist title="Appraiser Selection Checklist" description="Essential criteria to consider when choosing an antique appraiser" >}}
-  {{< interactive-modules/checklist-item label="Belongs to a recognized professional appraisal organization" / / />}}
-  {{< interactive-modules/checklist-item label="Specializes in your type of item" / / />}}
-  {{< interactive-modules/checklist-item label="Transparent about their fee structure" / / />}}
-  {{< interactive-modules/checklist-item label="Can provide references or testimonials" / / />}}
-  {{< interactive-modules/checklist-item label="Clearly explains their appraisal methodology" / / />}}
-  {{< interactive-modules/checklist-item label="Provides written reports for formal appraisals" / / />}}
-  {{< interactive-modules/checklist-item label="No conflict of interest (not trying to buy your items)" / / />}}
-  {{< interactive-modules/checklist-item label="Maintains confidentiality about your possessions" / / />}}
+  {{< interactive-modules/checklist-item label="Belongs to a recognized professional appraisal organization" / />}}
+  {{< interactive-modules/checklist-item label="Specializes in your type of item" / />}}
+  {{< interactive-modules/checklist-item label="Transparent about their fee structure" / />}}
+  {{< interactive-modules/checklist-item label="Can provide references or testimonials" / />}}
+  {{< interactive-modules/checklist-item label="Clearly explains their appraisal methodology" / />}}
+  {{< interactive-modules/checklist-item label="Provides written reports for formal appraisals" / />}}
+  {{< interactive-modules/checklist-item label="No conflict of interest (not trying to buy your items)" / />}}
+  {{< interactive-modules/checklist-item label="Maintains confidentiality about your possessions" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## The Appraisal Process Explained

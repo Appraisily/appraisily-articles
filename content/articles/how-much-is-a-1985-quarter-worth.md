@@ -231,13 +231,13 @@ The most valuable 1985 quarters feature mint errors. These mistakes during produ
 Errors can dramatically increase the value of an otherwise common 1985 quarter. Here are some notable errors to look for:
 
 {{< interactive-modules/condition-checklist title="1985 Quarter Error Checklist" description="Check for these valuable errors on your 1985 quarters" >}}
-  {{< interactive-modules/checklist-item label="Double Die Error - Check for doubling in lettering or design" / / />}}
-  {{< interactive-modules/checklist-item label="Off-Center Strike - Part of the design is missing due to misalignment" / / />}}
-  {{< interactive-modules/checklist-item label="'God We Rust' Error - Missing letters in the motto" / / />}}
-  {{< interactive-modules/checklist-item label="Double Rim Error - Doubled rim appearance" / / />}}
-  {{< interactive-modules/checklist-item label="Broad Strike Error - Coin appears larger than normal" / / />}}
-  {{< interactive-modules/checklist-item label="Die Cracks or Cuds - Raised lines or bumps on the coin surface" / / />}}
-  {{< interactive-modules/checklist-item label="Wrong Planchet Error - Struck on a different denomination's blank" / / />}}
+  {{< interactive-modules/checklist-item label="Double Die Error - Check for doubling in lettering or design" / />}}
+  {{< interactive-modules/checklist-item label="Off-Center Strike - Part of the design is missing due to misalignment" / />}}
+  {{< interactive-modules/checklist-item label="'God We Rust' Error - Missing letters in the motto" / />}}
+  {{< interactive-modules/checklist-item label="Double Rim Error - Doubled rim appearance" / />}}
+  {{< interactive-modules/checklist-item label="Broad Strike Error - Coin appears larger than normal" / />}}
+  {{< interactive-modules/checklist-item label="Die Cracks or Cuds - Raised lines or bumps on the coin surface" / />}}
+  {{< interactive-modules/checklist-item label="Wrong Planchet Error - Struck on a different denomination's blank" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Notable 1985 Quarter Errors and Their Values

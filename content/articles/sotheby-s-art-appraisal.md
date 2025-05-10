@@ -129,11 +129,11 @@ For more comprehensive documentation, Sotheby's offers formal written appraisals
 These formal appraisals are fee-based services and are commonly used for:
 
 {{< interactive-modules/condition-checklist title="Common Uses for Formal Sotheby's Appraisals" description="These professional valuations serve multiple purposes:" >}}
-  {{< interactive-modules/checklist-item label="Insurance coverage documentation" / / />}}
-  {{< interactive-modules/checklist-item label="Estate planning and tax purposes" / / />}}
-  {{< interactive-modules/checklist-item label="Charitable donation substantiation" / / />}}
-  {{< interactive-modules/checklist-item label="Asset division for divorce proceedings" / / />}}
-  {{< interactive-modules/checklist-item label="Collection management and inventory" / / />}}
+  {{< interactive-modules/checklist-item label="Insurance coverage documentation" / />}}
+  {{< interactive-modules/checklist-item label="Estate planning and tax purposes" / />}}
+  {{< interactive-modules/checklist-item label="Charitable donation substantiation" / />}}
+  {{< interactive-modules/checklist-item label="Asset division for divorce proceedings" / />}}
+  {{< interactive-modules/checklist-item label="Collection management and inventory" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Collection Inventories

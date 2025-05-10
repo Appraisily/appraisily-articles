@@ -213,13 +213,13 @@ Local art museums and established galleries often maintain relationships with re
 Major auction houses like Christie's, Sotheby's, and regional auction houses typically have appraisal departments or can refer you to independent appraisers. Many offer appraisal days or initial consultations to help determine if a full appraisal is warranted.
 
 {{< interactive-modules/condition-checklist title="Art Appraiser Qualification Checklist" description="Ensure your appraiser meets these important criteria" >}}
-  {{< interactive-modules/checklist-item label="Membership in a recognized appraisal organization (AAA, ISA, ASA)" / / />}}
-  {{< interactive-modules/checklist-item label="Specialized expertise in your specific art category" / / />}}
-  {{< interactive-modules/checklist-item label="USPAP (Uniform Standards of Professional Appraisal Practice) compliance" / / />}}
-  {{< interactive-modules/checklist-item label="Clear fee structure explained upfront" / / />}}
-  {{< interactive-modules/checklist-item label="Willingness to provide references" / / />}}
-  {{< interactive-modules/checklist-item label="No conflict of interest (not offering to purchase appraised items)" / / />}}
-  {{< interactive-modules/checklist-item label="Minimum of 5+ years experience in the field" / / />}}
+  {{< interactive-modules/checklist-item label="Membership in a recognized appraisal organization (AAA, ISA, ASA)" / />}}
+  {{< interactive-modules/checklist-item label="Specialized expertise in your specific art category" / />}}
+  {{< interactive-modules/checklist-item label="USPAP (Uniform Standards of Professional Appraisal Practice) compliance" / />}}
+  {{< interactive-modules/checklist-item label="Clear fee structure explained upfront" / />}}
+  {{< interactive-modules/checklist-item label="Willingness to provide references" / />}}
+  {{< interactive-modules/checklist-item label="No conflict of interest (not offering to purchase appraised items)" / />}}
+  {{< interactive-modules/checklist-item label="Minimum of 5+ years experience in the field" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="What to Expect During the Appraisal Process" level="2" >}}

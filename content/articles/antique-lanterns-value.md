@@ -258,14 +258,14 @@ The condition of an antique lantern significantly impacts its value. Collectors 
 - Retaining original finish and patina
 
 {{< interactive-modules/condition-checklist title="Antique Lantern Condition Assessment" description="Check applicable items to assess your lantern's condition" >}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Original globe intact without cracks" / / />}}
-  {{< interactive-modules/checklist-item label="Metal frame free from significant rust or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish largely preserved" / / />}}
-  {{< interactive-modules/checklist-item label="Functioning wick adjustment mechanism" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer marks clearly visible" / / />}}
-  {{< interactive-modules/checklist-item label="No significant dents or deformations" / / />}}
-  {{< interactive-modules/checklist-item label="Original burner assembly intact" / / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Original globe intact without cracks" / />}}
+  {{< interactive-modules/checklist-item label="Metal frame free from significant rust or damage" / />}}
+  {{< interactive-modules/checklist-item label="Original finish largely preserved" / />}}
+  {{< interactive-modules/checklist-item label="Functioning wick adjustment mechanism" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer marks clearly visible" / />}}
+  {{< interactive-modules/checklist-item label="No significant dents or deformations" / />}}
+  {{< interactive-modules/checklist-item label="Original burner assembly intact" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Manufacturer and Provenance

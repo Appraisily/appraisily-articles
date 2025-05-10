@@ -200,16 +200,16 @@ The external appearance and originality of components greatly influence collecto
 - **Unique features:** Special options or rare production variants can enhance collector appeal
 
 {{< interactive-modules/condition-checklist title="Martin 60 Condition Assessment" description="Check applicable items to gauge your motor's condition" >}}
-  {{< interactive-modules/checklist-item label="Motor turns freely when pull-started" / / />}}
-  {{< interactive-modules/checklist-item label="Shows good compression resistance" / / />}}
-  {{< interactive-modules/checklist-item label="Produces spark at the plug" / / />}}
-  {{< interactive-modules/checklist-item label="Starts and runs consistently" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint is intact (50%+ coverage)" / / />}}
-  {{< interactive-modules/checklist-item label="Original decals are present and legible" / / />}}
-  {{< interactive-modules/checklist-item label="Has matching original gas tank" / / />}}
-  {{< interactive-modules/checklist-item label="Includes original or period-correct propeller" / / />}}
-  {{< interactive-modules/checklist-item label="All cooling system components intact" / / />}}
-  {{< interactive-modules/checklist-item label="Free from significant corrosion or damage" / / />}}
+  {{< interactive-modules/checklist-item label="Motor turns freely when pull-started" / />}}
+  {{< interactive-modules/checklist-item label="Shows good compression resistance" / />}}
+  {{< interactive-modules/checklist-item label="Produces spark at the plug" / />}}
+  {{< interactive-modules/checklist-item label="Starts and runs consistently" / />}}
+  {{< interactive-modules/checklist-item label="Original paint is intact (50%+ coverage)" / />}}
+  {{< interactive-modules/checklist-item label="Original decals are present and legible" / />}}
+  {{< interactive-modules/checklist-item label="Has matching original gas tank" / />}}
+  {{< interactive-modules/checklist-item label="Includes original or period-correct propeller" / />}}
+  {{< interactive-modules/checklist-item label="All cooling system components intact" / />}}
+  {{< interactive-modules/checklist-item label="Free from significant corrosion or damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Documentation & Provenance

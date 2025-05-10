@@ -290,14 +290,14 @@ A clean, intuitive interface can make a significant difference in usability, esp
 Consider whether you need an app for iOS, Android, or both. While most major apps are available on both platforms, some (like Antique ID) are exclusive to one operating system.
 
 {{< interactive-modules/condition-checklist title="Antique Appraisal App Selection Checklist" description="Consider these factors when choosing the right app for your needs" >}}
-  {{< interactive-modules/checklist-item label="Does the app cover the specific types of antiques in your collection?" / / />}}
-  {{< interactive-modules/checklist-item label="Is the app available for your device (iOS/Android)?" / / />}}
-  {{< interactive-modules/checklist-item label="Does the pricing model fit your usage patterns (one-time vs. subscription)?" / / />}}
-  {{< interactive-modules/checklist-item label="Is the user interface intuitive and easy to navigate?" / / />}}
-  {{< interactive-modules/checklist-item label="Does the app provide detailed information beyond basic identification?" / / />}}
-  {{< interactive-modules/checklist-item label="Are the price estimates based on actual market data?" / / />}}
-  {{< interactive-modules/checklist-item label="Does the app receive regular updates and database expansions?" / / />}}
-  {{< interactive-modules/checklist-item label="Are user reviews generally positive about accuracy and reliability?" / / />}}
+  {{< interactive-modules/checklist-item label="Does the app cover the specific types of antiques in your collection?" / />}}
+  {{< interactive-modules/checklist-item label="Is the app available for your device (iOS/Android)?" / />}}
+  {{< interactive-modules/checklist-item label="Does the pricing model fit your usage patterns (one-time vs. subscription)?" / />}}
+  {{< interactive-modules/checklist-item label="Is the user interface intuitive and easy to navigate?" / />}}
+  {{< interactive-modules/checklist-item label="Does the app provide detailed information beyond basic identification?" / />}}
+  {{< interactive-modules/checklist-item label="Are the price estimates based on actual market data?" / />}}
+  {{< interactive-modules/checklist-item label="Does the app receive regular updates and database expansions?" / />}}
+  {{< interactive-modules/checklist-item label="Are user reviews generally positive about accuracy and reliability?" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Get the Most Accurate Appraisals" level="2" >}}

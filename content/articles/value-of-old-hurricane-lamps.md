@@ -140,11 +140,11 @@ Hurricane lamps were crafted from various materials, each affecting their value:
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Hurricane Lamp Condition Checklist" description="Evaluate these aspects to determine your lamp's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Original glass chimney with no cracks or chips" / / />}}
-  {{< interactive-modules/checklist-item label="Intact wick mechanism (for oil lamps)" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint or finish on decorative elements" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs, replacements, or alterations" / / />}}
-  {{< interactive-modules/checklist-item label="Working fuel font (for oil models) or electrical components" / / />}}
+  {{< interactive-modules/checklist-item label="Original glass chimney with no cracks or chips" / />}}
+  {{< interactive-modules/checklist-item label="Intact wick mechanism (for oil lamps)" / />}}
+  {{< interactive-modules/checklist-item label="Original paint or finish on decorative elements" / />}}
+  {{< interactive-modules/checklist-item label="No repairs, replacements, or alterations" / />}}
+  {{< interactive-modules/checklist-item label="Working fuel font (for oil models) or electrical components" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition plays a critical role in valuation. Even minor damage can significantly reduce a lamp's worth. Collectors and appraisers typically grade condition from "mint" (perfect, like-new condition) to "poor" (significant damage or missing parts).

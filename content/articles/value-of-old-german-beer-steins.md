@@ -241,14 +241,14 @@ Authentic old German steins have:
 - Comfortable handle ergonomics
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use this checklist to evaluate if your German beer stein is likely authentic" >}}
-  {{< interactive-modules/checklist-item label="The stein has a maker's mark on the bottom or inside the pewter lid" / / />}}
-  {{< interactive-modules/checklist-item label="The pewter lid shows appropriate patina and wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted decorations show minor inconsistencies typical of hand craftsmanship" / / />}}
-  {{< interactive-modules/checklist-item label="The stein has substantial weight appropriate for its size and material" / / />}}
-  {{< interactive-modules/checklist-item label="Ceramic body shows appropriate crazing (fine cracks in the glaze) for its age" / / />}}
-  {{< interactive-modules/checklist-item label="Relief decorations show fine detail and craftsmanship" / / />}}
-  {{< interactive-modules/checklist-item label="The stein has a traditional capacity of 0.5L or 1L for drinking steins" / / />}}
-  {{< interactive-modules/checklist-item label="There are no modern manufacturing marks like "Made in China" or "Made in Taiwan"" / / />}}
+  {{< interactive-modules/checklist-item label="The stein has a maker's mark on the bottom or inside the pewter lid" / />}}
+  {{< interactive-modules/checklist-item label="The pewter lid shows appropriate patina and wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Hand-painted decorations show minor inconsistencies typical of hand craftsmanship" / />}}
+  {{< interactive-modules/checklist-item label="The stein has substantial weight appropriate for its size and material" / />}}
+  {{< interactive-modules/checklist-item label="Ceramic body shows appropriate crazing (fine cracks in the glaze) for its age" / />}}
+  {{< interactive-modules/checklist-item label="Relief decorations show fine detail and craftsmanship" / />}}
+  {{< interactive-modules/checklist-item label="The stein has a traditional capacity of 0.5L or 1L for drinking steins" / />}}
+  {{< interactive-modules/checklist-item label="There are no modern manufacturing marks like "Made in China" or "Made in Taiwan"" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Reproduction Red Flags

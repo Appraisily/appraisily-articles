@@ -356,16 +356,16 @@ Due to their rarity and historical importance, these can command prices from $1,
 The condition of an antique cash register can dramatically affect its value, with excellent examples commanding prices many times higher than those in poor condition. Here's how to assess the condition of a vintage register:
 
 {{< interactive-modules/condition-checklist title="Antique Cash Register Condition Assessment" description="Check all items that apply to your cash register" >}}
-  {{< interactive-modules/checklist-item label="Mechanism functions properly at all positions" / / />}}
-  {{< interactive-modules/checklist-item label="Cash drawer opens and closes smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="All keys are present and functional" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements complete without damage" / / />}}
-  {{< interactive-modules/checklist-item label="Glass components (if any) are original and uncracked" / / />}}
-  {{< interactive-modules/checklist-item label="Drawer lock works with original key" / / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or corrosion present" / / />}}
-  {{< interactive-modules/checklist-item label="Model and serial number tags are present and legible" / / />}}
-  {{< interactive-modules/checklist-item label="Original marble counter slab is intact (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Mechanism functions properly at all positions" / />}}
+  {{< interactive-modules/checklist-item label="Cash drawer opens and closes smoothly" / />}}
+  {{< interactive-modules/checklist-item label="All keys are present and functional" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements complete without damage" / />}}
+  {{< interactive-modules/checklist-item label="Glass components (if any) are original and uncracked" / />}}
+  {{< interactive-modules/checklist-item label="Drawer lock works with original key" / />}}
+  {{< interactive-modules/checklist-item label="No significant rust or corrosion present" / />}}
+  {{< interactive-modules/checklist-item label="Model and serial number tags are present and legible" / />}}
+  {{< interactive-modules/checklist-item label="Original marble counter slab is intact (if applicable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Mechanical Condition

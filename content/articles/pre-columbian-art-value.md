@@ -237,14 +237,14 @@ Be wary of pieces that show:
 - Reluctance by sellers to provide provenance information
 
 {{< interactive-modules/condition-checklist title="Pre-Columbian Authentication Checklist" description="Use this checklist to evaluate potential authenticity markers" >}}
-    {{< interactive-modules/checklist-item label="Proper patina consistent with burial environment" / / />}}
-    {{< interactive-modules/checklist-item label="Tool marks consistent with pre-industrial techniques" / / />}}
-    {{< interactive-modules/checklist-item label="Material composition appropriate for region and period" / / />}}
-    {{< interactive-modules/checklist-item label="Iconography consistent with established cultural patterns" / / />}}
-    {{< interactive-modules/checklist-item label="Provenance documentation predating 1970 UNESCO Convention" / / />}}
-    {{< interactive-modules/checklist-item label="Scientific testing results (TL dating, etc.) if available" / / />}}
-    {{< interactive-modules/checklist-item label="Evidence of appropriate soil deposits from burial" / / />}}
-    {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age and use" / / />}}
+    {{< interactive-modules/checklist-item label="Proper patina consistent with burial environment" / />}}
+    {{< interactive-modules/checklist-item label="Tool marks consistent with pre-industrial techniques" / />}}
+    {{< interactive-modules/checklist-item label="Material composition appropriate for region and period" / />}}
+    {{< interactive-modules/checklist-item label="Iconography consistent with established cultural patterns" / />}}
+    {{< interactive-modules/checklist-item label="Provenance documentation predating 1970 UNESCO Convention" / />}}
+    {{< interactive-modules/checklist-item label="Scientific testing results (TL dating, etc.) if available" / />}}
+    {{< interactive-modules/checklist-item label="Evidence of appropriate soil deposits from burial" / />}}
+    {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age and use" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Pre-Columbian Art Market" level="2" >}}

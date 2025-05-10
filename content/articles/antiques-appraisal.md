@@ -215,13 +215,13 @@ The final deliverable is a written appraisal report that includes:
 A professional appraisal report should comply with the Uniform Standards of Professional Appraisal Practice (USPAP), which establishes ethical and performance standards for appraisers.
 
 {{< interactive-modules/condition-checklist title="Prepare Your Items for Appraisal" description="Use this checklist to ensure your antiques are ready for professional appraisal" >}}
-  {{< interactive-modules/checklist-item label="Clean items gently without harsh chemicals" / / />}}
-  {{< interactive-modules/checklist-item label="Gather any documentation of provenance or history" / / />}}
-  {{< interactive-modules/checklist-item label="Locate original receipts or prior appraisals if available" / / />}}
-  {{< interactive-modules/checklist-item label="Take preliminary photos of items from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Make a list of any known repairs or restoration work" / / />}}
-  {{< interactive-modules/checklist-item label="Research maker's marks or signatures in advance" / / />}}
-  {{< interactive-modules/checklist-item label="Prepare a list of questions for the appraiser" / / />}}
+  {{< interactive-modules/checklist-item label="Clean items gently without harsh chemicals" / />}}
+  {{< interactive-modules/checklist-item label="Gather any documentation of provenance or history" / />}}
+  {{< interactive-modules/checklist-item label="Locate original receipts or prior appraisals if available" / />}}
+  {{< interactive-modules/checklist-item label="Take preliminary photos of items from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Make a list of any known repairs or restoration work" / />}}
+  {{< interactive-modules/checklist-item label="Research maker's marks or signatures in advance" / />}}
+  {{< interactive-modules/checklist-item label="Prepare a list of questions for the appraiser" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Affect Antique Value" level="2" >}}

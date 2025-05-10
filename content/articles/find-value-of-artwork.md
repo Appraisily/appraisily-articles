@@ -168,11 +168,11 @@ The first step in determining the value of your artwork is identifying whether y
 Originals are one-of-a-kind artworks created directly by the artist, while prints are reproductions that may exist in multiple copies. Here's how to tell them apart:
 
 {{< interactive-modules/condition-checklist title="Original Artwork Identification" description="Check these characteristics to determine if your artwork is original" >}}
-  {{< interactive-modules/checklist-item label="Surface texture: Look for brushstrokes, paint buildup, or canvas texture" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-signed by the artist (typically in pencil or ink)" / / />}}
-  {{< interactive-modules/checklist-item label="No dot patterns when examined with a magnifying glass" / / />}}
-  {{< interactive-modules/checklist-item label="Irregular lines and imperfections showing human creation" / / />}}
-  {{< interactive-modules/checklist-item label="Paint continues around edges of canvas (on unframed works)" / / />}}
+  {{< interactive-modules/checklist-item label="Surface texture: Look for brushstrokes, paint buildup, or canvas texture" / />}}
+  {{< interactive-modules/checklist-item label="Hand-signed by the artist (typically in pencil or ink)" / />}}
+  {{< interactive-modules/checklist-item label="No dot patterns when examined with a magnifying glass" / />}}
+  {{< interactive-modules/checklist-item label="Irregular lines and imperfections showing human creation" / />}}
+  {{< interactive-modules/checklist-item label="Paint continues around edges of canvas (on unframed works)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For prints, look for:
@@ -250,13 +250,13 @@ The physical condition of an artwork dramatically affects its value, with flawle
 According to Gray's Auctioneers' [guide on valuable paintings](https://www.graysauctioneers.com/blog-posts/2020/5/8/9-signs-that-your-painting-may-be-worth-over-1000), condition is a critical factor. Assess your artwork for:
 
 {{< interactive-modules/condition-checklist title="Artwork Condition Assessment" description="Identify these potential condition issues that may affect value" >}}
-  {{< interactive-modules/checklist-item label="Surface damage: scratches, abrasions, or flaking paint" / / />}}
-  {{< interactive-modules/checklist-item label="Discoloration, fading, or yellowing" / / />}}
-  {{< interactive-modules/checklist-item label="Water damage or mold" / / />}}
-  {{< interactive-modules/checklist-item label="Canvas tears or punctures" / / />}}
-  {{< interactive-modules/checklist-item label="Prior restoration or conservation work" / / />}}
-  {{< interactive-modules/checklist-item label="Frame damage or inappropriate framing" / / />}}
-  {{< interactive-modules/checklist-item label="Structural issues (warping, sagging)" / / />}}
+  {{< interactive-modules/checklist-item label="Surface damage: scratches, abrasions, or flaking paint" / />}}
+  {{< interactive-modules/checklist-item label="Discoloration, fading, or yellowing" / />}}
+  {{< interactive-modules/checklist-item label="Water damage or mold" / />}}
+  {{< interactive-modules/checklist-item label="Canvas tears or punctures" / />}}
+  {{< interactive-modules/checklist-item label="Prior restoration or conservation work" / />}}
+  {{< interactive-modules/checklist-item label="Frame damage or inappropriate framing" / />}}
+  {{< interactive-modules/checklist-item label="Structural issues (warping, sagging)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Documentation of Condition

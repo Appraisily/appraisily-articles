@@ -276,25 +276,25 @@ Having all original components dramatically increases value:
 A lamp with all original parts can be worth twice as much as one with replacement components, even if the replacements are period-appropriate.
 
 {{< interactive-modules/condition-checklist title="Oil Lamp Condition Assessment Checklist" description="Use this checklist to evaluate the condition of an antique oil lamp" >}}
-  {{< interactive-modules/checklist-item label="Original burner mechanism intact and functional" / / />}}
+  {{< interactive-modules/checklist-item label="Original burner mechanism intact and functional" / />}}
   
-  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to glass font (reservoir)" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to glass font (reservoir)" / />}}
   
-  {{< interactive-modules/checklist-item label="Original shade or globe present without damage" / / />}}
+  {{< interactive-modules/checklist-item label="Original shade or globe present without damage" / />}}
   
-  {{< interactive-modules/checklist-item label="Original chimney present without cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Original chimney present without cracks" / />}}
   
-  {{< interactive-modules/checklist-item label="Wick adjustment mechanism works properly" / / />}}
+  {{< interactive-modules/checklist-item label="Wick adjustment mechanism works properly" / />}}
   
-  {{< interactive-modules/checklist-item label="Base is stable without dents or significant damage" / / />}}
+  {{< interactive-modules/checklist-item label="Base is stable without dents or significant damage" / />}}
   
-  {{< interactive-modules/checklist-item label="Original finish present without excessive cleaning or polishing" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish present without excessive cleaning or polishing" / />}}
   
-  {{< interactive-modules/checklist-item label="No leaks in font or fuel system" / / />}}
+  {{< interactive-modules/checklist-item label="No leaks in font or fuel system" / />}}
   
-  {{< interactive-modules/checklist-item label="Decorative elements (painting, etching, applied details) intact" / / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements (painting, etching, applied details) intact" / />}}
   
-  {{< interactive-modules/checklist-item label="Original hardware (screws, fittings, collars) present" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (screws, fittings, collars) present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Valuable Antique Oil Lamps" level="2" >}}

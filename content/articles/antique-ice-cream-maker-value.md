@@ -141,13 +141,13 @@ Certain manufacturers have established reputations for quality and innovation:
 Condition dramatically impacts value, with complete, working units commanding substantial premiums over incomplete or damaged examples.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of a vintage ice cream maker" >}}
-  {{< interactive-modules/checklist-item label="Original wooden bucket intact with all staves and bands" / / />}}
-  {{< interactive-modules/checklist-item label="Complete dasher and hand crank mechanism present" / / />}}
-  {{< interactive-modules/checklist-item label="Gears function smoothly without excessive wear" / / />}}
-  {{< interactive-modules/checklist-item label="Interior metal canister free from significant rust or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer's markings or decals visible" / / />}}
-  {{< interactive-modules/checklist-item label="All hardware present (screws, brackets, lid fasteners)" / / />}}
-  {{< interactive-modules/checklist-item label="For electric models: wiring and motor in safe, working condition" / / />}}
+  {{< interactive-modules/checklist-item label="Original wooden bucket intact with all staves and bands" / />}}
+  {{< interactive-modules/checklist-item label="Complete dasher and hand crank mechanism present" / />}}
+  {{< interactive-modules/checklist-item label="Gears function smoothly without excessive wear" / />}}
+  {{< interactive-modules/checklist-item label="Interior metal canister free from significant rust or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer's markings or decals visible" / />}}
+  {{< interactive-modules/checklist-item label="All hardware present (screws, brackets, lid fasteners)" / />}}
+  {{< interactive-modules/checklist-item label="For electric models: wiring and motor in safe, working condition" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness

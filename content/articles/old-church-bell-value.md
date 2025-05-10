@@ -236,14 +236,14 @@ Size matters significantly in church bell valuation:
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Church Bell Condition Factors" description="Check applicable items to assess your bell's condition" >}}
-  {{< interactive-modules/checklist-item label="Bell is intact with no cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original clapper is present and functional" / / />}}
-  {{< interactive-modules/checklist-item label="Original mounting hardware/yoke is included" / / />}}
-  {{< interactive-modules/checklist-item label="Surface patina is consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Inscription/maker's mark is clearly visible" / / />}}
-  {{< interactive-modules/checklist-item label="Bell produces a clear, resonant tone" / / />}}
-  {{< interactive-modules/checklist-item label="No significant corrosion or metal deterioration" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance is available" / / />}}
+  {{< interactive-modules/checklist-item label="Bell is intact with no cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original clapper is present and functional" / />}}
+  {{< interactive-modules/checklist-item label="Original mounting hardware/yoke is included" / />}}
+  {{< interactive-modules/checklist-item label="Surface patina is consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Inscription/maker's mark is clearly visible" / />}}
+  {{< interactive-modules/checklist-item label="Bell produces a clear, resonant tone" / />}}
+  {{< interactive-modules/checklist-item label="No significant corrosion or metal deterioration" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance is available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition is perhaps the most critical factor in determining a church bell's value. Cracks, repairs, or significant damage can reduce a bell's value by 50% or more, as they affect both the bell's appearance and its sound.

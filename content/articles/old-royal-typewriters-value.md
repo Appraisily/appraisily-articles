@@ -135,14 +135,14 @@ Generally, older Royal typewriters (especially pre-1940 models) tend to command 
 Condition dramatically impacts value, with fully functional, well-maintained machines worth substantially more than non-working or damaged examples.
 
 {{< interactive-modules/condition-checklist title="Royal Typewriter Condition Assessment" description="Check applicable items to gauge your typewriter's condition" >}}
-  {{< interactive-modules/checklist-item label="All keys function properly" / / />}}
-  {{< interactive-modules/checklist-item label="Carriage moves smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="Ribbon mechanism works" / / />}}
-  {{< interactive-modules/checklist-item label="No missing keys or parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Glass keys intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original case included" / / />}}
-  {{< interactive-modules/checklist-item label="Decals and badges present" / / />}}
+  {{< interactive-modules/checklist-item label="All keys function properly" / />}}
+  {{< interactive-modules/checklist-item label="Carriage moves smoothly" / />}}
+  {{< interactive-modules/checklist-item label="Ribbon mechanism works" / />}}
+  {{< interactive-modules/checklist-item label="No missing keys or parts" / />}}
+  {{< interactive-modules/checklist-item label="Original paint in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Glass keys intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original case included" / />}}
+  {{< interactive-modules/checklist-item label="Decals and badges present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity

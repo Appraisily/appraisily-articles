@@ -76,14 +76,14 @@ According to [Ever So Scrumptious](https://www.eversoscrumptious.com/2023/02/sel
 Condition is perhaps the most critical factor in determining a mink coat's worth:
 
 {{< interactive-modules/condition-checklist title="Mink Coat Condition Assessment" description="Check applicable conditions to estimate your mink coat's quality level" >}}
-  {{< interactive-modules/checklist-item label="Fur is soft and shiny with no significant shedding" / / />}}
-  {{< interactive-modules/checklist-item label="No dryness, cracking or brittleness in the leather backing" / / />}}
-  {{< interactive-modules/checklist-item label="Lining is intact without tears or significant wear" / / />}}
-  {{< interactive-modules/checklist-item label="No odors (smoke, mildew, or musty smells)" / / />}}
-  {{< interactive-modules/checklist-item label="No tears, missing sections, or bald patches" / / />}}
-  {{< interactive-modules/checklist-item label="Original closures (buttons, hooks) intact and functional" / / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or sun fading" / / />}}
-  {{< interactive-modules/checklist-item label="Professionally stored and maintained" / / />}}
+  {{< interactive-modules/checklist-item label="Fur is soft and shiny with no significant shedding" / />}}
+  {{< interactive-modules/checklist-item label="No dryness, cracking or brittleness in the leather backing" / />}}
+  {{< interactive-modules/checklist-item label="Lining is intact without tears or significant wear" / />}}
+  {{< interactive-modules/checklist-item label="No odors (smoke, mildew, or musty smells)" / />}}
+  {{< interactive-modules/checklist-item label="No tears, missing sections, or bald patches" / />}}
+  {{< interactive-modules/checklist-item label="Original closures (buttons, hooks) intact and functional" / />}}
+  {{< interactive-modules/checklist-item label="No discoloration or sun fading" / />}}
+  {{< interactive-modules/checklist-item label="Professionally stored and maintained" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Poor condition can reduce a mink coat's value by 70-90%. According to JustAnswer appraisals, even vintage union-made wool mink coats from the 1970s in less-than-perfect condition may only be worth $50-70 in today's market.

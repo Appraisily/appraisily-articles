@@ -222,14 +222,14 @@ The best appraisers can clearly explain:
 - The final valuation in writing
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist to evaluate potential appraisers" >}}
-  {{< interactive-modules/checklist-item label="Has relevant professional credentials (ISA, ASA, AAA)" / / />}}
-  {{< interactive-modules/checklist-item label="Specializes in your type of antiques" / / />}}
-  {{< interactive-modules/checklist-item label="Provides a clear, written fee structure" / / />}}
-  {{< interactive-modules/checklist-item label="Complies with USPAP standards" / / />}}
-  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / / />}}
-  {{< interactive-modules/checklist-item label="Offers references from previous clients" / / />}}
-  {{< interactive-modules/checklist-item label="Provides detailed written appraisals" / / />}}
-  {{< interactive-modules/checklist-item label="Has no conflicts of interest (doesn't offer to buy items they appraise)" / / />}}
+  {{< interactive-modules/checklist-item label="Has relevant professional credentials (ISA, ASA, AAA)" / />}}
+  {{< interactive-modules/checklist-item label="Specializes in your type of antiques" / />}}
+  {{< interactive-modules/checklist-item label="Provides a clear, written fee structure" / />}}
+  {{< interactive-modules/checklist-item label="Complies with USPAP standards" / />}}
+  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / />}}
+  {{< interactive-modules/checklist-item label="Offers references from previous clients" / />}}
+  {{< interactive-modules/checklist-item label="Provides detailed written appraisals" / />}}
+  {{< interactive-modules/checklist-item label="Has no conflicts of interest (doesn't offer to buy items they appraise)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Antique items on display for valuation](https://ik.imagekit.io/appraisily/SEO/best-antique-appraisers-near-me/best-antique-appraisers-near-me-image-4_YRHpwlWOf.png)

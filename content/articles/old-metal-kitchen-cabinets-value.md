@@ -171,14 +171,14 @@ If you're trying to establish how much your metal cabinets are worth, consider t
 Condition is paramount when determining metal cabinet value. Rust, dents, and missing hardware can significantly reduce worth, while pristine original finishes command premiums.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate your metal cabinets' condition" >}}
-  {{< interactive-modules/checklist-item label="Original paint finish intact and shiny" / / />}}
-  {{< interactive-modules/checklist-item label="No visible rust spots or deep scratches" / / />}}
-  {{< interactive-modules/checklist-item label="All original hardware present" / / />}}
-  {{< interactive-modules/checklist-item label="Drawers slide smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="Cabinet doors align properly" / / />}}
-  {{< interactive-modules/checklist-item label="No significant dents or warping" / / />}}
-  {{< interactive-modules/checklist-item label="Interior surfaces clean and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer stamps visible" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint finish intact and shiny" / />}}
+  {{< interactive-modules/checklist-item label="No visible rust spots or deep scratches" / />}}
+  {{< interactive-modules/checklist-item label="All original hardware present" / />}}
+  {{< interactive-modules/checklist-item label="Drawers slide smoothly" / />}}
+  {{< interactive-modules/checklist-item label="Cabinet doors align properly" / />}}
+  {{< interactive-modules/checklist-item label="No significant dents or warping" / />}}
+  {{< interactive-modules/checklist-item label="Interior surfaces clean and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Original manufacturer stamps visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color

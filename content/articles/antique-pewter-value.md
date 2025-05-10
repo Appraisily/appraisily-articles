@@ -232,12 +232,12 @@ The composition of pewter has changed over centuries. Very early pewter (pre-180
 - Antique pewter often makes a dull sound when tapped, compared to a more resonant sound from modern pieces
 
 {{< interactive-modules/condition-checklist title="Antique Pewter Authentication Checklist" description="Use this checklist to help determine if your pewter item is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Visible maker's mark or touchmark present" / / />}}
-  {{< interactive-modules/checklist-item label="Patina appears natural and aged, not artificially applied" / / />}}
-  {{< interactive-modules/checklist-item label="Construction shows evidence of hand-crafting" / / />}}
-  {{< interactive-modules/checklist-item label="Weight feels substantial and appropriate for age" / / />}}
-  {{< interactive-modules/checklist-item label="Design is consistent with known historical styles" / / />}}
-  {{< interactive-modules/checklist-item label="Surface has subtle irregularities typical of handwork" / / />}}
+  {{< interactive-modules/checklist-item label="Visible maker's mark or touchmark present" / />}}
+  {{< interactive-modules/checklist-item label="Patina appears natural and aged, not artificially applied" / />}}
+  {{< interactive-modules/checklist-item label="Construction shows evidence of hand-crafting" / />}}
+  {{< interactive-modules/checklist-item label="Weight feels substantial and appropriate for age" / />}}
+  {{< interactive-modules/checklist-item label="Design is consistent with known historical styles" / />}}
+  {{< interactive-modules/checklist-item label="Surface has subtle irregularities typical of handwork" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Antique Pewter Categories" level="2" >}}

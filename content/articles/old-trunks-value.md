@@ -238,13 +238,13 @@ Condition significantly affects an antique trunk's value. According to [wikiHow'
 Key condition factors include:
 
 {{< interactive-modules/condition-checklist title="Trunk Condition Assessment Checklist" description="Check applicable conditions to help estimate value impact" >}}
-  {{< interactive-modules/checklist-item label="Original hardware present and intact" / / />}}
-  {{< interactive-modules/checklist-item label="Interior lining in good condition with minimal staining" / / />}}
-  {{< interactive-modules/checklist-item label="Functioning lock with key" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish or patina without modern paint" / / />}}
-  {{< interactive-modules/checklist-item label="Solid construction with no significant structural damage" / / />}}
-  {{< interactive-modules/checklist-item label="Free of mold, mildew, or strong odors" / / />}}
-  {{< interactive-modules/checklist-item label="No significant water damage or warping" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware present and intact" / />}}
+  {{< interactive-modules/checklist-item label="Interior lining in good condition with minimal staining" / />}}
+  {{< interactive-modules/checklist-item label="Functioning lock with key" / />}}
+  {{< interactive-modules/checklist-item label="Original finish or patina without modern paint" / />}}
+  {{< interactive-modules/checklist-item label="Solid construction with no significant structural damage" / />}}
+  {{< interactive-modules/checklist-item label="Free of mold, mildew, or strong odors" / />}}
+  {{< interactive-modules/checklist-item label="No significant water damage or warping" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Restoration affects value too, but in complex ways. Professional restoration that preserves original elements while making the piece functional can enhance value, while poor-quality repairs or modifications that alter original features typically decrease worth.

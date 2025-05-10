@@ -158,14 +158,14 @@ Trunks made by recognized manufacturers typically hold greater value than unmark
 Condition is perhaps the single most important factor in determining an antique trunk's value. Here's what collectors and appraisers look for:
 
 {{< interactive-modules/condition-checklist title="Antique Trunk Condition Factors" description="Elements that affect valuation based on condition" >}}
-{{< interactive-modules/checklist-item label="Original hardware (hinges, locks, handles) intact and functioning" / / />}}
-{{< interactive-modules/checklist-item label="Interior compartments, trays, and dividers present and undamaged" / / />}}
-{{< interactive-modules/checklist-item label="Original canvas, leather, or paper covering in good condition" / / />}}
-{{< interactive-modules/checklist-item label="Minimal wood damage, with no significant cracks or warping" / / />}}
-{{< interactive-modules/checklist-item label="Working lock mechanism with original key" / / />}}
-{{< interactive-modules/checklist-item label="Original finish or patina rather than modern paint or refinishing" / / />}}
-{{< interactive-modules/checklist-item label="Free from excessive moisture damage, mold, or musty odors" / / />}}
-{{< interactive-modules/checklist-item label="Lid that opens and closes properly with stable hinges" / / />}}
+{{< interactive-modules/checklist-item label="Original hardware (hinges, locks, handles) intact and functioning" / />}}
+{{< interactive-modules/checklist-item label="Interior compartments, trays, and dividers present and undamaged" / />}}
+{{< interactive-modules/checklist-item label="Original canvas, leather, or paper covering in good condition" / />}}
+{{< interactive-modules/checklist-item label="Minimal wood damage, with no significant cracks or warping" / />}}
+{{< interactive-modules/checklist-item label="Working lock mechanism with original key" / />}}
+{{< interactive-modules/checklist-item label="Original finish or patina rather than modern paint or refinishing" / />}}
+{{< interactive-modules/checklist-item label="Free from excessive moisture damage, mold, or musty odors" / />}}
+{{< interactive-modules/checklist-item label="Lid that opens and closes properly with stable hinges" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Unique Features
@@ -348,12 +348,12 @@ Beware of these restoration approaches that typically decrease value:
 For maintaining your antique trunk's value:
 
 {{< interactive-modules/condition-checklist title="Antique Trunk Preservation Tips" description="Follow these guidelines to maintain your trunk's condition and value" >}}
-{{< interactive-modules/checklist-item label="Store in climate-controlled environment with stable humidity" / / />}}
-{{< interactive-modules/checklist-item label="Clean with appropriate methods for specific materials (wood, metal, leather)" / / />}}
-{{< interactive-modules/checklist-item label="Avoid direct sunlight to prevent fading of coverings" / / />}}
-{{< interactive-modules/checklist-item label="Use archival materials for storing any documents inside the trunk" / / />}}
-{{< interactive-modules/checklist-item label="Apply appropriate leather conditioners to prevent cracking" / / />}}
-{{< interactive-modules/checklist-item label="Consult specialists before attempting any significant repairs" / / />}}
+{{< interactive-modules/checklist-item label="Store in climate-controlled environment with stable humidity" / />}}
+{{< interactive-modules/checklist-item label="Clean with appropriate methods for specific materials (wood, metal, leather)" / />}}
+{{< interactive-modules/checklist-item label="Avoid direct sunlight to prevent fading of coverings" / />}}
+{{< interactive-modules/checklist-item label="Use archival materials for storing any documents inside the trunk" / />}}
+{{< interactive-modules/checklist-item label="Apply appropriate leather conditioners to prevent cracking" / />}}
+{{< interactive-modules/checklist-item label="Consult specialists before attempting any significant repairs" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Buy and Sell Antique Trunks" level="2" >}}

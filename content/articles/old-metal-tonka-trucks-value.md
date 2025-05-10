@@ -134,12 +134,12 @@ When assessing old metal Tonka trucks, collectors typically use a condition scal
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Tonka Truck Condition Assessment" description="Check applicable items to determine your truck's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Mint: No visible wear, original paint intact, no rust, all original parts present" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent: Minimal play wear, 90%+ original paint, no significant rust, all parts present" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good: Light play wear, minor paint chips, slight rust possible, all important parts present" / / />}}
-  {{< interactive-modules/checklist-item label="Good: Noticeable play wear, paint chips or fading, some rust may be present, minor parts may be missing" / / />}}
-  {{< interactive-modules/checklist-item label="Fair: Significant wear, considerable paint loss, rust present, parts missing" / / />}}
-  {{< interactive-modules/checklist-item label="Poor: Heavy wear, extensive rust, major paint loss, significant parts missing" / / />}}
+  {{< interactive-modules/checklist-item label="Mint: No visible wear, original paint intact, no rust, all original parts present" / />}}
+  {{< interactive-modules/checklist-item label="Excellent: Minimal play wear, 90%+ original paint, no significant rust, all parts present" / />}}
+  {{< interactive-modules/checklist-item label="Very Good: Light play wear, minor paint chips, slight rust possible, all important parts present" / />}}
+  {{< interactive-modules/checklist-item label="Good: Noticeable play wear, paint chips or fading, some rust may be present, minor parts may be missing" / />}}
+  {{< interactive-modules/checklist-item label="Fair: Significant wear, considerable paint loss, rust present, parts missing" / />}}
+  {{< interactive-modules/checklist-item label="Poor: Heavy wear, extensive rust, major paint loss, significant parts missing" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Original Packaging

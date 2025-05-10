@@ -195,14 +195,14 @@ The construction methods used can also provide dating clues:
 4. **Materials**: The presence of materials like nickel, chrome, porcelain enamel, or mica windows can indicate different manufacturing periods
 
 {{< interactive-modules/condition-checklist title="Antique Wood Stove Age Assessment Checklist" description="Check applicable items to help determine the approximate age of your stove" >}}
-  {{< interactive-modules/checklist-item label="Simple design with minimal decoration" / / />}}
-  {{< interactive-modules/checklist-item label="Visible bolts connecting major components" / / />}}
-  {{< interactive-modules/checklist-item label="Highly ornate Victorian-style decoration" / / />}}
-  {{< interactive-modules/checklist-item label="Nickel-plated trim elements" / / />}}
-  {{< interactive-modules/checklist-item label="Ceramic or porcelain enamel components" / / />}}
-  {{< interactive-modules/checklist-item label="Patent dates from before 1900" / / />}}
-  {{< interactive-modules/checklist-item label="Thick, heavy cast iron construction" / / />}}
-  {{< interactive-modules/checklist-item label="Mica windows in doors or panels" / / />}}
+  {{< interactive-modules/checklist-item label="Simple design with minimal decoration" / />}}
+  {{< interactive-modules/checklist-item label="Visible bolts connecting major components" / />}}
+  {{< interactive-modules/checklist-item label="Highly ornate Victorian-style decoration" / />}}
+  {{< interactive-modules/checklist-item label="Nickel-plated trim elements" / />}}
+  {{< interactive-modules/checklist-item label="Ceramic or porcelain enamel components" / />}}
+  {{< interactive-modules/checklist-item label="Patent dates from before 1900" / />}}
+  {{< interactive-modules/checklist-item label="Thick, heavy cast iron construction" / />}}
+  {{< interactive-modules/checklist-item label="Mica windows in doors or panels" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Assessing Value and Authenticity" level="2" >}}

@@ -141,14 +141,14 @@ The Hoosier Manufacturing Company's slogan—"The Kitchen Cabinet That Saves Mil
 Authenticity significantly impacts the value of antique Hoosier cabinets. The most valuable examples come from recognized manufacturers and retain their original features and hardware. Here are key identification markers:
 
 {{< interactive-modules/condition-checklist title="Authentic Hoosier Cabinet Identification Checklist" description="Look for these features when authenticating a Hoosier cabinet" >}}
-  {{< interactive-modules/checklist-item label="Manufacturer's marks or labels (often on the back or inside drawers)" / / />}}
-  {{< interactive-modules/checklist-item label="Built-in flour sifter with metal construction" / / />}}
-  {{< interactive-modules/checklist-item label="Original porcelain or metal work surface" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate hardware (pulls, latches, hinges)" / / />}}
-  {{< interactive-modules/checklist-item label="Pull-out or sliding surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="Tambour (roll-top) doors on some models" / / />}}
-  {{< interactive-modules/checklist-item label="Original glass containers or spice jars" / / />}}
-  {{< interactive-modules/checklist-item label="Construction from oak, maple, or other period-appropriate woods" / / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's marks or labels (often on the back or inside drawers)" / />}}
+  {{< interactive-modules/checklist-item label="Built-in flour sifter with metal construction" / />}}
+  {{< interactive-modules/checklist-item label="Original porcelain or metal work surface" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate hardware (pulls, latches, hinges)" / />}}
+  {{< interactive-modules/checklist-item label="Pull-out or sliding surfaces" / />}}
+  {{< interactive-modules/checklist-item label="Tambour (roll-top) doors on some models" / />}}
+  {{< interactive-modules/checklist-item label="Original glass containers or spice jars" / />}}
+  {{< interactive-modules/checklist-item label="Construction from oak, maple, or other period-appropriate woods" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Popular manufacturers included:

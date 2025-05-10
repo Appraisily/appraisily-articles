@@ -354,16 +354,16 @@ The appraisal culminates in a detailed report typically including:
 - **Appraiser Credentials**: Information about the appraiser's qualifications and certifications
 
 {{< interactive-modules/condition-checklist title="Artifact Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your Native American artifacts before appraisal" >}}
-  {{< interactive-modules/checklist-item label="Item is complete with no missing parts or pieces" / / />}}
-  {{< interactive-modules/checklist-item label="No visible cracks, chips, or breakage" / / />}}
-  {{< interactive-modules/checklist-item label="Original surface patina is intact and not cleaned away" / / />}}
-  {{< interactive-modules/checklist-item label="No evidence of modern repairs or restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Colors are vibrant and not significantly faded" / / />}}
-  {{< interactive-modules/checklist-item label="Materials show appropriate age characteristics" / / />}}
-  {{< interactive-modules/checklist-item label="No insect damage, mold, or environmental deterioration" / / />}}
-  {{< interactive-modules/checklist-item label="Item has stable structural integrity" / / />}}
-  {{< interactive-modules/checklist-item label="Any wear is consistent with authentic use and age" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance is available" / / />}}
+  {{< interactive-modules/checklist-item label="Item is complete with no missing parts or pieces" / />}}
+  {{< interactive-modules/checklist-item label="No visible cracks, chips, or breakage" / />}}
+  {{< interactive-modules/checklist-item label="Original surface patina is intact and not cleaned away" / />}}
+  {{< interactive-modules/checklist-item label="No evidence of modern repairs or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Colors are vibrant and not significantly faded" / />}}
+  {{< interactive-modules/checklist-item label="Materials show appropriate age characteristics" / />}}
+  {{< interactive-modules/checklist-item label="No insect damage, mold, or environmental deterioration" / />}}
+  {{< interactive-modules/checklist-item label="Item has stable structural integrity" / />}}
+  {{< interactive-modules/checklist-item label="Any wear is consistent with authentic use and age" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance is available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Authentication Methods and Standards" level="2" >}}

@@ -396,14 +396,14 @@ For pitchers that were part of sets (such as water sets with matching glasses), 
 Some patterns or manufacturers have stronger collector bases in specific regions, affecting values in local markets.
 
 {{< interactive-modules/condition-checklist title="Antique Glass Pitcher Condition Assessment" description="Check applicable items to evaluate the condition of your antique glass pitcher" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks present anywhere on the pitcher" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact with no clouding or etching" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern is clear and well-defined with no excessive wear" / / />}}
-  {{< interactive-modules/checklist-item label="No signs of repairs or restoration work" / / />}}
-  {{< interactive-modules/checklist-item label="Handle is firmly attached with no damage or wobbling" / / />}}
-  {{< interactive-modules/checklist-item label="Base sits flat without rocking or unevenness" / / />}}
-  {{< interactive-modules/checklist-item label="Glass has proper clarity without discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="No excessive scratches on base or body" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks present anywhere on the pitcher" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with no clouding or etching" / />}}
+  {{< interactive-modules/checklist-item label="Pattern is clear and well-defined with no excessive wear" / />}}
+  {{< interactive-modules/checklist-item label="No signs of repairs or restoration work" / />}}
+  {{< interactive-modules/checklist-item label="Handle is firmly attached with no damage or wobbling" / />}}
+  {{< interactive-modules/checklist-item label="Base sits flat without rocking or unevenness" / />}}
+  {{< interactive-modules/checklist-item label="Glass has proper clarity without discoloration" / />}}
+  {{< interactive-modules/checklist-item label="No excessive scratches on base or body" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Authentication Tips" level="2" >}}

@@ -112,12 +112,12 @@ Several key physical features can help identify genuine antique trivets:
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Antique Trivet Identification Checklist" description="Look for these characteristics when examining a potential antique trivet:" >}}
-{{< interactive-modules/checklist-item label="Casting/Sprue Marks" / / />}}
-{{< interactive-modules/checklist-item label="Appropriate Weight and Thickness" / / />}}
-{{< interactive-modules/checklist-item label="Signs of Hand Finishing" / / />}}
-{{< interactive-modules/checklist-item label="Period-Appropriate Design Elements" / / />}}
-{{< interactive-modules/checklist-item label="Natural Patina and Wear Patterns" / / />}}
-{{< interactive-modules/checklist-item label="Manufacturer Marks (when present)" / / />}}
+{{< interactive-modules/checklist-item label="Casting/Sprue Marks" / />}}
+{{< interactive-modules/checklist-item label="Appropriate Weight and Thickness" / />}}
+{{< interactive-modules/checklist-item label="Signs of Hand Finishing" / />}}
+{{< interactive-modules/checklist-item label="Period-Appropriate Design Elements" / />}}
+{{< interactive-modules/checklist-item label="Natural Patina and Wear Patterns" / />}}
+{{< interactive-modules/checklist-item label="Manufacturer Marks (when present)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As collector interest in antique trivets has increased, so has the market for reproductions. According to the [Real Or Repro](https://www.realorrepro.com/article/Trivets-New-and-Old) guide, authentic antique trivets generally have a substantial weight and feel to them, with casting and finishing details that reflect their handmade origins.
@@ -182,12 +182,12 @@ Condition plays a critical role in determining value. Collectors prefer trivets 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Condition Factors Affecting Value" description="Evaluate these aspects when assessing a trivet's condition:" >}}
-{{< interactive-modules/checklist-item label="Original surface intact (not repainted or refinished)" / / />}}
-{{< interactive-modules/checklist-item label="No cracks, chips, or repairs" / / />}}
-{{< interactive-modules/checklist-item label="Legs intact and level (no wobbling)" / / />}}
-{{< interactive-modules/checklist-item label="Appropriate patina for age" / / />}}
-{{< interactive-modules/checklist-item label="No excessive rust or pitting" / / />}}
-{{< interactive-modules/checklist-item label="Clear, readable design elements" / / />}}
+{{< interactive-modules/checklist-item label="Original surface intact (not repainted or refinished)" / />}}
+{{< interactive-modules/checklist-item label="No cracks, chips, or repairs" / />}}
+{{< interactive-modules/checklist-item label="Legs intact and level (no wobbling)" / />}}
+{{< interactive-modules/checklist-item label="Appropriate patina for age" / />}}
+{{< interactive-modules/checklist-item label="No excessive rust or pitting" / />}}
+{{< interactive-modules/checklist-item label="Clear, readable design elements" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Antique dealer Diana in her blog [Adirondack Girl at Heart](https://adirondackgirlatheart.com/tuesdays-take-on-antique-treasure-cas/) notes that trivets with various mottos (dating to the 1950s and after) sell extremely well from her antique booth for $10-15 each. This indicates that even later vintage pieces have a steady market when in good condition.
@@ -271,12 +271,12 @@ When purchasing antique cast iron trivets, buyers should exercise caution to avo
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Buyer's Checklist for Antique Trivets" description="Consider these factors before purchasing:" >}}
-{{< interactive-modules/checklist-item label="Research comparable sales prices before buying" / / />}}
-{{< interactive-modules/checklist-item label="Examine casting quality and detail" / / />}}
-{{< interactive-modules/checklist-item label="Look for appropriate patina and wear patterns" / / />}}
-{{< interactive-modules/checklist-item label="Check for proper weight and thickness" / / />}}
-{{< interactive-modules/checklist-item label="Verify that feet align properly (no wobbling)" / / />}}
-{{< interactive-modules/checklist-item label="Ask about provenance and history when available" / / />}}
+{{< interactive-modules/checklist-item label="Research comparable sales prices before buying" / />}}
+{{< interactive-modules/checklist-item label="Examine casting quality and detail" / />}}
+{{< interactive-modules/checklist-item label="Look for appropriate patina and wear patterns" / />}}
+{{< interactive-modules/checklist-item label="Check for proper weight and thickness" / />}}
+{{< interactive-modules/checklist-item label="Verify that feet align properly (no wobbling)" / />}}
+{{< interactive-modules/checklist-item label="Ask about provenance and history when available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The [Trivetology blog](https://trivetology.com/2017/09/01/antique-trivets/) recommends that new collectors start with a specific focus area—such as heart designs, mottos, or specific manufacturers—to develop expertise and avoid becoming overwhelmed by the variety available in the market.

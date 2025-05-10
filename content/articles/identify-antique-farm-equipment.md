@@ -101,11 +101,11 @@ According to the [Antique Tractors Forum](https://www.antiquetractorsforum.com/t
 The materials and construction techniques provide important dating clues:
 
 {{< interactive-modules/condition-checklist title="Material Identification Checklist" description="Check these material characteristics when examining antique farm equipment" >}}
-  {{< interactive-modules/checklist-item label="Hand-forged iron (pre-1870s)" / / />}}
-  {{< interactive-modules/checklist-item label="Cast iron components (common 1850-1930s)" / / />}}
-  {{< interactive-modules/checklist-item label="Transition from wood to metal handles (late 1800s)" / / />}}
-  {{< interactive-modules/checklist-item label="Machine-made uniform parts (post-1900)" / / />}}
-  {{< interactive-modules/checklist-item label="Welded versus riveted connections" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-forged iron (pre-1870s)" / />}}
+  {{< interactive-modules/checklist-item label="Cast iron components (common 1850-1930s)" / />}}
+  {{< interactive-modules/checklist-item label="Transition from wood to metal handles (late 1800s)" / />}}
+  {{< interactive-modules/checklist-item label="Machine-made uniform parts (post-1900)" / />}}
+  {{< interactive-modules/checklist-item label="Welded versus riveted connections" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Serial Numbers and Model Information
@@ -252,12 +252,12 @@ Not all old farm equipment is equally valuable:
 Condition dramatically impacts value:
 
 {{< interactive-modules/condition-checklist title="Condition Rating Guidelines" description="Evaluate these aspects to determine condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish preserved" / / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical components" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with all original parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original wood handles (not replaced)" / / />}}
-  {{< interactive-modules/checklist-item label="Free from excessive rust or deterioration" / / />}}
-  {{< interactive-modules/checklist-item label="Visible manufacturer marks/logos" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish preserved" / />}}
+  {{< interactive-modules/checklist-item label="Working mechanical components" / />}}
+  {{< interactive-modules/checklist-item label="Complete with all original parts" / />}}
+  {{< interactive-modules/checklist-item label="Original wood handles (not replaced)" / />}}
+  {{< interactive-modules/checklist-item label="Free from excessive rust or deterioration" / />}}
+  {{< interactive-modules/checklist-item label="Visible manufacturer marks/logos" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Originality vs. Restoration

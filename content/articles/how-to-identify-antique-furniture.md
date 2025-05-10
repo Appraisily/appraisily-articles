@@ -243,11 +243,11 @@ Examine how the wood was cut and how it has aged:
 - Quarter-sawn wood (showing "tiger stripes" or "flecking") was common in certain periods
 
 {{< interactive-modules/condition-checklist title="Wood Assessment Checklist" description="Check these elements when examining wood in potential antiques" >}}
-    {{< interactive-modules/checklist-item label="Irregular tool marks visible on unexposed surfaces" / / />}}
-    {{< interactive-modules/checklist-item label="Natural patina consistent with age" / / />}}
-    {{< interactive-modules/checklist-item label="Secondary woods appropriate for the period" / / />}}
-    {{< interactive-modules/checklist-item label="Evidence of natural wood shrinkage or warping" / / />}}
-    {{< interactive-modules/checklist-item label="Cut marks consistent with period technology" / / />}}
+    {{< interactive-modules/checklist-item label="Irregular tool marks visible on unexposed surfaces" / />}}
+    {{< interactive-modules/checklist-item label="Natural patina consistent with age" / />}}
+    {{< interactive-modules/checklist-item label="Secondary woods appropriate for the period" / />}}
+    {{< interactive-modules/checklist-item label="Evidence of natural wood shrinkage or warping" / />}}
+    {{< interactive-modules/checklist-item label="Cut marks consistent with period technology" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Hardware and Metal Components" level="2" >}}
@@ -460,11 +460,11 @@ Check these areas for original finish:
 - Areas protected by hardware
 
 {{< interactive-modules/condition-checklist title="Finish Assessment Checklist" description="Check for these indicators when examining furniture finishes" >}}
-    {{< interactive-modules/checklist-item label="Consistent patina appropriate to age" / / />}}
-    {{< interactive-modules/checklist-item label="Period-appropriate finish type" / / />}}
-    {{< interactive-modules/checklist-item label="Wear patterns in logical locations" / / />}}
-    {{< interactive-modules/checklist-item label="Original finish in protected areas" / / />}}
-    {{< interactive-modules/checklist-item label="No evidence of modern refinishing materials" / / />}}
+    {{< interactive-modules/checklist-item label="Consistent patina appropriate to age" / />}}
+    {{< interactive-modules/checklist-item label="Period-appropriate finish type" / />}}
+    {{< interactive-modules/checklist-item label="Wear patterns in logical locations" / />}}
+    {{< interactive-modules/checklist-item label="Original finish in protected areas" / />}}
+    {{< interactive-modules/checklist-item label="No evidence of modern refinishing materials" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Signs of Authenticity vs. Reproduction" level="2" >}}

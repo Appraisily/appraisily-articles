@@ -316,14 +316,14 @@ Authentic aging provides important authenticating clues:
 * Metal corrosion should be consistent with age and storage conditions
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use this checklist to evaluate whether an antique sewing tool is authentic" >}}
-  {{< interactive-modules/checklist-item label="Consistent patina appropriate to claimed age" / / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns match functional use" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing techniques match the claimed period" / / />}}
-  {{< interactive-modules/checklist-item label="Hallmarks or maker's marks are authentic and not added later" / / />}}
-  {{< interactive-modules/checklist-item label="Materials are appropriate for the claimed period" / / />}}
-  {{< interactive-modules/checklist-item label="Stylistic elements match known design periods" / / />}}
-  {{< interactive-modules/checklist-item label="No modern materials or adhesives in repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Weight and feel appropriate for claimed materials" / / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina appropriate to claimed age" / />}}
+  {{< interactive-modules/checklist-item label="Wear patterns match functional use" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturing techniques match the claimed period" / />}}
+  {{< interactive-modules/checklist-item label="Hallmarks or maker's marks are authentic and not added later" / />}}
+  {{< interactive-modules/checklist-item label="Materials are appropriate for the claimed period" / />}}
+  {{< interactive-modules/checklist-item label="Stylistic elements match known design periods" / />}}
+  {{< interactive-modules/checklist-item label="No modern materials or adhesives in repairs" / />}}
+  {{< interactive-modules/checklist-item label="Weight and feel appropriate for claimed materials" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Evaluating Condition and Completeness

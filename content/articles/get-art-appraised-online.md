@@ -191,12 +191,12 @@ Understanding how online art appraisals work will help you prepare properly and 
 The first and most crucial step is properly documenting your artwork with high-quality photographs:
 
 {{< interactive-modules/condition-checklist title="Art Documentation Checklist" description="Essential elements to include when photographing artwork for appraisal" >}}
-  {{< interactive-modules/checklist-item label="Full front view in natural light" / / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of signature or markings" / / />}}
-  {{< interactive-modules/checklist-item label="Photos of the back of the artwork" / / />}}
-  {{< interactive-modules/checklist-item label="Detail shots of any damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Image of artwork with measuring tool for scale" / / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of frame or mounting (if relevant)" / / />}}
+  {{< interactive-modules/checklist-item label="Full front view in natural light" / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of signature or markings" / />}}
+  {{< interactive-modules/checklist-item label="Photos of the back of the artwork" / />}}
+  {{< interactive-modules/checklist-item label="Detail shots of any damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Image of artwork with measuring tool for scale" / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of frame or mounting (if relevant)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Step 2: Gather Provenance Information

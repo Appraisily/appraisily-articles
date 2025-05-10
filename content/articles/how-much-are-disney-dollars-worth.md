@@ -210,14 +210,14 @@ Several key factors influence the collector value of Disney Dollars beyond just 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Disney Dollar Value Factors" description="Characteristics that increase the value of Disney Dollars" >}}
-  {{< interactive-modules/checklist-item label="Mint Condition (Uncirculated)" / / />}}
-  {{< interactive-modules/checklist-item label="Sequential or Special Serial Numbers" / / />}}
-  {{< interactive-modules/checklist-item label="Limited Edition Designs" / / />}}
-  {{< interactive-modules/checklist-item label="Anniversary or Commemorative Issues" / / />}}
-  {{< interactive-modules/checklist-item label="Character Rarity (Less Common Characters)" / / />}}
-  {{< interactive-modules/checklist-item label="First or Last Year of Issue" / / />}}
-  {{< interactive-modules/checklist-item label="Special Printing Errors" / / />}}
-  {{< interactive-modules/checklist-item label="Complete Sets with Original Packaging" / / />}}
+  {{< interactive-modules/checklist-item label="Mint Condition (Uncirculated)" / />}}
+  {{< interactive-modules/checklist-item label="Sequential or Special Serial Numbers" / />}}
+  {{< interactive-modules/checklist-item label="Limited Edition Designs" / />}}
+  {{< interactive-modules/checklist-item label="Anniversary or Commemorative Issues" / />}}
+  {{< interactive-modules/checklist-item label="Character Rarity (Less Common Characters)" / />}}
+  {{< interactive-modules/checklist-item label="First or Last Year of Issue" / />}}
+  {{< interactive-modules/checklist-item label="Special Printing Errors" / />}}
+  {{< interactive-modules/checklist-item label="Complete Sets with Original Packaging" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Assessment

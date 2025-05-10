@@ -158,13 +158,13 @@ Elgin produced watches with different "grades" of movements, ranging from 7 jewe
 The condition of the movement is perhaps the most crucial factor. A watch that runs properly with all original parts will be worth significantly more than one that's non-functional or has replacement components.
 
 {{< interactive-modules/condition-checklist title="Movement Condition Assessment" description="Check applicable items to evaluate your watch's movement condition" >}}
-  {{< interactive-modules/checklist-item label="Runs accurately without stopping" / / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Clean movement with no rust or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Balance wheel oscillates freely" / / />}}
-  {{< interactive-modules/checklist-item label="Jewels intact without chips or cracks" / / />}}
-  {{< interactive-modules/checklist-item label="No excessive wear on gear teeth" / / />}}
-  {{< interactive-modules/checklist-item label="Springs (mainspring and hairspring) in good condition" / / />}}
+  {{< interactive-modules/checklist-item label="Runs accurately without stopping" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Clean movement with no rust or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Balance wheel oscillates freely" / />}}
+  {{< interactive-modules/checklist-item label="Jewels intact without chips or cracks" / />}}
+  {{< interactive-modules/checklist-item label="No excessive wear on gear teeth" / />}}
+  {{< interactive-modules/checklist-item label="Springs (mainspring and hairspring) in good condition" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Dial Condition and Style

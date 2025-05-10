@@ -80,13 +80,13 @@ This comprehensive guide will walk you through the process of antique pocket wat
 When identifying an antique pocket watch, having the right tools not only makes the process easier but also helps protect the timepiece from potential damage. Here are the essentials:
 
 {{< interactive-modules/condition-checklist title="Pocket Watch Identification Toolkit" description="Recommended tools for examining antique pocket watches" >}}
-  {{< interactive-modules/checklist-item label="Magnifying glass or loupe (10x minimum)" / / />}}
-  {{< interactive-modules/checklist-item label="Soft, lint-free cloth for handling" / / />}}
-  {{< interactive-modules/checklist-item label="Case knife or proper case opener" / / />}}
-  {{< interactive-modules/checklist-item label="Small, soft brush for gentle cleaning" / / />}}
-  {{< interactive-modules/checklist-item label="White cotton gloves to prevent fingerprints" / / />}}
-  {{< interactive-modules/checklist-item label="Notepad for recording serial numbers and markings" / / />}}
-  {{< interactive-modules/checklist-item label="Digital camera or smartphone for documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Magnifying glass or loupe (10x minimum)" / />}}
+  {{< interactive-modules/checklist-item label="Soft, lint-free cloth for handling" / />}}
+  {{< interactive-modules/checklist-item label="Case knife or proper case opener" / />}}
+  {{< interactive-modules/checklist-item label="Small, soft brush for gentle cleaning" / />}}
+  {{< interactive-modules/checklist-item label="White cotton gloves to prevent fingerprints" / />}}
+  {{< interactive-modules/checklist-item label="Notepad for recording serial numbers and markings" / />}}
+  {{< interactive-modules/checklist-item label="Digital camera or smartphone for documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Remember that antique pocket watches are delicate precision instruments. If you're uncertain about opening a case or accessing the movement, consulting with a professional watchmaker is recommended to prevent damage to your timepiece.
@@ -321,14 +321,14 @@ Once you've identified your pocket watch, understanding what drives its value wi
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Pocket Watch Condition Factors" description="Factors affecting a pocket watch's condition rating and value" >}}
-  {{< interactive-modules/checklist-item label="Movement functions properly at all positions" / / />}}
-  {{< interactive-modules/checklist-item label="Case shows minimal wear appropriate for age" / / />}}
-  {{< interactive-modules/checklist-item label="Original dial with no major damage or restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Original hands matching the period and style" / / />}}
-  {{< interactive-modules/checklist-item label="Crystal clear and period-appropriate" / / />}}
-  {{< interactive-modules/checklist-item label="All parts are original to the watch" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish on case and movement" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with original box and papers (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="Movement functions properly at all positions" / />}}
+  {{< interactive-modules/checklist-item label="Case shows minimal wear appropriate for age" / />}}
+  {{< interactive-modules/checklist-item label="Original dial with no major damage or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Original hands matching the period and style" / />}}
+  {{< interactive-modules/checklist-item label="Crystal clear and period-appropriate" / />}}
+  {{< interactive-modules/checklist-item label="All parts are original to the watch" / />}}
+  {{< interactive-modules/checklist-item label="Original finish on case and movement" / />}}
+  {{< interactive-modules/checklist-item label="Complete with original box and papers (if applicable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Value Impact of Modifications and Repairs

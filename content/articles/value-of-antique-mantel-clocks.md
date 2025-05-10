@@ -145,14 +145,14 @@ Collectors Weekly notes that [unique and intricate designs](https://www.collecto
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Mantel Clock Condition Factors" description="Check applicable items to determine your clock's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original movement in working condition" / / />}}
-  {{< interactive-modules/checklist-item label="Undamaged case with original finish" / / />}}
-  {{< interactive-modules/checklist-item label="Original dial with clear numerals and hands" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with pendulum, key, and decorative elements" / / />}}
-  {{< interactive-modules/checklist-item label="No missing pieces or replaced parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original glass or porcelain elements intact" / / />}}
-  {{< interactive-modules/checklist-item label="Mechanism strikes properly (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history" / / />}}
+  {{< interactive-modules/checklist-item label="Original movement in working condition" / />}}
+  {{< interactive-modules/checklist-item label="Undamaged case with original finish" / />}}
+  {{< interactive-modules/checklist-item label="Original dial with clear numerals and hands" / />}}
+  {{< interactive-modules/checklist-item label="Complete with pendulum, key, and decorative elements" / />}}
+  {{< interactive-modules/checklist-item label="No missing pieces or replaced parts" / />}}
+  {{< interactive-modules/checklist-item label="Original glass or porcelain elements intact" / />}}
+  {{< interactive-modules/checklist-item label="Mechanism strikes properly (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 A clock's condition dramatically impacts its value. Working timepieces in original condition command significantly higher prices than non-functioning clocks or those with replacement parts. Professional restoration can enhance value when done properly, but poor-quality repairs can significantly decrease worth.

@@ -273,16 +273,16 @@ The maker is often the primary value driver, with French and certain German manu
 Condition dramatically impacts value, with mint or near-mint dolls sometimes worth ten times more than the same model with significant damage.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate your antique doll's condition" >}}
-  {{< interactive-modules/checklist-item label="No cracks, chips, or hairlines in the head" / / />}}
-  {{< interactive-modules/checklist-item label="Original glass eyes in good condition (not cloudy or loose)" / / />}}
-  {{< interactive-modules/checklist-item label="Original wig or molded hair intact and in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Original body with no significant repairs or replacements" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish without repainting or touch-ups" / / />}}
-  {{< interactive-modules/checklist-item label="Original clothing or appropriate period garments" / / />}}
-  {{< interactive-modules/checklist-item label="Limbs and joints in working order" / / />}}
-  {{< interactive-modules/checklist-item label="Clear maker's marks" / / />}}
-  {{< interactive-modules/checklist-item label="Original accessories present (shoes, socks, hats, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="No unpleasant odors or signs of moisture damage" / / />}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or hairlines in the head" / />}}
+  {{< interactive-modules/checklist-item label="Original glass eyes in good condition (not cloudy or loose)" / />}}
+  {{< interactive-modules/checklist-item label="Original wig or molded hair intact and in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Original body with no significant repairs or replacements" / />}}
+  {{< interactive-modules/checklist-item label="Original finish without repainting or touch-ups" / />}}
+  {{< interactive-modules/checklist-item label="Original clothing or appropriate period garments" / />}}
+  {{< interactive-modules/checklist-item label="Limbs and joints in working order" / />}}
+  {{< interactive-modules/checklist-item label="Clear maker's marks" / />}}
+  {{< interactive-modules/checklist-item label="Original accessories present (shoes, socks, hats, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="No unpleasant odors or signs of moisture damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Size

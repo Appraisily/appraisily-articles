@@ -203,12 +203,12 @@ Before seeking an appraisal, gather as much information about your item as possi
 For online appraisals, quality photographs are essential:
 
 {{< interactive-modules/condition-checklist title="Photo Checklist for Online Appraisals" description="Follow these guidelines when photographing items for appraisal submission" >}}
-  {{< interactive-modules/checklist-item label="Take multiple angles (front, back, top, bottom, sides)" / / />}}
-  {{< interactive-modules/checklist-item label="Include close-ups of signatures, marks, and any damage" / / />}}
-  {{< interactive-modules/checklist-item label="Use natural lighting without flash when possible" / / />}}
-  {{< interactive-modules/checklist-item label="Include a ruler or common object for scale" / / />}}
-  {{< interactive-modules/checklist-item label="Ensure photos are in focus and high resolution" / / />}}
-  {{< interactive-modules/checklist-item label="Clean the item (if safe to do so) before photographing" / / />}}
+  {{< interactive-modules/checklist-item label="Take multiple angles (front, back, top, bottom, sides)" / />}}
+  {{< interactive-modules/checklist-item label="Include close-ups of signatures, marks, and any damage" / />}}
+  {{< interactive-modules/checklist-item label="Use natural lighting without flash when possible" / />}}
+  {{< interactive-modules/checklist-item label="Include a ruler or common object for scale" / />}}
+  {{< interactive-modules/checklist-item label="Ensure photos are in focus and high resolution" / />}}
+  {{< interactive-modules/checklist-item label="Clean the item (if safe to do so) before photographing" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Multiple photographs of an antique item prepared for online appraisal](https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal/free-antique-appraisal-image-4_Im70iTK1Q.png)

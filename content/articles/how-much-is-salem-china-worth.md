@@ -145,12 +145,12 @@ Salem China produced numerous patterns throughout its history, some considerably
 Like all collectibles, condition significantly impacts Salem China value:
 
 {{< interactive-modules/condition-checklist title="Salem China Condition Assessment" description="Check applicable condition factors to help determine value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or crazing" / / />}}
-  {{< interactive-modules/checklist-item label="Gold trim intact without wear or fading" / / />}}
-  {{< interactive-modules/checklist-item label="No staining or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="Original glazing is bright and clear" / / />}}
-  {{< interactive-modules/checklist-item label="No utensil marks or scratches" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern remains vibrant" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or crazing" / />}}
+  {{< interactive-modules/checklist-item label="Gold trim intact without wear or fading" / />}}
+  {{< interactive-modules/checklist-item label="No staining or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="Original glazing is bright and clear" / />}}
+  {{< interactive-modules/checklist-item label="No utensil marks or scratches" / />}}
+  {{< interactive-modules/checklist-item label="Pattern remains vibrant" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Completeness

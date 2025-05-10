@@ -328,14 +328,14 @@ Several critical factors influence the market value of Van Gogh paintings, from 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Value Factors for Van Gogh Paintings" description="Key elements that determine a Van Gogh's market value" >}}
-{{< interactive-modules/checklist-item label="Period and Style: French period works (1886-1890) with vibrant colors command highest prices" / / />}}
-{{< interactive-modules/checklist-item label="Subject Matter: Iconic subjects like sunflowers, self-portraits, and cypress trees are most valuable" / / />}}
-{{< interactive-modules/checklist-item label="Size: Larger canvases typically command higher prices than smaller works" / / />}}
-{{< interactive-modules/checklist-item label="Provenance: Clear ownership history and prestigious previous owners increase value" / / />}}
-{{< interactive-modules/checklist-item label="Exhibition History: Works featured in major exhibitions carry enhanced prestige" / / />}}
-{{< interactive-modules/checklist-item label="Condition: Well-preserved paintings without significant restoration command premium prices" / / />}}
-{{< interactive-modules/checklist-item label="Literature References: Works featured in respected publications and catalogs gain validation" / / />}}
-{{< interactive-modules/checklist-item label="Authentication: Absolute certainty of authenticity is essential for maximum value" / / />}}
+{{< interactive-modules/checklist-item label="Period and Style: French period works (1886-1890) with vibrant colors command highest prices" / />}}
+{{< interactive-modules/checklist-item label="Subject Matter: Iconic subjects like sunflowers, self-portraits, and cypress trees are most valuable" / />}}
+{{< interactive-modules/checklist-item label="Size: Larger canvases typically command higher prices than smaller works" / />}}
+{{< interactive-modules/checklist-item label="Provenance: Clear ownership history and prestigious previous owners increase value" / />}}
+{{< interactive-modules/checklist-item label="Exhibition History: Works featured in major exhibitions carry enhanced prestige" / />}}
+{{< interactive-modules/checklist-item label="Condition: Well-preserved paintings without significant restoration command premium prices" / />}}
+{{< interactive-modules/checklist-item label="Literature References: Works featured in respected publications and catalogs gain validation" / />}}
+{{< interactive-modules/checklist-item label="Authentication: Absolute certainty of authenticity is essential for maximum value" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![A Van Gogh self-portrait painting that would be among his most valuable works](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-van-gogh-painting-worth/how-much-is-a-van-gogh-painting-worth-image-5_Rs8l4ACU4.png)

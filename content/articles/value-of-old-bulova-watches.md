@@ -95,10 +95,10 @@ For example, "NJ" would represent 1979, while "PA" would indicate 1980.
 Dating becomes more complex after the 1980s, with various systems used depending on the watch model and production location.
 
 {{< interactive-modules/condition-checklist title="Locating Bulova Date Codes" description="Where to look for date codes on your vintage Bulova watch:" >}}
-  {{< interactive-modules/checklist-item label="Case back (remove with proper tools)" / / />}}
-  {{< interactive-modules/checklist-item label="Inside the case (requires opening by a professional)" / / />}}
-  {{< interactive-modules/checklist-item label="On the movement itself" / / />}}
-  {{< interactive-modules/checklist-item label="Sometimes on the dial (rare)" / / />}}
+  {{< interactive-modules/checklist-item label="Case back (remove with proper tools)" / />}}
+  {{< interactive-modules/checklist-item label="Inside the case (requires opening by a professional)" / />}}
+  {{< interactive-modules/checklist-item label="On the movement itself" / />}}
+  {{< interactive-modules/checklist-item label="Sometimes on the dial (rare)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For the most accurate dating of your vintage Bulova watch, consider consulting specialist resources like [MyBulova.com](https://www.mybulova.com/), a comprehensive database maintained by Bulova collectors and experts.
@@ -234,14 +234,14 @@ Documentation and history can significantly enhance value:
 - Original boxes and papers
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Vintage Bulova Watches" description="Check all that apply to evaluate your watch's condition:" >}}
-  {{< interactive-modules/checklist-item label="Case shows original finish with minimal scratches or wear" / / />}}
-  {{< interactive-modules/checklist-item label="Dial is original with no refinishing, discoloration, or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Hands are original and match the watch model" / / />}}
-  {{< interactive-modules/checklist-item label="Crystal is clear with no significant scratches or cracks" / / />}}
-  {{< interactive-modules/checklist-item label="Movement is clean, functioning properly, and keeps accurate time" / / />}}
-  {{< interactive-modules/checklist-item label="All functions (date, chronograph, etc.) work correctly" / / />}}
-  {{< interactive-modules/checklist-item label="Original bracelet or strap is present and in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Original box, papers, and accessories are present" / / />}}
+  {{< interactive-modules/checklist-item label="Case shows original finish with minimal scratches or wear" / />}}
+  {{< interactive-modules/checklist-item label="Dial is original with no refinishing, discoloration, or damage" / />}}
+  {{< interactive-modules/checklist-item label="Hands are original and match the watch model" / />}}
+  {{< interactive-modules/checklist-item label="Crystal is clear with no significant scratches or cracks" / />}}
+  {{< interactive-modules/checklist-item label="Movement is clean, functioning properly, and keeps accurate time" / />}}
+  {{< interactive-modules/checklist-item label="All functions (date, chronograph, etc.) work correctly" / />}}
+  {{< interactive-modules/checklist-item label="Original bracelet or strap is present and in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Original box, papers, and accessories are present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Research Your Vintage Bulova Watch" level="2" >}}
@@ -360,12 +360,12 @@ Some restoration practices can significantly reduce the value of vintage Bulova 
 ### Best Practices for Service and Restoration
 
 {{< interactive-modules/condition-checklist title="Proper Vintage Bulova Service Guidelines" description="Follow these guidelines when having your vintage Bulova serviced:" >}}
-  {{< interactive-modules/checklist-item label="Use a watchmaker specializing in vintage watches" / / />}}
-  {{< interactive-modules/checklist-item label="Request that original parts be returned if replaced" / / />}}
-  {{< interactive-modules/checklist-item label="Specify minimal case polishing (or none)" / / />}}
-  {{< interactive-modules/checklist-item label="Obtain detailed documentation of all work performed" / / />}}
-  {{< interactive-modules/checklist-item label="Request before and after photographs" / / />}}
-  {{< interactive-modules/checklist-item label="For valuable models, seek second opinions" / / />}}
+  {{< interactive-modules/checklist-item label="Use a watchmaker specializing in vintage watches" / />}}
+  {{< interactive-modules/checklist-item label="Request that original parts be returned if replaced" / />}}
+  {{< interactive-modules/checklist-item label="Specify minimal case polishing (or none)" / />}}
+  {{< interactive-modules/checklist-item label="Obtain detailed documentation of all work performed" / />}}
+  {{< interactive-modules/checklist-item label="Request before and after photographs" / />}}
+  {{< interactive-modules/checklist-item label="For valuable models, seek second opinions" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Finding a Qualified Watchmaker

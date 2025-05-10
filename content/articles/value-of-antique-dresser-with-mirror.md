@@ -166,14 +166,14 @@ Construction quality is equally important. Pieces with dovetail joints, hand-car
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Dresser Condition Factors Affecting Value" description="The following factors significantly impact the value of an antique dresser with mirror:" >}}
-  {{< interactive-modules/checklist-item label="Original finish is intact and well-preserved" / / />}}
-  {{< interactive-modules/checklist-item label="Mirror is original with minimal silvering deterioration" / / />}}
-  {{< interactive-modules/checklist-item label="All original hardware (handles, pulls, hinges) present" / / />}}
-  {{< interactive-modules/checklist-item label="Drawers operate smoothly without damage" / / />}}
-  {{< interactive-modules/checklist-item label="No significant cracks, breaks, or repairs to the wood" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage, veneer lifting, or structural issues" / / />}}
-  {{< interactive-modules/checklist-item label="Original marble top (if applicable) without cracks" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact and well-preserved" / />}}
+  {{< interactive-modules/checklist-item label="Mirror is original with minimal silvering deterioration" / />}}
+  {{< interactive-modules/checklist-item label="All original hardware (handles, pulls, hinges) present" / />}}
+  {{< interactive-modules/checklist-item label="Drawers operate smoothly without damage" / />}}
+  {{< interactive-modules/checklist-item label="No significant cracks, breaks, or repairs to the wood" / />}}
+  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="No water damage, veneer lifting, or structural issues" / />}}
+  {{< interactive-modules/checklist-item label="Original marble top (if applicable) without cracks" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The condition of an antique dresser can dramatically affect its value. A well-preserved piece with its original finish, hardware, and mirror can fetch significantly higher prices than one with damage or extensive restoration. According to experts, a dresser in excellent condition can be worth 30-50% more than the same piece in poor condition.

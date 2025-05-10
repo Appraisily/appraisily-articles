@@ -260,14 +260,14 @@ Machine-made screws display these identifying characteristics:
 - **Consistency**: All screws from the same production run look identical.
 
 {{< interactive-modules/condition-checklist title="Hand-Made Screw Identification Checklist" description="Check the features that apply to your screw to determine if it was hand-made" >}}
-  {{< interactive-modules/checklist-item label="Irregular or inconsistent threading" / / />}}
-  {{< interactive-modules/checklist-item label="Tapering shaft (thicker near head)" / / />}}
-  {{< interactive-modules/checklist-item label="Visible file marks on threads" / / />}}
-  {{< interactive-modules/checklist-item label="Off-center slot in head" / / />}}
-  {{< interactive-modules/checklist-item label="Asymmetrical or irregularly shaped head" / / />}}
-  {{< interactive-modules/checklist-item label="Flat spot on shaft near head" / / />}}
-  {{< interactive-modules/checklist-item label="Blunt (not pointed) tip" / / />}}
-  {{< interactive-modules/checklist-item label="Uneven coloration or texture" / / />}}
+  {{< interactive-modules/checklist-item label="Irregular or inconsistent threading" / />}}
+  {{< interactive-modules/checklist-item label="Tapering shaft (thicker near head)" / />}}
+  {{< interactive-modules/checklist-item label="Visible file marks on threads" / />}}
+  {{< interactive-modules/checklist-item label="Off-center slot in head" / />}}
+  {{< interactive-modules/checklist-item label="Asymmetrical or irregularly shaped head" / />}}
+  {{< interactive-modules/checklist-item label="Flat spot on shaft near head" / />}}
+  {{< interactive-modules/checklist-item label="Blunt (not pointed) tip" / />}}
+  {{< interactive-modules/checklist-item label="Uneven coloration or texture" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Materials and Finishes" level="2" id="materials-and-finishes" >}}

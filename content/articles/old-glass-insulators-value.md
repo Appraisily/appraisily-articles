@@ -145,14 +145,14 @@ Certain manufacturers and specific models are more desirable to collectors. Whil
 As with most collectibles, condition significantly impacts value. Insulators in mint condition (no chips, cracks, or weathering) can be worth several times more than damaged examples of the same type.
 
 {{< interactive-modules/condition-checklist title="Glass Insulator Condition Assessment" description="Check applicable items to determine the condition of your insulator" >}}
-  {{< interactive-modules/checklist-item label="No chips or flakes on the glass surface" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or fractures (check by tapping gently - clear ring indicates no cracks)" / / />}}
-  {{< interactive-modules/checklist-item label="Original shiny surface with no case wear or clouding" / / />}}
-  {{< interactive-modules/checklist-item label="No interior bruises or stress marks" / / />}}
-  {{< interactive-modules/checklist-item label="Embossing is clear and legible" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" / / />}}
-  {{< interactive-modules/checklist-item label="Original threading intact (if threaded style)" / / />}}
-  {{< interactive-modules/checklist-item label="Clean with no mineral deposits or staining" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or flakes on the glass surface" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or fractures (check by tapping gently - clear ring indicates no cracks)" / />}}
+  {{< interactive-modules/checklist-item label="Original shiny surface with no case wear or clouding" / />}}
+  {{< interactive-modules/checklist-item label="No interior bruises or stress marks" / />}}
+  {{< interactive-modules/checklist-item label="Embossing is clear and legible" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" / />}}
+  {{< interactive-modules/checklist-item label="Original threading intact (if threaded style)" / />}}
+  {{< interactive-modules/checklist-item label="Clean with no mineral deposits or staining" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Age and Historical Significance

@@ -167,12 +167,12 @@ A key consideration when valuing J. Macdonald Henry's artwork is determining whe
 Original charcoal drawings by J. Macdonald Henry typically display these characteristics:
 
 {{< interactive-modules/condition-checklist title="Original Artwork Identification Checklist" description="Features that indicate an authentic original J. Macdonald Henry drawing" >}}
-  {{< interactive-modules/checklist-item label="Visible texture of charcoal medium on paper surface" / / />}}
-  {{< interactive-modules/checklist-item label="Slight variations in pressure and line quality" / / />}}
-  {{< interactive-modules/checklist-item label="Original signature (not printed)" / / />}}
-  {{< interactive-modules/checklist-item label="Paper shows natural aging consistent with creation date" / / />}}
-  {{< interactive-modules/checklist-item label="No dot patterns visible under magnification" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation or certificate of authenticity" / / />}}
+  {{< interactive-modules/checklist-item label="Visible texture of charcoal medium on paper surface" / />}}
+  {{< interactive-modules/checklist-item label="Slight variations in pressure and line quality" / />}}
+  {{< interactive-modules/checklist-item label="Original signature (not printed)" / />}}
+  {{< interactive-modules/checklist-item label="Paper shows natural aging consistent with creation date" / />}}
+  {{< interactive-modules/checklist-item label="No dot patterns visible under magnification" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation or certificate of authenticity" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Characteristics of J. Macdonald Henry Prints

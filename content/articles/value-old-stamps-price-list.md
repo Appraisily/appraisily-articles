@@ -137,13 +137,13 @@ Before examining specific price ranges, it's important to understand what makes 
 5. **Demand**: Collector interest in certain themes, countries, or periods affects market values.
 
 {{< interactive-modules/condition-checklist title="Stamp Condition Assessment" description="Check applicable items to assess your stamp's condition" >}}
-    {{< interactive-modules/checklist-item label="Original gum intact (for unused stamps)" / / />}}
-    {{< interactive-modules/checklist-item label="No tears, creases, or folds" / / />}}
-    {{< interactive-modules/checklist-item label="Strong, unfaded colors" / / />}}
-    {{< interactive-modules/checklist-item label="Good centering (design centered within margins)" / / />}}
-    {{< interactive-modules/checklist-item label="No thinning or paper loss" / / />}}
-    {{< interactive-modules/checklist-item label="Perforations intact and undamaged" / / />}}
-    {{< interactive-modules/checklist-item label="No stains, discoloration, or foxing" / / />}}
+    {{< interactive-modules/checklist-item label="Original gum intact (for unused stamps)" / />}}
+    {{< interactive-modules/checklist-item label="No tears, creases, or folds" / />}}
+    {{< interactive-modules/checklist-item label="Strong, unfaded colors" / />}}
+    {{< interactive-modules/checklist-item label="Good centering (design centered within margins)" / />}}
+    {{< interactive-modules/checklist-item label="No thinning or paper loss" / />}}
+    {{< interactive-modules/checklist-item label="Perforations intact and undamaged" / />}}
+    {{< interactive-modules/checklist-item label="No stains, discoloration, or foxing" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Rare U.S. Stamps Price List

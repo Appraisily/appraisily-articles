@@ -125,14 +125,14 @@ Sleds with documented history, especially those connected to notable families or
 Ornate details such as hand-painted designs, scrollwork on metal runners, or unique shapes (like the coveted swan-head sleds) add considerable value. These artistic touches transform functional items into decorative collectibles.
 
 {{< interactive-modules/condition-checklist title="Vintage Sled Value Assessment Checklist" description="Use this checklist to evaluate the collectible quality of an old sled" >}}
-  {{< interactive-modules/checklist-item label="Original paint and decals intact" / / />}}
-  {{< interactive-modules/checklist-item label="Metal runners free from significant rust" / / />}}
-  {{< interactive-modules/checklist-item label="Wood slats complete without replacements" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's marks or labels visible" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and fasteners present" / / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements well-preserved" / / />}}
-  {{< interactive-modules/checklist-item label="No structural damage or major repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Authentic aging patina (not artificially created)" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint and decals intact" / />}}
+  {{< interactive-modules/checklist-item label="Metal runners free from significant rust" / />}}
+  {{< interactive-modules/checklist-item label="Wood slats complete without replacements" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer's marks or labels visible" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and fasteners present" / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements well-preserved" / />}}
+  {{< interactive-modules/checklist-item label="No structural damage or major repairs" / />}}
+  {{< interactive-modules/checklist-item label="Authentic aging patina (not artificially created)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Price Ranges for Vintage Sleds" level="2" >}}

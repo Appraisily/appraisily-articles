@@ -179,13 +179,13 @@ Before hiring an appraiser, verify their qualifications, specialization, and pro
 Once you've identified potential appraisers, take time to verify their credentials:
 
 {{< interactive-modules/condition-checklist title="Appraiser Verification Checklist" description="Use this checklist to evaluate potential appraisers" >}}
-  {{< interactive-modules/checklist-item label="Holds certification from a recognized professional organization" / / />}}
-  {{< interactive-modules/checklist-item label="Specializes in your specific type of art or antiques" / / />}}
-  {{< interactive-modules/checklist-item label="Has verifiable references or reviews from past clients" / / />}}
-  {{< interactive-modules/checklist-item label="Maintains appropriate liability insurance" / / />}}
-  {{< interactive-modules/checklist-item label="Provides clear information about their appraisal methodology" / / />}}
-  {{< interactive-modules/checklist-item label="Offers a written contract detailing services and fees" / / />}}
-  {{< interactive-modules/checklist-item label="Adheres to USPAP (Uniform Standards of Professional Appraisal Practice)" / / />}}
+  {{< interactive-modules/checklist-item label="Holds certification from a recognized professional organization" / />}}
+  {{< interactive-modules/checklist-item label="Specializes in your specific type of art or antiques" / />}}
+  {{< interactive-modules/checklist-item label="Has verifiable references or reviews from past clients" / />}}
+  {{< interactive-modules/checklist-item label="Maintains appropriate liability insurance" / />}}
+  {{< interactive-modules/checklist-item label="Provides clear information about their appraisal methodology" / />}}
+  {{< interactive-modules/checklist-item label="Offers a written contract detailing services and fees" / />}}
+  {{< interactive-modules/checklist-item label="Adheres to USPAP (Uniform Standards of Professional Appraisal Practice)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Don't hesitate to ask potential appraisers about their experience with items similar to yours. A qualified appraiser will be transparent about their expertise and will refer you elsewhere if your items fall outside their specialty area.

@@ -164,11 +164,11 @@ The most valuable and collectible Old Company Plate patterns include:
 ### Materials and Construction
 
 {{< interactive-modules/condition-checklist title="Identifying Genuine Old Company Plate" description="Check for these characteristics to confirm authenticity" >}}
-  {{< interactive-modules/checklist-item label="'Old Company Plate' stamp clearly visible on back of items" / / />}}
-  {{< interactive-modules/checklist-item label="Silver plating shows appropriate patina for age" / / />}}
-  {{< interactive-modules/checklist-item label="Weight feels substantial (heavier than modern stainless steel)" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern details match known Old Company Plate designs" / / />}}
-  {{< interactive-modules/checklist-item label="Base metal (usually visible on worn areas) is copper-colored or nickel silver" / / />}}
+  {{< interactive-modules/checklist-item label="'Old Company Plate' stamp clearly visible on back of items" / />}}
+  {{< interactive-modules/checklist-item label="Silver plating shows appropriate patina for age" / />}}
+  {{< interactive-modules/checklist-item label="Weight feels substantial (heavier than modern stainless steel)" / />}}
+  {{< interactive-modules/checklist-item label="Pattern details match known Old Company Plate designs" / />}}
+  {{< interactive-modules/checklist-item label="Base metal (usually visible on worn areas) is copper-colored or nickel silver" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Factors Affecting Old Company Plate Value

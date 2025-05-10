@@ -120,12 +120,12 @@ Older Ashton Drake dolls, particularly those from the 1980s and 1990s, often com
 The condition of a doll is perhaps the most critical factor affecting its value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that maximize an Ashton Drake doll's value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to porcelain parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original clothing in excellent condition" / / />}}
-  {{< interactive-modules/checklist-item label="Hair intact without styling damage" / / />}}
-  {{< interactive-modules/checklist-item label="No fading, discoloration, or yellowing" / / />}}
-  {{< interactive-modules/checklist-item label="Joints and movable parts in working order" / / />}}
-  {{< interactive-modules/checklist-item label="No odors, stains, or signs of poor storage" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to porcelain parts" / />}}
+  {{< interactive-modules/checklist-item label="Original clothing in excellent condition" / />}}
+  {{< interactive-modules/checklist-item label="Hair intact without styling damage" / />}}
+  {{< interactive-modules/checklist-item label="No fading, discoloration, or yellowing" / />}}
+  {{< interactive-modules/checklist-item label="Joints and movable parts in working order" / />}}
+  {{< interactive-modules/checklist-item label="No odors, stains, or signs of poor storage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Original Packaging and Documentation

@@ -189,13 +189,13 @@ The condition of an Icart print significantly impacts its market value. Even min
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Louis Icart Print Condition Factors" description="Check applicable items to assess print condition" >}}
-{{< interactive-modules/checklist-item label="No foxing (brown spots) or staining" / / />}}
-{{< interactive-modules/checklist-item label="Original hand-coloring intact and vibrant" / / />}}
-{{< interactive-modules/checklist-item label="No tears, creases, or repairs" / / />}}
-{{< interactive-modules/checklist-item label="Proper framing with acid-free materials" / / />}}
-{{< interactive-modules/checklist-item label="Original margins preserved" / / />}}
-{{< interactive-modules/checklist-item label="No trimming or alteration to the image" / / />}}
-{{< interactive-modules/checklist-item label="Paper remains supple without brittleness" / / />}}
+{{< interactive-modules/checklist-item label="No foxing (brown spots) or staining" / />}}
+{{< interactive-modules/checklist-item label="Original hand-coloring intact and vibrant" / />}}
+{{< interactive-modules/checklist-item label="No tears, creases, or repairs" / />}}
+{{< interactive-modules/checklist-item label="Proper framing with acid-free materials" / />}}
+{{< interactive-modules/checklist-item label="Original margins preserved" / />}}
+{{< interactive-modules/checklist-item label="No trimming or alteration to the image" / />}}
+{{< interactive-modules/checklist-item label="Paper remains supple without brittleness" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Properly preserved prints in excellent condition can command prices 30-50% higher than similar works with condition issues. Conservation treatments, while sometimes necessary, should be disclosed when selling as they can affect value.

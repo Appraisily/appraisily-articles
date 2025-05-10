@@ -149,12 +149,12 @@ Manufacturers produced certain models in limited quantities, making them inheren
 As with most collectibles, condition significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Glass Insulator Condition Assessment" description="Features that determine mint condition status" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or flakes anywhere on the insulator" / / />}}
-  {{< interactive-modules/checklist-item label="Original glossy glass surface with no excessive case wear" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or scuffs on the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Complete, undamaged embossing/lettering" / / />}}
-  {{< interactive-modules/checklist-item label="No interior fractures, stress cracks, or bruises" / / />}}
-  {{< interactive-modules/checklist-item label="Original, unaltered color (not sun-colored amethyst)" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or flakes anywhere on the insulator" / />}}
+  {{< interactive-modules/checklist-item label="Original glossy glass surface with no excessive case wear" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or scuffs on the glass" / />}}
+  {{< interactive-modules/checklist-item label="Complete, undamaged embossing/lettering" / />}}
+  {{< interactive-modules/checklist-item label="No interior fractures, stress cracks, or bruises" / />}}
+  {{< interactive-modules/checklist-item label="Original, unaltered color (not sun-colored amethyst)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Manufacturer & Age

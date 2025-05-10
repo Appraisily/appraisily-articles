@@ -233,13 +233,13 @@ Auction results provide concrete evidence of market value:
 According to [The Hoarde](https://www.thehoarde.com/blog/how-to-value-your-antiques-4-helpful-tips), comparing similar sold items provides the most accurate value assessment, especially when multiple examples establish a price range.
 
 {{< interactive-modules/condition-checklist title="Research Checklist" description="Complete these steps for thorough antique value research" >}}
-  {{< interactive-modules/checklist-item label="Identify the maker and period" / / />}}
-  {{< interactive-modules/checklist-item label="Document condition with detailed photos" / / />}}
-  {{< interactive-modules/checklist-item label="Research similar items in price guides" / / />}}
-  {{< interactive-modules/checklist-item label="Check online databases for recent sales" / / />}}
-  {{< interactive-modules/checklist-item label="Consult specialist forums for unusual items" / / />}}
-  {{< interactive-modules/checklist-item label="Compare auction results for comparable pieces" / / />}}
-  {{< interactive-modules/checklist-item label="Document any provenance or history" / / />}}
+  {{< interactive-modules/checklist-item label="Identify the maker and period" / />}}
+  {{< interactive-modules/checklist-item label="Document condition with detailed photos" / />}}
+  {{< interactive-modules/checklist-item label="Research similar items in price guides" / />}}
+  {{< interactive-modules/checklist-item label="Check online databases for recent sales" / />}}
+  {{< interactive-modules/checklist-item label="Consult specialist forums for unusual items" / />}}
+  {{< interactive-modules/checklist-item label="Compare auction results for comparable pieces" / />}}
+  {{< interactive-modules/checklist-item label="Document any provenance or history" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Professional Appraisal Options" level="2" >}}

@@ -194,14 +194,14 @@ Don't underestimate the power of personal recommendations. Ask friends, family m
 ![A collection of various antiques arranged for appraisal](https://ik.imagekit.io/appraisily/SEO/valuation-of-antiques-near-me/valuation-of-antiques-near-me-image-3_6kaYzgJhj.png)
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist to evaluate potential appraisers before hiring them" >}}
-  {{< interactive-modules/checklist-item label="Holds membership in a recognized professional appraisal organization" / / />}}
-  {{< interactive-modules/checklist-item label="Has USPAP (Uniform Standards of Professional Appraisal Practice) certification" / / />}}
-  {{< interactive-modules/checklist-item label="Specializes in your specific type of antique" / / />}}
-  {{< interactive-modules/checklist-item label="Provides clear fee structure upfront" / / />}}
-  {{< interactive-modules/checklist-item label="Has positive reviews or testimonials" / / />}}
-  {{< interactive-modules/checklist-item label="Offers a formal written appraisal" / / />}}
-  {{< interactive-modules/checklist-item label="Has significant experience in the industry (5+ years)" / / />}}
-  {{< interactive-modules/checklist-item label="Maintains independence (no conflict of interest)" / / />}}
+  {{< interactive-modules/checklist-item label="Holds membership in a recognized professional appraisal organization" / />}}
+  {{< interactive-modules/checklist-item label="Has USPAP (Uniform Standards of Professional Appraisal Practice) certification" / />}}
+  {{< interactive-modules/checklist-item label="Specializes in your specific type of antique" / />}}
+  {{< interactive-modules/checklist-item label="Provides clear fee structure upfront" / />}}
+  {{< interactive-modules/checklist-item label="Has positive reviews or testimonials" / />}}
+  {{< interactive-modules/checklist-item label="Offers a formal written appraisal" / />}}
+  {{< interactive-modules/checklist-item label="Has significant experience in the industry (5+ years)" / />}}
+  {{< interactive-modules/checklist-item label="Maintains independence (no conflict of interest)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="What to Expect from a Professional Antique Appraisal" level="2" >}}

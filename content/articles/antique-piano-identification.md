@@ -282,16 +282,16 @@ The condition of an antique piano significantly affects both its playability and
    - Structural supports and bracings
 
 {{< interactive-modules/condition-checklist title="Antique Piano Condition Assessment" description="Check applicable items to assess your piano's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Case free of major cracks or damage" / / />}}
-  {{< interactive-modules/checklist-item label="All original decorative elements present" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set of original ivory/bone keys" / / />}}
-  {{< interactive-modules/checklist-item label="Soundboard free from significant cracks" / / />}}
-  {{< interactive-modules/checklist-item label="Tuning pins still hold tension" / / />}}
-  {{< interactive-modules/checklist-item label="Action mechanism responds properly" / / />}}
-  {{< interactive-modules/checklist-item label="Pedals function correctly" / / />}}
-  {{< interactive-modules/checklist-item label="Original strings in reasonable condition" / / />}}
-  {{< interactive-modules/checklist-item label="Piano can hold tune for extended periods" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Case free of major cracks or damage" / />}}
+  {{< interactive-modules/checklist-item label="All original decorative elements present" / />}}
+  {{< interactive-modules/checklist-item label="Complete set of original ivory/bone keys" / />}}
+  {{< interactive-modules/checklist-item label="Soundboard free from significant cracks" / />}}
+  {{< interactive-modules/checklist-item label="Tuning pins still hold tension" / />}}
+  {{< interactive-modules/checklist-item label="Action mechanism responds properly" / />}}
+  {{< interactive-modules/checklist-item label="Pedals function correctly" / />}}
+  {{< interactive-modules/checklist-item label="Original strings in reasonable condition" / />}}
+  {{< interactive-modules/checklist-item label="Piano can hold tune for extended periods" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Restoration Considerations

@@ -161,12 +161,12 @@ The geographical origin can also influence value. For example, American Federal 
 ### 3. Condition and Originality
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="The following aspects significantly impact antique furniture value:" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact" / / />}}
-  {{< interactive-modules/checklist-item label="All original hardware present" / / />}}
-  {{< interactive-modules/checklist-item label="No replaced or repaired components" / / />}}
-  {{< interactive-modules/checklist-item label="Original upholstery (though often replaced)" / / />}}
-  {{< interactive-modules/checklist-item label="No significant damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Proper structural integrity" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact" / />}}
+  {{< interactive-modules/checklist-item label="All original hardware present" / />}}
+  {{< interactive-modules/checklist-item label="No replaced or repaired components" / />}}
+  {{< interactive-modules/checklist-item label="Original upholstery (though often replaced)" / />}}
+  {{< interactive-modules/checklist-item label="No significant damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Proper structural integrity" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition is perhaps the most crucial factor affecting value. Furniture in original, unrestored condition with a natural patina typically fetches higher prices than heavily restored pieces. However, the impact of condition varies by era and style—minor wear might be acceptable on 18th-century pieces but devalue mid-century modern furniture.

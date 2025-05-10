@@ -175,13 +175,13 @@ Trusted business directories can help you find and evaluate local appraisers:
 Local museums, historical societies, and university art departments may offer limited appraisal services or can recommend respected appraisers in your community.
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Important factors to consider when selecting an antique appraiser" >}}
-  {{< interactive-modules/checklist-item label="Membership in professional appraisal organizations" / / />}}
-  {{< interactive-modules/checklist-item label="Relevant specialization in your item's category" / / />}}
-  {{< interactive-modules/checklist-item label="Years of experience in the field" / / />}}
-  {{< interactive-modules/checklist-item label="References or reviews from previous clients" / / />}}
-  {{< interactive-modules/checklist-item label="Clear fee structure provided upfront" / / />}}
-  {{< interactive-modules/checklist-item label="No conflict of interest (not offering to buy your items)" / / />}}
-  {{< interactive-modules/checklist-item label="Continuing education in their specialty area" / / />}}
+  {{< interactive-modules/checklist-item label="Membership in professional appraisal organizations" / />}}
+  {{< interactive-modules/checklist-item label="Relevant specialization in your item's category" / />}}
+  {{< interactive-modules/checklist-item label="Years of experience in the field" / />}}
+  {{< interactive-modules/checklist-item label="References or reviews from previous clients" / />}}
+  {{< interactive-modules/checklist-item label="Clear fee structure provided upfront" / />}}
+  {{< interactive-modules/checklist-item label="No conflict of interest (not offering to buy your items)" / />}}
+  {{< interactive-modules/checklist-item label="Continuing education in their specialty area" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="What to Expect During an Antique Appraisal" level="2" >}}

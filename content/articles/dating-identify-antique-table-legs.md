@@ -225,14 +225,14 @@ Original finishes can indicate age:
 - **Milk Paint:** Often found on country furniture, especially in America.
 
 {{< interactive-modules/condition-checklist title="Antique Table Leg Authentication Checklist" description="Use this checklist to assess potential antique table legs" >}}
-  {{< interactive-modules/checklist-item label="Shows signs of genuine age-appropriate wear and patina" / / />}}
-  {{< interactive-modules/checklist-item label="Wood matches the appropriate period (oak, walnut, mahogany, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-cut joinery appropriate to the purported period" / / />}}
-  {{< interactive-modules/checklist-item label="Tool marks consistent with hand tools for pre-1850s furniture" / / />}}
-  {{< interactive-modules/checklist-item label="Proportions and designs consistent with claimed period style" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of original finish or appropriate refinishing" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent wear patterns on feet and contact points" / / />}}
-  {{< interactive-modules/checklist-item label="No modern fasteners (Phillips head screws, staples, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Shows signs of genuine age-appropriate wear and patina" / />}}
+  {{< interactive-modules/checklist-item label="Wood matches the appropriate period (oak, walnut, mahogany, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Hand-cut joinery appropriate to the purported period" / />}}
+  {{< interactive-modules/checklist-item label="Tool marks consistent with hand tools for pre-1850s furniture" / />}}
+  {{< interactive-modules/checklist-item label="Proportions and designs consistent with claimed period style" / />}}
+  {{< interactive-modules/checklist-item label="Signs of original finish or appropriate refinishing" / />}}
+  {{< interactive-modules/checklist-item label="Consistent wear patterns on feet and contact points" / />}}
+  {{< interactive-modules/checklist-item label="No modern fasteners (Phillips head screws, staples, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Regional Variations in Table Leg Designs" level="2" >}}

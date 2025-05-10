@@ -149,13 +149,13 @@ According to expertise from [JustAnswer's antique appraisals](https://www.justan
 Condition significantly impacts an antique high chair's value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that affect the value assessment of antique high chairs" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and not heavily refinished" / / />}}
-  {{< interactive-modules/checklist-item label="Free of significant damage, repairs, or replaced parts" / / />}}
-  {{< interactive-modules/checklist-item label="Structural integrity with stable joints and no wobbling" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and tray mechanisms functional" / / />}}
-  {{< interactive-modules/checklist-item label="Free of excessive wear, deep scratches, or gouges" / / />}}
-  {{< interactive-modules/checklist-item label="No significant splits, cracks, or missing pieces" / / />}}
-  {{< interactive-modules/checklist-item label="Original decorative elements intact (carvings, turnings, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and not heavily refinished" / />}}
+  {{< interactive-modules/checklist-item label="Free of significant damage, repairs, or replaced parts" / />}}
+  {{< interactive-modules/checklist-item label="Structural integrity with stable joints and no wobbling" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and tray mechanisms functional" / />}}
+  {{< interactive-modules/checklist-item label="Free of excessive wear, deep scratches, or gouges" / />}}
+  {{< interactive-modules/checklist-item label="No significant splits, cracks, or missing pieces" / />}}
+  {{< interactive-modules/checklist-item label="Original decorative elements intact (carvings, turnings, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Craftsmanship and Materials

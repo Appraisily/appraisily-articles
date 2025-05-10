@@ -341,14 +341,14 @@ The most valuable Bicentennial quarters are generally rare error coins in the si
 {{< /data-modules/price-table >}}
 
 {{< interactive-modules/condition-checklist title="Bicentennial Quarter Value Factors Checklist" description="Check applicable items to determine if your quarter might be worth more than face value" >}}
-  {{< interactive-modules/checklist-item label="Has S mint mark (San Francisco)" / / />}}
-  {{< interactive-modules/checklist-item label="Is uncirculated with no wear or contact marks" / / />}}
-  {{< interactive-modules/checklist-item label="Has 40% silver composition (heavier and no copper visible on edge)" / / />}}
-  {{< interactive-modules/checklist-item label="Shows doubling in lettering or design elements" / / />}}
-  {{< interactive-modules/checklist-item label="Has off-center strike" / / />}}
-  {{< interactive-modules/checklist-item label="Shows evidence of being struck on wrong planchet" / / />}}
-  {{< interactive-modules/checklist-item label="Has rotated die error (reverse is not oriented correctly)" / / />}}
-  {{< interactive-modules/checklist-item label="Is part of original government packaging" / / />}}
+  {{< interactive-modules/checklist-item label="Has S mint mark (San Francisco)" / />}}
+  {{< interactive-modules/checklist-item label="Is uncirculated with no wear or contact marks" / />}}
+  {{< interactive-modules/checklist-item label="Has 40% silver composition (heavier and no copper visible on edge)" / />}}
+  {{< interactive-modules/checklist-item label="Shows doubling in lettering or design elements" / />}}
+  {{< interactive-modules/checklist-item label="Has off-center strike" / />}}
+  {{< interactive-modules/checklist-item label="Shows evidence of being struck on wrong planchet" / />}}
+  {{< interactive-modules/checklist-item label="Has rotated die error (reverse is not oriented correctly)" / />}}
+  {{< interactive-modules/checklist-item label="Is part of original government packaging" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Silver Bicentennial Quarters" level="2" >}}

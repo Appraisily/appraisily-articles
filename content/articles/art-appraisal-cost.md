@@ -169,11 +169,11 @@ All these factors typically result in higher appraisal fees for valuable or hist
 ### 4. Appraiser Credentials and Reputation
 
 {{< interactive-modules/condition-checklist title="Appraiser Credential Factors" description="These qualifications typically command higher appraisal fees" >}}
-  {{< interactive-modules/checklist-item label="Accreditation from major appraisal organizations (ASA, ISA, AAA)" / / />}}
-  {{< interactive-modules/checklist-item label="Advanced degrees in art history or related fields" / / />}}
-  {{< interactive-modules/checklist-item label="Specialized expertise in specific artists or periods" / / />}}
-  {{< interactive-modules/checklist-item label="Years of professional experience" / / />}}
-  {{< interactive-modules/checklist-item label="Museum or auction house background" / / />}}
+  {{< interactive-modules/checklist-item label="Accreditation from major appraisal organizations (ASA, ISA, AAA)" / />}}
+  {{< interactive-modules/checklist-item label="Advanced degrees in art history or related fields" / />}}
+  {{< interactive-modules/checklist-item label="Specialized expertise in specific artists or periods" / />}}
+  {{< interactive-modules/checklist-item label="Years of professional experience" / />}}
+  {{< interactive-modules/checklist-item label="Museum or auction house background" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 5. Geographic Location
@@ -228,11 +228,11 @@ According to [ArtCollection.io](https://artcollection.io/blog/how-much-do-apprai
 Beyond the base appraisal fee, you may encounter these additional charges:
 
 {{< interactive-modules/condition-checklist title="Potential Additional Fees" description="Other costs that may be added to your appraisal invoice" >}}
-  {{< interactive-modules/checklist-item label="Travel expenses ($175-$250/hour plus costs)" / / />}}
-  {{< interactive-modules/checklist-item label="Photography and documentation fees" / / />}}
-  {{< interactive-modules/checklist-item label="Rush service fees (typically 25-50% premium)" / / />}}
-  {{< interactive-modules/checklist-item label="Additional research costs for unusual items" / / />}}
-  {{< interactive-modules/checklist-item label="Authentication expenses (when required)" / / />}}
+  {{< interactive-modules/checklist-item label="Travel expenses ($175-$250/hour plus costs)" / />}}
+  {{< interactive-modules/checklist-item label="Photography and documentation fees" / />}}
+  {{< interactive-modules/checklist-item label="Rush service fees (typically 25-50% premium)" / />}}
+  {{< interactive-modules/checklist-item label="Additional research costs for unusual items" / />}}
+  {{< interactive-modules/checklist-item label="Authentication expenses (when required)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Art Appraisal Costs by Collection Type" level="2" >}}
@@ -349,11 +349,11 @@ Online appraisals typically cost less than traditional in-person services:
 While more affordable, online appraisals have significant drawbacks:
 
 {{< interactive-modules/condition-checklist title="Online Appraisal Limitations" description="Important restrictions to consider with digital appraisals" >}}
-  {{< interactive-modules/checklist-item label="Not suitable for insurance or tax purposes" / / />}}
-  {{< interactive-modules/checklist-item label="Cannot assess physical condition accurately" / / />}}
-  {{< interactive-modules/checklist-item label="Limited authentication capabilities" / / />}}
-  {{< interactive-modules/checklist-item label="Often not USPAP compliant" / / />}}
-  {{< interactive-modules/checklist-item label="May not be accepted by insurers or the IRS" / / />}}
+  {{< interactive-modules/checklist-item label="Not suitable for insurance or tax purposes" / />}}
+  {{< interactive-modules/checklist-item label="Cannot assess physical condition accurately" / />}}
+  {{< interactive-modules/checklist-item label="Limited authentication capabilities" / />}}
+  {{< interactive-modules/checklist-item label="Often not USPAP compliant" / />}}
+  {{< interactive-modules/checklist-item label="May not be accepted by insurers or the IRS" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### In-Person Appraisal Advantages
@@ -372,12 +372,12 @@ Traditional in-person appraisals remain the gold standard, offering:
 ### When Professional Appraisals Are Essential
 
 {{< interactive-modules/condition-checklist title="Situations Requiring Professional Appraisals" description="Cases where investing in a formal appraisal is justified" >}}
-  {{< interactive-modules/checklist-item label="Insurance coverage for valuable artwork" / / />}}
-  {{< interactive-modules/checklist-item label="Estate planning and inheritance distribution" / / />}}
-  {{< interactive-modules/checklist-item label="Charitable donations exceeding $5,000" / / />}}
-  {{< interactive-modules/checklist-item label="Divorce proceedings involving art assets" / / />}}
-  {{< interactive-modules/checklist-item label="High-value sales transactions" / / />}}
-  {{< interactive-modules/checklist-item label="Tax-related matters (estate, gift, or income tax)" / / />}}
+  {{< interactive-modules/checklist-item label="Insurance coverage for valuable artwork" / />}}
+  {{< interactive-modules/checklist-item label="Estate planning and inheritance distribution" / />}}
+  {{< interactive-modules/checklist-item label="Charitable donations exceeding $5,000" / />}}
+  {{< interactive-modules/checklist-item label="Divorce proceedings involving art assets" / />}}
+  {{< interactive-modules/checklist-item label="High-value sales transactions" / />}}
+  {{< interactive-modules/checklist-item label="Tax-related matters (estate, gift, or income tax)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [The Marshall Gallery](https://themarshallgallery.com/post/6021-7-considerations-before-an-art-appraisal), professional appraisals are vital for determining accurate values for insurance purposes and estate planning, as well as providing professional opinions on artwork value.

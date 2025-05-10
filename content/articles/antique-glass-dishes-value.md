@@ -180,14 +180,14 @@ Particularly valuable colors include:
 - Black amethyst glass (appears black but shows deep purple when held to light)
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your antique glass dishes" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks visible" / / />}}
-  {{< interactive-modules/checklist-item label="No signs of repair or restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Original color with no fading" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern details are crisp and clear" / / />}}
-  {{< interactive-modules/checklist-item label="Original maker's mark or signature present" / / />}}
-  {{< interactive-modules/checklist-item label="No excessive wear on base or rim" / / />}}
-  {{< interactive-modules/checklist-item label="Piece has balanced shape with no warping" / / />}}
-  {{< interactive-modules/checklist-item label="Surface has appropriate patina for age" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks visible" / />}}
+  {{< interactive-modules/checklist-item label="No signs of repair or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Original color with no fading" / />}}
+  {{< interactive-modules/checklist-item label="Pattern details are crisp and clear" / />}}
+  {{< interactive-modules/checklist-item label="Original maker's mark or signature present" / />}}
+  {{< interactive-modules/checklist-item label="No excessive wear on base or rim" / />}}
+  {{< interactive-modules/checklist-item label="Piece has balanced shape with no warping" / />}}
+  {{< interactive-modules/checklist-item label="Surface has appropriate patina for age" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/antique-glass-dishes-value/antique-glass-dishes-value-image-4_stbGUbQPP.png" alt="Collection of blue Depression glass dishes showcasing their distinctive color and pattern" caption="Blue Depression glass commands premium prices due to its relative rarity" />}}

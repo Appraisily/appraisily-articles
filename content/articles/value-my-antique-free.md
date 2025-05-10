@@ -291,16 +291,16 @@ When experts evaluate antiques, they consider these critical factors:
 ![Various antique items displayed with value factors labeled](https://ik.imagekit.io/appraisily/SEO/value-my-antique-free/value-my-antique-free-image-5_oFPMv8_Nbr.png)
 
 {{< interactive-modules/condition-checklist title="Value Assessment Factors" description="Factors experts consider when appraising antiques" >}}
-  {{< interactive-modules/checklist-item label="Authenticity" / / />}}
-  {{< interactive-modules/checklist-item label="Age" / / />}}
-  {{< interactive-modules/checklist-item label="Condition" / / />}}
-  {{< interactive-modules/checklist-item label="Rarity" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance" / / />}}
-  {{< interactive-modules/checklist-item label="Historical significance" / / />}}
-  {{< interactive-modules/checklist-item label="Quality of craftsmanship" / / />}}
-  {{< interactive-modules/checklist-item label="Current market demand" / / />}}
-  {{< interactive-modules/checklist-item label="Completeness" / / />}}
-  {{< interactive-modules/checklist-item label="Size and displayability" / / />}}
+  {{< interactive-modules/checklist-item label="Authenticity" / />}}
+  {{< interactive-modules/checklist-item label="Age" / />}}
+  {{< interactive-modules/checklist-item label="Condition" / />}}
+  {{< interactive-modules/checklist-item label="Rarity" / />}}
+  {{< interactive-modules/checklist-item label="Provenance" / />}}
+  {{< interactive-modules/checklist-item label="Historical significance" / />}}
+  {{< interactive-modules/checklist-item label="Quality of craftsmanship" / />}}
+  {{< interactive-modules/checklist-item label="Current market demand" / />}}
+  {{< interactive-modules/checklist-item label="Completeness" / />}}
+  {{< interactive-modules/checklist-item label="Size and displayability" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Documenting Your Antique

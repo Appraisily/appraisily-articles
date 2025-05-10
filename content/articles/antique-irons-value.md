@@ -194,14 +194,14 @@ According to [AntiqBuyer.com](https://www.antiqbuyer.com/irons.html), collectors
 Condition significantly impacts an antique iron's value. Key condition factors include:
 
 {{< interactive-modules/condition-checklist title="Antique Iron Condition Assessment" description="Check applicable items when evaluating an iron's condition" >}}
-  {{< interactive-modules/checklist-item label="Original handle intact and secure" / / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or pitting on iron surface" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer markings clear and legible" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set (for irons with detachable handles or multiple pieces)" / / />}}
-  {{< interactive-modules/checklist-item label="Mechanical parts functional (for specialized irons)" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish preserved" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging (rare but valuable)" / / />}}
+  {{< interactive-modules/checklist-item label="Original handle intact and secure" / />}}
+  {{< interactive-modules/checklist-item label="No significant rust or pitting on iron surface" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer markings clear and legible" / />}}
+  {{< interactive-modules/checklist-item label="Complete set (for irons with detachable handles or multiple pieces)" / />}}
+  {{< interactive-modules/checklist-item label="Mechanical parts functional (for specialized irons)" / />}}
+  {{< interactive-modules/checklist-item label="Original finish preserved" / />}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging (rare but valuable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Unique Features

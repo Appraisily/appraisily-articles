@@ -264,14 +264,14 @@ Determining the condition and authenticity of antique duck decoys is crucial for
 The condition of a decoy significantly impacts its value. Here's what to look for when examining potential acquisitions:
 
 {{< interactive-modules/condition-checklist title="Decoy Condition Checklist" description="Use this checklist to assess the condition of antique duck decoys" >}}
-  {{< interactive-modules/checklist-item label="Original paint (most important factor)" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal paint wear consistent with age and use" / / />}}
-  {{< interactive-modules/checklist-item label="No significant cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Head and neck intact without replacements" / / />}}
-  {{< interactive-modules/checklist-item label="Original weight system present" / / />}}
-  {{< interactive-modules/checklist-item label="Natural weathering and patina consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="No unauthorized restoration work" / / />}}
-  {{< interactive-modules/checklist-item label="No excessive damage from shot or water exposure" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint (most important factor)" / />}}
+  {{< interactive-modules/checklist-item label="Minimal paint wear consistent with age and use" / />}}
+  {{< interactive-modules/checklist-item label="No significant cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Head and neck intact without replacements" / />}}
+  {{< interactive-modules/checklist-item label="Original weight system present" / />}}
+  {{< interactive-modules/checklist-item label="Natural weathering and patina consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="No unauthorized restoration work" / />}}
+  {{< interactive-modules/checklist-item label="No excessive damage from shot or water exposure" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authenticating Antique Duck Decoys

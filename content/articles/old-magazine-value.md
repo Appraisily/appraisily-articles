@@ -265,16 +265,16 @@ Magazine collectors typically use the following condition grades:
 **Fair/Poor (F/P)**: Severe damage, missing pages, heavy markings, or other significant defects.
 
 {{< interactive-modules/condition-checklist title="Magazine Condition Assessment Checklist" description="Check all items that apply to your vintage magazine" >}}
-  {{< interactive-modules/checklist-item label="Cover is intact without tears or major creases" / / />}}
-  {{< interactive-modules/checklist-item label="Spine is straight and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Pages are complete with no missing or torn sections" / / />}}
-  {{< interactive-modules/checklist-item label="No writing, stamps, or markings on any pages" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage, staining, or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="No insect damage or mold" / / />}}
-  {{< interactive-modules/checklist-item label="Original inserts, posters, or promotional materials are present" / / />}}
-  {{< interactive-modules/checklist-item label="No musty smell or odors" / / />}}
-  {{< interactive-modules/checklist-item label="Staples or binding are intact and not rusty" / / />}}
-  {{< interactive-modules/checklist-item label="Original mailing label is intact (for subscription copies)" / / />}}
+  {{< interactive-modules/checklist-item label="Cover is intact without tears or major creases" / />}}
+  {{< interactive-modules/checklist-item label="Spine is straight and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Pages are complete with no missing or torn sections" / />}}
+  {{< interactive-modules/checklist-item label="No writing, stamps, or markings on any pages" / />}}
+  {{< interactive-modules/checklist-item label="No water damage, staining, or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="No insect damage or mold" / />}}
+  {{< interactive-modules/checklist-item label="Original inserts, posters, or promotional materials are present" / />}}
+  {{< interactive-modules/checklist-item label="No musty smell or odors" / />}}
+  {{< interactive-modules/checklist-item label="Staples or binding are intact and not rusty" / />}}
+  {{< interactive-modules/checklist-item label="Original mailing label is intact (for subscription copies)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Condition Issues That Impact Value

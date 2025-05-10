@@ -149,13 +149,13 @@ Original hardware provides strong evidence of age:
 - **Locks**: Handmade locks with irregular keyhole shapes point to earlier construction; machine-made locks with perfect symmetry indicate later production.
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist to help determine if your secretary desk is a genuine antique" >}}
-  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints with slight irregularities" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent patina across all wood surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="Evidence of natural wear in appropriate places (writing surface, drawer handles)" / / />}}
-  {{< interactive-modules/checklist-item label="Secondary woods used in non-visible areas" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware with appropriate wear and patination" / / />}}
-  {{< interactive-modules/checklist-item label="Symmetrical shrinkage cracks in solid wood components" / / />}}
-  {{< interactive-modules/checklist-item label="No modern fasteners, glues, or construction techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints with slight irregularities" / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina across all wood surfaces" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of natural wear in appropriate places (writing surface, drawer handles)" / />}}
+  {{< interactive-modules/checklist-item label="Secondary woods used in non-visible areas" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware with appropriate wear and patination" / />}}
+  {{< interactive-modules/checklist-item label="Symmetrical shrinkage cracks in solid wood components" / />}}
+  {{< interactive-modules/checklist-item label="No modern fasteners, glues, or construction techniques" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Historical Styles and Their Values

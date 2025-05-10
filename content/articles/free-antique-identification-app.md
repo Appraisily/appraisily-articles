@@ -321,11 +321,11 @@ According to user experiences shared on platforms like Reddit, apps like Google 
 However, it's important to remember that these apps are best used as a starting point rather than the final word on authenticity or value. For valuable items, professional appraisal is still recommended.
 
 {{< interactive-modules/condition-checklist title="App Accuracy Assessment" description="Factors that impact identification accuracy" >}}
-{{< interactive-modules/checklist-item label="Clear, well-lit photographs of the item" / / />}}
-{{< interactive-modules/checklist-item label="Multiple angles captured of the object" / / />}}
-{{< interactive-modules/checklist-item label="Close-ups of any maker's marks or signatures" / / />}}
-{{< interactive-modules/checklist-item label="Clean background without distracting elements" / / />}}
-{{< interactive-modules/checklist-item label="Proper size reference included in photo" / / />}}
+{{< interactive-modules/checklist-item label="Clear, well-lit photographs of the item" / />}}
+{{< interactive-modules/checklist-item label="Multiple angles captured of the object" / />}}
+{{< interactive-modules/checklist-item label="Close-ups of any maker's marks or signatures" / />}}
+{{< interactive-modules/checklist-item label="Clean background without distracting elements" / />}}
+{{< interactive-modules/checklist-item label="Proper size reference included in photo" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Tips for Getting the Best Results" level="2" >}}

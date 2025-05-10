@@ -159,12 +159,12 @@ Generally speaking, older trays command higher prices, with pre-1920 examples be
 The condition of a tray dramatically affects its value. Collectors use a standard grading system:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your Coca-Cola tray" >}}
-  {{< interactive-modules/checklist-item label="No rust or significant metal corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="No dents, creases, or warping" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, vibrant colors without fading" / / />}}
-  {{< interactive-modules/checklist-item label="Original factory finish preserved" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration attempts" / / />}}
+  {{< interactive-modules/checklist-item label="No rust or significant metal corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="No dents, creases, or warping" / />}}
+  {{< interactive-modules/checklist-item label="Clear, vibrant colors without fading" / />}}
+  {{< interactive-modules/checklist-item label="Original factory finish preserved" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration attempts" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Even minor condition issues can significantly reduce a tray's value. According to collector forums on [Collectors Weekly](https://www.collectorsweekly.com/coca-cola/trays), a tray in mint condition might be worth 3-5 times more than the same tray with moderate wear or damage.

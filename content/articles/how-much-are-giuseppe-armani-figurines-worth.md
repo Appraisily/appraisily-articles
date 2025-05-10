@@ -160,13 +160,13 @@ Limited production runs typically command higher prices in the collectibles mark
 The condition of a figurine is perhaps the most critical factor affecting its value. Mint condition pieces (those with no chips, cracks, or repairs) can fetch prices several times higher than damaged examples of the same figurine.
 
 {{< interactive-modules/condition-checklist title="Armani Figurine Condition Assessment" description="Check applicable items to evaluate your figurine's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks visible anywhere on the figurine" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with no fading or wear" / / />}}
-  {{< interactive-modules/checklist-item label="All delicate elements (fingers, flowers, etc.) intact" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work has been done" / / />}}
-  {{< interactive-modules/checklist-item label="Original box and packaging materials preserved" / / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity present" / / />}}
-  {{< interactive-modules/checklist-item label="Base is undamaged with clear markings" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks visible anywhere on the figurine" / />}}
+  {{< interactive-modules/checklist-item label="Original paint intact with no fading or wear" / />}}
+  {{< interactive-modules/checklist-item label="All delicate elements (fingers, flowers, etc.) intact" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work has been done" / />}}
+  {{< interactive-modules/checklist-item label="Original box and packaging materials preserved" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity present" / />}}
+  {{< interactive-modules/checklist-item label="Base is undamaged with clear markings" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Design and Subject Matter

@@ -253,13 +253,13 @@ Based on user reports and independent testing, current antique identifier apps t
 - 40-50% accuracy for items in poor condition or with unclear distinguishing features
 
 {{< interactive-modules/condition-checklist title="Optimizing Your Antique Photos for Better Identification" description="Follow these guidelines to improve identification accuracy" >}}
-  {{< interactive-modules/checklist-item label="Use natural, diffused lighting to avoid glare and shadows" / / />}}
-  {{< interactive-modules/checklist-item label="Take multiple photos from different angles" / / />}}
-  {{< interactive-modules/checklist-item label="Include close-ups of maker's marks, signatures, or distinctive features" / / />}}
-  {{< interactive-modules/checklist-item label="Place item against a neutral background" / / />}}
-  {{< interactive-modules/checklist-item label="Ensure the entire item is in the frame" / / />}}
-  {{< interactive-modules/checklist-item label="Clean the item gently before photographing (if safe to do so)" / / />}}
-  {{< interactive-modules/checklist-item label="Use a ruler or coin in the frame for size reference" / / />}}
+  {{< interactive-modules/checklist-item label="Use natural, diffused lighting to avoid glare and shadows" / />}}
+  {{< interactive-modules/checklist-item label="Take multiple photos from different angles" / />}}
+  {{< interactive-modules/checklist-item label="Include close-ups of maker's marks, signatures, or distinctive features" / />}}
+  {{< interactive-modules/checklist-item label="Place item against a neutral background" / />}}
+  {{< interactive-modules/checklist-item label="Ensure the entire item is in the frame" / />}}
+  {{< interactive-modules/checklist-item label="Clean the item gently before photographing (if safe to do so)" / />}}
+  {{< interactive-modules/checklist-item label="Use a ruler or coin in the frame for size reference" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Alternatives to Dedicated Antique Apps" level="2" >}}

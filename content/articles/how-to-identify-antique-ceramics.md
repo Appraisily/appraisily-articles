@@ -198,12 +198,12 @@ Steven Moore, expert from Antiques Roadshow, recommends another easy test: tap t
 ![Close-up of ceramic material showing translucency test with light shining through porcelain](https://ik.imagekit.io/appraisily/SEO/how-to-identify-antique-ceramics/how-to-identify-antique-ceramics-image-3_bOviHKVry.png)
 
 {{< interactive-modules/condition-checklist title="Material Identification Checklist" description="Use these characteristics to help determine the type of ceramic" >}}
-  {{< interactive-modules/checklist-item label="Translucent when held to light (indicates porcelain)" / / />}}
-  {{< interactive-modules/checklist-item label="Produces clear, resonant ring when tapped (indicates porcelain)" / / />}}
-  {{< interactive-modules/checklist-item label="Visible clay particles or coarse texture (indicates earthenware)" / / />}}
-  {{< interactive-modules/checklist-item label="Heavy for its size with dense body (indicates stoneware)" / / />}}
-  {{< interactive-modules/checklist-item label="Unglazed areas have white, fine-grained appearance (indicates porcelain)" / / />}}
-  {{< interactive-modules/checklist-item label="Unglazed areas have red, brown or buff color (indicates earthenware)" / / />}}
+  {{< interactive-modules/checklist-item label="Translucent when held to light (indicates porcelain)" / />}}
+  {{< interactive-modules/checklist-item label="Produces clear, resonant ring when tapped (indicates porcelain)" / />}}
+  {{< interactive-modules/checklist-item label="Visible clay particles or coarse texture (indicates earthenware)" / />}}
+  {{< interactive-modules/checklist-item label="Heavy for its size with dense body (indicates stoneware)" / />}}
+  {{< interactive-modules/checklist-item label="Unglazed areas have white, fine-grained appearance (indicates porcelain)" / />}}
+  {{< interactive-modules/checklist-item label="Unglazed areas have red, brown or buff color (indicates earthenware)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Identifying Antique Ceramic Marks
@@ -375,13 +375,13 @@ Be alert for these indicators of fake or reproduced ceramics:
 4. **"Too Perfect" Condition**: Extremely pristine condition in very old pieces can be suspicious unless there's a documented provenance explaining exceptional preservation.
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use these indicators to evaluate if a ceramic piece is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Age-appropriate wear on base and high points" / / />}}
-  {{< interactive-modules/checklist-item label="Crazing consistent with age and ceramic type" / / />}}
-  {{< interactive-modules/checklist-item label="Period-accurate materials and production techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Mark or signature consistent with documented examples" / / />}}
-  {{< interactive-modules/checklist-item label="No evidence of modern adhesives or fillers under UV light" / / />}}
-  {{< interactive-modules/checklist-item label="Weight and resonance appropriate for the ceramic type" / / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history of ownership" / / />}}
+  {{< interactive-modules/checklist-item label="Age-appropriate wear on base and high points" / />}}
+  {{< interactive-modules/checklist-item label="Crazing consistent with age and ceramic type" / />}}
+  {{< interactive-modules/checklist-item label="Period-accurate materials and production techniques" / />}}
+  {{< interactive-modules/checklist-item label="Mark or signature consistent with documented examples" / />}}
+  {{< interactive-modules/checklist-item label="No evidence of modern adhesives or fillers under UV light" / />}}
+  {{< interactive-modules/checklist-item label="Weight and resonance appropriate for the ceramic type" / />}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history of ownership" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Research Tools and Resources

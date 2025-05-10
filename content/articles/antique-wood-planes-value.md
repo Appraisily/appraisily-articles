@@ -155,14 +155,14 @@ Several key factors determine the market value of an antique wooden plane beyond
 Condition is perhaps the most significant factor affecting value:
 
 {{< interactive-modules/condition-checklist title="Wood Plane Condition Checklist" description="Assess these elements when determining condition" >}}
-  {{< interactive-modules/checklist-item label="Body integrity - free from cracks, splits or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Blade (iron) present and in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Wedge is original and fits properly" / / />}}
-  {{< interactive-modules/checklist-item label="Sole is relatively flat and not excessively worn" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish or appropriate patina present" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or stampings clearly visible" / / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no modern replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust on metal components" / / />}}
+  {{< interactive-modules/checklist-item label="Body integrity - free from cracks, splits or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Blade (iron) present and in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Wedge is original and fits properly" / />}}
+  {{< interactive-modules/checklist-item label="Sole is relatively flat and not excessively worn" / />}}
+  {{< interactive-modules/checklist-item label="Original finish or appropriate patina present" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or stampings clearly visible" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no modern replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Minimal rust on metal components" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Desirability

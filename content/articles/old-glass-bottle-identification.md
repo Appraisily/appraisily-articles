@@ -130,12 +130,12 @@ Mold seams are perhaps the most reliable indicators of a bottle's age. These ver
 The base of a bottle contains valuable information about its age and method of manufacture:
 
 {{< interactive-modules/condition-checklist title="Pontil Mark Identification" description="Check if your bottle has any of these base characteristics" >}}
-  {{< interactive-modules/checklist-item label="Pontil scar - a rough circular mark on the base" / / />}}
-  {{< interactive-modules/checklist-item label="Sharp, jagged glass mark from a glass-tipped pontil rod (pre-1860)" / / />}}
-  {{< interactive-modules/checklist-item label="Iron pontil mark - reddish-brown circular deposit (1840s-1860s)" / / />}}
-  {{< interactive-modules/checklist-item label="Sand pontil mark - grainy textured area (1840s-1870s)" / / />}}
-  {{< interactive-modules/checklist-item label="Smooth base with no pontil mark (typically post-1860)" / / />}}
-  {{< interactive-modules/checklist-item label="Valve mark - circular mark with radiating lines (1900-1940s)" / / />}}
+  {{< interactive-modules/checklist-item label="Pontil scar - a rough circular mark on the base" / />}}
+  {{< interactive-modules/checklist-item label="Sharp, jagged glass mark from a glass-tipped pontil rod (pre-1860)" / />}}
+  {{< interactive-modules/checklist-item label="Iron pontil mark - reddish-brown circular deposit (1840s-1860s)" / />}}
+  {{< interactive-modules/checklist-item label="Sand pontil mark - grainy textured area (1840s-1870s)" / />}}
+  {{< interactive-modules/checklist-item label="Smooth base with no pontil mark (typically post-1860)" / />}}
+  {{< interactive-modules/checklist-item label="Valve mark - circular mark with radiating lines (1900-1940s)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As the Society for Historical Archaeology notes, "Some markings indicate the glassmaker or manufacturer which produced the bottle; other markings were mold identification numbers or of unknown glass maker utility." These marks can be crucial for identification and dating.
@@ -307,14 +307,14 @@ After successfully identifying and dating your antique bottle, the next step is 
 ### Condition Factors That Affect Value
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment" description="Check applicable conditions that may impact your bottle's value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or fracture lines" / / />}}
-  {{< interactive-modules/checklist-item label="Original closure or stopper present" / / />}}
-  {{< interactive-modules/checklist-item label="Intact embossing with clear, readable details" / / />}}
-  {{< interactive-modules/checklist-item label="No staining or interior residue" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal scratching or surface wear" / / />}}
-  {{< interactive-modules/checklist-item label="No sun coloration (unless purple coloration is desirable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original labels intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents present (sometimes valuable)" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or fracture lines" / />}}
+  {{< interactive-modules/checklist-item label="Original closure or stopper present" / />}}
+  {{< interactive-modules/checklist-item label="Intact embossing with clear, readable details" / />}}
+  {{< interactive-modules/checklist-item label="No staining or interior residue" / />}}
+  {{< interactive-modules/checklist-item label="Minimal scratching or surface wear" / />}}
+  {{< interactive-modules/checklist-item label="No sun coloration (unless purple coloration is desirable)" / />}}
+  {{< interactive-modules/checklist-item label="Original labels intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original contents present (sometimes valuable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Value Factors Beyond Condition

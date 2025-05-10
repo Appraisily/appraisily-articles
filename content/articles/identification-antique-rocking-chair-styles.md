@@ -282,15 +282,15 @@ According to the [Rocking Chair Company's guide](https://www.therockingchaircomp
 The condition of an antique rocking chair significantly impacts its value. Buyers and collectors typically prioritize original components and finishes.
 
 {{< interactive-modules/condition-checklist title="Antique Rocking Chair Condition Checklist" description="Use this checklist to assess the condition of your antique rocking chair" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact or appropriately aged" / / />}}
-  {{< interactive-modules/checklist-item label="No significant structural damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="All original components present (no replacements)" / / />}}
-  {{< interactive-modules/checklist-item label="Rockers show appropriate wear pattern for age" / / />}}
-  {{< interactive-modules/checklist-item label="Original upholstery or period-appropriate replacement" / / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements (paint, stencils, carvings) well-preserved" / / />}}
-  {{< interactive-modules/checklist-item label="No woodworm or insect damage" / / />}}
-  {{< interactive-modules/checklist-item label="Mechanical elements (if present) in working order" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance available" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact or appropriately aged" / />}}
+  {{< interactive-modules/checklist-item label="No significant structural damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="All original components present (no replacements)" / />}}
+  {{< interactive-modules/checklist-item label="Rockers show appropriate wear pattern for age" / />}}
+  {{< interactive-modules/checklist-item label="Original upholstery or period-appropriate replacement" / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements (paint, stencils, carvings) well-preserved" / />}}
+  {{< interactive-modules/checklist-item label="No woodworm or insect damage" / />}}
+  {{< interactive-modules/checklist-item label="Mechanical elements (if present) in working order" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance available" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [Valuable Antiques' guide](https://valuableantiques.org/antique-rocking-chairs-identification-and-value-guide/), rocking chairs with original paint or finish in good condition can command significantly higher prices, even with some age-appropriate wear.

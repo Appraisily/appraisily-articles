@@ -130,13 +130,13 @@ Being able to distinguish genuine antique mirrors from reproductions requires ca
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Antique Mirror Authentication Checklist" description="Use these criteria to assess whether a wooden mirror is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Glass exhibits waviness or imperfections" / / />}}
-  {{< interactive-modules/checklist-item label="Mirror shows appropriate oxidation or spotting" / / />}}
-  {{< interactive-modules/checklist-item label="Wood shows age-appropriate patina and wear" / / />}}
-  {{< interactive-modules/checklist-item label="Frame construction uses period-appropriate techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand carving rather than machine work" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware or mounting fixtures" / / />}}
-  {{< interactive-modules/checklist-item label="Frame back shows appropriate aging" / / />}}
+  {{< interactive-modules/checklist-item label="Glass exhibits waviness or imperfections" / />}}
+  {{< interactive-modules/checklist-item label="Mirror shows appropriate oxidation or spotting" / />}}
+  {{< interactive-modules/checklist-item label="Wood shows age-appropriate patina and wear" / />}}
+  {{< interactive-modules/checklist-item label="Frame construction uses period-appropriate techniques" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand carving rather than machine work" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware or mounting fixtures" / />}}
+  {{< interactive-modules/checklist-item label="Frame back shows appropriate aging" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### How to Identify Authentic Antique Mirror Glass

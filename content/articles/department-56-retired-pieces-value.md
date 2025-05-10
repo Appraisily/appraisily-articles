@@ -151,15 +151,15 @@ Limited editions and special releases generally command higher prices:
 - **Dealer Exclusives** - Pieces only available through certain retailers
 
 {{< interactive-modules/condition-checklist title="Department 56 Piece Value Assessment Checklist" description="Check applicable items to help determine potential value" >}}
-  {{< interactive-modules/checklist-item label="Original box and packaging present" / / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity included" / / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or paint damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original light cord included" / / />}}
-  {{< interactive-modules/checklist-item label="All accessories present" / / />}}
-  {{< interactive-modules/checklist-item label="Limited edition or numbered piece" / / />}}
-  {{< interactive-modules/checklist-item label="Early production year (pre-1990)" / / />}}
-  {{< interactive-modules/checklist-item label="From a particularly popular series" / / />}}
-  {{< interactive-modules/checklist-item label="Retired 10+ years ago" / / />}}
+  {{< interactive-modules/checklist-item label="Original box and packaging present" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity included" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or paint damage" / />}}
+  {{< interactive-modules/checklist-item label="Original light cord included" / />}}
+  {{< interactive-modules/checklist-item label="All accessories present" / />}}
+  {{< interactive-modules/checklist-item label="Limited edition or numbered piece" / />}}
+  {{< interactive-modules/checklist-item label="Early production year (pre-1990)" / />}}
+  {{< interactive-modules/checklist-item label="From a particularly popular series" / />}}
+  {{< interactive-modules/checklist-item label="Retired 10+ years ago" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Current Market Values for Retired Department 56 Pieces

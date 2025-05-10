@@ -241,12 +241,12 @@ Krasnyansky's artistic output evolved significantly throughout his career, with 
 Proper documentation significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Krasnyansky Authentication Checklist" description="Factors that enhance the value and authenticity of Krasnyansky artwork" >}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity from recognized gallery or publisher" / / />}}
-  {{< interactive-modules/checklist-item label="Clear signature (typically in Cyrillic and English)" / / />}}
-  {{< interactive-modules/checklist-item label="Proper edition numbering on limited editions" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation from original purchase" / / />}}
-  {{< interactive-modules/checklist-item label="Gallery labels or stickers from reputable dealers" / / />}}
-  {{< interactive-modules/checklist-item label="Original framing (particularly for gallery-sold pieces)" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity from recognized gallery or publisher" / />}}
+  {{< interactive-modules/checklist-item label="Clear signature (typically in Cyrillic and English)" / />}}
+  {{< interactive-modules/checklist-item label="Proper edition numbering on limited editions" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation from original purchase" / />}}
+  {{< interactive-modules/checklist-item label="Gallery labels or stickers from reputable dealers" / />}}
+  {{< interactive-modules/checklist-item label="Original framing (particularly for gallery-sold pieces)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Issues

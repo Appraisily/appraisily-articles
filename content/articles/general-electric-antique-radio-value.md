@@ -128,15 +128,15 @@ Different GE radio models vary significantly in value based on their rarity and 
 The physical and operational condition of a vintage radio is perhaps the most significant value determinant. Radios in excellent original condition with minimal wear will command premium prices.
 
 {{< interactive-modules/condition-checklist title="GE Radio Condition Assessment" description="Check applicable items to gauge your radio's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Cabinet has no cracks, chips, or significant damage" / / />}}
-  {{< interactive-modules/checklist-item label="All knobs and controls are original and functional" / / />}}
-  {{< interactive-modules/checklist-item label="Dial glass is clear and unbroken" / / />}}
-  {{< interactive-modules/checklist-item label="Radio powers on and receives stations" / / />}}
-  {{< interactive-modules/checklist-item label="Speaker produces clear sound without distortion" / / />}}
-  {{< interactive-modules/checklist-item label="Original tubes are present and working" / / />}}
-  {{< interactive-modules/checklist-item label="Wiring is original and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Has original documentation or packaging" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Cabinet has no cracks, chips, or significant damage" / />}}
+  {{< interactive-modules/checklist-item label="All knobs and controls are original and functional" / />}}
+  {{< interactive-modules/checklist-item label="Dial glass is clear and unbroken" / />}}
+  {{< interactive-modules/checklist-item label="Radio powers on and receives stations" / />}}
+  {{< interactive-modules/checklist-item label="Speaker produces clear sound without distortion" / />}}
+  {{< interactive-modules/checklist-item label="Original tubes are present and working" / />}}
+  {{< interactive-modules/checklist-item label="Wiring is original and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Has original documentation or packaging" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Originality

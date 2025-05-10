@@ -326,14 +326,14 @@ The completion of the appraisal process:
 ![Close-up of an appraiser examining the patina and finish of an antique wooden cabinet](https://ik.imagekit.io/appraisily/SEO/antique-furniture-appraisers-near-me/antique-furniture-appraisers-near-me-image-4_KWXw10a6Z.png)
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Condition Assessment" description="Factors appraisers evaluate when determining furniture condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and well-preserved" / / />}}
-  {{< interactive-modules/checklist-item label="All hardware is original to the piece" / / />}}
-  {{< interactive-modules/checklist-item label="No structural damage or repairs to major components" / / />}}
-  {{< interactive-modules/checklist-item label="Original upholstery or appropriate period replacement" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent patina and appropriate signs of age" / / />}}
-  {{< interactive-modules/checklist-item label="Drawer glides function smoothly" / / />}}
-  {{< interactive-modules/checklist-item label="No missing elements or pieces" / / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer marks or signatures present" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and well-preserved" / />}}
+  {{< interactive-modules/checklist-item label="All hardware is original to the piece" / />}}
+  {{< interactive-modules/checklist-item label="No structural damage or repairs to major components" / />}}
+  {{< interactive-modules/checklist-item label="Original upholstery or appropriate period replacement" / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina and appropriate signs of age" / />}}
+  {{< interactive-modules/checklist-item label="Drawer glides function smoothly" / />}}
+  {{< interactive-modules/checklist-item label="No missing elements or pieces" / />}}
+  {{< interactive-modules/checklist-item label="Manufacturer marks or signatures present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Preparing for Your Antique Furniture Appraisal" level="2" >}}

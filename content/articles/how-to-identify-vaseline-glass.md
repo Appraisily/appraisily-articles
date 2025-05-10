@@ -169,11 +169,11 @@ The most definitive way to identify vaseline glass is by exposing it to ultravio
 According to the [20th Century Glass encyclopedia](https://www.20thcenturyglass.com/glass_encyclopedia/uranium_glass/), the intensity of the fluorescence often correlates with the amount of uranium in the glass. Older pieces typically contain higher uranium content and therefore display a more intense glow.
 
 {{< interactive-modules/condition-checklist title="UV Light Testing Process" description="Follow these steps to test for vaseline glass using UV light" >}}
-  {{< interactive-modules/checklist-item label="Find or purchase a UV flashlight (365nm wavelength works best)" / / />}}
-  {{< interactive-modules/checklist-item label="Move to a darkened room or area" / / />}}
-  {{< interactive-modules/checklist-item label="Turn on the UV light and aim it at the glass piece" / / />}}
-  {{< interactive-modules/checklist-item label="Look for bright green fluorescence, not just reflections" / / />}}
-  {{< interactive-modules/checklist-item label="Check the entire piece as some decorative elements may contain different materials" / / />}}
+  {{< interactive-modules/checklist-item label="Find or purchase a UV flashlight (365nm wavelength works best)" / />}}
+  {{< interactive-modules/checklist-item label="Move to a darkened room or area" / />}}
+  {{< interactive-modules/checklist-item label="Turn on the UV light and aim it at the glass piece" / />}}
+  {{< interactive-modules/checklist-item label="Look for bright green fluorescence, not just reflections" / />}}
+  {{< interactive-modules/checklist-item label="Check the entire piece as some decorative elements may contain different materials" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Visual Identification Without UV Light

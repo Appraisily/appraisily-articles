@@ -239,14 +239,14 @@ Look for specific characteristics that might indicate a rare specimen:
 - Special production stamps (like "Handmade in China" vs. "Handmade in Korea")
 
 {{< interactive-modules/condition-checklist title="Beanie Baby Value Assessment Checklist" description="Use this checklist to identify potentially valuable Beanie Babies" >}}
-  {{< interactive-modules/checklist-item label="First, second, or third generation hang tag" / / />}}
-  {{< interactive-modules/checklist-item label="Tag in pristine condition (no creases, tears, or fading)" / / />}}
-  {{< interactive-modules/checklist-item label="Rare known character (Princess Diana, Royal Blue Peanut, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Tag errors or misspellings present" / / />}}
-  {{< interactive-modules/checklist-item label="Unusual color variations compared to standard versions" / / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or display case included" / / />}}
-  {{< interactive-modules/checklist-item label="Mint condition plush with no stains, tears, or fading" / / />}}
-  {{< interactive-modules/checklist-item label="Special production characteristics (country-specific, charity editions)" / / />}}
+  {{< interactive-modules/checklist-item label="First, second, or third generation hang tag" / />}}
+  {{< interactive-modules/checklist-item label="Tag in pristine condition (no creases, tears, or fading)" / />}}
+  {{< interactive-modules/checklist-item label="Rare known character (Princess Diana, Royal Blue Peanut, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Tag errors or misspellings present" / />}}
+  {{< interactive-modules/checklist-item label="Unusual color variations compared to standard versions" / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or display case included" / />}}
+  {{< interactive-modules/checklist-item label="Mint condition plush with no stains, tears, or fading" / />}}
+  {{< interactive-modules/checklist-item label="Special production characteristics (country-specific, charity editions)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Consult Specialist Resources

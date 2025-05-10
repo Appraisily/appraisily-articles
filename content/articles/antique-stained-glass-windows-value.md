@@ -166,12 +166,12 @@ As noted by experts at [Dr. Lori's Antiques Appraisal](https://www.drloriv.com/a
 The condition of a stained glass window significantly impacts its value. Key factors include:
 
 {{< interactive-modules/condition-checklist title="Stained Glass Condition Assessment" description="Factors that affect the value based on condition" >}}
-  {{< interactive-modules/checklist-item label="Original lead came (metal framework) intact" / / />}}
-  {{< interactive-modules/checklist-item label="No missing or replaced glass pieces" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal repairs or restoration work" / / />}}
-  {{< interactive-modules/checklist-item label="No significant cracks or breaks" / / />}}
-  {{< interactive-modules/checklist-item label="Original patina and coloration preserved" / / />}}
-  {{< interactive-modules/checklist-item label="Structural integrity maintained" / / />}}
+  {{< interactive-modules/checklist-item label="Original lead came (metal framework) intact" / />}}
+  {{< interactive-modules/checklist-item label="No missing or replaced glass pieces" / />}}
+  {{< interactive-modules/checklist-item label="Minimal repairs or restoration work" / />}}
+  {{< interactive-modules/checklist-item label="No significant cracks or breaks" / />}}
+  {{< interactive-modules/checklist-item label="Original patina and coloration preserved" / />}}
+  {{< interactive-modules/checklist-item label="Structural integrity maintained" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Windows requiring extensive restoration will generally be worth less than those in excellent original condition. However, [Kansas City Stained Glass](https://kansascitystainedglass.com/2019/08/20/how-much-is-my-stained-glass-window-worth/) notes that professional restoration can help maintain or even increase value when done properly.

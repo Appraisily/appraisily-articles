@@ -242,13 +242,13 @@ The appraisal process typically follows specific steps designed to thoroughly ev
 To maximize the efficiency and accuracy of your appraisal, prepare the following information:
 
 {{< interactive-modules/condition-checklist title="Appraisal Preparation Checklist" description="Items to gather before your appraisal appointment" >}}
-  {{< interactive-modules/checklist-item label="Provenance documentation (receipts, certificates, letters)" / / />}}
-  {{< interactive-modules/checklist-item label="Prior appraisals or expert opinions" / / />}}
-  {{< interactive-modules/checklist-item label="Known history and origin information" / / />}}
-  {{< interactive-modules/checklist-item label="Chain of ownership documentation" / / />}}
-  {{< interactive-modules/checklist-item label="Photographs showing condition when acquired" / / />}}
-  {{< interactive-modules/checklist-item label="Relevant tribal affiliation information" / / />}}
-  {{< interactive-modules/checklist-item label="Details of any restoration or conservation work" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation (receipts, certificates, letters)" / />}}
+  {{< interactive-modules/checklist-item label="Prior appraisals or expert opinions" / />}}
+  {{< interactive-modules/checklist-item label="Known history and origin information" / />}}
+  {{< interactive-modules/checklist-item label="Chain of ownership documentation" / />}}
+  {{< interactive-modules/checklist-item label="Photographs showing condition when acquired" / />}}
+  {{< interactive-modules/checklist-item label="Relevant tribal affiliation information" / />}}
+  {{< interactive-modules/checklist-item label="Details of any restoration or conservation work" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Types of Native American Artifacts" level="2" >}}

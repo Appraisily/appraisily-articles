@@ -210,14 +210,14 @@ Avoid materials containing polyvinyl chloride (PVC), which can damage coins over
 For valuable collections or particularly rare specimens, consider getting appraisals from multiple sources. Different experts may have specialized knowledge about specific types of coins, leading to more accurate valuations.
 
 {{< interactive-modules/condition-checklist title="Pre-Appraisal Coin Preparation Checklist" description="Complete these steps before submitting your coins for professional evaluation" >}}
-{{< interactive-modules/checklist-item label="Create detailed inventory of your collection" / / />}}
-{{< interactive-modules/checklist-item label="Handle coins only by their edges" / / />}}
-{{< interactive-modules/checklist-item label="Store in acid-free, non-PVC holders" / / />}}
-{{< interactive-modules/checklist-item label="Take clear photos of both sides of valuable coins" / / />}}
-{{< interactive-modules/checklist-item label="Research basic information about your coins" / / />}}
-{{< interactive-modules/checklist-item label="Organize coins by country, type, or denomination" / / />}}
-{{< interactive-modules/checklist-item label="Document any known provenance or history" / / />}}
-{{< interactive-modules/checklist-item label="DON'T clean your coins" / / />}}
+{{< interactive-modules/checklist-item label="Create detailed inventory of your collection" / />}}
+{{< interactive-modules/checklist-item label="Handle coins only by their edges" / />}}
+{{< interactive-modules/checklist-item label="Store in acid-free, non-PVC holders" / />}}
+{{< interactive-modules/checklist-item label="Take clear photos of both sides of valuable coins" / />}}
+{{< interactive-modules/checklist-item label="Research basic information about your coins" / />}}
+{{< interactive-modules/checklist-item label="Organize coins by country, type, or denomination" / />}}
+{{< interactive-modules/checklist-item label="Document any known provenance or history" / />}}
+{{< interactive-modules/checklist-item label="DON'T clean your coins" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Professional Appraisal Process" level="2" >}}

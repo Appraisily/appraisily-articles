@@ -204,11 +204,11 @@ Examine how the artifact was made:
 For valuable or significant artifacts, professional authentication is recommended:
 
 {{< interactive-modules/condition-checklist title="Authentication Process" description="Key steps in professional artifact authentication" >}}
-  {{< interactive-modules/checklist-item label="Physical examination by qualified archaeologists or specialized authenticators" / / />}}
-  {{< interactive-modules/checklist-item label="Microscopic analysis of surface wear patterns and patination" / / />}}
-  {{< interactive-modules/checklist-item label="Material analysis using scientific methods when appropriate" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance and collection history" / / />}}
-  {{< interactive-modules/checklist-item label="Comparison with authenticated examples from museum collections" / / />}}
+  {{< interactive-modules/checklist-item label="Physical examination by qualified archaeologists or specialized authenticators" / />}}
+  {{< interactive-modules/checklist-item label="Microscopic analysis of surface wear patterns and patination" / />}}
+  {{< interactive-modules/checklist-item label="Material analysis using scientific methods when appropriate" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance and collection history" / />}}
+  {{< interactive-modules/checklist-item label="Comparison with authenticated examples from museum collections" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Organizations like the [Indian Arrowhead and Artifact Authentication](https://www.artifactgrading.com/authentication/) service provide professional certification services that can significantly enhance an artifact's provenance and value.
@@ -361,12 +361,12 @@ Beyond legal requirements, collectors should consider:
 ### Responsible Collecting Practices
 
 {{< interactive-modules/condition-checklist title="Ethical Collecting Guidelines" description="Best practices for responsible artifact collecting" >}}
-  {{< interactive-modules/checklist-item label="Only purchase from reputable dealers with clear provenance information" / / />}}
-  {{< interactive-modules/checklist-item label="Maintain detailed documentation of all artifacts in your collection" / / />}}
-  {{< interactive-modules/checklist-item label="Consider donating significant finds to museums or educational institutions" / / />}}
-  {{< interactive-modules/checklist-item label="Never disturb archaeological sites or remove artifacts from public lands" / / />}}
-  {{< interactive-modules/checklist-item label="Respect tribal sovereignty and cultural patrimony claims" / / />}}
-  {{< interactive-modules/checklist-item label="Share knowledge and contribute to public understanding of Native American heritage" / / />}}
+  {{< interactive-modules/checklist-item label="Only purchase from reputable dealers with clear provenance information" / />}}
+  {{< interactive-modules/checklist-item label="Maintain detailed documentation of all artifacts in your collection" / />}}
+  {{< interactive-modules/checklist-item label="Consider donating significant finds to museums or educational institutions" / />}}
+  {{< interactive-modules/checklist-item label="Never disturb archaeological sites or remove artifacts from public lands" / />}}
+  {{< interactive-modules/checklist-item label="Respect tribal sovereignty and cultural patrimony claims" / />}}
+  {{< interactive-modules/checklist-item label="Share knowledge and contribute to public understanding of Native American heritage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Online Resources for Artifact Identification" level="2" >}}

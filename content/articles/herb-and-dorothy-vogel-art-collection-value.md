@@ -261,13 +261,13 @@ The Vogel collection offers valuable lessons for anyone interested in collecting
 ![Herbert and Dorothy Vogel examining artwork in their apartment](https://ik.imagekit.io/appraisily/SEO/herb-and-dorothy-vogel-art-collection-value/herb-and-dorothy-vogel-art-collection-value-image-1-error_4HKCFItwmY.png)
 
 {{< interactive-modules/condition-checklist title="The Vogel Collection Principles" description="Key strategies used by the Vogels that today's collectors can learn from:" >}}
-  {{< interactive-modules/checklist-item label="Focus on artwork they genuinely loved rather than what might appreciate in value" / / />}}
-  {{< interactive-modules/checklist-item label="Developed deep knowledge of specific art movements (minimal and conceptual art)" / / />}}
-  {{< interactive-modules/checklist-item label="Built personal relationships with artists, collecting their work consistently over time" / / />}}
-  {{< interactive-modules/checklist-item label="Set clear parameters for their collection (size restrictions, budget limits)" / / />}}
-  {{< interactive-modules/checklist-item label="Prioritized works on paper, which were more affordable than large sculptures or paintings" / / />}}
-  {{< interactive-modules/checklist-item label="Purchased art directly from artists early in their careers" / / />}}
-  {{< interactive-modules/checklist-item label="Viewed collecting as a passion and lifestyle, not purely as an investment" / / />}}
+  {{< interactive-modules/checklist-item label="Focus on artwork they genuinely loved rather than what might appreciate in value" / />}}
+  {{< interactive-modules/checklist-item label="Developed deep knowledge of specific art movements (minimal and conceptual art)" / />}}
+  {{< interactive-modules/checklist-item label="Built personal relationships with artists, collecting their work consistently over time" / />}}
+  {{< interactive-modules/checklist-item label="Set clear parameters for their collection (size restrictions, budget limits)" / />}}
+  {{< interactive-modules/checklist-item label="Prioritized works on paper, which were more affordable than large sculptures or paintings" / />}}
+  {{< interactive-modules/checklist-item label="Purchased art directly from artists early in their careers" / />}}
+  {{< interactive-modules/checklist-item label="Viewed collecting as a passion and lifestyle, not purely as an investment" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 While the specific economic conditions that enabled the Vogels' collection have changed significantly since the 1960s and 1970s, many of their principles remain applicable. Today's aspiring collectors might consider:
@@ -325,13 +325,13 @@ While few private collectors will ever amass a collection with the scope and imp
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Art Collection Valuation Factors" description="Key considerations when determining the value of artworks:" >}}
-  {{< interactive-modules/checklist-item label="Artist reputation and career stage" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance (ownership history) and exhibition history" / / />}}
-  {{< interactive-modules/checklist-item label="Condition of the artwork" / / />}}
-  {{< interactive-modules/checklist-item label="Size, medium, and subject matter" / / />}}
-  {{< interactive-modules/checklist-item label="Rarity and significance within the artist's body of work" / / />}}
-  {{< interactive-modules/checklist-item label="Recent comparable sales at auction or galleries" / / />}}
-  {{< interactive-modules/checklist-item label="Current market trends for similar works" / / />}}
+  {{< interactive-modules/checklist-item label="Artist reputation and career stage" / />}}
+  {{< interactive-modules/checklist-item label="Provenance (ownership history) and exhibition history" / />}}
+  {{< interactive-modules/checklist-item label="Condition of the artwork" / />}}
+  {{< interactive-modules/checklist-item label="Size, medium, and subject matter" / />}}
+  {{< interactive-modules/checklist-item label="Rarity and significance within the artist's body of work" / />}}
+  {{< interactive-modules/checklist-item label="Recent comparable sales at auction or galleries" / />}}
+  {{< interactive-modules/checklist-item label="Current market trends for similar works" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For collectors looking to assess the value of their collections, several approaches are available:

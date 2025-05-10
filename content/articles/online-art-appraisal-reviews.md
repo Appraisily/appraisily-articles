@@ -152,12 +152,12 @@ Most online art appraisal services follow a similar workflow, though specific re
 The quality of your submission directly impacts the accuracy of your appraisal. Here's what to include:
 
 {{< interactive-modules/condition-checklist title="Photo Submission Checklist" description="Ensure your appraisal submission includes these elements for the most accurate results" >}}
-  {{< interactive-modules/checklist-item label="Full-frontal image of the entire artwork in natural light" / / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of the artist's signature, date, and any inscriptions" / / />}}
-  {{< interactive-modules/checklist-item label="Photos of the back of the artwork showing labels, stamps, or markings" / / />}}
-  {{< interactive-modules/checklist-item label="Detail shots of any damage, restoration, or areas of concern" / / />}}
-  {{< interactive-modules/checklist-item label="Images of framing, if original or significant" / / />}}
-  {{< interactive-modules/checklist-item label="Scale reference (ruler or common object) to indicate size" / / />}}
+  {{< interactive-modules/checklist-item label="Full-frontal image of the entire artwork in natural light" / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of the artist's signature, date, and any inscriptions" / />}}
+  {{< interactive-modules/checklist-item label="Photos of the back of the artwork showing labels, stamps, or markings" / />}}
+  {{< interactive-modules/checklist-item label="Detail shots of any damage, restoration, or areas of concern" / />}}
+  {{< interactive-modules/checklist-item label="Images of framing, if original or significant" / />}}
+  {{< interactive-modules/checklist-item label="Scale reference (ruler or common object) to indicate size" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Types of Appraisals Typically Offered

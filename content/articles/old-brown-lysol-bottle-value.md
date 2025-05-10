@@ -151,12 +151,12 @@ Generally, the older the bottle, the more valuable it is. Pre-1920s Lysol bottle
 ### Condition Factors
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Check all that apply to determine the condition of your vintage Lysol bottle" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks or damage to the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossing with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Original closure (cork or cap) intact" / / />}}
-  {{< interactive-modules/checklist-item label="No clouding or interior staining" / / />}}
-  {{< interactive-modules/checklist-item label="Original label present (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or box included" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks or damage to the glass" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossing with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Original closure (cork or cap) intact" / />}}
+  {{< interactive-modules/checklist-item label="No clouding or interior staining" / />}}
+  {{< interactive-modules/checklist-item label="Original label present (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original packaging or box included" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Size and Design Elements

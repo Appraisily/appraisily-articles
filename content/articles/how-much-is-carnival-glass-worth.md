@@ -265,14 +265,14 @@ Larger pieces and complete sets typically command higher prices than individual 
 Condition is critical for carnival glass valuation:
 
 {{< interactive-modules/condition-checklist title="Carnival Glass Condition Checklist" description="Check for these condition factors when evaluating carnival glass" >}}
-  {{< interactive-modules/checklist-item label="No chips or flakes on edges, foot, or surface" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks or hairline fractures" / / />}}
-  {{< interactive-modules/checklist-item label="Strong, vibrant iridescence (not worn or dull)" / / />}}
-  {{< interactive-modules/checklist-item label="Clear pattern definition (not worn or blurry)" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or surface abrasions" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish (not re-iridized)" / / />}}
-  {{< interactive-modules/checklist-item label="No significant staining or mineral deposits" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or flakes on edges, foot, or surface" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or hairline fractures" / />}}
+  {{< interactive-modules/checklist-item label="Strong, vibrant iridescence (not worn or dull)" / />}}
+  {{< interactive-modules/checklist-item label="Clear pattern definition (not worn or blurry)" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches or surface abrasions" / />}}
+  {{< interactive-modules/checklist-item label="Original finish (not re-iridized)" / />}}
+  {{< interactive-modules/checklist-item label="No significant staining or mineral deposits" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Even minor damage can reduce value by 50% or more, while pristine pieces command premium prices.

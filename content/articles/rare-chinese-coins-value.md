@@ -192,11 +192,11 @@ According to [Coin World](https://www.coinworld.com/news/world-coins/rare-chines
 Silver Dragon dollars from the late Qing Dynasty (1875-1911) are among the most popular Chinese coins with collectors. These large silver coins feature a dragon on one side and were China's first modern, machine-struck coins.
 
 {{< interactive-modules/condition-checklist title="Silver Dragon Dollar Authentication Checklist" description="Key factors to verify authenticity" >}}
-  {{< interactive-modules/checklist-item label="Check weight (should be approximately 26.7 grams)" / / />}}
-  {{< interactive-modules/checklist-item label="Examine edge reeding for consistency" / / />}}
-  {{< interactive-modules/checklist-item label="Look for proper silver patina and toning" / / />}}
-  {{< interactive-modules/checklist-item label="Verify detailed scales on the dragon design" / / />}}
-  {{< interactive-modules/checklist-item label="Confirm precise character formation on inscriptions" / / />}}
+  {{< interactive-modules/checklist-item label="Check weight (should be approximately 26.7 grams)" / />}}
+  {{< interactive-modules/checklist-item label="Examine edge reeding for consistency" / />}}
+  {{< interactive-modules/checklist-item label="Look for proper silver patina and toning" / />}}
+  {{< interactive-modules/checklist-item label="Verify detailed scales on the dragon design" / />}}
+  {{< interactive-modules/checklist-item label="Confirm precise character formation on inscriptions" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Republic Period Coins (1912-1949)

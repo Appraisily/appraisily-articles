@@ -126,12 +126,12 @@ Bottles produced in limited quantities or for a short period are naturally more 
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Factors" description="Check applicable items to assess your bottle's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks" / / />}}
-  {{< interactive-modules/checklist-item label="Original stopper or closure present" / / />}}
-  {{< interactive-modules/checklist-item label="Retained original labels" / / />}}
-  {{< interactive-modules/checklist-item label="No clouding or staining" / / />}}
-  {{< interactive-modules/checklist-item label="Complete and intact embossing" / / />}}
-  {{< interactive-modules/checklist-item label="Original contents (in some cases)" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks" / />}}
+  {{< interactive-modules/checklist-item label="Original stopper or closure present" / />}}
+  {{< interactive-modules/checklist-item label="Retained original labels" / />}}
+  {{< interactive-modules/checklist-item label="No clouding or staining" / />}}
+  {{< interactive-modules/checklist-item label="Complete and intact embossing" / />}}
+  {{< interactive-modules/checklist-item label="Original contents (in some cases)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color and Aesthetics

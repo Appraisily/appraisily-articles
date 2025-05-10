@@ -187,13 +187,13 @@ Not all art appraisers offer the same level of expertise or service. When select
 When evaluating potential appraisers, verify these important qualifications:
 
 {{< interactive-modules/condition-checklist title="Art Appraiser Qualification Checklist" description="Key credentials to look for when selecting an appraiser" >}}
-  {{< interactive-modules/checklist-item label="Membership in a major appraisal organization (ISA, ASA, AAA)" / / />}}
-  {{< interactive-modules/checklist-item label="USPAP compliance (Uniform Standards of Professional Appraisal Practice)" / / />}}
-  {{< interactive-modules/checklist-item label="Specialization in your specific type of artwork" / / />}}
-  {{< interactive-modules/checklist-item label="Formal education in art history or related field" / / />}}
-  {{< interactive-modules/checklist-item label="Years of relevant experience in the art market" / / />}}
-  {{< interactive-modules/checklist-item label="Clear fee structure with written estimates" / / />}}
-  {{< interactive-modules/checklist-item label="Professional liability insurance" / / />}}
+  {{< interactive-modules/checklist-item label="Membership in a major appraisal organization (ISA, ASA, AAA)" / />}}
+  {{< interactive-modules/checklist-item label="USPAP compliance (Uniform Standards of Professional Appraisal Practice)" / />}}
+  {{< interactive-modules/checklist-item label="Specialization in your specific type of artwork" / />}}
+  {{< interactive-modules/checklist-item label="Formal education in art history or related field" / />}}
+  {{< interactive-modules/checklist-item label="Years of relevant experience in the art market" / />}}
+  {{< interactive-modules/checklist-item label="Clear fee structure with written estimates" / />}}
+  {{< interactive-modules/checklist-item label="Professional liability insurance" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Specialization Matters
@@ -334,14 +334,14 @@ Understanding what happens during a professional art appraisal helps you prepare
 To ensure an efficient appraisal process, gather these materials in advance:
 
 {{< interactive-modules/condition-checklist title="Pre-Appraisal Preparation Checklist" description="Documents and information to gather before your art appraisal" >}}
-  {{< interactive-modules/checklist-item label="Purchase receipts or invoices (if available)" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance documents (history of ownership)" / / />}}
-  {{< interactive-modules/checklist-item label="Previous appraisals or insurance records" / / />}}
-  {{< interactive-modules/checklist-item label="Exhibition history information" / / />}}
-  {{< interactive-modules/checklist-item label="Artist information and biographical details" / / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity (if available)" / / />}}
-  {{< interactive-modules/checklist-item label="Conservation or restoration records" / / />}}
-  {{< interactive-modules/checklist-item label="Clear photographs of the artwork" / / />}}
+  {{< interactive-modules/checklist-item label="Purchase receipts or invoices (if available)" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documents (history of ownership)" / />}}
+  {{< interactive-modules/checklist-item label="Previous appraisals or insurance records" / />}}
+  {{< interactive-modules/checklist-item label="Exhibition history information" / />}}
+  {{< interactive-modules/checklist-item label="Artist information and biographical details" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity (if available)" / />}}
+  {{< interactive-modules/checklist-item label="Conservation or restoration records" / />}}
+  {{< interactive-modules/checklist-item label="Clear photographs of the artwork" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Steps in the Appraisal Process

@@ -201,14 +201,14 @@ Many appraisers specialize in specific categories:
 For the most accurate valuation, seek an appraiser with expertise in your specific item category.
 
 {{< interactive-modules/condition-checklist title="Evaluating Potential Appraisers" description="Use this checklist to assess appraisers before hiring" >}}
-{{< interactive-modules/checklist-item label="Holds recognized professional credentials" / / />}}
-{{< interactive-modules/checklist-item label="Specializes in your specific type of antique" / / />}}
-{{< interactive-modules/checklist-item label="Can provide references from past clients" / / />}}
-{{< interactive-modules/checklist-item label="Has no conflict of interest (not trying to buy your items)" / / />}}
-{{< interactive-modules/checklist-item label="Clearly explains their fee structure upfront" / / />}}
-{{< interactive-modules/checklist-item label="Provides a written contract for services" / / />}}
-{{< interactive-modules/checklist-item label="Maintains USPAP compliance" / / />}}
-{{< interactive-modules/checklist-item label="Has appropriate insurance coverage" / / />}}
+{{< interactive-modules/checklist-item label="Holds recognized professional credentials" / />}}
+{{< interactive-modules/checklist-item label="Specializes in your specific type of antique" / />}}
+{{< interactive-modules/checklist-item label="Can provide references from past clients" / />}}
+{{< interactive-modules/checklist-item label="Has no conflict of interest (not trying to buy your items)" / />}}
+{{< interactive-modules/checklist-item label="Clearly explains their fee structure upfront" / />}}
+{{< interactive-modules/checklist-item label="Provides a written contract for services" / />}}
+{{< interactive-modules/checklist-item label="Maintains USPAP compliance" / />}}
+{{< interactive-modules/checklist-item label="Has appropriate insurance coverage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Appraisal Costs and Fee Structures" level="2" >}}

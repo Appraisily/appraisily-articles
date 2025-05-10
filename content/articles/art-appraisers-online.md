@@ -304,16 +304,16 @@ The [Museum of Modern African Art (MoMAA)](https://momaa.org/art-appraisal-onlin
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Online Art Appraisal Submission Checklist" description="Use this checklist to ensure you provide all necessary information for an accurate online appraisal" >}}
-  {{< interactive-modules/checklist-item label="High-resolution images from multiple angles (front, back, details)" / / />}}
-  {{< interactive-modules/checklist-item label="Close-up photos of signatures, stamps, or markings" / / />}}
-  {{< interactive-modules/checklist-item label="Images of any damage or restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Accurate measurements (height, width, depth if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Medium and materials information" / / />}}
-  {{< interactive-modules/checklist-item label="Artist name (if known)" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance documents or history of ownership" / / />}}
-  {{< interactive-modules/checklist-item label="Previous appraisals or sales receipts" / / />}}
-  {{< interactive-modules/checklist-item label="Certificates of authenticity (if available)" / / />}}
-  {{< interactive-modules/checklist-item label="Specific purpose for the appraisal (insurance, sale, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="High-resolution images from multiple angles (front, back, details)" / />}}
+  {{< interactive-modules/checklist-item label="Close-up photos of signatures, stamps, or markings" / />}}
+  {{< interactive-modules/checklist-item label="Images of any damage or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Accurate measurements (height, width, depth if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Medium and materials information" / />}}
+  {{< interactive-modules/checklist-item label="Artist name (if known)" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documents or history of ownership" / />}}
+  {{< interactive-modules/checklist-item label="Previous appraisals or sales receipts" / />}}
+  {{< interactive-modules/checklist-item label="Certificates of authenticity (if available)" / />}}
+  {{< interactive-modules/checklist-item label="Specific purpose for the appraisal (insurance, sale, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Selecting the Right Online Appraiser

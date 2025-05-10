@@ -183,13 +183,13 @@ Distinguishing between common and rare 1-cent Benjamin Franklin stamps requires 
 5. **Production Year**: Verify the issue date by checking catalog references. Stamps from certain years are more likely to be valuable varieties.
 
 {{< interactive-modules/condition-checklist title="Valuable 1-Cent Franklin Stamp Identification Checklist" description="Use this checklist to help identify potentially valuable 1-cent Benjamin Franklin stamps" >}}
-  {{< interactive-modules/checklist-item label="Stamp appears slightly larger in one dimension than common issues" / / />}}
-  {{< interactive-modules/checklist-item label="Perforations measure exactly 11 per 2cm on all sides" / / />}}
-  {{< interactive-modules/checklist-item label="Paper has no watermark (for Scott #594 and #596)" / / />}}
-  {{< interactive-modules/checklist-item label="Stamp has rich, deep green color rather than pale green" / / />}}
-  {{< interactive-modules/checklist-item label="Print date is from 1923-1924 era" / / />}}
-  {{< interactive-modules/checklist-item label="Visible grill pattern can be seen on the back of the stamp (for early issues)" / / />}}
-  {{< interactive-modules/checklist-item label="Stamp shows evidence of being from a coil (trimmed sides or paste-up)" / / />}}
+  {{< interactive-modules/checklist-item label="Stamp appears slightly larger in one dimension than common issues" / />}}
+  {{< interactive-modules/checklist-item label="Perforations measure exactly 11 per 2cm on all sides" / />}}
+  {{< interactive-modules/checklist-item label="Paper has no watermark (for Scott #594 and #596)" / />}}
+  {{< interactive-modules/checklist-item label="Stamp has rich, deep green color rather than pale green" / />}}
+  {{< interactive-modules/checklist-item label="Print date is from 1923-1924 era" / />}}
+  {{< interactive-modules/checklist-item label="Visible grill pattern can be seen on the back of the stamp (for early issues)" / />}}
+  {{< interactive-modules/checklist-item label="Stamp shows evidence of being from a coil (trimmed sides or paste-up)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< data-modules/stats-highlight title="Benjamin Franklin Stamp Market Statistics" columns="3" / / />}}

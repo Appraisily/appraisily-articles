@@ -269,11 +269,11 @@ Before seeking an appraisal, collect as much information as possible:
 Whether for in-person or online appraisals, good photos are crucial:
 
 {{< interactive-modules/condition-checklist title="Artwork Photography Checklist" description="Ensure your photos meet these criteria for the best appraisal results" >}}
-  {{< interactive-modules/checklist-item label="Full-view photo of the front in good lighting" / / />}}
-  {{< interactive-modules/checklist-item label="Photo of the back showing any labels or markings" / / />}}
-  {{< interactive-modules/checklist-item label="Close-up of the signature" / / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of any damage or restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Photos of any documentation or certificates" / / />}}
+  {{< interactive-modules/checklist-item label="Full-view photo of the front in good lighting" / />}}
+  {{< interactive-modules/checklist-item label="Photo of the back showing any labels or markings" / />}}
+  {{< interactive-modules/checklist-item label="Close-up of the signature" / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of any damage or restoration" / />}}
+  {{< interactive-modules/checklist-item label="Photos of any documentation or certificates" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Questions to Ask During Your Appraisal

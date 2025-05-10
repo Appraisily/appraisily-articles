@@ -138,14 +138,14 @@ The pattern is often the single biggest determinant of CorningWare value. While 
 The condition of vintage CorningWare dramatically affects its value. Pieces with minimal wear, no cracks, chips, or crazing will command premium prices.
 
 {{< interactive-modules/condition-checklist title="CorningWare Condition Assessment" description="Check applicable items to gauge value impact" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the dish or lid" / / />}}
-  {{< interactive-modules/checklist-item label="Pattern is bright with minimal fading" / / />}}
-  {{< interactive-modules/checklist-item label="Original lid is present and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="No signs of crazing (tiny cracks in the glaze)" / / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging is included" / / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or staining" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal utensil marks on the interior" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set with accessories (trivets, holders)" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the dish or lid" / />}}
+  {{< interactive-modules/checklist-item label="Pattern is bright with minimal fading" / />}}
+  {{< interactive-modules/checklist-item label="Original lid is present and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No signs of crazing (tiny cracks in the glaze)" / />}}
+  {{< interactive-modules/checklist-item label="Original box or packaging is included" / />}}
+  {{< interactive-modules/checklist-item label="No discoloration or staining" / />}}
+  {{< interactive-modules/checklist-item label="Minimal utensil marks on the interior" / />}}
+  {{< interactive-modules/checklist-item label="Complete set with accessories (trivets, holders)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness of Sets

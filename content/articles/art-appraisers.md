@@ -245,14 +245,14 @@ Note that online appraisals typically have limitations and may not satisfy requi
 ![Art appraiser using digital tools to document artwork details](https://ik.imagekit.io/appraisily/SEO/art-appraisers/art-appraisers-image-5_jAfcVpWFU6.png)
 
 {{< interactive-modules/condition-checklist title="Art Appraiser Selection Checklist" description="Essential criteria to verify when hiring an art appraiser" >}}
-  {{< interactive-modules/checklist-item label="Holds credentials from recognized professional organizations (AAA, ISA, ASA)" / / />}}
-  {{< interactive-modules/checklist-item label="USPAP compliant with current certification" / / />}}
-  {{< interactive-modules/checklist-item label="Specializes in relevant art period, medium, or artist" / / />}}
-  {{< interactive-modules/checklist-item label="No conflicts of interest (doesn't buy/sell art they appraise)" / / />}}
-  {{< interactive-modules/checklist-item label="Experience with your specific appraisal purpose (insurance, donation, estate)" / / />}}
-  {{< interactive-modules/checklist-item label="Provides clear fee structure before beginning work" / / />}}
-  {{< interactive-modules/checklist-item label="Willing to provide references from past clients" / / />}}
-  {{< interactive-modules/checklist-item label="Delivers comprehensive written appraisal reports" / / />}}
+  {{< interactive-modules/checklist-item label="Holds credentials from recognized professional organizations (AAA, ISA, ASA)" / />}}
+  {{< interactive-modules/checklist-item label="USPAP compliant with current certification" / />}}
+  {{< interactive-modules/checklist-item label="Specializes in relevant art period, medium, or artist" / />}}
+  {{< interactive-modules/checklist-item label="No conflicts of interest (doesn't buy/sell art they appraise)" / />}}
+  {{< interactive-modules/checklist-item label="Experience with your specific appraisal purpose (insurance, donation, estate)" / />}}
+  {{< interactive-modules/checklist-item label="Provides clear fee structure before beginning work" / />}}
+  {{< interactive-modules/checklist-item label="Willing to provide references from past clients" / />}}
+  {{< interactive-modules/checklist-item label="Delivers comprehensive written appraisal reports" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Art Appraisal Process" level="2" >}}

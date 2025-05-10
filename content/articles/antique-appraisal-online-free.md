@@ -202,11 +202,11 @@ Several websites specialize in providing free preliminary appraisals:
 High-quality photographs are crucial for online appraisals:
 
 {{< interactive-modules/condition-checklist title="Photo Checklist for Online Appraisals" description="Ensure your photographs include these elements" >}}
-  {{< interactive-modules/checklist-item label="Clear, high-resolution images from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of signatures, marks, and damage" / / />}}
-  {{< interactive-modules/checklist-item label="Photos taken in natural light without flash" / / />}}
-  {{< interactive-modules/checklist-item label="Scale reference (ruler or coin) for size context" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks, hallmarks, and labels" / / />}}
+  {{< interactive-modules/checklist-item label="Clear, high-resolution images from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of signatures, marks, and damage" / />}}
+  {{< interactive-modules/checklist-item label="Photos taken in natural light without flash" / />}}
+  {{< interactive-modules/checklist-item label="Scale reference (ruler or coin) for size context" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks, hallmarks, and labels" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up photography of maker's marks and signatures on antique items](https://ik.imagekit.io/appraisily/SEO/antique-appraisal-online-free/antique-appraisal-online-free-image-4_ZK-cpUDdR.png)

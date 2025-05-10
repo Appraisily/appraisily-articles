@@ -229,13 +229,13 @@ Some artists intentionally limit their value range to create specific effects. F
 Gradual transitions between values create smooth shifts that help model form and create dimension. Value gradation is essential for creating realistic roundness in objects and suggesting the way light wraps around three-dimensional forms.
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist for Artists" description="Use this checklist to evaluate the effective use of value in artwork" >}}
-  {{< interactive-modules/checklist-item label="Clear value structure with definable light, mid, and dark tones" / / />}}
-  {{< interactive-modules/checklist-item label="Strategic contrast to direct viewer's attention to focal points" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / / />}}
-  {{< interactive-modules/checklist-item label="Proper value relationships that create convincing form and volume" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate value range for the intended mood and subject" / / />}}
-  {{< interactive-modules/checklist-item label="Value gradations that effectively model three-dimensional forms" / / />}}
-  {{< interactive-modules/checklist-item label="Background and foreground value relationships that create depth" / / />}}
+  {{< interactive-modules/checklist-item label="Clear value structure with definable light, mid, and dark tones" / />}}
+  {{< interactive-modules/checklist-item label="Strategic contrast to direct viewer's attention to focal points" / />}}
+  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / />}}
+  {{< interactive-modules/checklist-item label="Proper value relationships that create convincing form and volume" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate value range for the intended mood and subject" / />}}
+  {{< interactive-modules/checklist-item label="Value gradations that effectively model three-dimensional forms" / />}}
+  {{< interactive-modules/checklist-item label="Background and foreground value relationships that create depth" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Value and Its Relationship to Other Art Elements" level="2" >}}

@@ -160,12 +160,12 @@ According to discussions on [Forum Ancient Coins](https://www.forumancientcoins.
 Modern coins (generally post-1700) with holes drilled by individuals are typically considered damaged. The value reduction can be substantial, especially for collectible or rare specimens.
 
 {{< interactive-modules/condition-checklist title="Factors Affecting Holed Coin Value" description="These factors influence how much a hole impacts a coin's value:" >}}
-  {{< interactive-modules/checklist-item label="Position of the hole (center vs. edge)" / / />}}
-  {{< interactive-modules/checklist-item label="Size and neatness of the hole" / / />}}
-  {{< interactive-modules/checklist-item label="Quality of the coin aside from the hole" / / />}}
-  {{< interactive-modules/checklist-item label="Rarity of the coin type" / / />}}
-  {{< interactive-modules/checklist-item label="Historical period and context" / / />}}
-  {{< interactive-modules/checklist-item label="Purpose of the hole (jewelry, love token, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Position of the hole (center vs. edge)" / />}}
+  {{< interactive-modules/checklist-item label="Size and neatness of the hole" / />}}
+  {{< interactive-modules/checklist-item label="Quality of the coin aside from the hole" / />}}
+  {{< interactive-modules/checklist-item label="Rarity of the coin type" / />}}
+  {{< interactive-modules/checklist-item label="Historical period and context" / />}}
+  {{< interactive-modules/checklist-item label="Purpose of the hole (jewelry, love token, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Rare silver coin with small drilled hole](https://ik.imagekit.io/appraisily/SEO/old-coins-with-holes-in-them-value/old-coins-with-holes-in-them-value-image-4_DoW1v8-qj.png)

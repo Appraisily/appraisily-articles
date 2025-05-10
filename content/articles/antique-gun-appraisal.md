@@ -142,13 +142,13 @@ The scarcity of a particular model significantly impacts its value. Limited prod
 ### 3. Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Antique Firearm Condition Factors" description="Key elements that appraisers evaluate when assessing condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish and patina integrity" / / />}}
-  {{< interactive-modules/checklist-item label="Functioning mechanics and action" / / />}}
-  {{< interactive-modules/checklist-item label="Barrel condition (no bulges, pitting, or corrosion)" / / />}}
-  {{< interactive-modules/checklist-item label="Original parts (not replaced or modified)" / / />}}
-  {{< interactive-modules/checklist-item label="Stock condition (no cracks, repairs, or refinishing)" / / />}}
-  {{< interactive-modules/checklist-item label="Matching serial numbers on all components" / / />}}
-  {{< interactive-modules/checklist-item label="Clear markings and proof marks" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish and patina integrity" / />}}
+  {{< interactive-modules/checklist-item label="Functioning mechanics and action" / />}}
+  {{< interactive-modules/checklist-item label="Barrel condition (no bulges, pitting, or corrosion)" / />}}
+  {{< interactive-modules/checklist-item label="Original parts (not replaced or modified)" / />}}
+  {{< interactive-modules/checklist-item label="Stock condition (no cracks, repairs, or refinishing)" / />}}
+  {{< interactive-modules/checklist-item label="Matching serial numbers on all components" / />}}
+  {{< interactive-modules/checklist-item label="Clear markings and proof marks" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition is perhaps the most significant factor affecting value. Firearms in excellent original condition with minimal wear are worth substantially more than those that show excessive use, have been restored, or contain replacement parts. Professional appraisers use standardized condition grades:

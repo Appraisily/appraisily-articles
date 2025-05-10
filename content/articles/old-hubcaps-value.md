@@ -127,14 +127,14 @@ Condition dramatically impacts value. Here's a standard grading scale:
 - **Poor**: Major damage, heavy pitting, not display-ready (10-20% value)
 
 {{< interactive-modules/condition-checklist title="Hubcap Condition Assessment" description="Evaluate the condition of your vintage hubcaps with this checklist" >}}
-  {{< interactive-modules/checklist-item label="No visible dents or creases in the metal" / / />}}
-  {{< interactive-modules/checklist-item label="Chrome plating intact with minimal or no pitting" / / />}}
-  {{< interactive-modules/checklist-item label="Emblems and logos complete and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches on visible surfaces" / / />}}
-  {{< interactive-modules/checklist-item label="Retention clips intact and functional" / / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion visible" / / />}}
-  {{< interactive-modules/checklist-item label="Original paint or details preserved (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Matching set (adds significant value)" / / />}}
+  {{< interactive-modules/checklist-item label="No visible dents or creases in the metal" / />}}
+  {{< interactive-modules/checklist-item label="Chrome plating intact with minimal or no pitting" / />}}
+  {{< interactive-modules/checklist-item label="Emblems and logos complete and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratches on visible surfaces" / />}}
+  {{< interactive-modules/checklist-item label="Retention clips intact and functional" / />}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion visible" / />}}
+  {{< interactive-modules/checklist-item label="Original paint or details preserved (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Matching set (adds significant value)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authenticity Considerations

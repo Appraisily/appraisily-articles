@@ -259,11 +259,11 @@ Linda Le Kinff's signature is distinctive and an important authentication elemen
 Authentic Le Kinff artwork should be accompanied by proper documentation:
 
 {{< interactive-modules/condition-checklist title="Le Kinff Authentication Documentation Checklist" description="Verify these elements when authenticating Linda Le Kinff artwork" >}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity from the gallery or publisher" / / />}}
-  {{< interactive-modules/checklist-item label="Edition numbering clearly marked on limited editions" / / />}}
-  {{< interactive-modules/checklist-item label="Gallery labels or stamps from authorized dealers" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation showing ownership history" / / />}}
-  {{< interactive-modules/checklist-item label="Original sales receipt or purchase documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity from the gallery or publisher" / />}}
+  {{< interactive-modules/checklist-item label="Edition numbering clearly marked on limited editions" / />}}
+  {{< interactive-modules/checklist-item label="Gallery labels or stamps from authorized dealers" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation showing ownership history" / />}}
+  {{< interactive-modules/checklist-item label="Original sales receipt or purchase documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authorized Publishers and Galleries

@@ -207,11 +207,11 @@ The first level of authentication involves careful visual inspection:
 Beyond visual inspection, these physical tests can provide additional authentication evidence:
 
 {{< interactive-modules/condition-checklist title="Physical Authentication Checklist" description="Methods to verify Chinese silver coin authenticity" >}}
-  {{< interactive-modules/checklist-item label="Weight Verification" / / />}}
-  {{< interactive-modules/checklist-item label="Dimensional Analysis" / / />}}
-  {{< interactive-modules/checklist-item label="Ping Test for Acoustic Properties" / / />}}
-  {{< interactive-modules/checklist-item label="Magnetic Testing" / / />}}
-  {{< interactive-modules/checklist-item label="Density Measurement" / / />}}
+  {{< interactive-modules/checklist-item label="Weight Verification" / />}}
+  {{< interactive-modules/checklist-item label="Dimensional Analysis" / />}}
+  {{< interactive-modules/checklist-item label="Ping Test for Acoustic Properties" / />}}
+  {{< interactive-modules/checklist-item label="Magnetic Testing" / />}}
+  {{< interactive-modules/checklist-item label="Density Measurement" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 **Weight Verification**: Each authentic coin type has a specific weight standard. Use a precision scale (accurate to 0.1g) to compare with known specifications.
@@ -444,13 +444,13 @@ Navigating the complex world of Chinese numismatics requires a methodical approa
 When acquiring Chinese silver coins, follow these best practices:
 
 {{< interactive-modules/condition-checklist title="Purchasing Safety Checklist" description="Steps to reduce risk when buying Chinese silver coins" >}}
-  {{< interactive-modules/checklist-item label="Only purchase from dealers with solid reputations and authenticity guarantees" / / />}}
-  {{< interactive-modules/checklist-item label="For expensive coins, verify third-party certification is genuine via online lookup" / / />}}
-  {{< interactive-modules/checklist-item label="Research current market values before purchasing" / / />}}
-  {{< interactive-modules/checklist-item label="Document provenance and maintain chain of ownership evidence" / / />}}
-  {{< interactive-modules/checklist-item label="Be skeptical of prices significantly below market value" / / />}}
-  {{< interactive-modules/checklist-item label="Examine coins in person whenever possible" / / />}}
-  {{< interactive-modules/checklist-item label="Consider the seller's return policy and verification period" / / />}}
+  {{< interactive-modules/checklist-item label="Only purchase from dealers with solid reputations and authenticity guarantees" / />}}
+  {{< interactive-modules/checklist-item label="For expensive coins, verify third-party certification is genuine via online lookup" / />}}
+  {{< interactive-modules/checklist-item label="Research current market values before purchasing" / />}}
+  {{< interactive-modules/checklist-item label="Document provenance and maintain chain of ownership evidence" / />}}
+  {{< interactive-modules/checklist-item label="Be skeptical of prices significantly below market value" / />}}
+  {{< interactive-modules/checklist-item label="Examine coins in person whenever possible" / />}}
+  {{< interactive-modules/checklist-item label="Consider the seller's return policy and verification period" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Storage and Preservation

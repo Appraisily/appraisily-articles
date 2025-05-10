@@ -214,14 +214,14 @@ A [Business Insider article](https://www.businessinsider.com/how-to-get-started-
 Another CNBC article featured Nora Curl, an antique appraiser who makes [six figures annually working on JustAnswer](https://www.cnbc.com/2023/12/18/antique-appraiser-nora-curl-makes-an-average-10k-a-month-on-justanswer-her-advice.html), demonstrating that top experts on the platform can earn substantial income while providing their expertise remotely.
 
 {{< interactive-modules/condition-checklist title="Expert Verification Checklist" description="JustAnswer's 8-Step Expert Verification Process" >}}
-  {{< interactive-modules/checklist-item label="Professional credentials and education verification" / / />}}
-  {{< interactive-modules/checklist-item label="License validation (where applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Identity verification and background checks" / / />}}
-  {{< interactive-modules/checklist-item label="Professional reference confirmation" / / />}}
-  {{< interactive-modules/checklist-item label="Knowledge assessment in specialty area" / / />}}
-  {{< interactive-modules/checklist-item label="Customer satisfaction monitoring" / / />}}
-  {{< interactive-modules/checklist-item label="Regular performance reviews" / / />}}
-  {{< interactive-modules/checklist-item label="Ongoing quality control checks" / / />}}
+  {{< interactive-modules/checklist-item label="Professional credentials and education verification" / />}}
+  {{< interactive-modules/checklist-item label="License validation (where applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Identity verification and background checks" / />}}
+  {{< interactive-modules/checklist-item label="Professional reference confirmation" / />}}
+  {{< interactive-modules/checklist-item label="Knowledge assessment in specialty area" / />}}
+  {{< interactive-modules/checklist-item label="Customer satisfaction monitoring" / />}}
+  {{< interactive-modules/checklist-item label="Regular performance reviews" / />}}
+  {{< interactive-modules/checklist-item label="Ongoing quality control checks" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Pros and Cons of JustAnswer Antique Appraisals" level="2" >}}

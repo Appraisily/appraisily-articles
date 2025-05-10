@@ -273,14 +273,14 @@ Membership in professional organizations further demonstrates their commitment t
 These credentials ensure that clients receive appraisals that not only reflect accurate market values but also meet legal requirements for insurance, tax, and estate purposes.
 
 {{< interactive-modules/condition-checklist title="What Makes a Reliable Antique Appraiser" description="Key factors to look for when selecting an antique appraiser" >}}
-  {{< interactive-modules/checklist-item label="Verifiable certification from recognized appraisal organizations" / / />}}
-  {{< interactive-modules/checklist-item label="Specific expertise in relevant categories of antiques and collectibles" / / />}}
-  {{< interactive-modules/checklist-item label="Multiple years of professional experience in the field" / / />}}
-  {{< interactive-modules/checklist-item label="Proper licenses for conducting business in your state" / / />}}
-  {{< interactive-modules/checklist-item label="Positive customer reviews and testimonials" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, detailed explanation of appraisal methods" / / />}}
-  {{< interactive-modules/checklist-item label="Transparent pricing structure for services" / / />}}
-  {{< interactive-modules/checklist-item label="Professional approach and ethical business practices" / / />}}
+  {{< interactive-modules/checklist-item label="Verifiable certification from recognized appraisal organizations" / />}}
+  {{< interactive-modules/checklist-item label="Specific expertise in relevant categories of antiques and collectibles" / />}}
+  {{< interactive-modules/checklist-item label="Multiple years of professional experience in the field" / />}}
+  {{< interactive-modules/checklist-item label="Proper licenses for conducting business in your state" / />}}
+  {{< interactive-modules/checklist-item label="Positive customer reviews and testimonials" / />}}
+  {{< interactive-modules/checklist-item label="Clear, detailed explanation of appraisal methods" / />}}
+  {{< interactive-modules/checklist-item label="Transparent pricing structure for services" / />}}
+  {{< interactive-modules/checklist-item label="Professional approach and ethical business practices" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Client Experience" level="2" >}}

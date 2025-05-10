@@ -309,15 +309,15 @@ Condition dramatically affects the value of antique hand saws, with original fea
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Antique Hand Saw Condition Checklist" description="Evaluate your saw's condition using these criteria" >}}
-  {{< interactive-modules/checklist-item label="Original handle without repairs or replacements" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible etch on the blade" / / />}}
-  {{< interactive-modules/checklist-item label="No rust pitting or minimal surface rust only" / / />}}
-  {{< interactive-modules/checklist-item label="Original fasteners (nuts/screws) matching the period" / / />}}
-  {{< interactive-modules/checklist-item label="Handle without cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Blade without kinks, bends, or excessive pitting" / / />}}
-  {{< interactive-modules/checklist-item label="Original handle finish (not recently refinished)" / / />}}
-  {{< interactive-modules/checklist-item label="Complete, undamaged handle horns" / / />}}
-  {{< interactive-modules/checklist-item label="No excessive saw plate narrowing from repeated sharpening" / / />}}
+  {{< interactive-modules/checklist-item label="Original handle without repairs or replacements" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible etch on the blade" / />}}
+  {{< interactive-modules/checklist-item label="No rust pitting or minimal surface rust only" / />}}
+  {{< interactive-modules/checklist-item label="Original fasteners (nuts/screws) matching the period" / />}}
+  {{< interactive-modules/checklist-item label="Handle without cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Blade without kinks, bends, or excessive pitting" / />}}
+  {{< interactive-modules/checklist-item label="Original handle finish (not recently refinished)" / />}}
+  {{< interactive-modules/checklist-item label="Complete, undamaged handle horns" / />}}
+  {{< interactive-modules/checklist-item label="No excessive saw plate narrowing from repeated sharpening" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Restoration Considerations

@@ -142,14 +142,14 @@ When submitting artwork for free online evaluation, include these details for th
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Art Evaluation Submission Checklist" description="Include these elements when requesting a free art evaluation:" >}}
-  {{< interactive-modules/checklist-item label="High-resolution photos (front, back, signature, details of damage)" / / />}}
-  {{< interactive-modules/checklist-item label="Artist name (if known)" / / />}}
-  {{< interactive-modules/checklist-item label="Medium (oil, acrylic, watercolor, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Dimensions (height x width, framed and unframed)" / / />}}
-  {{< interactive-modules/checklist-item label="Year created (if known)" / / />}}
-  {{< interactive-modules/checklist-item label="Provenance information (history of ownership)" / / />}}
-  {{< interactive-modules/checklist-item label="Condition notes (any damage, repairs, discoloration)" / / />}}
-  {{< interactive-modules/checklist-item label="Close-up photos of signatures, dates, or markings" / / />}}
+  {{< interactive-modules/checklist-item label="High-resolution photos (front, back, signature, details of damage)" / />}}
+  {{< interactive-modules/checklist-item label="Artist name (if known)" / />}}
+  {{< interactive-modules/checklist-item label="Medium (oil, acrylic, watercolor, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Dimensions (height x width, framed and unframed)" / />}}
+  {{< interactive-modules/checklist-item label="Year created (if known)" / />}}
+  {{< interactive-modules/checklist-item label="Provenance information (history of ownership)" / />}}
+  {{< interactive-modules/checklist-item label="Condition notes (any damage, repairs, discoloration)" / />}}
+  {{< interactive-modules/checklist-item label="Close-up photos of signatures, dates, or markings" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Social Media Groups and Forums for Art Evaluation

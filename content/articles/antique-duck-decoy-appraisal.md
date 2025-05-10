@@ -169,13 +169,13 @@ Common condition issues that can affect value include:
 - Repairs (especially poor-quality ones)
 
 {{< interactive-modules/condition-checklist title="Duck Decoy Condition Assessment" description="Check applicable items to evaluate your decoy's condition" >}}
-  {{< interactive-modules/checklist-item label="Original paint with natural wear pattern" / / />}}
-  {{< interactive-modules/checklist-item label="No significant cracks or splits in the wood" / / />}}
-  {{< interactive-modules/checklist-item label="Head and bill intact without repairs" / / />}}
-  {{< interactive-modules/checklist-item label="No evidence of rot or water damage" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal professional restoration if any" / / />}}
-  {{< interactive-modules/checklist-item label="Original weight system intact (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Authentic patina consistent with age" / / />}}
+  {{< interactive-modules/checklist-item label="Original paint with natural wear pattern" / />}}
+  {{< interactive-modules/checklist-item label="No significant cracks or splits in the wood" / />}}
+  {{< interactive-modules/checklist-item label="Head and bill intact without repairs" / />}}
+  {{< interactive-modules/checklist-item label="No evidence of rot or water damage" / />}}
+  {{< interactive-modules/checklist-item label="Minimal professional restoration if any" / />}}
+  {{< interactive-modules/checklist-item label="Original weight system intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Authentic patina consistent with age" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Artistic Merit

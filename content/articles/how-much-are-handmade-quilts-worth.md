@@ -74,12 +74,12 @@ The fabrics and materials used in a quilt significantly impact its value. Qualit
 The most significant factor in a quilt's value is the time invested in creating it. Professional quilters typically value their time between $15-30 per hour, though many experienced artisans should command higher rates.
 
 {{< interactive-modules/condition-checklist title="Time Investment By Quilt Phase" description="Each of these phases contributes to the total time invested in a handmade quilt" >}}
-  {{< interactive-modules/checklist-item label="Design and planning: 2-10 hours" / / />}}
-  {{< interactive-modules/checklist-item label="Cutting fabrics: 3-8 hours" / / />}}
-  {{< interactive-modules/checklist-item label="Piecing the top: 10-40 hours" / / />}}
-  {{< interactive-modules/checklist-item label="Basting layers: 1-3 hours" / / />}}
-  {{< interactive-modules/checklist-item label="Quilting: 5-30 hours (machine) or 40-200+ hours (hand-quilting)" / / />}}
-  {{< interactive-modules/checklist-item label="Binding and finishing: 3-8 hours" / / />}}
+  {{< interactive-modules/checklist-item label="Design and planning: 2-10 hours" / />}}
+  {{< interactive-modules/checklist-item label="Cutting fabrics: 3-8 hours" / />}}
+  {{< interactive-modules/checklist-item label="Piecing the top: 10-40 hours" / />}}
+  {{< interactive-modules/checklist-item label="Basting layers: 1-3 hours" / />}}
+  {{< interactive-modules/checklist-item label="Quilting: 5-30 hours (machine) or 40-200+ hours (hand-quilting)" / />}}
+  {{< interactive-modules/checklist-item label="Binding and finishing: 3-8 hours" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Design Complexity and Technique

@@ -197,15 +197,15 @@ Condition dramatically impacts value. Factors include:
 - Original vs. replacement upholstery
 
 {{< interactive-modules/condition-checklist title="Antique Rocking Chair Condition Assessment" description="Use this checklist to evaluate your rocking chair's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact with natural patina" / / />}}
-  {{< interactive-modules/checklist-item label="No major repairs or replacements of key components" / / />}}
-  {{< interactive-modules/checklist-item label="Joints are tight and secure" / / />}}
-  {{< interactive-modules/checklist-item label="Free from wood rot, significant cracks, or insect damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="Retains maker's marks or labels" / / />}}
-  {{< interactive-modules/checklist-item label="If upholstered, fabric is in good condition or appropriately restored" / / />}}
-  {{< interactive-modules/checklist-item label="Rockers show even wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Free from inappropriate modern fasteners or materials" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with natural patina" / />}}
+  {{< interactive-modules/checklist-item label="No major repairs or replacements of key components" / />}}
+  {{< interactive-modules/checklist-item label="Joints are tight and secure" / />}}
+  {{< interactive-modules/checklist-item label="Free from wood rot, significant cracks, or insect damage" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Retains maker's marks or labels" / />}}
+  {{< interactive-modules/checklist-item label="If upholstered, fabric is in good condition or appropriately restored" / />}}
+  {{< interactive-modules/checklist-item label="Rockers show even wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Free from inappropriate modern fasteners or materials" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Materials and Craftsmanship

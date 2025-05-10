@@ -178,10 +178,10 @@ The bottom of an antique bottle often contains valuable identification informati
 One of the most important indicators of an old bottle is the presence of a pontil mark on the base.
 
 {{< interactive-modules/condition-checklist title="Types of Pontil Marks" description="Different pontil marks indicate various production periods and methods" >}}
-  {{< interactive-modules/checklist-item label="Open Pontil Scar (1800-1860): Rough circular scar with sharp edges" / / />}}
-  {{< interactive-modules/checklist-item label="Iron Pontil Mark (1845-1870): Reddish/graphite residue in circular form" / / />}}
-  {{< interactive-modules/checklist-item label="Sand Pontil (1850-1870): Granular, sandpaper-like texture" / / />}}
-  {{< interactive-modules/checklist-item label="Smooth Base (post-1870): Absence of pontil mark indicates later production" / / />}}
+  {{< interactive-modules/checklist-item label="Open Pontil Scar (1800-1860): Rough circular scar with sharp edges" / />}}
+  {{< interactive-modules/checklist-item label="Iron Pontil Mark (1845-1870): Reddish/graphite residue in circular form" / />}}
+  {{< interactive-modules/checklist-item label="Sand Pontil (1850-1870): Granular, sandpaper-like texture" / />}}
+  {{< interactive-modules/checklist-item label="Smooth Base (post-1870): Absence of pontil mark indicates later production" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 #### Manufacturer's Marks
@@ -345,13 +345,13 @@ According to bottle collecting experts, these factors most significantly impact 
 7. **Regional Interest**: Local bottles often appeal to collectors from that area
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment" description="Check applicable items to evaluate condition" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks or flakes" / / />}}
-  {{< interactive-modules/checklist-item label="Original closure present" / / />}}
-  {{< interactive-modules/checklist-item label="Clear embossing with no wear" / / />}}
-  {{< interactive-modules/checklist-item label="Original label intact" / / />}}
-  {{< interactive-modules/checklist-item label="No staining or interior residue" / / />}}
-  {{< interactive-modules/checklist-item label="No scratches or case wear" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent color without fading" / / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks or flakes" / />}}
+  {{< interactive-modules/checklist-item label="Original closure present" / />}}
+  {{< interactive-modules/checklist-item label="Clear embossing with no wear" / />}}
+  {{< interactive-modules/checklist-item label="Original label intact" / />}}
+  {{< interactive-modules/checklist-item label="No staining or interior residue" / />}}
+  {{< interactive-modules/checklist-item label="No scratches or case wear" / />}}
+  {{< interactive-modules/checklist-item label="Consistent color without fading" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Price Range Examples

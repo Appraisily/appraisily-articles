@@ -206,14 +206,14 @@ A trunk with intricate craftsmanship featuring hand-forged hardware, detailed wo
 According to the [wikiHow identification guide](https://www.wikihow.com/Value-Antique-Trunks), condition is perhaps the most critical factor affecting an antique trunk's value. A trunk in exceptional, original condition may sell for two to three times more than a similar one in poor condition.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that can affect the value of your antique trunk" >}}
-  {{< interactive-modules/checklist-item label="Original hardware is intact and functioning" / / />}}
-  {{< interactive-modules/checklist-item label="Canvas or leather covering is undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Original interior lining is present and in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Wood components are free from rot, warping, or significant damage" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish is preserved" / / />}}
-  {{< interactive-modules/checklist-item label="All original trays, compartments, or hangers are present" / / />}}
-  {{< interactive-modules/checklist-item label="Trunk lid opens and closes properly" / / />}}
-  {{< interactive-modules/checklist-item label="No evidence of extensive repairs or restoration" / / />}}
+  {{< interactive-modules/checklist-item label="Original hardware is intact and functioning" / />}}
+  {{< interactive-modules/checklist-item label="Canvas or leather covering is undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Original interior lining is present and in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Wood components are free from rot, warping, or significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is preserved" / />}}
+  {{< interactive-modules/checklist-item label="All original trays, compartments, or hangers are present" / />}}
+  {{< interactive-modules/checklist-item label="Trunk lid opens and closes properly" / />}}
+  {{< interactive-modules/checklist-item label="No evidence of extensive repairs or restoration" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Importantly, restoration does not always increase value. Many collectors prefer trunks with original patina and authentic aging, even with some wear, over extensively restored pieces that have lost their historical character.

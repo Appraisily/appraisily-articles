@@ -262,14 +262,14 @@ When trying to authenticate and date an old quilt, consider these key factors:
 - **Signatures and Inscriptions**: Some quilts include signatures, dates, or dedication inscriptions.
 
 {{< interactive-modules/condition-checklist title="Quilt Authentication Checklist" description="Use this checklist when examining a potentially valuable old quilt" >}}
-  {{< interactive-modules/checklist-item label="Check seams for hand vs. machine stitching" / / />}}
-  {{< interactive-modules/checklist-item label="Examine fabric types and prints for period accuracy" / / />}}
-  {{< interactive-modules/checklist-item label="Look for signatures, dates, or labels" / / />}}
-  {{< interactive-modules/checklist-item label="Assess quilting stitch patterns and techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect binding method and materials" / / />}}
-  {{< interactive-modules/checklist-item label="Evaluate color palette for era-appropriate dyes" / / />}}
-  {{< interactive-modules/checklist-item label="Check for repairs or alterations" / / />}}
-  {{< interactive-modules/checklist-item label="Document size (older quilts were often smaller)" / / />}}
+  {{< interactive-modules/checklist-item label="Check seams for hand vs. machine stitching" / />}}
+  {{< interactive-modules/checklist-item label="Examine fabric types and prints for period accuracy" / />}}
+  {{< interactive-modules/checklist-item label="Look for signatures, dates, or labels" / />}}
+  {{< interactive-modules/checklist-item label="Assess quilting stitch patterns and techniques" / />}}
+  {{< interactive-modules/checklist-item label="Inspect binding method and materials" / />}}
+  {{< interactive-modules/checklist-item label="Evaluate color palette for era-appropriate dyes" / />}}
+  {{< interactive-modules/checklist-item label="Check for repairs or alterations" / />}}
+  {{< interactive-modules/checklist-item label="Document size (older quilts were often smaller)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Regional Variations and Cultural Significance" level="2" >}}

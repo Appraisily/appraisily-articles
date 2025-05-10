@@ -210,12 +210,12 @@ Begin with a visual inspection looking for:
 - **Design Details**: Compare to known authentic examples in reference books
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Check these factors when authenticating Civil War buttons" >}}
-{{< interactive-modules/checklist-item label="Button shows appropriate patina for its age (150+ years)" / / />}}
-{{< interactive-modules/checklist-item label="Backmark matches known Civil War era manufacturers" / / />}}
-{{< interactive-modules/checklist-item label="Design is consistent with documented Civil War patterns" / / />}}
-{{< interactive-modules/checklist-item label="Material appears to be period-appropriate (usually brass)" / / />}}
-{{< interactive-modules/checklist-item label="Shank style matches Civil War era construction methods" / / />}}
-{{< interactive-modules/checklist-item label="Weight and thickness consistent with period examples" / / />}}
+{{< interactive-modules/checklist-item label="Button shows appropriate patina for its age (150+ years)" / />}}
+{{< interactive-modules/checklist-item label="Backmark matches known Civil War era manufacturers" / />}}
+{{< interactive-modules/checklist-item label="Design is consistent with documented Civil War patterns" / />}}
+{{< interactive-modules/checklist-item label="Material appears to be period-appropriate (usually brass)" / />}}
+{{< interactive-modules/checklist-item label="Shank style matches Civil War era construction methods" / />}}
+{{< interactive-modules/checklist-item label="Weight and thickness consistent with period examples" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Backmark Analysis

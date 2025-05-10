@@ -170,14 +170,14 @@ Several key factors influence the market value of Towle Old Master sterling silv
 ![Towle Old Master sterling silver flatware showing tarnish and condition issues](https://ik.imagekit.io/appraisily/SEO/towle-old-master-value/towle-old-master-value-image-3_GpcooFkHQ.png)
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that impact the value of your Towle Old Master pieces" >}}
-  {{< interactive-modules/checklist-item label="No dents, dings, or deep scratches" / / />}}
-  {{< interactive-modules/checklist-item label="Even patina with no excessive polish wear" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or alterations to the original design" / / />}}
-  {{< interactive-modules/checklist-item label="Complete set with consistent pattern pieces" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible hallmarks present" / / />}}
-  {{< interactive-modules/checklist-item label="Original monogramming (if any) is minimal or attractive" / / />}}
-  {{< interactive-modules/checklist-item label="No bent tines on forks or warped spoon bowls" / / />}}
-  {{< interactive-modules/checklist-item label="Serving pieces present in addition to place settings" / / />}}
+  {{< interactive-modules/checklist-item label="No dents, dings, or deep scratches" / />}}
+  {{< interactive-modules/checklist-item label="Even patina with no excessive polish wear" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or alterations to the original design" / />}}
+  {{< interactive-modules/checklist-item label="Complete set with consistent pattern pieces" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible hallmarks present" / />}}
+  {{< interactive-modules/checklist-item label="Original monogramming (if any) is minimal or attractive" / />}}
+  {{< interactive-modules/checklist-item label="No bent tines on forks or warped spoon bowls" / />}}
+  {{< interactive-modules/checklist-item label="Serving pieces present in addition to place settings" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness of Set

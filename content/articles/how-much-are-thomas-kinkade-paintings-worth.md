@@ -220,11 +220,11 @@ More extensive highlighting generally increases value significantly.
 ### Signatures and Authentication
 
 {{< interactive-modules/condition-checklist title="Authentication Elements" description="Check for these elements when evaluating a Thomas Kinkade piece" >}}
-  {{< interactive-modules/checklist-item label="Authentic Thomas Kinkade signature" / / />}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity" / / />}}
-  {{< interactive-modules/checklist-item label="DNA Matrix Signature technology" / / />}}
-  {{< interactive-modules/checklist-item label="Thomas Kinkade Studios seal" / / />}}
-  {{< interactive-modules/checklist-item label="Edition number and type clearly marked" / / />}}
+  {{< interactive-modules/checklist-item label="Authentic Thomas Kinkade signature" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity" / />}}
+  {{< interactive-modules/checklist-item label="DNA Matrix Signature technology" / />}}
+  {{< interactive-modules/checklist-item label="Thomas Kinkade Studios seal" / />}}
+  {{< interactive-modules/checklist-item label="Edition number and type clearly marked" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to the [Thomas Kinkade Studios website](https://thomaskinkade.com/collections/rare-and-unique), authentic pieces contain several authentication features. Many limited editions include DNA Matrix Signature technology, which embeds Kinkade's DNA into the canvas.

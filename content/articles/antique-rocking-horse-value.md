@@ -201,11 +201,11 @@ One of the most challenging aspects of valuing antique rocking horses is determi
 Authentic antique rocking horses were typically made from solid wood, often pine or hardwoods like oak or maple. The body was usually hollow to reduce weight while maintaining strength. Examine the construction methods:
 
 {{< interactive-modules/condition-checklist title="Antique Construction Features" description="Features commonly found in authentic antique rocking horses" >}}
-  {{< interactive-modules/checklist-item label="Jointed construction with dowels or mortise and tenon joints" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-carved wooden features rather than molded components" / / />}}
-  {{< interactive-modules/checklist-item label="Gesso layer beneath paint (a white chalky substance)" / / />}}
-  {{< interactive-modules/checklist-item label="Real horsehair for mane and tail (not synthetic)" / / />}}
-  {{< interactive-modules/checklist-item label="Hand-stitched leather saddle (often with decorative tooling)" / / />}}
+  {{< interactive-modules/checklist-item label="Jointed construction with dowels or mortise and tenon joints" / />}}
+  {{< interactive-modules/checklist-item label="Hand-carved wooden features rather than molded components" / />}}
+  {{< interactive-modules/checklist-item label="Gesso layer beneath paint (a white chalky substance)" / />}}
+  {{< interactive-modules/checklist-item label="Real horsehair for mane and tail (not synthetic)" / />}}
+  {{< interactive-modules/checklist-item label="Hand-stitched leather saddle (often with decorative tooling)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rocking Mechanisms

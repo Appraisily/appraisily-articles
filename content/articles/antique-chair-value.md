@@ -201,13 +201,13 @@ Chairs with documented history—particularly those owned by historical figures 
 ### 3. Condition
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Evaluate these aspects when assessing an antique chair's condition:" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and unrestored" / / />}}
-  {{< interactive-modules/checklist-item label="All structural elements secure with no wobbling" / / />}}
-  {{< interactive-modules/checklist-item label="Original upholstery or period-appropriate replacement" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="No significant damage or missing elements" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and joinery intact" / / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate repairs or alterations" / / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and unrestored" / />}}
+  {{< interactive-modules/checklist-item label="All structural elements secure with no wobbling" / />}}
+  {{< interactive-modules/checklist-item label="Original upholstery or period-appropriate replacement" / />}}
+  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="No significant damage or missing elements" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and joinery intact" / />}}
+  {{< interactive-modules/checklist-item label="No inappropriate repairs or alterations" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Materials and Craftsmanship

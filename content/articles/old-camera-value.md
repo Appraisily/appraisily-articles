@@ -131,14 +131,14 @@ Not all camera brands hold their value equally. Premium manufacturers with stori
 The physical and mechanical condition of a vintage camera dramatically impacts its value. A camera in excellent or mint condition can be worth two to five times more than the same model in poor condition.
 
 {{< interactive-modules/condition-checklist title="Camera Condition Assessment Tool" description="Check all items that apply to your camera to estimate its condition rating" >}}
-  {{< interactive-modules/checklist-item label="All mechanical functions work properly (shutter, film advance, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Lens is clear with no fungus, haze, or scratches" / />}}
-  {{< interactive-modules/checklist-item label="Light meter (if present) is accurate" / />}}
-  {{< interactive-modules/checklist-item label="Viewfinder is clean and clear" / />}}
-  {{< interactive-modules/checklist-item label="Body has minimal brassing, scratches or dents" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Original box, manual, and accessories included" / />}}
-  {{< interactive-modules/checklist-item label="No signs of repair or restoration" / />}}
+  {{< interactive-modules/checklist-item label="All mechanical functions work properly (shutter, film advance, etc.)" />}}
+  {{< interactive-modules/checklist-item label="Lens is clear with no fungus, haze, or scratches" />}}
+  {{< interactive-modules/checklist-item label="Light meter (if present) is accurate" />}}
+  {{< interactive-modules/checklist-item label="Viewfinder is clean and clear" />}}
+  {{< interactive-modules/checklist-item label="Body has minimal brassing, scratches or dents" />}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" />}}
+  {{< interactive-modules/checklist-item label="Original box, manual, and accessories included" />}}
+  {{< interactive-modules/checklist-item label="No signs of repair or restoration" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Historical Significance

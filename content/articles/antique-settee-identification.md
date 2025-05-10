@@ -182,14 +182,14 @@ The style of a settee's back and arms are key identifying features:
 - **Exposed Wooden Back**: Featuring decorative splats or carved elements, common in earlier settees
 
 {{< interactive-modules/condition-checklist title="Antique Settee Authentication Checklist" description="Use this checklist to evaluate potential antique settees" >}}
-  {{< interactive-modules/checklist-item label="Evidence of hand-carved details with slight irregularities" / / />}}
-  {{< interactive-modules/checklist-item label="Traditional joinery methods (dovetail, mortise and tenon)" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate wear patterns and patina consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Period-consistent leg design and construction" / / />}}
-  {{< interactive-modules/checklist-item label="Symmetrical design elements with minor hand-crafted variations" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of old repairs or appropriate restoration" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate wood types and finishing techniques" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate hardware (if present) for the purported period" / / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand-carved details with slight irregularities" / />}}
+  {{< interactive-modules/checklist-item label="Traditional joinery methods (dovetail, mortise and tenon)" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate wear patterns and patina consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Period-consistent leg design and construction" / />}}
+  {{< interactive-modules/checklist-item label="Symmetrical design elements with minor hand-crafted variations" / />}}
+  {{< interactive-modules/checklist-item label="Signs of old repairs or appropriate restoration" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate wood types and finishing techniques" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate hardware (if present) for the purported period" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of an antique settee showing detailed woodwork and traditional joinery](https://ik.imagekit.io/appraisily/SEO/antique-settee-identification/antique-settee-identification-image-3_KGODe2GrF.png)

@@ -263,11 +263,11 @@ The genuine 1922 No Mint Mark Peace Dollar resulted from excessive die polishing
 Be cautious of artificially removed mint marks, where someone has tampered with a 1922-D to make it appear as the valuable No Mint Mark variety.
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for 1922 No Mint Mark Dollars" description="Verify these points to help authenticate a potential 1922 No Mint Mark error" >}}
-  {{< interactive-modules/checklist-item label="Complete absence of mint mark (not just faint)" / / />}}
-  {{< interactive-modules/checklist-item label="Weakened reverse design, especially on 'ONE DOLLAR'" / / />}}
-  {{< interactive-modules/checklist-item label="No signs of tooling marks where mint mark should be" / / />}}
-  {{< interactive-modules/checklist-item label="Coin weight matches standard Peace Dollar (26.73 grams)" / / />}}
-  {{< interactive-modules/checklist-item label="Silver ring test produces correct tone" / / />}}
+  {{< interactive-modules/checklist-item label="Complete absence of mint mark (not just faint)" / />}}
+  {{< interactive-modules/checklist-item label="Weakened reverse design, especially on 'ONE DOLLAR'" / />}}
+  {{< interactive-modules/checklist-item label="No signs of tooling marks where mint mark should be" / />}}
+  {{< interactive-modules/checklist-item label="Coin weight matches standard Peace Dollar (26.73 grams)" / />}}
+  {{< interactive-modules/checklist-item label="Silver ring test produces correct tone" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authenticating the "Moustache" VAM-12A Variety

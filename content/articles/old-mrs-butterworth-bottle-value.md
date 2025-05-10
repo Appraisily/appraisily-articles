@@ -170,12 +170,12 @@ The bottom of authentic Mrs. Butterworth bottles typically contains valuable inf
 For example, a bottle marked with "71" on the bottom typically indicates manufacture in 1971. These markings are crucial for accurate dating.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that affect the value of vintage Mrs. Butterworth bottles" >}}
-  {{< interactive-modules/checklist-item label="Original cap present and intact" / / />}}
-  {{< interactive-modules/checklist-item label="Original label in good condition with minimal fading" / / />}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Clear bottle markings on the bottom" / / />}}
-  {{< interactive-modules/checklist-item label="Clean interior without residue or staining" / / />}}
-  {{< interactive-modules/checklist-item label="Complete with any original packaging" / / />}}
+  {{< interactive-modules/checklist-item label="Original cap present and intact" / />}}
+  {{< interactive-modules/checklist-item label="Original label in good condition with minimal fading" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / />}}
+  {{< interactive-modules/checklist-item label="Clear bottle markings on the bottom" / />}}
+  {{< interactive-modules/checklist-item label="Clean interior without residue or staining" / />}}
+  {{< interactive-modules/checklist-item label="Complete with any original packaging" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Label Variations

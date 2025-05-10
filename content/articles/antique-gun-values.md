@@ -138,12 +138,12 @@ Limited production runs, experimental models, and firearms with unique features 
 Condition is perhaps the most critical factor in determining an antique firearm's value. Collectors and appraisers typically use the following condition categories:
 
 {{< interactive-modules/condition-checklist title="Antique Firearm Condition Assessment" description="Check applicable items to determine condition rating" >}}
-  {{< interactive-modules/checklist-item label="Factory-new appearance with 99%+ original finish" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent: 95-98% original finish with minimal wear" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good: 80-94% original finish with light wear" / / />}}
-  {{< interactive-modules/checklist-item label="Good: 60-79% original finish with moderate wear" / / />}}
-  {{< interactive-modules/checklist-item label="Fair: 40-59% original finish with significant wear" / / />}}
-  {{< interactive-modules/checklist-item label="Poor: Less than 40% original finish, may not be functional" / / />}}
+  {{< interactive-modules/checklist-item label="Factory-new appearance with 99%+ original finish" / />}}
+  {{< interactive-modules/checklist-item label="Excellent: 95-98% original finish with minimal wear" / />}}
+  {{< interactive-modules/checklist-item label="Very Good: 80-94% original finish with light wear" / />}}
+  {{< interactive-modules/checklist-item label="Good: 60-79% original finish with moderate wear" / />}}
+  {{< interactive-modules/checklist-item label="Fair: 40-59% original finish with significant wear" / />}}
+  {{< interactive-modules/checklist-item label="Poor: Less than 40% original finish, may not be functional" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Importantly, an antique firearm's value is heavily tied to its originality. Restoration, refinishing, and replacement parts can significantly reduce value in many cases. Collectors generally prefer weapons with their original patina and honest wear that tells the story of the gun's history.

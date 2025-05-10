@@ -339,13 +339,13 @@ A Double Die Obverse Bicentennial quarter in excellent condition sold for approx
 The most valuable Bicentennial quarter reported to date was an off-center error coin in pristine condition that sold for approximately $19,200, demonstrating the extraordinary premium that the rarest error coins can command.
 
 {{< interactive-modules/condition-checklist title="Bicentennial Quarter Authentication Checklist" description="Use this checklist to assess your Bicentennial quarter's potential value" >}}
-  {{< interactive-modules/checklist-item label="Examine the mint mark (or absence) on the obverse near Washington's ponytail" / / />}}
-  {{< interactive-modules/checklist-item label="Look for doubling on lettering and design elements using magnification" / / />}}
-  {{< interactive-modules/checklist-item label="Check weight: standard clad quarters weigh 5.67g, silver versions weigh 5.75g" / / />}}
-  {{< interactive-modules/checklist-item label="Examine edge - clad coins show copper core, silver versions have solid silvery edge" / / />}}
-  {{< interactive-modules/checklist-item label="Look for off-center strikes, missing elements, or other striking irregularities" / / />}}
-  {{< interactive-modules/checklist-item label="Check for die cracks, die chips, or other die varieties" / / />}}
-  {{< interactive-modules/checklist-item label="Assess overall condition and level of preservation" / / />}}
+  {{< interactive-modules/checklist-item label="Examine the mint mark (or absence) on the obverse near Washington's ponytail" / />}}
+  {{< interactive-modules/checklist-item label="Look for doubling on lettering and design elements using magnification" / />}}
+  {{< interactive-modules/checklist-item label="Check weight: standard clad quarters weigh 5.67g, silver versions weigh 5.75g" / />}}
+  {{< interactive-modules/checklist-item label="Examine edge - clad coins show copper core, silver versions have solid silvery edge" / />}}
+  {{< interactive-modules/checklist-item label="Look for off-center strikes, missing elements, or other striking irregularities" / />}}
+  {{< interactive-modules/checklist-item label="Check for die cracks, die chips, or other die varieties" / />}}
+  {{< interactive-modules/checklist-item label="Assess overall condition and level of preservation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Affect Bicentennial Quarter Value" level="2" >}}

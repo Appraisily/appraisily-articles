@@ -169,11 +169,11 @@ Standard 1965 quarters have a distinctive copper-nickel clad composition:
 You can check the composition by examining the edge of the coin. A regular 1965 quarter will show a copper-colored stripe sandwiched between silvery outer layers.
 
 {{< interactive-modules/condition-checklist title="1965 Quarter Identification Checklist" description="Check these features to properly identify a 1965 quarter" >}}
-  {{< interactive-modules/checklist-item label="Date reads '1965' below Washington's neck" / / />}}
-  {{< interactive-modules/checklist-item label="No mint mark present (required for authentic 1965 quarters)" / / />}}
-  {{< interactive-modules/checklist-item label="Copper stripe visible on edge (unless silver error)" / / />}}
-  {{< interactive-modules/checklist-item label="Weight approximately 5.67 grams (silver errors weigh 6.25g)" / / />}}
-  {{< interactive-modules/checklist-item label="Diameter measures 24.3mm" / / />}}
+  {{< interactive-modules/checklist-item label="Date reads '1965' below Washington's neck" / />}}
+  {{< interactive-modules/checklist-item label="No mint mark present (required for authentic 1965 quarters)" / />}}
+  {{< interactive-modules/checklist-item label="Copper stripe visible on edge (unless silver error)" / />}}
+  {{< interactive-modules/checklist-item label="Weight approximately 5.67 grams (silver errors weigh 6.25g)" / />}}
+  {{< interactive-modules/checklist-item label="Diameter measures 24.3mm" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="1965 Quarter Value Guide" level="2" >}}

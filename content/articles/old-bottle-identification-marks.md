@@ -270,14 +270,14 @@ The color of glass can help narrow down a bottle's age:
 According to [TrueLegacyHomes](https://www.truelegacyhomes.com/age-glass-bottles/), certain colors were produced only during specific time periods, making color one of the helpful indicators of a bottle's approximate age.
 
 {{< interactive-modules/condition-checklist title="Bottle Authentication Checklist" description="Use this checklist to evaluate the authenticity and age of your bottle" >}}
-  {{< interactive-modules/checklist-item label="Mold seams run all the way to the top of the finish (machine-made, post-1910)" / / />}}
-  {{< interactive-modules/checklist-item label="Has a pontil mark on base (typically pre-1860)" / / />}}
-  {{< interactive-modules/checklist-item label="Contains embossed lettering or designs" / / />}}
-  {{< interactive-modules/checklist-item label="Shows air bubbles or imperfections in the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Base has identifiable maker's mark or logo" / / />}}
-  {{< interactive-modules/checklist-item label="Glass color consistent with historical production methods" / / />}}
-  {{< interactive-modules/checklist-item label="Lip/finish appears hand-tooled rather than uniform" / / />}}
-  {{< interactive-modules/checklist-item label="Shows appropriate wear consistent with age (patina, small scratches)" / / />}}
+  {{< interactive-modules/checklist-item label="Mold seams run all the way to the top of the finish (machine-made, post-1910)" / />}}
+  {{< interactive-modules/checklist-item label="Has a pontil mark on base (typically pre-1860)" / />}}
+  {{< interactive-modules/checklist-item label="Contains embossed lettering or designs" / />}}
+  {{< interactive-modules/checklist-item label="Shows air bubbles or imperfections in the glass" / />}}
+  {{< interactive-modules/checklist-item label="Base has identifiable maker's mark or logo" / />}}
+  {{< interactive-modules/checklist-item label="Glass color consistent with historical production methods" / />}}
+  {{< interactive-modules/checklist-item label="Lip/finish appears hand-tooled rather than uniform" / />}}
+  {{< interactive-modules/checklist-item label="Shows appropriate wear consistent with age (patina, small scratches)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Specialized Bottle Categories and Their Marks" level="2" >}}

@@ -182,11 +182,11 @@ The materials used in antique light sockets can tell you a lot about their age, 
 Bakelite sockets became extremely popular in the 1930s-1950s and are highly collectible today. To identify genuine Bakelite:
 
 {{< interactive-modules/condition-checklist title="Bakelite Socket Identification Checklist" description="Key characteristics of genuine Bakelite sockets" >}}
-  {{< interactive-modules/checklist-item label="Dark brown or black color that doesn't fade" / / />}}
-  {{< interactive-modules/checklist-item label="Produces a distinctive phenolic smell when rubbed then smelled" / / />}}
-  {{< interactive-modules/checklist-item label="Creates a dull thud sound when tapped (not a sharp plastic click)" / / />}}
-  {{< interactive-modules/checklist-item label="Often feels slightly warm to the touch compared to modern plastics" / / />}}
-  {{< interactive-modules/checklist-item label="May show a amber/brown color under strong light" / / />}}
+  {{< interactive-modules/checklist-item label="Dark brown or black color that doesn't fade" / />}}
+  {{< interactive-modules/checklist-item label="Produces a distinctive phenolic smell when rubbed then smelled" / />}}
+  {{< interactive-modules/checklist-item label="Creates a dull thud sound when tapped (not a sharp plastic click)" / />}}
+  {{< interactive-modules/checklist-item label="Often feels slightly warm to the touch compared to modern plastics" / />}}
+  {{< interactive-modules/checklist-item label="May show a amber/brown color under strong light" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 [Paxton Hardware](https://paxtonhardware.com/collections/lamp-sockets) notes that "Some early lamps had antique light sockets made of Bakelite," which has become increasingly collectible as mid-century modern design has surged in popularity.
@@ -307,11 +307,11 @@ Antique light sockets present several potential safety concerns:
 For collectors and restorers, there's often a balance to strike between historical authenticity and safety:
 
 {{< interactive-modules/condition-checklist title="Safety Assessment Checklist" description="Evaluate these factors when working with antique sockets" >}}
-  {{< interactive-modules/checklist-item label="Check for cracks or damage to socket body or insulation" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect internal contacts for corrosion or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Verify that wiring insulation is intact with no exposed copper" / / />}}
-  {{< interactive-modules/checklist-item label="Ensure switch mechanism operates smoothly without sparking" / / />}}
-  {{< interactive-modules/checklist-item label="Confirm socket is rated for intended bulb wattage" / / />}}
+  {{< interactive-modules/checklist-item label="Check for cracks or damage to socket body or insulation" / />}}
+  {{< interactive-modules/checklist-item label="Inspect internal contacts for corrosion or damage" / />}}
+  {{< interactive-modules/checklist-item label="Verify that wiring insulation is intact with no exposed copper" / />}}
+  {{< interactive-modules/checklist-item label="Ensure switch mechanism operates smoothly without sparking" / />}}
+  {{< interactive-modules/checklist-item label="Confirm socket is rated for intended bulb wattage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 [I Repair Lamps](https://irepairlamps.com/lamp-sockets/) emphasizes that "Lamp sockets for antique lamps and lighting fixtures restored and rebuilt for your antique lamp or chandelier" should prioritize safety while respecting the historical integrity of the piece. Many professional restorers recommend rewiring antique lamps while preserving the original socket appearance when possible.
@@ -391,11 +391,11 @@ Different socket materials require specific cleaning approaches:
 If you need to rewire an antique socket for safety:
 
 {{< interactive-modules/condition-checklist title="Rewiring Best Practices" description="Consider these factors when rewiring vintage sockets" >}}
-  {{< interactive-modules/checklist-item label="Document original wiring configuration before disassembly" / / />}}
-  {{< interactive-modules/checklist-item label="Use appropriate gauge wire for the fixture's rating" / / />}}
-  {{< interactive-modules/checklist-item label="Consider cloth-covered reproduction wire for visible portions" / / />}}
-  {{< interactive-modules/checklist-item label="Install polarized plugs for enhanced safety" / / />}}
-  {{< interactive-modules/checklist-item label="Test thoroughly before regular use" / / />}}
+  {{< interactive-modules/checklist-item label="Document original wiring configuration before disassembly" / />}}
+  {{< interactive-modules/checklist-item label="Use appropriate gauge wire for the fixture's rating" / />}}
+  {{< interactive-modules/checklist-item label="Consider cloth-covered reproduction wire for visible portions" / />}}
+  {{< interactive-modules/checklist-item label="Install polarized plugs for enhanced safety" / />}}
+  {{< interactive-modules/checklist-item label="Test thoroughly before regular use" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [My Lamp Parts](https://www.mylampparts.com/collections/sockets), "UL Listed" sockets are essential for safety in restorations, ensuring the components meet modern electrical standards while potentially preserving vintage appearances.

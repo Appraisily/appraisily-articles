@@ -361,12 +361,12 @@ A broadstrike happens when the collar die that normally forms the edge of the co
 - **Value**: $5-$30 depending on condition and extent of the error
 
 {{< interactive-modules/condition-checklist title="1994 Penny Error Identification Checklist" description="Use this checklist to identify potential valuable errors in your 1994 pennies" >}}
-  {{< interactive-modules/checklist-item label="Check the reverse for Close AM variety (A and M nearly touching in AMERICA)" / / />}}
-  {{< interactive-modules/checklist-item label="Examine lettering and design elements for doubling (double die error)" / / />}}
-  {{< interactive-modules/checklist-item label="Look for off-center strikes where part of the design is missing" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect for raised lines that aren't part of the design (die cracks)" / / />}}
-  {{< interactive-modules/checklist-item label="Check if the coin is larger than normal with a weakly defined rim (broadstrike)" / / />}}
-  {{< interactive-modules/checklist-item label="Look for repunched mint marks (D appears doubled or misaligned)" / / />}}
+  {{< interactive-modules/checklist-item label="Check the reverse for Close AM variety (A and M nearly touching in AMERICA)" / />}}
+  {{< interactive-modules/checklist-item label="Examine lettering and design elements for doubling (double die error)" / />}}
+  {{< interactive-modules/checklist-item label="Look for off-center strikes where part of the design is missing" / />}}
+  {{< interactive-modules/checklist-item label="Inspect for raised lines that aren't part of the design (die cracks)" / />}}
+  {{< interactive-modules/checklist-item label="Check if the coin is larger than normal with a weakly defined rim (broadstrike)" / />}}
+  {{< interactive-modules/checklist-item label="Look for repunched mint marks (D appears doubled or misaligned)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Grade Your 1994 Penny" level="2" id="grading" >}}

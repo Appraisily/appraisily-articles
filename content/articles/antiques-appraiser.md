@@ -142,11 +142,11 @@ Written appraisals are detailed, formal documents that include:
 These professional reports are typically required for:
 
 {{< interactive-modules/condition-checklist title="When to Get a Written Appraisal" description="Check applicable situations that might require formal documentation" >}}
-  {{< interactive-modules/checklist-item label="Insurance coverage documentation" / / />}}
-  {{< interactive-modules/checklist-item label="Estate planning and distribution" / / />}}
-  {{< interactive-modules/checklist-item label="Charitable donation tax deductions" / / />}}
-  {{< interactive-modules/checklist-item label="Legal disputes or divorce settlements" / / />}}
-  {{< interactive-modules/checklist-item label="Museum donations" / / />}}
+  {{< interactive-modules/checklist-item label="Insurance coverage documentation" / />}}
+  {{< interactive-modules/checklist-item label="Estate planning and distribution" / />}}
+  {{< interactive-modules/checklist-item label="Charitable donation tax deductions" / />}}
+  {{< interactive-modules/checklist-item label="Legal disputes or divorce settlements" / />}}
+  {{< interactive-modules/checklist-item label="Museum donations" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Specialized Appraisal Services

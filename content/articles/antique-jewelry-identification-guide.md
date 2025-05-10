@@ -269,14 +269,14 @@ Examining how pieces were constructed provides valuable clues:
 - **Clasps and findings**: Evolved from simple C-clasps to more sophisticated safety catches
 
 {{< interactive-modules/condition-checklist title="Antique Jewelry Authentication Checklist" description="Use this checklist to verify the authenticity of your antique jewelry" >}}
-  {{< interactive-modules/checklist-item label="Visible wear patterns consistent with age" / / />}}
-  {{< interactive-modules/checklist-item label="Appropriate hallmarks for claimed period" / / />}}
-  {{< interactive-modules/checklist-item label="Construction techniques match the era" / / />}}
-  {{< interactive-modules/checklist-item label="Gemstone cuts consistent with time period" / / />}}
-  {{< interactive-modules/checklist-item label="Clasp and finding types match claimed age" / / />}}
-  {{< interactive-modules/checklist-item label="Patina and aging consistent with claimed age" / / />}}
-  {{< interactive-modules/checklist-item label="Metal composition appropriate for the period" / / />}}
-  {{< interactive-modules/checklist-item label="Design motifs match the stated era" / / />}}
+  {{< interactive-modules/checklist-item label="Visible wear patterns consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Appropriate hallmarks for claimed period" / />}}
+  {{< interactive-modules/checklist-item label="Construction techniques match the era" / />}}
+  {{< interactive-modules/checklist-item label="Gemstone cuts consistent with time period" / />}}
+  {{< interactive-modules/checklist-item label="Clasp and finding types match claimed age" / />}}
+  {{< interactive-modules/checklist-item label="Patina and aging consistent with claimed age" / />}}
+  {{< interactive-modules/checklist-item label="Metal composition appropriate for the period" / />}}
+  {{< interactive-modules/checklist-item label="Design motifs match the stated era" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Understanding Antique Jewelry Value Factors

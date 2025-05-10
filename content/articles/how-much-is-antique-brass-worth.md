@@ -89,12 +89,12 @@ Items from well-known brass makers or with documented history can command premiu
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Brass Condition Evaluation" description="Check these items to assess the condition of your brass pieces" >}}
-  {{< interactive-modules/checklist-item label="Original patina intact" / / />}}
-  {{< interactive-modules/checklist-item label="No dents or significant damage" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs or solder marks" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish (not over-polished)" / / />}}
-  {{< interactive-modules/checklist-item label="All components present and functional" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or signatures visible" / / />}}
+  {{< interactive-modules/checklist-item label="Original patina intact" / />}}
+  {{< interactive-modules/checklist-item label="No dents or significant damage" / />}}
+  {{< interactive-modules/checklist-item label="No repairs or solder marks" / />}}
+  {{< interactive-modules/checklist-item label="Original finish (not over-polished)" / />}}
+  {{< interactive-modules/checklist-item label="All components present and functional" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or signatures visible" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Design and Craftsmanship

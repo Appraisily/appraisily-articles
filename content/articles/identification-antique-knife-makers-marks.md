@@ -62,14 +62,14 @@ Knowing where to look for these distinctive marks is the first step in identific
 The size, placement, and style of the mark often provide important clues about the knife's age and origin. For example, early American knife makers typically used simple initials or names, while European makers often employed more elaborate insignias.
 
 {{< interactive-modules/condition-checklist title="Maker's Mark Inspection Checklist" description="Use this checklist to thoroughly examine your knife for identifying marks" >}}
-  {{< interactive-modules/checklist-item label="Check the blade tang for stamps or etchings" / / />}}
-  {{< interactive-modules/checklist-item label="Examine the ricasso area near the handle" / / />}}
-  {{< interactive-modules/checklist-item label="Look at both sides of the blade" / / />}}
-  {{< interactive-modules/checklist-item label="Inspect the blade spine for additional marks" / / />}}
-  {{< interactive-modules/checklist-item label="Check the bolster for small stamps" / / />}}
-  {{< interactive-modules/checklist-item label="Use magnification for faint or worn marks" / / />}}
-  {{< interactive-modules/checklist-item label="Look for pattern numbers alongside the maker's mark" / / />}}
-  {{< interactive-modules/checklist-item label="Check for country of origin stamps" / / />}}
+  {{< interactive-modules/checklist-item label="Check the blade tang for stamps or etchings" / />}}
+  {{< interactive-modules/checklist-item label="Examine the ricasso area near the handle" / />}}
+  {{< interactive-modules/checklist-item label="Look at both sides of the blade" / />}}
+  {{< interactive-modules/checklist-item label="Inspect the blade spine for additional marks" / />}}
+  {{< interactive-modules/checklist-item label="Check the bolster for small stamps" / />}}
+  {{< interactive-modules/checklist-item label="Use magnification for faint or worn marks" / />}}
+  {{< interactive-modules/checklist-item label="Look for pattern numbers alongside the maker's mark" / />}}
+  {{< interactive-modules/checklist-item label="Check for country of origin stamps" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Types of Antique Knife Makers Marks" level="2" >}}

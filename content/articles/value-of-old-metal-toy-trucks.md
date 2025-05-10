@@ -195,12 +195,12 @@ Generally, older trucks (pre-1950s) command higher prices due to their scarcity 
 The condition of a vintage toy truck dramatically affects its value. Collectors use a standard grading scale:
 
 {{< interactive-modules/condition-checklist title="Condition Rating System" description="Factors that determine a vintage toy truck's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Mint (100%): Like new, possibly still in original box with paperwork" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent (90-95%): Minimal wear, original paint intact, all parts present" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good (80-89%): Light play wear, minor paint loss, all major parts intact" / / />}}
-  {{< interactive-modules/checklist-item label="Good (60-79%): Noticeable wear, some paint loss, possibly missing minor parts" / / />}}
-  {{< interactive-modules/checklist-item label="Fair (50-59%): Significant wear, paint loss, rust spots, may be missing parts" / / />}}
-  {{< interactive-modules/checklist-item label="Poor (Below 50%): Heavy wear, extensive rust, major parts missing or damaged" / / />}}
+  {{< interactive-modules/checklist-item label="Mint (100%): Like new, possibly still in original box with paperwork" / />}}
+  {{< interactive-modules/checklist-item label="Excellent (90-95%): Minimal wear, original paint intact, all parts present" / />}}
+  {{< interactive-modules/checklist-item label="Very Good (80-89%): Light play wear, minor paint loss, all major parts intact" / />}}
+  {{< interactive-modules/checklist-item label="Good (60-79%): Noticeable wear, some paint loss, possibly missing minor parts" / />}}
+  {{< interactive-modules/checklist-item label="Fair (50-59%): Significant wear, paint loss, rust spots, may be missing parts" / />}}
+  {{< interactive-modules/checklist-item label="Poor (Below 50%): Heavy wear, extensive rust, major parts missing or damaged" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 A truck in mint or excellent condition can be worth 3-5 times more than the same model in poor condition.
@@ -357,12 +357,12 @@ Determining the age of a vintage toy truck involves examining:
 Watch for reproductions and fakes, which have become increasingly common as values rise:
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Factors to examine when determining if a metal toy truck is genuinely vintage" >}}
-  {{< interactive-modules/checklist-item label="Weight: Authentic vintage metal trucks are substantially heavier than reproductions" / / />}}
-  {{< interactive-modules/checklist-item label="Metal quality: Older trucks used thicker, heavier gauge steel than modern reproductions" / / />}}
-  {{< interactive-modules/checklist-item label="Paint wear: Authentic aging shows consistent wear patterns where a child would have handled it" / / />}}
-  {{< interactive-modules/checklist-item label="Rivets and fasteners: Original pieces use traditional manufacturing methods, not modern screws" / / />}}
-  {{< interactive-modules/checklist-item label="Rust patterns: Natural oxide formation differs from artificially aged reproductions" / / />}}
-  {{< interactive-modules/checklist-item label="Markings: Verify logos and stamps match known manufacturer styles for the period" / / />}}
+  {{< interactive-modules/checklist-item label="Weight: Authentic vintage metal trucks are substantially heavier than reproductions" / />}}
+  {{< interactive-modules/checklist-item label="Metal quality: Older trucks used thicker, heavier gauge steel than modern reproductions" / />}}
+  {{< interactive-modules/checklist-item label="Paint wear: Authentic aging shows consistent wear patterns where a child would have handled it" / />}}
+  {{< interactive-modules/checklist-item label="Rivets and fasteners: Original pieces use traditional manufacturing methods, not modern screws" / />}}
+  {{< interactive-modules/checklist-item label="Rust patterns: Natural oxide formation differs from artificially aged reproductions" / />}}
+  {{< interactive-modules/checklist-item label="Markings: Verify logos and stamps match known manufacturer styles for the period" / />}}
 
 {{< /interactive-modules/condition-checklist >}}
 

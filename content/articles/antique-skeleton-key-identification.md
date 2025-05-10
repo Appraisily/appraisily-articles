@@ -372,16 +372,16 @@ Certain issues can significantly reduce a skeleton key's value:
 Serious collectors typically focus on original condition, unusual designs, and documented provenance when building their collections.
 
 {{< interactive-modules/condition-checklist title="Antique Skeleton Key Condition Assessment" description="Check applicable items to determine your key's condition and relative value" >}}
-  {{< interactive-modules/checklist-item label="Original patina intact (not polished away)" / / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="Complete bit with no breakage" / / />}}
-  {{< interactive-modules/checklist-item label="Bow is intact with no cracks or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Visible maker's marks or patent information" / / />}}
-  {{< interactive-modules/checklist-item label="Key retains full original length" / / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements remain clear and defined" / / />}}
-  {{< interactive-modules/checklist-item label="No modern repairs or alterations" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish remains visible" / / />}}
-  {{< interactive-modules/checklist-item label="Key comes with provenance documentation" / / />}}
+  {{< interactive-modules/checklist-item label="Original patina intact (not polished away)" / />}}
+  {{< interactive-modules/checklist-item label="No significant rust or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="Complete bit with no breakage" / />}}
+  {{< interactive-modules/checklist-item label="Bow is intact with no cracks or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Visible maker's marks or patent information" / />}}
+  {{< interactive-modules/checklist-item label="Key retains full original length" / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements remain clear and defined" / />}}
+  {{< interactive-modules/checklist-item label="No modern repairs or alterations" / />}}
+  {{< interactive-modules/checklist-item label="Original finish remains visible" / />}}
+  {{< interactive-modules/checklist-item label="Key comes with provenance documentation" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Reproduction Keys" level="2" >}}

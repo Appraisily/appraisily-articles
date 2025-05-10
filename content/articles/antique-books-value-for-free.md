@@ -196,12 +196,12 @@ Publishers use various methods to identify first editions:
    - Modern Library: Special indicators in the binding and dust jacket
 
 {{< interactive-modules/condition-checklist title="First Edition Verification Checklist" description="Check these elements to help determine if you have a first edition" >}}
-  {{< interactive-modules/checklist-item label="Copyright date matches the publication date" / / />}}
-  {{< interactive-modules/checklist-item label="Number line includes '1' or starts with '1'" / / />}}
-  {{< interactive-modules/checklist-item label="Contains the words 'First Edition' or 'First Printing'" / / />}}
-  {{< interactive-modules/checklist-item label="No references to additional printings or editions" / / />}}
-  {{< interactive-modules/checklist-item label="Price on dust jacket matches original issue price (if known)" / / />}}
-  {{< interactive-modules/checklist-item label="Binding and typographical details match known first edition descriptions" / / />}}
+  {{< interactive-modules/checklist-item label="Copyright date matches the publication date" / />}}
+  {{< interactive-modules/checklist-item label="Number line includes '1' or starts with '1'" / />}}
+  {{< interactive-modules/checklist-item label="Contains the words 'First Edition' or 'First Printing'" / />}}
+  {{< interactive-modules/checklist-item label="No references to additional printings or editions" / />}}
+  {{< interactive-modules/checklist-item label="Price on dust jacket matches original issue price (if known)" / />}}
+  {{< interactive-modules/checklist-item label="Binding and typographical details match known first edition descriptions" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For definitive identification, consider referring to specialized guides like "Collected Books: The Guide to Values" by Allen and Patricia Ahearn or "Book Collecting: A Comprehensive Guide" by Allen and Patricia Ahearn.
@@ -420,14 +420,14 @@ How and where you store books matters:
 4. **Location** - Avoid basement and attic storage
 
 {{< interactive-modules/condition-checklist title="Book Preservation Checklist" description="Essential steps to maintain book condition and value" >}}
-  {{< interactive-modules/checklist-item label="Books stored upright on sturdy shelves" / / />}}
-  {{< interactive-modules/checklist-item label="Environment free from excessive humidity" / / />}}
-  {{< interactive-modules/checklist-item label="Protected from direct sunlight" / / />}}
-  {{< interactive-modules/checklist-item label="Dust jackets have protective covers" / / />}}
-  {{< interactive-modules/checklist-item label="Regular gentle dusting with soft brush" / / />}}
-  {{< interactive-modules/checklist-item label="Rare volumes stored in acid-free boxes" / / />}}
-  {{< interactive-modules/checklist-item label="Books not tightly packed on shelves" / / />}}
-  {{< interactive-modules/checklist-item label="No food or beverages near book storage" / / />}}
+  {{< interactive-modules/checklist-item label="Books stored upright on sturdy shelves" / />}}
+  {{< interactive-modules/checklist-item label="Environment free from excessive humidity" / />}}
+  {{< interactive-modules/checklist-item label="Protected from direct sunlight" / />}}
+  {{< interactive-modules/checklist-item label="Dust jackets have protective covers" / />}}
+  {{< interactive-modules/checklist-item label="Regular gentle dusting with soft brush" / />}}
+  {{< interactive-modules/checklist-item label="Rare volumes stored in acid-free boxes" / />}}
+  {{< interactive-modules/checklist-item label="Books not tightly packed on shelves" / />}}
+  {{< interactive-modules/checklist-item label="No food or beverages near book storage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For particularly valuable books, consider consulting a professional conservator for personalized preservation advice.

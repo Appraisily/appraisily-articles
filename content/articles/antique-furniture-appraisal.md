@@ -183,13 +183,13 @@ The provenance—or ownership history—of an antique can dramatically impact it
 The condition of antique furniture significantly affects its appraisal value. While some patina and signs of age are expected and often desirable, extensive damage, poor repairs, or significant alterations can drastically reduce worth.
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Condition Assessment" description="Professional appraisers evaluate these condition factors:" >}}
-    {{< interactive-modules/checklist-item label="Original finish and hardware" / / />}}
-    {{< interactive-modules/checklist-item label="Structural integrity" / / />}}
-    {{< interactive-modules/checklist-item label="Evidence of professional restoration" / / />}}
-    {{< interactive-modules/checklist-item label="Appropriate patina for age" / / />}}
-    {{< interactive-modules/checklist-item label="Presence of alterations or modifications" / / />}}
-    {{< interactive-modules/checklist-item label="Signs of insect damage or wood rot" / / />}}
-    {{< interactive-modules/checklist-item label="Completeness of set pieces" / / />}}
+    {{< interactive-modules/checklist-item label="Original finish and hardware" / />}}
+    {{< interactive-modules/checklist-item label="Structural integrity" / />}}
+    {{< interactive-modules/checklist-item label="Evidence of professional restoration" / />}}
+    {{< interactive-modules/checklist-item label="Appropriate patina for age" / />}}
+    {{< interactive-modules/checklist-item label="Presence of alterations or modifications" / />}}
+    {{< interactive-modules/checklist-item label="Signs of insect damage or wood rot" / />}}
+    {{< interactive-modules/checklist-item label="Completeness of set pieces" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Demand

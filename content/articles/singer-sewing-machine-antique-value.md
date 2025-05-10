@@ -210,16 +210,16 @@ The condition of an antique Singer sewing machine dramatically impacts its value
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Assessment" description="Check applicable items to help determine your machine's condition" >}}
-  {{< interactive-modules/checklist-item label="Machine operates smoothly when hand wheel is turned" / / />}}
-  {{< interactive-modules/checklist-item label="All original decals are intact and vibrant" / / />}}
-  {{< interactive-modules/checklist-item label="No rust or significant paint loss on metal parts" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish on wooden cabinet/case is present" / / />}}
-  {{< interactive-modules/checklist-item label="All original attachments and accessories included" / / />}}
-  {{< interactive-modules/checklist-item label="Original manual and documentation present" / / />}}
-  {{< interactive-modules/checklist-item label="Treadle mechanism (if applicable) works properly" / / />}}
-  {{< interactive-modules/checklist-item label="No replacement parts or modern repairs visible" / / />}}
-  {{< interactive-modules/checklist-item label="Cabinet/case has no significant damage" / / />}}
-  {{< interactive-modules/checklist-item label="Machine produces proper stitches" / / />}}
+  {{< interactive-modules/checklist-item label="Machine operates smoothly when hand wheel is turned" / />}}
+  {{< interactive-modules/checklist-item label="All original decals are intact and vibrant" / />}}
+  {{< interactive-modules/checklist-item label="No rust or significant paint loss on metal parts" / />}}
+  {{< interactive-modules/checklist-item label="Original finish on wooden cabinet/case is present" / />}}
+  {{< interactive-modules/checklist-item label="All original attachments and accessories included" / />}}
+  {{< interactive-modules/checklist-item label="Original manual and documentation present" / />}}
+  {{< interactive-modules/checklist-item label="Treadle mechanism (if applicable) works properly" / />}}
+  {{< interactive-modules/checklist-item label="No replacement parts or modern repairs visible" / />}}
+  {{< interactive-modules/checklist-item label="Cabinet/case has no significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Machine produces proper stitches" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Functional Condition

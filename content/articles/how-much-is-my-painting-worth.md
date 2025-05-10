@@ -133,12 +133,12 @@ To identify if your painting is an original:
 - Verify if there's a signature that appears to be painted rather than printed
 
 {{< interactive-modules/condition-checklist title="Original Artwork Identification Checklist" description="Check applicable items to help determine if your painting is an original" >}}
-    {{< interactive-modules/checklist-item label="Visible brushstrokes or texture on the surface" / / />}}
-    {{< interactive-modules/checklist-item label="Evidence of hand-painted details under magnification" / / />}}
-    {{< interactive-modules/checklist-item label="Canvas edges show age-appropriate wear" / / />}}
-    {{< interactive-modules/checklist-item label="Signature appears to be painted, not printed" / / />}}
-    {{< interactive-modules/checklist-item label="Back of the canvas shows appropriate age" / / />}}
-    {{< interactive-modules/checklist-item label="No dot patterns visible under magnification" / / />}}
+    {{< interactive-modules/checklist-item label="Visible brushstrokes or texture on the surface" / />}}
+    {{< interactive-modules/checklist-item label="Evidence of hand-painted details under magnification" / />}}
+    {{< interactive-modules/checklist-item label="Canvas edges show age-appropriate wear" / />}}
+    {{< interactive-modules/checklist-item label="Signature appears to be painted, not printed" / />}}
+    {{< interactive-modules/checklist-item label="Back of the canvas shows appropriate age" / />}}
+    {{< interactive-modules/checklist-item label="No dot patterns visible under magnification" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 2. Artist Identity and Reputation
@@ -158,12 +158,12 @@ When evaluating the condition of your painting, look for these potential issues 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Painting Condition Assessment" description="Check for these common condition issues that may affect value" >}}
-    {{< interactive-modules/checklist-item label="Canvas tears or punctures" / / />}}
-    {{< interactive-modules/checklist-item label="Flaking or cracking paint" / / />}}
-    {{< interactive-modules/checklist-item label="Discoloration or fading" / / />}}
-    {{< interactive-modules/checklist-item label="Evidence of previous restoration" / / />}}
-    {{< interactive-modules/checklist-item label="Water or mold damage" / / />}}
-    {{< interactive-modules/checklist-item label="Frame damage or inappropriate framing" / / />}}
+    {{< interactive-modules/checklist-item label="Canvas tears or punctures" / />}}
+    {{< interactive-modules/checklist-item label="Flaking or cracking paint" / />}}
+    {{< interactive-modules/checklist-item label="Discoloration or fading" / />}}
+    {{< interactive-modules/checklist-item label="Evidence of previous restoration" / />}}
+    {{< interactive-modules/checklist-item label="Water or mold damage" / />}}
+    {{< interactive-modules/checklist-item label="Frame damage or inappropriate framing" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [Gray's Auctioneers](https://www.graysauctioneers.com/blog-posts/2020/5/8/9-signs-that-your-painting-may-be-worth-over-1000), paintings in excellent condition with minimal restoration typically command premium prices, while those requiring significant restoration may sell for 30-60% less.

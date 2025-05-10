@@ -232,11 +232,11 @@ Many local museums offer free consultation days where staff experts can examine 
 Clear, well-lit photographs are crucial for accurate online appraisals. Experts need to see details like markings, condition issues, and craftsmanship to provide accurate valuations.
 
 {{< interactive-modules/condition-checklist title="Photography Checklist for Online Appraisals" description="Follow these guidelines when photographing items for appraisal" >}}
-  {{< interactive-modules/checklist-item label="Take photos in natural daylight (avoid flash)" / / />}}
-  {{< interactive-modules/checklist-item label="Include multiple angles (front, back, sides, bottom)" / / />}}
-  {{< interactive-modules/checklist-item label="Capture any signatures, marks, or maker's marks" / / />}}
-  {{< interactive-modules/checklist-item label="Include close-ups of damage or wear" / / />}}
-  {{< interactive-modules/checklist-item label="Place a ruler or coin in one photo for scale" / / />}}
+  {{< interactive-modules/checklist-item label="Take photos in natural daylight (avoid flash)" / />}}
+  {{< interactive-modules/checklist-item label="Include multiple angles (front, back, sides, bottom)" / />}}
+  {{< interactive-modules/checklist-item label="Capture any signatures, marks, or maker's marks" / />}}
+  {{< interactive-modules/checklist-item label="Include close-ups of damage or wear" / />}}
+  {{< interactive-modules/checklist-item label="Place a ruler or coin in one photo for scale" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provide Detailed Descriptions

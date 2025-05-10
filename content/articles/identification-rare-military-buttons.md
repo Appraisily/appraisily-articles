@@ -351,14 +351,14 @@ Watch for these warning signs of fake buttons:
 - **Incorrect material composition**: Modern alloys that didn't exist during the period
 
 {{< interactive-modules/condition-checklist title="Button Authentication Checklist" description="Use this checklist to assess the authenticity of military buttons" >}}
-  {{< interactive-modules/checklist-item label="Button shows appropriate age-related wear patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Backmark matches known manufacturer patterns from the period" / / />}}
-  {{< interactive-modules/checklist-item label="Weight and thickness appropriate for the era" / / />}}
-  {{< interactive-modules/checklist-item label="Material composition consistent with period manufacturing" / / />}}
-  {{< interactive-modules/checklist-item label="Shank style appropriate for the time period" / / />}}
-  {{< interactive-modules/checklist-item label="Design details match known authenticated examples" / / />}}
-  {{< interactive-modules/checklist-item label="Surface patina appears natural, not chemically induced" / / />}}
-  {{< interactive-modules/checklist-item label="No signs of modern casting or production methods" / / />}}
+  {{< interactive-modules/checklist-item label="Button shows appropriate age-related wear patterns" / />}}
+  {{< interactive-modules/checklist-item label="Backmark matches known manufacturer patterns from the period" / />}}
+  {{< interactive-modules/checklist-item label="Weight and thickness appropriate for the era" / />}}
+  {{< interactive-modules/checklist-item label="Material composition consistent with period manufacturing" / />}}
+  {{< interactive-modules/checklist-item label="Shank style appropriate for the time period" / />}}
+  {{< interactive-modules/checklist-item label="Design details match known authenticated examples" / />}}
+  {{< interactive-modules/checklist-item label="Surface patina appears natural, not chemically induced" / />}}
+  {{< interactive-modules/checklist-item label="No signs of modern casting or production methods" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Condition Assessment" level="2" id="condition-assessment" >}}

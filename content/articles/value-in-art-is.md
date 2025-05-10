@@ -181,11 +181,11 @@ Painters manipulate value through:
 - **Scumbling**: Dragging semi-opaque paint over dried layers
 
 {{< interactive-modules/condition-checklist title="Effective Use of Value in Art" description="Key techniques that demonstrate mastery of value" >}}
-  {{< interactive-modules/checklist-item label="Clear value hierarchy with distinct light, middle, and dark ranges" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / / />}}
-  {{< interactive-modules/checklist-item label="Contrasting values to create focal points" / / />}}
-  {{< interactive-modules/checklist-item label="Gradual value transitions to create three-dimensional forms" / / />}}
-  {{< interactive-modules/checklist-item label="Strategic use of high contrast for emphasis" / / />}}
+  {{< interactive-modules/checklist-item label="Clear value hierarchy with distinct light, middle, and dark ranges" / />}}
+  {{< interactive-modules/checklist-item label="Consistent light source direction throughout the composition" / />}}
+  {{< interactive-modules/checklist-item label="Contrasting values to create focal points" / />}}
+  {{< interactive-modules/checklist-item label="Gradual value transitions to create three-dimensional forms" / />}}
+  {{< interactive-modules/checklist-item label="Strategic use of high contrast for emphasis" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Digital Art and Value

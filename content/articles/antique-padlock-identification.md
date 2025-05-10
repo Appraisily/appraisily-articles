@@ -178,12 +178,12 @@ Another prestigious British maker whose locks are highly collectible, often bear
 Look for maker's marks such as "ABUS" (founded 1924), "Abloy" (Finland), and various local smithing marks on older examples.
 
 {{< interactive-modules/condition-checklist title="Padlock Authentication Checklist" description="Use this checklist to help authenticate a potentially valuable antique padlock" >}}
-  {{< interactive-modules/checklist-item label="Patina and wear consistent with claimed age" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or patent dates match known manufacturers" / / />}}
-  {{< interactive-modules/checklist-item label="Construction methods appropriate for the era (hand-forged vs. machine-made)" / / />}}
-  {{< interactive-modules/checklist-item label="Material composition authentic to the period" / / />}}
-  {{< interactive-modules/checklist-item label="Key design matches the lock mechanism technology" / / />}}
-  {{< interactive-modules/checklist-item label="No modern materials or manufacturing techniques present" / / />}}
+  {{< interactive-modules/checklist-item label="Patina and wear consistent with claimed age" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or patent dates match known manufacturers" / />}}
+  {{< interactive-modules/checklist-item label="Construction methods appropriate for the era (hand-forged vs. machine-made)" / />}}
+  {{< interactive-modules/checklist-item label="Material composition authentic to the period" / />}}
+  {{< interactive-modules/checklist-item label="Key design matches the lock mechanism technology" / />}}
+  {{< interactive-modules/checklist-item label="No modern materials or manufacturing techniques present" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 For definitive identification of rare or valuable specimens, consider consulting specialized reference books or connecting with knowledgeable collectors through organizations like the Antique Doorknob Collectors of America, which includes many lock enthusiasts.

@@ -123,13 +123,13 @@ Before diving into specific identification techniques, it's important to establi
 This documentation not only serves your immediate identification needs but also creates a valuable record for insurance, potential sale, or future research.
 
 {{< interactive-modules/condition-checklist title="Documentation Checklist" description="Essential elements to document for proper identification" >}}
-  {{< interactive-modules/checklist-item label="Clear photos of the clock face/dial" / / />}}
-  {{< interactive-modules/checklist-item label="Images of the movement (clockworks)" / / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of any maker's marks or labels" / / />}}
-  {{< interactive-modules/checklist-item label="Photos of case construction details" / / />}}
-  {{< interactive-modules/checklist-item label="Pictures of pendulum and weights" / / />}}
-  {{< interactive-modules/checklist-item label="Measurements of the case dimensions" / / />}}
-  {{< interactive-modules/checklist-item label="Documentation of any damage or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Clear photos of the clock face/dial" / />}}
+  {{< interactive-modules/checklist-item label="Images of the movement (clockworks)" / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of any maker's marks or labels" / />}}
+  {{< interactive-modules/checklist-item label="Photos of case construction details" / />}}
+  {{< interactive-modules/checklist-item label="Pictures of pendulum and weights" / />}}
+  {{< interactive-modules/checklist-item label="Measurements of the case dimensions" / />}}
+  {{< interactive-modules/checklist-item label="Documentation of any damage or repairs" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Identifying Maker's Marks and Signatures

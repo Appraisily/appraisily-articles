@@ -219,14 +219,14 @@ For limited editions, smaller edition sizes typically command higher prices. Spe
 Pieces from significant periods in the artist's career or those featured in major exhibitions may have additional historical value. Early works from the 1970s and 1980s, before his commercial expansion, are particularly sought after by serious collectors.
 
 {{< interactive-modules/condition-checklist title="Lassen Artwork Value Assessment Checklist" description="Check applicable items to evaluate your artwork's condition and features" >}}
-  {{< interactive-modules/checklist-item label="Original painting (versus print or reproduction)" / / />}}
-  {{< interactive-modules/checklist-item label="Authentic signature clearly visible" / / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity present" / / />}}
-  {{< interactive-modules/checklist-item label="No visible damage, fading, or discoloration" / / />}}
-  {{< interactive-modules/checklist-item label="Original frame in good condition" / / />}}
-  {{< interactive-modules/checklist-item label="Limited edition with low number in series" / / />}}
-  {{< interactive-modules/checklist-item label="Proper provenance documentation available" / / />}}
-  {{< interactive-modules/checklist-item label="Featured iconic Lassen subject matter (dolphins, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Original painting (versus print or reproduction)" / />}}
+  {{< interactive-modules/checklist-item label="Authentic signature clearly visible" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity present" / />}}
+  {{< interactive-modules/checklist-item label="No visible damage, fading, or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="Original frame in good condition" / />}}
+  {{< interactive-modules/checklist-item label="Limited edition with low number in series" / />}}
+  {{< interactive-modules/checklist-item label="Proper provenance documentation available" / />}}
+  {{< interactive-modules/checklist-item label="Featured iconic Lassen subject matter (dolphins, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Types of Lassen Art & Their Value Ranges" level="2" >}}

@@ -126,12 +126,12 @@ Condition is perhaps the most critical factor affecting value, with mint conditi
 When assessing your china's condition, use proper terminology that collectors and dealers recognize:
 
 {{< interactive-modules/condition-checklist title="China Condition Assessment" description="Check all conditions that apply to determine overall grade" >}}
-  {{< interactive-modules/checklist-item label="Mint: Perfect condition with no flaws or wear" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent: Near perfect with minimal wear only visible upon close inspection" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good: Small imperfections that don't detract from appearance" / / />}}
-  {{< interactive-modules/checklist-item label="Good: Visible wear, minor chips or crazing but still presentable" / / />}}
-  {{< interactive-modules/checklist-item label="Fair: Noticeable damage including cracks, chips, staining" / / />}}
-  {{< interactive-modules/checklist-item label="Poor: Significant damage, major cracks, heavy wear, or repairs" / / />}}
+  {{< interactive-modules/checklist-item label="Mint: Perfect condition with no flaws or wear" / />}}
+  {{< interactive-modules/checklist-item label="Excellent: Near perfect with minimal wear only visible upon close inspection" / />}}
+  {{< interactive-modules/checklist-item label="Very Good: Small imperfections that don't detract from appearance" / />}}
+  {{< interactive-modules/checklist-item label="Good: Visible wear, minor chips or crazing but still presentable" / />}}
+  {{< interactive-modules/checklist-item label="Fair: Noticeable damage including cracks, chips, staining" / />}}
+  {{< interactive-modules/checklist-item label="Poor: Significant damage, major cracks, heavy wear, or repairs" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![China teacup showing hairline crack and condition assessment](https://ik.imagekit.io/appraisily/SEO/how-much-is-my-china-worth/how-much-is-my-china-worth-image-4_qJaJwAjoK.png)

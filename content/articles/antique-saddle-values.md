@@ -214,14 +214,14 @@ A saddle's age can often be determined by examining construction techniques, mat
 Condition dramatically impacts value, with excellent-condition saddles commanding prices 2-3 times higher than those in poor condition. Key condition factors include:
 
 {{< interactive-modules/condition-checklist title="Antique Saddle Condition Assessment" description="Check applicable items to evaluate your saddle's condition" >}}
-  {{< interactive-modules/checklist-item label="Leather integrity (no cracks, tears, or significant wear)" / / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and mountings present" / / />}}
-  {{< interactive-modules/checklist-item label="Stitching intact throughout" / / />}}
-  {{< interactive-modules/checklist-item label="No significant repairs or alterations" / / />}}
-  {{< interactive-modules/checklist-item label="Tree (internal frame) intact and not broken" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish preserved (not over-cleaned or restored)" / / />}}
-  {{< interactive-modules/checklist-item label="Clear maker's marks or stamps" / / />}}
-  {{< interactive-modules/checklist-item label="Original accessories present (stirrups, cinches, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Leather integrity (no cracks, tears, or significant wear)" / />}}
+  {{< interactive-modules/checklist-item label="Original hardware and mountings present" / />}}
+  {{< interactive-modules/checklist-item label="Stitching intact throughout" / />}}
+  {{< interactive-modules/checklist-item label="No significant repairs or alterations" / />}}
+  {{< interactive-modules/checklist-item label="Tree (internal frame) intact and not broken" / />}}
+  {{< interactive-modules/checklist-item label="Original finish preserved (not over-cleaned or restored)" / />}}
+  {{< interactive-modules/checklist-item label="Clear maker's marks or stamps" / />}}
+  {{< interactive-modules/checklist-item label="Original accessories present (stirrups, cinches, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 As Reddit discussions reveal, condition assessment is critical. One user cautioned that a particular older saddle [wasn't worth $100](https://www.reddit.com/r/Equestrian/comments/17qpaal/can_anyone_help_me_identify_how_old_this_saddle/) due to its poor condition, despite being at least 30 years old.

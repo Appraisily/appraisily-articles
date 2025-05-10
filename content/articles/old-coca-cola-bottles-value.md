@@ -146,13 +146,13 @@ Most Coca-Cola bottles were produced in clear or light green (aqua) glass, but r
 Unique characteristics like manufacturing errors, experimental designs, or prototype bottles can make otherwise common bottles quite valuable to collectors.
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment" description="Check applicable items to evaluate your bottle's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible embossing or labeling" / / />}}
-  {{< interactive-modules/checklist-item label="Original cap or closure (if applicable)" / / />}}
-  {{< interactive-modules/checklist-item label="No significant scratching or abrasion" / / />}}
-  {{< interactive-modules/checklist-item label="No interior staining or residue" / / />}}
-  {{< interactive-modules/checklist-item label="Vibrant colors (for painted label bottles)" / / />}}
-  {{< interactive-modules/checklist-item label="Full, unfaded paper labels (if applicable)" / / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible embossing or labeling" / />}}
+  {{< interactive-modules/checklist-item label="Original cap or closure (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No significant scratching or abrasion" / />}}
+  {{< interactive-modules/checklist-item label="No interior staining or residue" / />}}
+  {{< interactive-modules/checklist-item label="Vibrant colors (for painted label bottles)" / />}}
+  {{< interactive-modules/checklist-item label="Full, unfaded paper labels (if applicable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Vintage Coca-Cola Bottles" level="2" >}}

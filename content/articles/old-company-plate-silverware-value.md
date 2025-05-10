@@ -161,11 +161,11 @@ When examining your silverware, check for these identifying characteristics:
 4. **Monograms**: Many Old Company Plate pieces were customized with the original owner's initials, which can be seen on the front of the handles.
 
 {{< interactive-modules/condition-checklist title="Identification Checklist" description="Use this checklist to identify authentic Old Company Plate silverware" >}}
-  {{< interactive-modules/checklist-item label="Look for 'OLD COMPANY PLATE' or 'OCP' mark on the back of pieces" / / />}}
-  {{< interactive-modules/checklist-item label="Check for pattern name marks such as 'SIGNATURE'" / / />}}
-  {{< interactive-modules/checklist-item label="Note any monograms or initials on the handles" / / />}}
-  {{< interactive-modules/checklist-item label="Look for 'SILVERPLATE' or 'EP' material indicators" / / />}}
-  {{< interactive-modules/checklist-item label="Verify the distinctive handle design matches known patterns" / / />}}
+  {{< interactive-modules/checklist-item label="Look for 'OLD COMPANY PLATE' or 'OCP' mark on the back of pieces" / />}}
+  {{< interactive-modules/checklist-item label="Check for pattern name marks such as 'SIGNATURE'" / />}}
+  {{< interactive-modules/checklist-item label="Note any monograms or initials on the handles" / />}}
+  {{< interactive-modules/checklist-item label="Look for 'SILVERPLATE' or 'EP' material indicators" / />}}
+  {{< interactive-modules/checklist-item label="Verify the distinctive handle design matches known patterns" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Factors Affecting Old Company Plate Value

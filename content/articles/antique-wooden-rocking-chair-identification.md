@@ -299,14 +299,14 @@ According to research from [Reddit discussions on antique identification](https:
 Properly identifying wood types often requires examining end grain, looking at secondary woods in hidden areas, and understanding regional preferences for specific materials. For instance, a Philadelphia-made chair would likely use different woods than one crafted in rural New England during the same period.
 
 {{< interactive-modules/condition-checklist title="Antique Rocking Chair Authentication Checklist" description="Use this checklist to evaluate potential antique rocking chairs" >}}
-  {{< interactive-modules/checklist-item label="Consistent patina and age-appropriate wear patterns" / / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate joinery methods visible" / / />}}
-  {{< interactive-modules/checklist-item label="Hardware (nails, screws) matches the supposed period" / / />}}
-  {{< interactive-modules/checklist-item label="Wood types consistent with claimed age and origin" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish or age-appropriate refinishing" / / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or labels if present" / / />}}
-  {{< interactive-modules/checklist-item label="Proportions consistent with period design" / / />}}
-  {{< interactive-modules/checklist-item label="No modern materials (plywood, particleboard, etc.)" / / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina and age-appropriate wear patterns" / />}}
+  {{< interactive-modules/checklist-item label="Period-appropriate joinery methods visible" / />}}
+  {{< interactive-modules/checklist-item label="Hardware (nails, screws) matches the supposed period" / />}}
+  {{< interactive-modules/checklist-item label="Wood types consistent with claimed age and origin" / />}}
+  {{< interactive-modules/checklist-item label="Original finish or age-appropriate refinishing" / />}}
+  {{< interactive-modules/checklist-item label="Maker's marks or labels if present" / />}}
+  {{< interactive-modules/checklist-item label="Proportions consistent with period design" / />}}
+  {{< interactive-modules/checklist-item label="No modern materials (plywood, particleboard, etc.)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Determining Value of Antique Rocking Chairs" level="2" >}}

@@ -192,14 +192,14 @@ The internal mechanism (movement) is often the most important value factor for a
 - Pristine condition with all original parts
 
 {{< interactive-modules/condition-checklist title="Movement Condition Assessment" description="Check applicable items to help determine your watch's condition value" >}}
-  {{< interactive-modules/checklist-item label="Watch runs accurately when wound" / / />}}
-  {{< interactive-modules/checklist-item label="All hands are original and intact" / / />}}
-  {{< interactive-modules/checklist-item label="Movement is clean with no rust or corrosion" / / />}}
-  {{< interactive-modules/checklist-item label="All jewels are present and undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Balance wheel oscillates freely" / / />}}
-  {{< interactive-modules/checklist-item label="Original factory finishing is intact" / / />}}
-  {{< interactive-modules/checklist-item label="No amateur repair marks or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Movement matches case (not a marriage)" / / />}}
+  {{< interactive-modules/checklist-item label="Watch runs accurately when wound" / />}}
+  {{< interactive-modules/checklist-item label="All hands are original and intact" / />}}
+  {{< interactive-modules/checklist-item label="Movement is clean with no rust or corrosion" / />}}
+  {{< interactive-modules/checklist-item label="All jewels are present and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Balance wheel oscillates freely" / />}}
+  {{< interactive-modules/checklist-item label="Original factory finishing is intact" / />}}
+  {{< interactive-modules/checklist-item label="No amateur repair marks or damage" / />}}
+  {{< interactive-modules/checklist-item label="Movement matches case (not a marriage)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Case Material and Condition

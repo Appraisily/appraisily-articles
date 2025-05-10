@@ -179,14 +179,14 @@ The market value of Olde Frothingslosh beer cans varies significantly based on s
 The condition of a beer can is perhaps the single most important factor in determining its value. For Olde Frothingslosh cans, condition becomes even more critical due to their age and the changing materials used over the decades.
 
 {{< interactive-modules/condition-checklist title="Olde Frothingslosh Condition Assessment" description="Check applicable items to gauge the condition of your can" >}}
-  {{< interactive-modules/checklist-item label="No rust spots or oxidation" / / />}}
-  {{< interactive-modules/checklist-item label="Original colors vibrant with no fading" / / />}}
-  {{< interactive-modules/checklist-item label="No dents or crushing" / / />}}
-  {{< interactive-modules/checklist-item label="Original pull tab intact (for applicable models)" / / />}}
-  {{< interactive-modules/checklist-item label="Clean interior with no residue" / / />}}
-  {{< interactive-modules/checklist-item label="All text and graphics fully legible" / / />}}
-  {{< interactive-modules/checklist-item label="Original shine maintained" / / />}}
-  {{< interactive-modules/checklist-item label="No scratches or paint loss" / / />}}
+  {{< interactive-modules/checklist-item label="No rust spots or oxidation" / />}}
+  {{< interactive-modules/checklist-item label="Original colors vibrant with no fading" / />}}
+  {{< interactive-modules/checklist-item label="No dents or crushing" / />}}
+  {{< interactive-modules/checklist-item label="Original pull tab intact (for applicable models)" / />}}
+  {{< interactive-modules/checklist-item label="Clean interior with no residue" / />}}
+  {{< interactive-modules/checklist-item label="All text and graphics fully legible" / />}}
+  {{< interactive-modules/checklist-item label="Original shine maintained" / />}}
+  {{< interactive-modules/checklist-item label="No scratches or paint loss" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Production Year and Rarity

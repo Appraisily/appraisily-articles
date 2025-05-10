@@ -190,12 +190,12 @@ Several factors contribute to the 1919-S penny's status as a semi-key date in th
 According to [PCGS](https://www.pcgs.com/coinfacts/coin/1919-s-1c-rd/2521), the 1919-S is considered a semi-key date in the Lincoln cent series for several important reasons:
 
 {{< interactive-modules/condition-checklist title="Factors That Make the 1919-S Penny Valuable" description="Check which attributes apply to your coin" >}}
-  {{< interactive-modules/checklist-item label="Mint mark: Bears the 'S' mintmark from San Francisco" / / />}}
-  {{< interactive-modules/checklist-item label="Scarcity in high grades: Significantly rarer in MS65 or above" / / />}}
-  {{< interactive-modules/checklist-item label="Red luster: Original mint red color is exceptionally rare" / / />}}
-  {{< interactive-modules/checklist-item label="Strike quality: Often poorly struck compared to Philadelphia issues" / / />}}
-  {{< interactive-modules/checklist-item label="Historical significance: Post-WWI era coinage" / / />}}
-  {{< interactive-modules/checklist-item label="Preservation challenges: Original red specimens rarely survived" / / />}}
+  {{< interactive-modules/checklist-item label="Mint mark: Bears the 'S' mintmark from San Francisco" / />}}
+  {{< interactive-modules/checklist-item label="Scarcity in high grades: Significantly rarer in MS65 or above" / />}}
+  {{< interactive-modules/checklist-item label="Red luster: Original mint red color is exceptionally rare" / />}}
+  {{< interactive-modules/checklist-item label="Strike quality: Often poorly struck compared to Philadelphia issues" / />}}
+  {{< interactive-modules/checklist-item label="Historical significance: Post-WWI era coinage" / />}}
+  {{< interactive-modules/checklist-item label="Preservation challenges: Original red specimens rarely survived" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 While examples in circulated grades are relatively common, the 1919-S becomes increasingly scarce in Uncirculated condition, particularly in MS65 or higher grades. The most coveted specimens are those that maintain their original mint red color, which is exceedingly difficult to find for this issue.

@@ -171,12 +171,12 @@ Gently tap the rim of the glass with your fingernail or a utensil. Crystal produ
 Crystal is significantly heavier than regular glass due to its lead content. If you hold a crystal glass in one hand and a similar-sized regular glass in the other, you'll notice the crystal feels substantially heavier.
 
 {{< interactive-modules/condition-checklist title="Crystal Identification Checklist" description="Use these tests to determine if your glassware is genuine crystal" >}}
-  {{< interactive-modules/checklist-item label="Creates rainbow prism effects when held to light" / / />}}
-  {{< interactive-modules/checklist-item label="Produces a clear, lingering ring when tapped" / / />}}
-  {{< interactive-modules/checklist-item label="Feels heavier than regular glass of similar size" / / />}}
-  {{< interactive-modules/checklist-item label="Has intricate cut patterns or etchings" / / />}}
-  {{< interactive-modules/checklist-item label="Features a manufacturer's mark on the bottom" / / />}}
-  {{< interactive-modules/checklist-item label="Has exceptional clarity without bubbles or imperfections" / / />}}
+  {{< interactive-modules/checklist-item label="Creates rainbow prism effects when held to light" / />}}
+  {{< interactive-modules/checklist-item label="Produces a clear, lingering ring when tapped" / />}}
+  {{< interactive-modules/checklist-item label="Feels heavier than regular glass of similar size" / />}}
+  {{< interactive-modules/checklist-item label="Has intricate cut patterns or etchings" / />}}
+  {{< interactive-modules/checklist-item label="Features a manufacturer's mark on the bottom" / />}}
+  {{< interactive-modules/checklist-item label="Has exceptional clarity without bubbles or imperfections" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of manufacturer's mark on base of crystal stemware](https://ik.imagekit.io/appraisily/SEO/antique-crystal-glassware-value/antique-crystal-glassware-value-image-3_PzyYM63Ug.png)

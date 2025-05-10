@@ -193,12 +193,12 @@ Legitimate art appraisers typically hold credentials from recognized professiona
 When researching appraisers, look for these important credentials:
 
 {{< interactive-modules/condition-checklist title="Important Appraiser Credentials" description="Key qualifications to verify when selecting an art appraiser" >}}
-  {{< interactive-modules/checklist-item label="Membership in professional appraiser associations (ISA, AAA, ASA)" / / />}}
-  {{< interactive-modules/checklist-item label="USPAP compliance (Uniform Standards of Professional Appraisal Practice)" / / />}}
-  {{< interactive-modules/checklist-item label="Specialized training in art history or specific art categories" / / />}}
-  {{< interactive-modules/checklist-item label="Years of experience in your specific type of artwork" / / />}}
-  {{< interactive-modules/checklist-item label="Continuing education in their area of expertise" / / />}}
-  {{< interactive-modules/checklist-item label="Professional liability insurance" / / />}}
+  {{< interactive-modules/checklist-item label="Membership in professional appraiser associations (ISA, AAA, ASA)" / />}}
+  {{< interactive-modules/checklist-item label="USPAP compliance (Uniform Standards of Professional Appraisal Practice)" / />}}
+  {{< interactive-modules/checklist-item label="Specialized training in art history or specific art categories" / />}}
+  {{< interactive-modules/checklist-item label="Years of experience in your specific type of artwork" / />}}
+  {{< interactive-modules/checklist-item label="Continuing education in their area of expertise" / />}}
+  {{< interactive-modules/checklist-item label="Professional liability insurance" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Professional designations typically indicate an appraiser's level of expertise and training:
@@ -296,12 +296,12 @@ Proper preparation before meeting with your art appraiser ensures a more efficie
 Collecting the following information before your appraisal will help your appraiser provide the most accurate valuation:
 
 {{< interactive-modules/condition-checklist title="Art Appraisal Preparation Checklist" description="Documents and information to prepare before your appraisal appointment" >}}
-  {{< interactive-modules/checklist-item label="Provenance documentation (previous bills of sale, gallery receipts)" / / />}}
-  {{< interactive-modules/checklist-item label="Artist information and authentication certificates" / / />}}
-  {{< interactive-modules/checklist-item label="Previous appraisal reports or insurance documentation" / / />}}
-  {{< interactive-modules/checklist-item label="Exhibition history and literature references" / / />}}
-  {{< interactive-modules/checklist-item label="Restoration history and condition reports" / / />}}
-  {{< interactive-modules/checklist-item label="Photographs of signatures, marks, or labels" / / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation (previous bills of sale, gallery receipts)" / />}}
+  {{< interactive-modules/checklist-item label="Artist information and authentication certificates" / />}}
+  {{< interactive-modules/checklist-item label="Previous appraisal reports or insurance documentation" / />}}
+  {{< interactive-modules/checklist-item label="Exhibition history and literature references" / />}}
+  {{< interactive-modules/checklist-item label="Restoration history and condition reports" / />}}
+  {{< interactive-modules/checklist-item label="Photographs of signatures, marks, or labels" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Questions to Ask Your Appraiser

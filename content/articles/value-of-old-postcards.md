@@ -137,13 +137,13 @@ Generally, older postcards (particularly those from the 19th century and early 2
 The physical state of a postcard dramatically impacts its value. Mint condition, unused postcards typically command the highest prices. Common condition issues that reduce value include:
 
 {{< interactive-modules/condition-checklist title="Postcard Condition Assessment" description="Check for these condition issues that may affect value" >}}
-  {{< interactive-modules/checklist-item label="Creases, folds, or wrinkles" / / />}}
-  {{< interactive-modules/checklist-item label="Corner damage or rounding" / / />}}
-  {{< interactive-modules/checklist-item label="Stains, discoloration, or yellowing" / / />}}
-  {{< interactive-modules/checklist-item label="Writing or stamps on the image side" / / />}}
-  {{< interactive-modules/checklist-item label="Postmarks obscuring the image" / / />}}
-  {{< interactive-modules/checklist-item label="Paper loss or tears" / / />}}
-  {{< interactive-modules/checklist-item label="Fading of the original colors" / / />}}
+  {{< interactive-modules/checklist-item label="Creases, folds, or wrinkles" / />}}
+  {{< interactive-modules/checklist-item label="Corner damage or rounding" / />}}
+  {{< interactive-modules/checklist-item label="Stains, discoloration, or yellowing" / />}}
+  {{< interactive-modules/checklist-item label="Writing or stamps on the image side" / />}}
+  {{< interactive-modules/checklist-item label="Postmarks obscuring the image" / />}}
+  {{< interactive-modules/checklist-item label="Paper loss or tears" / />}}
+  {{< interactive-modules/checklist-item label="Fading of the original colors" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Subject Matter

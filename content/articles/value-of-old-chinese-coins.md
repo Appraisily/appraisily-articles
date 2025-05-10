@@ -199,13 +199,13 @@ The physical condition of a coin dramatically affects its value. For ancient cas
 According to experts at [PCGS](https://www.pcgs.com/prices/china), the difference between a circulated and uncirculated specimen of the same coin can be enormous—sometimes representing a 1000% price difference or more.
 
 {{< interactive-modules/condition-checklist title="Chinese Coin Condition Assessment" description="Use this checklist to evaluate the condition of your Chinese coins" >}}
-  {{< interactive-modules/checklist-item label="Inscriptions are clear and fully legible" / / />}}
-  {{< interactive-modules/checklist-item label="Original surfaces are intact without cleaning damage" / / />}}
-  {{< interactive-modules/checklist-item label="No corrosion or environmental damage is present" / / />}}
-  {{< interactive-modules/checklist-item label="Square hole has sharp, well-defined edges (for cash coins)" / / />}}
-  {{< interactive-modules/checklist-item label="No repairs, tooling marks, or restoration is evident" / / />}}
-  {{< interactive-modules/checklist-item label="Original mint luster is visible (for modern coins)" / / />}}
-  {{< interactive-modules/checklist-item label="Coin has attractive, natural patina (for ancient coins)" / / />}}
+  {{< interactive-modules/checklist-item label="Inscriptions are clear and fully legible" / />}}
+  {{< interactive-modules/checklist-item label="Original surfaces are intact without cleaning damage" / />}}
+  {{< interactive-modules/checklist-item label="No corrosion or environmental damage is present" / />}}
+  {{< interactive-modules/checklist-item label="Square hole has sharp, well-defined edges (for cash coins)" / />}}
+  {{< interactive-modules/checklist-item label="No repairs, tooling marks, or restoration is evident" / />}}
+  {{< interactive-modules/checklist-item label="Original mint luster is visible (for modern coins)" / />}}
+  {{< interactive-modules/checklist-item label="Coin has attractive, natural patina (for ancient coins)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 3. Authenticity
@@ -443,12 +443,12 @@ Proper storage is critical for preserving Chinese coins:
 4. **Light Exposure**: Minimize exposure to direct sunlight and UV light, which can affect patina development.
 
 {{< interactive-modules/condition-checklist title="Collection Care Checklist" description="Essential practices for maintaining your Chinese coin collection" >}}
-  {{< interactive-modules/checklist-item label="Coins stored in inert, archival-quality holders" / / />}}
-  {{< interactive-modules/checklist-item label="Collection kept in climate-controlled environment" / / />}}
-  {{< interactive-modules/checklist-item label="Inventory maintained with photographs and descriptions" / / />}}
-  {{< interactive-modules/checklist-item label="Valuable coins professionally graded and encapsulated" / / />}}
-  {{< interactive-modules/checklist-item label="Insurance coverage obtained for significant collections" / / />}}
-  {{< interactive-modules/checklist-item label="Handling limited and done with proper techniques" / / />}}
+  {{< interactive-modules/checklist-item label="Coins stored in inert, archival-quality holders" / />}}
+  {{< interactive-modules/checklist-item label="Collection kept in climate-controlled environment" / />}}
+  {{< interactive-modules/checklist-item label="Inventory maintained with photographs and descriptions" / />}}
+  {{< interactive-modules/checklist-item label="Valuable coins professionally graded and encapsulated" / />}}
+  {{< interactive-modules/checklist-item label="Insurance coverage obtained for significant collections" / />}}
+  {{< interactive-modules/checklist-item label="Handling limited and done with proper techniques" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 <a id="faq-section"></a>

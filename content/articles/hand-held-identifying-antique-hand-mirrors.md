@@ -279,11 +279,11 @@ Several online databases can help identify unfamiliar hallmarks:
 - [Antique Marks](https://www.antique-marks.com/) - General guide to various antique marks
 
 {{< interactive-modules/condition-checklist title="Hallmark Identification Checklist" description="Check these areas for potential hallmarks and maker's marks" >}}
-  {{< interactive-modules/checklist-item label="Back edge of mirror frame" / / />}}
-  {{< interactive-modules/checklist-item label="Handle near connection to frame" / / />}}
-  {{< interactive-modules/checklist-item label="Inside rim of mirror" / / />}}
-  {{< interactive-modules/checklist-item label="Metal backing plate (if present)" / / />}}
-  {{< interactive-modules/checklist-item label="Bottom of handle" / / />}}
+  {{< interactive-modules/checklist-item label="Back edge of mirror frame" / />}}
+  {{< interactive-modules/checklist-item label="Handle near connection to frame" / />}}
+  {{< interactive-modules/checklist-item label="Inside rim of mirror" / />}}
+  {{< interactive-modules/checklist-item label="Metal backing plate (if present)" / />}}
+  {{< interactive-modules/checklist-item label="Bottom of handle" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Evaluating Condition and Restoration" level="2" >}}
@@ -328,14 +328,14 @@ Appropriate conservation methods that preserve value include:
 - Documentation of any significant repairs
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Guide" description="Check applicable items to evaluate your mirror's condition" >}}
-  {{< interactive-modules/checklist-item label="Original mirror glass intact (no replacement)" / / />}}
-  {{< interactive-modules/checklist-item label="No cracks, chips, or severe desilvering in glass" / / />}}
-  {{< interactive-modules/checklist-item label="Frame intact without repairs or soldering" / / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements complete without replacement" / / />}}
-  {{< interactive-modules/checklist-item label="Handle firmly attached to frame" / / />}}
-  {{< interactive-modules/checklist-item label="Consistent patina across all components" / / />}}
-  {{< interactive-modules/checklist-item label="No modern repair materials visible" / / />}}
-  {{< interactive-modules/checklist-item label="Original finish (not overly polished or replated)" / / />}}
+  {{< interactive-modules/checklist-item label="Original mirror glass intact (no replacement)" / />}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or severe desilvering in glass" / />}}
+  {{< interactive-modules/checklist-item label="Frame intact without repairs or soldering" / />}}
+  {{< interactive-modules/checklist-item label="Decorative elements complete without replacement" / />}}
+  {{< interactive-modules/checklist-item label="Handle firmly attached to frame" / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina across all components" / />}}
+  {{< interactive-modules/checklist-item label="No modern repair materials visible" / />}}
+  {{< interactive-modules/checklist-item label="Original finish (not overly polished or replated)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< auction-results title="Notable Antique Hand Mirror Auction Results" description="Recent sales of exceptional antique hand mirrors" >}}

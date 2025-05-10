@@ -181,14 +181,14 @@ Familiarize yourself with these common condition grades (from best to worst):
 According to [Biblio's condition guide](https://www.biblio.com/book-value?srsltid=AfmBOorskBB9-wexWqACMqh0_nekAIqFfiVnE-9ncyabohODudh8XaNK), condition can affect value by 50% or more between grades, particularly for collectible books.
 
 {{< interactive-modules/condition-checklist title="Book Condition Assessment Checklist" description="Use this checklist to help evaluate the condition of your old books" >}}
-  {{< interactive-modules/checklist-item label="Complete with all pages and maps/illustrations intact" / / />}}
-  {{< interactive-modules/checklist-item label="Original binding in good condition (not rebacked or rebound)" / / />}}
-  {{< interactive-modules/checklist-item label="Free of moisture damage, stains, and foxing (brown spots)" / / />}}
-  {{< interactive-modules/checklist-item label="Original dust jacket present (for 20th century books)" / / />}}
-  {{< interactive-modules/checklist-item label="No library markings, bookplates, or owner inscriptions" / / />}}
-  {{< interactive-modules/checklist-item label="Spine is tight with no loose pages" / / />}}
-  {{< interactive-modules/checklist-item label="No torn or dog-eared pages" / / />}}
-  {{< interactive-modules/checklist-item label="No pencil marks or annotations" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with all pages and maps/illustrations intact" / />}}
+  {{< interactive-modules/checklist-item label="Original binding in good condition (not rebacked or rebound)" / />}}
+  {{< interactive-modules/checklist-item label="Free of moisture damage, stains, and foxing (brown spots)" / />}}
+  {{< interactive-modules/checklist-item label="Original dust jacket present (for 20th century books)" / />}}
+  {{< interactive-modules/checklist-item label="No library markings, bookplates, or owner inscriptions" / />}}
+  {{< interactive-modules/checklist-item label="Spine is tight with no loose pages" / />}}
+  {{< interactive-modules/checklist-item label="No torn or dog-eared pages" / />}}
+  {{< interactive-modules/checklist-item label="No pencil marks or annotations" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Crucial Importance of Dust Jackets" level="3" >}}

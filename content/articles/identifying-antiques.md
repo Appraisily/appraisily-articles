@@ -298,13 +298,13 @@ For potentially valuable items or when you need definitive authentication, profe
 **Museum Curators**: For truly unusual or potentially significant historical items, museum curators might be willing to examine pieces, particularly those relevant to their collections or specialties.
 
 {{< interactive-modules/condition-checklist title="Antique Documentation Checklist" description="When seeking professional identification, prepare these items for the most accurate assessment:" >}}
-  {{< interactive-modules/checklist-item label="Clear photographs from multiple angles" / / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of any marks, signatures, or labels" / / />}}
-  {{< interactive-modules/checklist-item label="Measurements (height, width, depth, weight)" / / />}}
-  {{< interactive-modules/checklist-item label="Known provenance or history of the item" / / />}}
-  {{< interactive-modules/checklist-item label="Any accompanying documentation or certificates" / / />}}
-  {{< interactive-modules/checklist-item label="Details about condition, including damage or repairs" / / />}}
-  {{< interactive-modules/checklist-item label="Information about similar items you've researched" / / />}}
+  {{< interactive-modules/checklist-item label="Clear photographs from multiple angles" / />}}
+  {{< interactive-modules/checklist-item label="Close-ups of any marks, signatures, or labels" / />}}
+  {{< interactive-modules/checklist-item label="Measurements (height, width, depth, weight)" / />}}
+  {{< interactive-modules/checklist-item label="Known provenance or history of the item" / />}}
+  {{< interactive-modules/checklist-item label="Any accompanying documentation or certificates" / />}}
+  {{< interactive-modules/checklist-item label="Details about condition, including damage or repairs" / />}}
+  {{< interactive-modules/checklist-item label="Information about similar items you've researched" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Determining Antique Values" level="2" >}}

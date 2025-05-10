@@ -309,12 +309,12 @@ Examine how the desk was put together:
 ### Patina and Wear Assessment
 
 {{< interactive-modules/condition-checklist title="Age Indicators Checklist" description="Look for these signs of authentic aging" >}}
-  {{< interactive-modules/checklist-item label="Natural wood darkening (patina) consistent throughout" / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns in logical locations (edges, writing surface)" / />}}
-  {{< interactive-modules/checklist-item label="Scratches, dents and marks that show actual use" / />}}
-  {{< interactive-modules/checklist-item label="Ink stains or student-created markings" / />}}
-  {{< interactive-modules/checklist-item label="Consistent aging of all hardware components" / />}}
-  {{< interactive-modules/checklist-item label="Original finish wearing thin in high-use areas" / />}}
+  {{< interactive-modules/checklist-item label="Natural wood darkening (patina) consistent throughout" />}}
+  {{< interactive-modules/checklist-item label="Wear patterns in logical locations (edges, writing surface)" />}}
+  {{< interactive-modules/checklist-item label="Scratches, dents and marks that show actual use" />}}
+  {{< interactive-modules/checklist-item label="Ink stains or student-created markings" />}}
+  {{< interactive-modules/checklist-item label="Consistent aging of all hardware components" />}}
+  {{< interactive-modules/checklist-item label="Original finish wearing thin in high-use areas" />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to experts at [Invaluable](https://www.invaluable.com/blog/antique-desks/?srsltid=AfmBOorj1GP5OAsE6lNbl_J9GGWZfKO5BpJ507xDqiS-8FHpOfacOGFc), "Dovetail joints, maker's marks or labels, and handcrafted imperfections" are key indicators of an authentic antique desk. The site advises collectors to "take your time" and carefully "inspect craftsmanship" when evaluating potential antiques.

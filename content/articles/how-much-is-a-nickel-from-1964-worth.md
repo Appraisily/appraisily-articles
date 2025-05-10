@@ -202,12 +202,12 @@ While most 1964 nickels are worth only a few cents over face value, certain fact
 One of the most significant value-adding features of Jefferson nickels is the "Full Steps" designation, which refers to the clarity of the steps on Monticello on the reverse side. Most 1964 nickels have worn or poorly struck steps, but specimens with clearly defined steps command significant premiums.
 
 {{< interactive-modules/condition-checklist title="Full Steps Requirements" description="Check these characteristics to identify a Full Steps nickel" >}}
-  {{< interactive-modules/checklist-item label="Complete separation of steps visible" / / />}}
-  {{< interactive-modules/checklist-item label="No merging of step lines" / / />}}
-  {{< interactive-modules/checklist-item label="Sharp strike with clear definition" / / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear on high points" / / />}}
-  {{< interactive-modules/checklist-item label="5FS: Five full steps visible" / / />}}
-  {{< interactive-modules/checklist-item label="6FS: Six full steps visible (most valuable)" / / />}}
+  {{< interactive-modules/checklist-item label="Complete separation of steps visible" / />}}
+  {{< interactive-modules/checklist-item label="No merging of step lines" / />}}
+  {{< interactive-modules/checklist-item label="Sharp strike with clear definition" / />}}
+  {{< interactive-modules/checklist-item label="Minimal wear on high points" / />}}
+  {{< interactive-modules/checklist-item label="5FS: Five full steps visible" / />}}
+  {{< interactive-modules/checklist-item label="6FS: Six full steps visible (most valuable)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to the NGC Price Guide, 1964 Jefferson nickels with a 5FS or 6FS designation can be worth between $20 and $15,000, depending on their overall grade. The rarity of well-struck steps makes these specimens particularly desirable to collectors.
@@ -217,11 +217,11 @@ According to the NGC Price Guide, 1964 Jefferson nickels with a 5FS or 6FS desig
 The 1964 Special Strike Jefferson nickels are exceptionally rare and valuable coins. These are neither regular circulation strikes nor standard proofs, but special specimens with distinctive characteristics.
 
 {{< interactive-modules/condition-checklist title="Special Strike Characteristics" description="Features that identify a 1964 Special Strike nickel" >}}
-  {{< interactive-modules/checklist-item label="Extremely sharp strike and detail" / / />}}
-  {{< interactive-modules/checklist-item label="Sharp, square edge rims" / / />}}
-  {{< interactive-modules/checklist-item label="Satin-like surface appearance" / / />}}
-  {{< interactive-modules/checklist-item label="Often exhibits full steps on Monticello" / / />}}
-  {{< interactive-modules/checklist-item label="Superior quality compared to business strikes" / / />}}
+  {{< interactive-modules/checklist-item label="Extremely sharp strike and detail" / />}}
+  {{< interactive-modules/checklist-item label="Sharp, square edge rims" / />}}
+  {{< interactive-modules/checklist-item label="Satin-like surface appearance" / />}}
+  {{< interactive-modules/checklist-item label="Often exhibits full steps on Monticello" / />}}
+  {{< interactive-modules/checklist-item label="Superior quality compared to business strikes" / />}}
 
 
 As reported by [PCGS CoinFacts](https://www.pcgs.com/coinfacts/coin/1964-5c-sms/4170), 1964 Special Strike nickels are highly sought-after by collectors and can command substantial premiums in the market.
@@ -323,12 +323,12 @@ The condition or grade of your coin is one of the most important factors in dete
 {{< interactive-modules/condition-checklist title="Grading Checklist for 1964 Nickels" description="Use these criteria to assess your coin's condition" >}}
   
 {{< /interactive-modules/condition-checklist >}}
-{{< interactive-modules/checklist-item label="Check for wear on high points (Jefferson's hair, cheek, Monticello roof)" / / />}}
-  {{< interactive-modules/checklist-item label="Examine the luster and shininess of the coin" / / />}}
-  {{< interactive-modules/checklist-item label="Look for bag marks, scratches, or other damage" / / />}}
-  {{< interactive-modules/checklist-item label="Check the clarity of details in Jefferson's hair and Monticello" / / />}}
-  {{< interactive-modules/checklist-item label="Examine the steps on Monticello for complete separation" / / />}}
-  {{< interactive-modules/checklist-item label="Look at the edge of the coin for any damage" / / />}}
+{{< interactive-modules/checklist-item label="Check for wear on high points (Jefferson's hair, cheek, Monticello roof)" / />}}
+  {{< interactive-modules/checklist-item label="Examine the luster and shininess of the coin" / />}}
+  {{< interactive-modules/checklist-item label="Look for bag marks, scratches, or other damage" / />}}
+  {{< interactive-modules/checklist-item label="Check the clarity of details in Jefferson's hair and Monticello" / />}}
+  {{< interactive-modules/checklist-item label="Examine the steps on Monticello for complete separation" / />}}
+  {{< interactive-modules/checklist-item label="Look at the edge of the coin for any damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Magnified Examination for Errors

@@ -150,13 +150,13 @@ Rarity significantly impacts value—limited production runs, experimental model
 ### 3. Condition and Originality
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate your antique radio's condition" >}}
-  {{< interactive-modules/checklist-item label="Cabinet is intact with original finish" / / />}}
-  {{< interactive-modules/checklist-item label="All knobs and controls are present and original" / / />}}
-  {{< interactive-modules/checklist-item label="Dial glass and face are undamaged" / / />}}
-  {{< interactive-modules/checklist-item label="Original speaker cloth is intact" / / />}}
-  {{< interactive-modules/checklist-item label="Internal components are complete and unmodified" / / />}}
-  {{< interactive-modules/checklist-item label="Radio powers on and functions properly" / / />}}
-  {{< interactive-modules/checklist-item label="Has original documentation or paperwork" / / />}}
+  {{< interactive-modules/checklist-item label="Cabinet is intact with original finish" / />}}
+  {{< interactive-modules/checklist-item label="All knobs and controls are present and original" / />}}
+  {{< interactive-modules/checklist-item label="Dial glass and face are undamaged" / />}}
+  {{< interactive-modules/checklist-item label="Original speaker cloth is intact" / />}}
+  {{< interactive-modules/checklist-item label="Internal components are complete and unmodified" / />}}
+  {{< interactive-modules/checklist-item label="Radio powers on and functions properly" / />}}
+  {{< interactive-modules/checklist-item label="Has original documentation or paperwork" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition is perhaps the most critical factor affecting value. Collectors generally prefer:

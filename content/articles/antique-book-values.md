@@ -194,14 +194,14 @@ Professional booksellers and collectors use specific terminology to describe a b
 For the highest-value books, even finer gradations exist, such as "As New" or "Mint" for pristine copies, and "Near Fine" for books with very minor flaws.
 
 {{< interactive-modules/condition-checklist title="Book Condition Assessment" description="Use this checklist to evaluate your antique book's condition" >}}
-  {{< interactive-modules/checklist-item label="Complete with all pages and maps/illustrations present" / / />}}
-  {{< interactive-modules/checklist-item label="Original binding intact and not repaired" / / />}}
-  {{< interactive-modules/checklist-item label="No writing, highlighting or owner inscriptions" / / />}}
-  {{< interactive-modules/checklist-item label="No water damage, stains or foxing (brown spots)" / / />}}
-  {{< interactive-modules/checklist-item label="Dust jacket present (for books published with one)" / / />}}
-  {{< interactive-modules/checklist-item label="Spine is tight with no cracks or separations" / / />}}
-  {{< interactive-modules/checklist-item label="Pages are clean with no musty smell" / / />}}
-  {{< interactive-modules/checklist-item label="No library markings or bookplates" / / />}}
+  {{< interactive-modules/checklist-item label="Complete with all pages and maps/illustrations present" / />}}
+  {{< interactive-modules/checklist-item label="Original binding intact and not repaired" / />}}
+  {{< interactive-modules/checklist-item label="No writing, highlighting or owner inscriptions" / />}}
+  {{< interactive-modules/checklist-item label="No water damage, stains or foxing (brown spots)" / />}}
+  {{< interactive-modules/checklist-item label="Dust jacket present (for books published with one)" / />}}
+  {{< interactive-modules/checklist-item label="Spine is tight with no cracks or separations" / />}}
+  {{< interactive-modules/checklist-item label="Pages are clean with no musty smell" / />}}
+  {{< interactive-modules/checklist-item label="No library markings or bookplates" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Factors That Increase Book Value

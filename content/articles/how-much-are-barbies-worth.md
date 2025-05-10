@@ -143,13 +143,13 @@ Generally, older Barbies tend to be more valuable, with dolls from 1959 to the l
 Condition is arguably the most critical factor affecting a Barbie's value. Dolls in mint condition (never removed from packaging) or near-mint condition (like new with no defects) command the highest prices. Common condition issues that decrease value include:
 
 {{< interactive-modules/condition-checklist title="Condition Factors That Impact Barbie Value" description="Check for these issues when assessing your Barbie's condition" >}}
-  {{< interactive-modules/checklist-item label="Hair damage or cutting" / / />}}
-  {{< interactive-modules/checklist-item label="Limb cracks or damage" / / />}}
-  {{< interactive-modules/checklist-item label="Face paint wear or rubs" / / />}}
-  {{< interactive-modules/checklist-item label="Missing original accessories" / / />}}
-  {{< interactive-modules/checklist-item label="Green ear syndrome (oxidation)" / / />}}
-  {{< interactive-modules/checklist-item label="Body discoloration or staining" / / />}}
-  {{< interactive-modules/checklist-item label="Box or packaging damage" / / />}}
+  {{< interactive-modules/checklist-item label="Hair damage or cutting" / />}}
+  {{< interactive-modules/checklist-item label="Limb cracks or damage" / />}}
+  {{< interactive-modules/checklist-item label="Face paint wear or rubs" / />}}
+  {{< interactive-modules/checklist-item label="Missing original accessories" / />}}
+  {{< interactive-modules/checklist-item label="Green ear syndrome (oxidation)" / />}}
+  {{< interactive-modules/checklist-item label="Body discoloration or staining" / />}}
+  {{< interactive-modules/checklist-item label="Box or packaging damage" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Original Packaging and Accessories

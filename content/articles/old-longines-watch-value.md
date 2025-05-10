@@ -125,14 +125,14 @@ The movement is one of the most reliable indicators of authenticity:
 - All parts should be consistent with the purported production era
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for Vintage Longines Watches" description="Use this checklist to help identify authentic Longines timepieces" >}}
-  {{< interactive-modules/checklist-item label="Serial number on movement matches Longines production records" / / />}}
-  {{< interactive-modules/checklist-item label="Case markings and hallmarks are appropriate for the era" / / />}}
-  {{< interactive-modules/checklist-item label="Winged hourglass logo properly executed" / / />}}
-  {{< interactive-modules/checklist-item label="Movement finish and quality consistent with Longines standards" / / />}}
-  {{< interactive-modules/checklist-item label="Dial printing is precise with correct font and logo" / / />}}
-  {{< interactive-modules/checklist-item label="Case style matches known models from the purported period" / / />}}
-  {{< interactive-modules/checklist-item label="Hands are appropriate style for the model and era" / / />}}
-  {{< interactive-modules/checklist-item label="Crown has correct Longines markings (if original)" / / />}}
+  {{< interactive-modules/checklist-item label="Serial number on movement matches Longines production records" / />}}
+  {{< interactive-modules/checklist-item label="Case markings and hallmarks are appropriate for the era" / />}}
+  {{< interactive-modules/checklist-item label="Winged hourglass logo properly executed" / />}}
+  {{< interactive-modules/checklist-item label="Movement finish and quality consistent with Longines standards" / />}}
+  {{< interactive-modules/checklist-item label="Dial printing is precise with correct font and logo" / />}}
+  {{< interactive-modules/checklist-item label="Case style matches known models from the purported period" / />}}
+  {{< interactive-modules/checklist-item label="Hands are appropriate style for the model and era" / />}}
+  {{< interactive-modules/checklist-item label="Crown has correct Longines markings (if original)" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for Vintage Longines Watches" level="2" >}}

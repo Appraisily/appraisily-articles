@@ -119,12 +119,12 @@ Research furniture style guides or consult online resources like [The Decorative
 The construction methods and materials used can reveal much about a piece's age, authenticity, and quality:
 
 {{< interactive-modules/condition-checklist title="Construction Assessment Checklist" description="Examine these elements to determine age and authenticity" >}}
-  {{< interactive-modules/checklist-item label="Joinery techniques (dovetails, mortise and tenon, etc.)" / / />}}
-  {{< interactive-modules/checklist-item label="Wood types used (primary and secondary woods)" / / />}}
-  {{< interactive-modules/checklist-item label="Signs of hand tools vs. machine manufacturing" / / />}}
-  {{< interactive-modules/checklist-item label="Hardware style and attachment methods" / / />}}
-  {{< interactive-modules/checklist-item label="Drawer construction and bottom panels" / / />}}
-  {{< interactive-modules/checklist-item label="Finish type and patina development" / / />}}
+  {{< interactive-modules/checklist-item label="Joinery techniques (dovetails, mortise and tenon, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Wood types used (primary and secondary woods)" / />}}
+  {{< interactive-modules/checklist-item label="Signs of hand tools vs. machine manufacturing" / />}}
+  {{< interactive-modules/checklist-item label="Hardware style and attachment methods" / />}}
+  {{< interactive-modules/checklist-item label="Drawer construction and bottom panels" / />}}
+  {{< interactive-modules/checklist-item label="Finish type and patina development" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [Fontaine's Auction](https://www.fontainesauction.com/antique-furniture-appraisal/), examining construction details helps determine both authenticity and approximate age. For example, certain dovetail joint styles were only used during specific periods, while circular saw marks weren't common until after 1830.

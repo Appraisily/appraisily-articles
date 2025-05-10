@@ -150,11 +150,11 @@ Bellet worked in various mediums throughout his career, with original oil painti
 The dimensions and compositional complexity of Bellet's work directly impact value:
 
 {{< interactive-modules/condition-checklist title="Value-Enhancing Elements in Bellet's Art" description="Features that typically increase a piece's value" >}}
-  {{< interactive-modules/checklist-item label="Larger dimensions (24\" x 36\" or greater)" / / />}}
-  {{< interactive-modules/checklist-item label="Multiple elegant female figures" / / />}}
-  {{< interactive-modules/checklist-item label="Inclusion of musical instruments or architectural elements" / / />}}
-  {{< interactive-modules/checklist-item label="Rich, vibrant color palette featuring blues and golds" / / />}}
-  {{< interactive-modules/checklist-item label="Complex, detailed backgrounds" / / />}}
+  {{< interactive-modules/checklist-item label="Larger dimensions (24\" x 36\" or greater)" / />}}
+  {{< interactive-modules/checklist-item label="Multiple elegant female figures" / />}}
+  {{< interactive-modules/checklist-item label="Inclusion of musical instruments or architectural elements" / />}}
+  {{< interactive-modules/checklist-item label="Rich, vibrant color palette featuring blues and golds" / />}}
+  {{< interactive-modules/checklist-item label="Complex, detailed backgrounds" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authenticity and Provenance

@@ -146,13 +146,13 @@ The value of a vintage 35mm camera isn't determined by age alone. In fact, many 
 Condition is perhaps the most significant factor in determining a camera's value. Cameras are typically graded on a scale from "Mint" to "Parts/Repair":
 
 {{< interactive-modules/condition-checklist title="Camera Condition Assessment Checklist" description="Use this checklist to evaluate your camera's condition" >}}
-  {{< interactive-modules/checklist-item label="Mint (90-100%): Appears new with no signs of use" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent Plus (80-89%): Nearly perfect with minimal signs of use" / / />}}
-  {{< interactive-modules/checklist-item label="Excellent (70-79%): Very clean with minor cosmetic wear but no operational issues" / / />}}
-  {{< interactive-modules/checklist-item label="Very Good (60-69%): Shows signs of use but functions properly" / / />}}
-  {{< interactive-modules/checklist-item label="Good (50-59%): Noticeable wear, may have minor issues but still functional" / / />}}
-  {{< interactive-modules/checklist-item label="Fair (40-49%): Heavy wear, may have functional issues that need repair" / / />}}
-  {{< interactive-modules/checklist-item label="Poor (below 40%): Significant issues, mainly useful for parts" / / />}}
+  {{< interactive-modules/checklist-item label="Mint (90-100%): Appears new with no signs of use" / />}}
+  {{< interactive-modules/checklist-item label="Excellent Plus (80-89%): Nearly perfect with minimal signs of use" / />}}
+  {{< interactive-modules/checklist-item label="Excellent (70-79%): Very clean with minor cosmetic wear but no operational issues" / />}}
+  {{< interactive-modules/checklist-item label="Very Good (60-69%): Shows signs of use but functions properly" / />}}
+  {{< interactive-modules/checklist-item label="Good (50-59%): Noticeable wear, may have minor issues but still functional" / />}}
+  {{< interactive-modules/checklist-item label="Fair (40-49%): Heavy wear, may have functional issues that need repair" / />}}
+  {{< interactive-modules/checklist-item label="Poor (below 40%): Significant issues, mainly useful for parts" / />}}
 {{< /interactive-modules/condition-checklist >}}
 
 The difference between mint and excellent condition can often represent a 30-50% price differential. Cameras in poor or non-working condition typically sell for parts value only, unless they are extremely rare.
