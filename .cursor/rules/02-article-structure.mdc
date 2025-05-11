@@ -1,0 +1,51 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Article Structure Guide
+
+Articles in this project follow a specific structure to ensure consistency and quality.
+
+## Directory Structure
+
+Each article has its own directory in [content/](mdc:content/) with the following structure:
+- `index.md` - The main article content with frontmatter
+- `perplexity-data.json` - Research data from Perplexity
+- `paa-data.json` - People Also Ask data
+- `serper-data.json` - Search result data
+- `images-data.json` - Image ideas and URLs
+
+Example: [content/value-of-art/](mdc:content/value-of-art/)
+
+## Article Frontmatter
+
+```yaml
+---
+title: "Article Title"
+description: "Brief description for SEO"
+date: 2025-01-01T10:00:00-04:00
+lastmod: 2025-01-01T10:00:00-04:00
+draft: false
+slug: "article-slug"
+categories: ["Category"]
+tags: ["tag1", "tag2"]
+keywords: ["keyword1", "keyword2"]
+---
+```
+
+## Common Article Sections
+
+1. Introduction
+2. Main content sections with appropriate headings
+3. FAQ section
+4. Image gallery
+5. Resource links
+
+## Content Creation Workflow
+
+1. Research data is collected in JSON files
+2. Article structure is planned based on research
+3. Content is written using appropriate shortcodes
+4. Images are added using the image gallery shortcode
+5. SEO metadata is optimized

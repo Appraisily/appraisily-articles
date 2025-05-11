@@ -1,0 +1,57 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Development and Deployment Guide
+
+This guide covers development workflow, scripts, and deployment process.
+
+## Development Environment
+
+Required tools:
+- Hugo v0.121.1+
+- Node.js
+- NPM
+
+## Key Commands
+
+```bash
+# Install dependencies
+npm install
+
+# Start local development server
+npm run dev
+
+# Generate a new article
+npm run generate -- "topic-or-keyword"
+
+# Generate all pending articles
+npm run generate:all
+
+# Build the site for production
+npm run build:simple
+```
+
+## Development Workflow
+
+1. Set up local environment by installing dependencies
+2. Start the development server with `npm run dev`
+3. Create new articles with AI generation or manual editing
+4. Test all changes locally before committing
+5. Use shortcode validation with `npm run validate`
+
+## Deployment
+
+The site is deployed on Netlify with continuous deployment from the main branch:
+
+- Configuration: [netlify.toml](mdc:netlify.toml)
+- Build command: `npm run build:simple`
+- No API keys needed in Netlify environment
+
+## Security Guidelines
+
+- Never commit API keys to the repository
+- Use environment variables for sensitive information
+- Copy `.env.example` to `.env` for local development
+- Use pre-commit hook to catch sensitive information: `cp pre-commit-hook .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit`

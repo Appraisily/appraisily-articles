@@ -1,0 +1,54 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Content Modules Guide
+
+Content modules are shortcodes that help structure and enhance article content.
+
+## Section Header Module
+
+Location: [layouts/shortcodes/content-modules/section-header.html](mdc:layouts/shortcodes/content-modules/section-header.html)
+
+Creates visually distinct section headers with optional icons and badges.
+
+```hugo
+{{< content-modules/section-header title="Section Title" level="2" icon="📷" badge="Expert Guide" >}}
+  Section description goes here.
+{{< /content-modules/section-header >}}
+```
+
+Parameters:
+- `title`: Header text (required)
+- `level`: Heading level - "2", "3", or "4" (default: "2")
+- `icon`: Optional icon to display
+- `badge`: Optional badge text
+- `id`: Custom ID for direct linking (default: slug of title)
+
+## FAQ Module
+
+Location: [layouts/shortcodes/content-modules/faq.html](mdc:layouts/shortcodes/content-modules/faq.html)
+
+Displays expandable question/answer pairs with schema.org markup.
+
+```hugo
+{{< content-modules/faq title="Common Questions" id="faq-section" >}}
+  {{< content-modules/faq-item question="Question text?" open="true" >}}
+    Answer text goes here.
+  {{< /content-modules/faq-item >}}
+  
+  {{< content-modules/faq-item question="Another question?" >}}
+    Another answer.
+  {{< /content-modules/faq-item >}}
+{{< /content-modules/faq >}}
+```
+
+Parameters for faq:
+- `title`: Heading for the FAQ section (default: "Frequently Asked Questions")
+- `id`: Custom ID for the section (default: "faq-section")
+- `schema`: Whether to include schema.org markup (default: "true")
+
+Parameters for faq-item:
+- `question`: Question text (required)
+- `open`: Whether the item should be initially expanded (default: "false")

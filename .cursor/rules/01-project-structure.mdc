@@ -1,0 +1,31 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Project Structure Overview
+
+This repository contains the Hugo site for Appraisily's article subdomain, featuring modular content generation with AI capabilities.
+
+## Key Directories
+
+- [content/](mdc:content/) - Contains all article content directories with Markdown files and research data
+- [layouts/](mdc:layouts/) - Contains HTML templates and shortcodes for rendering content
+  - [layouts/shortcodes/](mdc:layouts/shortcodes/) - Custom shortcodes for content modules
+  - [layouts/_default/](mdc:layouts/_default/) - Base templates for the site
+  - [layouts/partials/](mdc:layouts/partials/) - Reusable HTML components
+- [static/](mdc:static/) - Static assets like CSS, JavaScript, and images
+- [scripts/](mdc:scripts/) - Utility scripts for content generation and site management
+
+## Key Configuration Files
+
+- [config.toml](mdc:config.toml) - Main Hugo configuration file
+- [netlify.toml](mdc:netlify.toml) - Netlify deployment configuration
+- [package.json](mdc:package.json) - NPM package configuration with scripts for development
+
+## Documentation
+
+- [README.md](mdc:README.md) - Main project documentation
+- [ARTICLE-GUIDE.md](mdc:ARTICLE-GUIDE.md) - Guide for article creation and structure
+- [AI-MODULES.md](mdc:AI-MODULES.md) - Documentation for AI content generation modules
+- [SHORTCODES-GUIDE.md](mdc:SHORTCODES-GUIDE.md) - Guide for using shortcodes correctly

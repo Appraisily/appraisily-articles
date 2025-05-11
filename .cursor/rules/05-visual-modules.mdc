@@ -1,0 +1,70 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Visual Modules Guide
+
+Visual modules are shortcodes for adding images, timelines, and other visual elements to articles.
+
+## Hero Image Module
+
+Location: [layouts/shortcodes/visual-modules/hero-image.html](mdc:layouts/shortcodes/visual-modules/hero-image.html)
+
+Displays a large featured image with caption and optional credit.
+
+```hugo
+{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/article-path/image-name.png" alt="Image description" caption="Image caption text" credit="Photo: Appraisily Studio" width="full" >}}
+```
+
+Parameters:
+- `src`: Image URL (required)
+- `alt`: Alt text for accessibility (default: "Featured image")
+- `caption`: Optional caption text
+- `credit`: Optional credit line
+- `width`: Image width - "full", "wide", or "normal" (default: "full")
+
+## Timeline Module
+
+Location: [layouts/shortcodes/visual-modules/timeline.html](mdc:layouts/shortcodes/visual-modules/timeline.html)
+
+Creates an interactive timeline with chronological events.
+
+```hugo
+{{< visual-modules/timeline title="Historical Timeline" theme="alternating" >}}
+  {{< visual-modules/timeline-item date="1950s" title="Early Event" >}}
+    Description of the event.
+  {{< /visual-modules/timeline-item >}}
+  
+  {{< visual-modules/timeline-item date="1970s" title="Later Event" >}}
+    Description of the later event.
+  {{< /visual-modules/timeline-item >}}
+{{< /visual-modules/timeline >}}
+```
+
+Parameters for timeline:
+- `title`: Timeline title (default: "Timeline")
+- `theme`: Layout style - "default", "left", or "alternating" (default: "default")
+
+Parameters for timeline-item:
+- `date`: Time period or date (required)
+- `title`: Event title (required)
+- `icon`: Optional icon to display in timeline dot
+
+## Image Gallery Module
+
+Location: [layouts/shortcodes/image-gallery.html](mdc:layouts/shortcodes/image-gallery.html)
+
+Creates a responsive image gallery.
+
+```hugo
+{{< image-gallery >}}
+  {{< figure src="https://ik.imagekit.io/appraisily/SEO/article-path/image-1.png" title="Image 1 Title" >}}
+  {{< figure src="https://ik.imagekit.io/appraisily/SEO/article-path/image-2.png" title="Image 2 Title" >}}
+{{< /image-gallery >}}
+```
+
+Parameters for figure:
+- `src`: Image URL (required)
+- `title`: Image title for caption (optional)
+- `alt`: Alt text for accessibility (defaults to title if not specified)

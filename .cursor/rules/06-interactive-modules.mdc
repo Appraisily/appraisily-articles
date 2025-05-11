@@ -1,0 +1,86 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Interactive Modules Guide
+
+Interactive modules are shortcodes that provide user interaction in articles.
+
+## Resource Links Module
+
+Location: [layouts/shortcodes/interactive-modules/resource-links.html](mdc:layouts/shortcodes/interactive-modules/resource-links.html)
+
+Displays curated external resources with descriptions.
+
+```hugo
+{{< interactive-modules/resource-links title="Further Resources" columns="2" description="Explore these trusted sources" >}}
+  {{< interactive-modules/resource-card title="Resource Title" url="https://example.com" type="tool" >}}
+    Description of the resource.
+  {{< /interactive-modules/resource-card >}}
+  
+  {{< interactive-modules/resource-card title="Another Resource" url="https://example.com/article" type="article" >}}
+    Description of another resource.
+  {{< /interactive-modules/resource-card >}}
+{{< /interactive-modules/resource-links >}}
+```
+
+Parameters for resource-links:
+- `title`: Section title (default: "Useful Resources")
+- `columns`: Number of columns - "1", "2", or "3" (default: "2")
+- `description`: Optional description text
+
+Parameters for resource-card:
+- `title`: Resource title (required)
+- `url`: Resource URL (required)
+- `icon`: Optional icon
+- `type`: Resource type - "article", "video", "tool", or "guide" (default: "article")
+
+## Condition Checklist Module
+
+Location: [layouts/shortcodes/interactive-modules/condition-checklist.html](mdc:layouts/shortcodes/interactive-modules/condition-checklist.html)
+
+Interactive tool for assessing item condition with scoring.
+
+```hugo
+{{< interactive-modules/condition-checklist title="Condition Assessment Tool" description="Check all items that apply to estimate condition rating" >}}
+  {{< interactive-modules/checklist-item label="Item is fully functional" >}}
+    Detailed description of what this means.
+  {{< /interactive-modules/checklist-item >}}
+  
+  {{< interactive-modules/checklist-item label="No visible damage or wear" >}}
+    Detailed description of what to look for.
+  {{< /interactive-modules/checklist-item >}}
+{{< /interactive-modules/condition-checklist >}}
+```
+
+Parameters for condition-checklist:
+- `title`: Section title (default: "Condition Assessment Checklist")
+- `description`: Optional description text
+
+Parameters for checklist-item:
+- `label`: Item description (required)
+- `weight`: Relative importance weight (default: "1")
+
+## Auction Results Module
+
+Location: [layouts/shortcodes/auction-results.html](mdc:layouts/shortcodes/auction-results.html)
+
+Displays notable auction sales in a structured format.
+
+```hugo
+{{< auction-results title="Notable Auction Results" description="Recent high-value sales" >}}
+  {{< auction-item item="Antique Watch" price="$40,000" date="June 2024" auctionHouse="Christie's" >}}
+  {{< auction-item item="Vintage Camera" price="$3,200" date="May 2024" auctionHouse="eBay" >}}
+{{< /auction-results >}}
+```
+
+Parameters for auction-results:
+- `title`: Section title (default: "Auction Results")
+- `description`: Optional description text
+
+Parameters for auction-item:
+- `item`: Item name or description (required)
+- `price`: Sale price (required)
+- `date`: Sale date (required)
+- `auctionHouse`: Name of auction house or platform (required)

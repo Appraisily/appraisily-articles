@@ -1,0 +1,61 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Data Modules Guide
+
+Data modules are shortcodes for presenting structured data in articles.
+
+## Price Table Module
+
+Location: [layouts/shortcodes/data-modules/price-table.html](mdc:layouts/shortcodes/data-modules/price-table.html)
+
+Displays structured price data in a responsive table.
+
+```hugo
+{{< data-modules/price-table title="Price Ranges" description="Market values as of 2025" >}}
+  {{< data-modules/price-row category="Vintage Camera" range="$150 - $300" notes="Higher with original lens" highlight="true" >}}
+  {{< data-modules/price-row category="Antique Watch" range="$400 - $1,200" notes="Condition critical to value" >}}
+{{< /data-modules/price-table >}}
+```
+
+Parameters for price-table:
+- `title`: Table title (default: "Price Ranges")
+- `description`: Optional description text
+- `columns`: Comma-separated list of column keys (default: "category,range,notes")
+- `columnTitles`: Comma-separated list of column headings (default: "Category,Price Range,Notes")
+
+Parameters for price-row:
+- `category`: Item category or name (required for default columns)
+- `range`: Price range (required for default columns)
+- `notes`: Additional information (optional for default columns)
+- `highlight`: Whether to highlight the row (default: "false")
+
+## Stats Highlight Module
+
+Location: [layouts/shortcodes/data-modules/stats-highlight.html](mdc:layouts/shortcodes/data-modules/stats-highlight.html)
+
+Displays key statistics in visually appealing cards.
+
+```hugo
+{{< data-modules/stats-highlight title="Market Statistics" columns="3" >}}
+  {{< data-modules/stat-card value="287%" label="Value Growth" color="green" >}}
+    Average appreciation since 2020
+  {{< /data-modules/stat-card >}}
+  
+  {{< data-modules/stat-card value="$12.5M" label="Auction Record" color="blue" >}}
+    Highest price ever paid
+  {{< /data-modules/stat-card >}}
+{{< /data-modules/stats-highlight >}}
+```
+
+Parameters for stats-highlight:
+- `title`: Section title (optional)
+- `columns`: Number of columns - "2", "3", or "4" (default: "3")
+
+Parameters for stat-card:
+- `value`: The statistic to highlight (required)
+- `label`: Description label (required)
+- `icon`: Optional icon to display
+- `color`: Color theme - "blue", "green", "red", "purple", "orange" (default: "blue")
