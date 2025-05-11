@@ -117,7 +117,7 @@ With a 4.2-star rating based on client reviews, Roth Art Group has built a reput
 
 ![Art appraisal expert examining the authenticity of a painting](https://ik.imagekit.io/appraisily/SEO/roth-fine-art-appraisals/roth-fine-art-appraisals-image-2_cFvgBaihC.png)
 
-{{< data-modules/stats-highlight title="Roth Art Group at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Roth Art Group at a Glance" columns="3" / /  >}}
 <div class="stat-card">
   <div class="stat-value">4.2/5</div>
   <div class="stat-label">Client Rating</div>
@@ -252,13 +252,13 @@ The final step is creating a comprehensive appraisal report that includes:
 According to the [Risk Strategies blog](https://www.risk-strategies.com/blog/tips-for-obtaining-a-fine-art-collection-appraisal-debunking-appraisal-myths), professional appraisers like Roth typically charge between $125-$350 per hour, with final costs depending on collection size and complexity.
 
 {{< interactive-modules/condition-checklist title="Art Appraisal Preparation Checklist" description="Items to prepare before your appointment with a Roth Art Group appraiser" >}}
-  {{< interactive-modules/checklist-item label="Gather any existing documentation on provenance" / />}}
-  {{< interactive-modules/checklist-item label="Collect purchase receipts or previous appraisals" / />}}
-  {{< interactive-modules/checklist-item label="Remove artwork from walls for easier examination" / />}}
-  {{< interactive-modules/checklist-item label="Prepare a list of questions or concerns" / />}}
-  {{< interactive-modules/checklist-item label="Clean glass or plexiglass coverings (but not the artwork itself)" / />}}
-  {{< interactive-modules/checklist-item label="Ensure adequate lighting in the examination area" / />}}
-  {{< interactive-modules/checklist-item label="Have information about artists if known" / />}}
+  {{< interactive-modules/checklist-item label="Gather any existing documentation on provenance" /  >}}
+  {{< interactive-modules/checklist-item label="Collect purchase receipts or previous appraisals" /  >}}
+  {{< interactive-modules/checklist-item label="Remove artwork from walls for easier examination" /  >}}
+  {{< interactive-modules/checklist-item label="Prepare a list of questions or concerns" /  >}}
+  {{< interactive-modules/checklist-item label="Clean glass or plexiglass coverings (but not the artwork itself)" /  >}}
+  {{< interactive-modules/checklist-item label="Ensure adequate lighting in the examination area" /  >}}
+  {{< interactive-modules/checklist-item label="Have information about artists if known" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Qualifications and Expertise" level="2" >}}

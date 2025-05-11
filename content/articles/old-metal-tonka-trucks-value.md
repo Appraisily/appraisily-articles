@@ -98,7 +98,7 @@ For generations, Tonka trucks have been beloved playthings, known for their dura
 
 Introduced in 1947 by Mound Metalcraft (later renamed Tonka Toys), these iconic toys were built to last with pressed steel construction that could withstand years of rough play. Many collectors fondly remember these indestructible trucks from their childhood, which partly explains their current appeal in the collectibles market.
 
-{{< data-modules/stats-highlight title="Vintage Tonka Truck Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Tonka Truck Market Highlights" columns="3" / /  >}}
   <div class="stat-card">
     <div class="stat-value" style="color: #e67e22;">$2,000+</div>
     <div class="stat-label">Rare Models</div>
@@ -134,12 +134,12 @@ When assessing old metal Tonka trucks, collectors typically use a condition scal
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Tonka Truck Condition Assessment" description="Check applicable items to determine your truck's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Mint: No visible wear, original paint intact, no rust, all original parts present" / />}}
-  {{< interactive-modules/checklist-item label="Excellent: Minimal play wear, 90%+ original paint, no significant rust, all parts present" / />}}
-  {{< interactive-modules/checklist-item label="Very Good: Light play wear, minor paint chips, slight rust possible, all important parts present" / />}}
-  {{< interactive-modules/checklist-item label="Good: Noticeable play wear, paint chips or fading, some rust may be present, minor parts may be missing" / />}}
-  {{< interactive-modules/checklist-item label="Fair: Significant wear, considerable paint loss, rust present, parts missing" / />}}
-  {{< interactive-modules/checklist-item label="Poor: Heavy wear, extensive rust, major paint loss, significant parts missing" / />}}
+  {{< interactive-modules/checklist-item label="Mint: No visible wear, original paint intact, no rust, all original parts present" /  >}}
+  {{< interactive-modules/checklist-item label="Excellent: Minimal play wear, 90%+ original paint, no significant rust, all parts present" /  >}}
+  {{< interactive-modules/checklist-item label="Very Good: Light play wear, minor paint chips, slight rust possible, all important parts present" /  >}}
+  {{< interactive-modules/checklist-item label="Good: Noticeable play wear, paint chips or fading, some rust may be present, minor parts may be missing" /  >}}
+  {{< interactive-modules/checklist-item label="Fair: Significant wear, considerable paint loss, rust present, parts missing" /  >}}
+  {{< interactive-modules/checklist-item label="Poor: Heavy wear, extensive rust, major paint loss, significant parts missing" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Original Packaging

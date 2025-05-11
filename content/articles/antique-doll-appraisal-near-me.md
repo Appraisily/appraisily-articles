@@ -172,7 +172,7 @@ When searching for local options, consider these approaches:
 - Inquire at local auction houses that handle estates
 - Contact historical societies that may know local experts
 
-{{< data-modules/stats-highlight title="Antique Doll Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Doll Market Insights" columns="3" / /  >}}
 
 ## Online Appraisal Services for Antique Dolls
 
@@ -228,14 +228,14 @@ A thorough antique doll appraisal typically includes:
 - Any maker's marks or labels you've noticed
 
 {{< interactive-modules/condition-checklist title="Doll Condition Assessment Checklist" description="Factors that affect an antique doll's condition rating" >}}
-  {{< interactive-modules/checklist-item label="No cracks or hairlines in porcelain/bisque" / />}}
-  {{< interactive-modules/checklist-item label="Original wig and hair in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Eyes function properly (sleeping eyes work)" / />}}
-  {{< interactive-modules/checklist-item label="Original clothing and accessories present" / />}}
-  {{< interactive-modules/checklist-item label="Body joints are tight and functional" / />}}
-  {{< interactive-modules/checklist-item label="No significant paint wear or loss" / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate repairs or restorations" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging preserved" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or hairlines in porcelain/bisque" /  >}}
+  {{< interactive-modules/checklist-item label="Original wig and hair in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Eyes function properly (sleeping eyes work)" /  >}}
+  {{< interactive-modules/checklist-item label="Original clothing and accessories present" /  >}}
+  {{< interactive-modules/checklist-item label="Body joints are tight and functional" /  >}}
+  {{< interactive-modules/checklist-item label="No significant paint wear or loss" /  >}}
+  {{< interactive-modules/checklist-item label="No inappropriate repairs or restorations" /  >}}
+  {{< interactive-modules/checklist-item label="Original box or packaging preserved" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Key Factors That Determine Antique Doll Value

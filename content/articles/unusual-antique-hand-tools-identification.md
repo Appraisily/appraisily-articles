@@ -46,7 +46,7 @@ For collectors, the appeal lies in several key factors:
 
 Collectors often focus on specific categories like woodworking, blacksmithing, leatherworking, or agricultural implements. Others seek tools from particular regions, time periods, or manufacturers. Whatever your interest, learning to identify unusual specimens is the first step toward building a meaningful collection.
 
-{{< data-modules/stats-highlight title="Antique Tool Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Tool Market Highlights" columns="3" / /  >}}
 <div class="stat-card">
   <span class="stat-value">300%</span>
   <span class="stat-label">Value increase</span>
@@ -106,14 +106,14 @@ Understanding a tool's function is essential for proper identification:
 - **Wear Patterns**: How a tool has worn over time can suggest how it was used.
 
 {{< interactive-modules/condition-checklist title="Antique Tool Inspection Checklist" description="Examine your unusual antique tool for these important identification markers" >}}
-  {{< interactive-modules/checklist-item label="Check metal surfaces for maker's marks, logos, or patent information" / />}}
-  {{< interactive-modules/checklist-item label="Examine wooden handles for manufacturer stamps or decals" / />}}
-  {{< interactive-modules/checklist-item label="Look for patent dates or numbers (often preceded by 'PAT.' or 'PATD.')" / />}}
-  {{< interactive-modules/checklist-item label="Identify primary materials (type of wood, metal composition)" / />}}
-  {{< interactive-modules/checklist-item label="Note construction methods (hand-forged, cast, machined)" / />}}
-  {{< interactive-modules/checklist-item label="Assess overall condition and authenticity of patina" / />}}
-  {{< interactive-modules/checklist-item label="Measure the tool and document any unique features" / />}}
-  {{< interactive-modules/checklist-item label="Photograph from multiple angles including any markings" / />}}
+  {{< interactive-modules/checklist-item label="Check metal surfaces for maker's marks, logos, or patent information" /  >}}
+  {{< interactive-modules/checklist-item label="Examine wooden handles for manufacturer stamps or decals" /  >}}
+  {{< interactive-modules/checklist-item label="Look for patent dates or numbers (often preceded by 'PAT.' or 'PATD.')" /  >}}
+  {{< interactive-modules/checklist-item label="Identify primary materials (type of wood, metal composition)" /  >}}
+  {{< interactive-modules/checklist-item label="Note construction methods (hand-forged, cast, machined)" /  >}}
+  {{< interactive-modules/checklist-item label="Assess overall condition and authenticity of patina" /  >}}
+  {{< interactive-modules/checklist-item label="Measure the tool and document any unique features" /  >}}
+  {{< interactive-modules/checklist-item label="Photograph from multiple angles including any markings" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Categories of Unusual Antique Hand Tools" level="2" >}}

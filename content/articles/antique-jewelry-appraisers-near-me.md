@@ -117,7 +117,7 @@ Whether you've inherited a family heirloom, discovered a vintage piece at an est
 
 Antique jewelry appraisals differ significantly from modern jewelry valuations. These pieces often carry historical significance, craftsmanship techniques that are no longer practiced, and materials that may be rare or unavailable today. A specialized antique jewelry appraiser possesses the expertise to recognize these unique characteristics and assess their impact on value.
 
-{{< data-modules/stats-highlight title="Key Jewelry Appraisal Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Jewelry Appraisal Facts" columns="3" / /  >}}
 <tr>
   <td>Standard Appraisal Costs</td>
   <td>$50-$150</td>
@@ -273,14 +273,14 @@ A comprehensive antique jewelry appraisal typically includes:
 8. **Value Assignment**: Determination of appropriate value based on appraisal purpose
 
 {{< interactive-modules/condition-checklist title="Antique Jewelry Pre-Appraisal Checklist" description="Items to prepare before meeting with an appraiser" >}}
-  {{< interactive-modules/checklist-item label="Clean jewelry gently without polishing" / />}}
-  {{< interactive-modules/checklist-item label="Gather any existing documentation" / />}}
-  {{< interactive-modules/checklist-item label="Note any known history or provenance" / />}}
-  {{< interactive-modules/checklist-item label="List any repairs or modifications" / />}}
-  {{< interactive-modules/checklist-item label="Photograph each piece (optional)" / />}}
-  {{< interactive-modules/checklist-item label="Prepare questions for the appraiser" / />}}
-  {{< interactive-modules/checklist-item label="Check appraiser's credentials" / />}}
-  {{< interactive-modules/checklist-item label="Understand the fee structure" / />}}
+  {{< interactive-modules/checklist-item label="Clean jewelry gently without polishing" /  >}}
+  {{< interactive-modules/checklist-item label="Gather any existing documentation" /  >}}
+  {{< interactive-modules/checklist-item label="Note any known history or provenance" /  >}}
+  {{< interactive-modules/checklist-item label="List any repairs or modifications" /  >}}
+  {{< interactive-modules/checklist-item label="Photograph each piece (optional)" /  >}}
+  {{< interactive-modules/checklist-item label="Prepare questions for the appraiser" /  >}}
+  {{< interactive-modules/checklist-item label="Check appraiser's credentials" /  >}}
+  {{< interactive-modules/checklist-item label="Understand the fee structure" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Different Types of Antique Jewelry Appraisals" level="2" >}}

@@ -98,7 +98,7 @@ As a pivotal year in American coinage history, 1964 Jefferson nickels are common
 
 ![1964 Jefferson Nickel obverse and reverse showing Monticello and Jefferson portrait](https://ik.imagekit.io/appraisily/SEO/how-much-is-1964-nickel-worth/how-much-is-1964-nickel-worth-image-1_kWOoR2sbD.png)
 
-{{< data-modules/stats-highlight title="1964 Nickel Valuation at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="1964 Nickel Valuation at a Glance" columns="3" / /  >}}
 
 <tr>
   <td>Circulated Condition</td>
@@ -226,12 +226,12 @@ Coins are graded on a scale from 1 to 70, with 70 being a perfect specimen:
 - **60-70 (Mint State)**: No wear from circulation, categorized by the number and severity of contact marks and eye appeal
 
 {{< interactive-modules/condition-checklist title="1964 Nickel Condition Assessment" description="Check these characteristics to help determine your coin's grade" >}}
-  {{< interactive-modules/checklist-item label="No visible wear on Jefferson's hair or cheek" / />}}
-  {{< interactive-modules/checklist-item label="Full luster across the entire coin surface" / />}}
-  {{< interactive-modules/checklist-item label="No significant contact marks or scratches" / />}}
-  {{< interactive-modules/checklist-item label="Clear steps visible on Monticello (for Full Steps designation)" / />}}
-  {{< interactive-modules/checklist-item label="Sharp, well-defined rim without wear" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration, spotting, or toning" / />}}
+  {{< interactive-modules/checklist-item label="No visible wear on Jefferson's hair or cheek" /  >}}
+  {{< interactive-modules/checklist-item label="Full luster across the entire coin surface" /  >}}
+  {{< interactive-modules/checklist-item label="No significant contact marks or scratches" /  >}}
+  {{< interactive-modules/checklist-item label="Clear steps visible on Monticello (for Full Steps designation)" /  >}}
+  {{< interactive-modules/checklist-item label="Sharp, well-defined rim without wear" /  >}}
+  {{< interactive-modules/checklist-item label="No discoloration, spotting, or toning" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### The Importance of "Full Steps"

@@ -118,7 +118,7 @@ Have you ever wondered about the true value of a family heirloom or a curious fi
 
 In this comprehensive guide, we'll explore the world of free online antique appraisals, including where to find reliable services, how to prepare your items for evaluation, and what to expect from the process. Whether you're a seasoned collector or simply curious about a potential hidden treasure, this article will provide you with the knowledge and resources needed to navigate the digital appraisal landscape effectively.
 
-{{< data-modules/stats-highlight title="Online Appraisal Industry Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Online Appraisal Industry Facts" columns="3" / /  >}}
 
 - **78%** of initial antique valuations now happen online
 - **5-7 days** average response time for free online appraisals
@@ -176,12 +176,12 @@ The quality of information you provide directly impacts the accuracy of your onl
 Quality images are crucial for accurate online appraisals. Experts need to see details that might influence an item's value, such as maker's marks, condition issues, and distinctive features.
 
 {{< interactive-modules/condition-checklist title="Photography Checklist for Online Appraisals" description="Follow these guidelines for optimal appraisal photos:" >}}
-  {{< interactive-modules/checklist-item label="Use natural light without flash to avoid glare" / />}}
-  {{< interactive-modules/checklist-item label="Include multiple angles (front, back, sides, bottom)" / />}}
-  {{< interactive-modules/checklist-item label="Capture any signatures, marks, or labels in close-up" / />}}
-  {{< interactive-modules/checklist-item label="Show scale with a ruler or common object" / />}}
-  {{< interactive-modules/checklist-item label="Photograph any damage or wear clearly" / />}}
-  {{< interactive-modules/checklist-item label="Take photos against a plain, contrasting background" / />}}
+  {{< interactive-modules/checklist-item label="Use natural light without flash to avoid glare" /  >}}
+  {{< interactive-modules/checklist-item label="Include multiple angles (front, back, sides, bottom)" /  >}}
+  {{< interactive-modules/checklist-item label="Capture any signatures, marks, or labels in close-up" /  >}}
+  {{< interactive-modules/checklist-item label="Show scale with a ruler or common object" /  >}}
+  {{< interactive-modules/checklist-item label="Photograph any damage or wear clearly" /  >}}
+  {{< interactive-modules/checklist-item label="Take photos against a plain, contrasting background" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Providing Detailed Descriptions

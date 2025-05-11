@@ -91,7 +91,7 @@ Before refrigeration and commercial dairy production, families relied on butter 
 
 ![Traditional antique butter churn crock with wooden dasher and lid](https://ik.imagekit.io/appraisily/SEO/antique-butter-churn-crock-value/antique-butter-churn-crock-value-image-1_VUkSIHB1u.png)
 
-{{< data-modules/stats-highlight title="Antique Butter Churn Crock Market Snapshot" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Butter Churn Crock Market Snapshot" columns="3" / /  >}}
 <tr>
   <td>Average Value Range</td>
   <td>$25 - $500+</td>
@@ -212,14 +212,14 @@ Decorative elements can significantly increase a butter churn crock's value:
 Perhaps the most critical factor in determining value is the condition:
 
 {{< interactive-modules/condition-checklist title="Butter Churn Crock Condition Checklist" description="Check all applicable conditions to gauge your churn's value potential" >}}
-  {{< interactive-modules/checklist-item label="No cracks or chips in the stoneware body" / />}}
-  {{< interactive-modules/checklist-item label="Original wooden dasher present and intact" / />}}
-  {{< interactive-modules/checklist-item label="Original lid in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible maker's marks visible" / />}}
-  {{< interactive-modules/checklist-item label="No significant crazing in the glaze" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
-  {{< interactive-modules/checklist-item label="Original decorative elements well-preserved" / />}}
-  {{< interactive-modules/checklist-item label="Complete mechanical components if applicable" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or chips in the stoneware body" /  >}}
+  {{< interactive-modules/checklist-item label="Original wooden dasher present and intact" /  >}}
+  {{< interactive-modules/checklist-item label="Original lid in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, legible maker's marks visible" /  >}}
+  {{< interactive-modules/checklist-item label="No significant crazing in the glaze" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" /  >}}
+  {{< interactive-modules/checklist-item label="Original decorative elements well-preserved" /  >}}
+  {{< interactive-modules/checklist-item label="Complete mechanical components if applicable" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness and Original Components

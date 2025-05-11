@@ -132,7 +132,7 @@ A proper coin appraisal is more than just satisfying curiosity about what your c
 
 5. **Educational Value**: The appraisal process can teach you more about your collection's historical significance and numismatic importance.
 
-{{< data-modules/stats-highlight title="Coin Appraisal Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Coin Appraisal Facts" columns="3" / /  >}}
   <div class="stat-card blue">
     <span class="stat-value">10-30%</span>
     <span class="stat-label">Value Increase</span>
@@ -176,12 +176,12 @@ Create a detailed inventory of your collection, including:
 ### Proper Handling and Storage
 
 {{< interactive-modules/condition-checklist title="Coin Handling Best Practices" description="Follow these guidelines when preparing coins for appraisal" >}}
-  {{< interactive-modules/checklist-item label="Hold coins by their edges only" / />}}
-  {{< interactive-modules/checklist-item label="Use cotton gloves when handling valuable specimens" / />}}
-  {{< interactive-modules/checklist-item label="Store coins in proper holders (not PVC flips)" / />}}
-  {{< interactive-modules/checklist-item label="Avoid cleaning coins before appraisal" / />}}
-  {{< interactive-modules/checklist-item label="Keep coins in a controlled environment" / />}}
-  {{< interactive-modules/checklist-item label="Take clear, high-resolution photos of both sides" / />}}
+  {{< interactive-modules/checklist-item label="Hold coins by their edges only" /  >}}
+  {{< interactive-modules/checklist-item label="Use cotton gloves when handling valuable specimens" /  >}}
+  {{< interactive-modules/checklist-item label="Store coins in proper holders (not PVC flips)" /  >}}
+  {{< interactive-modules/checklist-item label="Avoid cleaning coins before appraisal" /  >}}
+  {{< interactive-modules/checklist-item label="Keep coins in a controlled environment" /  >}}
+  {{< interactive-modules/checklist-item label="Take clear, high-resolution photos of both sides" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### What Not to Do
@@ -363,13 +363,13 @@ This helps the appraiser provide the most appropriate valuation for your needs.
 ### Questions to Ask Appraisers
 
 {{< interactive-modules/condition-checklist title="Key Questions for Coin Appraisers" description="Ask these questions to ensure a thorough appraisal" >}}
-  {{< interactive-modules/checklist-item label="What are your qualifications and experience with this type of coin?" / />}}
-  {{< interactive-modules/checklist-item label="How do you determine the grade/condition of coins?" / />}}
-  {{< interactive-modules/checklist-item label="What reference materials or databases do you use?" / />}}
-  {{< interactive-modules/checklist-item label="Can you provide a written appraisal with detailed descriptions?" / />}}
-  {{< interactive-modules/checklist-item label="What is your fee structure?" / />}}
-  {{< interactive-modules/checklist-item label="Do you buy coins or work exclusively as an appraiser?" / />}}
-  {{< interactive-modules/checklist-item label="For valuable items, would you recommend certification?" / />}}
+  {{< interactive-modules/checklist-item label="What are your qualifications and experience with this type of coin?" /  >}}
+  {{< interactive-modules/checklist-item label="How do you determine the grade/condition of coins?" /  >}}
+  {{< interactive-modules/checklist-item label="What reference materials or databases do you use?" /  >}}
+  {{< interactive-modules/checklist-item label="Can you provide a written appraisal with detailed descriptions?" /  >}}
+  {{< interactive-modules/checklist-item label="What is your fee structure?" /  >}}
+  {{< interactive-modules/checklist-item label="Do you buy coins or work exclusively as an appraiser?" /  >}}
+  {{< interactive-modules/checklist-item label="For valuable items, would you recommend certification?" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Avoiding Common Appraisal Pitfalls

@@ -184,20 +184,20 @@ According to [GoCollect's price guide](https://gocollect.com/magazines/series/pl
 
 When assessing the value of your vintage Playboy magazines, several key factors can significantly impact their worth:
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / /  >}}
 
 ### 1. Condition
 
 The physical condition of a magazine is perhaps the most critical factor affecting its value. Serious collectors use grading terminology similar to comic books:
 
 {{< interactive-modules/condition-checklist title="Playboy Condition Assessment" description="Check applicable items to determine your magazine's condition category" >}}
-  {{< interactive-modules/checklist-item label="Cover is intact with no tears, creases, or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Spine is straight with no breaks or significant wear" / />}}
-  {{< interactive-modules/checklist-item label="Pages are bright, clean, and complete with no markings" / />}}
-  {{< interactive-modules/checklist-item label="Centerfold is intact and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="No mildew, water damage, or odors present" / />}}
-  {{< interactive-modules/checklist-item label="Original inserts and supplements are present" / />}}
-  {{< interactive-modules/checklist-item label="Magazine has been stored flat, not rolled" / />}}
+  {{< interactive-modules/checklist-item label="Cover is intact with no tears, creases, or discoloration" /  >}}
+  {{< interactive-modules/checklist-item label="Spine is straight with no breaks or significant wear" /  >}}
+  {{< interactive-modules/checklist-item label="Pages are bright, clean, and complete with no markings" /  >}}
+  {{< interactive-modules/checklist-item label="Centerfold is intact and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="No mildew, water damage, or odors present" /  >}}
+  {{< interactive-modules/checklist-item label="Original inserts and supplements are present" /  >}}
+  {{< interactive-modules/checklist-item label="Magazine has been stored flat, not rolled" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 2. Rarity & Demand

@@ -149,7 +149,7 @@ Named after the popular New York resort, Saratoga trunks were high-end travel pi
 - Often covered with canvas and decorated with metal studs in patterns
 - Elaborately designed interiors with multiple compartments
 
-{{< data-modules/stats-highlight title="Antique Trunk Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Trunk Market Insights" columns="3" / /  >}}
 
 <tr>
   <td>Original Louis Vuitton Trunks</td>
@@ -216,14 +216,14 @@ The inside of a trunk can provide valuable dating clues:
 - **1920s-1940s**: Specialized compartments, hangers, and luxury features
 
 {{< interactive-modules/condition-checklist title="Antique Trunk Authentication Checklist" description="Use this checklist to help determine if your trunk is truly antique and to assess its condition" >}}
-  {{< interactive-modules/checklist-item label="Hardware shows appropriate age patina, not artificially distressed" / />}}
-  {{< interactive-modules/checklist-item label="Interior paper or fabric appears period-appropriate" / />}}
-  {{< interactive-modules/checklist-item label="Wood components show genuine aging consistent with claimed period" / />}}
-  {{< interactive-modules/checklist-item label="Construction methods match the time period" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's label or mark is present and authentic" / />}}
-  {{< interactive-modules/checklist-item label="Any patent dates match the trunk's style and features" / />}}
-  {{< interactive-modules/checklist-item label="No modern materials or techniques visible in construction or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Size and proportions are consistent with claimed trunk type" / />}}
+  {{< interactive-modules/checklist-item label="Hardware shows appropriate age patina, not artificially distressed" /  >}}
+  {{< interactive-modules/checklist-item label="Interior paper or fabric appears period-appropriate" /  >}}
+  {{< interactive-modules/checklist-item label="Wood components show genuine aging consistent with claimed period" /  >}}
+  {{< interactive-modules/checklist-item label="Construction methods match the time period" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturer's label or mark is present and authentic" /  >}}
+  {{< interactive-modules/checklist-item label="Any patent dates match the trunk's style and features" /  >}}
+  {{< interactive-modules/checklist-item label="No modern materials or techniques visible in construction or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Size and proportions are consistent with claimed trunk type" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Trunk Manufacturers" level="2" >}}

@@ -126,7 +126,7 @@ When determining the value of an old Timex watch, several factors come into play
 
 ![Vintage gold-plated Timex Marlin automatic watch from the 1970s on leather strap](https://ik.imagekit.io/appraisily/SEO/old-timex-watches-value/old-timex-watches-value-image-2_fGCeEDncr.png)
 
-{{< data-modules/stats-highlight title="Key Factors Affecting Timex Watch Values" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Factors Affecting Timex Watch Values" columns="3" / /  >}}
 
 1. **Age and Rarity** - Older models, limited editions, and discontinued designs typically command higher prices.
 
@@ -260,15 +260,15 @@ Vintage Timex cases were typically made from:
 Case material affects both value and identification, with solid stainless steel or gold-plated models generally commanding higher prices.
 
 {{< interactive-modules/condition-checklist title="Vintage Timex Condition Assessment" description="Check all that apply to evaluate your vintage Timex watch condition" >}}
-  {{< interactive-modules/checklist-item label="Watch is running and keeping accurate time" / />}}
-  {{< interactive-modules/checklist-item label="Dial is clean with no fading, staining, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Case shows minimal wear with intact plating" / />}}
-  {{< interactive-modules/checklist-item label="Crystal is clear without significant scratches or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Original crown is present and functioning" / />}}
-  {{< interactive-modules/checklist-item label="Watch has original hands and markers" / />}}
-  {{< interactive-modules/checklist-item label="Water resistance gaskets are intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original strap or bracelet is present" / />}}
-  {{< interactive-modules/checklist-item label="Watch includes original box and papers" / />}}
+  {{< interactive-modules/checklist-item label="Watch is running and keeping accurate time" /  >}}
+  {{< interactive-modules/checklist-item label="Dial is clean with no fading, staining, or damage" /  >}}
+  {{< interactive-modules/checklist-item label="Case shows minimal wear with intact plating" /  >}}
+  {{< interactive-modules/checklist-item label="Crystal is clear without significant scratches or cracks" /  >}}
+  {{< interactive-modules/checklist-item label="Original crown is present and functioning" /  >}}
+  {{< interactive-modules/checklist-item label="Watch has original hands and markers" /  >}}
+  {{< interactive-modules/checklist-item label="Water resistance gaskets are intact (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Original strap or bracelet is present" /  >}}
+  {{< interactive-modules/checklist-item label="Watch includes original box and papers" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Timex Watch Features" level="2" >}}

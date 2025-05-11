@@ -84,7 +84,7 @@ Antique safes have captivated collectors and interior designers alike with their
 
 In this comprehensive guide, we'll explore how to identify valuable antique safes, understand their historical context, and determine their current market value. Whether you've inherited a family heirloom, discovered an old safe in a building renovation, or are actively collecting these historical treasures, this article will provide you with the knowledge needed to appreciate and accurately assess their worth.
 
-{{< data-modules/stats-highlight title="Antique Safe Market at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Safe Market at a Glance" columns="3" / /  >}}
   <tr>
     <td>Most Valuable Makers</td>
     <td>Mosler, Diebold, Yale</td>
@@ -168,12 +168,12 @@ When examining an antique safe, always look for:
 These identifying features can help establish authenticity, age, and potentially increase value for collectors seeking specific makers or models.
 
 {{< interactive-modules/condition-checklist title="Identification Checklist for Antique Safes" description="Use this checklist to thoroughly document your antique safe's identifying features" >}}
-  {{< interactive-modules/checklist-item label="Locate and photograph manufacturer's nameplate" / />}}
-  {{< interactive-modules/checklist-item label="Record all patent dates and serial numbers" / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions (height, width, depth)" / />}}
-  {{< interactive-modules/checklist-item label="Note lock type (key, combination, time lock)" / />}}
-  {{< interactive-modules/checklist-item label="Document decorative elements (paintings, gilt work)" / />}}
-  {{< interactive-modules/checklist-item label="Check for original interior components" / />}}
+  {{< interactive-modules/checklist-item label="Locate and photograph manufacturer's nameplate" /  >}}
+  {{< interactive-modules/checklist-item label="Record all patent dates and serial numbers" /  >}}
+  {{< interactive-modules/checklist-item label="Measure dimensions (height, width, depth)" /  >}}
+  {{< interactive-modules/checklist-item label="Note lock type (key, combination, time lock)" /  >}}
+  {{< interactive-modules/checklist-item label="Document decorative elements (paintings, gilt work)" /  >}}
+  {{< interactive-modules/checklist-item label="Check for original interior components" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Antique safe with detailed manufacturer markings and decorations](https://ik.imagekit.io/appraisily/SEO/value-antique-safes/value-antique-safes-image-3__DcRXKA_J.png)

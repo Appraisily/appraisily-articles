@@ -126,7 +126,7 @@ According to research from the Tool Care Hire historical archive, the digging st
 
 The composition of garden tools changed significantly throughout history, with certain materials being characteristic of specific periods:
 
-{{< data-modules/stats-highlight title="Common Materials in Antique Garden Tools" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Common Materials in Antique Garden Tools" columns="3" / /  >}}
 
 **Wood**: Early handles were typically made from hardwoods like ash, hickory, or oak. Look for natural patina, hand-carved details, or evidence of handcrafting like tool marks.
 
@@ -231,14 +231,14 @@ Antique garden tools fall into several categories based on their function. Each 
 The condition of an antique garden tool significantly impacts its value. Here's what to look for when assessing garden tool condition:
 
 {{< interactive-modules/condition-checklist title="Antique Garden Tool Condition Assessment" description="Evaluate each aspect when determining quality and authenticity" >}}
-  {{< interactive-modules/checklist-item label="Original handles and fittings present" / />}}
-  {{< interactive-modules/checklist-item label="Tool shows appropriate age-related wear" / />}}
-  {{< interactive-modules/checklist-item label="No modern repairs or replacements" / />}}
-  {{< interactive-modules/checklist-item label="Visible maker's marks or manufacturer stamps" / />}}
-  {{< interactive-modules/checklist-item label="Material composition matches the purported era" / />}}
-  {{< interactive-modules/checklist-item label="Patina consistent with natural aging" / />}}
-  {{< interactive-modules/checklist-item label="No excessive rust or degradation" / />}}
-  {{< interactive-modules/checklist-item label="Moving parts (if applicable) still function" / />}}
+  {{< interactive-modules/checklist-item label="Original handles and fittings present" /  >}}
+  {{< interactive-modules/checklist-item label="Tool shows appropriate age-related wear" /  >}}
+  {{< interactive-modules/checklist-item label="No modern repairs or replacements" /  >}}
+  {{< interactive-modules/checklist-item label="Visible maker's marks or manufacturer stamps" /  >}}
+  {{< interactive-modules/checklist-item label="Material composition matches the purported era" /  >}}
+  {{< interactive-modules/checklist-item label="Patina consistent with natural aging" /  >}}
+  {{< interactive-modules/checklist-item label="No excessive rust or degradation" /  >}}
+  {{< interactive-modules/checklist-item label="Moving parts (if applicable) still function" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Spotting Reproductions
@@ -289,7 +289,7 @@ According to William Schiffer's book "Antique Garden Tools and Accessories," som
 
 Several key factors influence the value of antique garden tools:
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / /  >}}
 
 **Age**: Generally, older tools (pre-1900) are more valuable than later examples, especially those from the Victorian era.
 

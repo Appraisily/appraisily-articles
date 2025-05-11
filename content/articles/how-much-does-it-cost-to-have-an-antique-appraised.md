@@ -121,7 +121,7 @@ Antique appraisal costs vary widely based on several factors, but understanding 
 
 According to industry data, antique appraisal services typically charge using one of three methods:
 
-{{< data-modules/stats-highlight title="Common Antique Appraisal Fee Structures" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Common Antique Appraisal Fee Structures" columns="3" / /  >}}
 
 ### Hourly Rates
 
@@ -172,11 +172,11 @@ Professional appraisers with specialized knowledge in specific categories (like 
 The intended use of your appraisal affects its complexity and cost:
 
 {{< interactive-modules/condition-checklist title="Appraisal Types and Their Relative Costs" description="Different appraisal purposes require varying levels of documentation and expertise" >}}
-  {{< interactive-modules/checklist-item label="Fair Market Value (for selling): Lowest cost level" / />}}
-  {{< interactive-modules/checklist-item label="Insurance Appraisal: Moderate cost level" / />}}
-  {{< interactive-modules/checklist-item label="Estate Tax/Inheritance Appraisal: Higher cost level" / />}}
-  {{< interactive-modules/checklist-item label="Donation Appraisal: Higher cost level" / />}}
-  {{< interactive-modules/checklist-item label="Legal Dispute Appraisal: Highest cost level" / />}}
+  {{< interactive-modules/checklist-item label="Fair Market Value (for selling): Lowest cost level" /  >}}
+  {{< interactive-modules/checklist-item label="Insurance Appraisal: Moderate cost level" /  >}}
+  {{< interactive-modules/checklist-item label="Estate Tax/Inheritance Appraisal: Higher cost level" /  >}}
+  {{< interactive-modules/checklist-item label="Donation Appraisal: Higher cost level" /  >}}
+  {{< interactive-modules/checklist-item label="Legal Dispute Appraisal: Highest cost level" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Item Complexity and Rarity

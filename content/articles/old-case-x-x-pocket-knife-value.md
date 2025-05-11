@@ -100,7 +100,7 @@ The value of old Case XX pocket knives is determined by several key factors that
 
 ![Close-up of a vintage Case XX tang stamp showing dating marks and logo](https://ik.imagekit.io/appraisily/SEO/old-case-x-x-pocket-knife-value/old-case-x-x-pocket-knife-value-image-2_ckxtYHTnM.png)
 
-{{< data-modules/stats-highlight title="Vintage Case XX Knife Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Case XX Knife Market Highlights" columns="3" / /  >}}
 
 {{< visual-modules/timeline title="Historical Timeline of Case Knives" >}}
   {{< visual-modules/timeline-item date="1889" title="Company Founding" >}}
@@ -162,15 +162,15 @@ For example, pattern "6254 SS" indicates:
 - "SS" indicates stainless steel blades
 
 {{< interactive-modules/condition-checklist title="Case XX Knife Condition Assessment" description="Check applicable items to help determine your knife's condition rating" >}}
-  {{< interactive-modules/checklist-item label="All blades open and close smoothly with good snap" / />}}
-  {{< interactive-modules/checklist-item label="Blades have no chips, cracks, or significant rust" / />}}
-  {{< interactive-modules/checklist-item label="Original edge with no improper resharpening" / />}}
-  {{< interactive-modules/checklist-item label="Handle has no cracks, chips or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original bolsters intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Tang stamp fully visible and legible" / />}}
-  {{< interactive-modules/checklist-item label="No blade play when open" / />}}
-  {{< interactive-modules/checklist-item label="Original shield present and secure" / />}}
-  {{< interactive-modules/checklist-item label="Original box and paperwork present" / />}}
+  {{< interactive-modules/checklist-item label="All blades open and close smoothly with good snap" /  >}}
+  {{< interactive-modules/checklist-item label="Blades have no chips, cracks, or significant rust" /  >}}
+  {{< interactive-modules/checklist-item label="Original edge with no improper resharpening" /  >}}
+  {{< interactive-modules/checklist-item label="Handle has no cracks, chips or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Original bolsters intact with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="Tang stamp fully visible and legible" /  >}}
+  {{< interactive-modules/checklist-item label="No blade play when open" /  >}}
+  {{< interactive-modules/checklist-item label="Original shield present and secure" /  >}}
+  {{< interactive-modules/checklist-item label="Original box and paperwork present" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Case XX Knife Patterns" level="2" >}}

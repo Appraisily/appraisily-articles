@@ -110,7 +110,7 @@ Bamboo fly rods have a rich heritage dating back to the mid-19th century, when r
 
 In this comprehensive guide, we'll explore the fascinating world of antique bamboo fly rods, examining what makes certain rods particularly valuable, how to identify premium makers, and what today's market values reflect. Whether you're a collector, angler, or simply curious about the treasure that might be hiding in your attic, this article will help you navigate the specialized world of vintage bamboo fly rod valuation.
 
-{{< data-modules/stats-highlight title="Bamboo Fly Rod Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Bamboo Fly Rod Market Insights" columns="3" / /  >}}
 - **$20,000+** - Record auction price for the rarest bamboo fly rods
 - **50-150 hours** - Typical crafting time for a premium bamboo fly rod
 - **1850s** - Decade when the first six-strip bamboo rods appeared in America
@@ -235,14 +235,14 @@ Proper identification is crucial to determining the value of an antique bamboo f
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Bamboo Rod Identification Checklist" description="Key elements to examine when identifying a vintage bamboo rod" >}}
-  {{< interactive-modules/checklist-item label="Check for maker's mark/signature on rod blank" / />}}
-  {{< interactive-modules/checklist-item label="Examine ferrules for maker's stamps or distinctive designs" / />}}
-  {{< interactive-modules/checklist-item label="Look for model information written/stamped near grip" / />}}
-  {{< interactive-modules/checklist-item label="Note any serial numbers present" / />}}
-  {{< interactive-modules/checklist-item label="Identify the rod's length, weight, and action specifications" / />}}
-  {{< interactive-modules/checklist-item label="Document the guide style and wrapping pattern" / />}}
-  {{< interactive-modules/checklist-item label="Examine handle/grip material and design" / />}}
-  {{< interactive-modules/checklist-item label="Check for original rod tube with maker's information" / />}}
+  {{< interactive-modules/checklist-item label="Check for maker's mark/signature on rod blank" /  >}}
+  {{< interactive-modules/checklist-item label="Examine ferrules for maker's stamps or distinctive designs" /  >}}
+  {{< interactive-modules/checklist-item label="Look for model information written/stamped near grip" /  >}}
+  {{< interactive-modules/checklist-item label="Note any serial numbers present" /  >}}
+  {{< interactive-modules/checklist-item label="Identify the rod's length, weight, and action specifications" /  >}}
+  {{< interactive-modules/checklist-item label="Document the guide style and wrapping pattern" /  >}}
+  {{< interactive-modules/checklist-item label="Examine handle/grip material and design" /  >}}
+  {{< interactive-modules/checklist-item label="Check for original rod tube with maker's information" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [WikiHow's guide on evaluating bamboo rods](https://www.wikihow.com/Evaluate-an-Old-Bamboo-Rod), the identification process should be methodical: "Look for the maker's name first, which is often stamped or written on the rod between the cork grip and the first guide."
@@ -438,14 +438,14 @@ Proper care and preservation are essential for maintaining both the value and us
 As noted in a discussion on [Reddit's fly fishing community](https://www.reddit.com/r/flyfishing/comments/16jyicy/old_bamboo_rods/), even rods in need of some care can be valuable: "Old bamboo rods that need work can still be wonderful projects and valuable fishing tools when properly restored."
 
 {{< interactive-modules/condition-checklist title="Bamboo Rod Preservation Checklist" description="Essential maintenance tasks for vintage bamboo fly rod care" >}}
-  {{< interactive-modules/checklist-item label="Inspect rod for loose guides or wrappings quarterly" / />}}
-  {{< interactive-modules/checklist-item label="Check ferrules for proper fit and alignment" / />}}
-  {{< interactive-modules/checklist-item label="Clean rod with soft cloth after each use" / />}}
-  {{< interactive-modules/checklist-item label="Apply ferrule wax before extended storage" / />}}
-  {{< interactive-modules/checklist-item label="Store rod horizontally in climate-controlled space" / />}}
-  {{< interactive-modules/checklist-item label="Verify rod sections remain straight" / />}}
-  {{< interactive-modules/checklist-item label="Protect rod from extreme temperature changes" / />}}
-  {{< interactive-modules/checklist-item label="Document rod's provenance and history" / />}}
+  {{< interactive-modules/checklist-item label="Inspect rod for loose guides or wrappings quarterly" /  >}}
+  {{< interactive-modules/checklist-item label="Check ferrules for proper fit and alignment" /  >}}
+  {{< interactive-modules/checklist-item label="Clean rod with soft cloth after each use" /  >}}
+  {{< interactive-modules/checklist-item label="Apply ferrule wax before extended storage" /  >}}
+  {{< interactive-modules/checklist-item label="Store rod horizontally in climate-controlled space" /  >}}
+  {{< interactive-modules/checklist-item label="Verify rod sections remain straight" /  >}}
+  {{< interactive-modules/checklist-item label="Protect rod from extreme temperature changes" /  >}}
+  {{< interactive-modules/checklist-item label="Document rod's provenance and history" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Buy and Sell Antique Bamboo Fly Rods" level="2" >}}

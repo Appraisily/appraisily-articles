@@ -74,7 +74,7 @@ Before investing in professional appraisal services or making selling decisions,
 
 Free online appraisal websites serve as excellent starting points for understanding the potential value of your antiques and collectibles. While they might not provide the comprehensive, legally-binding valuations that paid professional services offer, they deliver several key benefits:
 
-{{< data-modules/stats-highlight title="Benefits of Free Online Appraisals" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Benefits of Free Online Appraisals" columns="3" / /  >}}
 
 1. **Cost-Effective Screening**: Determine which items are worth investing in professional appraisals
 2. **General Value Ranges**: Get ballpark estimates for insurance or selling purposes
@@ -258,11 +258,11 @@ The quality of your free online appraisal depends significantly on how you prese
 The old saying "a picture is worth a thousand words" couldn't be more accurate for online appraisals. Poor-quality images can lead to inaccurate valuations.
 
 {{< interactive-modules/condition-checklist title="Photo Checklist for Online Appraisals" description="Ensure your photos include these elements for the most accurate valuation" >}}
-  {{< interactive-modules/checklist-item label="Multiple angles (front, back, sides, bottom)" / />}}
-  {{< interactive-modules/checklist-item label="Close-ups of maker's marks, signatures, or hallmarks" / />}}
-  {{< interactive-modules/checklist-item label="Well-lit, clear images without shadows obscuring details" / />}}
-  {{< interactive-modules/checklist-item label="Images showing any damage or repair work" / />}}
-  {{< interactive-modules/checklist-item label="Scale reference (ruler or coin) for size comparison" / />}}
+  {{< interactive-modules/checklist-item label="Multiple angles (front, back, sides, bottom)" /  >}}
+  {{< interactive-modules/checklist-item label="Close-ups of maker's marks, signatures, or hallmarks" /  >}}
+  {{< interactive-modules/checklist-item label="Well-lit, clear images without shadows obscuring details" /  >}}
+  {{< interactive-modules/checklist-item label="Images showing any damage or repair work" /  >}}
+  {{< interactive-modules/checklist-item label="Scale reference (ruler or coin) for size comparison" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Include Detailed Information
@@ -342,7 +342,7 @@ The quality of appraisals can vary significantly based on the evaluator's expert
 
 Many free appraisal services are offered by businesses hoping to secure your item for consignment or purchase. This potential conflict of interest may influence the valuation provided.
 
-{{< data-modules/stats-highlight title="When to Seek Professional Appraisals" columns="3" / / />}}
+{{< data-modules/stats-highlight title="When to Seek Professional Appraisals" columns="3" / /  >}}
 
 For particularly valuable items or situations requiring legal documentation, consider investing in professional appraisal services. The American Society of Appraisers, International Society of Appraisers, or Appraisers Association of America can help you find certified professionals in your area.
 

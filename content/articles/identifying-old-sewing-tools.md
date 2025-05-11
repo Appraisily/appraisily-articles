@@ -103,7 +103,7 @@ From ornate silver thimbles to intricately carved needle cases, antique sewing t
 
 Before the era of mass production, sewing implements were frequently handmade by skilled artisans, resulting in unique pieces that tell stories of the past. Understanding how to identify and authenticate these tools opens a window into domestic history while potentially uncovering items of significant collector value.
 
-{{< data-modules/stats-highlight title="Antique Sewing Tools Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Sewing Tools Market Insights" columns="3" / /  >}}
 <tr>
   <td>300%</td>
   <td>Value increase for rare sewing implements in excellent condition over the past decade</td>
@@ -316,14 +316,14 @@ Authentic aging provides important authenticating clues:
 * Metal corrosion should be consistent with age and storage conditions
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use this checklist to evaluate whether an antique sewing tool is authentic" >}}
-  {{< interactive-modules/checklist-item label="Consistent patina appropriate to claimed age" / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns match functional use" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing techniques match the claimed period" / />}}
-  {{< interactive-modules/checklist-item label="Hallmarks or maker's marks are authentic and not added later" / />}}
-  {{< interactive-modules/checklist-item label="Materials are appropriate for the claimed period" / />}}
-  {{< interactive-modules/checklist-item label="Stylistic elements match known design periods" / />}}
-  {{< interactive-modules/checklist-item label="No modern materials or adhesives in repairs" / />}}
-  {{< interactive-modules/checklist-item label="Weight and feel appropriate for claimed materials" / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina appropriate to claimed age" /  >}}
+  {{< interactive-modules/checklist-item label="Wear patterns match functional use" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturing techniques match the claimed period" /  >}}
+  {{< interactive-modules/checklist-item label="Hallmarks or maker's marks are authentic and not added later" /  >}}
+  {{< interactive-modules/checklist-item label="Materials are appropriate for the claimed period" /  >}}
+  {{< interactive-modules/checklist-item label="Stylistic elements match known design periods" /  >}}
+  {{< interactive-modules/checklist-item label="No modern materials or adhesives in repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Weight and feel appropriate for claimed materials" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Evaluating Condition and Completeness

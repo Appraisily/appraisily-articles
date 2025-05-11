@@ -105,7 +105,7 @@ The most collectible antique cameos generally feature hand-carved designs rather
 
 When assessing the value of an antique cameo brooch, experts consider numerous factors that collectively determine its market worth. Understanding these elements can help you better evaluate your own cameo pieces.
 
-{{< data-modules/stats-highlight title="Value Determinants for Antique Cameos" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Determinants for Antique Cameos" columns="3" / /  >}}
   <div class="stat-card green">
     <div class="stat-value">Material</div>
     <div class="stat-label">Shell, Stone, Lava</div>
@@ -284,14 +284,14 @@ The brooch pin and clasp often provide excellent dating clues:
 - **Perfectly symmetrical pieces**: May indicate machine assistance (20th century)
 
 {{< interactive-modules/condition-checklist title="Dating Indicators Checklist" description="Check applicable features to help determine your cameo's period" >}}
-  {{< interactive-modules/checklist-item label="C-clasp without safety catch (pre-1900)" / />}}
-  {{< interactive-modules/checklist-item label="Tube hinge construction (pre-1890s)" / />}}
-  {{< interactive-modules/checklist-item label="Hand-crafted, non-uniform frame details" / />}}
-  {{< interactive-modules/checklist-item label="High-relief carving with deep dimensionality" / />}}
-  {{< interactive-modules/checklist-item label="Shell has natural concave curve on reverse" / />}}
-  {{< interactive-modules/checklist-item label="Subject wears clothing/hairstyle from specific period" / />}}
-  {{< interactive-modules/checklist-item label="Frame has maker's mark or country hallmark" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand-cut rather than machine-cut details" / />}}
+  {{< interactive-modules/checklist-item label="C-clasp without safety catch (pre-1900)" /  >}}
+  {{< interactive-modules/checklist-item label="Tube hinge construction (pre-1890s)" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-crafted, non-uniform frame details" /  >}}
+  {{< interactive-modules/checklist-item label="High-relief carving with deep dimensionality" /  >}}
+  {{< interactive-modules/checklist-item label="Shell has natural concave curve on reverse" /  >}}
+  {{< interactive-modules/checklist-item label="Subject wears clothing/hairstyle from specific period" /  >}}
+  {{< interactive-modules/checklist-item label="Frame has maker's mark or country hallmark" /  >}}
+  {{< interactive-modules/checklist-item label="Evidence of hand-cut rather than machine-cut details" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Victorian-era cameo brooch with detailed filigree frame and classic female profile](https://ik.imagekit.io/appraisily/SEO/antique-cameo-cameo-brooch-value/antique-cameo-cameo-brooch-value-image-5_a8ee1pGqj.png)

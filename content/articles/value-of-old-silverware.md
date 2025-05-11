@@ -100,7 +100,7 @@ Mint condition silverware will always be more valuable than damaged or heavily w
 
 Complete sets are worth substantially more than individual pieces. A full service for 8 or 12 with serving pieces intact will command a premium price compared to incomplete sets.
 
-{{< data-modules/stats-highlight title="Key Silverware Value Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Silverware Value Statistics" columns="3" / /  >}}
 
 {{< visual-modules/timeline title="Evolution of American Silverware Value" >}}
   {{< visual-modules/timeline-item date="1700s" title="Colonial Silver" >}}
@@ -156,14 +156,14 @@ If markings are worn or unclear, you can perform simple at-home tests:
 For definitive testing, consider acid testing kits or consult a professional appraiser.
 
 {{< interactive-modules/condition-checklist title="Silverware Condition Assessment" description="Check applicable items to gauge your silverware's condition grade" >}}
-  {{< interactive-modules/checklist-item label="No visible scratches or wear to pattern" / />}}
-  {{< interactive-modules/checklist-item label="No dents or bent tines on forks" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or solder marks" / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact (not over-polished)" / />}}
-  {{< interactive-modules/checklist-item label="No monograms or personalization" / />}}
-  {{< interactive-modules/checklist-item label="Complete matched set (no replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Original storage box or chest present" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance available" / />}}
+  {{< interactive-modules/checklist-item label="No visible scratches or wear to pattern" /  >}}
+  {{< interactive-modules/checklist-item label="No dents or bent tines on forks" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or solder marks" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish intact (not over-polished)" /  >}}
+  {{< interactive-modules/checklist-item label="No monograms or personalization" /  >}}
+  {{< interactive-modules/checklist-item label="Complete matched set (no replacements)" /  >}}
+  {{< interactive-modules/checklist-item label="Original storage box or chest present" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance available" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for Antique Silverware" level="2" >}}

@@ -126,7 +126,7 @@ The value of John Mellencamp's artwork spans a wide range, reflecting different 
 
 According to [MutualArt](https://www.mutualart.com/Artist/John-Mellencamp/EA2571B7CE396290), auction results for Mellencamp's work have ranged from as low as $50 for minor works to $4,000 for more significant pieces. However, gallery prices for prime works can be substantially higher, with some pieces commanding five-figure sums.
 
-{{< data-modules/stats-highlight title="John Mellencamp Art Market Stats" columns="3" / / />}}
+{{< data-modules/stats-highlight title="John Mellencamp Art Market Stats" columns="3" / /  >}}
 
 * **$1,500** - Starting price for official lithographs
 * **7%** - Indiana sales tax applied to purchases from his official store
@@ -155,12 +155,12 @@ When evaluating a John Mellencamp artwork, several key factors contribute to its
 6. **Condition**: As with all fine art, the condition dramatically affects value. Damage, fading, or poor framing can significantly reduce worth.
 
 {{< interactive-modules/condition-checklist title="John Mellencamp Artwork Condition Assessment" description="Use this checklist to evaluate the condition of a Mellencamp artwork" >}}
-  {{< interactive-modules/checklist-item label="Signature is clear and matches known examples" / />}}
-  {{< interactive-modules/checklist-item label="No visible damage to canvas or paper" / />}}
-  {{< interactive-modules/checklist-item label="Colors remain vibrant without fading" / />}}
-  {{< interactive-modules/checklist-item label="Original framing or professionally framed" / />}}
-  {{< interactive-modules/checklist-item label="Includes certificate of authenticity" / />}}
-  {{< interactive-modules/checklist-item label="No restoration or repair work visible" / />}}
+  {{< interactive-modules/checklist-item label="Signature is clear and matches known examples" /  >}}
+  {{< interactive-modules/checklist-item label="No visible damage to canvas or paper" /  >}}
+  {{< interactive-modules/checklist-item label="Colors remain vibrant without fading" /  >}}
+  {{< interactive-modules/checklist-item label="Original framing or professionally framed" /  >}}
+  {{< interactive-modules/checklist-item label="Includes certificate of authenticity" /  >}}
+  {{< interactive-modules/checklist-item label="No restoration or repair work visible" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Types of John Mellencamp Artwork

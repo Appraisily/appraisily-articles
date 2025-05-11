@@ -127,7 +127,7 @@ For Atlas jars, look for these identifying features:
 - **1904-1930s**: "ATLAS STRONG SHOULDER" jars (rare and more valuable)
 - **1930s-1964**: "Hazel-Atlas" mark (an H with an A inside)
 
-{{< data-modules/stats-highlight title="Dating Features to Look For" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Dating Features to Look For" columns="3" / /  >}}
 
 ### Mold Numbers and Base Markings
 
@@ -248,14 +248,14 @@ Multiple factors beyond age affect the value of antique Mason jars. Understandin
 Condition dramatically impacts value, with mint examples often worth 3-5 times more than damaged counterparts. Use this checklist to assess your jar's condition:
 
 {{< interactive-modules/condition-checklist title="Mason Jar Condition Assessment" description="Check applicable items to estimate your jar's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or fractures in the glass" / />}}
-  {{< interactive-modules/checklist-item label="Original closure or lid intact and functional" / />}}
-  {{< interactive-modules/checklist-item label="Sharp, clear embossing (not worn down)" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" / />}}
-  {{< interactive-modules/checklist-item label="Minimal or no cloudiness/whitish film" / />}}
-  {{< interactive-modules/checklist-item label="Even color distribution (no fading or discoloration)" / />}}
-  {{< interactive-modules/checklist-item label="Original paper label present (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration attempts" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or fractures in the glass" /  >}}
+  {{< interactive-modules/checklist-item label="Original closure or lid intact and functional" /  >}}
+  {{< interactive-modules/checklist-item label="Sharp, clear embossing (not worn down)" /  >}}
+  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal or no cloudiness/whitish film" /  >}}
+  {{< interactive-modules/checklist-item label="Even color distribution (no fading or discoloration)" /  >}}
+  {{< interactive-modules/checklist-item label="Original paper label present (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration attempts" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to America's Antique Mall, "While most glass jars aren't worth more than a couple of dollars, certain antique jars can fetch upwards of a thousand dollars. A good rule of thumb is that if your jar is over 50 years old, it could be worth something, particularly if it's in pristine condition."

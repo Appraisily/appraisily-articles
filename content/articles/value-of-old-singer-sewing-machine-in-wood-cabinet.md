@@ -115,7 +115,7 @@ It's important to note that while some antique dealers or online listings may ad
 
 ![Singer sewing machine from 1910 showing the machine head detail](https://ik.imagekit.io/appraisily/SEO/value-of-old-singer-sewing-machine-in-wood-cabinet/value-of-old-singer-sewing-machine-in-wood-cabinet-image-2_pn69uo5yzG.png)
 
-{{< data-modules/stats-highlight title="Singer Sewing Machine Market Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Singer Sewing Machine Market Facts" columns="3" / /  >}}
 
 {{< visual-modules/timeline title="Historical Value Trends of Singer Cabinet Machines" >}}
   {{< visual-modules/timeline-item date="1980s-1990s" title="Collector's Market Emerges" >}}
@@ -224,22 +224,22 @@ Remember that the cabinet and machine may not always be the same age. Many cabin
 Condition is perhaps the most significant value factor for both the machine and cabinet:
 
 {{< interactive-modules/condition-checklist title="Sewing Machine Condition Assessment" description="Check all that apply to your Singer machine" >}}
-  {{< interactive-modules/checklist-item label="Machine is mechanically functional" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present and working" / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Decals (decorative transfers) are clear and complete" / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal parts" / />}}
-  {{< interactive-modules/checklist-item label="Original wiring intact and safe (if electric)" / />}}
+  {{< interactive-modules/checklist-item label="Machine is mechanically functional" /  >}}
+  {{< interactive-modules/checklist-item label="All original parts present and working" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="Decals (decorative transfers) are clear and complete" /  >}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal parts" /  >}}
+  {{< interactive-modules/checklist-item label="Original wiring intact and safe (if electric)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< interactive-modules/condition-checklist title="Cabinet Condition Assessment" description="Check all that apply to your Singer cabinet" >}}
-  {{< interactive-modules/checklist-item label="Wood finish is original and well-preserved" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches, gouges, or water damage" / />}}
-  {{< interactive-modules/checklist-item label="All drawers present and functional" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (knobs, hinges, etc.) intact" / />}}
-  {{< interactive-modules/checklist-item label="No structural damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Treadle mechanism works smoothly (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original Singer decals/emblems present" / />}}
+  {{< interactive-modules/checklist-item label="Wood finish is original and well-preserved" /  >}}
+  {{< interactive-modules/checklist-item label="No significant scratches, gouges, or water damage" /  >}}
+  {{< interactive-modules/checklist-item label="All drawers present and functional" /  >}}
+  {{< interactive-modules/checklist-item label="Original hardware (knobs, hinges, etc.) intact" /  >}}
+  {{< interactive-modules/checklist-item label="No structural damage or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Treadle mechanism works smoothly (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Original Singer decals/emblems present" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 A response from [JustAnswer's antique appraisal service](https://www.justanswer.com/antiques/btdk0-value-singer-sewing-machine-circa-1946-cabinet.html) noted that "The Singer Sewing Machine in original cabinet, with Stool, has an estimated value on the current market for an average of $600.00-725.00 depending on the condition." This assessment emphasizes how condition can create a significant value range.
@@ -405,7 +405,7 @@ According to collecting experts, over-restoration can reduce value by 30-50% for
 
 If you decide restoration is appropriate, follow these guidelines to maintain maximum value:
 
-{{< data-modules/stats-highlight title="Restoration Impact on Value" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Restoration Impact on Value" columns="3" / /  >}}
 
 1. **Document Before/During/After**: Take photographs throughout the process
 2. **Preserve Original Parts**: Store any original parts that need to be replaced

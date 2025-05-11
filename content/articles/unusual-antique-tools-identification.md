@@ -138,7 +138,7 @@ When faced with an unusual antique tool, begin by carefully examining its physic
 
 Look for any moving parts and mechanisms. How do they operate? This mechanical action often reveals the tool's purpose, even when its form isn't immediately recognizable. For example, a strange-looking tool with ratcheting or adjustable components might be related to woodworking, while one with sharp, curved elements could be for leather or upholstery work.
 
-{{< data-modules/stats-highlight title="Key Identification Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Identification Statistics" columns="3" / /  >}}
 
 ### Deciphering Maker's Marks and Stampings
 
@@ -419,15 +419,15 @@ Condition dramatically affects the value of antique tools, with collectors typic
 6. **Maker's Marks**: Clear, legible marks increase value significantly compared to tools with worn or missing marks.
 
 {{< interactive-modules/condition-checklist title="Unusual Antique Tool Condition Assessment" description="Use this checklist to evaluate the condition of unusual antique tools" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact (japanning, paint, or plating)" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible maker's marks" / />}}
-  {{< interactive-modules/checklist-item label="Original wooden components without cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical components" / />}}
-  {{< interactive-modules/checklist-item label="Free from significant rust or pitting" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (screws, rivets, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Complete with all parts and attachments" / />}}
-  {{< interactive-modules/checklist-item label="Original handles with good patina" / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact (japanning, paint, or plating)" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, legible maker's marks" /  >}}
+  {{< interactive-modules/checklist-item label="Original wooden components without cracks or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Working mechanical components" /  >}}
+  {{< interactive-modules/checklist-item label="Free from significant rust or pitting" /  >}}
+  {{< interactive-modules/checklist-item label="Original hardware (screws, rivets, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Complete with all parts and attachments" /  >}}
+  {{< interactive-modules/checklist-item label="Original handles with good patina" /  >}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Current Market Trends for Unusual Tools

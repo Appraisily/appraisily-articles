@@ -88,7 +88,7 @@ American sleigh bells from the 19th and early 20th centuries were typically made
 
 ### Bell Shapes and Designs
 
-{{< data-modules/stats-highlight title="Key Bell Identifying Features" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Bell Identifying Features" columns="3" / /  >}}
 
 Antique sleigh bells feature several distinctive shape variations:
 
@@ -207,14 +207,14 @@ According to experts at Classic Bells, these telltale indicators can help identi
    - Modern alloy composition with different coloration
 
 {{< interactive-modules/condition-checklist title="Authentic Antique Sleigh Bell Assessment" description="Check applicable characteristics to help determine authenticity" >}}
-  {{< interactive-modules/checklist-item label="Bell has natural, uneven patina with lighter wear on high points" / />}}
-  {{< interactive-modules/checklist-item label="Material is solid brass or bronze with appropriate color for type" / />}}
-  {{< interactive-modules/checklist-item label="Construction shows appropriate manufacturing method for claimed period" / />}}
-  {{< interactive-modules/checklist-item label="Leather strap (if present) shows natural aging and wear" / />}}
-  {{< interactive-modules/checklist-item label="Bell produces clear, melodious tone rather than tinny sound" / />}}
-  {{< interactive-modules/checklist-item label="Size and weight are substantial and appropriate for period" / />}}
-  {{< interactive-modules/checklist-item label="Surface details match known historical patterns (petal, acorn, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="If marked, maker's stamp or initials match known historical producers" / />}}
+  {{< interactive-modules/checklist-item label="Bell has natural, uneven patina with lighter wear on high points" /  >}}
+  {{< interactive-modules/checklist-item label="Material is solid brass or bronze with appropriate color for type" /  >}}
+  {{< interactive-modules/checklist-item label="Construction shows appropriate manufacturing method for claimed period" /  >}}
+  {{< interactive-modules/checklist-item label="Leather strap (if present) shows natural aging and wear" /  >}}
+  {{< interactive-modules/checklist-item label="Bell produces clear, melodious tone rather than tinny sound" /  >}}
+  {{< interactive-modules/checklist-item label="Size and weight are substantial and appropriate for period" /  >}}
+  {{< interactive-modules/checklist-item label="Surface details match known historical patterns (petal, acorn, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="If marked, maker's stamp or initials match known historical producers" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Reproduction Styles

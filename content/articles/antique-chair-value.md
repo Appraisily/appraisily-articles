@@ -138,7 +138,7 @@ In the furniture world, the term "antique" traditionally applies to items at lea
 
 A true antique chair typically shows evidence of hand craftsmanship and construction techniques that differ from modern manufacturing methods. Look for:
 
-{{< data-modules/stats-highlight title="Key Identifiers of Authentic Antique Chairs" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Identifiers of Authentic Antique Chairs" columns="3" / /  >}}
 
 - **Hand-cut dovetail joints** rather than machine-perfect cuts
 - **Irregularities in symmetry** suggesting handcrafted construction
@@ -201,13 +201,13 @@ Chairs with documented history—particularly those owned by historical figures 
 ### 3. Condition
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Evaluate these aspects when assessing an antique chair's condition:" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and unrestored" / />}}
-  {{< interactive-modules/checklist-item label="All structural elements secure with no wobbling" / />}}
-  {{< interactive-modules/checklist-item label="Original upholstery or period-appropriate replacement" / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="No significant damage or missing elements" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware and joinery intact" / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate repairs or alterations" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and unrestored" /  >}}
+  {{< interactive-modules/checklist-item label="All structural elements secure with no wobbling" /  >}}
+  {{< interactive-modules/checklist-item label="Original upholstery or period-appropriate replacement" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="No significant damage or missing elements" /  >}}
+  {{< interactive-modules/checklist-item label="Original hardware and joinery intact" /  >}}
+  {{< interactive-modules/checklist-item label="No inappropriate repairs or alterations" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Materials and Craftsmanship
@@ -496,7 +496,7 @@ If you're looking to sell an antique chair, several options exist, each with dif
 - Greater risk of payment issues
 - May attract lower offers than specialized venues
 
-{{< data-modules/stats-highlight title="Selling Venue Comparison" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Selling Venue Comparison" columns="3" / /  >}}
 
 ## Common Pitfalls in Antique Chair Valuation
 

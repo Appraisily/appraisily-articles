@@ -121,7 +121,7 @@ These quarters were minted at four different U.S. Mint facilities, each with its
 
 Most 2020 Bat Quarters found in circulation are from the P or D mints. The S mint produced proof coins specifically for collectors, while the rare W mint coins were specially released into circulation as part of a promotion to encourage coin collecting.
 
-{{< data-modules/stats-highlight title="2020 Bat Quarter Production Stats" columns="3" / / />}}
+{{< data-modules/stats-highlight title="2020 Bat Quarter Production Stats" columns="3" / /  >}}
 - **P Mint:** 234,800,000 coins produced
 - **D Mint:** 272,400,000 coins produced
 - **W Mint:** Only 2,000,000 coins produced
@@ -209,11 +209,11 @@ The W mint mark appears on the obverse (front) of the coin, to the right of Wash
 A particularly valuable variety is the 2020-W Bat Quarter with the V75 privy mark, which was added to commemorate the 75th anniversary of the end of World War II. According to auction records from PCGS, a perfect MS67 example of this coin sold for $621 in a recent auction.
 
 {{< interactive-modules/condition-checklist title="How to Identify a 2020-W Bat Quarter" description="Check these features to confirm you have a valuable W mint mark quarter:" >}}
-  {{< interactive-modules/checklist-item label="Look for the 'W' mint mark on the obverse (front) of the coin, to the right of Washington's portrait" / />}}
-  {{< interactive-modules/checklist-item label="Verify the reverse features the Samoan fruit bat design" / />}}
-  {{< interactive-modules/checklist-item label="Check for the date '2020' on the obverse" / />}}
-  {{< interactive-modules/checklist-item label="Examine for any V75 privy mark (a small outline of the WWII Memorial) for the special variety" / />}}
-  {{< interactive-modules/checklist-item label="Assess the overall condition and grade of the coin" / />}}
+  {{< interactive-modules/checklist-item label="Look for the 'W' mint mark on the obverse (front) of the coin, to the right of Washington's portrait" /  >}}
+  {{< interactive-modules/checklist-item label="Verify the reverse features the Samoan fruit bat design" /  >}}
+  {{< interactive-modules/checklist-item label="Check for the date '2020' on the obverse" /  >}}
+  {{< interactive-modules/checklist-item label="Examine for any V75 privy mark (a small outline of the WWII Memorial) for the special variety" /  >}}
+  {{< interactive-modules/checklist-item label="Assess the overall condition and grade of the coin" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Valuable 2020 Bat Quarter Errors" level="2" >}}

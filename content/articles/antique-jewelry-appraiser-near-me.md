@@ -126,7 +126,7 @@ Whether you've inherited a family heirloom, discovered a potential treasure at a
 
 Finding a qualified, reputable antique jewelry appraiser near you can sometimes feel challenging. This comprehensive guide will walk you through the process of locating, selecting, and working with a professional appraiser to ensure you receive an accurate valuation of your precious items.
 
-{{< data-modules/stats-highlight title="Antique Jewelry Appraisal Quick Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Jewelry Appraisal Quick Facts" columns="3" / /  >}}
 
 {{< visual-modules/timeline title="Evolution of Jewelry Appraisal Standards" >}}
   {{< visual-modules/timeline-item date="1950s" title="Early Standardization" >}}
@@ -175,14 +175,14 @@ Beyond online directories, consider these local sources for finding reputable ap
 5. **Antique jewelry dealers** (though be aware of potential conflicts of interest)
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Key credentials to look for in a qualified antique jewelry appraiser" >}}
-  {{< interactive-modules/checklist-item label="Credentials from recognized appraisal organizations (NAJA, ISA, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Formal gemological training (GIA, AGS, or equivalent certification)" / />}}
-  {{< interactive-modules/checklist-item label="Specialized knowledge of historical jewelry periods and manufacturing techniques" / />}}
-  {{< interactive-modules/checklist-item label="Experience with the specific type of antique jewelry you own" / />}}
-  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / />}}
-  {{< interactive-modules/checklist-item label="No conflict of interest (not primarily a jewelry buyer or seller)" / />}}
-  {{< interactive-modules/checklist-item label="Provides detailed, written appraisals with proper documentation" / />}}
-  {{< interactive-modules/checklist-item label="Transparent fee structure not based on item value" / />}}
+  {{< interactive-modules/checklist-item label="Credentials from recognized appraisal organizations (NAJA, ISA, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Formal gemological training (GIA, AGS, or equivalent certification)" /  >}}
+  {{< interactive-modules/checklist-item label="Specialized knowledge of historical jewelry periods and manufacturing techniques" /  >}}
+  {{< interactive-modules/checklist-item label="Experience with the specific type of antique jewelry you own" /  >}}
+  {{< interactive-modules/checklist-item label="Carries professional liability insurance" /  >}}
+  {{< interactive-modules/checklist-item label="No conflict of interest (not primarily a jewelry buyer or seller)" /  >}}
+  {{< interactive-modules/checklist-item label="Provides detailed, written appraisals with proper documentation" /  >}}
+  {{< interactive-modules/checklist-item label="Transparent fee structure not based on item value" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Types of Jewelry Appraisals and Their Purposes" level="2" >}}

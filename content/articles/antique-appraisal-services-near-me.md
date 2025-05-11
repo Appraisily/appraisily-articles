@@ -90,7 +90,7 @@ Antique appraisals serve multiple purposes beyond simple curiosity. A profession
 4. **Authentication** - Verification that an item is genuine and not a reproduction
 5. **Historical context** - Insights into the provenance and significance of your items
 
-{{< data-modules/stats-highlight title="The Antique Appraisal Industry" columns="3" / / />}}
+{{< data-modules/stats-highlight title="The Antique Appraisal Industry" columns="3" / /  >}}
 - 85% of antique owners underestimate their items' value without professional appraisal
 - $250-$350 is the typical starting cost for a formal single-item appraisal
 - 3-5 professional credentials are held by most reputable antique appraisers
@@ -201,14 +201,14 @@ Many appraisers specialize in specific categories:
 For the most accurate valuation, seek an appraiser with expertise in your specific item category.
 
 {{< interactive-modules/condition-checklist title="Evaluating Potential Appraisers" description="Use this checklist to assess appraisers before hiring" >}}
-{{< interactive-modules/checklist-item label="Holds recognized professional credentials" / />}}
-{{< interactive-modules/checklist-item label="Specializes in your specific type of antique" / />}}
-{{< interactive-modules/checklist-item label="Can provide references from past clients" / />}}
-{{< interactive-modules/checklist-item label="Has no conflict of interest (not trying to buy your items)" / />}}
-{{< interactive-modules/checklist-item label="Clearly explains their fee structure upfront" / />}}
-{{< interactive-modules/checklist-item label="Provides a written contract for services" / />}}
-{{< interactive-modules/checklist-item label="Maintains USPAP compliance" / />}}
-{{< interactive-modules/checklist-item label="Has appropriate insurance coverage" / />}}
+{{< interactive-modules/checklist-item label="Holds recognized professional credentials" /  >}}
+{{< interactive-modules/checklist-item label="Specializes in your specific type of antique" /  >}}
+{{< interactive-modules/checklist-item label="Can provide references from past clients" /  >}}
+{{< interactive-modules/checklist-item label="Has no conflict of interest (not trying to buy your items)" /  >}}
+{{< interactive-modules/checklist-item label="Clearly explains their fee structure upfront" /  >}}
+{{< interactive-modules/checklist-item label="Provides a written contract for services" /  >}}
+{{< interactive-modules/checklist-item label="Maintains USPAP compliance" /  >}}
+{{< interactive-modules/checklist-item label="Has appropriate insurance coverage" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Appraisal Costs and Fee Structures" level="2" >}}

@@ -138,13 +138,13 @@ Old Timer knives typically feature a model number that combines numbers and lett
 - Example: "34OT" refers to the Middleman pattern in the Old Timer line
 
 {{< interactive-modules/condition-checklist title="Authentic Old Timer Identification Checklist" description="Use this checklist to verify if your Old Timer knife is an authentic vintage model:" >}}
-  {{< interactive-modules/checklist-item label="Tang stamp includes 'USA' or 'MADE IN USA'" / />}}
-  {{< interactive-modules/checklist-item label="Has traditional saw-cut Delrin handles (often amber or brown colored)" / />}}
-  {{< interactive-modules/checklist-item label="Features carbon steel blades (may show patina)" / />}}
-  {{< interactive-modules/checklist-item label="Model number includes 'OT' designation" / />}}
-  {{< interactive-modules/checklist-item label="Shows signs of hand finishing and traditional craftsmanship" / />}}
-  {{< interactive-modules/checklist-item label="Blade properly seats in handle with no gaps" / />}}
-  {{< interactive-modules/checklist-item label="Brass linings and nickel silver bolsters (on most models)" / />}}
+  {{< interactive-modules/checklist-item label="Tang stamp includes 'USA' or 'MADE IN USA'" /  >}}
+  {{< interactive-modules/checklist-item label="Has traditional saw-cut Delrin handles (often amber or brown colored)" /  >}}
+  {{< interactive-modules/checklist-item label="Features carbon steel blades (may show patina)" /  >}}
+  {{< interactive-modules/checklist-item label="Model number includes 'OT' designation" /  >}}
+  {{< interactive-modules/checklist-item label="Shows signs of hand finishing and traditional craftsmanship" /  >}}
+  {{< interactive-modules/checklist-item label="Blade properly seats in handle with no gaps" /  >}}
+  {{< interactive-modules/checklist-item label="Brass linings and nickel silver bolsters (on most models)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of Old Timer knife tang stamp showing USA markings and model number](https://ik.imagekit.io/appraisily/SEO/old-timer-pocket-knife-value/old-timer-pocket-knife-value-image-3_o4szdWJZJ.png)
@@ -198,7 +198,7 @@ Certain Old Timer knife models are particularly sought after by collectors, comm
 
 While the table above provides general value ranges, exceptional examples with original packaging, rare variations, or limited editions can command significantly higher prices from serious collectors.
 
-{{< data-modules/stats-highlight title="Old Timer Knife Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Old Timer Knife Market Insights" columns="3" / /  >}}
 
 ### Rare and Valuable Variations
 

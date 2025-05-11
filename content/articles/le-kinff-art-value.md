@@ -136,7 +136,7 @@ Proper authentication is crucial for establishing value in Le Kinff's work:
 - **Certificate of Authenticity**: Legitimate works should be accompanied by official documentation, particularly those sold through authorized galleries or Park West Gallery, which has had a long relationship with the artist.
 - **Edition Numbering**: For limited editions, proper numbering (e.g., 26/100) should be clearly marked along with the signature.
 
-{{< data-modules/stats-highlight title="Le Kinff Value Factors at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Le Kinff Value Factors at a Glance" columns="3" / /  >}}
 
 ### Condition and Presentation
 
@@ -259,11 +259,11 @@ Linda Le Kinff's signature is distinctive and an important authentication elemen
 Authentic Le Kinff artwork should be accompanied by proper documentation:
 
 {{< interactive-modules/condition-checklist title="Le Kinff Authentication Documentation Checklist" description="Verify these elements when authenticating Linda Le Kinff artwork" >}}
-  {{< interactive-modules/checklist-item label="Certificate of Authenticity from the gallery or publisher" / />}}
-  {{< interactive-modules/checklist-item label="Edition numbering clearly marked on limited editions" / />}}
-  {{< interactive-modules/checklist-item label="Gallery labels or stamps from authorized dealers" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation showing ownership history" / />}}
-  {{< interactive-modules/checklist-item label="Original sales receipt or purchase documentation" / />}}
+  {{< interactive-modules/checklist-item label="Certificate of Authenticity from the gallery or publisher" /  >}}
+  {{< interactive-modules/checklist-item label="Edition numbering clearly marked on limited editions" /  >}}
+  {{< interactive-modules/checklist-item label="Gallery labels or stamps from authorized dealers" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance documentation showing ownership history" /  >}}
+  {{< interactive-modules/checklist-item label="Original sales receipt or purchase documentation" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Authorized Publishers and Galleries

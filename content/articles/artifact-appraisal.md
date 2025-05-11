@@ -129,7 +129,7 @@ Professional appraisers consider numerous factors when evaluating artifacts, inc
 - Current market demand
 - Cultural importance
 
-{{< data-modules/stats-highlight title="Key Facts About Artifact Appraisal" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Facts About Artifact Appraisal" columns="3" / /  >}}
 
 ![Archaeological artifacts on display with identification tags](https://ik.imagekit.io/appraisily/SEO/artifact-appraisal/artifact-appraisal-image-2_gFNrD8hlQ.png)
 
@@ -315,14 +315,14 @@ For certain types of artifacts, specialized organizations may offer better exper
 While many museums cannot provide monetary appraisals due to conflict of interest policies, they may offer authentication assistance or referrals to qualified appraisers. According to the [North Carolina Museum of History](https://www.ncmuseumofhistory.org/collections/appraisal), most museums maintain a policy of not appraising artifacts for the public but can provide resources to help locate professional appraisers.
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist when evaluating potential appraisers" >}}
-  {{< interactive-modules/checklist-item label="Professional certification from a recognized organization (ASA, ISA, AAA)" / />}}
-  {{< interactive-modules/checklist-item label="Specialization in your specific type of artifact" / />}}
-  {{< interactive-modules/checklist-item label="Minimum of 5 years experience in the field" / />}}
-  {{< interactive-modules/checklist-item label="Provides clear fee structure before beginning work" / />}}
-  {{< interactive-modules/checklist-item label="Will provide a detailed written report" / />}}
-  {{< interactive-modules/checklist-item label="No conflict of interest (doesn't offer to purchase your item)" / />}}
-  {{< interactive-modules/checklist-item label="Has museum or academic credentials in relevant field" / />}}
-  {{< interactive-modules/checklist-item label="Maintains professional liability insurance" / />}}
+  {{< interactive-modules/checklist-item label="Professional certification from a recognized organization (ASA, ISA, AAA)" /  >}}
+  {{< interactive-modules/checklist-item label="Specialization in your specific type of artifact" /  >}}
+  {{< interactive-modules/checklist-item label="Minimum of 5 years experience in the field" /  >}}
+  {{< interactive-modules/checklist-item label="Provides clear fee structure before beginning work" /  >}}
+  {{< interactive-modules/checklist-item label="Will provide a detailed written report" /  >}}
+  {{< interactive-modules/checklist-item label="No conflict of interest (doesn't offer to purchase your item)" /  >}}
+  {{< interactive-modules/checklist-item label="Has museum or academic credentials in relevant field" /  >}}
+  {{< interactive-modules/checklist-item label="Maintains professional liability insurance" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Determine Artifact Value" level="2" id="value-factors" >}}

@@ -163,7 +163,7 @@ One of the rarest and most valuable Schwinn models, the Aerocycle featured an in
 - **Schwinn Varsity** (1960s-1970s)
 - **Schwinn Continental** (1960s-1970s)
 
-{{< data-modules/stats-highlight title="Vintage Schwinn Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Schwinn Market Highlights" columns="3" / /  >}}
 
 {{< content-modules/section-header title="How to Identify Vintage Schwinn Bicycles" level="2" >}}
 Accurate identification is crucial for determining the value of a vintage Schwinn bike. Here's how to identify the model, year, and authenticity of your bicycle.
@@ -212,13 +212,13 @@ Different Schwinn models have distinctive characteristics:
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/schwinn-old-bike-values/schwinn-old-bike-values-image-4_WOJhgZh5A.png" alt="Collection of vintage Schwinn bicycle models from different eras" caption="Various Schwinn models spanning the 1950s through 1970s, showing the evolution of design" />}}
 
 {{< interactive-modules/condition-checklist title="Vintage Schwinn Identification Checklist" description="Use this checklist to help identify authentic vintage Schwinn bicycles" >}}
-  {{< interactive-modules/checklist-item label="Locate and record the serial number" / />}}
-  {{< interactive-modules/checklist-item label="Identify the head badge style and text" / />}}
-  {{< interactive-modules/checklist-item label="Check for "Schwinn Approved" or "Schwinn Built" markings on components" / />}}
-  {{< interactive-modules/checklist-item label="Note frame style (cantilever, straight-bar, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Identify unique features (tank, rack, springer fork, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Determine if paint is original (look under bottom bracket)" / />}}
-  {{< interactive-modules/checklist-item label="Check for Chicago-specific manufacturing details" / />}}
+  {{< interactive-modules/checklist-item label="Locate and record the serial number" /  >}}
+  {{< interactive-modules/checklist-item label="Identify the head badge style and text" /  >}}
+  {{< interactive-modules/checklist-item label="Check for "Schwinn Approved" or "Schwinn Built" markings on components" /  >}}
+  {{< interactive-modules/checklist-item label="Note frame style (cantilever, straight-bar, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Identify unique features (tank, rack, springer fork, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Determine if paint is original (look under bottom bracket)" /  >}}
+  {{< interactive-modules/checklist-item label="Check for Chicago-specific manufacturing details" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Affect Vintage Schwinn Values" level="2" >}}

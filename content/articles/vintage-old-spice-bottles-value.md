@@ -156,13 +156,13 @@ The evolution of bottle closures provides valuable dating information:
 - **Plastic Caps (1970s-Present)**: Transition to plastic closures began in the 1970s.
 
 {{< interactive-modules/condition-checklist title="Vintage Old Spice Bottle Authentication Checklist" description="Use this checklist to verify the authenticity and era of your Old Spice bottle" >}}
-  {{< interactive-modules/checklist-item label="Bottle has proper Shulton manufacturing marks on bottom" / />}}
-  {{< interactive-modules/checklist-item label="Ship design matches known authentic patterns" / />}}
-  {{< interactive-modules/checklist-item label="Glass has characteristic color/opacity for its purported era" / />}}
-  {{< interactive-modules/checklist-item label="Cap/stopper is period-appropriate for the bottle" / />}}
-  {{< interactive-modules/checklist-item label="Label (if present) shows appropriate design elements and fonts" / />}}
-  {{< interactive-modules/checklist-item label="Bottle size corresponds to known production measurements" / />}}
-  {{< interactive-modules/checklist-item label="Glass thickness is consistent with vintage manufacturing" / />}}
+  {{< interactive-modules/checklist-item label="Bottle has proper Shulton manufacturing marks on bottom" /  >}}
+  {{< interactive-modules/checklist-item label="Ship design matches known authentic patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Glass has characteristic color/opacity for its purported era" /  >}}
+  {{< interactive-modules/checklist-item label="Cap/stopper is period-appropriate for the bottle" /  >}}
+  {{< interactive-modules/checklist-item label="Label (if present) shows appropriate design elements and fonts" /  >}}
+  {{< interactive-modules/checklist-item label="Bottle size corresponds to known production measurements" /  >}}
+  {{< interactive-modules/checklist-item label="Glass thickness is consistent with vintage manufacturing" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Special and Limited Editions
@@ -206,7 +206,7 @@ Some Old Spice products were sold as matching sets:
 - **Gift sets** with talcum powder, soap, and other accessories
 - **Matching travel kits** with multiple coordinated containers
 
-{{< data-modules/stats-highlight title="Vintage Old Spice Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Old Spice Market Statistics" columns="3" / /  >}}
 
 ### Desirability Among Collectors
 

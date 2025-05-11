@@ -183,7 +183,7 @@ The 1937 penny was produced during the Great Depression era, a time when a singl
 - Denver (D mint mark)
 - San Francisco (S mint mark)
 
-{{< data-modules/stats-highlight title="1937 Wheat Penny Production Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="1937 Wheat Penny Production Facts" columns="3" / /  >}}
 
 | Mint Location | Mintage Total | Current Rarity |
 |---------------|---------------|----------------|
@@ -327,11 +327,11 @@ Several key factors determine whether your 1937 wheat penny is worth merely face
 The condition of a coin, known as its grade, is perhaps the most significant factor affecting its value. Coin grading uses a scale from 1 to 70, with 70 being perfect condition:
 
 {{< interactive-modules/condition-checklist title="1937 Wheat Penny Condition Assessment" description="Check applicable conditions that match your penny" >}}
-  {{< interactive-modules/checklist-item label="Full original mint luster present" / />}}
-  {{< interactive-modules/checklist-item label="No visible wear on high points" / />}}
-  {{< interactive-modules/checklist-item label="Full original "red" copper color" / />}}
-  {{< interactive-modules/checklist-item label="No visible scratches, marks, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Sharp, clear details in Lincoln's hair and wheat stalks" / />}}
+  {{< interactive-modules/checklist-item label="Full original mint luster present" /  >}}
+  {{< interactive-modules/checklist-item label="No visible wear on high points" /  >}}
+  {{< interactive-modules/checklist-item label="Full original "red" copper color" /  >}}
+  {{< interactive-modules/checklist-item label="No visible scratches, marks, or damage" /  >}}
+  {{< interactive-modules/checklist-item label="Sharp, clear details in Lincoln's hair and wheat stalks" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color Designations

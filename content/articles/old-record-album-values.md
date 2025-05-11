@@ -117,12 +117,12 @@ The value of vintage vinyl records depends on several key factors:
 
 According to Victrola's vinyl records value guide, rock n' roll, blues, and jazz records from 1960 to 1970 are generally the most valuable, with prices ranging from $500 to $3,000 for rare specimens in excellent condition.
 
-{{< data-modules/stats-highlight title="Vinyl Record Market Statistics" columns="3" / />}}
-{{< data-modules/stat-card value="$15" label="Average eBay Sale" color="blue" description="Typical price for most second-hand vinyl records" / />}}
+{{< data-modules/stats-highlight title="Vinyl Record Market Statistics" columns="3" /  >}}
+{{< data-modules/stat-card value="$15" label="Average eBay Sale" color="blue" description="Typical price for most second-hand vinyl records" /  >}}
 
-{{< data-modules/stat-card value="$500-$700" label="Vintage Jazz Value" color="green" description="Potential worth of early Miles Davis albums from the 1950s-60s" / />}}
+{{< data-modules/stat-card value="$500-$700" label="Vintage Jazz Value" color="green" description="Potential worth of early Miles Davis albums from the 1950s-60s" /  >}}
 
-{{< data-modules/stat-card value="$100-$200" label="First Pressings" color="orange" description="Typical value range for rare albums and first pressings in good condition" / />}}
+{{< data-modules/stat-card value="$100-$200" label="First Pressings" color="orange" description="Typical value range for rare albums and first pressings in good condition" /  >}}
 
 {{< content-modules/section-header title="Record Grading: Understanding Condition Ratings" level="2" >}}
 Condition is paramount when determining vinyl record values. The industry uses standardized grading terminology to describe record conditions consistently.
@@ -173,14 +173,14 @@ The standard vinyl grading scale includes:
 Remember to grade both the vinyl record and its cover separately, as each contributes to the overall value. According to collectors on Reddit, condition can make the difference between a record being worth $5 or $500.
 
 {{< interactive-modules/condition-checklist title="Vinyl Record Condition Assessment Tool" description="Check all items that apply to determine your record's potential grade" >}}
-{{< interactive-modules/checklist-item label="Record has no visible scratches under good light" / />}}
-{{< interactive-modules/checklist-item label="Original inner sleeve is present and undamaged" / />}}
-{{< interactive-modules/checklist-item label="Album cover has sharp corners with no ring wear" / />}}
-{{< interactive-modules/checklist-item label="Label is clean and intact with no stickers" / />}}
-{{< interactive-modules/checklist-item label="Record plays with no skips or significant surface noise" / />}}
-{{< interactive-modules/checklist-item label="Original inserts, posters or extras are included" / />}}
-{{< interactive-modules/checklist-item label="Album spine is intact with clear text" / />}}
-{{< interactive-modules/checklist-item label="No writing, stickers or taped seams on cover" / />}}
+{{< interactive-modules/checklist-item label="Record has no visible scratches under good light" /  >}}
+{{< interactive-modules/checklist-item label="Original inner sleeve is present and undamaged" /  >}}
+{{< interactive-modules/checklist-item label="Album cover has sharp corners with no ring wear" /  >}}
+{{< interactive-modules/checklist-item label="Label is clean and intact with no stickers" /  >}}
+{{< interactive-modules/checklist-item label="Record plays with no skips or significant surface noise" /  >}}
+{{< interactive-modules/checklist-item label="Original inserts, posters or extras are included" /  >}}
+{{< interactive-modules/checklist-item label="Album spine is intact with clear text" /  >}}
+{{< interactive-modules/checklist-item label="No writing, stickers or taped seams on cover" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Record Genres and Eras" level="2" >}}

@@ -155,12 +155,12 @@ True vintage pyroceram CorningWare has distinctive physical properties:
 - Has exceptional durability and resistance to thermal shock
 
 {{< interactive-modules/condition-checklist title="Vintage CorningWare Identification Checklist" description="Use this checklist to verify if you have authentic vintage pyroceram CorningWare" >}}
-  {{< interactive-modules/checklist-item label="Piece produces a clear, bell-like tone when gently tapped" / />}}
-  {{< interactive-modules/checklist-item label="Bottom has proper vintage Corning markings with appropriate trademark symbols" / />}}
-  {{< interactive-modules/checklist-item label="Model number follows the vintage coding system (P, A, or F series)" / />}}
-  {{< interactive-modules/checklist-item label="Material has slight translucency when held up to light" / />}}
-  {{< interactive-modules/checklist-item label="Pattern matches known vintage designs with correct coloration" / />}}
-  {{< interactive-modules/checklist-item label="Glass lid (if present) has correct vintage Pyrex or CorningWare markings" / />}}
+  {{< interactive-modules/checklist-item label="Piece produces a clear, bell-like tone when gently tapped" /  >}}
+  {{< interactive-modules/checklist-item label="Bottom has proper vintage Corning markings with appropriate trademark symbols" /  >}}
+  {{< interactive-modules/checklist-item label="Model number follows the vintage coding system (P, A, or F series)" /  >}}
+  {{< interactive-modules/checklist-item label="Material has slight translucency when held up to light" /  >}}
+  {{< interactive-modules/checklist-item label="Pattern matches known vintage designs with correct coloration" /  >}}
+  {{< interactive-modules/checklist-item label="Glass lid (if present) has correct vintage Pyrex or CorningWare markings" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Being able to authenticate vintage CorningWare is just the first step. The pattern identification is where the true value assessment begins.
@@ -280,12 +280,12 @@ The iconic Cornflower Blue pattern, featuring delicate blue cornflowers, was int
 - **Promotional Items**: Limited edition promotional pieces
 - **Grab-It Bowls**: These handled bowls with Cornflower patterns are particularly collectible
 
-{{< data-modules/stats-highlight title="Factors Influencing CorningWare Value" columns="3" / />}}
-{{< data-modules/stat-card value="Rarity" label="Pattern Scarcity" color="blue" description="Less common patterns often command higher prices" / />}}
+{{< data-modules/stats-highlight title="Factors Influencing CorningWare Value" columns="3" /  >}}
+{{< data-modules/stat-card value="Rarity" label="Pattern Scarcity" color="blue" description="Less common patterns often command higher prices" /  >}}
 
-{{< data-modules/stat-card value="Condition" label="Preservation State" color="green" description="Excellent condition with minimal wear increases value" / />}}
+{{< data-modules/stat-card value="Condition" label="Preservation State" color="green" description="Excellent condition with minimal wear increases value" /  >}}
 
-{{< data-modules/stat-card value="Completeness" label="Original Lids & Sets" color="orange" description="Pieces with original lids or complete sets are more valuable" / />}}
+{{< data-modules/stat-card value="Completeness" label="Original Lids & Sets" color="orange" description="Pieces with original lids or complete sets are more valuable" /  >}}
 
 While not as rare as some of the patterns listed earlier, Cornflower Blue remains the most recognizable and consistently collectable CorningWare pattern. Its iconic status in American kitchens has helped maintain its value over time.
 

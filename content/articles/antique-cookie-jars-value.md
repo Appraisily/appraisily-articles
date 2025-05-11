@@ -106,7 +106,7 @@ From kitchen staples to prized collectibles, antique cookie jars have transforme
 
 Cookie jar collecting gained serious momentum in the 1970s and continues today with enthusiasts hunting for rare examples from renowned manufacturers like McCoy, American Bisque, Brush Pottery, and Shawnee. Whether you're curious about the value of a family heirloom or looking to start your own collection, this comprehensive guide will help you understand what makes antique cookie jars valuable and how to identify the most collectible pieces.
 
-{{< data-modules/stats-highlight title="Antique Cookie Jar Market Overview" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Cookie Jar Market Overview" columns="3" / /  >}}
 <div class="stat-card" style="color: green">
   <div class="stat-value">$3,000+</div>
   <div class="stat-label">High-End Values</div>
@@ -222,14 +222,14 @@ Multiple factors influence the market value of antique cookie jars, from conditi
 Condition is perhaps the single most important factor in valuing antique cookie jars. According to collectors and experts featured in [Taste of Home's article](https://www.tasteofhome.com/article/vintage-cookie-jars/), superficial cracks, chips, paint loss, or other damage can drastically reduce a jar's value by 40-60%.
 
 {{< interactive-modules/condition-checklist title="Cookie Jar Condition Assessment" description="Check applicable items to evaluate your cookie jar's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the ceramic body" / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Lid fits properly and is original to the jar" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration visible" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer markings present" / />}}
-  {{< interactive-modules/checklist-item label="No crazing (fine cracks in the glaze)" / />}}
-  {{< interactive-modules/checklist-item label="Colors remain bright and unfaded" / />}}
-  {{< interactive-modules/checklist-item label="If applicable, all decorative elements intact" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the ceramic body" /  >}}
+  {{< interactive-modules/checklist-item label="Original paint intact with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="Lid fits properly and is original to the jar" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration visible" /  >}}
+  {{< interactive-modules/checklist-item label="Original manufacturer markings present" /  >}}
+  {{< interactive-modules/checklist-item label="No crazing (fine cracks in the glaze)" /  >}}
+  {{< interactive-modules/checklist-item label="Colors remain bright and unfaded" /  >}}
+  {{< interactive-modules/checklist-item label="If applicable, all decorative elements intact" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Scarcity

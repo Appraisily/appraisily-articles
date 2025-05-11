@@ -145,7 +145,7 @@ The island of Murano has been the center of Italian glassmaking since 1291 when 
 
 In this comprehensive guide, we'll explore the telltale signs of genuine Murano glass, common characteristics of fake pieces, and provide expert tips to help you confidently identify authentic treasures.
 
-{{< data-modules/stats-highlight title="Murano Glass Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Murano Glass Market Insights" columns="3" / /  >}}
 <div class="stat-card">
   <div class="stat-value">700+</div>
   <div class="stat-label">Years of Tradition</div>
@@ -187,11 +187,11 @@ These "imperfections" aren't flaws but evidence of the human touch and tradition
 The pontil mark is perhaps the most definitive physical feature of authentic Murano glass. This mark appears as a rough or polished spot on the bottom of the piece where it was attached to the pontil rod during creation.
 
 {{< interactive-modules/condition-checklist title="Authentic Pontil Mark Checklist" description="Check for these characteristics when examining a pontil mark:" >}}
-  {{< interactive-modules/checklist-item label="Slightly rough, uneven texture" / />}}
-  {{< interactive-modules/checklist-item label="Often circular or oval in shape" / />}}
-  {{< interactive-modules/checklist-item label="Located on the bottom or base of the item" / />}}
-  {{< interactive-modules/checklist-item label="May show evidence of grinding (on finished pieces)" / />}}
-  {{< interactive-modules/checklist-item label="Not perfectly symmetrical" / />}}
+  {{< interactive-modules/checklist-item label="Slightly rough, uneven texture" /  >}}
+  {{< interactive-modules/checklist-item label="Often circular or oval in shape" /  >}}
+  {{< interactive-modules/checklist-item label="Located on the bottom or base of the item" /  >}}
+  {{< interactive-modules/checklist-item label="May show evidence of grinding (on finished pieces)" /  >}}
+  {{< interactive-modules/checklist-item label="Not perfectly symmetrical" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Vibrant, Distinct Colors

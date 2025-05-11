@@ -163,7 +163,7 @@ Specially shaped bricks designed for particular architectural applications—suc
 
 Bricks with documented provenance from significant historical structures or sites can command extraordinary premiums. Bricks with certificates of authenticity from notable buildings, famous historical sites, or structures associated with important historical events may sell for $25-500 or more to collectors and institutions.
 
-{{< data-modules/stats-highlight title="Antique Brick Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Brick Market Statistics" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Factors That Determine Antique Brick Value" level="2" >}}
 Several key factors influence the value of antique bricks in today's market. Understanding these elements will help you accurately assess the worth of antique bricks you may encounter or own.
@@ -200,14 +200,14 @@ Unusual colors, distinctive shapes, uncommon sizes, or bricks from short-lived m
 Certain regions produced bricks with distinctive characteristics due to local clay composition and manufacturing traditions. Bricks from historically significant brickmaking centers often command higher prices due to regional pride and documented heritage.
 
 {{< interactive-modules/condition-checklist title="Antique Brick Condition Assessment" description="Check applicable items to evaluate the condition and potential value of an antique brick" >}}
-  {{< interactive-modules/checklist-item label="Brick is intact with no major cracks or chips" / />}}
-  {{< interactive-modules/checklist-item label="Original maker's mark or stamp is clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="Brick has been cleaned of excess mortar" / />}}
-  {{< interactive-modules/checklist-item label="Color is rich and shows original pigmentation" / />}}
-  {{< interactive-modules/checklist-item label="Brick maintains distinctive original texture" / />}}
-  {{< interactive-modules/checklist-item label="Has documented provenance or origin information" / />}}
-  {{< interactive-modules/checklist-item label="Possesses unique shape or specialized function" / />}}
-  {{< interactive-modules/checklist-item label="Shows hand-crafted characteristics (finger marks, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Brick is intact with no major cracks or chips" /  >}}
+  {{< interactive-modules/checklist-item label="Original maker's mark or stamp is clearly visible" /  >}}
+  {{< interactive-modules/checklist-item label="Brick has been cleaned of excess mortar" /  >}}
+  {{< interactive-modules/checklist-item label="Color is rich and shows original pigmentation" /  >}}
+  {{< interactive-modules/checklist-item label="Brick maintains distinctive original texture" /  >}}
+  {{< interactive-modules/checklist-item label="Has documented provenance or origin information" /  >}}
+  {{< interactive-modules/checklist-item label="Possesses unique shape or specialized function" /  >}}
+  {{< interactive-modules/checklist-item label="Shows hand-crafted characteristics (finger marks, etc.)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Antique Bricks" level="2" >}}
@@ -415,7 +415,7 @@ Significant price differences exist between markets based on:
 - **Transportation Costs**: The weight of bricks makes shipping expensive, creating regional price variations
 - **Local Preservation Requirements**: Stringent historical preservation requirements can drive up demand in certain cities
 
-{{< data-modules/stats-highlight title="Antique Brick Market Trends" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Brick Market Trends" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Tips for Buying and Selling Antique Bricks" level="2" >}}
 Whether you're looking to purchase antique bricks for a project or selling a collection, understanding best practices can help ensure fair pricing and authentic materials.

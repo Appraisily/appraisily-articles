@@ -177,7 +177,7 @@ This diverse category includes:
   Several key factors determine the value of antique and vintage piggy banks in today's market. Understanding these elements can help collectors identify potentially valuable finds.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / /  >}}
 
 ### Age and Rarity
 
@@ -200,14 +200,14 @@ Banks depicting important historical events, political figures, or cultural mome
 ### Maker and Provenance
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Factors that can increase your piggy bank's worth" >}}
-  {{< interactive-modules/checklist-item label="Original paint in excellent condition" / />}}
-  {{< interactive-modules/checklist-item label="Complete working mechanism (for mechanical banks)" / />}}
-  {{< interactive-modules/checklist-item label="Authentic maker's mark or signature present" / />}}
-  {{< interactive-modules/checklist-item label="Rare or limited production design" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging included" / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history" / />}}
-  {{< interactive-modules/checklist-item label="No repairs, cracks or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Unusual color variant or design feature" / />}}
+  {{< interactive-modules/checklist-item label="Original paint in excellent condition" /  >}}
+  {{< interactive-modules/checklist-item label="Complete working mechanism (for mechanical banks)" /  >}}
+  {{< interactive-modules/checklist-item label="Authentic maker's mark or signature present" /  >}}
+  {{< interactive-modules/checklist-item label="Rare or limited production design" /  >}}
+  {{< interactive-modules/checklist-item label="Original box or packaging included" /  >}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs, cracks or restoration" /  >}}
+  {{< interactive-modules/checklist-item label="Unusual color variant or design feature" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Certain manufacturers are particularly respected:

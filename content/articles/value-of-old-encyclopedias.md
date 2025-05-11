@@ -93,7 +93,7 @@ The hard truth about old encyclopedias is that most sets from the mid-to-late 20
 
 However, this doesn't mean that all encyclopedias are worthless. The value of old encyclopedias depends largely on their age, rarity, historical significance, condition, and collector interest. Some early editions and specialized sets can fetch impressive prices in the right markets.
 
-{{< data-modules/stats-highlight title="Encyclopedia Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Encyclopedia Market Statistics" columns="3" / /  >}}
 <div class="stat-card" style="color: blue">
   <div class="stat-value">$8-$1,200</div>
   <div class="stat-label">Price Range for Complete Sets</div>
@@ -139,14 +139,14 @@ Encyclopedias that mark important historical transitions or contain significant 
 Sets with leather bindings, especially those with ornate gold lettering or decorative elements, may have value based on their aesthetic qualities alone. Some buyers purchase old encyclopedias solely for decorative purposes, particularly those with uniform, attractive bindings.
 
 {{< interactive-modules/condition-checklist title="Encyclopedia Value Assessment Checklist" description="Check applicable items to determine potential value" >}}
-  {{< interactive-modules/checklist-item label="Set is complete with all volumes and supplementary materials" / />}}
-  {{< interactive-modules/checklist-item label="Published before 1900" / />}}
-  {{< interactive-modules/checklist-item label="First edition or early printing" / />}}
-  {{< interactive-modules/checklist-item label="Leather-bound with decorative elements" / />}}
-  {{< interactive-modules/checklist-item label="Excellent condition with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, mold, or musty odor" / />}}
-  {{< interactive-modules/checklist-item label="Contains historically significant information or illustrations" / />}}
-  {{< interactive-modules/checklist-item label="Published by prestigious publisher" / />}}
+  {{< interactive-modules/checklist-item label="Set is complete with all volumes and supplementary materials" /  >}}
+  {{< interactive-modules/checklist-item label="Published before 1900" /  >}}
+  {{< interactive-modules/checklist-item label="First edition or early printing" /  >}}
+  {{< interactive-modules/checklist-item label="Leather-bound with decorative elements" /  >}}
+  {{< interactive-modules/checklist-item label="Excellent condition with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="No water damage, mold, or musty odor" /  >}}
+  {{< interactive-modules/checklist-item label="Contains historically significant information or illustrations" /  >}}
+  {{< interactive-modules/checklist-item label="Published by prestigious publisher" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Encyclopedia Editions" level="2" id="most-valuable-encyclopedia-editions" >}}

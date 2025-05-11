@@ -108,13 +108,13 @@ Authentic antique rocking horses typically feature hand-carved wooden bodies wit
 Examine these elements to help authenticate an antique rocking horse:
 
 {{< interactive-modules/condition-checklist title="Antique Authentication Checklist" description="Features commonly found in genuine antique wooden rocking horses" >}}
-{{< interactive-modules/checklist-item label="Hand-carved wooden body with visible tool marks" / />}}
-{{< interactive-modules/checklist-item label="Real horsehair mane and tail (rather than synthetic)" / />}}
-{{< interactive-modules/checklist-item label="Leather saddle with brass tacks or traditional stitching" / />}}
-{{< interactive-modules/checklist-item label="Genuine gesso surface (plaster-like coating) under paint" / />}}
-{{< interactive-modules/checklist-item label="Glass eyes (rather than painted)" / />}}
-{{< interactive-modules/checklist-item label="Traditional joinery methods without modern screws" / />}}
-{{< interactive-modules/checklist-item label="Natural patina and wear patterns consistent with age" / />}}
+{{< interactive-modules/checklist-item label="Hand-carved wooden body with visible tool marks" /  >}}
+{{< interactive-modules/checklist-item label="Real horsehair mane and tail (rather than synthetic)" /  >}}
+{{< interactive-modules/checklist-item label="Leather saddle with brass tacks or traditional stitching" /  >}}
+{{< interactive-modules/checklist-item label="Genuine gesso surface (plaster-like coating) under paint" /  >}}
+{{< interactive-modules/checklist-item label="Glass eyes (rather than painted)" /  >}}
+{{< interactive-modules/checklist-item label="Traditional joinery methods without modern screws" /  >}}
+{{< interactive-modules/checklist-item label="Natural patina and wear patterns consistent with age" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Dating Your Rocking Horse
@@ -194,13 +194,13 @@ Beyond maker and age, several factors significantly impact an old wooden rocking
 Condition is arguably the most critical factor affecting value. According to data from [Carters Price Guide](https://www.carters.com.au/index.cfm/index/2204-rocking-horses/), auction results for vintage rocking horses range from just $18 for heavily damaged examples to over $3,000 for those in exceptional condition.
 
 {{< interactive-modules/condition-checklist title="Condition Value Indicators" description="Features that enhance or detract from a rocking horse's value" >}}
-{{< interactive-modules/checklist-item label="Original paint in good condition" / />}}
-{{< interactive-modules/checklist-item label="Intact original leather saddle and tack" / />}}
-{{< interactive-modules/checklist-item label="Complete, undamaged mane and tail" / />}}
-{{< interactive-modules/checklist-item label="Structural integrity without repairs" / />}}
-{{< interactive-modules/checklist-item label="Working stand mechanism (for swing or spring models)" / />}}
-{{< interactive-modules/checklist-item label="Original stirrups and accessories" / />}}
-{{< interactive-modules/checklist-item label="No cracks or splits in the wood" / />}}
+{{< interactive-modules/checklist-item label="Original paint in good condition" /  >}}
+{{< interactive-modules/checklist-item label="Intact original leather saddle and tack" /  >}}
+{{< interactive-modules/checklist-item label="Complete, undamaged mane and tail" /  >}}
+{{< interactive-modules/checklist-item label="Structural integrity without repairs" /  >}}
+{{< interactive-modules/checklist-item label="Working stand mechanism (for swing or spring models)" /  >}}
+{{< interactive-modules/checklist-item label="Original stirrups and accessories" /  >}}
+{{< interactive-modules/checklist-item label="No cracks or splits in the wood" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Size and Scale

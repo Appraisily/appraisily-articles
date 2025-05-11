@@ -97,7 +97,7 @@ Key differences include:
 
 5. **Interior Design** - Military models typically have simpler, more practical interiors focused on maximum storage rather than specialized compartments.
 
-{{< data-modules/stats-highlight title="Military Trunk Authentication Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Military Trunk Authentication Factors" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Common Types of Military Trunks Through History" level="2" >}}
 Different military eras produced distinctive trunk styles. Recognizing the characteristics of each period can help narrow down when your trunk was made and for what military branch.
@@ -157,14 +157,14 @@ Evidence of actual military service can help authenticate a trunk:
 - **Battle damage or repairs**: Field repairs using military-issued materials
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist to evaluate potential military trunk authenticity" >}}
-  {{< interactive-modules/checklist-item label="Era-appropriate construction techniques and materials" / />}}
-  {{< interactive-modules/checklist-item label="Military-specific hardware and fittings" / />}}
-  {{< interactive-modules/checklist-item label="Genuine period military markings or stenciling" / />}}
-  {{< interactive-modules/checklist-item label="Consistent wear patterns matching military use" / />}}
-  {{< interactive-modules/checklist-item label="Absence of decorative civilian features" / />}}
-  {{< interactive-modules/checklist-item label="Government contract numbers or manufacturer marks" / />}}
-  {{< interactive-modules/checklist-item label="Original military-issue interior features" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documents or photos showing military use" / />}}
+  {{< interactive-modules/checklist-item label="Era-appropriate construction techniques and materials" /  >}}
+  {{< interactive-modules/checklist-item label="Military-specific hardware and fittings" /  >}}
+  {{< interactive-modules/checklist-item label="Genuine period military markings or stenciling" /  >}}
+  {{< interactive-modules/checklist-item label="Consistent wear patterns matching military use" /  >}}
+  {{< interactive-modules/checklist-item label="Absence of decorative civilian features" /  >}}
+  {{< interactive-modules/checklist-item label="Government contract numbers or manufacturer marks" /  >}}
+  {{< interactive-modules/checklist-item label="Original military-issue interior features" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance documents or photos showing military use" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Valuing Military Antique Trunks" level="2" >}}

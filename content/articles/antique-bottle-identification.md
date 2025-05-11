@@ -102,7 +102,7 @@ Antique bottles are generally considered to be those manufactured before the 192
 
 The four primary characteristics you should examine when identifying an antique bottle are:
 
-{{< data-modules/stats-highlight title="Key Identification Factors" columns="2" / / />}}
+{{< data-modules/stats-highlight title="Key Identification Factors" columns="2" / /  >}}
 
 1. **Manufacturing method**: How the bottle was made (hand-blown, mold-blown, machine-made)
 2. **Physical characteristics**: Shape, size, color, and unique features
@@ -224,13 +224,13 @@ To identify maker's marks, you'll need specialized reference materials. Some exc
 Remember that many glass manufacturers used similar or identical marks at different time periods, so context and other physical characteristics are important in making a final determination.
 
 {{< interactive-modules/condition-checklist title="Maker's Mark Identification Checklist" description="Use this checklist to help identify the source of your bottle's markings" >}}
-  {{< interactive-modules/checklist-item label="Check the bottom of the bottle for initials, symbols, or numbers" / />}}
-  {{< interactive-modules/checklist-item label="Look for embossing on all sides of the bottle" / />}}
-  {{< interactive-modules/checklist-item label="Note any city/state names which may indicate origin" / />}}
-  {{< interactive-modules/checklist-item label="Record any patent dates or numbers" / />}}
-  {{< interactive-modules/checklist-item label="Identify any product names or company information" / />}}
-  {{< interactive-modules/checklist-item label="Check for volume or measurement markings" / />}}
-  {{< interactive-modules/checklist-item label="Compare symbols to known maker's mark databases" / />}}
+  {{< interactive-modules/checklist-item label="Check the bottom of the bottle for initials, symbols, or numbers" /  >}}
+  {{< interactive-modules/checklist-item label="Look for embossing on all sides of the bottle" /  >}}
+  {{< interactive-modules/checklist-item label="Note any city/state names which may indicate origin" /  >}}
+  {{< interactive-modules/checklist-item label="Record any patent dates or numbers" /  >}}
+  {{< interactive-modules/checklist-item label="Identify any product names or company information" /  >}}
+  {{< interactive-modules/checklist-item label="Check for volume or measurement markings" /  >}}
+  {{< interactive-modules/checklist-item label="Compare symbols to known maker's mark databases" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Color as an Identification Tool" level="2" >}}
@@ -262,14 +262,14 @@ Glass naturally has a greenish tint due to iron impurities in the sand used to m
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Antique Bottle Condition Assessment" description="Use this checklist to evaluate the condition of your antique bottle" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or significant damage" / />}}
-  {{< interactive-modules/checklist-item label="Original color without excessive staining" / />}}
-  {{< interactive-modules/checklist-item label="Clear, readable embossing (if present)" / />}}
-  {{< interactive-modules/checklist-item label="Complete, undamaged lip/finish" / />}}
-  {{< interactive-modules/checklist-item label="No excessive wear to base or body" / />}}
-  {{< interactive-modules/checklist-item label="Original closure present (rare but valuable)" / />}}
-  {{< interactive-modules/checklist-item label="Original label intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original contents (extremely rare)" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or significant damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original color without excessive staining" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, readable embossing (if present)" /  >}}
+  {{< interactive-modules/checklist-item label="Complete, undamaged lip/finish" /  >}}
+  {{< interactive-modules/checklist-item label="No excessive wear to base or body" /  >}}
+  {{< interactive-modules/checklist-item label="Original closure present (rare but valuable)" /  >}}
+  {{< interactive-modules/checklist-item label="Original label intact (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Original contents (extremely rare)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Condition Issues

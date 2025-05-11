@@ -74,7 +74,7 @@ The value of vintage Cabbage Patch dolls varies dramatically based on several fa
 
 This comprehensive guide will help you determine what your vintage Cabbage Patch dolls are worth in today's market, identify the most valuable models, and understand the key factors that affect their value.
 
-{{< data-modules/stats-highlight title="Cabbage Patch Dolls Market Overview" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Cabbage Patch Dolls Market Overview" columns="3" / /  >}}
 <tr>
   <td>Average Value Range</td>
   <td>$20-$500</td>
@@ -207,16 +207,16 @@ Multiple elements influence the market value of vintage Cabbage Patch dolls. Und
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Cabbage Patch Doll Condition Checklist" description="Use this checklist to assess the condition of your vintage doll" >}}
-  {{< interactive-modules/checklist-item label="Original adoption papers and birth certificate present" / />}}
-  {{< interactive-modules/checklist-item label="Original outfit complete and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Original box in good condition" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or staining on the vinyl head" / />}}
-  {{< interactive-modules/checklist-item label="Hair intact with minimal wear or thinning" / />}}
-  {{< interactive-modules/checklist-item label="Xavier Roberts signature clearly visible on bottom" / />}}
-  {{< interactive-modules/checklist-item label="No tears, rips, or damage to the cloth body" / />}}
-  {{< interactive-modules/checklist-item label="No strong odors or evidence of mold/mildew" / />}}
-  {{< interactive-modules/checklist-item label="Eyes and facial features intact with no scratches" / />}}
-  {{< interactive-modules/checklist-item label="All limbs securely attached with good mobility" / />}}
+  {{< interactive-modules/checklist-item label="Original adoption papers and birth certificate present" /  >}}
+  {{< interactive-modules/checklist-item label="Original outfit complete and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="Original box in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="No discoloration or staining on the vinyl head" /  >}}
+  {{< interactive-modules/checklist-item label="Hair intact with minimal wear or thinning" /  >}}
+  {{< interactive-modules/checklist-item label="Xavier Roberts signature clearly visible on bottom" /  >}}
+  {{< interactive-modules/checklist-item label="No tears, rips, or damage to the cloth body" /  >}}
+  {{< interactive-modules/checklist-item label="No strong odors or evidence of mold/mildew" /  >}}
+  {{< interactive-modules/checklist-item label="Eyes and facial features intact with no scratches" /  >}}
+  {{< interactive-modules/checklist-item label="All limbs securely attached with good mobility" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition is perhaps the most critical factor determining a doll's value. Mint condition dolls with all original accessories can be worth 3-5 times more than the same doll with damage or missing components.

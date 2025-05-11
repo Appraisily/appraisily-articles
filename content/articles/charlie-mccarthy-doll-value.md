@@ -149,14 +149,14 @@ The older and rarer the Charlie McCarthy doll, the more valuable it typically is
 ## Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Charlie McCarthy Doll Condition Checklist" description="Use this checklist to assess your doll's condition and potential value" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact with minimal crazing or wear" / />}}
-  {{< interactive-modules/checklist-item label="All original clothing present (tuxedo, top hat, monocle)" / />}}
-  {{< interactive-modules/checklist-item label="Working mechanics (mouth, head, and limb movement)" / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to head or body" / />}}
-  {{< interactive-modules/checklist-item label="Original box and packaging materials preserved" / />}}
-  {{< interactive-modules/checklist-item label="Documentation, instruction booklets or certificates present" / />}}
-  {{< interactive-modules/checklist-item label="No musty odors, mold, or pest damage" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer tags or markings visible" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with minimal crazing or wear" /  >}}
+  {{< interactive-modules/checklist-item label="All original clothing present (tuxedo, top hat, monocle)" /  >}}
+  {{< interactive-modules/checklist-item label="Working mechanics (mouth, head, and limb movement)" /  >}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to head or body" /  >}}
+  {{< interactive-modules/checklist-item label="Original box and packaging materials preserved" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation, instruction booklets or certificates present" /  >}}
+  {{< interactive-modules/checklist-item label="No musty odors, mold, or pest damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original manufacturer tags or markings visible" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Size and Materials
@@ -180,7 +180,7 @@ A Charlie McCarthy doll still in its original box with all accessories intact ca
 - Certificate of authenticity (for limited editions)
 - Original clothing elements like spare monocles
 
-{{< data-modules/stats-highlight title="Charlie McCarthy Doll Value Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Charlie McCarthy Doll Value Statistics" columns="3" / /  >}}
 
 | Statistic | Value | Context |
 | --- | --- | --- |

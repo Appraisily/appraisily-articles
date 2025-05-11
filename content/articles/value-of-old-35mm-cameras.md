@@ -118,7 +118,7 @@ While primarily known for medium format cameras, Hasselblad did produce the limi
 
 Vintage Canon rangefinders like the P, VI, and 7 series have significant collector value, ranging from $200-$1,000 depending on condition. The Canon AE-1 and A-1 from the 1970s have also seen dramatic price increases in recent years, with mint examples now selling for $200-$500.
 
-{{< data-modules/stats-highlight title="Market Value Statistics by Brand" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Market Value Statistics by Brand" columns="3" / /  >}}
 
 **Leica**
 - Average appreciation since 2015: 175%
@@ -146,13 +146,13 @@ The value of a vintage 35mm camera isn't determined by age alone. In fact, many 
 Condition is perhaps the most significant factor in determining a camera's value. Cameras are typically graded on a scale from "Mint" to "Parts/Repair":
 
 {{< interactive-modules/condition-checklist title="Camera Condition Assessment Checklist" description="Use this checklist to evaluate your camera's condition" >}}
-  {{< interactive-modules/checklist-item label="Mint (90-100%): Appears new with no signs of use" / />}}
-  {{< interactive-modules/checklist-item label="Excellent Plus (80-89%): Nearly perfect with minimal signs of use" / />}}
-  {{< interactive-modules/checklist-item label="Excellent (70-79%): Very clean with minor cosmetic wear but no operational issues" / />}}
-  {{< interactive-modules/checklist-item label="Very Good (60-69%): Shows signs of use but functions properly" / />}}
-  {{< interactive-modules/checklist-item label="Good (50-59%): Noticeable wear, may have minor issues but still functional" / />}}
-  {{< interactive-modules/checklist-item label="Fair (40-49%): Heavy wear, may have functional issues that need repair" / />}}
-  {{< interactive-modules/checklist-item label="Poor (below 40%): Significant issues, mainly useful for parts" / />}}
+  {{< interactive-modules/checklist-item label="Mint (90-100%): Appears new with no signs of use" /  >}}
+  {{< interactive-modules/checklist-item label="Excellent Plus (80-89%): Nearly perfect with minimal signs of use" /  >}}
+  {{< interactive-modules/checklist-item label="Excellent (70-79%): Very clean with minor cosmetic wear but no operational issues" /  >}}
+  {{< interactive-modules/checklist-item label="Very Good (60-69%): Shows signs of use but functions properly" /  >}}
+  {{< interactive-modules/checklist-item label="Good (50-59%): Noticeable wear, may have minor issues but still functional" /  >}}
+  {{< interactive-modules/checklist-item label="Fair (40-49%): Heavy wear, may have functional issues that need repair" /  >}}
+  {{< interactive-modules/checklist-item label="Poor (below 40%): Significant issues, mainly useful for parts" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 The difference between mint and excellent condition can often represent a 30-50% price differential. Cameras in poor or non-working condition typically sell for parts value only, unless they are extremely rare.

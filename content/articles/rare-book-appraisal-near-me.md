@@ -124,7 +124,7 @@ Before searching for an appraiser, it's important to understand what a professio
 
 A rare book appraisal is a detailed evaluation conducted by a qualified expert who assesses a book's authenticity, condition, rarity, historical significance, and market value. Unlike casual online price checks, professional appraisals provide documented valuations that can be used for insurance, tax purposes, estate planning, or selling decisions.
 
-{{< data-modules/stats-highlight title="When You Might Need a Professional Book Appraisal" columns="3" / / />}}
+{{< data-modules/stats-highlight title="When You Might Need a Professional Book Appraisal" columns="3" / /  >}}
 
 1. **Insurance Coverage**: When you need to document the value of rare books for insurance policies
 2. **Estate Planning**: For accurate valuations when dividing assets or planning inheritances
@@ -163,16 +163,16 @@ Professional appraisers evaluate numerous factors when determining a book's valu
 ![Various rare books showing different binding styles, conditions, and ages](https://ik.imagekit.io/appraisily/SEO/rare-book-appraisal-near-me/rare-book-appraisal-near-me-image-3_0y0hvoZOL.png)
 
 {{< interactive-modules/condition-checklist title="Key Value Factors for Rare Books" description="These elements significantly impact a book's appraisal value" >}}
-{{< interactive-modules/checklist-item label="First Edition Status" / />}}
-{{< interactive-modules/checklist-item label="Author Signatures or Inscriptions" / />}}
-{{< interactive-modules/checklist-item label="Limited Edition Number" / />}}
-{{< interactive-modules/checklist-item label="Physical Condition" / />}}
-{{< interactive-modules/checklist-item label="Completeness (including dust jacket)" / />}}
-{{< interactive-modules/checklist-item label="Binding Quality and Material" / />}}
-{{< interactive-modules/checklist-item label="Historical Significance" / />}}
-{{< interactive-modules/checklist-item label="Provenance (ownership history)" / />}}
-{{< interactive-modules/checklist-item label="Illustrations by Notable Artists" / />}}
-{{< interactive-modules/checklist-item label="Scarcity in the Current Market" / />}}
+{{< interactive-modules/checklist-item label="First Edition Status" /  >}}
+{{< interactive-modules/checklist-item label="Author Signatures or Inscriptions" /  >}}
+{{< interactive-modules/checklist-item label="Limited Edition Number" /  >}}
+{{< interactive-modules/checklist-item label="Physical Condition" /  >}}
+{{< interactive-modules/checklist-item label="Completeness (including dust jacket)" /  >}}
+{{< interactive-modules/checklist-item label="Binding Quality and Material" /  >}}
+{{< interactive-modules/checklist-item label="Historical Significance" /  >}}
+{{< interactive-modules/checklist-item label="Provenance (ownership history)" /  >}}
+{{< interactive-modules/checklist-item label="Illustrations by Notable Artists" /  >}}
+{{< interactive-modules/checklist-item label="Scarcity in the Current Market" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Understanding Edition and Printing

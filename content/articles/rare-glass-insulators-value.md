@@ -131,7 +131,7 @@ Understanding what makes certain insulators valuable can help collectors make in
 
 Color is often the single most important value determinant. While aqua (a light blue-green) is the most common color for vintage insulators, rare colors can transform an otherwise ordinary piece into a highly valuable collectible.
 
-{{< data-modules/stats-highlight title="Most Valuable Insulator Colors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Most Valuable Insulator Colors" columns="3" / /  >}}
 
 1. **Cobalt Blue**: Deep, rich blues can increase value by 10-20x over common colors
 2. **True Purple**: Natural purple glass (not SCA altered) is among the most sought-after colors
@@ -149,12 +149,12 @@ Manufacturers produced certain models in limited quantities, making them inheren
 As with most collectibles, condition significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Glass Insulator Condition Assessment" description="Features that determine mint condition status" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or flakes anywhere on the insulator" / />}}
-  {{< interactive-modules/checklist-item label="Original glossy glass surface with no excessive case wear" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or scuffs on the glass" / />}}
-  {{< interactive-modules/checklist-item label="Complete, undamaged embossing/lettering" / />}}
-  {{< interactive-modules/checklist-item label="No interior fractures, stress cracks, or bruises" / />}}
-  {{< interactive-modules/checklist-item label="Original, unaltered color (not sun-colored amethyst)" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or flakes anywhere on the insulator" /  >}}
+  {{< interactive-modules/checklist-item label="Original glossy glass surface with no excessive case wear" /  >}}
+  {{< interactive-modules/checklist-item label="No significant scratches or scuffs on the glass" /  >}}
+  {{< interactive-modules/checklist-item label="Complete, undamaged embossing/lettering" /  >}}
+  {{< interactive-modules/checklist-item label="No interior fractures, stress cracks, or bruises" /  >}}
+  {{< interactive-modules/checklist-item label="Original, unaltered color (not sun-colored amethyst)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Manufacturer & Age

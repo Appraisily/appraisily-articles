@@ -85,7 +85,7 @@ The 1886 Morgan Silver Dollar is one of the most widely recognized and collected
 The 1886 Morgan Silver Dollar was minted during a significant period in American coinage history. Before diving into specific values, let's understand the basic details about this historic coin.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Facts About the 1886 Morgan Dollar" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Facts About the 1886 Morgan Dollar" columns="3" / /  >}}
 
 - **Designer**: George T. Morgan
 - **Composition**: 90% silver, 10% copper
@@ -182,14 +182,14 @@ The condition of your 1886 Morgan Silver Dollar is perhaps the single most impor
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="1886 Morgan Dollar Condition Assessment" description="Check applicable items to help determine your coin's approximate condition" >}}
-  {{< interactive-modules/checklist-item label="Full mint luster present (indicates uncirculated condition)" / />}}
-  {{< interactive-modules/checklist-item label="No visible wear on high points (cheek, hair details)" / />}}
-  {{< interactive-modules/checklist-item label="No significant contact marks or scratches" / />}}
-  {{< interactive-modules/checklist-item label="Strong, clear striking details throughout design" / />}}
-  {{< interactive-modules/checklist-item label="Attractive natural toning (if present)" / />}}
-  {{< interactive-modules/checklist-item label="No cleaning, polishing, or artificial enhancement" / />}}
-  {{< interactive-modules/checklist-item label="Sharp rim with no significant damage" / />}}
-  {{< interactive-modules/checklist-item label="Good eye appeal overall" / />}}
+  {{< interactive-modules/checklist-item label="Full mint luster present (indicates uncirculated condition)" /  >}}
+  {{< interactive-modules/checklist-item label="No visible wear on high points (cheek, hair details)" /  >}}
+  {{< interactive-modules/checklist-item label="No significant contact marks or scratches" /  >}}
+  {{< interactive-modules/checklist-item label="Strong, clear striking details throughout design" /  >}}
+  {{< interactive-modules/checklist-item label="Attractive natural toning (if present)" /  >}}
+  {{< interactive-modules/checklist-item label="No cleaning, polishing, or artificial enhancement" /  >}}
+  {{< interactive-modules/checklist-item label="Sharp rim with no significant damage" /  >}}
+  {{< interactive-modules/checklist-item label="Good eye appeal overall" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Coin Grades and Their Meaning

@@ -174,7 +174,7 @@ While online resources and DIY valuation methods exist, they cannot replace the 
 
 5. **Objective Valuation**: Unbiased third-party opinions protect your interests, especially in cases of inheritance disputes or insurance claims.
 
-{{< data-modules/stats-highlight title="The Value of Professional Appraisals" columns="3" / / />}}
+{{< data-modules/stats-highlight title="The Value of Professional Appraisals" columns="3" / /  >}}
 
 <tr>
   <td>Professional Accuracy</td>
@@ -231,14 +231,14 @@ Online platforms can help you find and verify appraiser reputations:
 - [Palm Springs Antique Appraisals](https://www.palmspringsantiqueappraisal.com/): Specialists in fine art, textiles, and antiques in the Palm Springs area.
 
 {{< interactive-modules/condition-checklist title="Appraiser Vetting Checklist" description="Use this checklist to evaluate potential appraisers before hiring" >}}
-  {{< interactive-modules/checklist-item label="Verified professional credentials (ISA, ASA, or AAA certification)" / />}}
-  {{< interactive-modules/checklist-item label="Specialization in your specific type of antique or artwork" / />}}
-  {{< interactive-modules/checklist-item label="Transparent fee structure provided in writing" / />}}
-  {{< interactive-modules/checklist-item label="Positive client reviews and testimonials" / />}}
-  {{< interactive-modules/checklist-item label="Clear timeline for appraisal completion" / />}}
-  {{< interactive-modules/checklist-item label="Willingness to explain their appraisal methodology" / />}}
-  {{< interactive-modules/checklist-item label="No conflict of interest (not offering to buy your items)" / />}}
-  {{< interactive-modules/checklist-item label="Professional liability insurance" / />}}
+  {{< interactive-modules/checklist-item label="Verified professional credentials (ISA, ASA, or AAA certification)" /  >}}
+  {{< interactive-modules/checklist-item label="Specialization in your specific type of antique or artwork" /  >}}
+  {{< interactive-modules/checklist-item label="Transparent fee structure provided in writing" /  >}}
+  {{< interactive-modules/checklist-item label="Positive client reviews and testimonials" /  >}}
+  {{< interactive-modules/checklist-item label="Clear timeline for appraisal completion" /  >}}
+  {{< interactive-modules/checklist-item label="Willingness to explain their appraisal methodology" /  >}}
+  {{< interactive-modules/checklist-item label="No conflict of interest (not offering to buy your items)" /  >}}
+  {{< interactive-modules/checklist-item label="Professional liability insurance" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Appraiser Credentials and Qualifications" level="2" >}}

@@ -74,7 +74,7 @@ The 1887 Morgan Silver Dollar features the following design elements:
 
 ### Physical Specifications
 
-{{< data-modules/stats-highlight title="1887 Morgan Dollar Specifications" columns="3" / / />}}
+{{< data-modules/stats-highlight title="1887 Morgan Dollar Specifications" columns="3" / /  >}}
 
 - **Composition:** 90% silver, 10% copper
 - **Weight:** 26.73 grams
@@ -186,11 +186,11 @@ As shown in the value chart, the mint mark significantly impacts value:
 The condition or grade of your coin is perhaps the most critical factor affecting its value. Morgan dollars are graded on the Sheldon scale from 1 to 70:
 
 {{< interactive-modules/condition-checklist title="Morgan Dollar Grading Indicators" description="Key features to examine when assessing your coin's condition" >}}
-  {{< interactive-modules/checklist-item label="Look for wear on Liberty's hair above the forehead and ear" / />}}
-  {{< interactive-modules/checklist-item label="Check the eagle's breast feathers on the reverse for signs of wear" / />}}
-  {{< interactive-modules/checklist-item label="Examine the coin's rim for damage or imperfections" / />}}
-  {{< interactive-modules/checklist-item label="Look for bag marks (small nicks from contact with other coins)" / />}}
-  {{< interactive-modules/checklist-item label="Check for original luster on uncirculated specimens" / />}}
+  {{< interactive-modules/checklist-item label="Look for wear on Liberty's hair above the forehead and ear" /  >}}
+  {{< interactive-modules/checklist-item label="Check the eagle's breast feathers on the reverse for signs of wear" /  >}}
+  {{< interactive-modules/checklist-item label="Examine the coin's rim for damage or imperfections" /  >}}
+  {{< interactive-modules/checklist-item label="Look for bag marks (small nicks from contact with other coins)" /  >}}
+  {{< interactive-modules/checklist-item label="Check for original luster on uncirculated specimens" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Special Characteristics
@@ -258,12 +258,12 @@ With valuable coins like the 1887 Morgan dollar, counterfeits are unfortunately 
 ### Key Authentication Points
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for 1887 Morgan Dollars" description="Check these factors to help determine authenticity" >}}
-  {{< interactive-modules/checklist-item label="Correct weight: should be 26.73 grams" / />}}
-  {{< interactive-modules/checklist-item label="Correct diameter: should be 38.1 mm (1.5 inches)" / />}}
-  {{< interactive-modules/checklist-item label="Reeded edge with the correct number of reeds" / />}}
-  {{< interactive-modules/checklist-item label="Authentic silver ring when tapped (not a definitive test)" / />}}
-  {{< interactive-modules/checklist-item label="Examine for casting seams, which indicate a counterfeit" / />}}
-  {{< interactive-modules/checklist-item label="Check for correct font styles and design elements" / />}}
+  {{< interactive-modules/checklist-item label="Correct weight: should be 26.73 grams" /  >}}
+  {{< interactive-modules/checklist-item label="Correct diameter: should be 38.1 mm (1.5 inches)" /  >}}
+  {{< interactive-modules/checklist-item label="Reeded edge with the correct number of reeds" /  >}}
+  {{< interactive-modules/checklist-item label="Authentic silver ring when tapped (not a definitive test)" /  >}}
+  {{< interactive-modules/checklist-item label="Examine for casting seams, which indicate a counterfeit" /  >}}
+  {{< interactive-modules/checklist-item label="Check for correct font styles and design elements" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 For definitive authentication of valuable Morgan dollars, professional grading services like PCGS, NGC, or ANACS are recommended. These services not only authenticate the coin but also grade its condition and encapsulate it in a tamper-evident holder.
@@ -301,11 +301,11 @@ Proper storage is essential to maintain both the condition and value of your Mor
 {{< interactive-modules/condition-checklist title="Morgan Dollar Storage Best Practices" description="Follow these guidelines to preserve your coin's condition and value" >}}
   
 {{< /interactive-modules/condition-checklist >}}
-{{< interactive-modules/checklist-item label="Use non-PVC coin holders or capsules" / />}}
-  {{< interactive-modules/checklist-item label="Store in a cool, dry environment with stable humidity" / />}}
-  {{< interactive-modules/checklist-item label="Avoid handling coins directly - use cotton gloves or hold by the edges" / />}}
-  {{< interactive-modules/checklist-item label="Don't clean your coins - this can significantly reduce their value" / />}}
-  {{< interactive-modules/checklist-item label="Consider professional grading and encapsulation for valuable specimens" / />}}
+{{< interactive-modules/checklist-item label="Use non-PVC coin holders or capsules" /  >}}
+  {{< interactive-modules/checklist-item label="Store in a cool, dry environment with stable humidity" /  >}}
+  {{< interactive-modules/checklist-item label="Avoid handling coins directly - use cotton gloves or hold by the edges" /  >}}
+  {{< interactive-modules/checklist-item label="Don't clean your coins - this can significantly reduce their value" /  >}}
+  {{< interactive-modules/checklist-item label="Consider professional grading and encapsulation for valuable specimens" /  >}}
 
 
 For 1887 Morgan dollars of significant value (generally MS63 and above), professional grading and encapsulation by services like PCGS or NGC provide both authentication and protection while potentially increasing marketability.

@@ -104,7 +104,7 @@ According to [Cosmopolitan](https://www.cosmopolitan.com/lifestyle/g39715481/mos
 
 As a Gold Label edition with only 5,300 dolls produced worldwide, the Athena Barbie is considered highly collectible. Featuring an elegant design inspired by Greek mythology, these dolls start at around $700 but can sell for much more depending on condition and packaging.
 
-{{< data-modules/stats-highlight title="Top Barbie Values" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Top Barbie Values" columns="3" / /  >}}
 
 | Barbie Doll | Year | Estimated Value |
 |-------------|------|-----------------|
@@ -187,14 +187,14 @@ According to [ValueMyStuff](https://www.valuemystuff.com/us/blog/how-to-value-ba
 Condition is perhaps the most critical factor in determining value. According to [USA Today](https://www.usatoday.com/story/money/2023/07/28/barbie-movie-impact-resale-collectors-market/70479025007/), Barbie dolls in mint condition with intact original packaging can be worth significantly more than those showing signs of play or damage.
 
 {{< interactive-modules/condition-checklist title="Barbie Condition Assessment" description="Check applicable items to determine your doll's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original box in excellent condition" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity (for modern collector editions)" / />}}
-  {{< interactive-modules/checklist-item label="All original accessories present" / />}}
-  {{< interactive-modules/checklist-item label="No hair cuts or styling" / />}}
-  {{< interactive-modules/checklist-item label="No marks or discoloration on the doll's body" / />}}
-  {{< interactive-modules/checklist-item label="Original clothing intact and pristine" / />}}
-  {{< interactive-modules/checklist-item label="No limb damage or looseness" / />}}
-  {{< interactive-modules/checklist-item label="No fading or color transfer" / />}}
+  {{< interactive-modules/checklist-item label="Original box in excellent condition" /  >}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity (for modern collector editions)" /  >}}
+  {{< interactive-modules/checklist-item label="All original accessories present" /  >}}
+  {{< interactive-modules/checklist-item label="No hair cuts or styling" /  >}}
+  {{< interactive-modules/checklist-item label="No marks or discoloration on the doll's body" /  >}}
+  {{< interactive-modules/checklist-item label="Original clothing intact and pristine" /  >}}
+  {{< interactive-modules/checklist-item label="No limb damage or looseness" /  >}}
+  {{< interactive-modules/checklist-item label="No fading or color transfer" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Production Labels

@@ -151,7 +151,7 @@ The condition of a fire grenade is paramount in determining its value:
 * **Color retention**: Vibrant, unfaded glass colors are highly desirable.
 * **Original mounting hardware**: Complete sets with wall brackets or storage cases significantly increase value.
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / /  >}}
 
 | Factor | Impact | Notes |
 |--------|--------|-------|
@@ -262,12 +262,12 @@ When examining a potential antique fire grenade, look for these distinguishing c
 * **Specific shapes**: Most authentic grenades have distinctive bulbous or teardrop shapes with narrow necks.
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist to help identify authentic fire grenades" >}}
-  {{< interactive-modules/checklist-item label="Contains manufacturer name embossed in the glass" / />}}
-  {{< interactive-modules/checklist-item label="Shows appropriate signs of age (wear to base, slight discoloration)" / />}}
-  {{< interactive-modules/checklist-item label="Features thin glass construction consistent with period examples" / />}}
-  {{< interactive-modules/checklist-item label="Has correct shape and design for the purported manufacturer" / />}}
-  {{< interactive-modules/checklist-item label="Displays appropriate manufacturing techniques for its era" / />}}
-  {{< interactive-modules/checklist-item label="Contains original mounting hardware if applicable" / />}}
+  {{< interactive-modules/checklist-item label="Contains manufacturer name embossed in the glass" /  >}}
+  {{< interactive-modules/checklist-item label="Shows appropriate signs of age (wear to base, slight discoloration)" /  >}}
+  {{< interactive-modules/checklist-item label="Features thin glass construction consistent with period examples" /  >}}
+  {{< interactive-modules/checklist-item label="Has correct shape and design for the purported manufacturer" /  >}}
+  {{< interactive-modules/checklist-item label="Displays appropriate manufacturing techniques for its era" /  >}}
+  {{< interactive-modules/checklist-item label="Contains original mounting hardware if applicable" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Manufacturers and Markings

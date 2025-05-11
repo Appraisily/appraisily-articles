@@ -144,7 +144,7 @@ Most vintage Bulova watches have markings on the caseback that can help with ide
 
 Bulova used a unique dating system from 1950 to around 2009, consisting of a letter and a number:
 
-{{< data-modules/stats-highlight title="Bulova Date Code System" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Bulova Date Code System" columns="3" / /  >}}
 
 - **The Letter**: Represents the decade (L=1950s, M=1960s, N=1970s, etc.)
 - **The Number**: Indicates the year within that decade
@@ -160,12 +160,12 @@ Bulova watches contain various movements depending on the era:
 - **1970s-1980s**: Mix of automatic, Accutron, and early quartz movements
 
 {{< interactive-modules/condition-checklist title="Bulova Authentication Checklist" description="Check these elements when verifying an authentic vintage Bulova" >}}
-  {{< interactive-modules/checklist-item label="Bulova logo correctly styled on dial and movement" / />}}
-  {{< interactive-modules/checklist-item label="Case markings match the appropriate era" / />}}
-  {{< interactive-modules/checklist-item label="Movement type consistent with production period" / />}}
-  {{< interactive-modules/checklist-item label="Date code present (for watches made after 1950)" / />}}
-  {{< interactive-modules/checklist-item label="Case style and dial design authentic to the period" / />}}
-  {{< interactive-modules/checklist-item label="Quality of finishing consistent with Bulova standards" / />}}
+  {{< interactive-modules/checklist-item label="Bulova logo correctly styled on dial and movement" /  >}}
+  {{< interactive-modules/checklist-item label="Case markings match the appropriate era" /  >}}
+  {{< interactive-modules/checklist-item label="Movement type consistent with production period" /  >}}
+  {{< interactive-modules/checklist-item label="Date code present (for watches made after 1950)" /  >}}
+  {{< interactive-modules/checklist-item label="Case style and dial design authentic to the period" /  >}}
+  {{< interactive-modules/checklist-item label="Quality of finishing consistent with Bulova standards" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 For more detailed identification help, the [My Bulova](https://www.mybulova.com/) website maintains an extensive database of vintage Bulova models that can be searched by characteristics or date codes.
@@ -256,7 +256,7 @@ When determining the value of a vintage Bulova watch, several key factors come i
 
 The condition of a vintage Bulova watch is perhaps the most significant factor affecting its value:
 
-{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / /  >}}
 
 - **Mint/New Old Stock (NOS)**: Unworn watches with original packaging can sell for 2-3 times the value of a similar watch in merely "excellent" condition
 - **Excellent**: Shows minimal wear with all functions working perfectly

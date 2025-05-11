@@ -97,7 +97,7 @@ The Bicentennial quarter, featuring the dates 1776-1976 and the iconic drummer b
 
 While most Bicentennial quarters in circulation are worth their face value of 25 cents, certain varieties, mint marks, errors, and exceptional conditions can significantly increase their value—with the rarest examples fetching up to $19,000. This comprehensive guide will help you understand what makes these quarters valuable and how to identify potential treasures in your collection.
 
-{{< data-modules/stats-highlight title="Bicentennial Quarter Key Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Bicentennial Quarter Key Facts" columns="3" / /  >}}
 
 {{< visual-modules/timeline title="Bicentennial Quarter Timeline" >}}
   {{< visual-modules/timeline-item date="1973" title="Design Competition" >}}
@@ -254,12 +254,12 @@ In rare cases, Bicentennial quarters were struck on planchets (coin blanks) inte
 The most valuable Bicentennial quarter error reported was a coin struck on a silver planchet intended for a Canadian quarter. This extremely rare error coin sold for over $19,000 at auction, demonstrating how dramatically errors can increase a coin's value.
 
 {{< interactive-modules/condition-checklist title="How to Identify Valuable Bicentennial Quarter Errors" description="Check for these characteristics that might indicate your Bicentennial quarter is worth more than face value:" >}}
-  {{< interactive-modules/checklist-item label="Doubling in the lettering or images (use a magnifying glass)" / />}}
-  {{< interactive-modules/checklist-item label="Off-center strike where design is not centered on the coin" / />}}
-  {{< interactive-modules/checklist-item label="Wrong color/metal visible (indicating wrong planchet or missing clad layer)" / />}}
-  {{< interactive-modules/checklist-item label="Unusual weight (differs from standard 5.67 grams)" / />}}
-  {{< interactive-modules/checklist-item label="Die cracks or cuds (raised lines or bumps)" / />}}
-  {{< interactive-modules/checklist-item label="'S' mint mark (indicating potential silver content)" / />}}
+  {{< interactive-modules/checklist-item label="Doubling in the lettering or images (use a magnifying glass)" /  >}}
+  {{< interactive-modules/checklist-item label="Off-center strike where design is not centered on the coin" /  >}}
+  {{< interactive-modules/checklist-item label="Wrong color/metal visible (indicating wrong planchet or missing clad layer)" /  >}}
+  {{< interactive-modules/checklist-item label="Unusual weight (differs from standard 5.67 grams)" /  >}}
+  {{< interactive-modules/checklist-item label="Die cracks or cuds (raised lines or bumps)" /  >}}
+  {{< interactive-modules/checklist-item label="'S' mint mark (indicating potential silver content)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Silver Bicentennial Quarters" level="2" >}}

@@ -120,7 +120,7 @@ The value of an antique cast iron cauldron depends on several key factors that c
 
 ![Well-preserved antique cast iron cauldron example](https://negarden.com/wp-content/uploads/2018/09/AQA-KTIR2.jpg)
 
-{{< data-modules/stats-highlight title="Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Determinants" columns="3" / /  >}}
 
 1. **Age and Provenance**: Pre-Civil War cauldrons command higher prices, especially with documented history.
 
@@ -137,14 +137,14 @@ The value of an antique cast iron cauldron depends on several key factors that c
 7. **Surface Quality**: While some patina is expected and desirable, cauldrons with smooth, usable interior surfaces are more valuable.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment For Antique Cauldrons" description="Check applicable items to help determine your cauldron's condition grade" >}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs in the casting" / />}}
-  {{< interactive-modules/checklist-item label="Original three legs intact and stable" / />}}
-  {{< interactive-modules/checklist-item label="Bail handle present and functional" / />}}
-  {{< interactive-modules/checklist-item label="Interior surface free of pitting or excessive rust" / />}}
-  {{< interactive-modules/checklist-item label="Original patina with consistent color" / />}}
-  {{< interactive-modules/checklist-item label="Visible maker's mark or gate mark" / />}}
-  {{< interactive-modules/checklist-item label="No improvised modifications or welds" / />}}
-  {{< interactive-modules/checklist-item label="Sits level when placed on flat surface" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs in the casting" /  >}}
+  {{< interactive-modules/checklist-item label="Original three legs intact and stable" /  >}}
+  {{< interactive-modules/checklist-item label="Bail handle present and functional" /  >}}
+  {{< interactive-modules/checklist-item label="Interior surface free of pitting or excessive rust" /  >}}
+  {{< interactive-modules/checklist-item label="Original patina with consistent color" /  >}}
+  {{< interactive-modules/checklist-item label="Visible maker's mark or gate mark" /  >}}
+  {{< interactive-modules/checklist-item label="No improvised modifications or welds" /  >}}
+  {{< interactive-modules/checklist-item label="Sits level when placed on flat surface" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Value Ranges" level="2" >}}

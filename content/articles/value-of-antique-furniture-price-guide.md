@@ -116,7 +116,7 @@ Antique furniture represents more than just functional household items—they're
 
 Understanding what drives these values requires knowledge of various factors including age, condition, rarity, provenance, and current market demand. This guide will provide you with the tools and resources to navigate the sometimes complex world of antique furniture valuation.
 
-{{< data-modules/stats-highlight title="Antique Furniture Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Furniture Market Insights" columns="3" / /  >}}
 
 - **$6.4 Billion**: Global antique furniture market size in 2022
 - **8-12%**: Annual appreciation rate for high-quality antique furniture
@@ -145,14 +145,14 @@ Pieces that are rare, either because few were made or few have survived, typical
 Documented history of ownership, especially when connected to historical figures or events, can dramatically increase value. Furniture with provenance that can be verified through documentation often sells for multiples of similar pieces without such history.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Check applicable items to understand your antique's condition status" >}}
-    {{< interactive-modules/checklist-item label="Original finish intact" / />}}
-    {{< interactive-modules/checklist-item label="All original hardware present" / />}}
-    {{< interactive-modules/checklist-item label="No structural damage or repairs" / />}}
-    {{< interactive-modules/checklist-item label="Minimal surface scratches or wear" / />}}
-    {{< interactive-modules/checklist-item label="No water damage or stains" / />}}
-    {{< interactive-modules/checklist-item label="No evidence of insect damage" / />}}
-    {{< interactive-modules/checklist-item label="Original upholstery (if applicable)" / />}}
-    {{< interactive-modules/checklist-item label="Proper period-appropriate patina" / />}}
+    {{< interactive-modules/checklist-item label="Original finish intact" /  >}}
+    {{< interactive-modules/checklist-item label="All original hardware present" /  >}}
+    {{< interactive-modules/checklist-item label="No structural damage or repairs" /  >}}
+    {{< interactive-modules/checklist-item label="Minimal surface scratches or wear" /  >}}
+    {{< interactive-modules/checklist-item label="No water damage or stains" /  >}}
+    {{< interactive-modules/checklist-item label="No evidence of insect damage" /  >}}
+    {{< interactive-modules/checklist-item label="Original upholstery (if applicable)" /  >}}
+    {{< interactive-modules/checklist-item label="Proper period-appropriate patina" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Antique Furniture Styles and Periods" level="2" >}}

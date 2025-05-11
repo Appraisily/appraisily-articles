@@ -133,7 +133,7 @@ Many people are surprised to learn that even relatively common older bills in go
 
 ![Various denominations of old currency with price tags showing their appraised values](https://ik.imagekit.io/appraisily/SEO/old-currency-appraisal/old-currency-appraisal-image-2_h6laH-ZaQh.png)
 
-{{< data-modules/stats-highlight title="Old Currency Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Old Currency Market Statistics" columns="3" / /  >}}
   <div class="stat-card" data-color="blue">
     <div class="stat-value">15-30%</div>
     <div class="stat-label">Annual appreciation</div>
@@ -276,14 +276,14 @@ These services typically:
 While third-party grading does involve a fee (typically $25-$100 per note), the investment can be worthwhile for rare or valuable items as it often increases both salability and final selling price.
 
 {{< interactive-modules/condition-checklist title="Currency Condition Self-Assessment" description="Check applicable items to get a general idea of your currency's condition" >}}
-  {{< interactive-modules/checklist-item label="No folds or creases visible" / />}}
-  {{< interactive-modules/checklist-item label="Original paper crispness intact" / />}}
-  {{< interactive-modules/checklist-item label="Corners are sharp and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Original colors are bright and unfaded" / />}}
-  {{< interactive-modules/checklist-item label="No stains, markings, or writing" / />}}
-  {{< interactive-modules/checklist-item label="No tears or repairs present" / />}}
-  {{< interactive-modules/checklist-item label="Margins are even on all sides" / />}}
-  {{< interactive-modules/checklist-item label="Serial numbers and signatures are clear" / />}}
+  {{< interactive-modules/checklist-item label="No folds or creases visible" /  >}}
+  {{< interactive-modules/checklist-item label="Original paper crispness intact" /  >}}
+  {{< interactive-modules/checklist-item label="Corners are sharp and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="Original colors are bright and unfaded" /  >}}
+  {{< interactive-modules/checklist-item label="No stains, markings, or writing" /  >}}
+  {{< interactive-modules/checklist-item label="No tears or repairs present" /  >}}
+  {{< interactive-modules/checklist-item label="Margins are even on all sides" /  >}}
+  {{< interactive-modules/checklist-item label="Serial numbers and signatures are clear" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Note that this self-assessment is just a preliminary guide - professional grading requires expert evaluation under proper lighting and magnification.

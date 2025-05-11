@@ -146,7 +146,7 @@ If your rod has a legible maker's mark, identification becomes much simpler. How
 
 When maker's marks are absent, examining construction details becomes crucial:
 
-{{< data-modules/stats-highlight title="Critical Construction Identifiers" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Critical Construction Identifiers" columns="3" / /  >}}
 
 #### Ferrules
 
@@ -293,16 +293,16 @@ The condition of an antique bamboo fly rod dramatically affects its value, often
 ![Bamboo fly rod showing condition assessment points](https://ik.imagekit.io/appraisily/SEO/antique-bamboo-fly-rod-identification/antique-bamboo-fly-rod-identification-image-5_MQBx8lGf8.png)
 
 {{< interactive-modules/condition-checklist title="Bamboo Fly Rod Condition Assessment" description="Check applicable items to help determine the condition of your bamboo fly rod" >}}
-  {{< interactive-modules/checklist-item label="Rod is straight with no visible warping or twisting" / />}}
-  {{< interactive-modules/checklist-item label="Bamboo maintains structural integrity without cracks or splits" / />}}
-  {{< interactive-modules/checklist-item label="Original varnish is intact without significant flaking or bubbling" / />}}
-  {{< interactive-modules/checklist-item label="Ferrules fit together smoothly and securely" / />}}
-  {{< interactive-modules/checklist-item label="All guides are original and properly aligned" / />}}
-  {{< interactive-modules/checklist-item label="Thread wrappings are intact without fraying or unraveling" / />}}
-  {{< interactive-modules/checklist-item label="Cork grip is free of major chips, cracks, or compression" / />}}
-  {{< interactive-modules/checklist-item label="Reel seat functions properly with no corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Original rod tube, bag, and documentation are present" / />}}
-  {{< interactive-modules/checklist-item label="Rod has documented provenance or ownership history" / />}}
+  {{< interactive-modules/checklist-item label="Rod is straight with no visible warping or twisting" /  >}}
+  {{< interactive-modules/checklist-item label="Bamboo maintains structural integrity without cracks or splits" /  >}}
+  {{< interactive-modules/checklist-item label="Original varnish is intact without significant flaking or bubbling" /  >}}
+  {{< interactive-modules/checklist-item label="Ferrules fit together smoothly and securely" /  >}}
+  {{< interactive-modules/checklist-item label="All guides are original and properly aligned" /  >}}
+  {{< interactive-modules/checklist-item label="Thread wrappings are intact without fraying or unraveling" /  >}}
+  {{< interactive-modules/checklist-item label="Cork grip is free of major chips, cracks, or compression" /  >}}
+  {{< interactive-modules/checklist-item label="Reel seat functions properly with no corrosion" /  >}}
+  {{< interactive-modules/checklist-item label="Original rod tube, bag, and documentation are present" /  >}}
+  {{< interactive-modules/checklist-item label="Rod has documented provenance or ownership history" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Restoration Considerations

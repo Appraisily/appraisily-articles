@@ -80,7 +80,7 @@ Before diving into where to find free antique appraisals, it's important to unde
 
 Most free antique appraisals are technically "auction evaluations" or "verbal opinions of value" rather than formal written appraisals. These preliminary assessments can give you a general idea of an item's market value but typically don't include the extensive research, documentation, and liability that comes with a certified appraisal.
 
-{{< data-modules/stats-highlight title="Free vs. Professional Appraisals" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Free vs. Professional Appraisals" columns="3" / /  >}}
    <tr>
      <td>Time Invested</td>
      <td>5-15 minutes</td>
@@ -201,11 +201,11 @@ To get the most accurate and helpful information from a free appraisal, preparat
 ### Taking Effective Photos for Online Appraisals
 
 {{< interactive-modules/condition-checklist title="Photography Checklist for Online Appraisals" description="Follow these guidelines for photos that will help appraisers provide accurate evaluations" >}}
-  {{< interactive-modules/checklist-item label="Capture the entire item from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Include close-ups of any signatures, marks, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Use natural lighting without flash when possible" / />}}
-  {{< interactive-modules/checklist-item label="Include a ruler or coin for scale in at least one photo" / />}}
-  {{< interactive-modules/checklist-item label="Make sure photos are in focus and high resolution" / />}}
+  {{< interactive-modules/checklist-item label="Capture the entire item from multiple angles" /  >}}
+  {{< interactive-modules/checklist-item label="Include close-ups of any signatures, marks, or damage" /  >}}
+  {{< interactive-modules/checklist-item label="Use natural lighting without flash when possible" /  >}}
+  {{< interactive-modules/checklist-item label="Include a ruler or coin for scale in at least one photo" /  >}}
+  {{< interactive-modules/checklist-item label="Make sure photos are in focus and high resolution" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Providing Relevant Context

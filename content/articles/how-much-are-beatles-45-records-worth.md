@@ -113,12 +113,12 @@ First pressings, demonstration copies (marked "Demo" or "Promo"), and test press
 ### Condition Factors
 
 {{< interactive-modules/condition-checklist title="Beatles 45 Value Condition Factors" description="Key condition elements that affect the value of Beatles 45 records:" >}}
-  {{< interactive-modules/checklist-item label="Vinyl surface is free of scratches, scuffs, and groove wear" / />}}
-  {{< interactive-modules/checklist-item label="Original picture sleeve present and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Record labels are intact without tears or writing" / />}}
-  {{< interactive-modules/checklist-item label="Original inner sleeve or company sleeve included" / />}}
-  {{< interactive-modules/checklist-item label="No warping or physical damage to the vinyl" / />}}
-  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or excessive surface noise" / />}}
+  {{< interactive-modules/checklist-item label="Vinyl surface is free of scratches, scuffs, and groove wear" /  >}}
+  {{< interactive-modules/checklist-item label="Original picture sleeve present and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="Record labels are intact without tears or writing" /  >}}
+  {{< interactive-modules/checklist-item label="Original inner sleeve or company sleeve included" /  >}}
+  {{< interactive-modules/checklist-item label="No warping or physical damage to the vinyl" /  >}}
+  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or excessive surface noise" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Historical Significance
@@ -132,7 +132,7 @@ Some Beatles 45s are valuable simply because they're extremely rare. Limited rel
 
 Records with historical significance, such as the first pressings of breakthrough singles like "Love Me Do" or "I Want To Hold Your Hand," typically command higher prices due to their cultural importance.
 
-{{< data-modules/stats-highlight title="Beatles 45 Collection Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Beatles 45 Collection Highlights" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Valuing Beatles 45 Records by Era" level="2" >}}
 The Beatles' career can be divided into distinct periods, each with its own characteristic sound and corresponding record values. Let's explore how 45 RPM singles from different eras compare in the collector's market.

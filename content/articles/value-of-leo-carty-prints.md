@@ -141,7 +141,7 @@ Recent auction records show that Carty's original watercolors from around 1987 h
 
 According to auction data from platforms like Invaluable.com and MutualArt, the market for Carty's work has shown remarkable resilience, with prices generally trending upward since his death in 2010. This posthumous appreciation is common for artists whose available works become increasingly limited.
 
-{{< data-modules/stats-highlight title="Leo Carty Market Trends" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Leo Carty Market Trends" columns="3" / /  >}}
 
 Online retailers like Prints.com and Fulcrum Gallery regularly offer open edition Carty prints starting around $50-60, while signed and numbered limited editions typically start at $150-200 on platforms like eBay and specialty galleries.
 
@@ -165,13 +165,13 @@ Prints directly purchased from authorized galleries in the U.S. Virgin Islands o
 ### 2. Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Leo Carty Print Condition Checklist" description="Assessment criteria that impact value" >}}
-  {{< interactive-modules/checklist-item label="No fading or color loss" / />}}
-  {{< interactive-modules/checklist-item label="No yellowing or acid damage to paper" / />}}
-  {{< interactive-modules/checklist-item label="No water damage or staining" / />}}
-  {{< interactive-modules/checklist-item label="No tears, creases, or physical damage" / />}}
-  {{< interactive-modules/checklist-item label="Original matting/framing (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Clear, undamaged signature" / />}}
-  {{< interactive-modules/checklist-item label="No restoration or repair work" / />}}
+  {{< interactive-modules/checklist-item label="No fading or color loss" /  >}}
+  {{< interactive-modules/checklist-item label="No yellowing or acid damage to paper" /  >}}
+  {{< interactive-modules/checklist-item label="No water damage or staining" /  >}}
+  {{< interactive-modules/checklist-item label="No tears, creases, or physical damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original matting/framing (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, undamaged signature" /  >}}
+  {{< interactive-modules/checklist-item label="No restoration or repair work" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Prints in pristine condition can command premiums of 30-50% over examples with condition issues. Minor flaws like slight fading or minor edge wear typically reduce value by 10-25%, while significant damage can reduce value by 50% or more, depending on severity.

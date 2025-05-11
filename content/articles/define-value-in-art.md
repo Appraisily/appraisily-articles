@@ -119,7 +119,7 @@ According to the [Cascadia Art Museum](https://www.cascadiaartmuseum.org/element
 
 The value scale typically ranges from pure white (highest value) to pure black (lowest value), with various shades of gray in between. This scale is essential for artists to understand as they work to create realistic representations or expressive interpretations of their subjects.
 
-{{< data-modules/stats-highlight title="Key Facts About Value in Art" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Facts About Value in Art" columns="3" / /  >}}
 
 ### How Artists Use Value
 
@@ -194,12 +194,12 @@ To understand the value of colors, artists often:
 3. Use a value finder tool (a red filter that neutralizes color information)
 
 {{< interactive-modules/condition-checklist title="Value Assessment in Your Artwork" description="Check these elements to evaluate how effectively you're using value in your art" >}}
-  {{< interactive-modules/checklist-item label="Strong contrast between lightest and darkest areas" / />}}
-  {{< interactive-modules/checklist-item label="Clear value structure (foreground, midground, background)" / />}}
-  {{< interactive-modules/checklist-item label="Variety of value transitions (both sharp and gradual)" / />}}
-  {{< interactive-modules/checklist-item label="Consistent light source direction" / />}}
-  {{< interactive-modules/checklist-item label="Deliberate use of value to guide viewer's eye" / />}}
-  {{< interactive-modules/checklist-item label="Value hierarchy that supports composition" / />}}
+  {{< interactive-modules/checklist-item label="Strong contrast between lightest and darkest areas" /  >}}
+  {{< interactive-modules/checklist-item label="Clear value structure (foreground, midground, background)" /  >}}
+  {{< interactive-modules/checklist-item label="Variety of value transitions (both sharp and gradual)" /  >}}
+  {{< interactive-modules/checklist-item label="Consistent light source direction" /  >}}
+  {{< interactive-modules/checklist-item label="Deliberate use of value to guide viewer's eye" /  >}}
+  {{< interactive-modules/checklist-item label="Value hierarchy that supports composition" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Value Patterns in Art

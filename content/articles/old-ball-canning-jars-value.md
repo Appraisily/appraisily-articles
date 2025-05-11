@@ -84,7 +84,7 @@ Those dusty old Ball Mason jars in your grandmother's basement might be worth mo
 
 Whether you're an experienced collector or simply curious about the value of jars you've inherited, this comprehensive guide will help you identify, date, and determine the value of vintage Ball canning jars. We'll explore the key factors that affect their worth, the most valuable varieties to look for, and where to sell your treasures for the best prices.
 
-{{< data-modules/stats-highlight title="Ball Canning Jar Market Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Ball Canning Jar Market Facts" columns="3" / /  >}}
 <tr>
   <td>1880s Ball Jars</td>
   <td>$300-$1,000+</td>
@@ -149,14 +149,14 @@ While age is important, several other factors significantly impact the value of 
 ![Rare colored Ball mason jars in amber, blue and green glass](https://ik.imagekit.io/appraisily/SEO/old-ball-canning-jars-value/old-ball-canning-jars-value-image-3_mXPecE6Ph.png)
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Check these factors when evaluating your Ball jar's value" >}}
-  {{< interactive-modules/checklist-item label="Authentic Ball branding and correct era logo" / />}}
-  {{< interactive-modules/checklist-item label="Rare or unusual color (amber, green, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Original closure system intact" / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks or significant damage" / />}}
-  {{< interactive-modules/checklist-item label="Unusual or rare size (midget, half-gallon, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing errors or quirks" / />}}
-  {{< interactive-modules/checklist-item label="Clear, well-defined embossed details" / />}}
-  {{< interactive-modules/checklist-item label="Matching set of multiple jars" / />}}
+  {{< interactive-modules/checklist-item label="Authentic Ball branding and correct era logo" /  >}}
+  {{< interactive-modules/checklist-item label="Rare or unusual color (amber, green, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Original closure system intact" /  >}}
+  {{< interactive-modules/checklist-item label="No chips, cracks or significant damage" /  >}}
+  {{< interactive-modules/checklist-item label="Unusual or rare size (midget, half-gallon, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturing errors or quirks" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, well-defined embossed details" /  >}}
+  {{< interactive-modules/checklist-item label="Matching set of multiple jars" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color

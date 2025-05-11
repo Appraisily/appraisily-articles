@@ -100,7 +100,7 @@ Based on the most recent market data, the value of 1 gram of 14K gold fluctuates
 
 According to current market rates, 1 gram of 14K gold is worth approximately **$62.36 per gram**. This translates to about **$1,939.46 per ounce**. However, it's important to understand that these prices fluctuate daily based on the global gold market.
 
-{{< data-modules/stats-highlight title="Current 14K Gold Market Values" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Current 14K Gold Market Values" columns="3" / /  >}}
 <tr>
   <td>Per Gram</td>
   <td>$62.36</td>
@@ -221,12 +221,12 @@ Multiple factors can influence the value of 14K gold beyond just its weight and 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-much-is-1-gram-of-14k-gold-worth/how-much-is-1-gram-of-14k-gold-worth-image-4_n-Zvrb0Zd.png" alt="Gold price chart showing fluctuations with economic indicators" caption="Gold prices fluctuate based on numerous economic and market factors" />}}
 
 {{< interactive-modules/condition-checklist title="Gold Value Assessment Checklist" description="Use this checklist to determine factors that might affect your 14K gold's value" >}}
-  {{< interactive-modules/checklist-item label="Item is hallmarked with a legitimate 14K or 585 stamp" / />}}
-  {{< interactive-modules/checklist-item label="Gold has been accurately weighed on a calibrated scale" / />}}
-  {{< interactive-modules/checklist-item label="Item is in good condition without significant damage" / />}}
-  {{< interactive-modules/checklist-item label="Gold has been tested to confirm its 14K purity" / />}}
-  {{< interactive-modules/checklist-item label="Item has additional value beyond its gold content (antique, designer, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Current gold market price has been checked on the day of valuation" / />}}
+  {{< interactive-modules/checklist-item label="Item is hallmarked with a legitimate 14K or 585 stamp" /  >}}
+  {{< interactive-modules/checklist-item label="Gold has been accurately weighed on a calibrated scale" /  >}}
+  {{< interactive-modules/checklist-item label="Item is in good condition without significant damage" /  >}}
+  {{< interactive-modules/checklist-item label="Gold has been tested to confirm its 14K purity" /  >}}
+  {{< interactive-modules/checklist-item label="Item has additional value beyond its gold content (antique, designer, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Current gold market price has been checked on the day of valuation" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Sell 14K Gold" level="2" >}}

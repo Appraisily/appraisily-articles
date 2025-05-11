@@ -141,7 +141,7 @@ Not all vintage stoneware crocks are equally valuable. Several key factors can h
 
 One of the most important factors in determining an antique crock's value is identifying who made it. Some pottery companies are more collectible than others.
 
-{{< data-modules/stats-highlight title="Most Valuable Pottery Manufacturers" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Most Valuable Pottery Manufacturers" columns="3" / /  >}}
 
 1. **Red Wing Pottery (Minnesota)**  
    Known for exceptional quality and distinctive cobalt blue decorations. Red Wing crocks often command premium prices.
@@ -185,14 +185,14 @@ The decoration on a 5-gallon crock can significantly impact its value:
 The age and condition of a 5-gallon crock significantly impact its value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for 5-Gallon Crocks" description="Check all conditions that apply to your crock" >}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original glaze intact with minimal crazing" / />}}
-  {{< interactive-modules/checklist-item label="Minimal chips around rim or base" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible maker's mark" / />}}
-  {{< interactive-modules/checklist-item label="Original handles intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No restoration or modern repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original decorations in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Matching original lid (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Original glaze intact with minimal crazing" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal chips around rim or base" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, legible maker's mark" /  >}}
+  {{< interactive-modules/checklist-item label="Original handles intact (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="No restoration or modern repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Original decorations in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Matching original lid (if applicable)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 When determining the age of a 5-gallon crock, look for these indicators:

@@ -48,7 +48,7 @@ Have you ever wondered about the value of that painting you inherited from your 
 
 In this comprehensive guide, we'll explore the various options for obtaining free art appraisals in your local area, discuss the benefits and limitations of these services, and provide alternatives if you need a more in-depth evaluation.
 
-{{< data-modules/stats-highlight title="Free Art Appraisal Quick Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Free Art Appraisal Quick Facts" columns="3" / /  >}}
 
 <tr>
   <td>Average Cost Savings</td>
@@ -146,13 +146,13 @@ Several websites offer free initial appraisals of artwork based on submitted pho
 - May be preliminary assessments aimed at selling full appraisal services
 
 {{< interactive-modules/condition-checklist title="Preparation Checklist for Art Appraisals" description="Before seeking a free art appraisal, gather these essential details about your artwork" >}}
-  {{< interactive-modules/checklist-item label="Clear photographs from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Measurements of the artwork (height, width, depth)" / />}}
-  {{< interactive-modules/checklist-item label="Any signatures, dates, or inscriptions" / />}}
-  {{< interactive-modules/checklist-item label="Information about the artist (if known)" / />}}
-  {{< interactive-modules/checklist-item label="Provenance or history of ownership" / />}}
-  {{< interactive-modules/checklist-item label="Details about the condition (damages, repairs)" / />}}
-  {{< interactive-modules/checklist-item label="Any certificates of authenticity or prior appraisals" / />}}
+  {{< interactive-modules/checklist-item label="Clear photographs from multiple angles" /  >}}
+  {{< interactive-modules/checklist-item label="Measurements of the artwork (height, width, depth)" /  >}}
+  {{< interactive-modules/checklist-item label="Any signatures, dates, or inscriptions" /  >}}
+  {{< interactive-modules/checklist-item label="Information about the artist (if known)" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance or history of ownership" /  >}}
+  {{< interactive-modules/checklist-item label="Details about the condition (damages, repairs)" /  >}}
+  {{< interactive-modules/checklist-item label="Any certificates of authenticity or prior appraisals" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Find Free Art Appraisal Services Near You" level="2" >}}

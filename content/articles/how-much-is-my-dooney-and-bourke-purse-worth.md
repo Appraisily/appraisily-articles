@@ -102,14 +102,14 @@ Vintage Dooney & Bourke bags, particularly those from the 1980s and early 1990s,
 The condition of your purse significantly impacts its value. Bags in excellent or mint condition with minimal wear will command higher prices than those with visible damage, stains, or wear.
 
 {{< interactive-modules/condition-checklist title="Dooney & Bourke Condition Assessment" description="Check all that apply to your purse to evaluate its condition" >}}
-  {{< interactive-modules/checklist-item label="No visible scuffs or scratches on leather" / />}}
-  {{< interactive-modules/checklist-item label="Clean interior with no stains or marks" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware intact and unscratched" / />}}
-  {{< interactive-modules/checklist-item label="Corners show minimal to no wear" / />}}
-  {{< interactive-modules/checklist-item label="Original duck fob present" / />}}
-  {{< interactive-modules/checklist-item label="No color fading or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Stitching intact with no loose threads" / />}}
-  {{< interactive-modules/checklist-item label="Original tags or registration card included" / />}}
+  {{< interactive-modules/checklist-item label="No visible scuffs or scratches on leather" /  >}}
+  {{< interactive-modules/checklist-item label="Clean interior with no stains or marks" /  >}}
+  {{< interactive-modules/checklist-item label="Original hardware intact and unscratched" /  >}}
+  {{< interactive-modules/checklist-item label="Corners show minimal to no wear" /  >}}
+  {{< interactive-modules/checklist-item label="Original duck fob present" /  >}}
+  {{< interactive-modules/checklist-item label="No color fading or discoloration" /  >}}
+  {{< interactive-modules/checklist-item label="Stitching intact with no loose threads" /  >}}
+  {{< interactive-modules/checklist-item label="Original tags or registration card included" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Demand
@@ -132,7 +132,7 @@ Authentic vintage Dooney & Bourke bags feature a solid brass duck emblem attache
 
 Most Dooney & Bourke bags manufactured after the early 1980s contain a serial number, typically found on a small leather tag inside the bag or on the back of the interior pocket. The serial number format varies by era:
 
-{{< data-modules/stats-highlight title="Dooney & Bourke Serial Number Formats" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Dooney & Bourke Serial Number Formats" columns="3" / /  >}}
 
 - **Older bags (pre-1990s)**: Simple numeric codes
 - **Mid-era bags**: Combination of letters and numbers (e.g., A1234567)

@@ -127,13 +127,13 @@ The "10" marking on a 10-gallon crock typically appears as:
 ### Physical Characteristics
 
 {{< interactive-modules/condition-checklist title="Antique Crock Authentication Checklist" description="Look for these physical traits to help verify authenticity" >}}
-  {{< interactive-modules/checklist-item label="Salt-glazed finish with orange peel-like texture" / />}}
-  {{< interactive-modules/checklist-item label="Slight imperfections from hand-crafting" / />}}
-  {{< interactive-modules/checklist-item label="Signs of age on base (wear patterns, roughness)" / />}}
-  {{< interactive-modules/checklist-item label="Subtle color variations in the clay body" / />}}
-  {{< interactive-modules/checklist-item label="Proper weight (10-gallon crocks are substantial)" / />}}
-  {{< interactive-modules/checklist-item label="Hand-applied handles with attachment marks" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate cobalt blue decorations" / />}}
+  {{< interactive-modules/checklist-item label="Salt-glazed finish with orange peel-like texture" /  >}}
+  {{< interactive-modules/checklist-item label="Slight imperfections from hand-crafting" /  >}}
+  {{< interactive-modules/checklist-item label="Signs of age on base (wear patterns, roughness)" /  >}}
+  {{< interactive-modules/checklist-item label="Subtle color variations in the clay body" /  >}}
+  {{< interactive-modules/checklist-item label="Proper weight (10-gallon crocks are substantial)" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-applied handles with attachment marks" /  >}}
+  {{< interactive-modules/checklist-item label="Period-appropriate cobalt blue decorations" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Red Flags for Reproductions
@@ -168,7 +168,7 @@ Crocks from renowned potteries generally command higher prices. Some of the most
 
 Condition dramatically impacts value, as collectors prefer pieces that have survived the years intact.
 
-{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / /  >}}
 
 - **Mint condition** (no cracks, chips, or repairs): 100% of potential value
 - **Excellent condition** (minor flaws): 75-90% of potential value

@@ -28,7 +28,7 @@ Fire-King's enduring appeal stems from its perfect blend of functionality and ae
 
 Whether you're a seasoned collector or just discovering the beauty of Fire-King glassware, this guide will provide you with the knowledge needed to identify, authenticate, and value these vintage treasures.
 
-{{< data-modules/stats-highlight title="Fire-King Collectible Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Fire-King Collectible Market Highlights" columns="3" / /  >}}
 <tr>
   <td>1937-1976</td>
   <td>Production Years</td>
@@ -204,13 +204,13 @@ Fire-King patterns generally fall into these major categories:
    - Typically undocumented in standard references
 
 {{< interactive-modules/condition-checklist title="Pattern Identification Checklist" description="Use this checklist to help identify your Fire-King pattern" >}}
-  {{< interactive-modules/checklist-item label="Examine the color: Jade-ite, Peach Lustre, clear, or other color?" / />}}
-  {{< interactive-modules/checklist-item label="Note the surface texture: smooth, ribbed, embossed, or scalloped?" / />}}
-  {{< interactive-modules/checklist-item label="Check for decorative elements: painted, gold trim, decals, or baked-in?" / />}}
-  {{< interactive-modules/checklist-item label="Identify the shape: standard form or distinctive contours?" / />}}
-  {{< interactive-modules/checklist-item label="Look for backstamps: Fire-King logo, production marks, etc." / />}}
-  {{< interactive-modules/checklist-item label="Measure the piece: size can help distinguish between similar patterns" / />}}
-  {{< interactive-modules/checklist-item label="Compare to reference materials: books, online catalogs, collector sites" / />}}
+  {{< interactive-modules/checklist-item label="Examine the color: Jade-ite, Peach Lustre, clear, or other color?" /  >}}
+  {{< interactive-modules/checklist-item label="Note the surface texture: smooth, ribbed, embossed, or scalloped?" /  >}}
+  {{< interactive-modules/checklist-item label="Check for decorative elements: painted, gold trim, decals, or baked-in?" /  >}}
+  {{< interactive-modules/checklist-item label="Identify the shape: standard form or distinctive contours?" /  >}}
+  {{< interactive-modules/checklist-item label="Look for backstamps: Fire-King logo, production marks, etc." /  >}}
+  {{< interactive-modules/checklist-item label="Measure the piece: size can help distinguish between similar patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Compare to reference materials: books, online catalogs, collector sites" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Pattern Identification Challenges
@@ -272,7 +272,7 @@ Modern reproductions of Fire-King, particularly of the popular Jade-ite line, be
    - Inconsistent with documented Fire-King patterns
    - Modern packaging or marketing materials
 
-{{< data-modules/stats-highlight title="Authentication Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Authentication Statistics" columns="3" / /  >}}
 <tr>
   <td>60%</td>
   <td>Price Difference</td>

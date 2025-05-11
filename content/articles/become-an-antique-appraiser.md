@@ -152,7 +152,7 @@ A career as an antique appraiser offers a unique blend of historical knowledge, 
 
 The path to becoming a competent and respected antique appraiser requires formal education, hands-on experience, and professional credentials. This guide will walk you through the essential steps to build a successful career in this fascinating field.
 
-{{< data-modules/stats-highlight title="Antique Appraiser Career Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Appraiser Career Statistics" columns="3" / /  >}}
 <tr>
   <td>Average Annual Salary</td>
   <td>$60,000 - $72,000</td>
@@ -223,12 +223,12 @@ Hands-on experience is crucial for developing the connoisseurship skills necessa
 There are several ways to gain valuable hands-on experience:
 
 {{< interactive-modules/condition-checklist title="Experience-Building Opportunities" description="Consider these options for developing practical appraisal skills" >}}
-  {{< interactive-modules/checklist-item label="Work at an auction house" / />}}
-  {{< interactive-modules/checklist-item label="Intern with established appraisers" / />}}
-  {{< interactive-modules/checklist-item label="Volunteer at museums" / />}}
-  {{< interactive-modules/checklist-item label="Work at antique shops or galleries" / />}}
-  {{< interactive-modules/checklist-item label="Attend antique shows and auctions" / />}}
-  {{< interactive-modules/checklist-item label="Join collector groups in your specialty" / />}}
+  {{< interactive-modules/checklist-item label="Work at an auction house" /  >}}
+  {{< interactive-modules/checklist-item label="Intern with established appraisers" /  >}}
+  {{< interactive-modules/checklist-item label="Volunteer at museums" /  >}}
+  {{< interactive-modules/checklist-item label="Work at antique shops or galleries" /  >}}
+  {{< interactive-modules/checklist-item label="Attend antique shows and auctions" /  >}}
+  {{< interactive-modules/checklist-item label="Join collector groups in your specialty" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to a [discussion on Reddit's r/Antiques](https://www.reddit.com/r/Antiques/comments/177471u/advice_on_how_to_become_an_appraiser/), experienced appraisers strongly recommend working at auction houses as one of the best ways to handle a wide variety of items and learn from established professionals.

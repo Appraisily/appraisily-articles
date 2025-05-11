@@ -130,7 +130,7 @@ An art appraisal is a professional evaluation of an artwork's monetary value, co
 
 Art appraisals provide critical documentation of an artwork's value at a specific point in time. Whether you've inherited artwork, are considering selling a piece, need documentation for insurance purposes, or require valuation for tax donations, working with a qualified local appraiser ensures you receive an accurate assessment based on current market conditions, provenance, condition, and other key factors.
 
-{{< data-modules/stats-highlight title="Art Appraisal Industry Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Industry Facts" columns="3" / /  >}}
 
 ## Why Local Art Appraisals Matter
 
@@ -193,12 +193,12 @@ Legitimate art appraisers typically hold credentials from recognized professiona
 When researching appraisers, look for these important credentials:
 
 {{< interactive-modules/condition-checklist title="Important Appraiser Credentials" description="Key qualifications to verify when selecting an art appraiser" >}}
-  {{< interactive-modules/checklist-item label="Membership in professional appraiser associations (ISA, AAA, ASA)" / />}}
-  {{< interactive-modules/checklist-item label="USPAP compliance (Uniform Standards of Professional Appraisal Practice)" / />}}
-  {{< interactive-modules/checklist-item label="Specialized training in art history or specific art categories" / />}}
-  {{< interactive-modules/checklist-item label="Years of experience in your specific type of artwork" / />}}
-  {{< interactive-modules/checklist-item label="Continuing education in their area of expertise" / />}}
-  {{< interactive-modules/checklist-item label="Professional liability insurance" / />}}
+  {{< interactive-modules/checklist-item label="Membership in professional appraiser associations (ISA, AAA, ASA)" /  >}}
+  {{< interactive-modules/checklist-item label="USPAP compliance (Uniform Standards of Professional Appraisal Practice)" /  >}}
+  {{< interactive-modules/checklist-item label="Specialized training in art history or specific art categories" /  >}}
+  {{< interactive-modules/checklist-item label="Years of experience in your specific type of artwork" /  >}}
+  {{< interactive-modules/checklist-item label="Continuing education in their area of expertise" /  >}}
+  {{< interactive-modules/checklist-item label="Professional liability insurance" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Professional designations typically indicate an appraiser's level of expertise and training:
@@ -296,12 +296,12 @@ Proper preparation before meeting with your art appraiser ensures a more efficie
 Collecting the following information before your appraisal will help your appraiser provide the most accurate valuation:
 
 {{< interactive-modules/condition-checklist title="Art Appraisal Preparation Checklist" description="Documents and information to prepare before your appraisal appointment" >}}
-  {{< interactive-modules/checklist-item label="Provenance documentation (previous bills of sale, gallery receipts)" / />}}
-  {{< interactive-modules/checklist-item label="Artist information and authentication certificates" / />}}
-  {{< interactive-modules/checklist-item label="Previous appraisal reports or insurance documentation" / />}}
-  {{< interactive-modules/checklist-item label="Exhibition history and literature references" / />}}
-  {{< interactive-modules/checklist-item label="Restoration history and condition reports" / />}}
-  {{< interactive-modules/checklist-item label="Photographs of signatures, marks, or labels" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation (previous bills of sale, gallery receipts)" /  >}}
+  {{< interactive-modules/checklist-item label="Artist information and authentication certificates" /  >}}
+  {{< interactive-modules/checklist-item label="Previous appraisal reports or insurance documentation" /  >}}
+  {{< interactive-modules/checklist-item label="Exhibition history and literature references" /  >}}
+  {{< interactive-modules/checklist-item label="Restoration history and condition reports" /  >}}
+  {{< interactive-modules/checklist-item label="Photographs of signatures, marks, or labels" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Questions to Ask Your Appraiser

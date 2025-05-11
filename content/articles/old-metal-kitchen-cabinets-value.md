@@ -137,7 +137,7 @@ During the peak of production, dozens of manufacturers competed in the metal cab
 
 When evaluating metal kitchen cabinets, identifying the manufacturer is crucial for establishing value. Here are the most prestigious brands that typically command the highest prices:
 
-{{< data-modules/stats-highlight title="Premium Brand Value Impact" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Premium Brand Value Impact" columns="3" / /  >}}
 
 ### St. Charles
 Often considered the "Rolls Royce" of metal cabinets, St. Charles products were top-of-the-line and installed in many luxury homes and prestigious buildings, including the White House during certain administrations. Their craftsmanship, heavier gauge steel, and superior hardware make them the most valuable brand on the market.
@@ -171,14 +171,14 @@ If you're trying to establish how much your metal cabinets are worth, consider t
 Condition is paramount when determining metal cabinet value. Rust, dents, and missing hardware can significantly reduce worth, while pristine original finishes command premiums.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate your metal cabinets' condition" >}}
-  {{< interactive-modules/checklist-item label="Original paint finish intact and shiny" / />}}
-  {{< interactive-modules/checklist-item label="No visible rust spots or deep scratches" / />}}
-  {{< interactive-modules/checklist-item label="All original hardware present" / />}}
-  {{< interactive-modules/checklist-item label="Drawers slide smoothly" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet doors align properly" / />}}
-  {{< interactive-modules/checklist-item label="No significant dents or warping" / />}}
-  {{< interactive-modules/checklist-item label="Interior surfaces clean and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer stamps visible" / />}}
+  {{< interactive-modules/checklist-item label="Original paint finish intact and shiny" /  >}}
+  {{< interactive-modules/checklist-item label="No visible rust spots or deep scratches" /  >}}
+  {{< interactive-modules/checklist-item label="All original hardware present" /  >}}
+  {{< interactive-modules/checklist-item label="Drawers slide smoothly" /  >}}
+  {{< interactive-modules/checklist-item label="Cabinet doors align properly" /  >}}
+  {{< interactive-modules/checklist-item label="No significant dents or warping" /  >}}
+  {{< interactive-modules/checklist-item label="Interior surfaces clean and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="Original manufacturer stamps visible" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color
@@ -334,7 +334,7 @@ Whether you're looking to acquire or part with vintage metal cabinets, using the
 5. **Custom Fabricators**
    For those seeking the look without the hunt, companies like [Retro Renovation's recommended fabricators](https://retrorenovation.com) can create new metal cabinets with vintage styling.
 
-{{< data-modules/stats-highlight title="Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Market Insights" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Restoration Considerations" level="2" >}}
   Understanding restoration options is essential when evaluating potential purchases or determining how to maximize the value of your existing cabinets.

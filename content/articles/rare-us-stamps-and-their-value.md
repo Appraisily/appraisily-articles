@@ -138,7 +138,7 @@ Several key factors determine whether a US stamp is considered rare and valuable
 
 ![Close-up of a rare US stamp being examined with a magnifying glass](https://ik.imagekit.io/appraisily/SEO/rare-us-stamps-and-their-value/rare-us-stamps-and-their-value-image-2_VY2o2DvVL.png)
 
-{{< data-modules/stats-highlight title="Key Value Factors for Rare US Stamps" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for Rare US Stamps" columns="3" / /  >}}
 
 ### Age and Historical Significance
 
@@ -157,12 +157,12 @@ The number of stamps originally printed and how many have survived to the presen
 For rare stamps, condition is paramount in determining value. Factors that collectors and appraisers evaluate include:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist for Rare Stamps" description="The following factors significantly impact stamp value:" >}}
-  {{< interactive-modules/checklist-item label="Centering quality (perfectly centered stamps command higher prices)" / />}}
-  {{< interactive-modules/checklist-item label="Original gum presence and condition" / />}}
-  {{< interactive-modules/checklist-item label="Absence of thins, tears, creases, or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Color vibrancy and preservation" / />}}
-  {{< interactive-modules/checklist-item label="Perforation completeness and quality" / />}}
-  {{< interactive-modules/checklist-item label="Postmark condition (for used stamps)" / />}}
+  {{< interactive-modules/checklist-item label="Centering quality (perfectly centered stamps command higher prices)" /  >}}
+  {{< interactive-modules/checklist-item label="Original gum presence and condition" /  >}}
+  {{< interactive-modules/checklist-item label="Absence of thins, tears, creases, or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Color vibrancy and preservation" /  >}}
+  {{< interactive-modules/checklist-item label="Perforation completeness and quality" /  >}}
+  {{< interactive-modules/checklist-item label="Postmark condition (for used stamps)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Certification

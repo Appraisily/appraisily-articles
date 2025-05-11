@@ -138,7 +138,7 @@ howTo:
 
 Unlike everyday used books, rare and antiquarian volumes require specialized knowledge to properly evaluate. Their value stems from a complex interplay of factors including age, rarity, condition, edition status, and provenance. This comprehensive guide will walk you through the appraisal process, helping you understand what makes a book valuable and how professionals determine its worth.
 
-{{< data-modules/stats-highlight title="Key Facts About Rare Book Appraisal" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Facts About Rare Book Appraisal" columns="3" / /  >}}
 
 | Statistic | Value | Context |
 |-----------|-------|---------|
@@ -184,14 +184,14 @@ For older works, bibliographic reference guides like _Grolier's "American First 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Rare Book Condition Assessment" description="Key factors appraisers examine when evaluating condition" >}}
-  {{< interactive-modules/checklist-item label="Completeness (all pages present and intact)" / />}}
-  {{< interactive-modules/checklist-item label="Binding integrity (tight, no separated pages)" / />}}
-  {{< interactive-modules/checklist-item label="Original dust jacket present (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, stains, or foxing" / />}}
-  {{< interactive-modules/checklist-item label="No previous owner markings or inscriptions" / />}}
-  {{< interactive-modules/checklist-item label="No library markings or ex-library indicators" / />}}
-  {{< interactive-modules/checklist-item label="Original boards or cover material intact" / />}}
-  {{< interactive-modules/checklist-item label="Clean, unmarked text block" / />}}
+  {{< interactive-modules/checklist-item label="Completeness (all pages present and intact)" /  >}}
+  {{< interactive-modules/checklist-item label="Binding integrity (tight, no separated pages)" /  >}}
+  {{< interactive-modules/checklist-item label="Original dust jacket present (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="No water damage, stains, or foxing" /  >}}
+  {{< interactive-modules/checklist-item label="No previous owner markings or inscriptions" /  >}}
+  {{< interactive-modules/checklist-item label="No library markings or ex-library indicators" /  >}}
+  {{< interactive-modules/checklist-item label="Original boards or cover material intact" /  >}}
+  {{< interactive-modules/checklist-item label="Clean, unmarked text block" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Standard Book Condition Grades

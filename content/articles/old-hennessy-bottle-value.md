@@ -70,7 +70,7 @@ Hennessy, like other cognac producers, uses a classification system that indicat
 
 Older classifications and discontinued variants often have the highest collector value, especially those from the early-to-mid 20th century or limited production runs.
 
-{{< data-modules/stats-highlight title="Hennessy Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Hennessy Market Statistics" columns="3" / /  >}}
 
 | Statistic | Value | Context |
 |-----------|-------|---------|
@@ -113,14 +113,14 @@ Special releases, commemorative editions, and discontinued products often fetch 
 Bottles from significant years in Hennessy history or world events can command higher prices. Collectors often seek bottles from meaningful personal years like birth years or anniversaries.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate your vintage Hennessy bottle" >}}
-  {{< interactive-modules/checklist-item label="Bottle has no chips, cracks, or damage" / />}}
-  {{< interactive-modules/checklist-item label="Labels are intact, legible, and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original closure or seal is present" / />}}
-  {{< interactive-modules/checklist-item label="Fill level is appropriate (minimal evaporation)" / />}}
-  {{< interactive-modules/checklist-item label="Original box or presentation case is included" / />}}
-  {{< interactive-modules/checklist-item label="Tax stamp or import stickers are present and intact" / />}}
-  {{< interactive-modules/checklist-item label="Glass is clear, not cloudy or stained" / />}}
-  {{< interactive-modules/checklist-item label="No leakage or seepage evident" / />}}
+  {{< interactive-modules/checklist-item label="Bottle has no chips, cracks, or damage" /  >}}
+  {{< interactive-modules/checklist-item label="Labels are intact, legible, and in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Original closure or seal is present" /  >}}
+  {{< interactive-modules/checklist-item label="Fill level is appropriate (minimal evaporation)" /  >}}
+  {{< interactive-modules/checklist-item label="Original box or presentation case is included" /  >}}
+  {{< interactive-modules/checklist-item label="Tax stamp or import stickers are present and intact" /  >}}
+  {{< interactive-modules/checklist-item label="Glass is clear, not cloudy or stained" /  >}}
+  {{< interactive-modules/checklist-item label="No leakage or seepage evident" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Price Ranges for Vintage Hennessy Bottles" level="2" >}}

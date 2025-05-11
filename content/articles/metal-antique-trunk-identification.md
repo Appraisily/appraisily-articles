@@ -128,7 +128,7 @@ Hardware elements often contain the most reliable clues for identification:
 - **Handles**: Early trunks had leather handles with metal brackets, while later models featured all-metal handles
 - **Rivets and Nail Patterns**: Distinctive patterns of brass or iron nail heads often identify specific manufacturers
 
-{{< data-modules/stats-highlight title="Metal Trunk Identification Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Metal Trunk Identification Statistics" columns="3" / /  >}}
 
 ### Trunk Construction and Shape
 
@@ -148,13 +148,13 @@ Don't overlook the inside of the trunk, which can reveal equally important infor
 - **Tray Construction**: The method of constructing and attaching interior trays evolved significantly
 
 {{< interactive-modules/condition-checklist title="Metal Trunk Identification Checklist" description="Use this checklist to assess key features when examining an antique metal trunk" >}}
-  {{< interactive-modules/checklist-item label="Look for manufacturer labels inside lid or bottom" / />}}
-  {{< interactive-modules/checklist-item label="Examine all hardware for patent dates and markings" / />}}
-  {{< interactive-modules/checklist-item label="Check metal covering for embossing or distinctive patterns" / />}}
-  {{< interactive-modules/checklist-item label="Note corner protector styles and attachment methods" / />}}
-  {{< interactive-modules/checklist-item label="Check for trademark lock designs or mechanisms" / />}}
-  {{< interactive-modules/checklist-item label="Inspect for original interior paper or canvas lining" / />}}
-  {{< interactive-modules/checklist-item label="Look for metal finish type and condition" / />}}
+  {{< interactive-modules/checklist-item label="Look for manufacturer labels inside lid or bottom" /  >}}
+  {{< interactive-modules/checklist-item label="Examine all hardware for patent dates and markings" /  >}}
+  {{< interactive-modules/checklist-item label="Check metal covering for embossing or distinctive patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Note corner protector styles and attachment methods" /  >}}
+  {{< interactive-modules/checklist-item label="Check for trademark lock designs or mechanisms" /  >}}
+  {{< interactive-modules/checklist-item label="Inspect for original interior paper or canvas lining" /  >}}
+  {{< interactive-modules/checklist-item label="Look for metal finish type and condition" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Trunk Manufacturers" level="2" >}}

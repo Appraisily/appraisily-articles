@@ -100,19 +100,19 @@ First pressings (the initial production run of an album) are generally more valu
 
 Albums with limited production runs, records that were withdrawn from sale, or those with manufacturing errors often have significantly higher values. The rarer a record is, the more collectors may be willing to pay to acquire it.
 
-{{< data-modules/stats-highlight title="Key Value Factors for Vinyl Records" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for Vinyl Records" columns="3" / /  >}}
 
 ### Album Condition
 
 The condition of your vinyl record dramatically impacts its value. Collectors use standardized grading systems to evaluate both the vinyl itself and the cover art/packaging.
 
 {{< interactive-modules/condition-checklist title="Vinyl Condition Grading Checklist" description="Use this checklist to assess your record's condition" >}}
-  {{< interactive-modules/checklist-item label="Mint (M): Perfect in every way - likely sealed and never played" / />}}
-  {{< interactive-modules/checklist-item label="Near Mint (NM): Almost perfect with minimal signs of play" / />}}
-  {{< interactive-modules/checklist-item label="Very Good Plus (VG+): Minor surface marks with minimal impact on sound" / />}}
-  {{< interactive-modules/checklist-item label="Very Good (VG): Noticeable surface noise but still enjoyable" / />}}
-  {{< interactive-modules/checklist-item label="Good (G): Significant wear with distracting surface noise" / />}}
-  {{< interactive-modules/checklist-item label="Poor (P): Barely playable with significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Mint (M): Perfect in every way - likely sealed and never played" /  >}}
+  {{< interactive-modules/checklist-item label="Near Mint (NM): Almost perfect with minimal signs of play" /  >}}
+  {{< interactive-modules/checklist-item label="Very Good Plus (VG+): Minor surface marks with minimal impact on sound" /  >}}
+  {{< interactive-modules/checklist-item label="Very Good (VG): Noticeable surface noise but still enjoyable" /  >}}
+  {{< interactive-modules/checklist-item label="Good (G): Significant wear with distracting surface noise" /  >}}
+  {{< interactive-modules/checklist-item label="Poor (P): Barely playable with significant damage" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness and Packaging

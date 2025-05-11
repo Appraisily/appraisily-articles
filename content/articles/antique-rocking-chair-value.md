@@ -201,7 +201,7 @@ As a reaction against Victorian excess, the Arts & Crafts movement of the early 
 
 Rocking chairs by renowned makers like Gustav Stickley, L. & J.G. Stickley, or Limbert are especially valuable. A signed L. & J.G. Stickley rocker with original finish can sell for $3,000 to $8,000, while exceptional Gustav Stickley examples have sold for over $10,000 at auction.
 
-{{< data-modules/stats-highlight title="Antique Rocking Chair Market Stats" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Rocking Chair Market Stats" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Factors That Determine Value" level="2" >}}
   Beyond style and age, several key factors significantly influence the value of an antique rocking chair.
@@ -244,14 +244,14 @@ Hand-cut dovetail joints, mortise and tenon construction, and hand-carved elemen
 Condition is perhaps the most significant factor affecting an antique rocking chair's value. Chairs in original, unrestored condition with a natural patina generally command the highest prices, though they must remain structurally sound.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Evaluate these elements when assessing an antique rocking chair's condition:" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and unstripped" / />}}
-  {{< interactive-modules/checklist-item label="Structurally sound with no wobbly joints" / />}}
-  {{< interactive-modules/checklist-item label="Free from breaks and significant damage" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware present" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate upholstery (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Matching patina across all components" / />}}
-  {{< interactive-modules/checklist-item label="Original rockers (not replaced)" / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear to joints and stress points" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and unstripped" /  >}}
+  {{< interactive-modules/checklist-item label="Structurally sound with no wobbly joints" /  >}}
+  {{< interactive-modules/checklist-item label="Free from breaks and significant damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original hardware present" /  >}}
+  {{< interactive-modules/checklist-item label="Period-appropriate upholstery (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Matching patina across all components" /  >}}
+  {{< interactive-modules/checklist-item label="Original rockers (not replaced)" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal wear to joints and stress points" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 While minor repairs and touch-ups may be acceptable, extensive restoration, replacement parts, or refinishing can significantly reduce value. However, some high-demand styles may retain good value even with professional restoration if the chair is rare or historically significant.

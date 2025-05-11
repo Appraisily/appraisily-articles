@@ -90,7 +90,7 @@ According to the [Cascadia Art Museum](https://www.cascadiaartmuseum.org/element
 
 Value works in both black and white compositions and color work. In black and white, value refers directly to the gradation from white to black through various shades of gray. In color, value describes how light or dark the color appears, regardless of its hue.
 
-{{< data-modules/stats-highlight title="Key Value Concepts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Concepts" columns="3" / /  >}}
 
 ## The Value Scale in Art
 
@@ -234,11 +234,11 @@ Claude Monet, for example, often used closely related values in his outdoor scen
 Developing your "value vision" is an essential skill for artists and art appreciators alike. Here are some exercises and approaches to enhance your understanding of value:
 
 {{< interactive-modules/condition-checklist title="Value Assessment Exercises" description="Try these exercises to improve your understanding of value in art" >}}
-  {{< interactive-modules/checklist-item label="Create a value scale from white to black with at least 9 distinct values" / />}}
-  {{< interactive-modules/checklist-item label="Take color photos and convert them to grayscale to study value relationships" / />}}
-  {{< interactive-modules/checklist-item label="Practice squinting at scenes to reduce color information and see value patterns" / />}}
-  {{< interactive-modules/checklist-item label="Create a drawing using only 3-5 values from your value scale" / />}}
-  {{< interactive-modules/checklist-item label="Experiment with high-key and low-key compositions of the same subject" / />}}
+  {{< interactive-modules/checklist-item label="Create a value scale from white to black with at least 9 distinct values" /  >}}
+  {{< interactive-modules/checklist-item label="Take color photos and convert them to grayscale to study value relationships" /  >}}
+  {{< interactive-modules/checklist-item label="Practice squinting at scenes to reduce color information and see value patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Create a drawing using only 3-5 values from your value scale" /  >}}
+  {{< interactive-modules/checklist-item label="Experiment with high-key and low-key compositions of the same subject" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to the [New York Times](https://www.nytimes.com/2018/01/03/learning/lesson-plans/analyzing-the-elements-of-art-four-ways-to-think-about-value.html), "Values are best understood when visualized as a scale or gradient, from dark to light." Working directly with value scales and gradients helps train your eye to perceive subtle value differences.

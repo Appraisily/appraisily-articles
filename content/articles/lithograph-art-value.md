@@ -155,7 +155,7 @@ Lithographs occupy a unique position in the art world. Unlike one-of-a-kind pain
 
 The lithographic process, invented in 1796, involves drawing on stone with oil-based materials and applying ink that adheres only to the drawn areas. Modern lithographs may use metal plates instead of limestone, but the principle remains the same. The result is a high-quality print that can faithfully reproduce the artist's intentions.
 
-{{< data-modules/stats-highlight title="Lithograph Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Lithograph Market Insights" columns="3" / /  >}}
 <tr>
   <td>Limited Edition Value Premium</td>
   <td>30-50%</td>
@@ -191,13 +191,13 @@ Before determining value, it's essential to confirm you have an authentic lithog
 **Justification**: The "justification" refers to the artist's approval of the print quality. Look for annotations like "E.A." (épreuve d'artiste or artist's proof), "H.C." (hors commerce or not for sale), or "B.A.T." (bon à tirer or ready to print).
 
 {{< interactive-modules/condition-checklist title="Lithograph Authentication Checklist" description="Use this checklist to assess the authenticity of your lithograph" >}}
-  {{< interactive-modules/checklist-item label="Hand-signed by the artist (typically in pencil)" / />}}
-  {{< interactive-modules/checklist-item label="Edition number clearly visible (e.g., '25/100')" / />}}
-  {{< interactive-modules/checklist-item label="High-quality, acid-free paper with visible texture" / />}}
-  {{< interactive-modules/checklist-item label="Presence of plate mark or embossing" / />}}
-  {{< interactive-modules/checklist-item label="Visible justification or artist's proof markings" / />}}
-  {{< interactive-modules/checklist-item label="Clear ink impression without digital dot patterns" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation or certificate of authenticity" / />}}
+  {{< interactive-modules/checklist-item label="Hand-signed by the artist (typically in pencil)" /  >}}
+  {{< interactive-modules/checklist-item label="Edition number clearly visible (e.g., '25/100')" /  >}}
+  {{< interactive-modules/checklist-item label="High-quality, acid-free paper with visible texture" /  >}}
+  {{< interactive-modules/checklist-item label="Presence of plate mark or embossing" /  >}}
+  {{< interactive-modules/checklist-item label="Visible justification or artist's proof markings" /  >}}
+  {{< interactive-modules/checklist-item label="Clear ink impression without digital dot patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance documentation or certificate of authenticity" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Key Factors Affecting Lithograph Value" level="2" >}}

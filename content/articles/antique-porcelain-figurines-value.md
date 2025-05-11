@@ -72,7 +72,7 @@ Several critical factors influence the market value of antique porcelain figurin
 
 When evaluating antique porcelain figurines, experts consider multiple factors that can dramatically impact value:
 
-{{< data-modules/stats-highlight title="Value Influencing Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Influencing Factors" columns="3" / /  >}}
 
 ### Manufacturer and Origin
 
@@ -93,13 +93,13 @@ Older figurines, particularly those from the 18th century, generally command hig
 The condition dramatically impacts value, with mint condition pieces often worth 3-5 times more than damaged examples:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that affect antique figurine valuation" >}}
-  {{< interactive-modules/checklist-item label="No restoration or repairs (original condition)" / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or hairlines" / />}}
-  {{< interactive-modules/checklist-item label="Original paint and gilding intact" / />}}
-  {{< interactive-modules/checklist-item label="No crazing (fine surface cracks in glaze)" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or staining" / />}}
-  {{< interactive-modules/checklist-item label="All delicate elements (fingers, flowers, etc.) intact" / />}}
-  {{< interactive-modules/checklist-item label="Original base or stand included" / />}}
+  {{< interactive-modules/checklist-item label="No restoration or repairs (original condition)" /  >}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or hairlines" /  >}}
+  {{< interactive-modules/checklist-item label="Original paint and gilding intact" /  >}}
+  {{< interactive-modules/checklist-item label="No crazing (fine surface cracks in glaze)" /  >}}
+  {{< interactive-modules/checklist-item label="No discoloration or staining" /  >}}
+  {{< interactive-modules/checklist-item label="All delicate elements (fingers, flowers, etc.) intact" /  >}}
+  {{< interactive-modules/checklist-item label="Original base or stand included" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Artistic Merit and Detail
@@ -283,7 +283,7 @@ When evaluating porcelain figurines, watch for these common issues:
 
 The relationship between condition and value follows consistent patterns:
 
-{{< data-modules/stats-highlight title="Condition Impact on Figurine Value" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Figurine Value" columns="3" / /  >}}
 
 - **Mint Condition**: Original, undamaged figurines typically command 100% of market value
 - **Excellent Condition**: Minor age-appropriate wear reduces value by only 10-20%

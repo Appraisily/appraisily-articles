@@ -94,7 +94,7 @@ For decades, McDonald's promotional glasses featuring beloved Disney characters 
 
 McDonald's partnership with Disney has resulted in multiple collectible glassware releases over the decades. From the 1990s 25th Anniversary collection to the popular 2000 Millennium Celebration glasses featuring Mickey Mouse, these promotional items have transcended their original purpose to become valuable pieces of Disney memorabilia. As with any collectible, factors like condition, rarity, and completeness of sets significantly impact their market value.
 
-{{< data-modules/stats-highlight title="McDonald's Disney Glasses Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="McDonald's Disney Glasses Market Highlights" columns="3" / /  >}}
 <div class="stat-card" data-color="blue">
   <div class="stat-value">$50-$100</div>
   <div class="stat-label">Complete Set Value Range</div>
@@ -170,13 +170,13 @@ Various factors influence the collector value of McDonald's Disney glasses. Unde
 The condition of your McDonald's Disney glasses significantly impacts their value. Collectors prioritize pieces without chips, cracks, or fading of the decorative elements.
 
 {{< interactive-modules/condition-checklist title="Glass Condition Assessment" description="Check applicable items to assess your McDonald's Disney glasses condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" / />}}
-  {{< interactive-modules/checklist-item label="Vibrant, unfaded character designs" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches on design elements" / />}}
-  {{< interactive-modules/checklist-item label="Original stickers or labels (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No dishwasher damage to design" / />}}
-  {{< interactive-modules/checklist-item label="Complete set with all glasses from the series" / />}}
-  {{< interactive-modules/checklist-item label="Original packaging or boxes preserved" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the glass" /  >}}
+  {{< interactive-modules/checklist-item label="Vibrant, unfaded character designs" /  >}}
+  {{< interactive-modules/checklist-item label="No significant scratches on design elements" /  >}}
+  {{< interactive-modules/checklist-item label="Original stickers or labels (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="No dishwasher damage to design" /  >}}
+  {{< interactive-modules/checklist-item label="Complete set with all glasses from the series" /  >}}
+  {{< interactive-modules/checklist-item label="Original packaging or boxes preserved" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness of Sets

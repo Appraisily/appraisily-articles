@@ -83,7 +83,7 @@ When it comes to valuing and selling antiques, finding the right professional ca
 
 Working with local antique appraisers and buyers offers several advantages over online-only services. Local experts understand regional market trends, have networks of potential buyers in your area, and can personally examine items to provide more accurate valuations. Additionally, building a relationship with local appraisers can be valuable for future transactions and advice.
 
-{{< data-modules/stats-highlight title="Antique Appraisal Industry Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Appraisal Industry Statistics" columns="3" / /  >}}
 <tr>
   <td>$250-$350</td>
   <td>Average cost for formal single-item appraisal</td>
@@ -147,14 +147,14 @@ These businesses often employ or contract with professional appraisers:
 - **Antique dealers** may provide informal or formal appraisals
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist to evaluate potential antique appraisers" >}}
-  {{< interactive-modules/checklist-item label="Holds professional certifications (ISA, ASA, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Has experience with your specific type of antiques" / />}}
-  {{< interactive-modules/checklist-item label="Provides clear fee structure in writing" / />}}
-  {{< interactive-modules/checklist-item label="Has positive reviews or strong references" / />}}
-  {{< interactive-modules/checklist-item label="Follows USPAP (Uniform Standards of Professional Appraisal Practice)" / />}}
-  {{< interactive-modules/checklist-item label="Carries professional liability insurance" / />}}
-  {{< interactive-modules/checklist-item label="Offers a detailed written appraisal report" / />}}
-  {{< interactive-modules/checklist-item label="Has no conflicts of interest (if also buying)" / />}}
+  {{< interactive-modules/checklist-item label="Holds professional certifications (ISA, ASA, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Has experience with your specific type of antiques" /  >}}
+  {{< interactive-modules/checklist-item label="Provides clear fee structure in writing" /  >}}
+  {{< interactive-modules/checklist-item label="Has positive reviews or strong references" /  >}}
+  {{< interactive-modules/checklist-item label="Follows USPAP (Uniform Standards of Professional Appraisal Practice)" /  >}}
+  {{< interactive-modules/checklist-item label="Carries professional liability insurance" /  >}}
+  {{< interactive-modules/checklist-item label="Offers a detailed written appraisal report" /  >}}
+  {{< interactive-modules/checklist-item label="Has no conflicts of interest (if also buying)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding Different Types of Antique Appraisals" level="2" >}}

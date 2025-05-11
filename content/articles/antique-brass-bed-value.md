@@ -121,13 +121,13 @@ According to experts at 1stDibs, "The price of an antique brass bed depends on t
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Brass Bed Condition Factors" description="Check applicable items to gauge your brass bed's condition" >}}
-    {{< interactive-modules/checklist-item label="Original finish with desired patina" / />}}
-    {{< interactive-modules/checklist-item label="All original components (no replacement parts)" / />}}
-    {{< interactive-modules/checklist-item label="No significant dents, bends or repairs" / />}}
-    {{< interactive-modules/checklist-item label="Casting details remain crisp and well-defined" / />}}
-    {{< interactive-modules/checklist-item label="Original hardware and fittings intact" / />}}
-    {{< interactive-modules/checklist-item label="Manufacturer's markings visible" / />}}
-    {{< interactive-modules/checklist-item label="Complete with side rails and mounting hardware" / />}}
+    {{< interactive-modules/checklist-item label="Original finish with desired patina" /  >}}
+    {{< interactive-modules/checklist-item label="All original components (no replacement parts)" /  >}}
+    {{< interactive-modules/checklist-item label="No significant dents, bends or repairs" /  >}}
+    {{< interactive-modules/checklist-item label="Casting details remain crisp and well-defined" /  >}}
+    {{< interactive-modules/checklist-item label="Original hardware and fittings intact" /  >}}
+    {{< interactive-modules/checklist-item label="Manufacturer's markings visible" /  >}}
+    {{< interactive-modules/checklist-item label="Complete with side rails and mounting hardware" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Craftsmanship and Design
@@ -138,7 +138,7 @@ The level of artistry, complexity of design, and quality of construction signifi
 
 Beds produced by renowned manufacturers like Simmons, F.E. Browne & Son, or R.W. Winfield often carry premium values due to their established reputation for quality. If you can authenticate your brass bed's maker through markings (usually found on the frame), you may discover it has greater value than initially estimated.
 
-{{< data-modules/stats-highlight title="Antique Brass Bed Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Brass Bed Market Insights" columns="3" / /  >}}
 
 ## Historical Timeline of Brass Beds
 

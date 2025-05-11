@@ -105,7 +105,7 @@ The 1965 Washington quarter holds a special place in American numismatic history
 
 If you've found a 1965 quarter in your pocket change or coin collection, you might be wondering what it's worth. While most 1965 quarters are indeed only worth their face value of 25 cents, certain varieties and errors can be worth significantly more to collectors. This comprehensive guide will help you understand what makes these coins valuable and how to identify potentially valuable specimens in your collection.
 
-{{< data-modules/stats-highlight title="1965 Quarter Value Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="1965 Quarter Value Highlights" columns="3" / /  >}}
 <tr>
   <td>Face Value</td>
   <td>$0.25</td>
@@ -169,11 +169,11 @@ Standard 1965 quarters have a distinctive copper-nickel clad composition:
 You can check the composition by examining the edge of the coin. A regular 1965 quarter will show a copper-colored stripe sandwiched between silvery outer layers.
 
 {{< interactive-modules/condition-checklist title="1965 Quarter Identification Checklist" description="Check these features to properly identify a 1965 quarter" >}}
-  {{< interactive-modules/checklist-item label="Date reads '1965' below Washington's neck" / />}}
-  {{< interactive-modules/checklist-item label="No mint mark present (required for authentic 1965 quarters)" / />}}
-  {{< interactive-modules/checklist-item label="Copper stripe visible on edge (unless silver error)" / />}}
-  {{< interactive-modules/checklist-item label="Weight approximately 5.67 grams (silver errors weigh 6.25g)" / />}}
-  {{< interactive-modules/checklist-item label="Diameter measures 24.3mm" / />}}
+  {{< interactive-modules/checklist-item label="Date reads '1965' below Washington's neck" /  >}}
+  {{< interactive-modules/checklist-item label="No mint mark present (required for authentic 1965 quarters)" /  >}}
+  {{< interactive-modules/checklist-item label="Copper stripe visible on edge (unless silver error)" /  >}}
+  {{< interactive-modules/checklist-item label="Weight approximately 5.67 grams (silver errors weigh 6.25g)" /  >}}
+  {{< interactive-modules/checklist-item label="Diameter measures 24.3mm" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="1965 Quarter Value Guide" level="2" >}}
@@ -251,7 +251,7 @@ The most significant value in 1965 quarters comes from various errors and variet
 
 The most valuable 1965 quarter error is the "transitional error" - a 1965 quarter mistakenly struck on a 90% silver planchet instead of the copper-nickel clad composition.
 
-{{< data-modules/stats-highlight title="Transitional Silver Error Values" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Transitional Silver Error Values" columns="3" / /  >}}
 <tr>
   <td>XF-45 Grade</td>
   <td>$7,000+</td>

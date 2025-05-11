@@ -163,7 +163,7 @@ Chinese figurines range from humble clay sculptures created during the Neolithic
 
 This comprehensive guide will walk you through the key identification factors including dynastic periods, materials, marks, craftsmanship, and other distinguishing features that help authenticate Chinese figurines. Whether you're a seasoned collector or new to Chinese art, these guidelines will help you navigate this fascinating collecting area.
 
-{{< data-modules/stats-highlight title="Chinese Figurine Market Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Chinese Figurine Market Facts" columns="3" / /  >}}
 - Antique Chinese figurines can range from $100 to $100,000+ depending on age, rarity and condition
 - The global Chinese antiques market was valued at approximately $3.1 billion in 2022
 - Auction records for rare Ming dynasty figures have exceeded $10 million
@@ -327,13 +327,13 @@ The subject matter of Chinese figurines often reflects the cultural, religious, 
 - **Qing Dynasty**: Elaborate court scenes, famille rose figures, and European-influenced designs
 
 {{< interactive-modules/condition-checklist title="Subject Identification Checklist" description="Use this checklist to help identify the subject matter of your Chinese figurine" >}}
-  {{< interactive-modules/checklist-item label="Figure has Buddhist symbolism (ushnisha, mudra, lotus throne)" / />}}
-  {{< interactive-modules/checklist-item label="Figure represents one of the Eight Immortals with identifying attributes" / />}}
-  {{< interactive-modules/checklist-item label="Figure wears official court robes with rank badges" / />}}
-  {{< interactive-modules/checklist-item label="Figure depicts traditional Chinese opera character" / />}}
-  {{< interactive-modules/checklist-item label="Animal figure has symbolic meaning (tortoise, crane, bat, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Figure holds symbolic objects (ruyi scepter, peach of immortality, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Scene represents a famous story or legend from Chinese literature" / />}}
+  {{< interactive-modules/checklist-item label="Figure has Buddhist symbolism (ushnisha, mudra, lotus throne)" /  >}}
+  {{< interactive-modules/checklist-item label="Figure represents one of the Eight Immortals with identifying attributes" /  >}}
+  {{< interactive-modules/checklist-item label="Figure wears official court robes with rank badges" /  >}}
+  {{< interactive-modules/checklist-item label="Figure depicts traditional Chinese opera character" /  >}}
+  {{< interactive-modules/checklist-item label="Animal figure has symbolic meaning (tortoise, crane, bat, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Figure holds symbolic objects (ruyi scepter, peach of immortality, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Scene represents a famous story or legend from Chinese literature" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Understanding Chinese Porcelain Marks
@@ -605,14 +605,14 @@ The market for Chinese figurines contains numerous reproductions and fakes. Whil
    - Pieces with uniform "aging" sold in groups
 
 {{< interactive-modules/condition-checklist title="Reproduction Detection Checklist" description="Watch for these warning signs when examining Chinese figurines" >}}
-  {{< interactive-modules/checklist-item label="Piece feels unusually light for its size and purported material" / />}}
-  {{< interactive-modules/checklist-item label="Visible mold lines inconsistent with traditional forming techniques" / />}}
-  {{< interactive-modules/checklist-item label="Glaze has artificial-looking crazing or simulated age effects" / />}}
-  {{< interactive-modules/checklist-item label="Marks are machine-stamped rather than hand-carved or painted" / />}}
-  {{< interactive-modules/checklist-item label="Colors include pigments not available in the claimed period" / />}}
-  {{< interactive-modules/checklist-item label="Surface details lack the refinement expected for the period" / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns appear deliberately created rather than naturally occurring" / />}}
-  {{< interactive-modules/checklist-item label="Seller cannot provide clear provenance or authentication" / />}}
+  {{< interactive-modules/checklist-item label="Piece feels unusually light for its size and purported material" /  >}}
+  {{< interactive-modules/checklist-item label="Visible mold lines inconsistent with traditional forming techniques" /  >}}
+  {{< interactive-modules/checklist-item label="Glaze has artificial-looking crazing or simulated age effects" /  >}}
+  {{< interactive-modules/checklist-item label="Marks are machine-stamped rather than hand-carved or painted" /  >}}
+  {{< interactive-modules/checklist-item label="Colors include pigments not available in the claimed period" /  >}}
+  {{< interactive-modules/checklist-item label="Surface details lack the refinement expected for the period" /  >}}
+  {{< interactive-modules/checklist-item label="Wear patterns appear deliberately created rather than naturally occurring" /  >}}
+  {{< interactive-modules/checklist-item label="Seller cannot provide clear provenance or authentication" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Valuation Factors for Chinese Figurines

@@ -223,7 +223,7 @@ According to data from [MutualArt](https://www.mutualart.com/Artist/Lionel-Barry
 Several key factors significantly impact the market value of Lionel Barrymore's artwork. Understanding these can help collectors make informed purchasing decisions and accurate valuations.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" /  >}}
 <tr>
   <td style="text-align: center;"><strong>5-10x</strong></td>
   <td style="text-align: center;">Value difference between original etchings and gold foil reproductions</td>
@@ -247,14 +247,14 @@ The most significant value factor is whether the piece is an original etching ve
 ![Close-up of a Lionel Barrymore gold foil etching showing detail and frame condition](https://ik.imagekit.io/appraisily/SEO/lionel-barrymore-art-value/lionel-barrymore-art-value-image-4_WPd2WW6c1.png)
 
 {{< interactive-modules/condition-checklist title="Lionel Barrymore Artwork Condition Factors" description="Use this checklist to assess the condition of your Lionel Barrymore print" >}}
-  {{< interactive-modules/checklist-item label="Print has no tears, creases, or damage to the image" / />}}
-  {{< interactive-modules/checklist-item label="Colors remain vibrant with no significant fading" / />}}
-  {{< interactive-modules/checklist-item label="Gold foil elements are intact without flaking or tarnishing" / />}}
-  {{< interactive-modules/checklist-item label="Original frame and matting are present" / />}}
-  {{< interactive-modules/checklist-item label="Glass is free from scratches and haziness" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, staining, or foxing (brown spots)" / />}}
-  {{< interactive-modules/checklist-item label="Signature is clear and legible" / />}}
-  {{< interactive-modules/checklist-item label="Any labels or markings on verso (back) are intact" / />}}
+  {{< interactive-modules/checklist-item label="Print has no tears, creases, or damage to the image" /  >}}
+  {{< interactive-modules/checklist-item label="Colors remain vibrant with no significant fading" /  >}}
+  {{< interactive-modules/checklist-item label="Gold foil elements are intact without flaking or tarnishing" /  >}}
+  {{< interactive-modules/checklist-item label="Original frame and matting are present" /  >}}
+  {{< interactive-modules/checklist-item label="Glass is free from scratches and haziness" /  >}}
+  {{< interactive-modules/checklist-item label="No water damage, staining, or foxing (brown spots)" /  >}}
+  {{< interactive-modules/checklist-item label="Signature is clear and legible" /  >}}
+  {{< interactive-modules/checklist-item label="Any labels or markings on verso (back) are intact" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Signature, Edition, and Provenance

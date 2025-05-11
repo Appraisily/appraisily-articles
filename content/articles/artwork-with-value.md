@@ -94,7 +94,7 @@ Understanding what makes art valuable requires knowledge of several critical fac
 
 The value of artwork is determined by a complex interplay of factors, some objective and others more subjective. Being familiar with these elements can help you make more informed decisions when buying, selling, or appraising artwork.
 
-{{< data-modules/stats-highlight title="Art Market Value Indicators" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Art Market Value Indicators" columns="3" / /  >}}
 
 ### Artist Reputation and Recognition
 
@@ -118,13 +118,13 @@ Key provenance elements include:
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Artwork Condition Evaluation Checklist" description="Factors that appraisers assess when determining condition" >}}
-    {{< interactive-modules/checklist-item label="No visible damage (tears, cracks, chips)" / />}}
-    {{< interactive-modules/checklist-item label="Original canvas/material (no repairs)" / />}}
-    {{< interactive-modules/checklist-item label="No discoloration or fading" / />}}
-    {{< interactive-modules/checklist-item label="Original frame (if applicable)" / />}}
-    {{< interactive-modules/checklist-item label="No restoration or overpainting" / />}}
-    {{< interactive-modules/checklist-item label="Stable structural integrity" / />}}
-    {{< interactive-modules/checklist-item label="No mold, mildew, or water damage" / />}}
+    {{< interactive-modules/checklist-item label="No visible damage (tears, cracks, chips)" /  >}}
+    {{< interactive-modules/checklist-item label="Original canvas/material (no repairs)" /  >}}
+    {{< interactive-modules/checklist-item label="No discoloration or fading" /  >}}
+    {{< interactive-modules/checklist-item label="Original frame (if applicable)" /  >}}
+    {{< interactive-modules/checklist-item label="No restoration or overpainting" /  >}}
+    {{< interactive-modules/checklist-item label="Stable structural integrity" /  >}}
+    {{< interactive-modules/checklist-item label="No mold, mildew, or water damage" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 The physical condition of artwork significantly impacts its value. Pristine pieces typically fetch higher prices than those with damage or extensive restoration. However, some degree of age-appropriate wear may be acceptable for antique pieces, as long as it doesn't compromise the artwork's integrity or visual appeal.

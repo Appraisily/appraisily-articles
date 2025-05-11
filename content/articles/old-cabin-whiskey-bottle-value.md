@@ -106,14 +106,14 @@ The most critical factor in determining the value of an Old Cabin Whiskey bottle
 Distinguishing between original 19th-century E.G. Booz's Old Cabin Whiskey bottles and later reproductions is crucial for accurate valuation. According to the [Federation of Historical Bottle Collectors Virtual Museum](https://fohbcvirtualmuseum.org/galleries/historical-flasks/gvii-3-e-g-boozs-old-cabin-whiskey-philadelphia/), these key characteristics can help identify authentic bottles:
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for Original Bottles" description="Genuine 19th century E.G. Booz bottles will typically have these characteristics:" >}}
-  {{< interactive-modules/checklist-item label="Amber or olive-amber glass coloration" / />}}
-  {{< interactive-modules/checklist-item label="Correct embossing with 'E.G. BOOZ'S OLD CABIN WHISKEY 1840'" / />}}
-  {{< interactive-modules/checklist-item label="Visible pontil mark on the bottom" / />}}
-  {{< interactive-modules/checklist-item label="Crude, hand-blown appearance with bubbles in glass" / />}}
-  {{< interactive-modules/checklist-item label="Dimensions approximately 7.5 inches tall" / />}}
-  {{< interactive-modules/checklist-item label="Weight of glass feels substantial and heavy" / />}}
-  {{< interactive-modules/checklist-item label="Seams that don't extend fully to the top" / />}}
-  {{< interactive-modules/checklist-item label="Irregularities and asymmetry in the molding" / />}}
+  {{< interactive-modules/checklist-item label="Amber or olive-amber glass coloration" /  >}}
+  {{< interactive-modules/checklist-item label="Correct embossing with 'E.G. BOOZ'S OLD CABIN WHISKEY 1840'" /  >}}
+  {{< interactive-modules/checklist-item label="Visible pontil mark on the bottom" /  >}}
+  {{< interactive-modules/checklist-item label="Crude, hand-blown appearance with bubbles in glass" /  >}}
+  {{< interactive-modules/checklist-item label="Dimensions approximately 7.5 inches tall" /  >}}
+  {{< interactive-modules/checklist-item label="Weight of glass feels substantial and heavy" /  >}}
+  {{< interactive-modules/checklist-item label="Seams that don't extend fully to the top" /  >}}
+  {{< interactive-modules/checklist-item label="Irregularities and asymmetry in the molding" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 For reproduction bottles, look for these telltale signs:
@@ -138,7 +138,7 @@ The market value of Old Cabin Whiskey bottles varies dramatically based on authe
 
 According to auction records and expert appraisals, the value of E.G. Booz's Old Cabin Whiskey bottles falls into several distinct categories:
 
-{{< data-modules/stats-highlight title="Market Value Overview" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Market Value Overview" columns="3" / /  >}}
 
 {{< data-modules/price-table title="Old Cabin Whiskey Bottle Value Ranges" description="Current market prices as of 2023" >}}
   <tr>

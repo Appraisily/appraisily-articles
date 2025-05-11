@@ -138,7 +138,7 @@ Understanding when professional appraisal services are necessary can save you ti
 
 There are several key situations when seeking a professional antique appraisal is highly recommended:
 
-{{< data-modules/stats-highlight title="Common Reasons for Antique Appraisals" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Common Reasons for Antique Appraisals" columns="3" / /  >}}
 
 1. **Insurance Documentation**: Protecting your valuable antiques requires accurate documentation of their worth for insurance coverage.
 
@@ -245,14 +245,14 @@ Digital options offer convenience but may have limitations:
 - **Virtual Consultations**: Many individual appraisers now offer video consultations for initial assessments.
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Verify these credentials when selecting an antique appraiser" >}}
-{{< interactive-modules/checklist-item label="Professional certification or membership in a recognized appraisal organization" / />}}
-{{< interactive-modules/checklist-item label="Specialization in your specific type of antique" / />}}
-{{< interactive-modules/checklist-item label="Years of experience in the field" / />}}
-{{< interactive-modules/checklist-item label="Positive reviews or testimonials from previous clients" / />}}
-{{< interactive-modules/checklist-item label="Clear fee structure disclosed upfront" / />}}
-{{< interactive-modules/checklist-item label="Willingness to provide credentials and references" / />}}
-{{< interactive-modules/checklist-item label="No conflict of interest (doesn't offer to purchase items they appraise)" / />}}
-{{< interactive-modules/checklist-item label="Provides comprehensive written reports for formal appraisals" / />}}
+{{< interactive-modules/checklist-item label="Professional certification or membership in a recognized appraisal organization" /  >}}
+{{< interactive-modules/checklist-item label="Specialization in your specific type of antique" /  >}}
+{{< interactive-modules/checklist-item label="Years of experience in the field" /  >}}
+{{< interactive-modules/checklist-item label="Positive reviews or testimonials from previous clients" /  >}}
+{{< interactive-modules/checklist-item label="Clear fee structure disclosed upfront" /  >}}
+{{< interactive-modules/checklist-item label="Willingness to provide credentials and references" /  >}}
+{{< interactive-modules/checklist-item label="No conflict of interest (doesn't offer to purchase items they appraise)" /  >}}
+{{< interactive-modules/checklist-item label="Provides comprehensive written reports for formal appraisals" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Red Flags to Watch For

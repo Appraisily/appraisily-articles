@@ -113,7 +113,7 @@ Understanding the history of Barbie dolls is essential for determining their val
 
 While many Barbie dolls have collectible value, some stand out as particularly sought-after investments. According to auction data and collector guides, these are among the most valuable vintage Barbie dolls ever sold:
 
-{{< data-modules/stats-highlight title="Record-Breaking Barbie Values" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Record-Breaking Barbie Values" columns="3" / /  >}}
 
 1. **Original #1 Barbie (1959)** - The holy grail of Barbie collecting, a mint-in-box example sold for $27,450 at auction.
 
@@ -143,12 +143,12 @@ The experts at [Vintage Babs](https://www.vintagebabs.com/z_barbie-identificatio
 Different eras of Barbie feature distinct facial characteristics that help with identification:
 
 {{< interactive-modules/condition-checklist title="Facial Feature Identification Guide" description="Look for these distinctive facial features to help identify vintage Barbies" >}}
-  {{< interactive-modules/checklist-item label="Ponytail Barbie (1959-1964): Pursed lips, side-glancing eyes, arched eyebrows" / />}}
-  {{< interactive-modules/checklist-item label="Bubblecut Barbie (1961-1967): Similar facial features to Ponytail but with short, bubble-shaped hairdo" / />}}
-  {{< interactive-modules/checklist-item label="American Girl Barbie (1965-1966): Softer expression, forward-looking eyes, flip hairstyle" / />}}
-  {{< interactive-modules/checklist-item label="Twist 'N Turn Barbie (1967-1968): Rooted eyelashes, straight leg bend, new body type" / />}}
-  {{< interactive-modules/checklist-item label="Malibu Barbie (1971 forward): Tan skin, bright smile, straight arms" / />}}
-  {{< interactive-modules/checklist-item label="Superstar Barbie (1977 forward): Wide smile, sparkly eyes, more dramatic makeup" / />}}
+  {{< interactive-modules/checklist-item label="Ponytail Barbie (1959-1964): Pursed lips, side-glancing eyes, arched eyebrows" /  >}}
+  {{< interactive-modules/checklist-item label="Bubblecut Barbie (1961-1967): Similar facial features to Ponytail but with short, bubble-shaped hairdo" /  >}}
+  {{< interactive-modules/checklist-item label="American Girl Barbie (1965-1966): Softer expression, forward-looking eyes, flip hairstyle" /  >}}
+  {{< interactive-modules/checklist-item label="Twist 'N Turn Barbie (1967-1968): Rooted eyelashes, straight leg bend, new body type" /  >}}
+  {{< interactive-modules/checklist-item label="Malibu Barbie (1971 forward): Tan skin, bright smile, straight arms" /  >}}
+  {{< interactive-modules/checklist-item label="Superstar Barbie (1977 forward): Wide smile, sparkly eyes, more dramatic makeup" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of vintage Barbie face molds showing different eras](https://ik.imagekit.io/appraisily/SEO/value-of-old-barbie-dolls/value-of-old-barbie-dolls-image-3_lFuZrYgaN.png)

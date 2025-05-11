@@ -87,7 +87,7 @@ The value of vintage Matchbox cars is determined by several key factors. Underst
 
 ![Rare vintage Matchbox car in mint condition with original packaging showing price factors](https://ik.imagekit.io/appraisily/SEO/old-matchbox-car-values/old-matchbox-car-values-image-2_6nQS_EOfa.png)
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / /  >}}
 
 ### Condition
 
@@ -237,16 +237,16 @@ If you have the original box, its design can help date the car:
 ![Various vintage Matchbox cars showing different bases and identification markings](https://ik.imagekit.io/appraisily/SEO/old-matchbox-car-values/old-matchbox-car-values-image-4_Ws433rRQS.png)
 
 {{< interactive-modules/condition-checklist title="Vintage Matchbox Car Condition Assessment" description="Use this checklist to evaluate the condition of your Matchbox cars" >}}
-  {{< interactive-modules/checklist-item label="Paint is intact with no chips, scratches or wear" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no missing pieces)" / />}}
-  {{< interactive-modules/checklist-item label="Wheels roll smoothly and are not damaged" / />}}
-  {{< interactive-modules/checklist-item label="No rust on metal parts or base" / />}}
-  {{< interactive-modules/checklist-item label="Original decals/transfers present and not damaged" / />}}
-  {{< interactive-modules/checklist-item label="Windows and interior pieces intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original box present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="No modifications or repairs have been made" / />}}
-  {{< interactive-modules/checklist-item label="Moving parts function correctly (doors, hoods, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration from sun exposure or chemical damage" / />}}
+  {{< interactive-modules/checklist-item label="Paint is intact with no chips, scratches or wear" /  >}}
+  {{< interactive-modules/checklist-item label="All original parts present (no missing pieces)" /  >}}
+  {{< interactive-modules/checklist-item label="Wheels roll smoothly and are not damaged" /  >}}
+  {{< interactive-modules/checklist-item label="No rust on metal parts or base" /  >}}
+  {{< interactive-modules/checklist-item label="Original decals/transfers present and not damaged" /  >}}
+  {{< interactive-modules/checklist-item label="Windows and interior pieces intact (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Original box present and in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="No modifications or repairs have been made" /  >}}
+  {{< interactive-modules/checklist-item label="Moving parts function correctly (doors, hoods, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="No discoloration from sun exposure or chemical damage" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Pricing Guide for Common Vintage Matchbox Series" level="2" >}}

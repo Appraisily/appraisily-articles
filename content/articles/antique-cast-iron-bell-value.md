@@ -128,7 +128,7 @@ Antique cast iron bells hold a significant place in American history and have be
 
 Cast iron bells can range widely in value, from a few hundred dollars to several thousand, depending on factors such as age, condition, manufacturer, size, and historical significance. In this comprehensive guide, we'll explore how to identify, value, and care for these historic treasures.
 
-{{< data-modules/stats-highlight title="Antique Cast Iron Bell Market Overview" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Cast Iron Bell Market Overview" columns="3" / /  >}}
   <div class="stat-card stat-card-green">
     <div class="stat-value">$120-$5,000+</div>
     <div class="stat-label">Price Range</div>
@@ -250,15 +250,15 @@ Bells with documented provenance from significant historic buildings, institutio
 - Newspaper articles or other published references
 
 {{< interactive-modules/condition-checklist title="Antique Cast Iron Bell Condition Assessment" description="Check applicable items to help determine your bell's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Clear, legible manufacturer markings" / />}}
-  {{< interactive-modules/checklist-item label="Original mounting hardware present (yoke, wheel, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Bell produces clear, resonant tone when struck" / />}}
-  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to the bell body" / />}}
-  {{< interactive-modules/checklist-item label="Original clapper present and functional" / />}}
-  {{< interactive-modules/checklist-item label="Consistent patina appropriate to age" / />}}
-  {{< interactive-modules/checklist-item label="No excessive rust or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Original paint or finish (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance or history" / />}}
+  {{< interactive-modules/checklist-item label="Clear, legible manufacturer markings" /  >}}
+  {{< interactive-modules/checklist-item label="Original mounting hardware present (yoke, wheel, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Bell produces clear, resonant tone when struck" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to the bell body" /  >}}
+  {{< interactive-modules/checklist-item label="Original clapper present and functional" /  >}}
+  {{< interactive-modules/checklist-item label="Consistent patina appropriate to age" /  >}}
+  {{< interactive-modules/checklist-item label="No excessive rust or corrosion" /  >}}
+  {{< interactive-modules/checklist-item label="Original paint or finish (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance or history" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for Antique Cast Iron Bells" level="2" >}}

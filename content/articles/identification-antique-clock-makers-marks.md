@@ -150,7 +150,7 @@ The most common locations to find clock makers' marks include:
 
 - **On the Pendulum**: Occasionally, makers stamped their names or initials on the pendulum bob or suspension spring.
 
-{{< data-modules/stats-highlight title="Key Clock Identification Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Clock Identification Statistics" columns="3" / /  >}}
 
 | Statistic | Percentage | Note |
 | --------- | ---------- | ---- |
@@ -291,14 +291,14 @@ With valuable antique clocks sometimes selling for thousands or even tens of tho
 5. **Examine Patina and Aging**: Genuine marks age along with the clock. New engravings on old metal, or artificially aged paper labels, are red flags for forgeries.
 
 {{< interactive-modules/condition-checklist title="Authentic Mark Assessment Checklist" description="Use this checklist to evaluate the authenticity of your clock's maker's mark" >}}
-  {{< interactive-modules/checklist-item label="Mark shows natural wear consistent with the clock's age" / />}}
-  {{< interactive-modules/checklist-item label="Mark style and execution match the purported period" / />}}
-  {{< interactive-modules/checklist-item label="Font or engraving technique is appropriate for the era" / />}}
-  {{< interactive-modules/checklist-item label="Movement construction matches the claimed maker's known style" / />}}
-  {{< interactive-modules/checklist-item label="Mark location is consistent with the maker's known practices" / />}}
-  {{< interactive-modules/checklist-item label="Patina on or around the mark appears natural and unaltered" / />}}
-  {{< interactive-modules/checklist-item label="Mark has been verified against reference materials" / />}}
-  {{< interactive-modules/checklist-item label="Clock's overall design is consistent with the purported maker" / />}}
+  {{< interactive-modules/checklist-item label="Mark shows natural wear consistent with the clock's age" /  >}}
+  {{< interactive-modules/checklist-item label="Mark style and execution match the purported period" /  >}}
+  {{< interactive-modules/checklist-item label="Font or engraving technique is appropriate for the era" /  >}}
+  {{< interactive-modules/checklist-item label="Movement construction matches the claimed maker's known style" /  >}}
+  {{< interactive-modules/checklist-item label="Mark location is consistent with the maker's known practices" /  >}}
+  {{< interactive-modules/checklist-item label="Patina on or around the mark appears natural and unaltered" /  >}}
+  {{< interactive-modules/checklist-item label="Mark has been verified against reference materials" /  >}}
+  {{< interactive-modules/checklist-item label="Clock's overall design is consistent with the purported maker" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Using Serial Numbers and Date Codes" level="2" >}}

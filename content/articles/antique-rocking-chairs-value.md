@@ -145,7 +145,7 @@ Made famous by Michael Thonet in the mid-19th century, bentwood rockers are iden
 
 Characterized by straight lines, quarter-sawn oak, and exposed joinery, these early 20th century rockers are particularly valuable when made by renowned makers like Gustav Stickley, L. & J.G. Stickley, or Limbert. Authenticated Stickley rockers can command prices from $2,000 to over $10,000 for rare models.
 
-{{< data-modules/stats-highlight title="Key Value Indicators for Antique Rocking Chairs" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Indicators for Antique Rocking Chairs" columns="3" / /  >}}
 
 ### Authentication Markers
 
@@ -162,14 +162,14 @@ When examining an antique rocking chair, look for these key indicators of authen
 5. **Maker's Marks**: Check for labels, stamps, or carved signatures that can identify the maker. Branded marks from recognized craftsmen or manufacturers significantly increase value.
 
 {{< interactive-modules/condition-checklist title="Antique Rocking Chair Authentication Checklist" description="Use this checklist to help determine if a rocking chair is genuinely antique and potentially valuable:" >}}
-  {{< interactive-modules/checklist-item label="Original finish with appropriate patina and wear patterns" / />}}
-  {{< interactive-modules/checklist-item label="Hand-cut joinery visible on underside or hidden areas" / />}}
-  {{< interactive-modules/checklist-item label="Wood shrinkage consistent with age (especially on seat joints)" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate materials for claimed period (no plywood before 1850s)" / />}}
-  {{< interactive-modules/checklist-item label="Hardware (if present) appropriate to time period" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of repairs consistent with age (older repairs add character)" / />}}
-  {{< interactive-modules/checklist-item label="Original or period-appropriate rockers (not later additions)" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark, label, or signature" / />}}
+  {{< interactive-modules/checklist-item label="Original finish with appropriate patina and wear patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-cut joinery visible on underside or hidden areas" /  >}}
+  {{< interactive-modules/checklist-item label="Wood shrinkage consistent with age (especially on seat joints)" /  >}}
+  {{< interactive-modules/checklist-item label="Appropriate materials for claimed period (no plywood before 1850s)" /  >}}
+  {{< interactive-modules/checklist-item label="Hardware (if present) appropriate to time period" /  >}}
+  {{< interactive-modules/checklist-item label="Evidence of repairs consistent with age (older repairs add character)" /  >}}
+  {{< interactive-modules/checklist-item label="Original or period-appropriate rockers (not later additions)" /  >}}
+  {{< interactive-modules/checklist-item label="Maker's mark, label, or signature" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors That Influence Antique Rocking Chair Values" level="2" >}}

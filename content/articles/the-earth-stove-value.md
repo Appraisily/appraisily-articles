@@ -84,7 +84,7 @@ Earth Stoves typically range in value from $50 for basic models in poor conditio
 
 ![Vintage Earth Stove 100 Series with door open showing firebox](https://ik.imagekit.io/appraisily/SEO/the-earth-stove-value/the-earth-stove-value-image-1_tr_xXi7Gb.png)
 
-{{< data-modules/stats-highlight title="Earth Stove Market Overview" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Earth Stove Market Overview" columns="3" / /  >}}
 - **$50-$300**: Typical price range for used Earth Stoves in varying conditions
 - **$100-$200**: Average value for 100 Series models in good condition
 - **30%**: Potential value increase for fully restored models with original parts
@@ -167,14 +167,14 @@ Several key factors influence how much your Earth Stove is worth in today's mark
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Earth Stove Condition Assessment" description="Check applicable items to determine your stove's condition" >}}
-  {{< interactive-modules/checklist-item label="All original parts present and functional" / />}}
-  {{< interactive-modules/checklist-item label="No cracks in the cast iron body" / />}}
-  {{< interactive-modules/checklist-item label="Door seal is intact and functioning properly" / />}}
-  {{< interactive-modules/checklist-item label="Glass is clear and unbroken (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="All air controls work smoothly" / />}}
-  {{< interactive-modules/checklist-item label="No smoke leaks when operating" / />}}
-  {{< interactive-modules/checklist-item label="Original finish in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Has original documentation/manual" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present and functional" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks in the cast iron body" /  >}}
+  {{< interactive-modules/checklist-item label="Door seal is intact and functioning properly" /  >}}
+  {{< interactive-modules/checklist-item label="Glass is clear and unbroken (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="All air controls work smoothly" /  >}}
+  {{< interactive-modules/checklist-item label="No smoke leaks when operating" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Has original documentation/manual" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Additional Value Factors

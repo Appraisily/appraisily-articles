@@ -124,7 +124,7 @@ As noted by the [Arts Journal](https://www.artsjournal.com/jumper/2016/03/the-va
 
 Material considerations also contribute to intrinsic value:
 
-{{< data-modules/stats-highlight title="Material Components of Intrinsic Value" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Material Components of Intrinsic Value" columns="3" / /  >}}
 
 - **Material Rarity**: Precious metals, rare pigments, or unusual materials
 - **Craftsmanship Excellence**: Technical skill and precision in execution
@@ -228,11 +228,11 @@ As noted in a research paper from [CultureHive](https://www.culturehive.co.uk/wp
 Institutional validation often indicates recognized intrinsic value:
 
 {{< interactive-modules/condition-checklist title="Indicators of Recognized Intrinsic Value" description="Signs that an artwork's inherent worth has been acknowledged" >}}
-  {{< interactive-modules/checklist-item label="Museum acquisition and exhibition" / />}}
-  {{< interactive-modules/checklist-item label="Scholarly attention and academic research" / />}}
-  {{< interactive-modules/checklist-item label="Cultural heritage designation" / />}}
-  {{< interactive-modules/checklist-item label="Inclusion in educational curricula" / />}}
-  {{< interactive-modules/checklist-item label="Continued public interest across generations" / />}}
+  {{< interactive-modules/checklist-item label="Museum acquisition and exhibition" /  >}}
+  {{< interactive-modules/checklist-item label="Scholarly attention and academic research" /  >}}
+  {{< interactive-modules/checklist-item label="Cultural heritage designation" /  >}}
+  {{< interactive-modules/checklist-item label="Inclusion in educational curricula" /  >}}
+  {{< interactive-modules/checklist-item label="Continued public interest across generations" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Personal Assessment Framework

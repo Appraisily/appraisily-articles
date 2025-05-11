@@ -94,7 +94,7 @@ In a surprising market twist, vintage rotary phones have seen their values incre
 
 ![Vibrant cherry red rotary telephone showing colorful vintage design](https://ik.imagekit.io/appraisily/SEO/old-rotary-phone-value/old-rotary-phone-value-image-2_jdZ00WWIz.png)
 
-{{< data-modules/stats-highlight title="Rotary Phone Market Trends" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Rotary Phone Market Trends" columns="3" / /  >}}
 <div class="stat-card" data-color="green">
   <div class="stat-value">500%</div>
   <div class="stat-label">Price Increase</div>
@@ -169,14 +169,14 @@ Phones with connections to significant events, locations, or innovations in tele
 The condition of a vintage rotary phone is crucial to its value. Collectors typically categorize condition as:
 
 {{< interactive-modules/condition-checklist title="Rotary Phone Condition Assessment" description="Check applicable items to determine your phone's condition" >}}
-  {{< interactive-modules/checklist-item label="Dial works smoothly with proper return action" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" / />}}
-  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to the housing" / />}}
-  {{< interactive-modules/checklist-item label="Original handset cord in good condition (not frayed)" / />}}
-  {{< interactive-modules/checklist-item label="Original wall cord or line cord intact" / />}}
-  {{< interactive-modules/checklist-item label="Bell or ringer functions properly" / />}}
-  {{< interactive-modules/checklist-item label="No rust or corrosion on metal components" / />}}
-  {{< interactive-modules/checklist-item label="Original finish with minimal wear (no fading or discoloration)" / />}}
+  {{< interactive-modules/checklist-item label="Dial works smoothly with proper return action" /  >}}
+  {{< interactive-modules/checklist-item label="All original parts present (no replacements)" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or repairs to the housing" /  >}}
+  {{< interactive-modules/checklist-item label="Original handset cord in good condition (not frayed)" /  >}}
+  {{< interactive-modules/checklist-item label="Original wall cord or line cord intact" /  >}}
+  {{< interactive-modules/checklist-item label="Bell or ringer functions properly" /  >}}
+  {{< interactive-modules/checklist-item label="No rust or corrosion on metal components" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish with minimal wear (no fading or discoloration)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Working phones generally command higher prices than non-working ones, although exceptionally rare models may still have significant value even if non-functional. A phone that works on modern telephone lines will typically sell for more than one that requires adaptation.

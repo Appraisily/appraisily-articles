@@ -97,7 +97,7 @@ An art appraisal is fundamentally a professional opinion of value. According to 
 
 Art appraisers are trained professionals who specialize in evaluating different types of artwork, from paintings and sculptures to prints and mixed media pieces. Their expertise allows them to assess not just the obvious aspects of a piece, but also more subtle indicators of value, authenticity, and significance.
 
-{{< data-modules/stats-highlight title="The Importance of Professional Art Appraisals" columns="3" / / />}}
+{{< data-modules/stats-highlight title="The Importance of Professional Art Appraisals" columns="3" / /  >}}
 
 - **87%** of insurance claims for art are undervalued without professional appraisals
 - **$125-$350** average hourly rate for professional art appraisal services
@@ -200,14 +200,14 @@ During the physical examination, the appraiser will:
 - Identify frame condition (if applicable)
 
 {{< interactive-modules/condition-checklist title="Art Condition Assessment Elements" description="Elements professional appraisers evaluate during examination" >}}
-  {{< interactive-modules/checklist-item label="Surface condition (tears, holes, scratches)" / />}}
-  {{< interactive-modules/checklist-item label="Craquelure patterns (fine cracks in paint surface)" / />}}
-  {{< interactive-modules/checklist-item label="Previous restoration or conservation work" / />}}
-  {{< interactive-modules/checklist-item label="Signature authenticity and placement" / />}}
-  {{< interactive-modules/checklist-item label="Frame condition and appropriateness" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of insect damage or mold" / />}}
-  {{< interactive-modules/checklist-item label="Canvas tension and stability" / />}}
-  {{< interactive-modules/checklist-item label="Ultraviolet light examination results" / />}}
+  {{< interactive-modules/checklist-item label="Surface condition (tears, holes, scratches)" /  >}}
+  {{< interactive-modules/checklist-item label="Craquelure patterns (fine cracks in paint surface)" /  >}}
+  {{< interactive-modules/checklist-item label="Previous restoration or conservation work" /  >}}
+  {{< interactive-modules/checklist-item label="Signature authenticity and placement" /  >}}
+  {{< interactive-modules/checklist-item label="Frame condition and appropriateness" /  >}}
+  {{< interactive-modules/checklist-item label="Evidence of insect damage or mold" /  >}}
+  {{< interactive-modules/checklist-item label="Canvas tension and stability" /  >}}
+  {{< interactive-modules/checklist-item label="Ultraviolet light examination results" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Research and Analysis

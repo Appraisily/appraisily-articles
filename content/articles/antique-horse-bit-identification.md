@@ -139,7 +139,7 @@ Many antique bits reflect regional preferences and specialized uses:
 - Racing bits designed for minimal interference
 - Driving bits with specific adaptations for carriage horses
 
-{{< data-modules/stats-highlight title="Antique Horse Bit Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Horse Bit Market Insights" columns="3" / /  >}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/antique-horse-bit-identification/antique-horse-bit-identification-image-3_i5O9qq5tA.png" alt="Collection of various antique curb bits showing different shank designs" caption="Various antique curb bits displaying different shank designs and port configurations" />}}
 
@@ -237,14 +237,14 @@ Understanding the historical purpose helps with identification:
 - Ceremonial or parade bits
 
 {{< interactive-modules/condition-checklist title="Antique Horse Bit Authentication Checklist" description="Use this checklist to evaluate potential antique horse bits" >}}
-  {{< interactive-modules/checklist-item label="Shows appropriate signs of age and wear consistent with claimed period" / />}}
-  {{< interactive-modules/checklist-item label="Material composition matches the purported age" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark (if present) appears authentic and in the correct location" / />}}
-  {{< interactive-modules/checklist-item label="Construction techniques are consistent with the time period" / />}}
-  {{< interactive-modules/checklist-item label="Patina has developed naturally rather than being artificially applied" / />}}
-  {{< interactive-modules/checklist-item label="Design elements are consistent with regional and period styles" / />}}
-  {{< interactive-modules/checklist-item label="No modern materials or manufacturing techniques are present" / />}}
-  {{< interactive-modules/checklist-item label="Weight and balance feel appropriate for claimed age and type" / />}}
+  {{< interactive-modules/checklist-item label="Shows appropriate signs of age and wear consistent with claimed period" /  >}}
+  {{< interactive-modules/checklist-item label="Material composition matches the purported age" /  >}}
+  {{< interactive-modules/checklist-item label="Maker's mark (if present) appears authentic and in the correct location" /  >}}
+  {{< interactive-modules/checklist-item label="Construction techniques are consistent with the time period" /  >}}
+  {{< interactive-modules/checklist-item label="Patina has developed naturally rather than being artificially applied" /  >}}
+  {{< interactive-modules/checklist-item label="Design elements are consistent with regional and period styles" /  >}}
+  {{< interactive-modules/checklist-item label="No modern materials or manufacturing techniques are present" /  >}}
+  {{< interactive-modules/checklist-item label="Weight and balance feel appropriate for claimed age and type" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of maker's mark on antique horse bit](https://ik.imagekit.io/appraisily/SEO/antique-horse-bit-identification/antique-horse-bit-identification-image-4_YjtzFxchM.png)

@@ -76,7 +76,7 @@ Antique stoneware crocks represent a fascinating piece of American history and h
 
 The value of antique crocks depends primarily on their age, manufacturer, decorative elements, condition, size, and rarity. Let's examine these factors in greater detail to understand why some crocks command premium prices while others are more affordable.
 
-{{< data-modules/stats-highlight title="Antique Crock Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Crock Value Factors" columns="3" / /  >}}
 
 1. **Age and Provenance**: Crocks from the 18th and early 19th centuries generally command higher prices.
 2. **Decoration**: Cobalt blue hand-painted designs significantly increase value.
@@ -214,14 +214,14 @@ While larger crocks may seem more impressive, they're not necessarily more valua
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Antique Crock Condition Assessment" description="Use this checklist to evaluate the condition of your antique stoneware crocks" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or hairline fractures" / />}}
-  {{< interactive-modules/checklist-item label="Original glaze intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Decoration clear and unfaded" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
-  {{< interactive-modules/checklist-item label="Original handles intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Clean interior without staining" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="Consistent coloration without discoloration" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or hairline fractures" /  >}}
+  {{< interactive-modules/checklist-item label="Original glaze intact with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="Decoration clear and unfaded" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" /  >}}
+  {{< interactive-modules/checklist-item label="Original handles intact (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Clean interior without staining" /  >}}
+  {{< interactive-modules/checklist-item label="Maker's mark clearly visible" /  >}}
+  {{< interactive-modules/checklist-item label="Consistent coloration without discoloration" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Condition Issues and Their Impact on Value

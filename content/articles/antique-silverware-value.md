@@ -80,7 +80,7 @@ To be classified as genuinely antique, silverware must be at least 100 years old
 
 The value of antique silverware varies dramatically - from as little as $5 for common pieces to over $1 million for extremely rare items with historical significance. This wide range illustrates why proper identification and condition assessment are crucial when determining value.
 
-{{< data-modules/stats-highlight title="Antique Silverware Value Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Silverware Value Statistics" columns="3" / /  >}}
 
 ## Identifying Authentic Antique Silver
 
@@ -183,14 +183,14 @@ Condition critically impacts value, with pristine pieces commanding significant 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Silverware Condition Assessment Checklist" description="Evaluate these aspects when determining condition" >}}
-    {{< interactive-modules/checklist-item label="No dents, bends, or repairs" / />}}
-    {{< interactive-modules/checklist-item label="Original finish with minimal wear" / />}}
-    {{< interactive-modules/checklist-item label="Sharp details on ornate patterns" / />}}
-    {{< interactive-modules/checklist-item label="No monograms or removal attempts" / />}}
-    {{< interactive-modules/checklist-item label="Even patina appropriate to age" / />}}
-    {{< interactive-modules/checklist-item label="No pitting or corrosion" / />}}
-    {{< interactive-modules/checklist-item label="Complete set with matching pieces" / />}}
-    {{< interactive-modules/checklist-item label="Original storage box or chest" / />}}
+    {{< interactive-modules/checklist-item label="No dents, bends, or repairs" /  >}}
+    {{< interactive-modules/checklist-item label="Original finish with minimal wear" /  >}}
+    {{< interactive-modules/checklist-item label="Sharp details on ornate patterns" /  >}}
+    {{< interactive-modules/checklist-item label="No monograms or removal attempts" /  >}}
+    {{< interactive-modules/checklist-item label="Even patina appropriate to age" /  >}}
+    {{< interactive-modules/checklist-item label="No pitting or corrosion" /  >}}
+    {{< interactive-modules/checklist-item label="Complete set with matching pieces" /  >}}
+    {{< interactive-modules/checklist-item label="Original storage box or chest" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Common condition issues that reduce value include:

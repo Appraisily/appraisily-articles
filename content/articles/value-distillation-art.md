@@ -122,7 +122,7 @@ The concept of value distillation has been popularized by numerous art educators
 
 This technique is particularly valuable for beginners who often struggle with understanding tonal values, but it remains an important exercise even for advanced artists who use it to plan compositions and analyze reference images.
 
-{{< data-modules/stats-highlight title="Value in Art: Key Concepts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value in Art: Key Concepts" columns="3" / /  >}}
 <tr>
   <td>Value</td>
   <td>The lightness or darkness of a color/tone</td>
@@ -283,12 +283,12 @@ Value distillation skills develop through systematic practice:
 According to discussions on [Reddit's ArtCrit community](https://www.reddit.com/r/ArtCrit/comments/ryuz91/value_distillation_study_any_tips_for_improvement/), consistent practice is key to improvement in this fundamental skill.
 
 {{< interactive-modules/condition-checklist title="Value Distillation Assessment" description="Check these aspects when evaluating your value distillation studies" >}}
-{{< interactive-modules/checklist-item label="Clear separation between value groups" / />}}
-{{< interactive-modules/checklist-item label="Subject remains recognizable despite simplification" / />}}
-{{< interactive-modules/checklist-item label="Major forms are defined by appropriate values" / />}}
-{{< interactive-modules/checklist-item label="Composition reads well at a glance" / />}}
-{{< interactive-modules/checklist-item label="Value groups are cohesive rather than scattered" / />}}
-{{< interactive-modules/checklist-item label="Light source direction is evident" / />}}
+{{< interactive-modules/checklist-item label="Clear separation between value groups" /  >}}
+{{< interactive-modules/checklist-item label="Subject remains recognizable despite simplification" /  >}}
+{{< interactive-modules/checklist-item label="Major forms are defined by appropriate values" /  >}}
+{{< interactive-modules/checklist-item label="Composition reads well at a glance" /  >}}
+{{< interactive-modules/checklist-item label="Value groups are cohesive rather than scattered" /  >}}
+{{< interactive-modules/checklist-item label="Light source direction is evident" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Common Challenges and Solutions

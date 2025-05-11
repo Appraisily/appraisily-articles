@@ -86,19 +86,19 @@ Not all old whiskey jugs are created equal when it comes to value. Several key f
 
 ![Antique whiskey jug showing decorative elements and maker's mark](https://ik.imagekit.io/appraisily/SEO/old-whiskey-jugs-value/old-whiskey-jugs-value-image-2_RMUmV_qU_q.png)
 
-{{< data-modules/stats-highlight title="Value Indicators for Antique Whiskey Jugs" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Indicators for Antique Whiskey Jugs" columns="3" / /  >}}
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Check applicable features that may increase your whiskey jug's value" >}}
-  {{< interactive-modules/checklist-item label="Hand-painted decoration" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark or pottery stamp" / />}}
-  {{< interactive-modules/checklist-item label="Whiskey company advertising" / />}}
-  {{< interactive-modules/checklist-item label="Pre-1900 production date" / />}}
-  {{< interactive-modules/checklist-item label="Unusual size (very small or very large)" / />}}
-  {{< interactive-modules/checklist-item label="Rare glaze color or technique" / />}}
-  {{< interactive-modules/checklist-item label="Figural form or unique shape" / />}}
-  {{< interactive-modules/checklist-item label="Excellent condition with no repairs" / />}}
-  {{< interactive-modules/checklist-item label="Known historical provenance" / />}}
-  {{< interactive-modules/checklist-item label="Regional significance (Kentucky, Tennessee)" / />}}
+  {{< interactive-modules/checklist-item label="Hand-painted decoration" /  >}}
+  {{< interactive-modules/checklist-item label="Maker's mark or pottery stamp" /  >}}
+  {{< interactive-modules/checklist-item label="Whiskey company advertising" /  >}}
+  {{< interactive-modules/checklist-item label="Pre-1900 production date" /  >}}
+  {{< interactive-modules/checklist-item label="Unusual size (very small or very large)" /  >}}
+  {{< interactive-modules/checklist-item label="Rare glaze color or technique" /  >}}
+  {{< interactive-modules/checklist-item label="Figural form or unique shape" /  >}}
+  {{< interactive-modules/checklist-item label="Excellent condition with no repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Known historical provenance" /  >}}
+  {{< interactive-modules/checklist-item label="Regional significance (Kentucky, Tennessee)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Key Factors That Determine Whiskey Jug Value

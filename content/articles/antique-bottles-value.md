@@ -137,7 +137,7 @@ Understanding the factors that influence antique bottle values is essential for 
 
 The value of antique bottles is determined by a combination of factors that collectors and appraisers carefully assess. While age certainly plays a role, it's far from the only consideration when determining a bottle's worth.
 
-{{< data-modules/stats-highlight title="Key Value Factors for Antique Bottles" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for Antique Bottles" columns="3" / /  >}}
 
 1. **Rarity**: Bottles produced in limited quantities or from manufacturers that operated briefly are typically more valuable than common examples.
 
@@ -221,12 +221,12 @@ According to the [Society for Historical Archaeology's Bottle Dating](https://sh
 - Embossed text styles and product claims can help identify specific eras
 
 {{< interactive-modules/condition-checklist title="Bottle Dating Checklist" description="Use these indicators to help determine your bottle's approximate age" >}}
-  {{< interactive-modules/checklist-item label="Pontil mark visible on bottle base" / />}}
-  {{< interactive-modules/checklist-item label="Mold seams stop below the lip/finish" / />}}
-  {{< interactive-modules/checklist-item label="Glass contains bubbles or imperfections" / />}}
-  {{< interactive-modules/checklist-item label="Bottle has a hand-applied or tooled lip" / />}}
-  {{< interactive-modules/checklist-item label="Glass has turned purple from sun exposure" / />}}
-  {{< interactive-modules/checklist-item label="Embossed text rather than applied labels" / />}}
+  {{< interactive-modules/checklist-item label="Pontil mark visible on bottle base" /  >}}
+  {{< interactive-modules/checklist-item label="Mold seams stop below the lip/finish" /  >}}
+  {{< interactive-modules/checklist-item label="Glass contains bubbles or imperfections" /  >}}
+  {{< interactive-modules/checklist-item label="Bottle has a hand-applied or tooled lip" /  >}}
+  {{< interactive-modules/checklist-item label="Glass has turned purple from sun exposure" /  >}}
+  {{< interactive-modules/checklist-item label="Embossed text rather than applied labels" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Antique Bottle Value Ranges" level="2" >}}
@@ -306,12 +306,12 @@ The condition of antique bottles is typically described using these terms:
 **Poor (P)**: Major damage including large chips, cracks, heavy staining, or significant problems. Primarily of interest as space fillers in collections.
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Assessment" description="Check applicable items to understand your bottle's condition grade" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or fleabites anywhere on the bottle" / />}}
-  {{< interactive-modules/checklist-item label="Original glass luster intact (not dulled from cleaning)" / />}}
-  {{< interactive-modules/checklist-item label="No staining or residue inside the bottle" / />}}
-  {{< interactive-modules/checklist-item label="No scratches visible in normal lighting" / />}}
-  {{< interactive-modules/checklist-item label="Color is strong and not faded" / />}}
-  {{< interactive-modules/checklist-item label="Any embossing is sharp and clearly defined" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or fleabites anywhere on the bottle" /  >}}
+  {{< interactive-modules/checklist-item label="Original glass luster intact (not dulled from cleaning)" /  >}}
+  {{< interactive-modules/checklist-item label="No staining or residue inside the bottle" /  >}}
+  {{< interactive-modules/checklist-item label="No scratches visible in normal lighting" /  >}}
+  {{< interactive-modules/checklist-item label="Color is strong and not faded" /  >}}
+  {{< interactive-modules/checklist-item label="Any embossing is sharp and clearly defined" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Condition Issues

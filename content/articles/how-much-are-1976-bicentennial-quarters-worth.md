@@ -96,7 +96,7 @@ Bicentennial quarters, issued to commemorate America's 200th birthday, remain on
 
 If you've recently discovered a bicentennial quarter in your change or collection, you might be wondering about its potential value. This comprehensive guide will help you understand what makes certain 1976 quarters valuable and how to determine if yours might be worth more than 25 cents.
 
-{{< data-modules/stats-highlight title="Bicentennial Quarter Key Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Bicentennial Quarter Key Facts" columns="3" / /  >}}
 
 - **Production Period**: 1975-1976
 - **Date Displayed**: 1776-1976
@@ -341,14 +341,14 @@ The most valuable Bicentennial quarters are generally rare error coins in the si
 {{< /data-modules/price-table >}}
 
 {{< interactive-modules/condition-checklist title="Bicentennial Quarter Value Factors Checklist" description="Check applicable items to determine if your quarter might be worth more than face value" >}}
-  {{< interactive-modules/checklist-item label="Has S mint mark (San Francisco)" / />}}
-  {{< interactive-modules/checklist-item label="Is uncirculated with no wear or contact marks" / />}}
-  {{< interactive-modules/checklist-item label="Has 40% silver composition (heavier and no copper visible on edge)" / />}}
-  {{< interactive-modules/checklist-item label="Shows doubling in lettering or design elements" / />}}
-  {{< interactive-modules/checklist-item label="Has off-center strike" / />}}
-  {{< interactive-modules/checklist-item label="Shows evidence of being struck on wrong planchet" / />}}
-  {{< interactive-modules/checklist-item label="Has rotated die error (reverse is not oriented correctly)" / />}}
-  {{< interactive-modules/checklist-item label="Is part of original government packaging" / />}}
+  {{< interactive-modules/checklist-item label="Has S mint mark (San Francisco)" /  >}}
+  {{< interactive-modules/checklist-item label="Is uncirculated with no wear or contact marks" /  >}}
+  {{< interactive-modules/checklist-item label="Has 40% silver composition (heavier and no copper visible on edge)" /  >}}
+  {{< interactive-modules/checklist-item label="Shows doubling in lettering or design elements" /  >}}
+  {{< interactive-modules/checklist-item label="Has off-center strike" /  >}}
+  {{< interactive-modules/checklist-item label="Shows evidence of being struck on wrong planchet" /  >}}
+  {{< interactive-modules/checklist-item label="Has rotated die error (reverse is not oriented correctly)" /  >}}
+  {{< interactive-modules/checklist-item label="Is part of original government packaging" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Silver Bicentennial Quarters" level="2" >}}

@@ -126,7 +126,7 @@ Several key factors determine the value of vintage glass insulators, with rarity
 
 Color is perhaps the single most important factor in determining a glass insulator's value. While aqua (a light blue-green tint) is the most common color due to the natural iron content in sand used for glass production, other colors can dramatically increase value.
 
-{{< data-modules/stats-highlight title="Most Valuable Glass Insulator Colors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Most Valuable Glass Insulator Colors" columns="3" / /  >}}
 
 - **Common Colors (Lower Value)**: Clear, Aqua, Light Green
 - **Moderately Valuable Colors**: Amber, Dark Green, Purple (SCA - Sun-Colored Amethyst)
@@ -145,14 +145,14 @@ Certain manufacturers and specific models are more desirable to collectors. Whil
 As with most collectibles, condition significantly impacts value. Insulators in mint condition (no chips, cracks, or weathering) can be worth several times more than damaged examples of the same type.
 
 {{< interactive-modules/condition-checklist title="Glass Insulator Condition Assessment" description="Check applicable items to determine the condition of your insulator" >}}
-  {{< interactive-modules/checklist-item label="No chips or flakes on the glass surface" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or fractures (check by tapping gently - clear ring indicates no cracks)" / />}}
-  {{< interactive-modules/checklist-item label="Original shiny surface with no case wear or clouding" / />}}
-  {{< interactive-modules/checklist-item label="No interior bruises or stress marks" / />}}
-  {{< interactive-modules/checklist-item label="Embossing is clear and legible" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" / />}}
-  {{< interactive-modules/checklist-item label="Original threading intact (if threaded style)" / />}}
-  {{< interactive-modules/checklist-item label="Clean with no mineral deposits or staining" / />}}
+  {{< interactive-modules/checklist-item label="No chips or flakes on the glass surface" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks or fractures (check by tapping gently - clear ring indicates no cracks)" /  >}}
+  {{< interactive-modules/checklist-item label="Original shiny surface with no case wear or clouding" /  >}}
+  {{< interactive-modules/checklist-item label="No interior bruises or stress marks" /  >}}
+  {{< interactive-modules/checklist-item label="Embossing is clear and legible" /  >}}
+  {{< interactive-modules/checklist-item label="No significant scratches or scuffs" /  >}}
+  {{< interactive-modules/checklist-item label="Original threading intact (if threaded style)" /  >}}
+  {{< interactive-modules/checklist-item label="Clean with no mineral deposits or staining" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Age and Historical Significance

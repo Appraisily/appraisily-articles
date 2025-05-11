@@ -103,12 +103,12 @@ Whether you've inherited Native American artifacts, are an active collector, or 
 
 Native American artifacts represent not only significant cultural heritage but can also hold substantial monetary value in today's market. From arrowheads and pottery to textiles and jewelry, these items require specialized knowledge for proper authentication and valuation. Working with a qualified appraiser ensures you receive an accurate assessment based on current market conditions, provenance, and historical significance.
 
-{{< data-modules/stats-highlight title="Factors Affecting Artifact Value" columns="3" / />}}
-{{< data-modules/stat-card value="Authenticity" label="Genuine Verification" color="blue" description="Primary factor determining any artifact's value" / />}}
+{{< data-modules/stats-highlight title="Factors Affecting Artifact Value" columns="3" /  >}}
+{{< data-modules/stat-card value="Authenticity" label="Genuine Verification" color="blue" description="Primary factor determining any artifact's value" /  >}}
 
-{{< data-modules/stat-card value="Condition" label="Preservation State" color="green" description="Well-preserved pieces command significantly higher prices" / />}}
+{{< data-modules/stat-card value="Condition" label="Preservation State" color="green" description="Well-preserved pieces command significantly higher prices" /  >}}
 
-{{< data-modules/stat-card value="Rarity" label="Unique Examples" color="orange" description="Less common artifact types are generally more valuable" / />}}
+{{< data-modules/stat-card value="Rarity" label="Unique Examples" color="orange" description="Less common artifact types are generally more valuable" /  >}}
 
 ## Why Professional Appraisal Matters
 
@@ -242,13 +242,13 @@ The appraisal process typically follows specific steps designed to thoroughly ev
 To maximize the efficiency and accuracy of your appraisal, prepare the following information:
 
 {{< interactive-modules/condition-checklist title="Appraisal Preparation Checklist" description="Items to gather before your appraisal appointment" >}}
-  {{< interactive-modules/checklist-item label="Provenance documentation (receipts, certificates, letters)" / />}}
-  {{< interactive-modules/checklist-item label="Prior appraisals or expert opinions" / />}}
-  {{< interactive-modules/checklist-item label="Known history and origin information" / />}}
-  {{< interactive-modules/checklist-item label="Chain of ownership documentation" / />}}
-  {{< interactive-modules/checklist-item label="Photographs showing condition when acquired" / />}}
-  {{< interactive-modules/checklist-item label="Relevant tribal affiliation information" / />}}
-  {{< interactive-modules/checklist-item label="Details of any restoration or conservation work" / />}}
+  {{< interactive-modules/checklist-item label="Provenance documentation (receipts, certificates, letters)" /  >}}
+  {{< interactive-modules/checklist-item label="Prior appraisals or expert opinions" /  >}}
+  {{< interactive-modules/checklist-item label="Known history and origin information" /  >}}
+  {{< interactive-modules/checklist-item label="Chain of ownership documentation" /  >}}
+  {{< interactive-modules/checklist-item label="Photographs showing condition when acquired" /  >}}
+  {{< interactive-modules/checklist-item label="Relevant tribal affiliation information" /  >}}
+  {{< interactive-modules/checklist-item label="Details of any restoration or conservation work" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Types of Native American Artifacts" level="2" >}}

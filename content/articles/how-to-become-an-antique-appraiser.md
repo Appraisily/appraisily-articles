@@ -173,7 +173,7 @@ The day-to-day responsibilities of an antique appraiser typically include:
 
 Appraisers work in various settings, including independent practices, auction houses, insurance companies, museums, and appraisal firms. The career offers flexibility, intellectual stimulation, and the opportunity to work with historically significant objects.
 
-{{< data-modules/stats-highlight title="Antique Appraiser Career Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Appraiser Career Statistics" columns="3" / /  >}}
 
 <div class="stat-card">
   <div class="stat-value">$72,087</div>
@@ -343,14 +343,14 @@ To develop expertise in your chosen specialty:
 6. **Visit production centers**: When possible, see where historic items were made (ceramic factories, furniture workshops)
 
 {{< interactive-modules/condition-checklist title="Skills Assessment for Aspiring Appraisers" description="Check which skills you already possess or need to develop" >}}
-  {{< interactive-modules/checklist-item label="Research proficiency and information analysis" / />}}
-  {{< interactive-modules/checklist-item label="Written communication for detailed reports" / />}}
-  {{< interactive-modules/checklist-item label="Visual analysis and object examination skills" / />}}
-  {{< interactive-modules/checklist-item label="Knowledge of materials and construction techniques" / />}}
-  {{< interactive-modules/checklist-item label="Understanding of historical context and provenance" / />}}
-  {{< interactive-modules/checklist-item label="Market analysis and price comparison abilities" / />}}
-  {{< interactive-modules/checklist-item label="Client communication and consultation skills" / />}}
-  {{< interactive-modules/checklist-item label="Ethics and professional standards awareness" / />}}
+  {{< interactive-modules/checklist-item label="Research proficiency and information analysis" /  >}}
+  {{< interactive-modules/checklist-item label="Written communication for detailed reports" /  >}}
+  {{< interactive-modules/checklist-item label="Visual analysis and object examination skills" /  >}}
+  {{< interactive-modules/checklist-item label="Knowledge of materials and construction techniques" /  >}}
+  {{< interactive-modules/checklist-item label="Understanding of historical context and provenance" /  >}}
+  {{< interactive-modules/checklist-item label="Market analysis and price comparison abilities" /  >}}
+  {{< interactive-modules/checklist-item label="Client communication and consultation skills" /  >}}
+  {{< interactive-modules/checklist-item label="Ethics and professional standards awareness" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Establishing Your Professional Practice" level="2" >}}

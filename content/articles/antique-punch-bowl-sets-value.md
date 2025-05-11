@@ -92,7 +92,7 @@ Punch bowl sets typically include the main bowl, a ladle, and matching cups—so
 
 This comprehensive guide explores the fascinating world of antique punch bowl sets, their historical context, key value determinants, and current market pricing. Whether you're a seasoned collector, an antique dealer, or simply curious about that inherited punch bowl gathering dust in your attic, this guide will help you understand and accurately assess the true value of these nostalgic entertaining pieces.
 
-{{< data-modules/stats-highlight title="Antique Punch Bowl Value Indicators" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Punch Bowl Value Indicators" columns="3" / /  >}}
 
 **Rarity**: Rare examples like documented 18th-century silver punch bowls can sell for $10,000+
 
@@ -266,13 +266,13 @@ Beyond material and maker, several other critical factors determine the market v
 The most valuable punch bowl sets retain all their original components. According to appraisal experts, a complete set with the original bowl, stand, ladle, and all matching cups can be worth 2-3 times more than the bowl alone.
 
 {{< interactive-modules/condition-checklist title="Punch Bowl Set Completeness Checklist" description="Check applicable items to gauge your set's completeness value" >}}
-  {{< interactive-modules/checklist-item label="Original punch bowl" / />}}
-  {{< interactive-modules/checklist-item label="Matching ladle" / />}}
-  {{< interactive-modules/checklist-item label="Complete set of original cups (typically 8-12)" / />}}
-  {{< interactive-modules/checklist-item label="Original stand or base" / />}}
-  {{< interactive-modules/checklist-item label="Original underplate or tray" / />}}
-  {{< interactive-modules/checklist-item label="Original storage/presentation box" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance or original purchase" / />}}
+  {{< interactive-modules/checklist-item label="Original punch bowl" /  >}}
+  {{< interactive-modules/checklist-item label="Matching ladle" /  >}}
+  {{< interactive-modules/checklist-item label="Complete set of original cups (typically 8-12)" /  >}}
+  {{< interactive-modules/checklist-item label="Original stand or base" /  >}}
+  {{< interactive-modules/checklist-item label="Original underplate or tray" /  >}}
+  {{< interactive-modules/checklist-item label="Original storage/presentation box" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance or original purchase" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Assessment

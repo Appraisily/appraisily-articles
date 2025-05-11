@@ -28,7 +28,7 @@ The 1910 Lincoln Wheat Penny holds a special place in American numismatics as on
 
 The 1910 penny belongs to the Lincoln Wheat cent series, which was produced from 1909 to 1958. These coins feature Abraham Lincoln's profile on the obverse (front) and two wheat stalks on the reverse, giving them their "wheat penny" nickname. The 1910 pennies were minted at two locations: Philadelphia (no mint mark) and San Francisco (with an "S" mint mark).
 
-{{< data-modules/stats-highlight title="1910 Wheat Penny Production Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="1910 Wheat Penny Production Facts" columns="3" / /  >}}
 
 <tr>
   <td>Total Mintage (Philadelphia)</td>
@@ -274,14 +274,14 @@ These appear as peeling layers on the coin's surface due to impurities or proble
 - **Value Range**: $5 - $50+ depending on size and location
 
 {{< interactive-modules/condition-checklist title="1910 Wheat Penny Authentication Checklist" description="Use this checklist to help verify the authenticity and assess the condition of your 1910 wheat penny" >}}
-  {{< interactive-modules/checklist-item label="Date is clear and appears as '1910'" / />}}
-  {{< interactive-modules/checklist-item label="Check for an 'S' mint mark below the date (San Francisco mint)" / />}}
-  {{< interactive-modules/checklist-item label="Verify the coin has wheat stalks on the reverse side" / />}}
-  {{< interactive-modules/checklist-item label="Confirm weight is approximately 3.11 grams" / />}}
-  {{< interactive-modules/checklist-item label="Diameter measures about 19mm" / />}}
-  {{< interactive-modules/checklist-item label="Observe for any signs of cleaning or artificial toning" / />}}
-  {{< interactive-modules/checklist-item label="Look for doubling in the lettering (potential valuable error)" / />}}
-  {{< interactive-modules/checklist-item label="Check for original red color or natural patina" / />}}
+  {{< interactive-modules/checklist-item label="Date is clear and appears as '1910'" /  >}}
+  {{< interactive-modules/checklist-item label="Check for an 'S' mint mark below the date (San Francisco mint)" /  >}}
+  {{< interactive-modules/checklist-item label="Verify the coin has wheat stalks on the reverse side" /  >}}
+  {{< interactive-modules/checklist-item label="Confirm weight is approximately 3.11 grams" /  >}}
+  {{< interactive-modules/checklist-item label="Diameter measures about 19mm" /  >}}
+  {{< interactive-modules/checklist-item label="Observe for any signs of cleaning or artificial toning" /  >}}
+  {{< interactive-modules/checklist-item label="Look for doubling in the lettering (potential valuable error)" /  >}}
+  {{< interactive-modules/checklist-item label="Check for original red color or natural patina" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Historical Context of the 1910 Wheat Penny" level="2" >}}

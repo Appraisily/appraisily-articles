@@ -95,7 +95,7 @@ Antique doll markings are essentially the "signatures" of doll makers, much like
 
 For collectors and appraisers, these markings are crucial pieces of evidence in the authentication process. A properly identified mark can be the difference between a common reproduction and a rare, valuable antique.
 
-{{< data-modules/stats-highlight title="The Importance of Doll Markings" columns="3" / / />}}
+{{< data-modules/stats-highlight title="The Importance of Doll Markings" columns="3" / /  >}}
 
 Beginning around the mid-19th century, doll makers began consistently marking their products, although the practice became more standardized after 1891 when the McKinley Tariff Act required imported goods to be labeled with their country of origin. This legislation provides an important dating clue: dolls with "Germany" rather than "Made in Germany" are typically pre-1921, while those marked simply with a country name (without "Made in") often date before World War I.
 
@@ -119,14 +119,14 @@ Doll markings can be found in several common locations, depending on the doll's 
 To thoroughly examine a doll for markings, use good lighting and a magnifying glass, as some marks can be quite small or worn. Be particularly careful when handling the doll, as antique specimens can be fragile. Sometimes, marks are hidden under wigs or clothing, so a gentle investigation may be necessary.
 
 {{< interactive-modules/condition-checklist title="Doll Inspection Checklist" description="Use this checklist when examining your doll for markings" >}}
-  {{< interactive-modules/checklist-item label="Examine the back of the head and neck" / />}}
-  {{< interactive-modules/checklist-item label="Check the doll's back between shoulder blades" / />}}
-  {{< interactive-modules/checklist-item label="Look at the bottoms of the feet" / />}}
-  {{< interactive-modules/checklist-item label="Inspect clothing tags and labels" / />}}
-  {{< interactive-modules/checklist-item label="Use a magnifying glass for small markings" / />}}
-  {{< interactive-modules/checklist-item label="Remove wig carefully (if necessary and safe)" / />}}
-  {{< interactive-modules/checklist-item label="Check for marks that may be hidden by clothing" / />}}
-  {{< interactive-modules/checklist-item label="Photograph any markings you find" / />}}
+  {{< interactive-modules/checklist-item label="Examine the back of the head and neck" /  >}}
+  {{< interactive-modules/checklist-item label="Check the doll's back between shoulder blades" /  >}}
+  {{< interactive-modules/checklist-item label="Look at the bottoms of the feet" /  >}}
+  {{< interactive-modules/checklist-item label="Inspect clothing tags and labels" /  >}}
+  {{< interactive-modules/checklist-item label="Use a magnifying glass for small markings" /  >}}
+  {{< interactive-modules/checklist-item label="Remove wig carefully (if necessary and safe)" /  >}}
+  {{< interactive-modules/checklist-item label="Check for marks that may be hidden by clothing" /  >}}
+  {{< interactive-modules/checklist-item label="Photograph any markings you find" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Types of Doll Markings" level="2" >}}

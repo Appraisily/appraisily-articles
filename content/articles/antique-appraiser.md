@@ -86,7 +86,7 @@ Wondering what that family heirloom might be worth? Curious if the vintage piece
 
 In this comprehensive guide, we'll explore everything you need to know about antique appraisers – how to find qualified professionals, what services they offer, how much appraisals typically cost, and the importance of working with accredited experts. Whether you're looking to insure valuable items, settle an estate, or simply satisfy your curiosity about a family treasure, understanding the appraisal process is essential.
 
-{{< data-modules/stats-highlight title="Antique Appraiser Industry Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Appraiser Industry Facts" columns="3" / /  >}}
 <tr>
   <td>$250-$350</td>
   <td>Average starting cost for single-item formal appraisal</td>
@@ -183,13 +183,13 @@ Finding a qualified antique appraiser requires some research to ensure you're wo
 When selecting an antique appraiser, verification of credentials is crucial. Look for professionals with:
 
 {{< interactive-modules/condition-checklist title="Appraiser Credential Checklist" description="Verify these qualifications when selecting an appraiser" >}}
-  {{< interactive-modules/checklist-item label="Membership in professional appraisal organizations" / />}}
-  {{< interactive-modules/checklist-item label="Specific accreditation in relevant specialties" / />}}
-  {{< interactive-modules/checklist-item label="Adherence to USPAP (Uniform Standards of Professional Appraisal Practice)" / />}}
-  {{< interactive-modules/checklist-item label="Formal education in appraisal methodology" / />}}
-  {{< interactive-modules/checklist-item label="Years of experience in your item's category" / />}}
-  {{< interactive-modules/checklist-item label="Professional liability insurance" / />}}
-  {{< interactive-modules/checklist-item label="Positive reviews and references" / />}}
+  {{< interactive-modules/checklist-item label="Membership in professional appraisal organizations" /  >}}
+  {{< interactive-modules/checklist-item label="Specific accreditation in relevant specialties" /  >}}
+  {{< interactive-modules/checklist-item label="Adherence to USPAP (Uniform Standards of Professional Appraisal Practice)" /  >}}
+  {{< interactive-modules/checklist-item label="Formal education in appraisal methodology" /  >}}
+  {{< interactive-modules/checklist-item label="Years of experience in your item's category" /  >}}
+  {{< interactive-modules/checklist-item label="Professional liability insurance" /  >}}
+  {{< interactive-modules/checklist-item label="Positive reviews and references" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Avoid appraisers who:

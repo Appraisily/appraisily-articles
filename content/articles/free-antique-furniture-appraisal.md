@@ -108,7 +108,7 @@ Do you have an antique chair gathering dust in your attic or a vintage table inh
 
 While free appraisals can provide a helpful starting point, it's essential to know their limitations and when a professional paid appraisal might be necessary. This guide will walk you through the various options for obtaining free antique furniture appraisals, what to expect from each, and how to maximize their accuracy.
 
-{{< data-modules/stats-highlight title="Antique Furniture Appraisal Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Furniture Appraisal Facts" columns="3" / /  >}}
 <div class="stat-card">
   <span class="stat-value">67%</span>
   <span class="stat-label">of antique owners</span>
@@ -233,12 +233,12 @@ Before seeking any appraisal, collect as much information about your antique fur
 The quality of your photographs significantly impacts the accuracy of online appraisals. Follow these guidelines:
 
 {{< interactive-modules/condition-checklist title="Furniture Photography Checklist" description="Follow these steps for optimal appraisal photos" >}}
-{{< interactive-modules/checklist-item label="Capture the entire piece from multiple angles (front, back, sides, top)" / />}}
-{{< interactive-modules/checklist-item label="Take clear close-ups of any decorative details, hardware, and joinery" / />}}
-{{< interactive-modules/checklist-item label="Photograph any damage, repairs, or areas of concern" / />}}
-{{< interactive-modules/checklist-item label="Include clear images of any maker's marks, labels, or signatures" / />}}
-{{< interactive-modules/checklist-item label="Use natural lighting without flash when possible" / />}}
-{{< interactive-modules/checklist-item label="Include a ruler or measuring tape in at least one photo for scale" / />}}
+{{< interactive-modules/checklist-item label="Capture the entire piece from multiple angles (front, back, sides, top)" /  >}}
+{{< interactive-modules/checklist-item label="Take clear close-ups of any decorative details, hardware, and joinery" /  >}}
+{{< interactive-modules/checklist-item label="Photograph any damage, repairs, or areas of concern" /  >}}
+{{< interactive-modules/checklist-item label="Include clear images of any maker's marks, labels, or signatures" /  >}}
+{{< interactive-modules/checklist-item label="Use natural lighting without flash when possible" /  >}}
+{{< interactive-modules/checklist-item label="Include a ruler or measuring tape in at least one photo for scale" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Questions to Ask During Appraisal

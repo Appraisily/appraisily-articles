@@ -170,7 +170,7 @@ Several key factors determine the value of vintage RC Cola bottles in today's co
 
 ![Various RC Cola bottles showing different conditions and features](https://ik.imagekit.io/appraisily/SEO/old-rc-cola-bottle-value/old-rc-cola-bottle-value-image-4_9G0JmhAD1.png)
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / /  >}}
 
 ### Age and Rarity
 
@@ -181,13 +181,13 @@ Generally, older RC Cola bottles command higher prices, with pre-1950s examples 
 The condition of vintage RC Cola bottles significantly impacts their value:
 
 {{< interactive-modules/condition-checklist title="RC Cola Bottle Condition Assessment" description="Assess the following factors to determine your bottle's condition rating" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or fractures in the glass" / />}}
-  {{< interactive-modules/checklist-item label="Original label intact and legible (if present)" / />}}
-  {{< interactive-modules/checklist-item label="Clear embossing with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Original cap or closure present" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratching or scuffing" / />}}
-  {{< interactive-modules/checklist-item label="Original contents preserved (for unopened bottles)" / />}}
-  {{< interactive-modules/checklist-item label="No interior staining or residue" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or fractures in the glass" /  >}}
+  {{< interactive-modules/checklist-item label="Original label intact and legible (if present)" /  >}}
+  {{< interactive-modules/checklist-item label="Clear embossing with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="Original cap or closure present" /  >}}
+  {{< interactive-modules/checklist-item label="No significant scratching or scuffing" /  >}}
+  {{< interactive-modules/checklist-item label="Original contents preserved (for unopened bottles)" /  >}}
+  {{< interactive-modules/checklist-item label="No interior staining or residue" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness

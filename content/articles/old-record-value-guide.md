@@ -122,7 +122,7 @@ Determining the value of vinyl records can be both an art and a science. Whether
 
 The vinyl record market has experienced a remarkable resurgence in recent years, with both new releases and vintage recordings commanding premium prices. However, not all records are valuable, and understanding which factors determine worth is essential for accurate appraisal.
 
-{{< data-modules/stats-highlight title="Vinyl Market at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vinyl Market at a Glance" columns="3" / /  >}}
   <div class="stat-card" style="color: blue;">
     <div class="stat-value">43.5%</div>
     <div class="stat-label">Growth in vinyl sales since 2020</div>
@@ -202,14 +202,14 @@ Understanding the standardized grading scale is crucial for accurate valuation. 
 {{< /data-modules/price-table >}}
 
 {{< interactive-modules/condition-checklist title="Record Condition Assessment Checklist" description="Evaluate your vinyl records using these key condition factors" >}}
-  {{< interactive-modules/checklist-item label="Record surface is free of visible scratches" / />}}
-  {{< interactive-modules/checklist-item label="No warping or physical damage to the vinyl" / />}}
-  {{< interactive-modules/checklist-item label="Original sleeve/jacket in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original inserts and liner notes present" / />}}
-  {{< interactive-modules/checklist-item label="No visible mold, mildew, or water damage" / />}}
-  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or significant noise" / />}}
-  {{< interactive-modules/checklist-item label="Original labels intact and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Gatefold covers (if applicable) have intact hinges" / />}}
+  {{< interactive-modules/checklist-item label="Record surface is free of visible scratches" /  >}}
+  {{< interactive-modules/checklist-item label="No warping or physical damage to the vinyl" /  >}}
+  {{< interactive-modules/checklist-item label="Original sleeve/jacket in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Original inserts and liner notes present" /  >}}
+  {{< interactive-modules/checklist-item label="No visible mold, mildew, or water damage" /  >}}
+  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or significant noise" /  >}}
+  {{< interactive-modules/checklist-item label="Original labels intact and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="Gatefold covers (if applicable) have intact hinges" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Completeness and Original Packaging

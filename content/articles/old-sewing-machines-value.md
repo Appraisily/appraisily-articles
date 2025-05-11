@@ -179,7 +179,7 @@ Collectors generally prefer machines with:
 
 Ornate Victorian-era machines with detailed painting, mother-of-pearl inlays, or gold leaf decorations often command higher prices based on aesthetic appeal alone.
 
-{{< data-modules/stats-highlight title="Key Value Factors by Impact" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors by Impact" columns="3" / /  >}}
   <div class="stat-card blue">
     <div class="stat-value">75%</div>
     <div class="stat-label">Condition Impact</div>
@@ -231,16 +231,16 @@ If serial numbers are missing or illegible, you can still identify many machines
 ![Vintage sewing machine with detailed decal and mechanical parts closeup](https://ik.imagekit.io/appraisily/SEO/old-sewing-machines-value/old-sewing-machines-value-image-3_8eQxoiv4j.png)
 
 {{< interactive-modules/condition-checklist title="Sewing Machine Condition Assessment" description="Use this checklist to evaluate your sewing machine's condition for valuation purposes" >}}
-  {{< interactive-modules/checklist-item label="Machine runs smoothly when turned by hand or motor" / />}}
-  {{< interactive-modules/checklist-item label="Original decorative decals are intact and not severely faded" / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or corrosion on metal parts" / />}}
-  {{< interactive-modules/checklist-item label="Original finish remains on majority of painted surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet or case is present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="All original parts are present (no replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Original manual and accessories are included" / />}}
-  {{< interactive-modules/checklist-item label="Mechanical parts move freely without binding" / />}}
-  {{< interactive-modules/checklist-item label="No cracks in body casting or major components" / />}}
-  {{< interactive-modules/checklist-item label="Machine can still form stitches correctly" / />}}
+  {{< interactive-modules/checklist-item label="Machine runs smoothly when turned by hand or motor" /  >}}
+  {{< interactive-modules/checklist-item label="Original decorative decals are intact and not severely faded" /  >}}
+  {{< interactive-modules/checklist-item label="No significant rust or corrosion on metal parts" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish remains on majority of painted surfaces" /  >}}
+  {{< interactive-modules/checklist-item label="Cabinet or case is present and in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="All original parts are present (no replacements)" /  >}}
+  {{< interactive-modules/checklist-item label="Original manual and accessories are included" /  >}}
+  {{< interactive-modules/checklist-item label="Mechanical parts move freely without binding" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks in body casting or major components" /  >}}
+  {{< interactive-modules/checklist-item label="Machine can still form stitches correctly" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Antique Sewing Machine Models" level="2" >}}

@@ -126,7 +126,7 @@ Understanding where a clock falls within this timeline can significantly impact 
 Multiple elements contribute to a grandfather clock's market value. Understanding these factors can help you assess a clock's worth more accurately.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Determinants at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Determinants at a Glance" columns="3" / /  >}}
 
 ### 1. Maker and Brand Reputation
 
@@ -157,13 +157,13 @@ Generally, older clocks command higher values, particularly if they represent im
 A working clock in excellent condition will always be worth significantly more than a non-functioning or heavily damaged example. Key condition factors include:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Elements that affect a grandfather clock's value based on condition:" >}}
-  {{< interactive-modules/checklist-item label="Working movement with all original parts" / />}}
-  {{< interactive-modules/checklist-item label="Original finish on case with minimal damage" / />}}
-  {{< interactive-modules/checklist-item label="Original dial in good condition" / />}}
-  {{< interactive-modules/checklist-item label="All weights and pendulum present and original" / />}}
-  {{< interactive-modules/checklist-item label="Original glass panels intact" / />}}
-  {{< interactive-modules/checklist-item label="Minimal restoration work (quality restoration can maintain value)" / />}}
-  {{< interactive-modules/checklist-item label="Original documentation or provenance" / />}}
+  {{< interactive-modules/checklist-item label="Working movement with all original parts" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish on case with minimal damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original dial in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="All weights and pendulum present and original" /  >}}
+  {{< interactive-modules/checklist-item label="Original glass panels intact" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal restoration work (quality restoration can maintain value)" /  >}}
+  {{< interactive-modules/checklist-item label="Original documentation or provenance" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to clock experts, a fully functional grandfather clock can be worth up to 50% more than an identical non-working example, highlighting the importance of mechanical condition.

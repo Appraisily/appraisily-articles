@@ -176,7 +176,7 @@ The way a chair was constructed offers valuable clues about when it was made:
 
 According to experts at [Hemswell Antique Centres](https://www.hemswell-antiques.com/blog/how-to-date-an-antique-chair-an-antique-dealer-s-guide), "Start by looking for individual markings. If you're lucky, sometimes the exact year is inscribed too, but markings often fade over time."
 
-{{< data-modules/stats-highlight title="Key Dating Indicators" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Dating Indicators" columns="3" / /  >}}
 
 What truly constitutes an antique? As noted by specialists at [Nimbus Antiques](https://www.nimbusantiques.co.uk/antiques-guides/what-makes-an-antique-an-antique/): "In the world of Antique furniture and other collectable items, an 'Antique' is generally considered to be an item that is at least one hundred years old. Anything less than that, but still old, is generally classified as 'Vintage'."
 
@@ -246,13 +246,13 @@ Upholstery techniques and materials also evolved significantly:
 According to furniture restoration experts at [Museum Quality Restoration Services](https://www.museumqualityrestorationservices.com/how-to-identify-antique-chairs-a-comprehensive-guide/), "The first thing to look for right away is the overall design of the chair. What time period is it from?" This initial assessment should be followed by a detailed examination of construction techniques to confirm the period identification.
 
 {{< interactive-modules/condition-checklist title="Construction Authenticity Checklist" description="Check these items to assess the authenticity of construction techniques" >}}
-  {{< interactive-modules/checklist-item label="Evidence of hand-cut joinery (for pre-1880 pieces)" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate patination and wear patterns" / />}}
-  {{< interactive-modules/checklist-item label="Tool marks consistent with the purported period" / />}}
-  {{< interactive-modules/checklist-item label="Secondary woods typical of the period and region" / />}}
-  {{< interactive-modules/checklist-item label="Nails or screws appropriate to the era" / />}}
-  {{< interactive-modules/checklist-item label="Original finish or appropriate refinishing" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate upholstery technique (if original)" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of hand-cut joinery (for pre-1880 pieces)" /  >}}
+  {{< interactive-modules/checklist-item label="Appropriate patination and wear patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Tool marks consistent with the purported period" /  >}}
+  {{< interactive-modules/checklist-item label="Secondary woods typical of the period and region" /  >}}
+  {{< interactive-modules/checklist-item label="Nails or screws appropriate to the era" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish or appropriate refinishing" /  >}}
+  {{< interactive-modules/checklist-item label="Period-appropriate upholstery technique (if original)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Materials Used in Antique Chairs" level="2" >}}
@@ -468,7 +468,7 @@ Factors that support authenticity include:
    - Construction methods matching the purported period
    - Age-appropriate hardware and fasteners
 
-{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / /  >}}
 
 According to [Fontaine's Auction](https://www.fontainesauction.com/antique-furniture-appraisal/), appraisers typically consider these aspects in antique furniture valuation:
 

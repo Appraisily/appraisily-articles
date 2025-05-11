@@ -231,20 +231,20 @@ Multiple variables influence what collectors are willing to pay for an old Schwi
 
 The value of a vintage Schwinn bicycle is determined by several key factors. Understanding these can help you realistically assess your bike's worth in today's market.
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / /  >}}
 
 ### Condition
 
 Condition is perhaps the most significant factor affecting the value of any vintage Schwinn. According to [LoveToKnow](https://www.lovetoknow.com/home/antiques-collectibles/vintage-schwinn-bicycles), Schwinn bikes in excellent condition can be worth thousands of dollars, while those in rough shape may still fetch several hundred.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate your vintage Schwinn's condition" >}}
-  {{< interactive-modules/checklist-item label="Original paint in good condition with minimal scratches or rust" / />}}
-  {{< interactive-modules/checklist-item label="Chrome components (fenders, handlebars, rims) with minimal pitting or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present and functional" / />}}
-  {{< interactive-modules/checklist-item label="Tires in good condition (original Schwinn tires add value)" / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical components (brakes, gears, bearings)" / />}}
-  {{< interactive-modules/checklist-item label="Original decals intact and legible" / />}}
-  {{< interactive-modules/checklist-item label="Period-correct accessories (lights, baskets, reflectors)" / />}}
+  {{< interactive-modules/checklist-item label="Original paint in good condition with minimal scratches or rust" /  >}}
+  {{< interactive-modules/checklist-item label="Chrome components (fenders, handlebars, rims) with minimal pitting or corrosion" /  >}}
+  {{< interactive-modules/checklist-item label="All original parts present and functional" /  >}}
+  {{< interactive-modules/checklist-item label="Tires in good condition (original Schwinn tires add value)" /  >}}
+  {{< interactive-modules/checklist-item label="Working mechanical components (brakes, gears, bearings)" /  >}}
+  {{< interactive-modules/checklist-item label="Original decals intact and legible" /  >}}
+  {{< interactive-modules/checklist-item label="Period-correct accessories (lights, baskets, reflectors)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Desirability
@@ -375,12 +375,12 @@ Restoration might be appropriate in these cases:
 If you decide restoration is necessary, follow these guidelines to maintain value:
 
 {{< interactive-modules/condition-checklist title="Value-Preserving Restoration Guidelines" description="Follow these principles for restorations that maintain collector value" >}}
-  {{< interactive-modules/checklist-item label="Document the bicycle's original condition before starting" / />}}
-  {{< interactive-modules/checklist-item label="Use period-correct Schwinn parts whenever possible" / />}}
-  {{< interactive-modules/checklist-item label="Match original paint colors and decals precisely" / />}}
-  {{< interactive-modules/checklist-item label="Preserve original parts when they can be rehabilitated" / />}}
-  {{< interactive-modules/checklist-item label="Keep all original parts that are replaced (for provenance)" / />}}
-  {{< interactive-modules/checklist-item label="Work with a restoration specialist familiar with vintage Schwinns" / />}}
+  {{< interactive-modules/checklist-item label="Document the bicycle's original condition before starting" /  >}}
+  {{< interactive-modules/checklist-item label="Use period-correct Schwinn parts whenever possible" /  >}}
+  {{< interactive-modules/checklist-item label="Match original paint colors and decals precisely" /  >}}
+  {{< interactive-modules/checklist-item label="Preserve original parts when they can be rehabilitated" /  >}}
+  {{< interactive-modules/checklist-item label="Keep all original parts that are replaced (for provenance)" /  >}}
+  {{< interactive-modules/checklist-item label="Work with a restoration specialist familiar with vintage Schwinns" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Before and after comparison of a restored Schwinn bicycle](https://ik.imagekit.io/appraisily/SEO/old-schwinn-bikes-value/old-schwinn-bikes-value-image-5_FChwGD5t0.png)

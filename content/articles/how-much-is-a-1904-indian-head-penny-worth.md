@@ -79,7 +79,7 @@ If you've recently discovered a 1904 Indian Head penny in your collection, at a 
   Before diving into the details, here's a quick overview of what your 1904 Indian Head penny might be worth in today's market.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Current Value Ranges (2023)" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Current Value Ranges (2023)" columns="3" / /  >}}
 
 {{< data-modules/price-table title="1904 Indian Head Penny Value Chart" description="Average retail values based on condition (2023)" >}}
   <tr>
@@ -187,14 +187,14 @@ The condition of your coin is the single most important factor in determining it
 ![Image showing different condition grades of 1904 Indian Head pennies](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1904-indian-head-penny-worth/how-much-is-a-1904-indian-head-penny-worth-image-3_NtRN9h2mB.png)
 
 {{< interactive-modules/condition-checklist title="1904 Indian Head Penny Condition Assessment" description="Check applicable items to help determine your coin's approximate grade" >}}
-  {{< interactive-modules/checklist-item label="Full "LIBERTY" visible on the headband" / />}}
-  {{< interactive-modules/checklist-item label="Feather details visible in headdress" / />}}
-  {{< interactive-modules/checklist-item label="Clear facial features (eye, nose, lips)" / />}}
-  {{< interactive-modules/checklist-item label="Distinct hair curls behind neck" / />}}
-  {{< interactive-modules/checklist-item label="Visible details in wheat leaves on reverse" / />}}
-  {{< interactive-modules/checklist-item label="Sharp rim with no major damage" / />}}
-  {{< interactive-modules/checklist-item label="Original copper color (not cleaned)" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or damage" / />}}
+  {{< interactive-modules/checklist-item label="Full "LIBERTY" visible on the headband" /  >}}
+  {{< interactive-modules/checklist-item label="Feather details visible in headdress" /  >}}
+  {{< interactive-modules/checklist-item label="Clear facial features (eye, nose, lips)" /  >}}
+  {{< interactive-modules/checklist-item label="Distinct hair curls behind neck" /  >}}
+  {{< interactive-modules/checklist-item label="Visible details in wheat leaves on reverse" /  >}}
+  {{< interactive-modules/checklist-item label="Sharp rim with no major damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original copper color (not cleaned)" /  >}}
+  {{< interactive-modules/checklist-item label="No significant scratches or damage" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color Designation

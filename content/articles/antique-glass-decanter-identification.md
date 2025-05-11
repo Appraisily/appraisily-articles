@@ -212,7 +212,7 @@ Understanding the distinctive characteristics of each decanter type not only hel
 When examining an antique glass decanter, several key factors can help determine its age, origin, and authenticity. Learning to assess these characteristics systematically will improve your identification skills.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Critical Identification Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Critical Identification Factors" columns="3" / /  >}}
 
 ### Glass Composition and Quality
 
@@ -305,16 +305,16 @@ The stopper can be crucial for both identification and value:
    - Wear patterns should be similar
 
 {{< interactive-modules/condition-checklist title="Decanter Authentication Checklist" description="Use this checklist to assess the authenticity and condition of an antique glass decanter" >}}
-  {{< interactive-modules/checklist-item label="Pontil mark present on base" / />}}
-  {{< interactive-modules/checklist-item label="Genuine wear patterns consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Glass has microscopic air bubbles (earlier pieces)" / />}}
-  {{< interactive-modules/checklist-item label="Stopper fits perfectly and matches decanter style" / />}}
-  {{< interactive-modules/checklist-item label="Cutting/engraving shows slight irregularities of handwork" / />}}
-  {{< interactive-modules/checklist-item label="Glass rings when gently tapped (lead crystal)" / />}}
-  {{< interactive-modules/checklist-item label="Weight appropriate for size and glass type" / />}}
-  {{< interactive-modules/checklist-item label="Decoration style consistent with purported period" / />}}
-  {{< interactive-modules/checklist-item label="No modern glues or repairs visible under UV light" / />}}
-  {{< interactive-modules/checklist-item label="Any silver mounts have proper hallmarks" / />}}
+  {{< interactive-modules/checklist-item label="Pontil mark present on base" /  >}}
+  {{< interactive-modules/checklist-item label="Genuine wear patterns consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="Glass has microscopic air bubbles (earlier pieces)" /  >}}
+  {{< interactive-modules/checklist-item label="Stopper fits perfectly and matches decanter style" /  >}}
+  {{< interactive-modules/checklist-item label="Cutting/engraving shows slight irregularities of handwork" /  >}}
+  {{< interactive-modules/checklist-item label="Glass rings when gently tapped (lead crystal)" /  >}}
+  {{< interactive-modules/checklist-item label="Weight appropriate for size and glass type" /  >}}
+  {{< interactive-modules/checklist-item label="Decoration style consistent with purported period" /  >}}
+  {{< interactive-modules/checklist-item label="No modern glues or repairs visible under UV light" /  >}}
+  {{< interactive-modules/checklist-item label="Any silver mounts have proper hallmarks" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Carefully examining these factors in combination will help you build a comprehensive picture of your decanter's age, origin, and authenticity. Remember that most genuine antique decanters will show appropriate signs of age and use – perfect condition can sometimes be a red flag for reproductions.

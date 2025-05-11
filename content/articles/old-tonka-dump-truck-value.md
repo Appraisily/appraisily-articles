@@ -160,14 +160,14 @@ Before determining value, it's important to verify that your Tonka dump truck is
 ![Underside of vintage Tonka dump truck showing markings and metal construction](https://ik.imagekit.io/appraisily/SEO/old-tonka-dump-truck-value/old-tonka-dump-truck-value-image-3_9P2FMUaNz.png)
 
 {{< interactive-modules/condition-checklist title="Authentic Vintage Tonka Identification Checklist" description="Look for these features to identify genuine vintage Tonka dump trucks" >}}
-  {{< interactive-modules/checklist-item label="Pressed steel construction (minimal or no plastic in pre-1980s models)" / />}}
-  {{< interactive-modules/checklist-item label="'Tonka Toys' or 'Tonka' stamped into the underside or chassis" / />}}
-  {{< interactive-modules/checklist-item label="Model numbers stamped into the chassis (often beginning with #2, #3, or #4)" / />}}
-  {{< interactive-modules/checklist-item label="Riveted assembly rather than screws in the earliest models" / />}}
-  {{< interactive-modules/checklist-item label="Original decals with period-appropriate Tonka logo" / />}}
-  {{< interactive-modules/checklist-item label="Heavy weight due to steel construction" / />}}
-  {{< interactive-modules/checklist-item label="Patina and wear consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturing location (Mound, MN on oldest models)" / />}}
+  {{< interactive-modules/checklist-item label="Pressed steel construction (minimal or no plastic in pre-1980s models)" /  >}}
+  {{< interactive-modules/checklist-item label="'Tonka Toys' or 'Tonka' stamped into the underside or chassis" /  >}}
+  {{< interactive-modules/checklist-item label="Model numbers stamped into the chassis (often beginning with #2, #3, or #4)" /  >}}
+  {{< interactive-modules/checklist-item label="Riveted assembly rather than screws in the earliest models" /  >}}
+  {{< interactive-modules/checklist-item label="Original decals with period-appropriate Tonka logo" /  >}}
+  {{< interactive-modules/checklist-item label="Heavy weight due to steel construction" /  >}}
+  {{< interactive-modules/checklist-item label="Patina and wear consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturing location (Mound, MN on oldest models)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 You can often date a Tonka dump truck by examining:
@@ -183,12 +183,12 @@ For help with identification, [JustAnswer's antiques experts](https://www.justan
 The condition of a vintage Tonka dump truck dramatically impacts its value, with mint examples commanding significant premiums over those with damage or restoration.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Factors Influencing Tonka Truck Value" columns="3" / />}}
-{{< data-modules/stat-card value="Condition" label="Preservation Quality" color="blue" description="Excellent, original condition commands highest prices" / />}}
+{{< data-modules/stats-highlight title="Key Factors Influencing Tonka Truck Value" columns="3" /  >}}
+{{< data-modules/stat-card value="Condition" label="Preservation Quality" color="blue" description="Excellent, original condition commands highest prices" /  >}}
 
-{{< data-modules/stat-card value="Rarity" label="Model Scarcity" color="green" description="Less common models or variations are more valuable" / />}}
+{{< data-modules/stat-card value="Rarity" label="Model Scarcity" color="green" description="Less common models or variations are more valuable" /  >}}
 
-{{< data-modules/stat-card value="Completeness" label="Original Parts & Box" color="orange" description="Trucks with original packaging and all parts are most desirable" / />}}
+{{< data-modules/stat-card value="Completeness" label="Original Parts & Box" color="orange" description="Trucks with original packaging and all parts are most desirable" /  >}}
 
 Collectors evaluate Tonka dump trucks using the following condition categories:
 

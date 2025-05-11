@@ -139,11 +139,11 @@ Let's explore the fundamental steps to valuing antiques like a professional.
 The foundation of accurate antique valuation begins with diligent research. Before seeking professional opinions or making decisions about selling, take time to gather information about your item.
 
 {{< interactive-modules/condition-checklist title="Research Checklist" description="Essential research steps for antique valuation" >}}
-  {{< interactive-modules/checklist-item label="Identify the item's period, style, and potential origin" />}}
-  {{< interactive-modules/checklist-item label="Search for maker's marks, signatures, or manufacturing labels" />}}
-  {{< interactive-modules/checklist-item label="Document any provenance or history associated with the item" />}}
-  {{< interactive-modules/checklist-item label="Take clear, detailed photographs from multiple angles" />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions accurately" />}}
+  {{< interactive-modules/checklist-item label="Identify the item's period, style, and potential origin"  >}}
+  {{< interactive-modules/checklist-item label="Search for maker's marks, signatures, or manufacturing labels"  >}}
+  {{< interactive-modules/checklist-item label="Document any provenance or history associated with the item"  >}}
+  {{< interactive-modules/checklist-item label="Take clear, detailed photographs from multiple angles"  >}}
+  {{< interactive-modules/checklist-item label="Measure dimensions accurately"  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Several resources can assist in your preliminary research:
@@ -168,7 +168,7 @@ When assessing condition, pay close attention to:
 
 According to Fontaine's Auction Gallery, appraisers typically consider [several aspects in their antique furniture estimates](https://www.fontainesauction.com/antique-furniture-appraisal/), including rarity, aesthetics, desirability, authenticity, and condition.
 
-{{< data-modules/stats-highlight title="Condition Impact on Antique Values" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Antique Values" columns="3" / /  >}}
 
 <div class="stat-card" style="color: blue">
   <div class="stat-value">70-90%</div>

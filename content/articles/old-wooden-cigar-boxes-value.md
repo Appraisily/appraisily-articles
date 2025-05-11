@@ -93,7 +93,7 @@ For collectors, the value of antique cigar boxes extends beyond mere monetary wo
 
 In this comprehensive guide, we'll explore the factors that influence old wooden cigar box values, how to identify potentially valuable specimens, current market trends, and where to buy or sell these collectible items.
 
-{{< data-modules/stats-highlight title="Cigar Box Collecting Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Cigar Box Collecting Facts" columns="3" / /  >}}
 <tr>
   <td>1830s</td>
   <td>Decade when wooden cigar boxes first became widely used</td>
@@ -183,14 +183,14 @@ Boxes from prestigious or historically significant cigar manufacturers generally
 Boxes connected to significant historical events, famous personalities, or important eras in cigar production history often carry premium values for collectors interested in historical context.
 
 {{< interactive-modules/condition-checklist title="Cigar Box Condition Assessment" description="Use this checklist to evaluate the condition of antique wooden cigar boxes" >}}
-  {{< interactive-modules/checklist-item label="Box retains original hinges and hardware" / />}}
-  {{< interactive-modules/checklist-item label="Label/artwork is intact with minimal fading" / />}}
-  {{< interactive-modules/checklist-item label="Wood shows no significant cracks or warping" / />}}
-  {{< interactive-modules/checklist-item label="Interior paper lining is present and intact" / />}}
-  {{< interactive-modules/checklist-item label="Original tax stamps or seals are present" / />}}
-  {{< interactive-modules/checklist-item label="Box has pleasing patina without damage" / />}}
-  {{< interactive-modules/checklist-item label="No significant odors other than cedar/tobacco" / />}}
-  {{< interactive-modules/checklist-item label="Dovetail joints (if present) are tight and intact" / />}}
+  {{< interactive-modules/checklist-item label="Box retains original hinges and hardware" /  >}}
+  {{< interactive-modules/checklist-item label="Label/artwork is intact with minimal fading" /  >}}
+  {{< interactive-modules/checklist-item label="Wood shows no significant cracks or warping" /  >}}
+  {{< interactive-modules/checklist-item label="Interior paper lining is present and intact" /  >}}
+  {{< interactive-modules/checklist-item label="Original tax stamps or seals are present" /  >}}
+  {{< interactive-modules/checklist-item label="Box has pleasing patina without damage" /  >}}
+  {{< interactive-modules/checklist-item label="No significant odors other than cedar/tobacco" /  >}}
+  {{< interactive-modules/checklist-item label="Dovetail joints (if present) are tight and intact" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Valuable Cigar Boxes" level="2" >}}

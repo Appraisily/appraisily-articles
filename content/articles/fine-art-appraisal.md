@@ -140,7 +140,7 @@ Fine art appraisal is the process of determining the monetary value of artwork b
 
 Professional art appraisals serve multiple purposes beyond mere curiosity. They provide documented evidence of value for insurance coverage, help with estate planning and tax considerations, inform buying or selling decisions, and assist with charitable donations. Each of these purposes requires a specific type of appraisal with different methodologies and reporting standards.
 
-{{< data-modules/stats-highlight title="Key Facts About Art Appraisal" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Facts About Art Appraisal" columns="3" / /  >}}
 
 A professional fine art appraisal differs significantly from informal valuations you might receive from an auction house or gallery. Qualified appraisers adhere to industry standards like the Uniform Standards of Professional Appraisal Practice (USPAP) and provide thoroughly researched, objective opinions of value backed by market data and expertise.
 
@@ -214,12 +214,12 @@ For delicate or immovable items, appraisers can often come to your home, office,
 After examining the artwork, the appraiser conducts extensive research to determine its value. This includes:
 
 {{< interactive-modules/condition-checklist title="Appraisal Research Components" description="Elements investigated during the appraisal process" >}}
-  {{< interactive-modules/checklist-item label="Verification of authenticity and attribution" / />}}
-  {{< interactive-modules/checklist-item label="Research on the artist's market performance" / />}}
-  {{< interactive-modules/checklist-item label="Analysis of comparable sales data" / />}}
-  {{< interactive-modules/checklist-item label="Review of provenance and exhibition history" / />}}
-  {{< interactive-modules/checklist-item label="Assessment of condition relative to similar works" / />}}
-  {{< interactive-modules/checklist-item label="Evaluation of current market demand trends" / />}}
+  {{< interactive-modules/checklist-item label="Verification of authenticity and attribution" /  >}}
+  {{< interactive-modules/checklist-item label="Research on the artist's market performance" /  >}}
+  {{< interactive-modules/checklist-item label="Analysis of comparable sales data" /  >}}
+  {{< interactive-modules/checklist-item label="Review of provenance and exhibition history" /  >}}
+  {{< interactive-modules/checklist-item label="Assessment of condition relative to similar works" /  >}}
+  {{< interactive-modules/checklist-item label="Evaluation of current market demand trends" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Appraisal Report Delivery
@@ -380,14 +380,14 @@ Proper preparation can make the appraisal process more efficient and potentially
 Collect as much information about your artwork as possible before the appraisal:
 
 {{< interactive-modules/condition-checklist title="Art Documentation Checklist" description="Items to prepare for your appraisal appointment" >}}
-  {{< interactive-modules/checklist-item label="Original purchase records or receipts" / />}}
-  {{< interactive-modules/checklist-item label="Certificates of authenticity" / />}}
-  {{< interactive-modules/checklist-item label="Exhibition history documentation" / />}}
-  {{< interactive-modules/checklist-item label="Provenance records" / />}}
-  {{< interactive-modules/checklist-item label="Previous appraisals or valuations" / />}}
-  {{< interactive-modules/checklist-item label="Conservation or restoration records" / />}}
-  {{< interactive-modules/checklist-item label="Gallery or auction catalogs featuring the work" / />}}
-  {{< interactive-modules/checklist-item label="Artist information or correspondence" / />}}
+  {{< interactive-modules/checklist-item label="Original purchase records or receipts" /  >}}
+  {{< interactive-modules/checklist-item label="Certificates of authenticity" /  >}}
+  {{< interactive-modules/checklist-item label="Exhibition history documentation" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance records" /  >}}
+  {{< interactive-modules/checklist-item label="Previous appraisals or valuations" /  >}}
+  {{< interactive-modules/checklist-item label="Conservation or restoration records" /  >}}
+  {{< interactive-modules/checklist-item label="Gallery or auction catalogs featuring the work" /  >}}
+  {{< interactive-modules/checklist-item label="Artist information or correspondence" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Even if you don't have all this information, provide whatever you do have. The more documentation you can supply, the more comprehensive and accurate the appraisal can be.

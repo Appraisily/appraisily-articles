@@ -38,7 +38,7 @@ According to forum discussions on [iBoats.com](https://forums.iboats.com/threads
 
 The [Antique Outboard Motor Club](https://www.aomci.org/forums/topic/fair-market-value/) emphasizes that pricing is highly subjective in this collecting field. As one forum contributor notes: "Ask 10 people what they paid for the same motor and you'll get 10 different answers." This variability makes reference guides like Peter Hunn's price guide particularly valuable for collectors seeking benchmark valuations.
 
-{{< data-modules/stats-highlight title="Antique Outboard Motor Market Trends" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Outboard Motor Market Trends" columns="3" / /  >}}
 
 Collector demographics also influence market values. According to discussions on [Reddit's boating community](https://www.reddit.com/r/boating/comments/lqe5cb/is_there_much_of_a_market_for_older_boat_motors/), many enthusiasts are seeking vintage motors to pair with classic wooden boats for a period-correct appearance, creating demand for aesthetically pleasing models regardless of horsepower.
 
@@ -135,16 +135,16 @@ Some of the highest values are found among motors from smaller manufacturers wit
 Specialized racing outboards from any manufacturer typically command significant premiums. According to the [Land-O-Lakes Classic Boat Club](https://lolcbc.org/boating-history/outboard/worth/), racing models often sell for 10 times the value of standard models from the same era.
 
 {{< interactive-modules/condition-checklist title="Outboard Motor Condition Assessment" description="Check these items to evaluate the condition and potential value of a vintage outboard motor" >}}
-  {{< interactive-modules/checklist-item label="Motor turns over freely by hand" / />}}
-  {{< interactive-modules/checklist-item label="Has good compression" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (tank, controls, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Original paint in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Free of significant corrosion or pitting" / />}}
-  {{< interactive-modules/checklist-item label="Decals and emblems intact" / />}}
-  {{< interactive-modules/checklist-item label="Propeller undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Lower unit seals not leaking" / />}}
-  {{< interactive-modules/checklist-item label="Ignition system functions properly" / />}}
-  {{< interactive-modules/checklist-item label="Includes original documentation" / />}}
+  {{< interactive-modules/checklist-item label="Motor turns over freely by hand" /  >}}
+  {{< interactive-modules/checklist-item label="Has good compression" /  >}}
+  {{< interactive-modules/checklist-item label="All original parts present (tank, controls, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Original paint in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Free of significant corrosion or pitting" /  >}}
+  {{< interactive-modules/checklist-item label="Decals and emblems intact" /  >}}
+  {{< interactive-modules/checklist-item label="Propeller undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="Lower unit seals not leaking" /  >}}
+  {{< interactive-modules/checklist-item label="Ignition system functions properly" /  >}}
+  {{< interactive-modules/checklist-item label="Includes original documentation" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Identifying Your Vintage Outboard" level="2" >}}

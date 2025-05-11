@@ -130,7 +130,7 @@ Determining the value of antique furniture can be both an art and a science. Whe
 
 This comprehensive guide will walk you through the essential steps to value antique furniture like a professional, from identifying key characteristics to understanding the market factors that impact worth. While professional appraisers bring years of expertise to their evaluations, you can learn the fundamental techniques they use to get a reasonable estimate of your furniture's value.
 
-{{< data-modules/stats-highlight title="Key Antique Furniture Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Antique Furniture Value Factors" columns="3" / /  >}}
 <div class="stat-card">
   <div class="stat-value">75%</div>
   <div class="stat-label">Value Impact</div>
@@ -210,14 +210,14 @@ Furniture created by recognized craftsmen or manufacturers typically holds great
 The condition of antique furniture is perhaps the most critical factor in determining its value. While some patina and wear are expected (and even desirable), significant damage can dramatically reduce worth.
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Condition Assessment" description="Check applicable conditions to help determine value impact" >}}
-  {{< interactive-modules/checklist-item label="Original finish is intact and well-preserved" / />}}
-  {{< interactive-modules/checklist-item label="All hardware is original to the piece" / />}}
-  {{< interactive-modules/checklist-item label="No significant cracks, splits, or structural damage" / />}}
-  {{< interactive-modules/checklist-item label="Drawers and doors function properly" / />}}
-  {{< interactive-modules/checklist-item label="Original upholstery present (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No signs of insect damage or active infestation" / />}}
-  {{< interactive-modules/checklist-item label="All carving and decorative elements are intact" / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate repairs or restoration work" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact and well-preserved" /  >}}
+  {{< interactive-modules/checklist-item label="All hardware is original to the piece" /  >}}
+  {{< interactive-modules/checklist-item label="No significant cracks, splits, or structural damage" /  >}}
+  {{< interactive-modules/checklist-item label="Drawers and doors function properly" /  >}}
+  {{< interactive-modules/checklist-item label="Original upholstery present (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="No signs of insect damage or active infestation" /  >}}
+  {{< interactive-modules/checklist-item label="All carving and decorative elements are intact" /  >}}
+  {{< interactive-modules/checklist-item label="No inappropriate repairs or restoration work" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Rarity and Desirability

@@ -118,7 +118,7 @@ These ornate bathtubs have experienced a renaissance in recent years, driven by 
 
 When it comes to valuing antique clawfoot tubs, several key factors come into play. These elegant fixtures can range from a few hundred dollars to several thousand, depending on their age, condition, style, and provenance. Whether you're looking to sell an heirloom piece or hoping to acquire one for your home renovation, understanding these value factors is essential.
 
-{{< data-modules/stats-highlight title="Clawfoot Tub Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Clawfoot Tub Value Factors" columns="3" / /  >}}
 
 - **Age & Authenticity**: Genuine antique tubs (pre-1940s) typically command higher prices
 - **Material Quality**: Cast iron with porcelain enamel is most desirable
@@ -198,13 +198,13 @@ Many tubs also include a date stamp or serial number that can help pinpoint the 
 - **Post-1940**: Likely reproduction models as original production largely ceased
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Key indicators of an authentic antique clawfoot tub" >}}
-  {{< interactive-modules/checklist-item label="Cast iron construction (extremely heavy, requiring multiple people to move)" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's stamp or marking on the underside" / />}}
-  {{< interactive-modules/checklist-item label="Original porcelain enamel interior (may show crazing or wear)" / />}}
-  {{< interactive-modules/checklist-item label="Hand-crafted elements in the feet design" / />}}
-  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear (not artificially distressed)" / />}}
-  {{< interactive-modules/checklist-item label="Interior with slight slope toward the drain" / />}}
-  {{< interactive-modules/checklist-item label="No modern manufacturing marks or contemporary materials" / />}}
+  {{< interactive-modules/checklist-item label="Cast iron construction (extremely heavy, requiring multiple people to move)" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturer's stamp or marking on the underside" /  >}}
+  {{< interactive-modules/checklist-item label="Original porcelain enamel interior (may show crazing or wear)" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-crafted elements in the feet design" /  >}}
+  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear (not artificially distressed)" /  >}}
+  {{< interactive-modules/checklist-item label="Interior with slight slope toward the drain" /  >}}
+  {{< interactive-modules/checklist-item label="No modern manufacturing marks or contemporary materials" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Current Market Values
@@ -294,13 +294,13 @@ Original fixtures can significantly enhance value:
 - **Supply Lines**: Vintage brass or copper supply lines in good condition add authentic character
 
 {{< interactive-modules/condition-checklist title="Value Impact Assessment" description="Check applicable condition issues to understand how they affect your tub's value" >}}
-  {{< interactive-modules/checklist-item label="Significant rust damage to cast iron body (-40-60% value)" / />}}
-  {{< interactive-modules/checklist-item label="Missing or damaged feet (-30-50% value)" / />}}
-  {{< interactive-modules/checklist-item label="Cracks in the cast iron body (-70-90% value)" / />}}
-  {{< interactive-modules/checklist-item label="Major chips or damage to interior enamel (-30-50% value)" / />}}
-  {{< interactive-modules/checklist-item label="Poor quality refinishing job (-20-40% value)" / />}}
-  {{< interactive-modules/checklist-item label="Missing original hardware (-10-20% value)" / />}}
-  {{< interactive-modules/checklist-item label="Non-standard modifications or alterations (-20-50% value)" / />}}
+  {{< interactive-modules/checklist-item label="Significant rust damage to cast iron body (-40-60% value)" /  >}}
+  {{< interactive-modules/checklist-item label="Missing or damaged feet (-30-50% value)" /  >}}
+  {{< interactive-modules/checklist-item label="Cracks in the cast iron body (-70-90% value)" /  >}}
+  {{< interactive-modules/checklist-item label="Major chips or damage to interior enamel (-30-50% value)" /  >}}
+  {{< interactive-modules/checklist-item label="Poor quality refinishing job (-20-40% value)" /  >}}
+  {{< interactive-modules/checklist-item label="Missing original hardware (-10-20% value)" /  >}}
+  {{< interactive-modules/checklist-item label="Non-standard modifications or alterations (-20-50% value)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Where to Sell Antique Clawfoot Tubs

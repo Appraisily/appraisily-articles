@@ -174,14 +174,14 @@ The value of a Rabbit in Cabbage automaton can vary significantly based on sever
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Condition Factors Affecting Value" description="These factors significantly impact the value of a Rabbit in Cabbage automaton" >}}
-  {{< interactive-modules/checklist-item label="Working Mechanical Movement" / />}}
-  {{< interactive-modules/checklist-item label="Original Fur on Rabbit Intact" / />}}
-  {{< interactive-modules/checklist-item label="Functional Musical Component" / />}}
-  {{< interactive-modules/checklist-item label="Original Glass Eyes Present" / />}}
-  {{< interactive-modules/checklist-item label="Original Fabric Cabbage Leaves" / />}}
-  {{< interactive-modules/checklist-item label="Original Key Present" / />}}
-  {{< interactive-modules/checklist-item label="Original Box or Packaging" / />}}
-  {{< interactive-modules/checklist-item label="No Restoration or Modern Replacements" / />}}
+  {{< interactive-modules/checklist-item label="Working Mechanical Movement" /  >}}
+  {{< interactive-modules/checklist-item label="Original Fur on Rabbit Intact" /  >}}
+  {{< interactive-modules/checklist-item label="Functional Musical Component" /  >}}
+  {{< interactive-modules/checklist-item label="Original Glass Eyes Present" /  >}}
+  {{< interactive-modules/checklist-item label="Original Fabric Cabbage Leaves" /  >}}
+  {{< interactive-modules/checklist-item label="Original Key Present" /  >}}
+  {{< interactive-modules/checklist-item label="Original Box or Packaging" /  >}}
+  {{< interactive-modules/checklist-item label="No Restoration or Modern Replacements" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Originality and Completeness
@@ -271,7 +271,7 @@ Recent significant sales highlight the high-end market for these automatons:
   </tr>
 {{< /auction-results >}}
 
-{{< data-modules/stats-highlight title="Market Insights" columns="3" / />}}
+{{< data-modules/stats-highlight title="Market Insights" columns="3" /  >}}
   <tr>
     <td>60%</td>
     <td>Value Premium for Original Box</td>

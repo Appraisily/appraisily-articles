@@ -103,7 +103,7 @@ Kodak's legacy began when George Eastman introduced the first Kodak camera in 18
 
 Whether you've discovered an old Kodak camera in your attic or are a dedicated collector looking to expand your collection, understanding the factors that influence these vintage treasures' value is essential. This comprehensive guide will help you identify, evaluate, and determine the worth of antique Kodak cameras in today's market.
 
-{{< data-modules/stats-highlight title="Notable Kodak Camera Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Notable Kodak Camera Facts" columns="3" / /  >}}
 
 <tr>
   <td>First Kodak Camera</td>
@@ -153,11 +153,11 @@ Kodak produced several distinctive camera styles over the decades:
 5. **Disc Cameras** - Slim cameras using Kodak's disc film format from the 1980s
 
 {{< interactive-modules/condition-checklist title="Kodak Camera Identification Checklist" description="Use this checklist to help identify your Kodak camera model" >}}
-  {{< interactive-modules/checklist-item label="Look for the Kodak or Eastman Kodak name and logo" / />}}
-  {{< interactive-modules/checklist-item label="Find the specific model name (Brownie, Retina, Tourist, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Locate any serial numbers inside film compartment or on camera base" / />}}
-  {{< interactive-modules/checklist-item label="Note the film type or format the camera was designed to use" / />}}
-  {{< interactive-modules/checklist-item label="Identify unique features like folding mechanisms or special lenses" / />}}
+  {{< interactive-modules/checklist-item label="Look for the Kodak or Eastman Kodak name and logo" /  >}}
+  {{< interactive-modules/checklist-item label="Find the specific model name (Brownie, Retina, Tourist, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Locate any serial numbers inside film compartment or on camera base" /  >}}
+  {{< interactive-modules/checklist-item label="Note the film type or format the camera was designed to use" /  >}}
+  {{< interactive-modules/checklist-item label="Identify unique features like folding mechanisms or special lenses" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Dating Your Kodak Camera
@@ -463,14 +463,14 @@ Be aware of these typical problems that affect value:
 - **Deteriorated Light Seals**: Foam seals that have degraded into sticky residue
 
 {{< interactive-modules/condition-checklist title="Kodak Camera Condition Assessment Checklist" description="Use this checklist to evaluate your camera's condition" >}}
-  {{< interactive-modules/checklist-item label="Body is free of significant dents, deep scratches, or brassing" / />}}
-  {{< interactive-modules/checklist-item label="All mechanical functions work smoothly at all settings" / />}}
-  {{< interactive-modules/checklist-item label="Lens is clear without scratches, fungus, or haze" / />}}
-  {{< interactive-modules/checklist-item label="Bellows (if applicable) have no pinholes or light leaks" / />}}
-  {{< interactive-modules/checklist-item label="Viewfinder is clear and accurately frames images" / />}}
-  {{< interactive-modules/checklist-item label="Light seals are intact without deterioration" / />}}
-  {{< interactive-modules/checklist-item label="All original parts and accessories are present" / />}}
-  {{< interactive-modules/checklist-item label="Camera includes original case or packaging" / />}}
+  {{< interactive-modules/checklist-item label="Body is free of significant dents, deep scratches, or brassing" /  >}}
+  {{< interactive-modules/checklist-item label="All mechanical functions work smoothly at all settings" /  >}}
+  {{< interactive-modules/checklist-item label="Lens is clear without scratches, fungus, or haze" /  >}}
+  {{< interactive-modules/checklist-item label="Bellows (if applicable) have no pinholes or light leaks" /  >}}
+  {{< interactive-modules/checklist-item label="Viewfinder is clear and accurately frames images" /  >}}
+  {{< interactive-modules/checklist-item label="Light seals are intact without deterioration" /  >}}
+  {{< interactive-modules/checklist-item label="All original parts and accessories are present" /  >}}
+  {{< interactive-modules/checklist-item label="Camera includes original case or packaging" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Condition Grading Standards

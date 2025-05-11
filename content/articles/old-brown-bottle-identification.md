@@ -86,7 +86,7 @@ Understanding the prevalence of brown glass bottles provides important context f
 
 Brown or amber-colored glass has been a common material for bottles throughout history for practical rather than purely aesthetic reasons. The dark coloration served as natural protection against ultraviolet light, making it the preferred choice for substances that could degrade when exposed to light.
 
-{{< data-modules/stats-highlight title="Brown Bottle Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Brown Bottle Facts" columns="3" / /  >}}
 
 The distinctive amber hue came from adding carbon, sulfur, and iron to the glass mixture during manufacturing. This chemical composition effectively filtered out harmful UV rays, which could spoil or degrade certain contents:
 
@@ -215,14 +215,14 @@ Common household brown bottles included:
 - **Ink Bottles** - Small with wide bases for stability
 
 {{< interactive-modules/condition-checklist title="Shape Identification Checklist" description="Check applicable characteristics to help identify your bottle's original purpose" >}}
-  {{< interactive-modules/checklist-item label="Rectangular with recessed panels" / />}}
-  {{< interactive-modules/checklist-item label="Round with long neck and crown top finish" / />}}
-  {{< interactive-modules/checklist-item label="Square cross-section with tapered body" / />}}
-  {{< interactive-modules/checklist-item label="Flask-shaped (flattened with rounded shoulders)" / />}}
-  {{< interactive-modules/checklist-item label="Small with wide mouth and prescription lip" / />}}
-  {{< interactive-modules/checklist-item label="Unusual shape with tactile warning features" / />}}
-  {{< interactive-modules/checklist-item label="Barrel-shaped or figural design" / />}}
-  {{< interactive-modules/checklist-item label="Wide body with narrow neck (food product)" / />}}
+  {{< interactive-modules/checklist-item label="Rectangular with recessed panels" /  >}}
+  {{< interactive-modules/checklist-item label="Round with long neck and crown top finish" /  >}}
+  {{< interactive-modules/checklist-item label="Square cross-section with tapered body" /  >}}
+  {{< interactive-modules/checklist-item label="Flask-shaped (flattened with rounded shoulders)" /  >}}
+  {{< interactive-modules/checklist-item label="Small with wide mouth and prescription lip" /  >}}
+  {{< interactive-modules/checklist-item label="Unusual shape with tactile warning features" /  >}}
+  {{< interactive-modules/checklist-item label="Barrel-shaped or figural design" /  >}}
+  {{< interactive-modules/checklist-item label="Wide body with narrow neck (food product)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Understanding bottle shapes allows you to determine not just what your brown bottle contained, but often provides additional context about its age and origin. For example, certain medicinal bottle shapes were only popular during specific decades, while beer bottle designs evolved alongside brewing and bottling technology.
@@ -327,7 +327,7 @@ Several aspects make certain brown bottles more valuable:
 4. **Unusual Features** - Unique closures, shapes, or manufacturing quirks
 5. **Completeness** - Original closures, labels, or contents can multiply value
 
-{{< data-modules/stats-highlight title="Collecting Trends" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Collecting Trends" columns="3" / /  >}}
 
 ### Market Insights for Brown Bottle Collectors
 
@@ -359,13 +359,13 @@ For basic cleaning of brown glass bottles:
 5. **Drying** - Air dry upside down on absorbent towels
 
 {{< interactive-modules/condition-checklist title="Bottle Cleaning DON'Ts" description="Avoid these damaging cleaning practices" >}}
-  {{< interactive-modules/checklist-item label="Using dishwashers or automatic washing" / />}}
-  {{< interactive-modules/checklist-item label="Employing abrasive cleaners or tools" / />}}
-  {{< interactive-modules/checklist-item label="Soaking in bleach solutions" / />}}
-  {{< interactive-modules/checklist-item label="Using hot water (can crack glass)" / />}}
-  {{< interactive-modules/checklist-item label="Applying commercial glass cleaners with ammonia" / />}}
-  {{< interactive-modules/checklist-item label="Removing desirable patina" / />}}
-  {{< interactive-modules/checklist-item label="Attempting to repair chips or cracks with adhesives" / />}}
+  {{< interactive-modules/checklist-item label="Using dishwashers or automatic washing" /  >}}
+  {{< interactive-modules/checklist-item label="Employing abrasive cleaners or tools" /  >}}
+  {{< interactive-modules/checklist-item label="Soaking in bleach solutions" /  >}}
+  {{< interactive-modules/checklist-item label="Using hot water (can crack glass)" /  >}}
+  {{< interactive-modules/checklist-item label="Applying commercial glass cleaners with ammonia" /  >}}
+  {{< interactive-modules/checklist-item label="Removing desirable patina" /  >}}
+  {{< interactive-modules/checklist-item label="Attempting to repair chips or cracks with adhesives" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Storage and Display Recommendations

@@ -88,7 +88,7 @@ Several critical factors influence the market value of antiques. Understanding t
 
 ![Various antique items with factors affecting their value labeled](https://ik.imagekit.io/appraisily/SEO/antiques-value/antiques-value-image-2_zWY3mq_43.png)
 
-{{< data-modules/stats-highlight title="Value Factors Impact" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Factors Impact" columns="3" / /  >}}
 
 ### Age and Authenticity
 
@@ -207,11 +207,11 @@ For valuable items or situations requiring documentation (insurance, estate divi
 Different situations call for different types of appraisals:
 
 {{< interactive-modules/condition-checklist title="Appraisal Types" description="Common appraisal categories based on purpose" >}}
-  {{< interactive-modules/checklist-item label="Insurance Appraisal" / />}}
-  {{< interactive-modules/checklist-item label="Estate Appraisal" / />}}
-  {{< interactive-modules/checklist-item label="Fair Market Value Appraisal" / />}}
-  {{< interactive-modules/checklist-item label="Donation Appraisal" / />}}
-  {{< interactive-modules/checklist-item label="Liquidation Appraisal" / />}}
+  {{< interactive-modules/checklist-item label="Insurance Appraisal" /  >}}
+  {{< interactive-modules/checklist-item label="Estate Appraisal" /  >}}
+  {{< interactive-modules/checklist-item label="Fair Market Value Appraisal" /  >}}
+  {{< interactive-modules/checklist-item label="Donation Appraisal" /  >}}
+  {{< interactive-modules/checklist-item label="Liquidation Appraisal" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Finding Qualified Appraisers

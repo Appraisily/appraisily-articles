@@ -137,7 +137,7 @@ Characterized by flowing lines, nature-inspired motifs, and artistic glass shade
 
 ### Tiffany Lamps (1890s-1930s)
 
-{{< data-modules/stats-highlight title="Tiffany Lamp Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Tiffany Lamp Market Highlights" columns="3" / /  >}}
 
 The most renowned and valuable antique lamps come from Tiffany Studios, founded by Louis Comfort Tiffany. Authentic Tiffany lamps feature distinctive stained glass shades in nature-inspired designs.
 
@@ -208,12 +208,12 @@ The most valuable antique lamps come from known manufacturers and designers:
 - **Bradley & Hubbard**: Often marked "B&H" on the base or burner mechanism.
 
 {{< interactive-modules/condition-checklist title="Antique Lamp Authentication Checklist" description="Use this checklist to evaluate potential antique lamps" >}}
-  {{< interactive-modules/checklist-item label="Check for maker's marks, signatures, or company stamps" / />}}
-  {{< interactive-modules/checklist-item label="Examine patina on metal parts for signs of natural aging" / />}}
-  {{< interactive-modules/checklist-item label="Look for period-appropriate materials and construction techniques" / />}}
-  {{< interactive-modules/checklist-item label="Inspect glass for slight imperfections typical of antique manufacturing" / />}}
-  {{< interactive-modules/checklist-item label="Research the specific style to match with historical periods" / />}}
-  {{< interactive-modules/checklist-item label="Verify if electrical components have been updated safely" / />}}
+  {{< interactive-modules/checklist-item label="Check for maker's marks, signatures, or company stamps" /  >}}
+  {{< interactive-modules/checklist-item label="Examine patina on metal parts for signs of natural aging" /  >}}
+  {{< interactive-modules/checklist-item label="Look for period-appropriate materials and construction techniques" /  >}}
+  {{< interactive-modules/checklist-item label="Inspect glass for slight imperfections typical of antique manufacturing" /  >}}
+  {{< interactive-modules/checklist-item label="Research the specific style to match with historical periods" /  >}}
+  {{< interactive-modules/checklist-item label="Verify if electrical components have been updated safely" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Consulting Experts

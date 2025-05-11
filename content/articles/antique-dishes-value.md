@@ -118,7 +118,7 @@ In this comprehensive guide, we'll explore the world of antique dish values, pro
 
 When assessing the value of antique dishes, several critical factors come into play that can significantly impact their worth. Understanding these elements will help you make more accurate valuations of your vintage dishware.
 
-{{< data-modules/stats-highlight title="Value Determinants for Antique Dishes" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Determinants for Antique Dishes" columns="3" / /  >}}
 
 ### Age and Provenance
 
@@ -137,11 +137,11 @@ Limited production runs, discontinued patterns, and pieces from manufacturers th
 The condition of antique dishes dramatically affects their value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Antique Dishes" description="Check applicable conditions that may affect your dishware's value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original glaze intact without crazing" / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear to decorative elements or gilding" / />}}
-  {{< interactive-modules/checklist-item label="No staining or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Complete set with all pieces present" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Original glaze intact without crazing" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal wear to decorative elements or gilding" /  >}}
+  {{< interactive-modules/checklist-item label="No staining or discoloration" /  >}}
+  {{< interactive-modules/checklist-item label="Complete set with all pieces present" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness

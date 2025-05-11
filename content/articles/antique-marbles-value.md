@@ -196,7 +196,7 @@ Christensen Agate Company marbles are among the most sought-after machine-made e
 Multiple variables influence the value of an antique marble. Understanding these factors can help you assess whether your marbles might be worth a significant sum.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / /  >}}
 
 ### Type and Rarity
 
@@ -205,12 +205,12 @@ The single most important value factor is the type and rarity of the marble. Han
 ### Condition
 
 {{< interactive-modules/condition-checklist title="Marble Condition Assessment" description="Check applicable items to determine condition rating" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or surface damage" / />}}
-  {{< interactive-modules/checklist-item label="Original surface polish intact" / />}}
-  {{< interactive-modules/checklist-item label="No excessive wear from play" / />}}
-  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" / />}}
-  {{< interactive-modules/checklist-item label="No internal cloudiness or deterioration" / />}}
-  {{< interactive-modules/checklist-item label="Original pontil (contact point) intact (for handmade marbles)" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or surface damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original surface polish intact" /  >}}
+  {{< interactive-modules/checklist-item label="No excessive wear from play" /  >}}
+  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" /  >}}
+  {{< interactive-modules/checklist-item label="No internal cloudiness or deterioration" /  >}}
+  {{< interactive-modules/checklist-item label="Original pontil (contact point) intact (for handmade marbles)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition dramatically impacts value. Unlike some antiques where patina adds character, marbles are expected to be in near-perfect condition to command premium prices. Mint condition marbles with no chips, scratches, or excessive wear can be worth 5-10 times more than the same marble with damage.

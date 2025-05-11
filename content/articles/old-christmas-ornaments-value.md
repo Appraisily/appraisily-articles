@@ -97,7 +97,7 @@ Several factors contribute to the growing market for vintage holiday decorations
 
 4. **Historical significance**: Ornaments from certain time periods reflect cultural trends, wartime influences, and technological innovations of their era.
 
-{{< data-modules/stats-highlight title="Vintage Christmas Ornament Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Christmas Ornament Market Insights" columns="3" / /  >}}
 - **300%**: Increase in value for rare German glass ornaments over the past decade
 - **$5-$90**: Typical price range for individual vintage glass ornaments in good condition
 - **$250+**: Value of complete vintage ornament sets in original packaging
@@ -303,16 +303,16 @@ The ornament's cap can be a crucial dating tool:
 - Original boxes significantly increase value
 
 {{< interactive-modules/condition-checklist title="Vintage Ornament Value Assessment Checklist" description="Check applicable characteristics to help determine if your ornaments are potentially valuable" >}}
-  {{< interactive-modules/checklist-item label="Ornament dates from pre-1960s era" / />}}
-  {{< interactive-modules/checklist-item label="Glass has a thin, delicate quality" / />}}
-  {{< interactive-modules/checklist-item label="Original metal cap is present" / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted or stenciled designs visible" / />}}
-  {{< interactive-modules/checklist-item label="Ornament has figural design (Santa, bird, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Unusual color (pink, blue, purple)" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging included" / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or significant paint loss" / />}}
-  {{< interactive-modules/checklist-item label="Recognizable manufacturer markings" / />}}
-  {{< interactive-modules/checklist-item label="Distinctive features like indents or mica decoration" / />}}
+  {{< interactive-modules/checklist-item label="Ornament dates from pre-1960s era" /  >}}
+  {{< interactive-modules/checklist-item label="Glass has a thin, delicate quality" /  >}}
+  {{< interactive-modules/checklist-item label="Original metal cap is present" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-painted or stenciled designs visible" /  >}}
+  {{< interactive-modules/checklist-item label="Ornament has figural design (Santa, bird, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Unusual color (pink, blue, purple)" /  >}}
+  {{< interactive-modules/checklist-item label="Original box or packaging included" /  >}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or significant paint loss" /  >}}
+  {{< interactive-modules/checklist-item label="Recognizable manufacturer markings" /  >}}
+  {{< interactive-modules/checklist-item label="Distinctive features like indents or mica decoration" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Research and Documentation Tools

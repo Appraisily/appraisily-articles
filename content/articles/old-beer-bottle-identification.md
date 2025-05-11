@@ -62,7 +62,7 @@ One of the most reliable indicators of a bottle's age is the presence and appear
 
 As the Society for Historical Archaeology notes on their [bottle dating page](https://sha.org/bottle/dating.htm), the height and appearance of mold seams can narrow down a bottle's age:
 
-{{< data-modules/stats-highlight title="Dating Beer Bottles by Manufacturing Method" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Dating Beer Bottles by Manufacturing Method" columns="3" / /  >}}
 
 Machine-produced bottles from the early 20th century (1905-1920s) displayed higher, thicker mold seams compared to later machine-made bottles. As technology progressed, the seams became thinner and less pronounced.
 
@@ -200,14 +200,14 @@ Paper labels became increasingly common in the early 20th century, eventually re
 According to experts at [True Legacy Homes](https://www.truelegacyhomes.com/age-glass-bottles/), paper labels with tax stamps or specific regulatory information can help narrow down production dates, especially for post-Prohibition bottles.
 
 {{< interactive-modules/condition-checklist title="Beer Bottle Identification Checklist" description="Use this checklist to help identify and date your old beer bottle" >}}
-  {{< interactive-modules/checklist-item label="Examine bottle for mold seams and their height on the bottle" / />}}
-  {{< interactive-modules/checklist-item label="Check the base for maker's marks or production codes" / />}}
-  {{< interactive-modules/checklist-item label="Note the overall shape and closure type (blob top, crown cap, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Document the glass color and any distinctive tint" / />}}
-  {{< interactive-modules/checklist-item label="Look for embossed text on the body, shoulder, or base" / />}}
-  {{< interactive-modules/checklist-item label="Carefully examine any remaining paper labels" / />}}
-  {{< interactive-modules/checklist-item label="Measure the bottle's dimensions (height, base diameter)" / />}}
-  {{< interactive-modules/checklist-item label="Photograph the bottle from multiple angles for research" / />}}
+  {{< interactive-modules/checklist-item label="Examine bottle for mold seams and their height on the bottle" /  >}}
+  {{< interactive-modules/checklist-item label="Check the base for maker's marks or production codes" /  >}}
+  {{< interactive-modules/checklist-item label="Note the overall shape and closure type (blob top, crown cap, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Document the glass color and any distinctive tint" /  >}}
+  {{< interactive-modules/checklist-item label="Look for embossed text on the body, shoulder, or base" /  >}}
+  {{< interactive-modules/checklist-item label="Carefully examine any remaining paper labels" /  >}}
+  {{< interactive-modules/checklist-item label="Measure the bottle's dimensions (height, base diameter)" /  >}}
+  {{< interactive-modules/checklist-item label="Photograph the bottle from multiple angles for research" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Determining Value of Old Beer Bottles" level="2" >}}

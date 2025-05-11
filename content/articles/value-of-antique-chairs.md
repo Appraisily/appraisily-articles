@@ -122,7 +122,7 @@ The value of antique chairs varies dramatically based on numerous factors, inclu
 
 Antique chairs can range from relatively affordable examples priced at $100-200 to museum-quality masterpieces worth tens of thousands. Understanding the market requires both general knowledge of furniture history and specifics about individual styles and makers.
 
-{{< data-modules/stats-highlight title="Antique Chair Market Overview" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Chair Market Overview" columns="3" / /  >}}
 
 Several key factors contribute to an antique chair's value:
 
@@ -179,13 +179,13 @@ Authentication is crucial when valuing antique chairs, as reproductions and alte
 ![Close-up of authentic antique chair joinery showing age and craftsmanship](https://ik.imagekit.io/appraisily/SEO/value-of-antique-chairs/value-of-antique-chairs-image-3_kQK1cQiY7.png)
 
 {{< interactive-modules/condition-checklist title="Authenticity Assessment Checklist" description="Use these criteria to help determine if a chair is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Consistent patina and wear patterns matching the purported age" / />}}
-  {{< interactive-modules/checklist-item label="Construction methods appropriate for the time period" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand tools rather than machine manufacturing" / />}}
-  {{< interactive-modules/checklist-item label="Wood aging consistent throughout (no newer replacement parts)" / />}}
-  {{< interactive-modules/checklist-item label="Proportions and design details accurate to the period" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate materials for the era (no anachronistic elements)" / />}}
-  {{< interactive-modules/checklist-item label="Signs of repairs consistent with age and use" / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina and wear patterns matching the purported age" /  >}}
+  {{< interactive-modules/checklist-item label="Construction methods appropriate for the time period" /  >}}
+  {{< interactive-modules/checklist-item label="Evidence of hand tools rather than machine manufacturing" /  >}}
+  {{< interactive-modules/checklist-item label="Wood aging consistent throughout (no newer replacement parts)" /  >}}
+  {{< interactive-modules/checklist-item label="Proportions and design details accurate to the period" /  >}}
+  {{< interactive-modules/checklist-item label="Appropriate materials for the era (no anachronistic elements)" /  >}}
+  {{< interactive-modules/checklist-item label="Signs of repairs consistent with age and use" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Expert authentication considers:

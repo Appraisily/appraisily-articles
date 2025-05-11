@@ -112,7 +112,7 @@ The height and appearance of mold seams are crucial for dating bottles. As descr
 
 A pontil mark is a rough or smooth scar on the base of a bottle where the pontil rod was attached during production. According to the [Society for Historical Archaeology](https://sha.org/bottle/bases.htm), these marks are typically found on bottles made before 1860. Their presence almost certainly indicates a bottle of considerable age and potentially higher value.
 
-{{< data-modules/stats-highlight title="Key Dating Indicators" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Dating Indicators" columns="3" / /  >}}
 
 ### Base Markings
 
@@ -205,13 +205,13 @@ These embossed details not only help identify the bottle but often make certain 
 According to [Whiskey ID](https://whiskeyid.com/how-to-date-id-your-whiskey/), many bottle manufacturers molded the year into the glass at the bottom in 2-digit format, often found in the lower right portion when examining the base. This practice became particularly common after 1930.
 
 {{< interactive-modules/condition-checklist title="Bottle Markings Identification Checklist" description="Use this checklist to locate and identify key markings on your bottle" >}}
-  {{< interactive-modules/checklist-item label="Check the base for manufacturer marks or symbols" / />}}
-  {{< interactive-modules/checklist-item label="Look for 2-digit date codes on the bottom" / />}}
-  {{< interactive-modules/checklist-item label="Examine sides for embossed product names" / />}}
-  {{< interactive-modules/checklist-item label="Identify any city or state names embossed on the bottle" / />}}
-  {{< interactive-modules/checklist-item label="Note any patent numbers or dates" / />}}
-  {{< interactive-modules/checklist-item label="Check for content volume markings" / />}}
-  {{< interactive-modules/checklist-item label="Look for pharmaceutical or producer marks" / />}}
+  {{< interactive-modules/checklist-item label="Check the base for manufacturer marks or symbols" /  >}}
+  {{< interactive-modules/checklist-item label="Look for 2-digit date codes on the bottom" /  >}}
+  {{< interactive-modules/checklist-item label="Examine sides for embossed product names" /  >}}
+  {{< interactive-modules/checklist-item label="Identify any city or state names embossed on the bottle" /  >}}
+  {{< interactive-modules/checklist-item label="Note any patent numbers or dates" /  >}}
+  {{< interactive-modules/checklist-item label="Check for content volume markings" /  >}}
+  {{< interactive-modules/checklist-item label="Look for pharmaceutical or producer marks" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Evaluating Bottle Condition and Rarity" level="2" >}}

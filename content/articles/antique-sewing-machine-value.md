@@ -111,7 +111,7 @@ The distinction matters because true antiques—especially those over 100 years 
 
 Beginning in the 1980s, sewing machines started incorporating circuit boards and computerized features, marking the end of what most collectors consider the "vintage" era. These newer machines generally hold less collector value, though they may still be practical for sewing enthusiasts.
 
-{{< data-modules/stats-highlight title="Antique Sewing Machine Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Sewing Machine Market Statistics" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Key Factors That Determine Value" level="2" >}}
 Several important factors influence how much an antique sewing machine is worth in today's market.
@@ -131,13 +131,13 @@ The condition of an antique sewing machine significantly impacts its value. Coll
 - Are mechanically functional or can be restored to working condition
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Check all items that apply to your sewing machine to estimate its condition quality" >}}
-  {{< interactive-modules/checklist-item label="Original finish with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Decals and decorative elements intact" / />}}
-  {{< interactive-modules/checklist-item label="All mechanical parts present and functional" / />}}
-  {{< interactive-modules/checklist-item label="Original cabinet or case in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original manual and accessories included" / />}}
-  {{< interactive-modules/checklist-item label="No rust or major damage to metal components" / />}}
-  {{< interactive-modules/checklist-item label="Machine runs smoothly (if motorized)" / />}}
+  {{< interactive-modules/checklist-item label="Original finish with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="Decals and decorative elements intact" /  >}}
+  {{< interactive-modules/checklist-item label="All mechanical parts present and functional" /  >}}
+  {{< interactive-modules/checklist-item label="Original cabinet or case in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Original manual and accessories included" /  >}}
+  {{< interactive-modules/checklist-item label="No rust or major damage to metal components" /  >}}
+  {{< interactive-modules/checklist-item label="Machine runs smoothly (if motorized)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness

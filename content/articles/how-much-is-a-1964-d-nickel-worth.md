@@ -103,7 +103,7 @@ In this comprehensive guide, we'll explore everything that affects the value of 
 Before diving into the details, here's a quick overview of what your 1964-D nickel might be worth based on its condition.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="1964-D Nickel Value Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="1964-D Nickel Value Highlights" columns="3" / /  >}}
 
 {{< data-modules/price-table title="1964-D Nickel Value Chart" description="Current market values based on condition (April 2025)" >}}
 <tr>
@@ -187,12 +187,12 @@ The 1964-D Jefferson nickel features the following characteristics:
 The "D" mint mark on 1964 nickels is located on the reverse side of the coin, to the right of Monticello. This indicates the coin was struck at the Denver Mint. Coins without a mint mark were produced at the Philadelphia Mint.
 
 {{< interactive-modules/condition-checklist title="1964-D Nickel Authentication Checklist" description="Check these characteristics to confirm you have a genuine 1964-D nickel:" >}}
-  {{< interactive-modules/checklist-item label="The coin weighs approximately 5.0 grams" / />}}
-  {{< interactive-modules/checklist-item label="The diameter measures 21.2 mm" / />}}
-  {{< interactive-modules/checklist-item label="The edge is plain (not reeded)" / />}}
-  {{< interactive-modules/checklist-item label="The 'D' mint mark appears to the right of Monticello" / />}}
-  {{< interactive-modules/checklist-item label="The portrait shows proper Jefferson profile details" / />}}
-  {{< interactive-modules/checklist-item label="The copper-nickel composition gives it a silver-gray appearance" / />}}
+  {{< interactive-modules/checklist-item label="The coin weighs approximately 5.0 grams" /  >}}
+  {{< interactive-modules/checklist-item label="The diameter measures 21.2 mm" /  >}}
+  {{< interactive-modules/checklist-item label="The edge is plain (not reeded)" /  >}}
+  {{< interactive-modules/checklist-item label="The 'D' mint mark appears to the right of Monticello" /  >}}
+  {{< interactive-modules/checklist-item label="The portrait shows proper Jefferson profile details" /  >}}
+  {{< interactive-modules/checklist-item label="The copper-nickel composition gives it a silver-gray appearance" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors Affecting 1964-D Nickel Value" level="2" >}}

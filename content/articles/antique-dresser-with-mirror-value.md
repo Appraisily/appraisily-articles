@@ -214,7 +214,7 @@ Documented history, especially connections to notable figures or manufacturers, 
 
 Uncommon styles, unique features, or pieces from limited production runs command higher prices. Current interior design trends also influence desirability—certain styles gain or lose popularity over time, affecting market value.
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / /  >}}
   <div class="stat-card">
     <div class="stat-value">40-60%</div>
     <div class="stat-label">Condition Impact</div>
@@ -308,11 +308,11 @@ Determining whether your dresser is a genuine antique or a reproduction is cruci
 One of the most reliable methods for dating antique furniture is examining how the drawers and other components are joined together:
 
 {{< interactive-modules/condition-checklist title="Joinery Assessment" description="Check these joinery indicators of authentic antique construction" >}}
-  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints (irregular spacing)" / />}}
-  {{< interactive-modules/checklist-item label="Mortise-and-tenon construction" / />}}
-  {{< interactive-modules/checklist-item label="Wooden drawer slides rather than metal" / />}}
-  {{< interactive-modules/checklist-item label="Drawer bottoms made of solid wood panels" / />}}
-  {{< interactive-modules/checklist-item label="Nails that are square or irregular if present" / />}}
+  {{< interactive-modules/checklist-item label="Hand-cut dovetail joints (irregular spacing)" /  >}}
+  {{< interactive-modules/checklist-item label="Mortise-and-tenon construction" /  >}}
+  {{< interactive-modules/checklist-item label="Wooden drawer slides rather than metal" /  >}}
+  {{< interactive-modules/checklist-item label="Drawer bottoms made of solid wood panels" /  >}}
+  {{< interactive-modules/checklist-item label="Nails that are square or irregular if present" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Inspect the Mirror
@@ -411,12 +411,12 @@ The mirror requires special attention:
 When restoration is necessary, proceed with caution:
 
 {{< interactive-modules/condition-checklist title="Restoration Guidelines" description="Consider these points before restoring an antique dresser" >}}
-  {{< interactive-modules/checklist-item label="Consult with a professional restorer before attempting major repairs" / />}}
-  {{< interactive-modules/checklist-item label="Document the piece thoroughly before starting any work" / />}}
-  {{< interactive-modules/checklist-item label="Use period-appropriate materials and techniques" / />}}
-  {{< interactive-modules/checklist-item label="Preserve original finishes whenever possible" / />}}
-  {{< interactive-modules/checklist-item label="Keep all original hardware, even if temporarily replaced" / />}}
-  {{< interactive-modules/checklist-item label="Consider reversibility in any restoration decisions" / />}}
+  {{< interactive-modules/checklist-item label="Consult with a professional restorer before attempting major repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Document the piece thoroughly before starting any work" /  >}}
+  {{< interactive-modules/checklist-item label="Use period-appropriate materials and techniques" /  >}}
+  {{< interactive-modules/checklist-item label="Preserve original finishes whenever possible" /  >}}
+  {{< interactive-modules/checklist-item label="Keep all original hardware, even if temporarily replaced" /  >}}
+  {{< interactive-modules/checklist-item label="Consider reversibility in any restoration decisions" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Getting a Professional Appraisal

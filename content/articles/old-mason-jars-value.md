@@ -94,7 +94,7 @@ Several factors influence the value of vintage Mason jars, from age and rarity t
 
 Most common Mason jars are worth between $2 to $20, but rare specimens can command prices upwards of several hundred or even a thousand dollars. The key factors that influence value include:
 
-{{< data-modules/stats-highlight title="Key Value Factors for Antique Mason Jars" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for Antique Mason Jars" columns="3" / /  >}}
 
 **Age**: Generally, the older the jar, the more valuable it is. Mason jars from the 1800s and early 1900s typically command higher prices than more recent examples.
 
@@ -181,13 +181,13 @@ Look for embossed phrases on your Mason jar to help with dating:
 These phrases were used during specific periods and can help narrow down the age of your jar.
 
 {{< interactive-modules/condition-checklist title="Mason Jar Authentication Checklist" description="Use this checklist to help verify the authenticity and age of your vintage Mason jar" >}}
-  {{< interactive-modules/checklist-item label="Check for pontil marks (rough circular scars) on the bottom of very old jars" / />}}
-  {{< interactive-modules/checklist-item label="Look for bubbles in the glass, indicating hand-blown production (pre-1910s)" / />}}
-  {{< interactive-modules/checklist-item label="Examine for mold seams that stop at the neck (older) or continue to the lip (newer)" / />}}
-  {{< interactive-modules/checklist-item label="Verify embossing style matches known patterns for the manufacturer and era" / />}}
-  {{< interactive-modules/checklist-item label="Inspect for consistent color throughout (artificially colored reproductions often have uneven coloration)" / />}}
-  {{< interactive-modules/checklist-item label="Check for ground glass rim (common in very early jars)" / />}}
-  {{< interactive-modules/checklist-item label="Verify the weight feels appropriate (reproductions are often lighter)" / />}}
+  {{< interactive-modules/checklist-item label="Check for pontil marks (rough circular scars) on the bottom of very old jars" /  >}}
+  {{< interactive-modules/checklist-item label="Look for bubbles in the glass, indicating hand-blown production (pre-1910s)" /  >}}
+  {{< interactive-modules/checklist-item label="Examine for mold seams that stop at the neck (older) or continue to the lip (newer)" /  >}}
+  {{< interactive-modules/checklist-item label="Verify embossing style matches known patterns for the manufacturer and era" /  >}}
+  {{< interactive-modules/checklist-item label="Inspect for consistent color throughout (artificially colored reproductions often have uneven coloration)" /  >}}
+  {{< interactive-modules/checklist-item label="Check for ground glass rim (common in very early jars)" /  >}}
+  {{< interactive-modules/checklist-item label="Verify the weight feels appropriate (reproductions are often lighter)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Rare and Valuable Mason Jar Types

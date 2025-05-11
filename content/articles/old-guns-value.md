@@ -138,7 +138,7 @@ The valuation of antique firearms is complex and depends on numerous interrelate
   {{< /visual-modules/timeline-item >}}
 {{< /visual-modules/timeline >}}
 
-{{< data-modules/stats-highlight title="Antique Firearm Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Firearm Market Statistics" columns="3" / /  >}}
 
 According to experts at the [Rock Island Auction Company](https://www.rockislandauction.com/old-gun-values), one of the premier auction houses for collectible firearms, antique gun values can range from a few hundred dollars to hundreds of thousands or even millions for the rarest specimens. The market for collectible firearms has shown remarkable strength in recent years, with many categories appreciating significantly in value.
 
@@ -149,12 +149,12 @@ The National Rifle Association has established standardized condition ratings th
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="NRA Condition Standards Assessment" description="Check applicable condition criteria for your antique firearm" >}}
-  {{< interactive-modules/checklist-item label="Factory New (100%): Firearm is in same condition as when it left factory" / />}}
-  {{< interactive-modules/checklist-item label="Excellent (95%): In perfect condition but may show minimal storage wear" / />}}
-  {{< interactive-modules/checklist-item label="Very Good (85%): Shows minor wear and may have small repairs" / />}}
-  {{< interactive-modules/checklist-item label="Good (75%): Still in working condition with wear and minor replacement parts" / />}}
-  {{< interactive-modules/checklist-item label="Fair (60%): Shows significant wear but still functions" / />}}
-  {{< interactive-modules/checklist-item label="Poor (below 60%): May not function, significant repairs needed" / />}}
+  {{< interactive-modules/checklist-item label="Factory New (100%): Firearm is in same condition as when it left factory" /  >}}
+  {{< interactive-modules/checklist-item label="Excellent (95%): In perfect condition but may show minimal storage wear" /  >}}
+  {{< interactive-modules/checklist-item label="Very Good (85%): Shows minor wear and may have small repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Good (75%): Still in working condition with wear and minor replacement parts" /  >}}
+  {{< interactive-modules/checklist-item label="Fair (60%): Shows significant wear but still functions" /  >}}
+  {{< interactive-modules/checklist-item label="Poor (below 60%): May not function, significant repairs needed" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 These condition ratings have a dramatic impact on value. For example, a Winchester Model 1873 in "Poor" condition might sell for $1,500-$2,500, while the same model in "Excellent" condition could command $10,000-$15,000 or more.

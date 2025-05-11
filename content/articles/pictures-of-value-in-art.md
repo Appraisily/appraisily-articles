@@ -107,7 +107,7 @@ At its most basic, value in art exists on a scale from white (the highest value)
 
 Value is fundamentally about how light interacts with objects and surfaces. When light hits an object, some areas become highlighted while others fall into shadow, creating a range of values across the surface. Artists have been studying and manipulating these value relationships for centuries to create compelling visual illusions.
 
-{{< data-modules/stats-highlight title="Key Value Concepts in Art" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Concepts in Art" columns="3" / /  >}}
 
 According to the [Virtual Instructor](https://thevirtualinstructor.com/Value.html), "Value deals directly to light. The whole point to value is to create the illusion of light." This speaks to why value is so critical—it's the fundamental way we perceive and understand visual information.
 
@@ -243,13 +243,13 @@ According to the [New York Times' lesson plan on value](https://www.nytimes.com/
 By carefully observing and rendering these value relationships, artists create the convincing illusion of three-dimensional form on a two-dimensional surface.
 
 {{< interactive-modules/condition-checklist title="Value Implementation Checklist" description="Use these criteria to assess the effective use of value in artwork" >}}
-    {{< interactive-modules/checklist-item label="Clear value structure with identifiable light source direction" / />}}
-    {{< interactive-modules/checklist-item label="Full range of values from lightest highlights to darkest shadows" / />}}
-    {{< interactive-modules/checklist-item label="Smooth transitions between value steps where appropriate" / />}}
-    {{< interactive-modules/checklist-item label="Consistent value relationships across similar surfaces" / />}}
-    {{< interactive-modules/checklist-item label="Strategic use of contrast to direct viewer attention" / />}}
-    {{< interactive-modules/checklist-item label="Value groups that create visual unity and balance" / />}}
-    {{< interactive-modules/checklist-item label="Appropriate value choices for the intended mood or atmosphere" / />}}
+    {{< interactive-modules/checklist-item label="Clear value structure with identifiable light source direction" /  >}}
+    {{< interactive-modules/checklist-item label="Full range of values from lightest highlights to darkest shadows" /  >}}
+    {{< interactive-modules/checklist-item label="Smooth transitions between value steps where appropriate" /  >}}
+    {{< interactive-modules/checklist-item label="Consistent value relationships across similar surfaces" /  >}}
+    {{< interactive-modules/checklist-item label="Strategic use of contrast to direct viewer attention" /  >}}
+    {{< interactive-modules/checklist-item label="Value groups that create visual unity and balance" /  >}}
+    {{< interactive-modules/checklist-item label="Appropriate value choices for the intended mood or atmosphere" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Value as a Compositional Tool" level="2" >}}

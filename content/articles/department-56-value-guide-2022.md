@@ -138,21 +138,21 @@ The relationship between different village series affects collecting strategies.
 
 Multiple variables influence the market value of Department 56 pieces. Understanding these factors will help you accurately assess your collection's worth.
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / /  >}}
 
 ### Condition Assessment
 
 Condition remains the single most important factor in Department 56 valuation. Even rare pieces lose significant value if damaged.
 
 {{< interactive-modules/condition-checklist title="Department 56 Condition Assessment Guide" description="Check applicable items to determine your piece's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original box in excellent condition with all inserts" / />}}
-  {{< interactive-modules/checklist-item label="Complete packaging materials (styrofoam, protective wraps)" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity or original paperwork" / />}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to the building" / />}}
-  {{< interactive-modules/checklist-item label="All lighting components work properly" / />}}
-  {{< interactive-modules/checklist-item label="Original paint intact with no fading or wear" / />}}
-  {{< interactive-modules/checklist-item label="All accessories and figurines included" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or yellowing" / />}}
+  {{< interactive-modules/checklist-item label="Original box in excellent condition with all inserts" /  >}}
+  {{< interactive-modules/checklist-item label="Complete packaging materials (styrofoam, protective wraps)" /  >}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity or original paperwork" /  >}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs to the building" /  >}}
+  {{< interactive-modules/checklist-item label="All lighting components work properly" /  >}}
+  {{< interactive-modules/checklist-item label="Original paint intact with no fading or wear" /  >}}
+  {{< interactive-modules/checklist-item label="All accessories and figurines included" /  >}}
+  {{< interactive-modules/checklist-item label="No discoloration or yellowing" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Availability

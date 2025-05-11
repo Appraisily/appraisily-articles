@@ -108,7 +108,7 @@ The market for Seraphim Angels has evolved over the years, with prices varying b
 
 It's important to note that while these figures represent general market trends, individual sales can vary. According to experts on [JustAnswer](https://www.justanswer.com/antiques/mucpc-value-roman-seraphim-angel-figurines.html), a collection of five Seraphim Angel pieces might have a resale value of $190-$240, depending on the specific models and their condition.
 
-{{< data-modules/stats-highlight title="Seraphim Angels Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Seraphim Angels Market Insights" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Factors That Affect Seraphim Angel Values" level="2" >}}
 Various elements can influence how much a Seraphim Angel is worth on the secondary market. Understanding these factors will help you better assess the value of your collection.
@@ -121,13 +121,13 @@ Various elements can influence how much a Seraphim Angel is worth on the seconda
 The condition of a Seraphim Angel is perhaps the most significant factor affecting its value. Collectors prefer figurines that are:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Maximum Value" description="Check these elements when evaluating your Seraphim Angels" >}}
-  {{< interactive-modules/checklist-item label="Free from chips, cracks, or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original paint with no fading or wear" / />}}
-  {{< interactive-modules/checklist-item label="All delicate parts (wings, hands) intact" / />}}
-  {{< interactive-modules/checklist-item label="Clean with no stains or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Original box and packaging present" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity included" / />}}
-  {{< interactive-modules/checklist-item label="Original tags attached" / />}}
+  {{< interactive-modules/checklist-item label="Free from chips, cracks, or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Original paint with no fading or wear" /  >}}
+  {{< interactive-modules/checklist-item label="All delicate parts (wings, hands) intact" /  >}}
+  {{< interactive-modules/checklist-item label="Clean with no stains or discoloration" /  >}}
+  {{< interactive-modules/checklist-item label="Original box and packaging present" /  >}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity included" /  >}}
+  {{< interactive-modules/checklist-item label="Original tags attached" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Production Status

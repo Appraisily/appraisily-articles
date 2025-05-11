@@ -151,7 +151,7 @@ Multiple factors determine the market value of vintage Coca-Cola trays, from age
 
 When assessing the value of a Coca-Cola tray, collectors and appraisers consider these key factors:
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / /  >}}
 
 ### Age and Era
 Generally, older trays command higher prices, with pre-1920 examples being particularly valuable. Trays from the 1897-1910 period represent the earliest examples and often fetch premium prices. The 1920s-1940s trays are highly sought after for their artistic merit, while those from the 1950s-1970s are more affordable entry points for collectors.
@@ -160,12 +160,12 @@ Generally, older trays command higher prices, with pre-1920 examples being parti
 Condition significantly impacts value, with mint or near-mint trays commanding substantial premiums over those with damage.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Coca-Cola Trays" description="Check applicable items to gauge your tray's condition" >}}
-  {{< interactive-modules/checklist-item label="No scratches, dents, or surface damage" / />}}
-  {{< interactive-modules/checklist-item label="Original paint and colors are bright and unfaded" / />}}
-  {{< interactive-modules/checklist-item label="No rust spots or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Corners and edges are sharp and unworn" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer markings intact" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or restoration work" / />}}
+  {{< interactive-modules/checklist-item label="No scratches, dents, or surface damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original paint and colors are bright and unfaded" /  >}}
+  {{< interactive-modules/checklist-item label="No rust spots or corrosion" /  >}}
+  {{< interactive-modules/checklist-item label="Corners and edges are sharp and unworn" /  >}}
+  {{< interactive-modules/checklist-item label="Original manufacturer markings intact" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or restoration work" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity

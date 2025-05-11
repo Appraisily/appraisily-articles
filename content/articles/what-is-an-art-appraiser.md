@@ -123,7 +123,7 @@ Art appraisers occupy a specialized niche in the art world, bridging the gap bet
 
 An art appraiser's evaluation goes far beyond simply putting a price tag on a painting or sculpture. According to the [Uniform Standards of Professional Appraisal Practice](https://www.uspap.org), an appraiser "is expected to perform valuation services competently and in a manner that is independent, impartial, and objective." This standard establishes art appraisers as neutral third parties who provide unbiased assessments based on their professional expertise.
 
-{{< data-modules/stats-highlight title="Art Appraisal Industry at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Industry at a Glance" columns="3" / /  >}}
 
 ## What Does an Art Appraiser Do?
 
@@ -169,13 +169,13 @@ These appraisals determine the value when artwork must be sold quickly, often re
 Estate appraisals are conducted when someone passes away and their art collection needs to be valued for estate tax purposes or division among heirs.
 
 {{< interactive-modules/condition-checklist title="When You Need an Art Appraisal" description="Check applicable situations where professional art appraisal is recommended" >}}
-  {{< interactive-modules/checklist-item label="Insuring your art collection" / />}}
-  {{< interactive-modules/checklist-item label="Donating artwork to charity" / />}}
-  {{< interactive-modules/checklist-item label="Settling an estate with valuable art" / />}}
-  {{< interactive-modules/checklist-item label="Dividing assets during divorce" / />}}
-  {{< interactive-modules/checklist-item label="Selling significant artwork" / />}}
-  {{< interactive-modules/checklist-item label="Verifying authenticity of a purchase" / />}}
-  {{< interactive-modules/checklist-item label="Determining value for business asset listings" / />}}
+  {{< interactive-modules/checklist-item label="Insuring your art collection" /  >}}
+  {{< interactive-modules/checklist-item label="Donating artwork to charity" /  >}}
+  {{< interactive-modules/checklist-item label="Settling an estate with valuable art" /  >}}
+  {{< interactive-modules/checklist-item label="Dividing assets during divorce" /  >}}
+  {{< interactive-modules/checklist-item label="Selling significant artwork" /  >}}
+  {{< interactive-modules/checklist-item label="Verifying authenticity of a purchase" /  >}}
+  {{< interactive-modules/checklist-item label="Determining value for business asset listings" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Qualifications and Expertise of Art Appraisers" level="2" >}}

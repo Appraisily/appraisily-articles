@@ -157,7 +157,7 @@ According to experts, antique silver values can vary dramatically, ranging from 
 
 For collectors and investors, understanding the multiple dimensions that contribute to silverware value is essential. This comprehensive guide will walk you through everything you need to know about how much antique silverware is worth and how to determine its value in today's market.
 
-{{< data-modules/stats-highlight title="Antique Silver Value Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Silver Value Statistics" columns="3" / /  >}}
 <tr>
   <td>Range of Individual Piece Values</td>
   <td>$5-$30+</td>
@@ -248,13 +248,13 @@ The age of silverware definitely plays a role in its valuation, though not alway
 Condition is absolutely critical in determining value. Items in pristine condition will always command higher prices than those with damage or excessive wear. According to [Bellamy's World](https://bellamysworld.com/blog/identifying-and-valuing-antique-sterling-silver), premium antique silverware should be free from:
 
 {{< interactive-modules/condition-checklist title="Silverware Condition Assessment" description="Check for these common issues that reduce value" >}}
-{{< interactive-modules/checklist-item label="Dents, dings, or deformations" / />}}
-{{< interactive-modules/checklist-item label="Deep scratches or gouges" / />}}
-{{< interactive-modules/checklist-item label="Monograms or engravings (unless historically significant)" / />}}
-{{< interactive-modules/checklist-item label="Repairs or solder marks" / />}}
-{{< interactive-modules/checklist-item label="Pitting or corrosion" / />}}
-{{< interactive-modules/checklist-item label="Worn or missing silver plating" / />}}
-{{< interactive-modules/checklist-item label="Mismatched pieces or incomplete sets" / />}}
+{{< interactive-modules/checklist-item label="Dents, dings, or deformations" /  >}}
+{{< interactive-modules/checklist-item label="Deep scratches or gouges" /  >}}
+{{< interactive-modules/checklist-item label="Monograms or engravings (unless historically significant)" /  >}}
+{{< interactive-modules/checklist-item label="Repairs or solder marks" /  >}}
+{{< interactive-modules/checklist-item label="Pitting or corrosion" /  >}}
+{{< interactive-modules/checklist-item label="Worn or missing silver plating" /  >}}
+{{< interactive-modules/checklist-item label="Mismatched pieces or incomplete sets" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness of Sets
@@ -430,11 +430,11 @@ Browsing through completed listings on [eBay's Antique Silver Flatware section](
 If your pieces lack clear markings, you may need to test whether they're genuinely sterling silver or silver-plated. Here are some commonly used methods:
 
 {{< interactive-modules/condition-checklist title="Silver Authentication Methods" description="Ways to verify if your flatware is genuine sterling silver" >}}
-{{< interactive-modules/checklist-item label="Magnet Test: Sterling silver is non-magnetic" / />}}
-{{< interactive-modules/checklist-item label="Ice Test: Sterling silver conducts heat efficiently, causing ice to melt faster" / />}}
-{{< interactive-modules/checklist-item label="Ring Test: Sterling produces a long, high-pitched ring when tapped" / />}}
-{{< interactive-modules/checklist-item label="Acid Test Kit: Professional testing solution that changes color based on silver content" / />}}
-{{< interactive-modules/checklist-item label="XRF Analysis: Professional testing method that provides exact metal composition" / />}}
+{{< interactive-modules/checklist-item label="Magnet Test: Sterling silver is non-magnetic" /  >}}
+{{< interactive-modules/checklist-item label="Ice Test: Sterling silver conducts heat efficiently, causing ice to melt faster" /  >}}
+{{< interactive-modules/checklist-item label="Ring Test: Sterling produces a long, high-pitched ring when tapped" /  >}}
+{{< interactive-modules/checklist-item label="Acid Test Kit: Professional testing solution that changes color based on silver content" /  >}}
+{{< interactive-modules/checklist-item label="XRF Analysis: Professional testing method that provides exact metal composition" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 For valuable pieces, it's always best to seek professional verification from a reputable antique dealer, appraiser, or assayer rather than relying solely on at-home tests.

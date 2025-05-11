@@ -129,7 +129,7 @@ The value of a vinyl record is determined by multiple factors:
 4. **Rarity**: Limited releases, promotional copies, or records with manufacturing errors can be worth more
 5. **Demand**: Current collector interest often fluctuates based on musical trends and artist relevance
 
-{{< data-modules/stats-highlight title="Key Vinyl Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Vinyl Market Statistics" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Which Records Are Most Valuable?" level="2" >}}
   Not all vinyl is created equal. Certain genres, artists, and time periods consistently yield higher values in the collector market.
@@ -219,13 +219,13 @@ To identify first pressings, look for:
 Condition is perhaps the single most crucial factor in determining vinyl value. The standard grading system includes:
 
 {{< interactive-modules/condition-checklist title="Vinyl Condition Grading Scale" description="Understand the standard grading terminology used by collectors and dealers" >}}
-  {{< interactive-modules/checklist-item label="Mint (M): Perfect condition, never played" / />}}
-  {{< interactive-modules/checklist-item label="Near Mint (NM): Almost perfect with minimal signs of handling" / />}}
-  {{< interactive-modules/checklist-item label="Excellent (E): Minor signs of use but still high quality" / />}}
-  {{< interactive-modules/checklist-item label="Very Good Plus (VG+): Some light marks but plays with minimal surface noise" / />}}
-  {{< interactive-modules/checklist-item label="Very Good (VG): Shows wear, may have some surface noise" / />}}
-  {{< interactive-modules/checklist-item label="Good (G): Plays through but with noticeable noise and wear" / />}}
-  {{< interactive-modules/checklist-item label="Poor (P): Barely playable with significant damage" / />}}
+  {{< interactive-modules/checklist-item label="Mint (M): Perfect condition, never played" /  >}}
+  {{< interactive-modules/checklist-item label="Near Mint (NM): Almost perfect with minimal signs of handling" /  >}}
+  {{< interactive-modules/checklist-item label="Excellent (E): Minor signs of use but still high quality" /  >}}
+  {{< interactive-modules/checklist-item label="Very Good Plus (VG+): Some light marks but plays with minimal surface noise" /  >}}
+  {{< interactive-modules/checklist-item label="Very Good (VG): Shows wear, may have some surface noise" /  >}}
+  {{< interactive-modules/checklist-item label="Good (G): Plays through but with noticeable noise and wear" /  >}}
+  {{< interactive-modules/checklist-item label="Poor (P): Barely playable with significant damage" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to Rough Trade's valuation guide, condition can make a tremendous difference in value—a record in mint condition might be worth 5-10 times more than the same record in good condition. For example, a record that might fetch $200 in near mint condition could be worth just $20-40 in good condition.

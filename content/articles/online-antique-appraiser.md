@@ -133,7 +133,7 @@ The typical online antique appraisal process follows several key steps:
 
 Most online appraisal services employ experts with backgrounds from major auction houses like Sotheby's and Christie's, ensuring professional-level expertise despite the digital format. For example, [ValueMyStuff](https://www.valuemystuff.com/us) boasts over 60 experts formerly of these prestigious auction houses.
 
-{{< data-modules/stats-highlight title="Online Antique Appraisal Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Online Antique Appraisal Statistics" columns="3" / /  >}}
 <tr>
   <td>24-48 hours</td>
   <td>Average response time</td>
@@ -266,12 +266,12 @@ Many online platforms employ experts who previously worked with prestigious auct
 Online appraisal reports are typically delivered as digital documents, making them easy to store, share with insurance companies, or forward to potential buyers. This organized documentation can be valuable for estate planning and record-keeping purposes.
 
 {{< interactive-modules/condition-checklist title="Is Your Item Ready for Online Appraisal?" description="Check all applicable items to determine if your antique is properly prepared for digital valuation" >}}
-  {{< interactive-modules/checklist-item label="Clear photos from multiple angles are available" / />}}
-  {{< interactive-modules/checklist-item label="Close-up images of signatures, marks, or damage are ready" / />}}
-  {{< interactive-modules/checklist-item label="Measurements and dimensions are recorded" / />}}
-  {{< interactive-modules/checklist-item label="Known history or provenance is documented" / />}}
-  {{< interactive-modules/checklist-item label="Any restoration or repairs have been noted" / />}}
-  {{< interactive-modules/checklist-item label="Original paperwork or certificates are photographed" / />}}
+  {{< interactive-modules/checklist-item label="Clear photos from multiple angles are available" /  >}}
+  {{< interactive-modules/checklist-item label="Close-up images of signatures, marks, or damage are ready" /  >}}
+  {{< interactive-modules/checklist-item label="Measurements and dimensions are recorded" /  >}}
+  {{< interactive-modules/checklist-item label="Known history or provenance is documented" /  >}}
+  {{< interactive-modules/checklist-item label="Any restoration or repairs have been noted" /  >}}
+  {{< interactive-modules/checklist-item label="Original paperwork or certificates are photographed" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Limitations of Online Antique Appraisals" level="2" >}}

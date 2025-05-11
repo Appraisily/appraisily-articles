@@ -163,7 +163,7 @@ Antique jewelry requires specialized knowledge to accurately assess. Unlike mode
 
 A professional appraisal provides multiple benefits:
 
-{{< data-modules/stats-highlight title="Benefits of Professional Jewelry Appraisal" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Benefits of Professional Jewelry Appraisal" columns="3" / /  >}}
 
 - **Insurance Coverage**: Most insurance companies require professional appraisals for adequate coverage
 - **Estate Planning**: Accurate valuations ensure fair distribution of assets
@@ -220,12 +220,12 @@ For particularly rare or historically significant pieces:
 Not all jewelry appraisers have specific expertise in antique and vintage pieces. When seeking an appraiser for your heirloom jewelry, look for these important credentials and qualifications:
 
 {{< interactive-modules/condition-checklist title="Essential Appraiser Credentials" description="Look for these qualifications when selecting an antique jewelry appraiser" >}}
-  {{< interactive-modules/checklist-item label="Graduate Gemologist (GG) diploma from GIA (Gemological Institute of America)" / />}}
-  {{< interactive-modules/checklist-item label="Membership in professional organizations like NAJA, ISA, or AGS" / />}}
-  {{< interactive-modules/checklist-item label="Specialization or additional training in antique and period jewelry" / />}}
-  {{< interactive-modules/checklist-item label="Experience with the specific era of your jewelry (Victorian, Art Deco, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Independent status (not primarily a jewelry seller)" / />}}
-  {{< interactive-modules/checklist-item label="Regular continuing education in gemology and appraisal methods" / />}}
+  {{< interactive-modules/checklist-item label="Graduate Gemologist (GG) diploma from GIA (Gemological Institute of America)" /  >}}
+  {{< interactive-modules/checklist-item label="Membership in professional organizations like NAJA, ISA, or AGS" /  >}}
+  {{< interactive-modules/checklist-item label="Specialization or additional training in antique and period jewelry" /  >}}
+  {{< interactive-modules/checklist-item label="Experience with the specific era of your jewelry (Victorian, Art Deco, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Independent status (not primarily a jewelry seller)" /  >}}
+  {{< interactive-modules/checklist-item label="Regular continuing education in gemology and appraisal methods" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 A qualified antique jewelry appraiser should be able to:

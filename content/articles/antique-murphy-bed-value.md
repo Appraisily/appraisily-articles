@@ -163,7 +163,7 @@ An antique Murphy bed with all its original components intact is worth considera
 - Accompanying headboard or footboard (if the original design included them)
 - Integrated features like lighting or storage compartments
 
-{{< data-modules/stats-highlight title="Key Value Indicators" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Indicators" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Current Market Values" level="2" >}}
 Understanding the price ranges for antique Murphy beds can help both sellers set realistic expectations and buyers make informed purchasing decisions.
@@ -278,14 +278,14 @@ Look for natural aging that's difficult to fake:
 - Minor repairs that match the period
 
 {{< interactive-modules/condition-checklist title="Antique Murphy Bed Authentication Checklist" description="Use this checklist to assess whether a Murphy bed is genuinely antique" >}}
-  {{< interactive-modules/checklist-item label="Patent markings from 1908-1925" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate wood (quarter-sawn oak, mahogany, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Hand-cut joinery (dovetails, mortise-and-tenon)" / />}}
-  {{< interactive-modules/checklist-item label="Cast iron or brass hardware with appropriate patina" / />}}
-  {{< interactive-modules/checklist-item label="Design elements consistent with 1900-1940 styles" / />}}
-  {{< interactive-modules/checklist-item label="Original finish or period-appropriate refinishing" / />}}
-  {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age and use" / />}}
-  {{< interactive-modules/checklist-item label="Murphy Door Bed Company or similar manufacturer markings" / />}}
+  {{< interactive-modules/checklist-item label="Patent markings from 1908-1925" /  >}}
+  {{< interactive-modules/checklist-item label="Period-appropriate wood (quarter-sawn oak, mahogany, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-cut joinery (dovetails, mortise-and-tenon)" /  >}}
+  {{< interactive-modules/checklist-item label="Cast iron or brass hardware with appropriate patina" /  >}}
+  {{< interactive-modules/checklist-item label="Design elements consistent with 1900-1940 styles" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish or period-appropriate refinishing" /  >}}
+  {{< interactive-modules/checklist-item label="Natural wear patterns consistent with age and use" /  >}}
+  {{< interactive-modules/checklist-item label="Murphy Door Bed Company or similar manufacturer markings" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Restoration Considerations" level="2" >}}

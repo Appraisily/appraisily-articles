@@ -88,7 +88,7 @@ The first step in valuing artwork is determining its authenticity. An authentic 
 
 Next comes evaluating the artwork's condition. Even minor damage can significantly impact value. Look for tears, discoloration, fading, or restoration work. While some restoration can be done skillfully, excessive or poor-quality restoration can decrease a piece's value.
 
-{{< data-modules/stats-highlight title="Key Factors Influencing Artwork Value" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Factors Influencing Artwork Value" columns="3" / /  >}}
   <div>
     <span class="highlight-stat">70%</span>
     <p class="stat-label">Artist Reputation</p>
@@ -116,11 +116,11 @@ According to [Austin Galleries](https://www.austingalleries.com/post/how-to-tell
 To identify an original painting:
 
 {{< interactive-modules/condition-checklist title="Original Artwork Identification" description="Check these indicators to determine if your piece is an original:" >}}
-  {{< interactive-modules/checklist-item label="Visible brush strokes or palette knife marks on the surface" / />}}
-  {{< interactive-modules/checklist-item label="Texture that varies across the surface of the artwork" / />}}
-  {{< interactive-modules/checklist-item label="Uneven paint application with thicker areas" / />}}
-  {{< interactive-modules/checklist-item label="No dot patterns when examined with a magnifying glass" / />}}
-  {{< interactive-modules/checklist-item label="Artist's signature in the same medium as the artwork" / />}}
+  {{< interactive-modules/checklist-item label="Visible brush strokes or palette knife marks on the surface" /  >}}
+  {{< interactive-modules/checklist-item label="Texture that varies across the surface of the artwork" /  >}}
+  {{< interactive-modules/checklist-item label="Uneven paint application with thicker areas" /  >}}
+  {{< interactive-modules/checklist-item label="No dot patterns when examined with a magnifying glass" /  >}}
+  {{< interactive-modules/checklist-item label="Artist's signature in the same medium as the artwork" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 For prints, look for:
@@ -286,16 +286,16 @@ While professional appraisal is recommended for potentially valuable artwork, yo
 Before investing in a professional appraisal, use this checklist to gather information and make an initial assessment of your artwork's potential value:
 
 {{< interactive-modules/condition-checklist title="Artwork Value Assessment Checklist" description="Complete these steps to conduct a preliminary evaluation of your artwork:" >}}
-  {{< interactive-modules/checklist-item label="Identify the artist by looking for signatures, monograms, or stamps" / />}}
-  {{< interactive-modules/checklist-item label="Determine if the work is an original or reproduction" / />}}
-  {{< interactive-modules/checklist-item label="Measure the artwork's dimensions (height × width)" / />}}
-  {{< interactive-modules/checklist-item label="Assess the overall condition, noting any damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Photograph the front, back, signature, and any labels or markings" / />}}
-  {{< interactive-modules/checklist-item label="Research the artist's sales history using online databases" / />}}
-  {{< interactive-modules/checklist-item label="Gather any provenance documentation you have" / />}}
-  {{< interactive-modules/checklist-item label="Check for edition numbers on prints" / />}}
-  {{< interactive-modules/checklist-item label="Research comparable works that have sold recently" / />}}
-  {{< interactive-modules/checklist-item label="Consider the subject matter and its relevance to the artist's body of work" / />}}
+  {{< interactive-modules/checklist-item label="Identify the artist by looking for signatures, monograms, or stamps" /  >}}
+  {{< interactive-modules/checklist-item label="Determine if the work is an original or reproduction" /  >}}
+  {{< interactive-modules/checklist-item label="Measure the artwork's dimensions (height × width)" /  >}}
+  {{< interactive-modules/checklist-item label="Assess the overall condition, noting any damage or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Photograph the front, back, signature, and any labels or markings" /  >}}
+  {{< interactive-modules/checklist-item label="Research the artist's sales history using online databases" /  >}}
+  {{< interactive-modules/checklist-item label="Gather any provenance documentation you have" /  >}}
+  {{< interactive-modules/checklist-item label="Check for edition numbers on prints" /  >}}
+  {{< interactive-modules/checklist-item label="Research comparable works that have sold recently" /  >}}
+  {{< interactive-modules/checklist-item label="Consider the subject matter and its relevance to the artist's body of work" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Following these steps will help you gather the essential information needed to either make an educated estimate of your artwork's value or provide a professional appraiser with the details they need for a more accurate assessment.

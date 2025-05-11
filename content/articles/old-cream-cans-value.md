@@ -145,14 +145,14 @@ Cream cans were produced in various sizes, typically measured in gallons:
 Distinctive regional styles and unusual design features can increase value significantly. For example, European milk cans often feature different proportions and handle designs compared to their American counterparts.
 
 {{< interactive-modules/condition-checklist title="Identification Checklist" description="Use this checklist to assess key identification elements of vintage cream cans" >}}
-  {{< interactive-modules/checklist-item label="Check for manufacturer markings on base and lid" / />}}
-  {{< interactive-modules/checklist-item label="Look for dairy names painted or stamped on sides" / />}}
-  {{< interactive-modules/checklist-item label="Examine handle attachment style (riveted vs. welded)" / />}}
-  {{< interactive-modules/checklist-item label="Identify material composition (copper, steel, aluminum)" / />}}
-  {{< interactive-modules/checklist-item label="Measure exact capacity (typically 2-10 gallons)" / />}}
-  {{< interactive-modules/checklist-item label="Note any unique regional design features" / />}}
-  {{< interactive-modules/checklist-item label="Inspect seams for hand-soldering vs. machine welding" / />}}
-  {{< interactive-modules/checklist-item label="Check for patent dates or numbers" / />}}
+  {{< interactive-modules/checklist-item label="Check for manufacturer markings on base and lid" /  >}}
+  {{< interactive-modules/checklist-item label="Look for dairy names painted or stamped on sides" /  >}}
+  {{< interactive-modules/checklist-item label="Examine handle attachment style (riveted vs. welded)" /  >}}
+  {{< interactive-modules/checklist-item label="Identify material composition (copper, steel, aluminum)" /  >}}
+  {{< interactive-modules/checklist-item label="Measure exact capacity (typically 2-10 gallons)" /  >}}
+  {{< interactive-modules/checklist-item label="Note any unique regional design features" /  >}}
+  {{< interactive-modules/checklist-item label="Inspect seams for hand-soldering vs. machine welding" /  >}}
+  {{< interactive-modules/checklist-item label="Check for patent dates or numbers" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Dating Old Milk and Cream Cans" level="2" >}}
@@ -189,7 +189,7 @@ The evolution of dairy farming practices provides a broader context for dating:
 
 ![Close-up of maker's mark and patent date on an antique milk can](https://ik.imagekit.io/appraisily/SEO/old-cream-cans-value/old-cream-cans-value-image-4_qRbmPWCeN.png)
 
-{{< data-modules/stats-highlight title="Key Facts About Dating Milk Cans" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Facts About Dating Milk Cans" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Assessing Condition and Authenticity" level="2" >}}
   The condition of a vintage cream can significantly impacts its value, with original features and finishes commanding premium prices.
@@ -230,14 +230,14 @@ When assessing cream can condition, pay particular attention to:
 5. **Previous repairs**: Look for evidence of soldering, welding, or other restoration work
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Tool" description="Evaluate the condition of your vintage cream can with this checklist" >}}
-  {{< interactive-modules/checklist-item label="Original finish mostly intact with natural patina" / />}}
-  {{< interactive-modules/checklist-item label="Original matching lid present" / />}}
-  {{< interactive-modules/checklist-item label="No significant dents or structural damage" / />}}
-  {{< interactive-modules/checklist-item label="Handles and fittings secure and functional" / />}}
-  {{< interactive-modules/checklist-item label="Minimal surface rust with no perforation" / />}}
-  {{< interactive-modules/checklist-item label="Clean interior without excessive corrosion" / />}}
-  {{< interactive-modules/checklist-item label="No replacement parts or modern repairs" / />}}
-  {{< interactive-modules/checklist-item label="Legible markings or dairy identification" / />}}
+  {{< interactive-modules/checklist-item label="Original finish mostly intact with natural patina" /  >}}
+  {{< interactive-modules/checklist-item label="Original matching lid present" /  >}}
+  {{< interactive-modules/checklist-item label="No significant dents or structural damage" /  >}}
+  {{< interactive-modules/checklist-item label="Handles and fittings secure and functional" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal surface rust with no perforation" /  >}}
+  {{< interactive-modules/checklist-item label="Clean interior without excessive corrosion" /  >}}
+  {{< interactive-modules/checklist-item label="No replacement parts or modern repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Legible markings or dairy identification" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for Vintage Cream Cans" level="2" >}}

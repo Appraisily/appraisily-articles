@@ -122,7 +122,7 @@ Understanding why expert evaluation is crucial for rare coin collectors and sell
 
 When it comes to rare coins, values can vary dramatically based on subtle factors that only trained experts can properly assess. Professional appraisals matter for several important reasons:
 
-{{< data-modules/stats-highlight title="Key Benefits of Professional Coin Appraisals" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Benefits of Professional Coin Appraisals" columns="3" / /  >}}
 
 1. **Accurate Valuation**: Amateur evaluations often miss critical details that can significantly impact a coin's worth. Professional numismatists have the expertise to identify valuable varieties, rare mint errors, and condition issues that might not be obvious to untrained eyes.
 
@@ -173,14 +173,14 @@ Before contacting any coin appraiser:
 3. **Check Specializations**: Some appraisers specialize in particular eras or types of coins. Find someone with expertise relevant to your collection.
 
 {{< interactive-modules/condition-checklist title="Coin Appraiser Vetting Checklist" description="Use this checklist when evaluating potential appraisers" >}}
-{{< interactive-modules/checklist-item label="Member of professional numismatic organizations (ANA, PNG)" / />}}
-{{< interactive-modules/checklist-item label="Positive reviews and references from other collectors" / />}}
-{{< interactive-modules/checklist-item label="Years of experience in numismatics" / />}}
-{{< interactive-modules/checklist-item label="Transparent about appraisal fees and process" / />}}
-{{< interactive-modules/checklist-item label="Maintains updated reference materials and price guides" / />}}
-{{< interactive-modules/checklist-item label="Has experience with coins similar to yours" / />}}
-{{< interactive-modules/checklist-item label="Provides detailed written appraisals" / />}}
-{{< interactive-modules/checklist-item label="No pressure to sell your coins to them" / />}}
+{{< interactive-modules/checklist-item label="Member of professional numismatic organizations (ANA, PNG)" /  >}}
+{{< interactive-modules/checklist-item label="Positive reviews and references from other collectors" /  >}}
+{{< interactive-modules/checklist-item label="Years of experience in numismatics" /  >}}
+{{< interactive-modules/checklist-item label="Transparent about appraisal fees and process" /  >}}
+{{< interactive-modules/checklist-item label="Maintains updated reference materials and price guides" /  >}}
+{{< interactive-modules/checklist-item label="Has experience with coins similar to yours" /  >}}
+{{< interactive-modules/checklist-item label="Provides detailed written appraisals" /  >}}
+{{< interactive-modules/checklist-item label="No pressure to sell your coins to them" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Collection of rare coins displayed for professional appraisal](https://ik.imagekit.io/appraisily/SEO/rare-coin-appraisal-near-me/rare-coin-appraisal-near-me-image-3_3CelFi1o_.png)

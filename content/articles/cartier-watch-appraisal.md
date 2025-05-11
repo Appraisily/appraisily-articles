@@ -100,7 +100,7 @@ Cartier watches represent the pinnacle of luxury timepieces, combining exquisite
 A professional Cartier watch appraisal serves multiple purposes beyond simply determining monetary value. Understanding why and when to seek an appraisal can help protect your investment and provide peace of mind.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Benefits of Professional Cartier Watch Appraisal" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Benefits of Professional Cartier Watch Appraisal" columns="3" / /  >}}
 
 - **Insurance Documentation**: Secure proper coverage based on accurate valuation
 - **Resale Planning**: Understand current market value before selling
@@ -154,12 +154,12 @@ The materials used in crafting a Cartier watch significantly impact its value. P
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Material Value Assessment" description="Elements that increase a Cartier watch's value" >}}
-  {{< interactive-modules/checklist-item label="18K gold case and bracelet" / />}}
-  {{< interactive-modules/checklist-item label="Genuine diamonds or precious gemstones" / />}}
-  {{< interactive-modules/checklist-item label="Platinum components" / />}}
-  {{< interactive-modules/checklist-item label="In-house Cartier movement" / />}}
-  {{< interactive-modules/checklist-item label="Original sapphire crystal intact" / />}}
-  {{< interactive-modules/checklist-item label="Specialized finishing techniques" / />}}
+  {{< interactive-modules/checklist-item label="18K gold case and bracelet" /  >}}
+  {{< interactive-modules/checklist-item label="Genuine diamonds or precious gemstones" /  >}}
+  {{< interactive-modules/checklist-item label="Platinum components" /  >}}
+  {{< interactive-modules/checklist-item label="In-house Cartier movement" /  >}}
+  {{< interactive-modules/checklist-item label="Original sapphire crystal intact" /  >}}
+  {{< interactive-modules/checklist-item label="Specialized finishing techniques" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Age and Rarity" level="3" >}}
@@ -189,20 +189,20 @@ The condition of a Cartier watch is perhaps the most critical factor in determin
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Condition Factors Examined During Appraisal" description="Elements that appraisers evaluate" >}}
-  {{< interactive-modules/checklist-item label="Case integrity and polish" / />}}
-  {{< interactive-modules/checklist-item label="Dial condition (no fading, spotting, or damage)" / />}}
-  {{< interactive-modules/checklist-item label="Movement functionality and service history" / />}}
-  {{< interactive-modules/checklist-item label="Original bracelet condition" / />}}
-  {{< interactive-modules/checklist-item label="Crystal clarity (no scratches or cracks)" / />}}
-  {{< interactive-modules/checklist-item label="Crown and pusher functionality" / />}}
-  {{< interactive-modules/checklist-item label="Original finishing intact" / />}}
+  {{< interactive-modules/checklist-item label="Case integrity and polish" /  >}}
+  {{< interactive-modules/checklist-item label="Dial condition (no fading, spotting, or damage)" /  >}}
+  {{< interactive-modules/checklist-item label="Movement functionality and service history" /  >}}
+  {{< interactive-modules/checklist-item label="Original bracelet condition" /  >}}
+  {{< interactive-modules/checklist-item label="Crystal clarity (no scratches or cracks)" /  >}}
+  {{< interactive-modules/checklist-item label="Crown and pusher functionality" /  >}}
+  {{< interactive-modules/checklist-item label="Original finishing intact" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Provenance and Documentation" level="3" >}}
 A complete set of original documentation significantly enhances a Cartier watch's value. Original box, papers, warranty cards, and service history all contribute to a higher appraisal value.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Impact of Documentation" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Impact of Documentation" columns="3" / /  >}}
 
 - **15-30%**: Average value increase for Cartier watches with complete original documentation
 - **5-10%**: Typical premium for watches with verified service history
@@ -266,13 +266,13 @@ Authentication is a critical component of the appraisal process. Counterfeit Car
 ![Close examination of Cartier watch details for authentication](https://ik.imagekit.io/appraisily/SEO/cartier-watch-appraisal/cartier-watch-appraisal-image-5__6so9460w.png)
 
 {{< interactive-modules/condition-checklist title="Authenticating Your Cartier Watch" description="Key elements examiners look for during authentication" >}}
-  {{< interactive-modules/checklist-item label="Precise engraving of the Cartier logo" / />}}
-  {{< interactive-modules/checklist-item label="Proper serial number format and placement" / />}}
-  {{< interactive-modules/checklist-item label="Correct fonts on dial and caseback" / />}}
-  {{< interactive-modules/checklist-item label="Quality of materials and finishing" / />}}
-  {{< interactive-modules/checklist-item label="Authentic movement with proper markings" / />}}
-  {{< interactive-modules/checklist-item label="Precise crown with sapphire cabochon" / />}}
-  {{< interactive-modules/checklist-item label="Correct weight and feel" / />}}
+  {{< interactive-modules/checklist-item label="Precise engraving of the Cartier logo" /  >}}
+  {{< interactive-modules/checklist-item label="Proper serial number format and placement" /  >}}
+  {{< interactive-modules/checklist-item label="Correct fonts on dial and caseback" /  >}}
+  {{< interactive-modules/checklist-item label="Quality of materials and finishing" /  >}}
+  {{< interactive-modules/checklist-item label="Authentic movement with proper markings" /  >}}
+  {{< interactive-modules/checklist-item label="Precise crown with sapphire cabochon" /  >}}
+  {{< interactive-modules/checklist-item label="Correct weight and feel" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Professional appraisers use specialized equipment including:
@@ -325,13 +325,13 @@ Taking specific steps before submitting your Cartier watch for appraisal can hel
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Pre-Appraisal Checklist" description="Steps to prepare your Cartier watch for professional evaluation" >}}
-  {{< interactive-modules/checklist-item label="Gather all original documentation (box, papers, warranty card, receipts)" / />}}
-  {{< interactive-modules/checklist-item label="Compile service history records" / />}}
-  {{< interactive-modules/checklist-item label="Clean the watch gently (no harsh chemicals)" / />}}
-  {{< interactive-modules/checklist-item label="Take clear photographs from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Note any known issues or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Research recent sales of similar models" / />}}
-  {{< interactive-modules/checklist-item label="Prepare information about provenance if relevant" / />}}
+  {{< interactive-modules/checklist-item label="Gather all original documentation (box, papers, warranty card, receipts)" /  >}}
+  {{< interactive-modules/checklist-item label="Compile service history records" /  >}}
+  {{< interactive-modules/checklist-item label="Clean the watch gently (no harsh chemicals)" /  >}}
+  {{< interactive-modules/checklist-item label="Take clear photographs from multiple angles" /  >}}
+  {{< interactive-modules/checklist-item label="Note any known issues or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Research recent sales of similar models" /  >}}
+  {{< interactive-modules/checklist-item label="Prepare information about provenance if relevant" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Avoid these common mistakes:

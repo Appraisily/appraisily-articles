@@ -101,7 +101,7 @@ Online antique valuation is a service that allows collectors, inheritors, and se
 
 The process typically involves uploading clear photos of your item from multiple angles, providing detailed information about its condition, provenance, and any identifying marks, and submitting this information to a valuation service. Within hours or days, you'll receive a professional assessment of your item's value, often with supporting information about its history and marketability.
 
-{{< data-modules/stats-highlight title="Online Antique Valuation by the Numbers" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Online Antique Valuation by the Numbers" columns="3" / /  >}}
 - 85% of appraisers now offer some form of online valuation service
 - 24-48 hours average turnaround time for most online valuations
 - 60+ categories of antiques and collectibles can be valued virtually
@@ -265,14 +265,14 @@ The quality of information you provide directly impacts the accuracy of your onl
 Capturing high-quality images is perhaps the most critical aspect of online antique valuation. Appraisers rely entirely on your photos to assess condition, authenticity, and craftsmanship.
 
 {{< interactive-modules/condition-checklist title="Photography Checklist for Online Valuations" description="Follow these guidelines to capture optimal images for your appraisal" >}}
-  {{< interactive-modules/checklist-item label="Use natural, diffused light (avoid harsh direct sunlight or flash)" / />}}
-  {{< interactive-modules/checklist-item label="Photograph against a neutral background (white, gray, or black)" / />}}
-  {{< interactive-modules/checklist-item label="Include a ruler or coin for scale in at least one photo" / />}}
-  {{< interactive-modules/checklist-item label="Capture all sides, including bottom and back" / />}}
-  {{< interactive-modules/checklist-item label="Take close-ups of signatures, marks, and hallmarks" / />}}
-  {{< interactive-modules/checklist-item label="Document any damage, repairs, or restorations" / />}}
-  {{< interactive-modules/checklist-item label="Ensure photos are in focus and well-lit" / />}}
-  {{< interactive-modules/checklist-item label="Include at least 5-10 photos per item" / />}}
+  {{< interactive-modules/checklist-item label="Use natural, diffused light (avoid harsh direct sunlight or flash)" /  >}}
+  {{< interactive-modules/checklist-item label="Photograph against a neutral background (white, gray, or black)" /  >}}
+  {{< interactive-modules/checklist-item label="Include a ruler or coin for scale in at least one photo" /  >}}
+  {{< interactive-modules/checklist-item label="Capture all sides, including bottom and back" /  >}}
+  {{< interactive-modules/checklist-item label="Take close-ups of signatures, marks, and hallmarks" /  >}}
+  {{< interactive-modules/checklist-item label="Document any damage, repairs, or restorations" /  >}}
+  {{< interactive-modules/checklist-item label="Ensure photos are in focus and well-lit" /  >}}
+  {{< interactive-modules/checklist-item label="Include at least 5-10 photos per item" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Information to Include with Your Submission

@@ -122,7 +122,7 @@ An antique appraisal is a professional assessment of an item's value based on it
 
 Appraisals serve multiple purposes beyond simple curiosity. They provide documentation for insurance coverage, establish fair market value for sales or tax purposes, verify authenticity, and offer insights into an item's historical and cultural significance. In some cases, they can reveal surprising value in objects you might have overlooked.
 
-{{< data-modules/stats-highlight title="Key Antique Appraisal Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Antique Appraisal Facts" columns="3" / /  >}}
   <tr>
     <td>50+ years</td>
     <td>Generally considered minimum age for "antique" status</td>
@@ -231,12 +231,12 @@ Preparation is key to a successful appraisal. Gather any documentation you have 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Pre-Appraisal Preparation Checklist" description="Complete these steps before meeting with an appraiser" >}}
-  {{< interactive-modules/checklist-item label="Research your appraiser's credentials and specialization" / />}}
-  {{< interactive-modules/checklist-item label="Gather all documentation and provenance information" / />}}
-  {{< interactive-modules/checklist-item label="Take clear photographs of your items from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Make a list of questions you want to ask" / />}}
-  {{< interactive-modules/checklist-item label="Understand the fee structure and get a written estimate" / />}}
-  {{< interactive-modules/checklist-item label="Clean items gently (but avoid repairs or restoration)" / />}}
+  {{< interactive-modules/checklist-item label="Research your appraiser's credentials and specialization" /  >}}
+  {{< interactive-modules/checklist-item label="Gather all documentation and provenance information" /  >}}
+  {{< interactive-modules/checklist-item label="Take clear photographs of your items from multiple angles" /  >}}
+  {{< interactive-modules/checklist-item label="Make a list of questions you want to ask" /  >}}
+  {{< interactive-modules/checklist-item label="Understand the fee structure and get a written estimate" /  >}}
+  {{< interactive-modules/checklist-item label="Clean items gently (but avoid repairs or restoration)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="During the Appraisal" level="3" >}}
@@ -420,7 +420,7 @@ Market values fluctuate based on trends, collector interests, and economic condi
 
 Understanding what impacts an item's worth can help you better prepare for an appraisal and set realistic expectations.
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / /  >}}
   <tr>
     <td>Rarity</td>
     <td>Scarcity dramatically affects value; common items command lower prices</td>
@@ -479,11 +479,11 @@ Mark your calendar for reappraisal every 3-5 years or after significant market c
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Post-Appraisal Checklist" description="Essential steps after receiving your appraisal report" >}}
-  {{< interactive-modules/checklist-item label="Review the appraisal for accuracy and completeness" / />}}
-  {{< interactive-modules/checklist-item label="Update insurance coverage with your provider" / />}}
-  {{< interactive-modules/checklist-item label="Create digital and physical copies of the appraisal document" / />}}
-  {{< interactive-modules/checklist-item label="Organize provenance documentation with the appraisal" / />}}
-  {{< interactive-modules/checklist-item label="Add reappraisal date to your calendar (3-5 years)" / />}}
+  {{< interactive-modules/checklist-item label="Review the appraisal for accuracy and completeness" /  >}}
+  {{< interactive-modules/checklist-item label="Update insurance coverage with your provider" /  >}}
+  {{< interactive-modules/checklist-item label="Create digital and physical copies of the appraisal document" /  >}}
+  {{< interactive-modules/checklist-item label="Organize provenance documentation with the appraisal" /  >}}
+  {{< interactive-modules/checklist-item label="Add reappraisal date to your calendar (3-5 years)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## FAQs About Antique Appraisals

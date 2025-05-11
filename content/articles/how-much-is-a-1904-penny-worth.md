@@ -118,7 +118,7 @@ In 1904, the Philadelphia Mint struck 61,328,284 Indian Head pennies for general
 
 Today, these historic coins vary significantly in value based on condition, rarity, and specific varieties. Let's explore what makes the 1904 Indian Head penny valuable and how much yours might be worth in today's market.
 
-{{< data-modules/stats-highlight title="Key 1904 Indian Head Penny Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key 1904 Indian Head Penny Statistics" columns="3" / /  >}}
 <tr>
   <td>Mintage</td>
   <td>61,328,284</td>
@@ -297,14 +297,14 @@ Late die state examples may show raised lines (die cracks) or missing sections o
 When a coin isn't properly centered during striking, part of the design can be missing. 1904 pennies struck 5-10% off-center might bring $50-$100, while those 20% or more off-center can command $200-$500 depending on condition and whether the date is visible.
 
 {{< interactive-modules/condition-checklist title="1904 Indian Head Penny Authentication Checklist" description="Use this checklist to help determine if your 1904 penny is genuine and assess its condition" >}}
-  {{< interactive-modules/checklist-item label="Coin weight is approximately 3.11 grams" / />}}
-  {{< interactive-modules/checklist-item label="Diameter measures 19mm exactly" / />}}
-  {{< interactive-modules/checklist-item label="Design details match known authentic examples" / />}}
-  {{< interactive-modules/checklist-item label="Date numerals have proper shape and positioning" / />}}
-  {{< interactive-modules/checklist-item label="Coin has expected copper-bronze color (not silver or gold)" / />}}
-  {{< interactive-modules/checklist-item label="Liberty's headdress feathers show appropriate detail for grade" / />}}
-  {{< interactive-modules/checklist-item label="Reverse wreath has clear definition between leaves" / />}}
-  {{< interactive-modules/checklist-item label="No signs of tooling or artificial aging" / />}}
+  {{< interactive-modules/checklist-item label="Coin weight is approximately 3.11 grams" /  >}}
+  {{< interactive-modules/checklist-item label="Diameter measures 19mm exactly" /  >}}
+  {{< interactive-modules/checklist-item label="Design details match known authentic examples" /  >}}
+  {{< interactive-modules/checklist-item label="Date numerals have proper shape and positioning" /  >}}
+  {{< interactive-modules/checklist-item label="Coin has expected copper-bronze color (not silver or gold)" /  >}}
+  {{< interactive-modules/checklist-item label="Liberty's headdress feathers show appropriate detail for grade" /  >}}
+  {{< interactive-modules/checklist-item label="Reverse wreath has clear definition between leaves" /  >}}
+  {{< interactive-modules/checklist-item label="No signs of tooling or artificial aging" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Historical Context of the 1904 Indian Head Penny" level="2" >}}

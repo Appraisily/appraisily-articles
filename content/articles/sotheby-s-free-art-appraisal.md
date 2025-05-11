@@ -57,12 +57,12 @@ According to Sotheby's own [help center](https://help.sothebys.com/en/support/so
 
 This means that while submitting your item for assessment doesn't cost anything, not all items will receive an estimate. Sotheby's specialists focus on pieces that meet their auction thresholds and align with their sales categories.
 
-{{< data-modules/stats-highlight title="Sotheby's Valuation Service Key Facts" columns="3" / />}}
-{{< data-modules/stat-card value="1744" label="Founded" color="blue" description="Sotheby's has centuries of art market expertise" / />}}
+{{< data-modules/stats-highlight title="Sotheby's Valuation Service Key Facts" columns="3" /  >}}
+{{< data-modules/stat-card value="1744" label="Founded" color="blue" description="Sotheby's has centuries of art market expertise" /  >}}
 
-{{< data-modules/stat-card value="$0" label="Initial Submission" color="green" description="No cost to submit items for potential valuation" / />}}
+{{< data-modules/stat-card value="$0" label="Initial Submission" color="green" description="No cost to submit items for potential valuation" /  >}}
 
-{{< data-modules/stat-card value="40+" label="Categories" color="purple" description="Broad range of collectible categories evaluated" / />}}
+{{< data-modules/stat-card value="40+" label="Categories" color="purple" description="Broad range of collectible categories evaluated" /  >}}
 
 ## How to Submit Art for Sotheby's Free Valuation
 
@@ -84,12 +84,12 @@ When photographing your artwork, ensure you capture:
 - Any framing, mounting, or display elements
 
 {{< interactive-modules/condition-checklist title="Sotheby's Submission Checklist" description="Ensure you have these elements ready before submitting" >}}
-  {{< interactive-modules/checklist-item label="Clear, well-lit photographs from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Images of signatures, markings, or labels" / />}}
-  {{< interactive-modules/checklist-item label="Information about the artist or creator" / />}}
-  {{< interactive-modules/checklist-item label="Known provenance or ownership history" / />}}
-  {{< interactive-modules/checklist-item label="Dimensions and medium details" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of authenticity (if available)" / />}}
+  {{< interactive-modules/checklist-item label="Clear, well-lit photographs from multiple angles" /  >}}
+  {{< interactive-modules/checklist-item label="Images of signatures, markings, or labels" /  >}}
+  {{< interactive-modules/checklist-item label="Information about the artist or creator" /  >}}
+  {{< interactive-modules/checklist-item label="Known provenance or ownership history" /  >}}
+  {{< interactive-modules/checklist-item label="Dimensions and medium details" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation of authenticity (if available)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to their [valuations page](https://www.sothebys.com/en/about/services/valuations), Sotheby's experts review submissions and respond with preliminary guidance if they determine your item meets their auction criteria. Response times vary based on volume and complexity, but they generally aim to respond within a few weeks.

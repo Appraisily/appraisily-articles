@@ -132,7 +132,7 @@ Antique postcards can range from common items worth just a few dollars to rare t
 
 Postcards first gained widespread popularity in the late 19th century, with the "Golden Age" of postcards spanning approximately 1905-1915. During this period, postcards became the social media of their day—a quick, inexpensive way to share messages, images, and experiences.
 
-{{< data-modules/stats-highlight title="Antique Postcard Market Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Postcard Market Facts" columns="3" / /  >}}
 
 Several factors can significantly impact the value of antique postcards:
 
@@ -277,14 +277,14 @@ To use eBay effectively for valuation, search for postcards similar to yours, th
 This platform is especially valuable for European postcards and provides excellent comparative data for valuation purposes.
 
 {{< interactive-modules/condition-checklist title="Antique Postcard Condition Assessment Checklist" description="Check all characteristics that apply to your postcard to determine its condition grade" >}}
-  {{< interactive-modules/checklist-item label="No corner wear or bends (corners are sharp)" / />}}
-  {{< interactive-modules/checklist-item label="No creases, even minor ones" / />}}
-  {{< interactive-modules/checklist-item label="Original coloring with no fading" / />}}
-  {{< interactive-modules/checklist-item label="No writing or postmarks (unless a used card)" / />}}
-  {{< interactive-modules/checklist-item label="No stains, discoloration, or foxing" / />}}
-  {{< interactive-modules/checklist-item label="No paper loss or thinning" / />}}
-  {{< interactive-modules/checklist-item label="No tape, glue residue, or album mounting damage" / />}}
-  {{< interactive-modules/checklist-item label="Original gloss or finish intact" / />}}
+  {{< interactive-modules/checklist-item label="No corner wear or bends (corners are sharp)" /  >}}
+  {{< interactive-modules/checklist-item label="No creases, even minor ones" /  >}}
+  {{< interactive-modules/checklist-item label="Original coloring with no fading" /  >}}
+  {{< interactive-modules/checklist-item label="No writing or postmarks (unless a used card)" /  >}}
+  {{< interactive-modules/checklist-item label="No stains, discoloration, or foxing" /  >}}
+  {{< interactive-modules/checklist-item label="No paper loss or thinning" /  >}}
+  {{< interactive-modules/checklist-item label="No tape, glue residue, or album mounting damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original gloss or finish intact" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 7. Collectors.com

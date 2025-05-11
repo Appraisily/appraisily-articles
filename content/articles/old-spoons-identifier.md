@@ -108,7 +108,7 @@ In traditional British hallmarking, you'll often find four standard marks:
 
 A fifth "duty mark" was often used between 1784 and 1890, indicating that tax had been paid on the item.
 
-{{< data-modules/stats-highlight title="Key Identification Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Identification Statistics" columns="3" / /  >}}
 
 <tr>
   <td>Antique Definition</td>
@@ -231,12 +231,12 @@ Different countries developed their own hallmarking systems:
 - **Scandinavian silver**: Often used simple numerical standards (e.g., "830S" for 83% silver content)
 
 {{< interactive-modules/condition-checklist title="Hallmark Identification Checklist" description="Use this checklist to assess the hallmarks on your antique spoon" >}}
-  {{< interactive-modules/checklist-item label="Standard/purity mark is visible" / />}}
-  {{< interactive-modules/checklist-item label="Assay office mark can be identified" / />}}
-  {{< interactive-modules/checklist-item label="Date letter is present" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark is legible" / />}}
-  {{< interactive-modules/checklist-item label="Marks show appropriate wear consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Mark placement is consistent with period practices" / />}}
+  {{< interactive-modules/checklist-item label="Standard/purity mark is visible" /  >}}
+  {{< interactive-modules/checklist-item label="Assay office mark can be identified" /  >}}
+  {{< interactive-modules/checklist-item label="Date letter is present" /  >}}
+  {{< interactive-modules/checklist-item label="Maker's mark is legible" /  >}}
+  {{< interactive-modules/checklist-item label="Marks show appropriate wear consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="Mark placement is consistent with period practices" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 When examining hallmarks, consider using a magnifying glass for better visibility. Some marks may be worn or strike unevenly, making identification challenging. Reference books or online hallmark databases can be invaluable for precise identification.

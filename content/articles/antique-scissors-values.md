@@ -237,22 +237,22 @@ Scissors from prestigious manufacturers like Wiss, Wilkinson, Sheffield makers, 
 
 As with most antiques, condition dramatically impacts value. Original finishes, minimal rust or pitting, and fully functional mechanisms are crucial for maximum value.
 
-{{< data-modules/stats-highlight title="Value Factors for Antique Scissors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Factors for Antique Scissors" columns="3" / /  >}}
 
 ### Provenance
 
 Scissors with documented history, especially those belonging to historical figures or from important collections, can command significantly higher prices than comparable pieces without provenance.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of antique scissors" >}}
-  {{< interactive-modules/checklist-item label="Blades align properly when closed" / />}}
-  {{< interactive-modules/checklist-item label="Scissors open and close smoothly" / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or pitting on metal surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Decorative elements intact without chips or losses" / />}}
-  {{< interactive-modules/checklist-item label="Original finish present (not over-polished)" / />}}
-  {{< interactive-modules/checklist-item label="Pivot screw is original (not a replacement)" / />}}
-  {{< interactive-modules/checklist-item label="Blade edges retain sharpness" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or replaced parts" / />}}
-  {{< interactive-modules/checklist-item label="Original case or box if applicable" / />}}
+  {{< interactive-modules/checklist-item label="Blades align properly when closed" /  >}}
+  {{< interactive-modules/checklist-item label="Scissors open and close smoothly" /  >}}
+  {{< interactive-modules/checklist-item label="No significant rust or pitting on metal surfaces" /  >}}
+  {{< interactive-modules/checklist-item label="Decorative elements intact without chips or losses" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish present (not over-polished)" /  >}}
+  {{< interactive-modules/checklist-item label="Pivot screw is original (not a replacement)" /  >}}
+  {{< interactive-modules/checklist-item label="Blade edges retain sharpness" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or replaced parts" /  >}}
+  {{< interactive-modules/checklist-item label="Original case or box if applicable" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="How to Identify Valuable Antique Scissors" level="2" >}}

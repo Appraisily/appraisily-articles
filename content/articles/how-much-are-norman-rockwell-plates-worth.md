@@ -92,7 +92,7 @@ According to current sales data from [Mavin](https://mavin.io/search?q=Norman+Ro
 
 This significant disparity between original purchase prices (often $20-$50 per plate when new) and current resale values is common in the world of mass-produced collectibles. Despite being marketed as "limited editions," most Norman Rockwell plates were produced in quantities of tens of thousands, creating an oversaturated market.
 
-{{< data-modules/stats-highlight title="Norman Rockwell Plate Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Norman Rockwell Plate Market Statistics" columns="3" / /  >}}
 
 {{< data-modules/price-table title="Norman Rockwell Plate Price Ranges" description="Current market values based on recent sales" >}}
 <tr>
@@ -142,13 +142,13 @@ Certain Norman Rockwell themes and series have maintained more collector interes
 Plates produced by Edwin M. Knowles China Company are generally considered among the most collectible of the Norman Rockwell plates. The Bradford Exchange and Gorham also produced quality plates, though values can vary significantly.
 
 {{< interactive-modules/condition-checklist title="Norman Rockwell Plate Condition Assessment" description="Check applicable items to help determine if your plate is in optimal condition" >}}
-{{< interactive-modules/checklist-item label="No chips, cracks or crazing on the plate surface" / />}}
-{{< interactive-modules/checklist-item label="Colors remain vibrant with no fading" / />}}
-{{< interactive-modules/checklist-item label="Original box or packaging is present" / />}}
-{{< interactive-modules/checklist-item label="Certificate of authenticity included" / />}}
-{{< interactive-modules/checklist-item label="Original display stand or hanger included" / />}}
-{{< interactive-modules/checklist-item label="Plate number and manufacturer marks intact" / />}}
-{{< interactive-modules/checklist-item label="No restoration or repair work evident" / />}}
+{{< interactive-modules/checklist-item label="No chips, cracks or crazing on the plate surface" /  >}}
+{{< interactive-modules/checklist-item label="Colors remain vibrant with no fading" /  >}}
+{{< interactive-modules/checklist-item label="Original box or packaging is present" /  >}}
+{{< interactive-modules/checklist-item label="Certificate of authenticity included" /  >}}
+{{< interactive-modules/checklist-item label="Original display stand or hanger included" /  >}}
+{{< interactive-modules/checklist-item label="Plate number and manufacturer marks intact" /  >}}
+{{< interactive-modules/checklist-item label="No restoration or repair work evident" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Close-up of Norman Rockwell plate showing detailed artwork and decorative border](https://ik.imagekit.io/appraisily/SEO/how-much-are-norman-rockwell-plates-worth/how-much-are-norman-rockwell-plates-worth-image-4_UUJK99T8lu.png)

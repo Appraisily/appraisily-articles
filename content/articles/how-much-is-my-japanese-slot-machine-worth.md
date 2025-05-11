@@ -137,12 +137,12 @@ The value of a Japanese slot machine can vary significantly based on several key
 The overall condition of your Pachislo machine is perhaps the most significant factor affecting its value. Machines in perfect working order with minimal wear and tear naturally command higher prices.
 
 {{< interactive-modules/condition-checklist title="Condition Assessment" description="Check applicable items to determine your machine's condition" >}}
-  {{< interactive-modules/checklist-item label="All mechanical functions work properly" / />}}
-  {{< interactive-modules/checklist-item label="Lights and sound effects operate as intended" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet has minimal scratches or damage" / />}}
-  {{< interactive-modules/checklist-item label="Display screen has no dead pixels or burn-in" / />}}
-  {{< interactive-modules/checklist-item label="Original artwork is intact and vibrant" / />}}
-  {{< interactive-modules/checklist-item label="Buttons and controls respond correctly" / />}}
+  {{< interactive-modules/checklist-item label="All mechanical functions work properly" /  >}}
+  {{< interactive-modules/checklist-item label="Lights and sound effects operate as intended" /  >}}
+  {{< interactive-modules/checklist-item label="Cabinet has minimal scratches or damage" /  >}}
+  {{< interactive-modules/checklist-item label="Display screen has no dead pixels or burn-in" /  >}}
+  {{< interactive-modules/checklist-item label="Original artwork is intact and vibrant" /  >}}
+  {{< interactive-modules/checklist-item label="Buttons and controls respond correctly" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 2. Manufacturer and Model
@@ -163,7 +163,7 @@ While newer doesn't always mean more valuable in the collectibles market, the ra
 
 Original keys, manuals (especially English-translated ones), tokens, and other accessories add value to your Pachislo machine. A complete package with all original components will typically fetch a higher price than the machine alone.
 
-{{< data-modules/stats-highlight title="Market Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Market Value Factors" columns="3" / /  >}}
 
 ## Current Market Values
 

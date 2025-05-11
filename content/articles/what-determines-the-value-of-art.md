@@ -107,7 +107,7 @@ Art valuation is not an exact science but rather a complex assessment based on m
 
 When examining a piece of art, professional appraisers and market experts consider several critical elements that collectively determine its market value. While personal taste and subjective appreciation certainly play a role in individual purchasing decisions, the commercial art market operates on a more structured set of valuation principles.
 
-{{< data-modules/stats-highlight title="Key Art Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Art Market Statistics" columns="3" / /  >}}
 
 According to a recent study by Art Basel and UBS, the global art market reached a value of $65.1 billion in 2021, demonstrating the massive financial ecosystem surrounding art. But what exactly drives these values? Let's examine the seven primary factors that determine art's commercial value in today's market.
 
@@ -148,11 +148,11 @@ Provenance factors that can increase an artwork's value include:
 The provenance not only adds a layer of historical interest to an artwork but also helps verify its authenticity, which is crucial in establishing value. A well-documented provenance that traces ownership back to the artist provides confidence to buyers and can significantly increase an artwork's market value.
 
 {{< interactive-modules/condition-checklist title="Art Provenance Checklist" description="Key provenance elements that enhance art value" >}}
-{{< interactive-modules/checklist-item label="Complete ownership history from artist to present" / />}}
-{{< interactive-modules/checklist-item label="Notable previous collectors or institutions" / />}}
-{{< interactive-modules/checklist-item label="Documented exhibition history at prestigious venues" / />}}
-{{< interactive-modules/checklist-item label="Sales records from reputable galleries or auction houses" / />}}
-{{< interactive-modules/checklist-item label="Letters of authenticity and supporting documentation" / />}}
+{{< interactive-modules/checklist-item label="Complete ownership history from artist to present" /  >}}
+{{< interactive-modules/checklist-item label="Notable previous collectors or institutions" /  >}}
+{{< interactive-modules/checklist-item label="Documented exhibition history at prestigious venues" /  >}}
+{{< interactive-modules/checklist-item label="Sales records from reputable galleries or auction houses" /  >}}
+{{< interactive-modules/checklist-item label="Letters of authenticity and supporting documentation" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 3. Rarity and Scarcity

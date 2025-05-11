@@ -239,13 +239,13 @@ According to a detailed [analysis of bottle manufacturing on the Society for His
 The presence of a seam running all the way through the lip generally indicates a machine-made bottle from after 1920, making this an important dating feature.
 
 {{< interactive-modules/condition-checklist title="Bottle Identification Checklist" description="Use this checklist to assess key identification features" >}}
-  {{< interactive-modules/checklist-item label="Check bottle shape (round vs. square)" / />}}
-  {{< interactive-modules/checklist-item label="Look for capacity markings (quart, pint, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Examine for seam lines and manufacturing marks" / />}}
-  {{< interactive-modules/checklist-item label="Note any embossed dairy names or logos" / />}}
-  {{< interactive-modules/checklist-item label="Check bottom for date codes or manufacturer marks" / />}}
-  {{< interactive-modules/checklist-item label="Inspect the finish (top) for rim codes (western bottles)" / />}}
-  {{< interactive-modules/checklist-item label="Look for "SEALED" or "REGISTERED" heelmarks" / />}}
+  {{< interactive-modules/checklist-item label="Check bottle shape (round vs. square)" /  >}}
+  {{< interactive-modules/checklist-item label="Look for capacity markings (quart, pint, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Examine for seam lines and manufacturing marks" /  >}}
+  {{< interactive-modules/checklist-item label="Note any embossed dairy names or logos" /  >}}
+  {{< interactive-modules/checklist-item label="Check bottom for date codes or manufacturer marks" /  >}}
+  {{< interactive-modules/checklist-item label="Inspect the finish (top) for rim codes (western bottles)" /  >}}
+  {{< interactive-modules/checklist-item label="Look for "SEALED" or "REGISTERED" heelmarks" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Dating Systems for Milk Bottles" level="2" id="dating-systems-for-milk-bottles" >}}
@@ -348,11 +348,11 @@ Several key factors determine the value of vintage milk bottles in today's colle
 Condition is paramount in determining value. [LoveToKnow's guide to antique milk bottles](https://www.lovetoknow.com/home/antiques-collectibles/antique-milk-bottles) emphasizes condition as a primary valuation factor:
 
 {{< interactive-modules/condition-checklist title="Condition Rating Factors" description="Features that affect the condition rating of milk bottles" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Clear, readable embossing" / />}}
-  {{< interactive-modules/checklist-item label="Minimal or no staining" / />}}
-  {{< interactive-modules/checklist-item label="Original caps or closures (if present)" / />}}
-  {{< interactive-modules/checklist-item label="No excessive case wear on embossing" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, readable embossing" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal or no staining" /  >}}
+  {{< interactive-modules/checklist-item label="Original caps or closures (if present)" /  >}}
+  {{< interactive-modules/checklist-item label="No excessive case wear on embossing" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity

@@ -271,7 +271,7 @@ This simple test leverages density differences:
 
 As noted by Astteria jewelers, "In water, pearls do not float." However, this test isn't foolproof as some high-quality glass imitations will also sink, so use it as just one indicator among many.
 
-{{< data-modules/stats-highlight title="Pearl Authentication Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Pearl Authentication Facts" columns="3" / /  >}}
 
 ## Shape and Uniformity Assessment
 
@@ -334,14 +334,14 @@ Once you've established that your pearls are genuine, several factors determine 
 {{< /data-modules/price-table >}}
 
 {{< interactive-modules/condition-checklist title="Pearl Quality Assessment Checklist" description="Check applicable characteristics to determine the quality level of your pearls" >}}
-  {{< interactive-modules/checklist-item label="Strong luster with deep reflections" / />}}
-  {{< interactive-modules/checklist-item label="Few to no surface blemishes visible to naked eye" / />}}
-  {{< interactive-modules/checklist-item label="Consistent size and shape throughout strand" / />}}
-  {{< interactive-modules/checklist-item label="Uniform color with attractive overtones" / />}}
-  {{< interactive-modules/checklist-item label="Pearls are 8mm or larger in diameter" / />}}
-  {{< interactive-modules/checklist-item label="Perfectly round shape (for round pearls)" / />}}
-  {{< interactive-modules/checklist-item label="Original clasp and stringing intact" / />}}
-  {{< interactive-modules/checklist-item label="Known provenance or certification" / />}}
+  {{< interactive-modules/checklist-item label="Strong luster with deep reflections" /  >}}
+  {{< interactive-modules/checklist-item label="Few to no surface blemishes visible to naked eye" /  >}}
+  {{< interactive-modules/checklist-item label="Consistent size and shape throughout strand" /  >}}
+  {{< interactive-modules/checklist-item label="Uniform color with attractive overtones" /  >}}
+  {{< interactive-modules/checklist-item label="Pearls are 8mm or larger in diameter" /  >}}
+  {{< interactive-modules/checklist-item label="Perfectly round shape (for round pearls)" /  >}}
+  {{< interactive-modules/checklist-item label="Original clasp and stringing intact" /  >}}
+  {{< interactive-modules/checklist-item label="Known provenance or certification" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Common Pearl Imitations Through History" level="2" >}}

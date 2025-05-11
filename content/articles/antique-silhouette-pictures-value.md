@@ -175,7 +175,7 @@ Several key elements influence the market value of an antique silhouette portrai
 
 Like most antiques, silhouette values can vary dramatically based on a combination of factors. According to [CT Country Antiques](https://www.ctcountryantiques.com/post/american-silhouettes-of-the-18th-and-19th-centuries), collectors should consider these key elements when assessing value:
 
-{{< data-modules/stats-highlight title="Key Value Factors for Antique Silhouettes" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors for Antique Silhouettes" columns="3" / /  >}}
 
 ### 1. Artist Attribution
 
@@ -203,12 +203,12 @@ Silhouettes featuring famous historical figures or subjects of special interest 
 ### 4. Condition Issues
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that impact silhouette value:" >}}
-  {{< interactive-modules/checklist-item label="Paper intact with no tears, creases or water damage" / />}}
-  {{< interactive-modules/checklist-item label="Original frame in good condition" / />}}
-  {{< interactive-modules/checklist-item label="No fading of the black image or background" / />}}
-  {{< interactive-modules/checklist-item label="No repairs, inpainting or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Original backing and mounting materials present" / />}}
-  {{< interactive-modules/checklist-item label="Any original labels or inscriptions intact" / />}}
+  {{< interactive-modules/checklist-item label="Paper intact with no tears, creases or water damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original frame in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="No fading of the black image or background" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs, inpainting or restoration" /  >}}
+  {{< interactive-modules/checklist-item label="Original backing and mounting materials present" /  >}}
+  {{< interactive-modules/checklist-item label="Any original labels or inscriptions intact" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 5. Frame and Presentation

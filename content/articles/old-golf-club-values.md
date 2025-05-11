@@ -82,7 +82,7 @@ Several key factors influence the value of antique and vintage golf clubs. Under
 
 When evaluating old golf clubs, collectors and appraisers look at multiple aspects that contribute to their overall value:
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / /  >}}
 
 ### Age and Era
 
@@ -240,14 +240,14 @@ The shaft material is a critical indicator of a golf club's age and potential va
 - **Early Steel Shafts**: The earliest steel shafts (1925-1935) were often stepped and can be quite collectible.
 
 {{< interactive-modules/condition-checklist title="Antique Golf Club Authentication Checklist" description="Use this checklist to help determine if your golf clubs might be valuable antiques" >}}
-  {{< interactive-modules/checklist-item label="Club has a wooden (especially hickory) shaft" / />}}
-  {{< interactive-modules/checklist-item label="Maker's mark from a renowned clubmaker or company is visible" / />}}
-  {{< interactive-modules/checklist-item label="Iron club has a smooth face (no scoring lines)" / />}}
-  {{< interactive-modules/checklist-item label="Wooden club has a long, narrow head shape" / />}}
-  {{< interactive-modules/checklist-item label="Club bears patent markings or numbers" / />}}
-  {{< interactive-modules/checklist-item label="Original grip material (leather wrap or early rubber)" / />}}
-  {{< interactive-modules/checklist-item label="No evidence of modern repairs or alterations" / />}}
-  {{< interactive-modules/checklist-item label="Clubhead shows hand-forging marks or craftsmanship" / />}}
+  {{< interactive-modules/checklist-item label="Club has a wooden (especially hickory) shaft" /  >}}
+  {{< interactive-modules/checklist-item label="Maker's mark from a renowned clubmaker or company is visible" /  >}}
+  {{< interactive-modules/checklist-item label="Iron club has a smooth face (no scoring lines)" /  >}}
+  {{< interactive-modules/checklist-item label="Wooden club has a long, narrow head shape" /  >}}
+  {{< interactive-modules/checklist-item label="Club bears patent markings or numbers" /  >}}
+  {{< interactive-modules/checklist-item label="Original grip material (leather wrap or early rubber)" /  >}}
+  {{< interactive-modules/checklist-item label="No evidence of modern repairs or alterations" /  >}}
+  {{< interactive-modules/checklist-item label="Clubhead shows hand-forging marks or craftsmanship" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< visual-modules/timeline title="Evolution of Golf Club Design and Value" >}}

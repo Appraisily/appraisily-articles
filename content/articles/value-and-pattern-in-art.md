@@ -59,7 +59,7 @@ Understanding value is critical because it:
 * Directs the viewer's eye to focal points
 * Sets the emotional tone of the artwork
 
-{{< data-modules/stats-highlight title="Impact of Value in Art" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Impact of Value in Art" columns="3" / /  >}}
 <tr>
   <td>90%</td>
   <td>Visual Impact</td>
@@ -178,13 +178,13 @@ David Schwindt, writing for Artists Network, recommends this approach: "To deter
 Other key techniques include:
 
 {{< interactive-modules/condition-checklist title="Value Pattern Development Process" description="Key steps to create effective value patterns in artwork" >}}
-  {{< interactive-modules/checklist-item label="Create thumbnail value studies before starting the final work" / />}}
-  {{< interactive-modules/checklist-item label="Limit your value range to 3-5 distinct values for clarity" / />}}
-  {{< interactive-modules/checklist-item label="Squint at your composition to see only the major value shapes" / />}}
-  {{< interactive-modules/checklist-item label="Test your composition in grayscale to verify value relationships" / />}}
-  {{< interactive-modules/checklist-item label="Ensure your darkest dark and lightest light create sufficient contrast" / />}}
-  {{< interactive-modules/checklist-item label="Place your highest contrast at the focal point" / />}}
-  {{< interactive-modules/checklist-item label="Maintain a dominant value (typically covering 60-70% of the composition)" / />}}
+  {{< interactive-modules/checklist-item label="Create thumbnail value studies before starting the final work" /  >}}
+  {{< interactive-modules/checklist-item label="Limit your value range to 3-5 distinct values for clarity" /  >}}
+  {{< interactive-modules/checklist-item label="Squint at your composition to see only the major value shapes" /  >}}
+  {{< interactive-modules/checklist-item label="Test your composition in grayscale to verify value relationships" /  >}}
+  {{< interactive-modules/checklist-item label="Ensure your darkest dark and lightest light create sufficient contrast" /  >}}
+  {{< interactive-modules/checklist-item label="Place your highest contrast at the focal point" /  >}}
+  {{< interactive-modules/checklist-item label="Maintain a dominant value (typically covering 60-70% of the composition)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 This process helps artists move beyond merely copying what they see to creating deliberate, powerful compositions with clear visual hierarchy.

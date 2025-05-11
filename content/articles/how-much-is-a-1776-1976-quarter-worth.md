@@ -62,7 +62,7 @@ The 1776-1976 Bicentennial quarter is one of America's most recognizable commemo
 
 If you've come across a quarter with dual dates "1776-1976" and a colonial drummer on the back, you might wonder if you've found a valuable treasure. While most Bicentennial quarters are worth only face value, certain varieties and error coins can be worth substantially more. This comprehensive guide will help you determine what your Bicentennial quarter is truly worth.
 
-{{< data-modules/stats-highlight title="Bicentennial Quarter Quick Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Bicentennial Quarter Quick Facts" columns="3" / /  >}}
 
 | Fact | Detail | Note |
 |------|--------|------|
@@ -146,11 +146,11 @@ The silver content alone gives these quarters inherent value above face value. T
 Silver Bicentennial quarters have a slightly different appearance than their clad counterparts:
 
 {{< interactive-modules/condition-checklist title="Silver Quarter Identification Checklist" description="Check these characteristics to identify a silver Bicentennial quarter" >}}
-  {{< interactive-modules/checklist-item label="S mint mark is present below Washington's portrait" / />}}
-  {{< interactive-modules/checklist-item label="Edge has no copper layer visible (clad quarters show a copper stripe)" / />}}
-  {{< interactive-modules/checklist-item label="Coin has a slightly different ring/sound when tapped" / />}}
-  {{< interactive-modules/checklist-item label="Weight is approximately 5.75 grams (vs. 5.67g for clad quarters)" / />}}
-  {{< interactive-modules/checklist-item label="Often has a slightly more brilliant, whiter appearance" / />}}
+  {{< interactive-modules/checklist-item label="S mint mark is present below Washington's portrait" /  >}}
+  {{< interactive-modules/checklist-item label="Edge has no copper layer visible (clad quarters show a copper stripe)" /  >}}
+  {{< interactive-modules/checklist-item label="Coin has a slightly different ring/sound when tapped" /  >}}
+  {{< interactive-modules/checklist-item label="Weight is approximately 5.75 grams (vs. 5.67g for clad quarters)" /  >}}
+  {{< interactive-modules/checklist-item label="Often has a slightly more brilliant, whiter appearance" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-much-is-a-1776-1976-quarter-worth/how-much-is-a-1776-1976-quarter-worth-image-4_zQbsKoogD.png" alt="Various Bicentennial quarter error types showing doubling and striking issues" caption="Examples of valuable Bicentennial quarter errors" />}}

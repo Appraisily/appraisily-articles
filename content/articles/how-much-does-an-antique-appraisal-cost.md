@@ -132,7 +132,7 @@ Generally, you can expect the following pricing structures for antique appraisal
 
 Many appraisers have minimum fees regardless of the item's value or the time required. According to [HomeAdvisor](https://www.homeadvisor.com/cost/inspectors-and-appraisers/art-appraisal/), the average cost for a single art or antique appraisal ranges from $250 to $300, though complex or rare items may cost more.
 
-{{< data-modules/stats-highlight title="Key Appraisal Cost Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Appraisal Cost Statistics" columns="3" / /  >}}
 
 ### Hourly vs. Flat Fee Pricing
 
@@ -179,13 +179,13 @@ Not all antique appraisals are created equal. The purpose of your appraisal sign
 Several variables influence how much you'll pay for an antique appraisal:
 
 {{< interactive-modules/condition-checklist title="Cost-Influencing Factors" description="Elements that may increase or decrease your appraisal costs" >}}
-  {{< interactive-modules/checklist-item label="Appraiser's expertise and credentials" / />}}
-  {{< interactive-modules/checklist-item label="Geographic location (urban areas typically charge more)" / />}}
-  {{< interactive-modules/checklist-item label="Complexity and rarity of the item" / />}}
-  {{< interactive-modules/checklist-item label="Purpose of the appraisal (insurance, estate, donation)" / />}}
-  {{< interactive-modules/checklist-item label="Documentation requirements" / />}}
-  {{< interactive-modules/checklist-item label="Number of items being appraised" / />}}
-  {{< interactive-modules/checklist-item label="Travel requirements (if appraiser must come to you)" / />}}
+  {{< interactive-modules/checklist-item label="Appraiser's expertise and credentials" /  >}}
+  {{< interactive-modules/checklist-item label="Geographic location (urban areas typically charge more)" /  >}}
+  {{< interactive-modules/checklist-item label="Complexity and rarity of the item" /  >}}
+  {{< interactive-modules/checklist-item label="Purpose of the appraisal (insurance, estate, donation)" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation requirements" /  >}}
+  {{< interactive-modules/checklist-item label="Number of items being appraised" /  >}}
+  {{< interactive-modules/checklist-item label="Travel requirements (if appraiser must come to you)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [WorthWise Appraisers](https://worthwiseappraisers.com/what-appraisals-cost/), "Typically, formal appraisals for a single item start at about $250 to $350. Additional items will typically add incremental costs of between $25 and $100 per item."

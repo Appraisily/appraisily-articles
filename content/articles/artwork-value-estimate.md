@@ -101,12 +101,12 @@ The documented history of an artwork's ownership can dramatically affect its val
 
 The physical condition of an artwork significantly impacts its value. Damage, restoration, or alterations can substantially reduce worth, while pieces in pristine condition typically command higher prices. Professional condition reports detail any issues that might affect valuation.
 
-{{< data-modules/stats-highlight title="Factors Influencing Artwork Value" columns="3" / />}}
-{{< data-modules/stat-card value="Authenticity" label="Artist Confirmation" color="blue" description="Verified works by known artists command highest values" / />}}
+{{< data-modules/stats-highlight title="Factors Influencing Artwork Value" columns="3" /  >}}
+{{< data-modules/stat-card value="Authenticity" label="Artist Confirmation" color="blue" description="Verified works by known artists command highest values" /  >}}
 
-{{< data-modules/stat-card value="Condition" label="Preservation State" color="green" description="Excellent condition significantly increases value" / />}}
+{{< data-modules/stat-card value="Condition" label="Preservation State" color="green" description="Excellent condition significantly increases value" /  >}}
 
-{{< data-modules/stat-card value="Provenance" label="Ownership History" color="orange" description="Documented history adds credibility and value" / />}}
+{{< data-modules/stat-card value="Provenance" label="Ownership History" color="orange" description="Documented history adds credibility and value" /  >}}
 
 ### Market Demand and Trends
 
@@ -151,14 +151,14 @@ Several websites offer free or low-cost preliminary artwork valuation services:
 Remember that these tools provide estimates rather than definitive valuations and may have limitations in their databases or expertise.
 
 {{< interactive-modules/condition-checklist title="Pre-Valuation Artwork Assessment" description="Complete this checklist before seeking a value estimate" >}}
-  {{< interactive-modules/checklist-item label="Photograph artwork from multiple angles" / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions (height × width × depth)" / />}}
-  {{< interactive-modules/checklist-item label="Document any signatures, dates, or marks" / />}}
-  {{< interactive-modules/checklist-item label="Note medium and materials" / />}}
-  {{< interactive-modules/checklist-item label="Assess and document condition issues" / />}}
-  {{< interactive-modules/checklist-item label="Gather any provenance documentation" / />}}
-  {{< interactive-modules/checklist-item label="Research the artist's basic information" / />}}
-  {{< interactive-modules/checklist-item label="Check for edition numbers (for prints)" / />}}
+  {{< interactive-modules/checklist-item label="Photograph artwork from multiple angles" /  >}}
+  {{< interactive-modules/checklist-item label="Measure dimensions (height × width × depth)" /  >}}
+  {{< interactive-modules/checklist-item label="Document any signatures, dates, or marks" /  >}}
+  {{< interactive-modules/checklist-item label="Note medium and materials" /  >}}
+  {{< interactive-modules/checklist-item label="Assess and document condition issues" /  >}}
+  {{< interactive-modules/checklist-item label="Gather any provenance documentation" /  >}}
+  {{< interactive-modules/checklist-item label="Research the artist's basic information" /  >}}
+  {{< interactive-modules/checklist-item label="Check for edition numbers (for prints)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Artist Research and Market Analysis
@@ -394,13 +394,13 @@ Well-documented works command higher prices:
 
 - **Original receipts or documentation**: Primary source evidence of the work's history.
 
-{{< data-modules/stats-highlight title="Value Premium Factors" columns="3" / />}}
+{{< data-modules/stats-highlight title="Value Premium Factors" columns="3" /  >}}
 
-{{< data-modules/stat-card value="20-50%" label="Museum Exhibition" color="blue" description="Average premium for artworks with major museum exhibition history" / />}}
+{{< data-modules/stat-card value="20-50%" label="Museum Exhibition" color="blue" description="Average premium for artworks with major museum exhibition history" /  >}}
 
-{{< data-modules/stat-card value="15-40%" label="Celebrity Provenance" color="purple" description="Typical value increase for works previously owned by famous collectors" / />}}
+{{< data-modules/stat-card value="15-40%" label="Celebrity Provenance" color="purple" description="Typical value increase for works previously owned by famous collectors" /  >}}
 
-{{< data-modules/stat-card value="30-100%" label="Documented Authentication" color="green" description="Value premium for works with comprehensive authentication documentation" / />}}
+{{< data-modules/stat-card value="30-100%" label="Documented Authentication" color="green" description="Value premium for works with comprehensive authentication documentation" /  >}}
 
 {{< content-modules/section-header title="Common Pitfalls in Artwork Valuation" level="2" >}}
 Avoiding these common mistakes can help you obtain more accurate artwork value estimates and make better-informed decisions about your collection.

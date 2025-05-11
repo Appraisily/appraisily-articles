@@ -95,7 +95,7 @@ Weathervanes represent one of America's most enduring forms of folk art, combini
 
 Today's collectors prize weathervanes not only for their historical significance but also for their artistic merit, craftsmanship, and the authentic patina that develops over decades of exposure to the elements. From simple directional arrows to elaborate figures of animals, people, and vehicles, weathervanes tell the story of American craftsmanship and rural life.
 
-{{< data-modules/stats-highlight title="Antique Weathervane Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Weathervane Market Highlights" columns="3" / /  >}}
 <tr>
   <td>$5.84 Million</td>
   <td>Record auction price for a weathervane (J.L. Mott Iron Works Indian Chief, 2006)</td>
@@ -214,11 +214,11 @@ Authentic patinas typically show:
 - Surface textures that cannot be easily replicated
 
 {{< interactive-modules/condition-checklist title="Authentic Weathervane Patina Assessment" description="Check for these characteristics when examining patina" >}}
-  {{< interactive-modules/checklist-item label="Verdigris shows depth and variation rather than uniform color" / />}}
-  {{< interactive-modules/checklist-item label="Weather-facing surfaces show more wear than protected areas" / />}}
-  {{< interactive-modules/checklist-item label="Original gilt traces may remain in protected crevices" / />}}
-  {{< interactive-modules/checklist-item label="Pattern of weathering corresponds to typical mounting position" / />}}
-  {{< interactive-modules/checklist-item label="No signs of artificial aging or chemical treatments" / />}}
+  {{< interactive-modules/checklist-item label="Verdigris shows depth and variation rather than uniform color" /  >}}
+  {{< interactive-modules/checklist-item label="Weather-facing surfaces show more wear than protected areas" /  >}}
+  {{< interactive-modules/checklist-item label="Original gilt traces may remain in protected crevices" /  >}}
+  {{< interactive-modules/checklist-item label="Pattern of weathering corresponds to typical mounting position" /  >}}
+  {{< interactive-modules/checklist-item label="No signs of artificial aging or chemical treatments" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 #### Construction Techniques

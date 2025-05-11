@@ -136,14 +136,14 @@ The finest drum tables were crafted from superior materials:
 The condition has a dramatic impact on value, with original finishes and minimal restoration commanding premium prices.
 
 {{< interactive-modules/condition-checklist title="Drum Table Condition Assessment" description="Check applicable items to help determine condition quality" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact with natural patina" / />}}
-  {{< interactive-modules/checklist-item label="All drawers function smoothly with original hardware" / />}}
-  {{< interactive-modules/checklist-item label="Leather top in good condition without excessive wear or damage" / />}}
-  {{< interactive-modules/checklist-item label="No major repairs, replacements, or structural issues" / />}}
-  {{< interactive-modules/checklist-item label="Consistent color and wear patterns throughout" / />}}
-  {{< interactive-modules/checklist-item label="Original feet without excessive wear or replacement" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, insect damage, or severe wood cracks" / />}}
-  {{< interactive-modules/checklist-item label="Minimal veneer loss or lifting" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact with natural patina" /  >}}
+  {{< interactive-modules/checklist-item label="All drawers function smoothly with original hardware" /  >}}
+  {{< interactive-modules/checklist-item label="Leather top in good condition without excessive wear or damage" /  >}}
+  {{< interactive-modules/checklist-item label="No major repairs, replacements, or structural issues" /  >}}
+  {{< interactive-modules/checklist-item label="Consistent color and wear patterns throughout" /  >}}
+  {{< interactive-modules/checklist-item label="Original feet without excessive wear or replacement" /  >}}
+  {{< interactive-modules/checklist-item label="No water damage, insect damage, or severe wood cracks" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal veneer loss or lifting" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Documentation
@@ -154,7 +154,7 @@ Tables with documented history, especially those from notable collections or his
 
 More elaborate examples featuring fine inlay work, marquetry, carved elements, or unusual designs typically achieve higher values than simpler models.
 
-{{< data-modules/stats-highlight title="Drum Table Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Drum Table Value Factors" columns="3" / /  >}}
 
 ## Current Market Values for Antique Drum Tables
 

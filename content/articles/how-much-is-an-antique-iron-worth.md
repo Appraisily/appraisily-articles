@@ -96,7 +96,7 @@ Whether you've discovered an old iron in your grandparent's attic or are conside
 
 Unlike modern electric irons, antique models required various heating methods—from fire-heated cast iron to charcoal-filled containers, gas-powered designs, and early electric models. Each type has its own collecting category and value range, making antique irons a diverse and accessible collecting field.
 
-{{< data-modules/stats-highlight title="Antique Iron Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Iron Market Highlights" columns="3" / /  >}}
   <tr>
     <td>$25-$85</td>
     <td>Average value range for common antique irons</td>
@@ -211,14 +211,14 @@ For box irons, fuel irons, or early electric models, having all original compone
 - Original packaging or boxes (can double the value)
 
 {{< interactive-modules/condition-checklist title="Antique Iron Condition Assessment" description="Check applicable items to help determine the condition of your antique iron" >}}
-  {{< interactive-modules/checklist-item label="Clear manufacturer marks or patent dates visible" / />}}
-  {{< interactive-modules/checklist-item label="Original handle intact and securely attached" / />}}
-  {{< interactive-modules/checklist-item label="Minimal to no rust or pitting on iron surfaces" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (for specialty irons)" / />}}
-  {{< interactive-modules/checklist-item label="No cracks, chips, or significant damage" / />}}
-  {{< interactive-modules/checklist-item label="Original finish largely preserved" / />}}
-  {{< interactive-modules/checklist-item label="For electric models: original cord in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging included" / />}}
+  {{< interactive-modules/checklist-item label="Clear manufacturer marks or patent dates visible" /  >}}
+  {{< interactive-modules/checklist-item label="Original handle intact and securely attached" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal to no rust or pitting on iron surfaces" /  >}}
+  {{< interactive-modules/checklist-item label="All original parts present (for specialty irons)" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks, chips, or significant damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish largely preserved" /  >}}
+  {{< interactive-modules/checklist-item label="For electric models: original cord in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Original box or packaging included" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Historical Significance

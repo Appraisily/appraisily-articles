@@ -163,7 +163,7 @@ Even a rare book in excellent condition won't command high prices without collec
 - **Aesthetic Appeal**: Beautiful illustrations, bindings, or typography
 - **Collecting Trends**: Areas currently fashionable among collectors
 
-{{< data-modules/stats-highlight title="Current Antique Book Market" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Current Antique Book Market" columns="3" / /  >}}
 <tr>
   <td>First edition fiction by notable authors</td>
   <td>Increasing 15-20% annually</td>
@@ -209,13 +209,13 @@ Be aware of these complicating factors:
 - British and American first editions of the same work may have different dates and characteristics
 
 {{< interactive-modules/condition-checklist title="First Edition Verification Checklist" description="Check these elements when determining if you have a first edition" >}}
-  {{< interactive-modules/checklist-item label="Check for explicit 'First Edition' or 'First Printing' statements" / />}}
-  {{< interactive-modules/checklist-item label="Examine number line for lowest number" / />}}
-  {{< interactive-modules/checklist-item label="Compare publication date with copyright date" / />}}
-  {{< interactive-modules/checklist-item label="Verify publisher-specific first edition indicators" / />}}
-  {{< interactive-modules/checklist-item label="Look for price on dust jacket (if present)" / />}}
-  {{< interactive-modules/checklist-item label="Check for book club indicators (blind stamp, inferior materials)" / />}}
-  {{< interactive-modules/checklist-item label="Research using publisher-specific identification guides" / />}}
+  {{< interactive-modules/checklist-item label="Check for explicit 'First Edition' or 'First Printing' statements" /  >}}
+  {{< interactive-modules/checklist-item label="Examine number line for lowest number" /  >}}
+  {{< interactive-modules/checklist-item label="Compare publication date with copyright date" /  >}}
+  {{< interactive-modules/checklist-item label="Verify publisher-specific first edition indicators" /  >}}
+  {{< interactive-modules/checklist-item label="Look for price on dust jacket (if present)" /  >}}
+  {{< interactive-modules/checklist-item label="Check for book club indicators (blind stamp, inferior materials)" /  >}}
+  {{< interactive-modules/checklist-item label="Research using publisher-specific identification guides" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Evaluating Book Condition: What Matters Most" level="2" >}}
@@ -297,7 +297,7 @@ For valuable books (potentially worth over $1,000) or insurance purposes, consid
 - **Auction houses**: Major houses like Christie's and Sotheby's offer appraisal services
 - **Rare book dealers**: Specialists in your book's genre or era
 
-{{< data-modules/stats-highlight title="Value Comparison: Same Book in Different Conditions" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Comparison: Same Book in Different Conditions" columns="3" / /  >}}
 <tr>
   <td>Fine First Edition with Dust Jacket</td>
   <td>$2,000+</td>
@@ -462,13 +462,13 @@ To verify a book's authenticity:
 - Professional rare book dealers with expertise in specific areas
 
 {{< interactive-modules/condition-checklist title="Authenticity Verification Checklist" description="Use these checks when evaluating potentially valuable books" >}}
-  {{< interactive-modules/checklist-item label="Paper quality and characteristics match the purported era" / />}}
-  {{< interactive-modules/checklist-item label="Binding materials and techniques are period-appropriate" / />}}
-  {{< interactive-modules/checklist-item label="Typography and printing method consistent with publication date" / />}}
-  {{< interactive-modules/checklist-item label="Publisher information verified against historical records" / />}}
-  {{< interactive-modules/checklist-item label="Copyright page information checked for modern reprint indicators" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation reviewed (if available)" / />}}
-  {{< interactive-modules/checklist-item label="Condition consistent with genuine age" / />}}
+  {{< interactive-modules/checklist-item label="Paper quality and characteristics match the purported era" /  >}}
+  {{< interactive-modules/checklist-item label="Binding materials and techniques are period-appropriate" /  >}}
+  {{< interactive-modules/checklist-item label="Typography and printing method consistent with publication date" /  >}}
+  {{< interactive-modules/checklist-item label="Publisher information verified against historical records" /  >}}
+  {{< interactive-modules/checklist-item label="Copyright page information checked for modern reprint indicators" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance documentation reviewed (if available)" /  >}}
+  {{< interactive-modules/checklist-item label="Condition consistent with genuine age" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Sell Valuable Antique Books" level="2" >}}
@@ -516,7 +516,7 @@ Different selling venues are appropriate for books of different values and types
 - Benefits: Immediate payment; no shipping hassles
 - Drawbacks: Typically offer 20-40% of resale value
 
-{{< data-modules/stats-highlight title="Selling Venue Comparison" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Selling Venue Comparison" columns="3" / /  >}}
 <tr>
   <td>Specialized Auction</td>
   <td>75-85% of market value</td>

@@ -161,11 +161,11 @@ When examining your silverware, check for these identifying characteristics:
 4. **Monograms**: Many Old Company Plate pieces were customized with the original owner's initials, which can be seen on the front of the handles.
 
 {{< interactive-modules/condition-checklist title="Identification Checklist" description="Use this checklist to identify authentic Old Company Plate silverware" >}}
-  {{< interactive-modules/checklist-item label="Look for 'OLD COMPANY PLATE' or 'OCP' mark on the back of pieces" / />}}
-  {{< interactive-modules/checklist-item label="Check for pattern name marks such as 'SIGNATURE'" / />}}
-  {{< interactive-modules/checklist-item label="Note any monograms or initials on the handles" / />}}
-  {{< interactive-modules/checklist-item label="Look for 'SILVERPLATE' or 'EP' material indicators" / />}}
-  {{< interactive-modules/checklist-item label="Verify the distinctive handle design matches known patterns" / />}}
+  {{< interactive-modules/checklist-item label="Look for 'OLD COMPANY PLATE' or 'OCP' mark on the back of pieces" /  >}}
+  {{< interactive-modules/checklist-item label="Check for pattern name marks such as 'SIGNATURE'" /  >}}
+  {{< interactive-modules/checklist-item label="Note any monograms or initials on the handles" /  >}}
+  {{< interactive-modules/checklist-item label="Look for 'SILVERPLATE' or 'EP' material indicators" /  >}}
+  {{< interactive-modules/checklist-item label="Verify the distinctive handle design matches known patterns" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Factors Affecting Old Company Plate Value
@@ -194,7 +194,7 @@ While "Signature" pattern pieces are relatively common, some specialized serving
 
 Unlike sterling silver where monograms can sometimes enhance value due to historical significance, monogrammed silver plate typically sells for less than unmarked pieces unless connected to a notable family or historical figure.
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / /  >}}
 
 | Age & Rarity | Condition Quality | Set Completeness |
 |:------------:|:-----------------:|:----------------:|
@@ -237,7 +237,7 @@ Antique stores and consignment shops may take your silverware but typically offe
 ### Specialty Silver Buyers
 Some companies focus specifically on purchasing silver-plated items. Silver Plate Buyers estimates silver-plated flatware at approximately $5.25 per pound, though this represents the lowest value option as they purchase primarily for scrap.
 
-{{< data-modules/stats-highlight title="Where Old Company Plate Silverware Sells Best" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Where Old Company Plate Silverware Sells Best" columns="3" / /  >}}
 
 | Online Marketplaces | Replacement Services | Antique Dealers |
 |:------------------:|:-------------------:|:---------------:|

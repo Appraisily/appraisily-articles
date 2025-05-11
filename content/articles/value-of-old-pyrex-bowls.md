@@ -133,7 +133,7 @@ Often called "Amish" or "Farmer and Wife," this pattern features a charming folk
 - **Rarity**: Common pattern, but complete sets in excellent condition are more valuable
 - **Notable Features**: Folk art farm scenes in turquoise on white (or white on turquoise) background
 
-{{< data-modules/stats-highlight title="Vintage Pyrex Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Pyrex Market Statistics" columns="3" / /  >}}
 
 <div class="stat-card">
   <div class="stat-value green">400%</div>
@@ -188,12 +188,12 @@ Rarity is the primary driver of value in the Pyrex market. Limited edition patte
 The condition of a piece significantly impacts its value. Collectors look for:
 
 {{< interactive-modules/condition-checklist title="Pyrex Condition Assessment" description="Factors that affect the value of vintage Pyrex" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or crazing (fine lines in the glass)" / />}}
-  {{< interactive-modules/checklist-item label="Minimal to no fading of colors or pattern" / />}}
-  {{< interactive-modules/checklist-item label="Original shine and luster preserved" / />}}
-  {{< interactive-modules/checklist-item label="No dishwasher damage or clouding" / />}}
-  {{< interactive-modules/checklist-item label="Minimal to no scratches from utensil use" / />}}
-  {{< interactive-modules/checklist-item label="Original lids in good condition (for covered dishes)" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or crazing (fine lines in the glass)" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal to no fading of colors or pattern" /  >}}
+  {{< interactive-modules/checklist-item label="Original shine and luster preserved" /  >}}
+  {{< interactive-modules/checklist-item label="No dishwasher damage or clouding" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal to no scratches from utensil use" /  >}}
+  {{< interactive-modules/checklist-item label="Original lids in good condition (for covered dishes)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to [House Beautiful](https://www.housebeautiful.com/shopping/home-accessories/a44531049/pyrex-dishes-worth-real-money/), dishwasher use is one of the main culprits for diminished value, as it can cause clouding and pattern fading over time.

@@ -110,7 +110,7 @@ If you've rediscovered your old Pokémon card collection or are curious about th
 
 The world of Pokémon card collecting has seen explosive growth in recent years, with rare cards fetching astronomical prices at auctions and online marketplaces. Whether you're a casual collector looking to sell some cards from your childhood or a serious enthusiast seeking to value your investment-grade collection, understanding what makes certain cards valuable is the first step in determining your collection's worth.
 
-{{< data-modules/stats-highlight title="Pokémon Card Market Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Pokémon Card Market Facts" columns="3" / /  >}}
 <tr>
   <td>$5.27 Million</td>
   <td>Highest price ever paid for a single Pokémon card (PSA 10 Pikachu Illustrator)</td>
@@ -255,14 +255,14 @@ To accurately identify your Pokémon cards for valuation:
 ![Close-up of Pokémon card set symbols, edition markers, and card numbers](https://ik.imagekit.io/appraisily/SEO/how-much-are-my-pokemon-card-worth/how-much-are-my-pokemon-card-worth-image-4_SeNARMCE0.png)
 
 {{< interactive-modules/condition-checklist title="Pokémon Card Condition Assessment" description="Check all items that apply to your card to estimate its condition grade" >}}
-  {{< interactive-modules/checklist-item label="Perfect corners with no whitening or wear" / />}}
-  {{< interactive-modules/checklist-item label="Perfectly centered borders (50/50 on all sides)" / />}}
-  {{< interactive-modules/checklist-item label="No scratches on the holographic surface" / />}}
-  {{< interactive-modules/checklist-item label="No creases, bends, or indentations" / />}}
-  {{< interactive-modules/checklist-item label="Clean, unmarked back of card" / />}}
-  {{< interactive-modules/checklist-item label="Sharp, clean edges with no fraying" / />}}
-  {{< interactive-modules/checklist-item label="No print lines or print defects" / />}}
-  {{< interactive-modules/checklist-item label="No surface scuffs or fingerprints" / />}}
+  {{< interactive-modules/checklist-item label="Perfect corners with no whitening or wear" /  >}}
+  {{< interactive-modules/checklist-item label="Perfectly centered borders (50/50 on all sides)" /  >}}
+  {{< interactive-modules/checklist-item label="No scratches on the holographic surface" /  >}}
+  {{< interactive-modules/checklist-item label="No creases, bends, or indentations" /  >}}
+  {{< interactive-modules/checklist-item label="Clean, unmarked back of card" /  >}}
+  {{< interactive-modules/checklist-item label="Sharp, clean edges with no fraying" /  >}}
+  {{< interactive-modules/checklist-item label="No print lines or print defects" /  >}}
+  {{< interactive-modules/checklist-item label="No surface scuffs or fingerprints" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Most Valuable Pokémon Cards" level="2" >}}

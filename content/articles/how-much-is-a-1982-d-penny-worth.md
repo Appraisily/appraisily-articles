@@ -68,7 +68,7 @@ The 1982-D penny is a fascinating transitional coin that marks a significant cha
 
 Most 1982-D pennies are only worth their face value of one cent, but certain rare varieties and errors can be worth hundreds or even thousands of dollars. The most valuable 1982-D penny is the small date copper variety, with one example selling for an astounding $18,000 in 2021. Understanding the factors that determine a 1982-D penny's value can help you identify if you have a common coin or a rare treasure.
 
-{{< data-modules/stats-highlight title="Key 1982-D Penny Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key 1982-D Penny Facts" columns="3" / /  >}}
 
 {{< visual-modules/timeline title="The 1982 Penny Transition" >}}
   {{< visual-modules/timeline-item date="Early 1982" title="Copper Composition" >}}
@@ -147,10 +147,10 @@ Here are the key differences to look for:
 A magnifying glass or coin loupe can be helpful for examining these details. For the most accurate identification, consider comparing your coin side-by-side with confirmed examples.
 
 {{< interactive-modules/condition-checklist title="Small Date Identification Checklist" description="Check these features to identify a small date 1982-D penny" >}}
-  {{< interactive-modules/checklist-item label="The '2' in 1982 appears smaller and more curved" / />}}
-  {{< interactive-modules/checklist-item label="The entire date appears more delicate and finer" / />}}
-  {{< interactive-modules/checklist-item label="The '8' has a narrower, less rounded appearance" / />}}
-  {{< interactive-modules/checklist-item label="When compared with large date examples, the difference is noticeable" / />}}
+  {{< interactive-modules/checklist-item label="The '2' in 1982 appears smaller and more curved" /  >}}
+  {{< interactive-modules/checklist-item label="The entire date appears more delicate and finer" /  >}}
+  {{< interactive-modules/checklist-item label="The '8' has a narrower, less rounded appearance" /  >}}
+  {{< interactive-modules/checklist-item label="When compared with large date examples, the difference is noticeable" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="The Extremely Rare 1982-D Small Date Copper Penny" level="3" >}}
@@ -164,7 +164,7 @@ To identify if you have this rare variety, you need to:
 2. Verify it has the small date variety
 3. Weigh it to confirm it's the copper composition (approximately 3.11 grams)
 
-{{< data-modules/stats-highlight title="Value of 1982-D Small Date Copper Penny" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value of 1982-D Small Date Copper Penny" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Factors That Affect 1982-D Penny Value" level="2" >}}
 Beyond the variety, several other factors can significantly impact the value of a 1982-D penny. Understanding these factors can help you better assess the potential worth of your coin.
@@ -193,11 +193,11 @@ Beyond the standard varieties, certain errors can significantly increase the val
 The Denver Mint produced over 6 billion pennies in 1982, making most varieties quite common. However, as previously mentioned, the 1982-D Small Date Copper penny is exceptionally rare, with only a few examples known to exist.
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Factors that can increase your 1982-D penny's value" >}}
-  {{< interactive-modules/checklist-item label="Small date copper composition (extremely valuable)" / />}}
-  {{< interactive-modules/checklist-item label="Uncirculated condition with full luster" / />}}
-  {{< interactive-modules/checklist-item label="No visible scratches, marks, or wear" / />}}
-  {{< interactive-modules/checklist-item label="Presence of errors like double die or off-center strike" / />}}
-  {{< interactive-modules/checklist-item label="Original copper-red color (for copper pennies)" / />}}
+  {{< interactive-modules/checklist-item label="Small date copper composition (extremely valuable)" /  >}}
+  {{< interactive-modules/checklist-item label="Uncirculated condition with full luster" /  >}}
+  {{< interactive-modules/checklist-item label="No visible scratches, marks, or wear" /  >}}
+  {{< interactive-modules/checklist-item label="Presence of errors like double die or off-center strike" /  >}}
+  {{< interactive-modules/checklist-item label="Original copper-red color (for copper pennies)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Notable 1982-D Penny Errors and Their Values" level="2" >}}

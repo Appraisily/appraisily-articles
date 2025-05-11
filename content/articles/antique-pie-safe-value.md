@@ -155,13 +155,13 @@ True antique pie safes share several common features that help in identification
 6. **Patina and Wear**: Authentic pieces show consistent, appropriate aging. Look for a naturally developed patina, wear patterns on door edges, shelves, and around hardware.
 
 {{< interactive-modules/condition-checklist title="Antique Pie Safe Authentication Checklist" description="Use this checklist to assess the authenticity of a potential antique pie safe" >}}
-  {{< interactive-modules/checklist-item label="Punched tin panels with hand-crafted designs" / />}}
-  {{< interactive-modules/checklist-item label="Hand-cut joinery (dovetail or mortise-and-tenon)" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate wood with natural aging" / />}}
-  {{< interactive-modules/checklist-item label="Authentic or period-consistent hardware" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate wear patterns and patina" / />}}
-  {{< interactive-modules/checklist-item label="No modern nails, screws, or construction methods" / />}}
-  {{< interactive-modules/checklist-item label="Proportions and dimensions consistent with period examples" / />}}
+  {{< interactive-modules/checklist-item label="Punched tin panels with hand-crafted designs" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-cut joinery (dovetail or mortise-and-tenon)" /  >}}
+  {{< interactive-modules/checklist-item label="Period-appropriate wood with natural aging" /  >}}
+  {{< interactive-modules/checklist-item label="Authentic or period-consistent hardware" /  >}}
+  {{< interactive-modules/checklist-item label="Appropriate wear patterns and patina" /  >}}
+  {{< interactive-modules/checklist-item label="No modern nails, screws, or construction methods" /  >}}
+  {{< interactive-modules/checklist-item label="Proportions and dimensions consistent with period examples" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Regional Variations
@@ -193,7 +193,7 @@ Being able to distinguish genuine antiques from later reproductions is crucial f
 Multiple factors influence the market value of an antique pie safe, from condition and authenticity to regional characteristics and historical significance.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Factors" columns="3" / /  >}}
 
 ### Age and Authenticity
 

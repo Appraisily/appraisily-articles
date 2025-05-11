@@ -113,7 +113,7 @@ When you've discovered a potential treasure in your attic or inherited items fro
 
 Antique appraisals serve multiple purposes—from insurance documentation to estate planning, selling decisions, or simply satisfying your curiosity about a family heirloom. This comprehensive guide will help you navigate the process of finding reputable antique appraisal services near you and understand what to expect when seeking professional valuations.
 
-{{< data-modules/stats-highlight title="Antique Appraisal Industry Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Appraisal Industry Facts" columns="3" / /  >}}
 - **$250-$350**: Average starting cost for formal single-item appraisals
 - **40+ years**: Experience level of many established antique appraisers
 - **24-48 hours**: Typical turnaround time for basic appraisal services
@@ -263,14 +263,14 @@ A reputable appraiser should:
 - Maintain confidentiality
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist to evaluate potential appraisers" >}}
-{{< interactive-modules/checklist-item label="Has formal certification from a recognized appraisal organization" / />}}
-{{< interactive-modules/checklist-item label="Specializes in your specific type of antique" / />}}
-{{< interactive-modules/checklist-item label="Provides clear information about fees and process" / />}}
-{{< interactive-modules/checklist-item label="Has positive reviews or strong references" / />}}
-{{< interactive-modules/checklist-item label="Maintains professional liability insurance" / />}}
-{{< interactive-modules/checklist-item label="Follows standardized appraisal methodology" / />}}
-{{< interactive-modules/checklist-item label="Has no conflicts of interest (not offering to buy items they appraise)" / />}}
-{{< interactive-modules/checklist-item label="Provides detailed documentation with valuations" / />}}
+{{< interactive-modules/checklist-item label="Has formal certification from a recognized appraisal organization" /  >}}
+{{< interactive-modules/checklist-item label="Specializes in your specific type of antique" /  >}}
+{{< interactive-modules/checklist-item label="Provides clear information about fees and process" /  >}}
+{{< interactive-modules/checklist-item label="Has positive reviews or strong references" /  >}}
+{{< interactive-modules/checklist-item label="Maintains professional liability insurance" /  >}}
+{{< interactive-modules/checklist-item label="Follows standardized appraisal methodology" /  >}}
+{{< interactive-modules/checklist-item label="Has no conflicts of interest (not offering to buy items they appraise)" /  >}}
+{{< interactive-modules/checklist-item label="Provides detailed documentation with valuations" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Free and Low-Cost Appraisal Options" level="2" >}}

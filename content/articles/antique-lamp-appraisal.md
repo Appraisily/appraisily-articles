@@ -109,7 +109,7 @@ Antique lamps span numerous eras, styles, and materials, from ornate Victorian o
 
 This comprehensive guide will walk you through the essential aspects of antique lamp appraisal, helping you determine whether your vintage lighting fixture might be a hidden gem worth a significant sum or a charming decorative piece with modest value. We'll cover identification techniques, valuation factors, and how to connect with professional appraisers who can provide accurate assessments.
 
-{{< data-modules/stats-highlight title="Antique Lamp Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Lamp Market Insights" columns="3" / /  >}}
   <div class="stat-card">
     <div class="stat-value" style="color: #1e88e5;">$165,000+</div>
     <div class="stat-label">Record Price</div>
@@ -230,14 +230,14 @@ The condition of an antique lamp dramatically affects its value:
 ![Close-up of a damaged antique lamp shade being professionally restored](https://ik.imagekit.io/appraisily/SEO/antique-lamp-appraisal/antique-lamp-appraisal-image-3_82Zk0vknv.png)
 
 {{< interactive-modules/condition-checklist title="Antique Lamp Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your antique lamp before seeking an appraisal." >}}
-  {{< interactive-modules/checklist-item label="All original parts present (base, shade, hardware)" / />}}
-  {{< interactive-modules/checklist-item label="Shade intact with no cracks, chips, or missing pieces" / />}}
-  {{< interactive-modules/checklist-item label="Original finish present with desirable patina" / />}}
-  {{< interactive-modules/checklist-item label="No significant dents, bends, or structural damage" / />}}
-  {{< interactive-modules/checklist-item label="Electrical components functional or safely restorable" / />}}
-  {{< interactive-modules/checklist-item label="Original maker's marks or signatures visible" / />}}
-  {{< interactive-modules/checklist-item label="No amateur repairs or inappropriate modifications" / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or history available" / />}}
+  {{< interactive-modules/checklist-item label="All original parts present (base, shade, hardware)" /  >}}
+  {{< interactive-modules/checklist-item label="Shade intact with no cracks, chips, or missing pieces" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish present with desirable patina" /  >}}
+  {{< interactive-modules/checklist-item label="No significant dents, bends, or structural damage" /  >}}
+  {{< interactive-modules/checklist-item label="Electrical components functional or safely restorable" /  >}}
+  {{< interactive-modules/checklist-item label="Original maker's marks or signatures visible" /  >}}
+  {{< interactive-modules/checklist-item label="No amateur repairs or inappropriate modifications" /  >}}
+  {{< interactive-modules/checklist-item label="Documented provenance or history available" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Aesthetic Appeal and Design Quality

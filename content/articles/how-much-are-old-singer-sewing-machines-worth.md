@@ -350,7 +350,7 @@ While many people assume all old Singer machines are valuable antiques, the real
 
 According to Singer's own resources on [determining sewing machine value](https://www.singer.com/pages/sewing-machine-value-what-is-your-sewing-machine-worth), truly antique models (over 100 years old) typically hold more value than newer vintage models, especially if they're rare or in excellent condition.
 
-{{< data-modules/stats-highlight title="Key Singer Sewing Machine Value Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Singer Sewing Machine Value Statistics" columns="3" / /  >}}
 <div class="stat-card">
   <div class="stat-value">$50-$500</div>
   <div class="stat-label">Average Value Range</div>
@@ -439,12 +439,12 @@ According to [Mearto's appraisal information](https://www.mearto.com/categories/
 Condition is perhaps the most significant factor affecting your Singer's value. A well-maintained, fully functional machine will always command a higher price than one in poor condition.
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Assessment" description="Check applicable items to help determine your machine's condition" >}}
-  {{< interactive-modules/checklist-item label="Machine is in working order with all mechanisms functioning properly" / />}}
-  {{< interactive-modules/checklist-item label="Original finish and decals are intact and clearly visible" / />}}
-  {{< interactive-modules/checklist-item label="No significant rust, damage, or missing parts" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet or case is included and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original manual and accessories are present" / />}}
-  {{< interactive-modules/checklist-item label="Has been serviced and oiled regularly" / />}}
+  {{< interactive-modules/checklist-item label="Machine is in working order with all mechanisms functioning properly" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish and decals are intact and clearly visible" /  >}}
+  {{< interactive-modules/checklist-item label="No significant rust, damage, or missing parts" /  >}}
+  {{< interactive-modules/checklist-item label="Cabinet or case is included and in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Original manual and accessories are present" /  >}}
+  {{< interactive-modules/checklist-item label="Has been serviced and oiled regularly" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Model

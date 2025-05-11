@@ -46,7 +46,7 @@ The teddy bear, beloved by children and adults alike for over a century, has evo
 
 This comprehensive guide will walk you through the essential steps and techniques used by experts to identify, authenticate, and value antique teddy bears. From recognizing distinguished makers like Steiff and Merrythought to understanding the evolution of materials and construction methods, we'll provide you with the knowledge needed to determine whether your fuzzy friend is a valuable collector's item or a cherished family heirloom.
 
-{{< data-modules/stats-highlight title="Antique Teddy Bear Market Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Teddy Bear Market Facts" columns="3" / /  >}}
   <tr>
     <td>1902</td>
     <td>Year the first commercial teddy bears appeared on the market</td>
@@ -192,14 +192,14 @@ The type of stuffing used can be a key indicator of a bear's age:
 - **Non-Jointed**: More common in bears from the 1940s onward, especially in less expensive models.
 
 {{< interactive-modules/condition-checklist title="Antique Teddy Bear Material Assessment Checklist" description="Check applicable items to help identify your bear's age" >}}
-  {{< interactive-modules/checklist-item label="Mohair exterior with visible woven backing when fur is parted" / />}}
-  {{< interactive-modules/checklist-item label="Wood wool (excelsior) stuffing with springy feel and rustling sound" / />}}
-  {{< interactive-modules/checklist-item label="Disk-jointed limbs with visible metal or cardboard disks" / />}}
-  {{< interactive-modules/checklist-item label="Felt paw pads with hand-stitched details" / />}}
-  {{< interactive-modules/checklist-item label="Glass or boot button eyes secured from behind" / />}}
-  {{< interactive-modules/checklist-item label="Hand-stitched nose and mouth with silk or cotton thread" / />}}
-  {{< interactive-modules/checklist-item label="Internal growler or squeaker mechanism" / />}}
-  {{< interactive-modules/checklist-item label="Original tags, labels, or buttons in ear" / />}}
+  {{< interactive-modules/checklist-item label="Mohair exterior with visible woven backing when fur is parted" /  >}}
+  {{< interactive-modules/checklist-item label="Wood wool (excelsior) stuffing with springy feel and rustling sound" /  >}}
+  {{< interactive-modules/checklist-item label="Disk-jointed limbs with visible metal or cardboard disks" /  >}}
+  {{< interactive-modules/checklist-item label="Felt paw pads with hand-stitched details" /  >}}
+  {{< interactive-modules/checklist-item label="Glass or boot button eyes secured from behind" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-stitched nose and mouth with silk or cotton thread" /  >}}
+  {{< interactive-modules/checklist-item label="Internal growler or squeaker mechanism" /  >}}
+  {{< interactive-modules/checklist-item label="Original tags, labels, or buttons in ear" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Dating Antique Teddy Bears by Physical Characteristics" level="2" >}}

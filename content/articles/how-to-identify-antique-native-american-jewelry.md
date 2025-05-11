@@ -118,7 +118,7 @@ Learning to identify genuine antique Native American jewelry requires understand
 
 Whether you're a collector, dealer, or simply an admirer of Native American artistry, mastering these identification techniques will help you make informed decisions and develop a deeper appreciation for these cultural treasures.
 
-{{< data-modules/stats-highlight title="Native American Jewelry Market Indicators" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Native American Jewelry Market Indicators" columns="3" / /  >}}
 
 ## Understanding Hallmarks and Stamps
 
@@ -301,15 +301,15 @@ According to experts at [Faust Gallery](https://www.faustgallery.com/how-to-tell
 8. **Inconsistent style**: Mixing of tribal styles that wouldn't historically appear together
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist to assess potential Native American jewelry pieces" >}}
-  {{< interactive-modules/checklist-item label="Examine for proper hallmarks or maker's marks" / />}}
-  {{< interactive-modules/checklist-item label="Check silver content stamps (925, Sterling, or Coin)" / />}}
-  {{< interactive-modules/checklist-item label="Inspect turquoise for natural matrix patterns" / />}}
-  {{< interactive-modules/checklist-item label="Verify stone settings are secure without visible glue" / />}}
-  {{< interactive-modules/checklist-item label="Look for evidence of hand fabrication (file marks, tool marks)" / />}}
-  {{< interactive-modules/checklist-item label="Confirm appropriate weight for the size (silver has heft)" / />}}
-  {{< interactive-modules/checklist-item label="Assess if style is consistent with attributed tribe" / />}}
-  {{< interactive-modules/checklist-item label="Check for age-appropriate patina and wear" / />}}
-  {{< interactive-modules/checklist-item label="Verify consistency with period construction techniques" / />}}
+  {{< interactive-modules/checklist-item label="Examine for proper hallmarks or maker's marks" /  >}}
+  {{< interactive-modules/checklist-item label="Check silver content stamps (925, Sterling, or Coin)" /  >}}
+  {{< interactive-modules/checklist-item label="Inspect turquoise for natural matrix patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Verify stone settings are secure without visible glue" /  >}}
+  {{< interactive-modules/checklist-item label="Look for evidence of hand fabrication (file marks, tool marks)" /  >}}
+  {{< interactive-modules/checklist-item label="Confirm appropriate weight for the size (silver has heft)" /  >}}
+  {{< interactive-modules/checklist-item label="Assess if style is consistent with attributed tribe" /  >}}
+  {{< interactive-modules/checklist-item label="Check for age-appropriate patina and wear" /  >}}
+  {{< interactive-modules/checklist-item label="Verify consistency with period construction techniques" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Testing and Verification Methods" level="3" >}}

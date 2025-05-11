@@ -136,7 +136,7 @@ The value of old Pepsi cans varies dramatically based on several factors, includ
 
 Recent marketplace activity suggests growing interest in soda can collecting. According to a Reddit valuation thread, a set of vintage Pepsi cans in near-mint condition was estimated at "$70-90, because they come fresh from a case." Individual rarities from the 1960s and early 1970s in excellent condition can sell for substantially more to the right collector.
 
-{{< data-modules/stats-highlight title="Vintage Pepsi Can Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Pepsi Can Market Insights" columns="3" / /  >}}
 
 | Statistic | Value | Notes |
 | --- | --- | --- |
@@ -227,13 +227,13 @@ The oldest Pepsi cans from the 1950s and 1960s are naturally more valuable due t
 According to collector forums and marketplace data, condition dramatically impacts value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that determine the condition grade of vintage Pepsi cans" >}}
-  {{< interactive-modules/checklist-item label="Original coloration with minimal fading" / />}}
-  {{< interactive-modules/checklist-item label="No significant dents or crushing" / />}}
-  {{< interactive-modules/checklist-item label="Clean exterior without rust or corrosion" / />}}
-  {{< interactive-modules/checklist-item label="Original tab/opener intact (for pull-tab models)" / />}}
-  {{< interactive-modules/checklist-item label="Unopened (significantly increases value)" / />}}
-  {{< interactive-modules/checklist-item label="No punctures or leaks" / />}}
-  {{< interactive-modules/checklist-item label="Original product residue inside (indicating authenticity)" / />}}
+  {{< interactive-modules/checklist-item label="Original coloration with minimal fading" /  >}}
+  {{< interactive-modules/checklist-item label="No significant dents or crushing" /  >}}
+  {{< interactive-modules/checklist-item label="Clean exterior without rust or corrosion" /  >}}
+  {{< interactive-modules/checklist-item label="Original tab/opener intact (for pull-tab models)" /  >}}
+  {{< interactive-modules/checklist-item label="Unopened (significantly increases value)" /  >}}
+  {{< interactive-modules/checklist-item label="No punctures or leaks" /  >}}
+  {{< interactive-modules/checklist-item label="Original product residue inside (indicating authenticity)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance
@@ -271,7 +271,7 @@ Authentic vintage designs have specific characteristics:
 
 A Reddit thread about [identifying old Pepsi cans](https://www.reddit.com/r/Soda/comments/112jmix/any_help_identifying_the_time_period_of_this_old/) showcases how collectors use these precise design elements to determine age and authenticity.
 
-{{< data-modules/stats-highlight title="Vintage Pepsi Can Authentication" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Pepsi Can Authentication" columns="3" / /  >}}
 
 | Identification Marker | Indicator of Authenticity | Dating Period |
 | --- | --- | --- |

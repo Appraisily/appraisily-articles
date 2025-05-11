@@ -146,7 +146,7 @@ One of the most straightforward and reliable methods for identifying brass is th
 1. Hold a magnet near or against the suspected brass item
 2. Observe whether the magnet attracts to the surface
 
-{{< data-modules/stats-highlight title="Brass Authentication Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Brass Authentication Facts" columns="3" / /  >}}
 
 True brass is not magnetic because its primary components—copper and zinc—are non-ferrous metals. If the magnet sticks strongly to your item, it's likely made of iron or steel with a brass-colored plating or finish. As [Apartment Therapy notes](https://www.apartmenttherapy.com/how-to-identify-real-brass-thrift-stores-37382057), "Brass is not magnetic, so if the magnet sticks, it's most likely steel."
 
@@ -342,14 +342,14 @@ The natural patina on antique brass often contributes significantly to its chara
 - Consider light waxing with microcrystalline wax to preserve existing patina
 
 {{< interactive-modules/condition-checklist title="Antique Brass Condition Assessment" description="Check applicable items to evaluate your brass piece" >}}
-  {{< interactive-modules/checklist-item label="No dents, bends, or structural damage" / />}}
-  {{< interactive-modules/checklist-item label="Original patina largely intact" / />}}
-  {{< interactive-modules/checklist-item label="Complete with all original components" / />}}
-  {{< interactive-modules/checklist-item label="Maker's marks or hallmarks present" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or soldering visible" / />}}
-  {{< interactive-modules/checklist-item label="Mechanical elements (if any) function properly" / />}}
-  {{< interactive-modules/checklist-item label="No signs of brass plating wearing off" / />}}
-  {{< interactive-modules/checklist-item label="Minimal surface scratching" / />}}
+  {{< interactive-modules/checklist-item label="No dents, bends, or structural damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original patina largely intact" /  >}}
+  {{< interactive-modules/checklist-item label="Complete with all original components" /  >}}
+  {{< interactive-modules/checklist-item label="Maker's marks or hallmarks present" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or soldering visible" /  >}}
+  {{< interactive-modules/checklist-item label="Mechanical elements (if any) function properly" /  >}}
+  {{< interactive-modules/checklist-item label="No signs of brass plating wearing off" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal surface scratching" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/faq title="Common Questions About Identifying Antique Brass" id="faq-section" >}}

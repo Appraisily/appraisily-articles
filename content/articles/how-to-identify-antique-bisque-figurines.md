@@ -117,7 +117,7 @@ Bisque porcelain is created through a specific firing process that results in it
 
 As noted by antique experts at [Real or Repro](https://www.realorrepro.com/article/German-bisque-from-old-molds), "Probably the best clue to age is the feel of the surface. Virtually all old pre-1940 German bisque is very smooth to the touch. The vast majority of new bisque, especially reproductions of antique bisque, is much rougher." This tactile difference, while difficult to describe in words, becomes quite obvious once you've handled both authentic antique pieces and modern reproductions.
 
-{{< data-modules/stats-highlight title="Key Bisque Figurine Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Bisque Figurine Facts" columns="3" / /  >}}
 
 | Statistic | Value | Note |
 | --- | --- | --- |
@@ -149,11 +149,11 @@ According to the experts at [Doll Reference](https://www.dollreference.com/antiq
 It's important to note that not all authentic antique bisque figurines bear markings. Some smaller pieces, especially affordable "penny dolls" and ornamental figurines, were often produced without marks. In these cases, other identification methods must be employed.
 
 {{< interactive-modules/condition-checklist title="Manufacturer Mark Checklist" description="Check these areas for maker's marks on your bisque figurine" >}}
-  {{< interactive-modules/checklist-item label="Back of the head (remove wig if present)" / />}}
-  {{< interactive-modules/checklist-item label="Nape of the neck" / />}}
-  {{< interactive-modules/checklist-item label="Bottom or base of the figurine" / />}}
-  {{< interactive-modules/checklist-item label="Inside any hollow sections" / />}}
-  {{< interactive-modules/checklist-item label="Back of the shoulders or upper back" / />}}
+  {{< interactive-modules/checklist-item label="Back of the head (remove wig if present)" /  >}}
+  {{< interactive-modules/checklist-item label="Nape of the neck" /  >}}
+  {{< interactive-modules/checklist-item label="Bottom or base of the figurine" /  >}}
+  {{< interactive-modules/checklist-item label="Inside any hollow sections" /  >}}
+  {{< interactive-modules/checklist-item label="Back of the shoulders or upper back" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Notable Bisque Manufacturers and Their Characteristics" level="2" >}}
@@ -379,13 +379,13 @@ To properly identify authentic antique bisque figurines, collectors must underst
 According to experts in the field, "handling as many genuine pieces as possible" is the best education for spotting reproductions. Museums, reputable antique shows, and established collectors can provide opportunities to examine authenticated examples.
 
 {{< interactive-modules/condition-checklist title="Reproduction Red Flags" description="Check these indicators that may suggest a reproduction bisque figurine" >}}
-  {{< interactive-modules/checklist-item label="Excessively rough or grainy surface texture" / />}}
-  {{< interactive-modules/checklist-item label="Bright white coloration rather than cream undertones" / />}}
-  {{< interactive-modules/checklist-item label="Artificially applied aging that appears inconsistent" / />}}
-  {{< interactive-modules/checklist-item label="Too-perfect or unworn markings" / />}}
-  {{< interactive-modules/checklist-item label="Modern adhesives visible at joint areas" / />}}
-  {{< interactive-modules/checklist-item label="Inconsistent weight compared to authentic examples" / />}}
-  {{< interactive-modules/checklist-item label="Lack of hand-finished details" / />}}
+  {{< interactive-modules/checklist-item label="Excessively rough or grainy surface texture" /  >}}
+  {{< interactive-modules/checklist-item label="Bright white coloration rather than cream undertones" /  >}}
+  {{< interactive-modules/checklist-item label="Artificially applied aging that appears inconsistent" /  >}}
+  {{< interactive-modules/checklist-item label="Too-perfect or unworn markings" /  >}}
+  {{< interactive-modules/checklist-item label="Modern adhesives visible at joint areas" /  >}}
+  {{< interactive-modules/checklist-item label="Inconsistent weight compared to authentic examples" /  >}}
+  {{< interactive-modules/checklist-item label="Lack of hand-finished details" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Assessing Value and Investment Potential" level="2" >}}

@@ -92,7 +92,7 @@ Antique glass bowls are treasured collectibles that connect us to the past throu
 
 In the world of collectibles, specific terms have concrete meanings that help categorize items by age. According to experts and collectors, glassware that is more than 100 years old is considered antique, while pieces that are at least 40 years old are classified as vintage. This distinction is not merely semantic but carries implications for value, collectibility, and historical significance.
 
-{{< data-modules/stats-highlight title="Glass Age Classifications" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Glass Age Classifications" columns="3" / /  >}}
 <tr>
   <td>Antique Glass</td>
   <td>100+ years old</td>
@@ -143,13 +143,13 @@ The composition of the glass itself offers significant clues about its age:
 - **Surface Wear**: Antique glass may show subtle signs of use, like a slight clouding or iridescence from years of handling and washing.
 
 {{< interactive-modules/condition-checklist title="Antique Glass Authentication Checklist" description="Check for these key indicators when examining a glass bowl" >}}
-  {{< interactive-modules/checklist-item label="Presence of small air bubbles in the glass" / />}}
-  {{< interactive-modules/checklist-item label="Subtle variations in glass thickness" / />}}
-  {{< interactive-modules/checklist-item label="Pontil mark on the base of the bowl" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate pattern or design" / />}}
-  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear on the base" / />}}
-  {{< interactive-modules/checklist-item label="Distinctive color consistent with the era" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's mark or signature" / />}}
+  {{< interactive-modules/checklist-item label="Presence of small air bubbles in the glass" /  >}}
+  {{< interactive-modules/checklist-item label="Subtle variations in glass thickness" /  >}}
+  {{< interactive-modules/checklist-item label="Pontil mark on the base of the bowl" /  >}}
+  {{< interactive-modules/checklist-item label="Period-appropriate pattern or design" /  >}}
+  {{< interactive-modules/checklist-item label="Signs of age-appropriate wear on the base" /  >}}
+  {{< interactive-modules/checklist-item label="Distinctive color consistent with the era" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturer's mark or signature" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Key Distinguishing Marks" level="2" >}}
@@ -338,7 +338,7 @@ The condition of an antique glass bowl significantly impacts its value:
 
 Even small chips can reduce value by 50% or more, while repairs may diminish value by up to 90% for collector-grade pieces.
 
-{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Value" columns="3" / /  >}}
 <tr>
   <td>Mint Condition</td>
   <td>100% of Value</td>

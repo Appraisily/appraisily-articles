@@ -82,7 +82,7 @@ The market for vintage watches has grown significantly in recent years, with som
 
 In this comprehensive guide, we'll explore the key elements that influence vintage watch values, discuss how to research and determine the worth of your timepieces, and provide insights into which brands and models tend to command the highest prices in today's market.
 
-{{< data-modules/stats-highlight title="Vintage Watch Market at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Watch Market at a Glance" columns="3" / /  >}}
 <tr>
   <td>Growing Market</td>
   <td>$20+ Billion</td>
@@ -119,13 +119,13 @@ Watches produced in limited quantities naturally tend to be more valuable. Produ
 The physical state of a vintage watch dramatically affects its value. Collectors generally prefer timepieces in original, unrestored condition with minimal wear. Key condition factors include:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Check items that apply to your vintage watch" >}}
-{{< interactive-modules/checklist-item label="Original dial without restoration or repainting" / />}}
-{{< interactive-modules/checklist-item label="Case shows minimal polishing or wear" / />}}
-{{< interactive-modules/checklist-item label="Original hands, crown, and crystal" / />}}
-{{< interactive-modules/checklist-item label="Movement functions correctly and keeps accurate time" / />}}
-{{< interactive-modules/checklist-item label="No moisture damage or corrosion inside the case" / />}}
-{{< interactive-modules/checklist-item label="Original strap or bracelet in good condition" / />}}
-{{< interactive-modules/checklist-item label="Box and papers preserved" / />}}
+{{< interactive-modules/checklist-item label="Original dial without restoration or repainting" /  >}}
+{{< interactive-modules/checklist-item label="Case shows minimal polishing or wear" /  >}}
+{{< interactive-modules/checklist-item label="Original hands, crown, and crystal" /  >}}
+{{< interactive-modules/checklist-item label="Movement functions correctly and keeps accurate time" /  >}}
+{{< interactive-modules/checklist-item label="No moisture damage or corrosion inside the case" /  >}}
+{{< interactive-modules/checklist-item label="Original strap or bracelet in good condition" /  >}}
+{{< interactive-modules/checklist-item label="Box and papers preserved" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and History
@@ -311,13 +311,13 @@ Before investing in extensive restoration, consider:
 If you own vintage watches or are considering purchases, these guidelines can help preserve value:
 
 {{< interactive-modules/condition-checklist title="Value Preservation Guidelines" description="Recommendations for maintaining vintage watch value" >}}
-{{< interactive-modules/checklist-item label="Obtain service records when purchasing" / />}}
-{{< interactive-modules/checklist-item label="Have movements serviced only by specialists familiar with vintage calibers" / />}}
-{{< interactive-modules/checklist-item label="Request that watchmakers preserve original parts" / />}}
-{{< interactive-modules/checklist-item label="Avoid polishing cases, which removes material and alters original lines" / />}}
-{{< interactive-modules/checklist-item label="Never replace original dials or hands unless absolutely necessary" / />}}
-{{< interactive-modules/checklist-item label="Store watches properly to prevent deterioration" / />}}
-{{< interactive-modules/checklist-item label="Keep all original boxes, papers, and accessories" / />}}
+{{< interactive-modules/checklist-item label="Obtain service records when purchasing" /  >}}
+{{< interactive-modules/checklist-item label="Have movements serviced only by specialists familiar with vintage calibers" /  >}}
+{{< interactive-modules/checklist-item label="Request that watchmakers preserve original parts" /  >}}
+{{< interactive-modules/checklist-item label="Avoid polishing cases, which removes material and alters original lines" /  >}}
+{{< interactive-modules/checklist-item label="Never replace original dials or hands unless absolutely necessary" /  >}}
+{{< interactive-modules/checklist-item label="Store watches properly to prevent deterioration" /  >}}
+{{< interactive-modules/checklist-item label="Keep all original boxes, papers, and accessories" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Vintage watch expert David Duggan suggests in [Dawsons' article](https://www.dawsonsauctions.co.uk/news-item/are-vintage-watches-worth-anything/) that sympathetic servicing by specialists who understand the importance of preserving originality is crucial for maintaining collectible timepieces.

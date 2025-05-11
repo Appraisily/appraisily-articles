@@ -129,13 +129,13 @@ Authentic Ford wrenches typically feature one or more of these markings:
 5. **Size Indicators**: Many wrenches have size markings, typically in imperial measurements.
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist to help authenticate your vintage Ford wrench" >}}
-  {{< interactive-modules/checklist-item label="Clear FORD stamping or script logo" / />}}
-  {{< interactive-modules/checklist-item label="USA marking present" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate patina consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Correct style for the claimed era" / />}}
-  {{< interactive-modules/checklist-item label="Proper materials (typically carbon steel)" / />}}
-  {{< interactive-modules/checklist-item label="No signs of modern manufacturing processes" / />}}
-  {{< interactive-modules/checklist-item label="Weight and feel consistent with vintage tools" / />}}
+  {{< interactive-modules/checklist-item label="Clear FORD stamping or script logo" /  >}}
+  {{< interactive-modules/checklist-item label="USA marking present" /  >}}
+  {{< interactive-modules/checklist-item label="Appropriate patina consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="Correct style for the claimed era" /  >}}
+  {{< interactive-modules/checklist-item label="Proper materials (typically carbon steel)" /  >}}
+  {{< interactive-modules/checklist-item label="No signs of modern manufacturing processes" /  >}}
+  {{< interactive-modules/checklist-item label="Weight and feel consistent with vintage tools" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Common Types of Ford Wrenches
@@ -164,7 +164,7 @@ The value of vintage Ford wrenches varies significantly based on several key fac
 
 ![Vintage Ford wrench in excellent condition showing minimal wear and clear markings](https://ik.imagekit.io/appraisily/SEO/old-ford-wrench-value/old-ford-wrench-value-image-4_CCDHpKZy_.png)
 
-{{< data-modules/stats-highlight title="Value Influencers" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Influencers" columns="3" / /  >}}
 
 ### Age and Rarity
 

@@ -85,7 +85,7 @@ Before diving into valuation, it's important to understand the difference betwee
 
 Generally, sewing machines made before 1900 are considered truly "antique," while those manufactured between 1900 and 1970 are classified as "vintage." Starting in the 1980s, sewing machines began incorporating circuit boards and computerized features, marking them as modern machines even though some are now over 40 years old.
 
-{{< data-modules/stats-highlight title="Sewing Machine Age Classifications" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Sewing Machine Age Classifications" columns="3" / /  >}}
 
 | Classification | Manufacturing Period | Key Characteristics |
 |----------------|----------------------|---------------------|
@@ -164,13 +164,13 @@ The scarcity of a particular model significantly impacts its value. Early models
 Condition is perhaps the most critical factor affecting value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Antique Sewing Machines" description="Check applicable items to gauge your machine's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Decals/decorations intact and vibrant" / />}}
-  {{< interactive-modules/checklist-item label="All mechanical parts present and functional" / />}}
-  {{< interactive-modules/checklist-item label="No rust or major damage to metal components" / />}}
-  {{< interactive-modules/checklist-item label="Original wood cabinet/case in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Original accessories included (bobbins, attachments)" / />}}
-  {{< interactive-modules/checklist-item label="Original manual present" / />}}
+  {{< interactive-modules/checklist-item label="Original finish with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="Decals/decorations intact and vibrant" /  >}}
+  {{< interactive-modules/checklist-item label="All mechanical parts present and functional" /  >}}
+  {{< interactive-modules/checklist-item label="No rust or major damage to metal components" /  >}}
+  {{< interactive-modules/checklist-item label="Original wood cabinet/case in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Original accessories included (bobbins, attachments)" /  >}}
+  {{< interactive-modules/checklist-item label="Original manual present" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 The difference between poor and excellent condition can affect value by 300% or more. Machines with original finish, intact decals, and complete working mechanisms are worth significantly more than those with heavy rust, missing parts, or damaged decorations.

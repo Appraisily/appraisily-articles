@@ -142,7 +142,7 @@ The materials used and quality of craftsmanship significantly impact value:
 
 Different historical periods featured distinctive frame styles, which collectors often specialize in:
 
-{{< data-modules/stats-highlight title="Most Valuable Antique Frame Styles" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Most Valuable Antique Frame Styles" columns="3" / /  >}}
 <div class="stat-card">
   <div class="stat-value">$1,000-5,000+</div>
   <div class="stat-label">American Aesthetic</div>
@@ -207,11 +207,11 @@ Some high-quality frames were signed by their makers or stamped with the manufac
 ### Assess Patination and Wear Patterns
 
 {{< interactive-modules/condition-checklist title="Authentic Aging Indicators" description="Check these characteristics of natural aging that are difficult to reproduce" >}}
-  {{< interactive-modules/checklist-item label="Even, consistent wear in expected areas (corners, edges)" / />}}
-  {{< interactive-modules/checklist-item label="Natural oxidation of metal elements" / />}}
-  {{< interactive-modules/checklist-item label="Discoloration and darkening that penetrates below surface" / />}}
-  {{< interactive-modules/checklist-item label="Minor splits or separations at joints from natural wood movement" / />}}
-  {{< interactive-modules/checklist-item label="Irregular patterns of gilt wear showing red bole underneath" / />}}
+  {{< interactive-modules/checklist-item label="Even, consistent wear in expected areas (corners, edges)" /  >}}
+  {{< interactive-modules/checklist-item label="Natural oxidation of metal elements" /  >}}
+  {{< interactive-modules/checklist-item label="Discoloration and darkening that penetrates below surface" /  >}}
+  {{< interactive-modules/checklist-item label="Minor splits or separations at joints from natural wood movement" /  >}}
+  {{< interactive-modules/checklist-item label="Irregular patterns of gilt wear showing red bole underneath" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Consider the Frame's Design in Historical Context

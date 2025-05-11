@@ -84,7 +84,7 @@ For collectors and treasure hunters alike, learning to distinguish ordinary old 
 The value of antique bottles isn't arbitrary. Several key factors work together to determine just how much a collector might pay for your find. Understanding these elements will help you better assess the potential value of any old bottle you encounter.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / /  >}}
 
 ### Age
 Generally, the older the bottle, the more valuable it may be. Pre-1900 bottles are typically considered more collectible, with pre-Civil War bottles (pre-1865) often commanding premium prices. Hand-blown bottles made before the automatic bottle machine was invented in 1903 are especially sought after.
@@ -108,12 +108,12 @@ Color variations came from minerals and chemicals mixed into the glass during ma
 As with most collectibles, condition significantly impacts value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Factors" description="Check applicable items to assess bottle condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Original closure/stopper present" / />}}
-  {{< interactive-modules/checklist-item label="Strong embossing with clear lettering" / />}}
-  {{< interactive-modules/checklist-item label="Original labels intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No significant staining or content residue" / />}}
-  {{< interactive-modules/checklist-item label="No excessive wear or scratching" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks" /  >}}
+  {{< interactive-modules/checklist-item label="Original closure/stopper present" /  >}}
+  {{< interactive-modules/checklist-item label="Strong embossing with clear lettering" /  >}}
+  {{< interactive-modules/checklist-item label="Original labels intact (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="No significant staining or content residue" /  >}}
+  {{< interactive-modules/checklist-item label="No excessive wear or scratching" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

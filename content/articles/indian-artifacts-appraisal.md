@@ -147,7 +147,7 @@ There are several compelling reasons to seek a professional appraisal for Native
 
 6. **Collection Management**: Understanding the value of each piece helps collectors prioritize conservation efforts and make informed acquisition decisions.
 
-{{< data-modules/stats-highlight title="Native American Artifact Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Native American Artifact Market Statistics" columns="3" / /  >}}
 
 | Statistic | Value | Context |
 |-----------|-------|---------|
@@ -188,14 +188,14 @@ Skilled appraisers analyze design elements that are characteristic of specific t
 - Traditional color schemes
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Key indicators professional appraisers examine when authenticating Native American artifacts" >}}
-  {{< interactive-modules/checklist-item label="Age-appropriate materials and construction techniques" / />}}
-  {{< interactive-modules/checklist-item label="Natural patina and wear consistent with purported age" / />}}
-  {{< interactive-modules/checklist-item label="Stylistic elements matching the attributed tribe and period" / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance or collection history" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate weight and physical properties" / />}}
-  {{< interactive-modules/checklist-item label="Traditional crafting methods visible upon close examination" / />}}
-  {{< interactive-modules/checklist-item label="Absence of modern materials, tools marks, or manufacturing processes" / />}}
-  {{< interactive-modules/checklist-item label="Consistency with known authenticated examples" / />}}
+  {{< interactive-modules/checklist-item label="Age-appropriate materials and construction techniques" /  >}}
+  {{< interactive-modules/checklist-item label="Natural patina and wear consistent with purported age" /  >}}
+  {{< interactive-modules/checklist-item label="Stylistic elements matching the attributed tribe and period" /  >}}
+  {{< interactive-modules/checklist-item label="Documented provenance or collection history" /  >}}
+  {{< interactive-modules/checklist-item label="Appropriate weight and physical properties" /  >}}
+  {{< interactive-modules/checklist-item label="Traditional crafting methods visible upon close examination" /  >}}
+  {{< interactive-modules/checklist-item label="Absence of modern materials, tools marks, or manufacturing processes" /  >}}
+  {{< interactive-modules/checklist-item label="Consistency with known authenticated examples" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Scientific Testing

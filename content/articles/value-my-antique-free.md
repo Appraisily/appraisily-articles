@@ -118,7 +118,7 @@ Free antique appraisals generally come in several forms:
 
 It's worth noting that free appraisals typically don't provide the detailed documentation needed for insurance, tax, or legal purposes. However, they're excellent starting points to determine if your item warrants further investigation or a paid professional appraisal.
 
-{{< data-modules/stats-highlight title="Free Antique Appraisal Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Free Antique Appraisal Facts" columns="3" / /  >}}
 <tr>
   <td>Most Accessible</td>
   <td>Online Submissions</td>
@@ -291,16 +291,16 @@ When experts evaluate antiques, they consider these critical factors:
 ![Various antique items displayed with value factors labeled](https://ik.imagekit.io/appraisily/SEO/value-my-antique-free/value-my-antique-free-image-5_oFPMv8_Nbr.png)
 
 {{< interactive-modules/condition-checklist title="Value Assessment Factors" description="Factors experts consider when appraising antiques" >}}
-  {{< interactive-modules/checklist-item label="Authenticity" / />}}
-  {{< interactive-modules/checklist-item label="Age" / />}}
-  {{< interactive-modules/checklist-item label="Condition" / />}}
-  {{< interactive-modules/checklist-item label="Rarity" / />}}
-  {{< interactive-modules/checklist-item label="Provenance" / />}}
-  {{< interactive-modules/checklist-item label="Historical significance" / />}}
-  {{< interactive-modules/checklist-item label="Quality of craftsmanship" / />}}
-  {{< interactive-modules/checklist-item label="Current market demand" / />}}
-  {{< interactive-modules/checklist-item label="Completeness" / />}}
-  {{< interactive-modules/checklist-item label="Size and displayability" / />}}
+  {{< interactive-modules/checklist-item label="Authenticity" /  >}}
+  {{< interactive-modules/checklist-item label="Age" /  >}}
+  {{< interactive-modules/checklist-item label="Condition" /  >}}
+  {{< interactive-modules/checklist-item label="Rarity" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance" /  >}}
+  {{< interactive-modules/checklist-item label="Historical significance" /  >}}
+  {{< interactive-modules/checklist-item label="Quality of craftsmanship" /  >}}
+  {{< interactive-modules/checklist-item label="Current market demand" /  >}}
+  {{< interactive-modules/checklist-item label="Completeness" /  >}}
+  {{< interactive-modules/checklist-item label="Size and displayability" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Documenting Your Antique

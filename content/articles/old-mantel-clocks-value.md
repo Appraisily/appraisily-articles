@@ -86,7 +86,7 @@ Antique mantel clocks from the 1700s and early 1800s represent some of the most 
 
 ### Maker and Brand Reputation
 
-{{< data-modules/stats-highlight title="Most Valuable Mantel Clock Makers" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Most Valuable Mantel Clock Makers" columns="3" / /  >}}
 
 Some clockmakers have earned stellar reputations for quality, innovation, and craftsmanship. Clocks from these makers typically command premium prices:
 
@@ -107,14 +107,14 @@ A clock with a clear maker's mark or label from a prestigious manufacturer will 
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Mantel Clock Condition Checklist" description="Use this checklist to assess your clock's condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Movement works correctly and keeps time" / />}}
-  {{< interactive-modules/checklist-item label="Original hands, face, and glass intact" / />}}
-  {{< interactive-modules/checklist-item label="No significant cracks or repairs to case" / />}}
-  {{< interactive-modules/checklist-item label="Chiming mechanism functions properly" / />}}
-  {{< interactive-modules/checklist-item label="Original key present" / />}}
-  {{< interactive-modules/checklist-item label="Original pendulum intact" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance available" / />}}
+  {{< interactive-modules/checklist-item label="Original finish in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Movement works correctly and keeps time" /  >}}
+  {{< interactive-modules/checklist-item label="Original hands, face, and glass intact" /  >}}
+  {{< interactive-modules/checklist-item label="No significant cracks or repairs to case" /  >}}
+  {{< interactive-modules/checklist-item label="Chiming mechanism functions properly" /  >}}
+  {{< interactive-modules/checklist-item label="Original key present" /  >}}
+  {{< interactive-modules/checklist-item label="Original pendulum intact" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance available" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 A fully functioning clock with its original movement in excellent condition will always be worth more than a similar clock with non-working parts or replaced components. Particularly valuable are clocks that have:

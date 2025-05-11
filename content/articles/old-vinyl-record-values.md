@@ -86,7 +86,7 @@ The value of vinyl records varies dramatically, from common albums worth just a 
 
 In this comprehensive guide, we'll explore what makes vinyl records valuable, how to identify potentially valuable records in your collection, and provide practical tips for appraising and selling your records. Whether you're a serious collector or simply curious about what treasures might be hiding in your collection, this guide will help you navigate the fascinating world of vinyl record valuation.
 
-{{< data-modules/stats-highlight title="Vinyl Record Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vinyl Record Market Statistics" columns="3" / /  >}}
 
 ## What Makes a Vinyl Record Valuable?
 
@@ -197,14 +197,14 @@ Context matters significantly when determining record value:
 4. **Historical context**: Albums associated with significant cultural moments or trends
 
 {{< interactive-modules/condition-checklist title="Vinyl Record Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your vinyl records" >}}
-  {{< interactive-modules/checklist-item label="Record surface is glossy with no visible scratches or scuffs" / />}}
-  {{< interactive-modules/checklist-item label="No warping or distortion to the vinyl" / />}}
-  {{< interactive-modules/checklist-item label="Original inner sleeve is present and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Album cover has sharp corners with no ring wear" / />}}
-  {{< interactive-modules/checklist-item label="All original inserts, posters, or booklets are included" / />}}
-  {{< interactive-modules/checklist-item label="No writing or stickers on label, sleeve, or cover" / />}}
-  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or excessive noise" / />}}
-  {{< interactive-modules/checklist-item label="Original shrink wrap (if applicable) is intact" / />}}
+  {{< interactive-modules/checklist-item label="Record surface is glossy with no visible scratches or scuffs" /  >}}
+  {{< interactive-modules/checklist-item label="No warping or distortion to the vinyl" /  >}}
+  {{< interactive-modules/checklist-item label="Original inner sleeve is present and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="Album cover has sharp corners with no ring wear" /  >}}
+  {{< interactive-modules/checklist-item label="All original inserts, posters, or booklets are included" /  >}}
+  {{< interactive-modules/checklist-item label="No writing or stickers on label, sleeve, or cover" /  >}}
+  {{< interactive-modules/checklist-item label="Record plays without skips, pops, or excessive noise" /  >}}
+  {{< interactive-modules/checklist-item label="Original shrink wrap (if applicable) is intact" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## The Most Valuable Vinyl Records

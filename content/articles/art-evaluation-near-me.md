@@ -111,16 +111,16 @@ Art evaluation goes beyond simply determining what you might get if you sold a p
 
 While online resources and AI tools might offer quick estimates, they cannot replace the expertise and credentials of professional art appraisers who understand the nuances of the art market, provenance research, condition assessment, and authentication techniques.
 
-{{< data-modules/stats-highlight title="Art Appraisal Industry Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Industry Facts" columns="3" / /  >}}
 
 {{< interactive-modules/condition-checklist title="When You Need Professional Art Evaluation" description="Check applicable situations where professional art appraisal is recommended" >}}
-  {{< interactive-modules/checklist-item label="Insurance purposes for valuable artwork" / />}}
-  {{< interactive-modules/checklist-item label="Estate planning and division of assets" / />}}
-  {{< interactive-modules/checklist-item label="Tax-related matters including donations" / />}}
-  {{< interactive-modules/checklist-item label="Authentication of potentially valuable artwork" / />}}
-  {{< interactive-modules/checklist-item label="Prior to selling through galleries or auctions" / />}}
-  {{< interactive-modules/checklist-item label="Before restoration or conservation work" / />}}
-  {{< interactive-modules/checklist-item label="For divorce settlements involving art collections" / />}}
+  {{< interactive-modules/checklist-item label="Insurance purposes for valuable artwork" /  >}}
+  {{< interactive-modules/checklist-item label="Estate planning and division of assets" /  >}}
+  {{< interactive-modules/checklist-item label="Tax-related matters including donations" /  >}}
+  {{< interactive-modules/checklist-item label="Authentication of potentially valuable artwork" /  >}}
+  {{< interactive-modules/checklist-item label="Prior to selling through galleries or auctions" /  >}}
+  {{< interactive-modules/checklist-item label="Before restoration or conservation work" /  >}}
+  {{< interactive-modules/checklist-item label="For divorce settlements involving art collections" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Types of Art Evaluation Services" level="2" >}}

@@ -82,7 +82,7 @@ Antique sofas tell stories through their design, craftsmanship, and materials. E
 
 To properly identify an antique sofa, you'll need to examine several key elements: style characteristics, construction methods, materials, joinery techniques, upholstery, and any maker's marks or labels. The combination of these factors will help determine not only the age but also the potential value of your piece.
 
-{{< data-modules/stats-highlight title="Antique Sofa Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Sofa Market Insights" columns="3" / /  >}}
   <div class="stat-card blue">
     <span class="stat-value">100+</span>
     <span class="stat-label">Years Old</span>
@@ -272,15 +272,15 @@ Specific construction techniques can help date a sofa:
 According to furniture historians at [Home and Garden](https://home.howstuffworks.com/home-improvement/home-diy/projects/how-to-identify-antique-wooden-furniture-for-refinishing.htm), asymmetry in construction is often a sign of hand-crafting, indicating an authentic antique piece rather than a machine-made reproduction.
 
 {{< interactive-modules/condition-checklist title="Antique Sofa Authentication Checklist" description="Use this checklist to evaluate potential antique sofas" >}}
-  {{< interactive-modules/checklist-item label="Frame shows signs of hand construction (irregular saw marks, hand-cut joinery)" / />}}
-  {{< interactive-modules/checklist-item label="Wood has developed natural patina consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Joinery features wooden pegs or hand-cut dovetails" / />}}
-  {{< interactive-modules/checklist-item label="Hardware (if present) shows appropriate age-related wear" / />}}
-  {{< interactive-modules/checklist-item label="Upholstery materials and techniques are period-appropriate" / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns appear natural and consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Any maker's marks or labels appear authentic" / />}}
-  {{< interactive-modules/checklist-item label="Style and proportions are consistent with the purported period" / />}}
-  {{< interactive-modules/checklist-item label="Secondary woods (not visible areas) are appropriate for the era" / />}}
+  {{< interactive-modules/checklist-item label="Frame shows signs of hand construction (irregular saw marks, hand-cut joinery)" /  >}}
+  {{< interactive-modules/checklist-item label="Wood has developed natural patina consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="Joinery features wooden pegs or hand-cut dovetails" /  >}}
+  {{< interactive-modules/checklist-item label="Hardware (if present) shows appropriate age-related wear" /  >}}
+  {{< interactive-modules/checklist-item label="Upholstery materials and techniques are period-appropriate" /  >}}
+  {{< interactive-modules/checklist-item label="Wear patterns appear natural and consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="Any maker's marks or labels appear authentic" /  >}}
+  {{< interactive-modules/checklist-item label="Style and proportions are consistent with the purported period" /  >}}
+  {{< interactive-modules/checklist-item label="Secondary woods (not visible areas) are appropriate for the era" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Common Reproductions and How to Spot Them" level="2" >}}

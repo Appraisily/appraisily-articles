@@ -112,7 +112,7 @@ Art appraisals serve several important purposes:
 
 According to [The Marshall Gallery](https://themarshallgallery.com/post/5991-art-appraisal-101-all-the-basics-you-need-to-know-in-2022), "An art appraisal is an estimate of the value of an artwork. This can be done for a number of reasons, such as insurance purposes, tax considerations, or estate planning."
 
-{{< data-modules/stats-highlight title="Art Appraisal Key Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Key Statistics" columns="3" / /  >}}
 
 ![A professional appraiser examining the signature on an antique landscape painting](https://ik.imagekit.io/appraisily/SEO/old-painting-appraisal/old-painting-appraisal-image-2_6LYEIL-lp.png)
 
@@ -212,14 +212,14 @@ Generally, larger paintings by the same artist command higher prices than smalle
 Paintings that capture important historical moments, represent significant artistic movements, or offer cultural insights often carry additional value beyond their pure aesthetic qualities.
 
 {{< interactive-modules/condition-checklist title="Painting Condition Assessment" description="Check applicable items to evaluate your artwork's condition" >}}
-  {{< interactive-modules/checklist-item label="No visible cracks or crazing in the paint surface" / />}}
-  {{< interactive-modules/checklist-item label="Canvas is taut with no tears or sagging" / />}}
-  {{< interactive-modules/checklist-item label="No visible overpainting or improper restoration" / />}}
-  {{< interactive-modules/checklist-item label="Colors remain vibrant without significant fading" / />}}
-  {{< interactive-modules/checklist-item label="Original frame in good condition" / />}}
-  {{< interactive-modules/checklist-item label="No water damage or mold present" / />}}
-  {{< interactive-modules/checklist-item label="Painting is clean without significant dirt accumulation" / />}}
-  {{< interactive-modules/checklist-item label="Back of canvas/support is intact and undamaged" / />}}
+  {{< interactive-modules/checklist-item label="No visible cracks or crazing in the paint surface" /  >}}
+  {{< interactive-modules/checklist-item label="Canvas is taut with no tears or sagging" /  >}}
+  {{< interactive-modules/checklist-item label="No visible overpainting or improper restoration" /  >}}
+  {{< interactive-modules/checklist-item label="Colors remain vibrant without significant fading" /  >}}
+  {{< interactive-modules/checklist-item label="Original frame in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="No water damage or mold present" /  >}}
+  {{< interactive-modules/checklist-item label="Painting is clean without significant dirt accumulation" /  >}}
+  {{< interactive-modules/checklist-item label="Back of canvas/support is intact and undamaged" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Where to Get Your Paintings Appraised" level="2" >}}

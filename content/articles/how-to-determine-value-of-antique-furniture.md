@@ -130,7 +130,7 @@ Antique furniture values don't exist in a vacuum—they respond to market trends
 
 Additionally, the methods used to determine value can vary by context. According to the [Decorative Collective](https://www.decorativecollective.com/blog/beginners-guide-valuing-vintage-furniture), the IRS, estates, and attorneys often prefer auction values to determine furniture worth. This approach typically results in a price range that falls lower than retail value but higher than wholesale.
 
-{{< data-modules/stats-highlight title="Key Factors Affecting Antique Furniture Value" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Factors Affecting Antique Furniture Value" columns="3" / /  >}}
 
 ## Essential Steps to Determine Antique Furniture Value
 
@@ -186,14 +186,14 @@ According to [Value My Stuff](https://www.valuemystuff.com/us/blog/how-to-value-
 Condition dramatically impacts value. Furniture in original, excellent condition typically commands the highest prices.
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Condition Assessment" description="Check applicable items to help assess condition" >}}
-  {{< interactive-modules/checklist-item label="Original finish intact and well-preserved" / />}}
-  {{< interactive-modules/checklist-item label="All original hardware present" / />}}
-  {{< interactive-modules/checklist-item label="No structural damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="All drawers and doors function properly" / />}}
-  {{< interactive-modules/checklist-item label="No water damage, stains, or burns" / />}}
-  {{< interactive-modules/checklist-item label="Original upholstery (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Complete with all original components" / />}}
+  {{< interactive-modules/checklist-item label="Original finish intact and well-preserved" /  >}}
+  {{< interactive-modules/checklist-item label="All original hardware present" /  >}}
+  {{< interactive-modules/checklist-item label="No structural damage or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal wear consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="All drawers and doors function properly" /  >}}
+  {{< interactive-modules/checklist-item label="No water damage, stains, or burns" /  >}}
+  {{< interactive-modules/checklist-item label="Original upholstery (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Complete with all original components" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 When evaluating condition, consider:

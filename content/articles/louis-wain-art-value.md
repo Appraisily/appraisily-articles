@@ -126,12 +126,12 @@ The market for Louis Wain's artwork varies tremendously based on several factors
 
 According to data from MutualArt, Louis Wain's realized auction prices have ranged from 6 USD to 48,718 USD. The record price was achieved at Bonhams Knightsbridge in 2023 for "Come Birdie Come and Live with Me," demonstrating the continued strength of the market for his finest works.
 
-{{< data-modules/stats-highlight title="Louis Wain Market Statistics" columns="3" / />}}
-{{< data-modules/stat-card value="78.9%" label="Sell-through Rate" color="green" description="High demand for authentic Wain works at auction" / />}}
+{{< data-modules/stats-highlight title="Louis Wain Market Statistics" columns="3" /  >}}
+{{< data-modules/stat-card value="78.9%" label="Sell-through Rate" color="green" description="High demand for authentic Wain works at auction" /  >}}
   
-{{< data-modules/stat-card value="154%" label="Price Over Estimate" color="blue" description="Average premium above pre-auction estimates" / />}}
+{{< data-modules/stat-card value="154%" label="Price Over Estimate" color="blue" description="Average premium above pre-auction estimates" /  >}}
   
-{{< data-modules/stat-card value="$10K" label="Average Sale Price" color="orange" description="For original works in good condition" / />}}
+{{< data-modules/stat-card value="$10K" label="Average Sale Price" color="orange" description="For original works in good condition" /  >}}
 
 {{< data-modules/price-table title="Louis Wain Art Price Ranges" description="Current market values by medium and period" >}}
   <tr>
@@ -211,12 +211,12 @@ Authentication is crucial when determining the value of Louis Wain artwork. His 
 ![Close-up of Louis Wain signature on artwork with distinctive characteristics](https://ik.imagekit.io/appraisily/SEO/louis-wain-art-value/louis-wain-art-value-image-3_dFla51heX.png)
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist for Louis Wain Art" description="Key indicators of authentic Louis Wain artwork" >}}
-  {{< interactive-modules/checklist-item label="Signature Verification" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate materials and paper" / />}}
-  {{< interactive-modules/checklist-item label="Provenance documentation" / />}}
-  {{< interactive-modules/checklist-item label="Stylistic consistency with known works" / />}}
-  {{< interactive-modules/checklist-item label="Publication history (for illustrations)" / />}}
-  {{< interactive-modules/checklist-item label="Professional authentication" / />}}
+  {{< interactive-modules/checklist-item label="Signature Verification" /  >}}
+  {{< interactive-modules/checklist-item label="Period-appropriate materials and paper" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance documentation" /  >}}
+  {{< interactive-modules/checklist-item label="Stylistic consistency with known works" /  >}}
+  {{< interactive-modules/checklist-item label="Publication history (for illustrations)" /  >}}
+  {{< interactive-modules/checklist-item label="Professional authentication" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Signature Analysis

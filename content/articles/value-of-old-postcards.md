@@ -87,7 +87,7 @@ Whether you've inherited a collection, stumbled upon old postcards at an estate 
 
 Old postcards vary dramatically in value, ranging from just a few dollars to thousands for rare specimens. According to postcard experts, the vast majority of vintage postcards sell in the $2-$10 range, but exceptional examples can command premium prices far beyond this range.
 
-{{< data-modules/stats-highlight title="Old Postcard Value Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Old Postcard Value Statistics" columns="3" / /  >}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/value-of-old-postcards/value-of-old-postcards-image-2_TCzKE66Zu.png" alt="Rare vintage Halloween postcard with embossed pumpkin design" caption="Rare vintage Halloween postcards can sell for hundreds or even thousands of dollars" />}}
 
@@ -137,13 +137,13 @@ Generally, older postcards (particularly those from the 19th century and early 2
 The physical state of a postcard dramatically impacts its value. Mint condition, unused postcards typically command the highest prices. Common condition issues that reduce value include:
 
 {{< interactive-modules/condition-checklist title="Postcard Condition Assessment" description="Check for these condition issues that may affect value" >}}
-  {{< interactive-modules/checklist-item label="Creases, folds, or wrinkles" / />}}
-  {{< interactive-modules/checklist-item label="Corner damage or rounding" / />}}
-  {{< interactive-modules/checklist-item label="Stains, discoloration, or yellowing" / />}}
-  {{< interactive-modules/checklist-item label="Writing or stamps on the image side" / />}}
-  {{< interactive-modules/checklist-item label="Postmarks obscuring the image" / />}}
-  {{< interactive-modules/checklist-item label="Paper loss or tears" / />}}
-  {{< interactive-modules/checklist-item label="Fading of the original colors" / />}}
+  {{< interactive-modules/checklist-item label="Creases, folds, or wrinkles" /  >}}
+  {{< interactive-modules/checklist-item label="Corner damage or rounding" /  >}}
+  {{< interactive-modules/checklist-item label="Stains, discoloration, or yellowing" /  >}}
+  {{< interactive-modules/checklist-item label="Writing or stamps on the image side" /  >}}
+  {{< interactive-modules/checklist-item label="Postmarks obscuring the image" /  >}}
+  {{< interactive-modules/checklist-item label="Paper loss or tears" /  >}}
+  {{< interactive-modules/checklist-item label="Fading of the original colors" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Subject Matter

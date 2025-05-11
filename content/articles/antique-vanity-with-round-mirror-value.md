@@ -151,12 +151,12 @@ Vanities that include matching stools or benches, all original hardware (handles
 
 Particularly unique or rare designs, especially from renowned furniture makers or designers, can significantly increase value. Art Deco waterfall vanities with round mirrors have become increasingly collectible in recent years, with certain manufacturers like Sligh, Johnson Carper, or Kroehler commanding higher values.
 
-{{< data-modules/stats-highlight title="Antique Vanity Valuation Factors" columns="3" / />}}
-{{< data-modules/stat-card value="Condition" label="Preservation Quality" color="blue" description="Excellent original condition commands highest prices" / />}}
+{{< data-modules/stats-highlight title="Antique Vanity Valuation Factors" columns="3" /  >}}
+{{< data-modules/stat-card value="Condition" label="Preservation Quality" color="blue" description="Excellent original condition commands highest prices" /  >}}
 
-{{< data-modules/stat-card value="Rarity" label="Design Uniqueness" color="green" description="Unusual designs or limited production pieces are more valuable" / />}}
+{{< data-modules/stat-card value="Rarity" label="Design Uniqueness" color="green" description="Unusual designs or limited production pieces are more valuable" /  >}}
 
-{{< data-modules/stat-card value="Provenance" label="Ownership History" color="orange" description="Documented history can significantly increase value" / />}}
+{{< data-modules/stat-card value="Provenance" label="Ownership History" color="orange" description="Documented history can significantly increase value" /  >}}
 
 {{< content-modules/section-header title="Current Market Values" level="2" >}}
 Understanding current market prices for antique vanities with round mirrors will help you determine if your piece is appropriately valued. These ranges reflect recent sales and auction results.
@@ -254,14 +254,14 @@ Look closely at the materials used:
 - **Finish Type**: Early 20th century pieces often used shellac or varnish finishes rather than modern polyurethane
 
 {{< interactive-modules/condition-checklist title="Antique Vanity Authentication Checklist" description="Use this checklist to help determine if your vanity is a genuine antique" >}}
-  {{< interactive-modules/checklist-item label="Dovetail joints visible in drawer construction" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware (knobs, pulls, hinges) intact" / />}}
-  {{< interactive-modules/checklist-item label="Mirror glass shows age-appropriate waviness or imperfections" / />}}
-  {{< interactive-modules/checklist-item label="Wood shows consistent patina across all surfaces" / />}}
-  {{< interactive-modules/checklist-item label="Construction uses period-appropriate wood types" / />}}
-  {{< interactive-modules/checklist-item label="Furniture shows signs of wear consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="No modern materials (particleboard, plywood, plastic elements)" / />}}
-  {{< interactive-modules/checklist-item label="Original finish (not recently refinished)" / />}}
+  {{< interactive-modules/checklist-item label="Dovetail joints visible in drawer construction" /  >}}
+  {{< interactive-modules/checklist-item label="Original hardware (knobs, pulls, hinges) intact" /  >}}
+  {{< interactive-modules/checklist-item label="Mirror glass shows age-appropriate waviness or imperfections" /  >}}
+  {{< interactive-modules/checklist-item label="Wood shows consistent patina across all surfaces" /  >}}
+  {{< interactive-modules/checklist-item label="Construction uses period-appropriate wood types" /  >}}
+  {{< interactive-modules/checklist-item label="Furniture shows signs of wear consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="No modern materials (particleboard, plywood, plastic elements)" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish (not recently refinished)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Tips for Preserving Value" level="2" >}}

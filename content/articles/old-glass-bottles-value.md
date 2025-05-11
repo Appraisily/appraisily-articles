@@ -126,19 +126,19 @@ Bottles produced in limited quantities or for a short period are naturally more 
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Bottle Condition Factors" description="Check applicable items to assess your bottle's condition" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Original stopper or closure present" / />}}
-  {{< interactive-modules/checklist-item label="Retained original labels" / />}}
-  {{< interactive-modules/checklist-item label="No clouding or staining" / />}}
-  {{< interactive-modules/checklist-item label="Complete and intact embossing" / />}}
-  {{< interactive-modules/checklist-item label="Original contents (in some cases)" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks" /  >}}
+  {{< interactive-modules/checklist-item label="Original stopper or closure present" /  >}}
+  {{< interactive-modules/checklist-item label="Retained original labels" /  >}}
+  {{< interactive-modules/checklist-item label="No clouding or staining" /  >}}
+  {{< interactive-modules/checklist-item label="Complete and intact embossing" /  >}}
+  {{< interactive-modules/checklist-item label="Original contents (in some cases)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Color and Aesthetics
 
 Certain bottle colors are rarer and therefore more valuable. Common glass colors like clear, aqua, and amber were mass-produced, while colors such as cobalt blue, emerald green, amethyst, and certain shades of yellow or red can command premium prices.
 
-{{< data-modules/stats-highlight title="Value Impact of Bottle Colors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Impact of Bottle Colors" columns="3" / /  >}}
 
 - **Amber/Brown**: Most common color, typically +0-25% value premium
 - **Cobalt Blue**: Rare and highly prized, often +200-300% value premium

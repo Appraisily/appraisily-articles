@@ -119,7 +119,7 @@ Use a magnifying glass for close examination, as many marks are small and may ha
 
 ### Common Types of Markings
 
-{{< data-modules/stats-highlight title="Key Identification Elements" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Identification Elements" columns="3" / /  >}}
 
 1. **Maker's Mark or Manufacturer's Logo**: Often the most valuable identifier, these can range from full company names to abbreviated initials or symbols.
 
@@ -194,13 +194,13 @@ According to [Collectors Weekly](https://www.collectorsweekly.com/tools-and-hard
 Learning to recognize different blade shapes can help identify knife types and origins:
 
 {{< interactive-modules/condition-checklist title="Blade Shape Identification" description="Common antique blade profiles to recognize" >}}
-  {{< interactive-modules/checklist-item label="Clip point: Characterized by a concave cutout near the tip" / />}}
-  {{< interactive-modules/checklist-item label="Drop point: Curved, convex spine dropping to the point" / />}}
-  {{< interactive-modules/checklist-item label="Spear point: Symmetrical blade with centered point" / />}}
-  {{< interactive-modules/checklist-item label="Sheepsfoot: Straight edge with rounded spine" / />}}
-  {{< interactive-modules/checklist-item label="Tanto: Angled blade with two straight edges meeting at the tip" / />}}
-  {{< interactive-modules/checklist-item label="Wharncliffe: Straight edge with spine that tapers to the point" / />}}
-  {{< interactive-modules/checklist-item label="Bowie: Large clip point blade with characteristic shape" / />}}
+  {{< interactive-modules/checklist-item label="Clip point: Characterized by a concave cutout near the tip" /  >}}
+  {{< interactive-modules/checklist-item label="Drop point: Curved, convex spine dropping to the point" /  >}}
+  {{< interactive-modules/checklist-item label="Spear point: Symmetrical blade with centered point" /  >}}
+  {{< interactive-modules/checklist-item label="Sheepsfoot: Straight edge with rounded spine" /  >}}
+  {{< interactive-modules/checklist-item label="Tanto: Angled blade with two straight edges meeting at the tip" /  >}}
+  {{< interactive-modules/checklist-item label="Wharncliffe: Straight edge with spine that tapers to the point" /  >}}
+  {{< interactive-modules/checklist-item label="Bowie: Large clip point blade with characteristic shape" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 The jimping (notches cut into the spine of a blade for improved thumb grip) can also help identify certain knife styles and periods, as noted in discussions on [Red Label Abrasives](https://www.redlabelabrasives.com/blogs/news/how-to-add-jimping-to-a-knife).
@@ -376,7 +376,7 @@ After identifying your antique knife, you may want to determine its value and co
 
 According to [Knife Enthusiast](https://knifeenthusiast.com/a-comprehensive-guide-to-identifying-and-valuing-antique-knives/), several key factors determine the value of an antique knife:
 
-{{< data-modules/stats-highlight title="Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Determinants" columns="3" / /  >}}
 
 1. **Rarity**: Limited production runs, discontinued patterns, and knives from defunct manufacturers generally command higher prices.
 
@@ -393,16 +393,16 @@ According to [Knife Enthusiast](https://knifeenthusiast.com/a-comprehensive-guid
 Use this checklist to evaluate your knife's condition:
 
 {{< interactive-modules/condition-checklist title="Antique Knife Condition Factors" description="Check all applicable conditions to help determine quality" >}}
-  {{< interactive-modules/checklist-item label="Blade has no rust, pitting, or significant scratches" / />}}
-  {{< interactive-modules/checklist-item label="Edge is free from chips or improper re-sharpening" / />}}
-  {{< interactive-modules/checklist-item label="Original finish is intact on blade" / />}}
-  {{< interactive-modules/checklist-item label="Handle material shows no cracks, chips, or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Folding mechanism works smoothly with proper tension" / />}}
-  {{< interactive-modules/checklist-item label="All original parts present (blades, tools, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Markings/stampings are clear and legible" / />}}
-  {{< interactive-modules/checklist-item label="No modifications or alterations from original design" / />}}
-  {{< interactive-modules/checklist-item label="Original sheath or case is present and in good condition" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance is available" / />}}
+  {{< interactive-modules/checklist-item label="Blade has no rust, pitting, or significant scratches" /  >}}
+  {{< interactive-modules/checklist-item label="Edge is free from chips or improper re-sharpening" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish is intact on blade" /  >}}
+  {{< interactive-modules/checklist-item label="Handle material shows no cracks, chips, or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Folding mechanism works smoothly with proper tension" /  >}}
+  {{< interactive-modules/checklist-item label="All original parts present (blades, tools, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Markings/stampings are clear and legible" /  >}}
+  {{< interactive-modules/checklist-item label="No modifications or alterations from original design" /  >}}
+  {{< interactive-modules/checklist-item label="Original sheath or case is present and in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance is available" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Value Ranges for Common Antique Knives

@@ -135,7 +135,7 @@ Antique jewelry appraisal is a specialized field requiring expertise in both his
 
 Whether you need an appraisal for insurance purposes, estate planning, potential sale, or simply personal knowledge, understanding the appraisal process is essential. This guide will walk you through everything you need to know about getting your antique jewelry properly appraised.
 
-{{< data-modules/stats-highlight title="Antique Jewelry Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Jewelry Market Statistics" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Why Appraise Antique Jewelry?" level="2" >}}
 Understanding the reasons for obtaining a professional appraisal is the first step in the process. Different appraisal types serve different purposes, and knowing which you need will help ensure you receive the most relevant valuation for your situation.
@@ -209,13 +209,13 @@ The expertise of your appraiser significantly impacts the accuracy of your jewel
 When seeking an appraiser for antique jewelry, look for these qualifications:
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Essential credentials to look for in an antique jewelry appraiser" >}}
-{{< interactive-modules/checklist-item label="Professional certification from recognized organizations (GIA, NAJA, ISA, etc.)" / />}}
-{{< interactive-modules/checklist-item label="Specialization in antique or period jewelry" / />}}
-{{< interactive-modules/checklist-item label="Years of experience in the field" / />}}
-{{< interactive-modules/checklist-item label="No conflict of interest (not trying to buy your jewelry)" / />}}
-{{< interactive-modules/checklist-item label="Clear, transparent fee structure" / />}}
-{{< interactive-modules/checklist-item label="Positive reviews or testimonials" / />}}
-{{< interactive-modules/checklist-item label="Membership in professional appraisal associations" / />}}
+{{< interactive-modules/checklist-item label="Professional certification from recognized organizations (GIA, NAJA, ISA, etc.)" /  >}}
+{{< interactive-modules/checklist-item label="Specialization in antique or period jewelry" /  >}}
+{{< interactive-modules/checklist-item label="Years of experience in the field" /  >}}
+{{< interactive-modules/checklist-item label="No conflict of interest (not trying to buy your jewelry)" /  >}}
+{{< interactive-modules/checklist-item label="Clear, transparent fee structure" /  >}}
+{{< interactive-modules/checklist-item label="Positive reviews or testimonials" /  >}}
+{{< interactive-modules/checklist-item label="Membership in professional appraisal associations" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Several professional organizations can help you locate qualified appraisers:

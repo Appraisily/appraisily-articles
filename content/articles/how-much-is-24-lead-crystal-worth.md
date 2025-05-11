@@ -110,7 +110,7 @@ Key characteristics of genuine 24% lead crystal include:
 
 It's worth noting that modern concerns about lead exposure have led many manufacturers to develop lead-free crystal alternatives, making vintage 24% lead crystal pieces increasingly collectible.
 
-{{< data-modules/stats-highlight title="Lead Crystal Market Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Lead Crystal Market Facts" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Factors Affecting the Value of 24% Lead Crystal" level="2" >}}
   Several key factors determine how much your lead crystal pieces are worth in today's market.
@@ -195,14 +195,14 @@ Hold your crystal up to light. Authentic lead crystal will display exceptional c
 Premium lead crystal often features hand-cut patterns with precise, deep cuts that feel smooth to the touch. Machine-cut patterns tend to be more uniform but less intricate. Vintage and antique pieces may show slight variations that indicate handcrafting.
 
 {{< interactive-modules/condition-checklist title="Value Assessment Checklist" description="Use this checklist to evaluate your 24% lead crystal items" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or scratches visible" / />}}
-  {{< interactive-modules/checklist-item label="Clear manufacturer's mark or signature present" / />}}
-  {{< interactive-modules/checklist-item label="Noticeably heavier than regular glass" / />}}
-  {{< interactive-modules/checklist-item label="Produces clear, resonant "ping" when tapped" / />}}
-  {{< interactive-modules/checklist-item label="Creates rainbow prisms in direct light" / />}}
-  {{< interactive-modules/checklist-item label="Original box or documentation included" / />}}
-  {{< interactive-modules/checklist-item label="Pattern matches known collectible designs" / />}}
-  {{< interactive-modules/checklist-item label="No clouding or "sickness" in the glass" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or scratches visible" /  >}}
+  {{< interactive-modules/checklist-item label="Clear manufacturer's mark or signature present" /  >}}
+  {{< interactive-modules/checklist-item label="Noticeably heavier than regular glass" /  >}}
+  {{< interactive-modules/checklist-item label="Produces clear, resonant "ping" when tapped" /  >}}
+  {{< interactive-modules/checklist-item label="Creates rainbow prisms in direct light" /  >}}
+  {{< interactive-modules/checklist-item label="Original box or documentation included" /  >}}
+  {{< interactive-modules/checklist-item label="Pattern matches known collectible designs" /  >}}
+  {{< interactive-modules/checklist-item label="No clouding or "sickness" in the glass" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for 24% Lead Crystal" level="2" >}}

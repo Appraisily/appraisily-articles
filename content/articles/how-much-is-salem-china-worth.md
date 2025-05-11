@@ -145,12 +145,12 @@ Salem China produced numerous patterns throughout its history, some considerably
 Like all collectibles, condition significantly impacts Salem China value:
 
 {{< interactive-modules/condition-checklist title="Salem China Condition Assessment" description="Check applicable condition factors to help determine value" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or crazing" / />}}
-  {{< interactive-modules/checklist-item label="Gold trim intact without wear or fading" / />}}
-  {{< interactive-modules/checklist-item label="No staining or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="Original glazing is bright and clear" / />}}
-  {{< interactive-modules/checklist-item label="No utensil marks or scratches" / />}}
-  {{< interactive-modules/checklist-item label="Pattern remains vibrant" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or crazing" /  >}}
+  {{< interactive-modules/checklist-item label="Gold trim intact without wear or fading" /  >}}
+  {{< interactive-modules/checklist-item label="No staining or discoloration" /  >}}
+  {{< interactive-modules/checklist-item label="Original glazing is bright and clear" /  >}}
+  {{< interactive-modules/checklist-item label="No utensil marks or scratches" /  >}}
+  {{< interactive-modules/checklist-item label="Pattern remains vibrant" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Completeness
@@ -174,7 +174,7 @@ Salem China pieces are typically marked on the bottom with:
 Market prices for Salem China vary widely based on pattern, condition, and piece type. This pricing guide reflects current retail and secondary market values as of 2023.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Salem China Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Salem China Market Highlights" columns="3" / /  >}}
 
 {{< data-modules/price-table title="Salem China Pattern Value Ranges" description="Current market values based on recent sales data" >}}
   <tr>

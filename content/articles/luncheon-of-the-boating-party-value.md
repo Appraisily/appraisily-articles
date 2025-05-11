@@ -136,7 +136,7 @@ In this comprehensive guide, we'll explore the extraordinary value of "Luncheon 
 Understanding the current value of "Luncheon of the Boating Party" requires considering both its historical purchase prices and its contemporary market estimation. While the painting is not for sale and hasn't been on the market for decades, art experts can provide estimations based on comparable works and Renoir's auction history.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Highlights" columns="3" / /  >}}
 
 <tr>
   <td>Current Estimated Value</td>
@@ -255,13 +255,13 @@ Given the iconic status of "Luncheon of the Boating Party," there is a substanti
 When evaluating the value of a "Luncheon of the Boating Party" reproduction, consider these factors:
 
 {{< interactive-modules/condition-checklist title="Reproduction Quality Assessment" description="Key factors that affect reproduction value" >}}
-  {{< interactive-modules/checklist-item label="Accuracy of color matching to the original" / />}}
-  {{< interactive-modules/checklist-item label="Quality of materials (canvas, paints, printing inks)" / />}}
-  {{< interactive-modules/checklist-item label="Precision of brushwork in hand-painted reproductions" / />}}
-  {{< interactive-modules/checklist-item label="Resolution and clarity in printed reproductions" / />}}
-  {{< interactive-modules/checklist-item label="Quality of framing materials and craftsmanship" / />}}
-  {{< interactive-modules/checklist-item label="Provenance (authorized vs. unauthorized reproduction)" / />}}
-  {{< interactive-modules/checklist-item label="Size relative to the original artwork" / />}}
+  {{< interactive-modules/checklist-item label="Accuracy of color matching to the original" /  >}}
+  {{< interactive-modules/checklist-item label="Quality of materials (canvas, paints, printing inks)" /  >}}
+  {{< interactive-modules/checklist-item label="Precision of brushwork in hand-painted reproductions" /  >}}
+  {{< interactive-modules/checklist-item label="Resolution and clarity in printed reproductions" /  >}}
+  {{< interactive-modules/checklist-item label="Quality of framing materials and craftsmanship" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance (authorized vs. unauthorized reproduction)" /  >}}
+  {{< interactive-modules/checklist-item label="Size relative to the original artwork" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 While reproductions lack the investment value of original artworks, high-quality ones from reputable sources can still provide aesthetic enjoyment and appreciation of Renoir's masterpiece. According to pricing data from several reproduction galleries, such as Reproduction Gallery and 1st Art Gallery, prices typically range from $299 for smaller sizes to over $1,000 for larger, more detailed reproductions.

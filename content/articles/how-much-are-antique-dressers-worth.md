@@ -43,7 +43,7 @@ The term "antique" isn't merely subjective—it has specific meanings in the wor
 
 Items that are older than 20 years but not yet 100 years old typically fall into the "vintage" category. This distinction is important because true antiques often command higher prices than vintage pieces, all else being equal.
 
-{{< data-modules/stats-highlight title="Age Classification of Furniture" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Age Classification of Furniture" columns="3" / /  >}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/how-much-are-antique-dressers-worth/how-much-are-antique-dressers-worth-image-2_e4FysYlwx.png" alt="Ornate antique dresser with mirror from the early 1900s" caption="A Victorian-era dresser with original mirror and hardware, circa 1890s" />}}
 
@@ -82,14 +82,14 @@ The age of a dresser significantly impacts its value, with pieces from certain p
 The condition of an antique dresser is perhaps the single most important factor affecting its value. Collectors and buyers look for:
 
 {{< interactive-modules/condition-checklist title="Antique Dresser Condition Assessment" description="Evaluate your dresser's condition by checking these factors" >}}
-  {{< interactive-modules/checklist-item label="Original finish in good condition" / />}}
-  {{< interactive-modules/checklist-item label="All original hardware present" / />}}
-  {{< interactive-modules/checklist-item label="Drawers that open and close smoothly" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches, dents, or water damage" / />}}
-  {{< interactive-modules/checklist-item label="Stable structure with no wobbling" / />}}
-  {{< interactive-modules/checklist-item label="Original mirror intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="No missing veneer or severe wood damage" / />}}
-  {{< interactive-modules/checklist-item label="No inappropriate repairs or refinishing" / />}}
+  {{< interactive-modules/checklist-item label="Original finish in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="All original hardware present" /  >}}
+  {{< interactive-modules/checklist-item label="Drawers that open and close smoothly" /  >}}
+  {{< interactive-modules/checklist-item label="No significant scratches, dents, or water damage" /  >}}
+  {{< interactive-modules/checklist-item label="Stable structure with no wobbling" /  >}}
+  {{< interactive-modules/checklist-item label="Original mirror intact (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="No missing veneer or severe wood damage" /  >}}
+  {{< interactive-modules/checklist-item label="No inappropriate repairs or refinishing" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Craftmanship and Materials

@@ -222,7 +222,7 @@ The collectibility of vintage Coca-Cola machines varies significantly based on r
 
 "The Vendo 56 remains one of the most sought-after units by Coca-Cola collectors across the U.S. and beyond," notes the [VeVe Digital Collectibles blog](https://blog.veve.me/post/coca-cola-vending-machines), highlighting the enduring appeal of this particular model.
 
-{{< data-modules/stats-highlight title="Market Insights for Vintage Coca-Cola Machines" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Market Insights for Vintage Coca-Cola Machines" columns="3" / /  >}}
 
 {{< content-modules/section-header title="How to Identify Your Vintage Coke Machine" level="2" >}}
 Proper identification is the crucial first step in determining the value of a vintage Coca-Cola machine. Serial numbers, design elements, and manufacturing details all provide important clues.
@@ -261,13 +261,13 @@ Be aware that reproduction machines exist in the market. Authentic vintage machi
 - Authentic Coca-Cola logo styles matching the purported production period
 
 {{< interactive-modules/condition-checklist title="Vintage Coke Machine Identification Checklist" description="Use this checklist to properly identify your machine" >}}
-  {{< interactive-modules/checklist-item label="Locate and decode the serial number plate" / />}}
-  {{< interactive-modules/checklist-item label="Document all Coca-Cola logos and design elements" / />}}
-  {{< interactive-modules/checklist-item label="Research the manufacturer (Vendo, Cavalier, Westinghouse, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Measure dimensions and compare to known specifications" / />}}
-  {{< interactive-modules/checklist-item label="Photograph any unique features or design elements" / />}}
-  {{< interactive-modules/checklist-item label="Check for period-appropriate coin mechanisms" / />}}
-  {{< interactive-modules/checklist-item label="Consult collector resources for similar models" / />}}
+  {{< interactive-modules/checklist-item label="Locate and decode the serial number plate" /  >}}
+  {{< interactive-modules/checklist-item label="Document all Coca-Cola logos and design elements" /  >}}
+  {{< interactive-modules/checklist-item label="Research the manufacturer (Vendo, Cavalier, Westinghouse, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Measure dimensions and compare to known specifications" /  >}}
+  {{< interactive-modules/checklist-item label="Photograph any unique features or design elements" /  >}}
+  {{< interactive-modules/checklist-item label="Check for period-appropriate coin mechanisms" /  >}}
+  {{< interactive-modules/checklist-item label="Consult collector resources for similar models" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 For definitive identification of rare or unusual models, consider consulting specialists at [Collectors Weekly](https://www.collectorsweekly.com/coca-cola/machines/stories) or dedicated Coca-Cola collector forums.
@@ -309,7 +309,7 @@ Collectors debate the value impact of restoration:
 
 As [LoveToKnow](https://www.lovetoknow.com/home/antiques-collectibles/value-vintage-coca-cola-machines) notes, "Most vintage Coke machines that have been fully restored are worth $5000-$6000."
 
-{{< data-modules/stats-highlight title="Condition Impact on Vintage Coca-Cola Machine Values" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Condition Impact on Vintage Coca-Cola Machine Values" columns="3" / /  >}}
 
 {{< content-modules/section-header title="The Restoration Consideration" level="2" >}}
 Understanding the restoration process, its costs, and impact on value is essential for making informed decisions about vintage Coca-Cola machines.

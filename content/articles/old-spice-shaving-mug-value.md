@@ -138,13 +138,13 @@ Generally, older Old Spice mugs command higher prices, with the earliest Hull Po
 The condition of a shaving mug dramatically impacts its value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Old Spice Mugs" description="Use this checklist to evaluate the condition of your Old Spice shaving mug:" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original glaze intact with minimal crazing" / />}}
-  {{< interactive-modules/checklist-item label="Vibrant colors with minimal fading" / />}}
-  {{< interactive-modules/checklist-item label="Clear, undamaged ship imagery" / />}}
-  {{< interactive-modules/checklist-item label="Legible maker's marks and branding" / />}}
-  {{< interactive-modules/checklist-item label="Clean interior with no soap residue" / />}}
-  {{< interactive-modules/checklist-item label="Original packaging present (box, instructions)" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks, or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Original glaze intact with minimal crazing" /  >}}
+  {{< interactive-modules/checklist-item label="Vibrant colors with minimal fading" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, undamaged ship imagery" /  >}}
+  {{< interactive-modules/checklist-item label="Legible maker's marks and branding" /  >}}
+  {{< interactive-modules/checklist-item label="Clean interior with no soap residue" /  >}}
+  {{< interactive-modules/checklist-item label="Original packaging present (box, instructions)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Design and Manufacturer
@@ -169,7 +169,7 @@ Authentic Old Spice mugs have specific markings that help determine their age an
 - Later mugs have markings indicating "Shulton" and the country of manufacture
 - Some limited editions and special releases have unique markings
 
-{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Impact Factors" columns="3" / /  >}}
   <tr>
     <td>Original Box & Packaging</td>
     <td>+30-50%</td>

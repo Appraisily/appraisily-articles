@@ -127,7 +127,7 @@ While all vintage CorningWare holds some collectible value, these patterns are c
 
 Certain CorningWare patterns were produced in limited quantities or for short periods, making them particularly rare finds today. Here's our ranking of the 10 rarest and most sought-after patterns:
 
-{{< data-modules/stats-highlight title="Most Valuable CorningWare Patterns" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Most Valuable CorningWare Patterns" columns="3" / /  >}}
 
 1. **Wildflower (1977-1984)**: Known for its delicate purple and pink flower design, this pattern commands premium prices due to its limited production run and distinctive aesthetic.
 
@@ -228,14 +228,14 @@ The material composition significantly impacts value:
 2. **Stoneware (1998-present)**: Later CorningWare made from stoneware generally has much lower collectible value. These pieces are typically heavier, completely opaque, and cannot be used on stovetops.
 
 {{< interactive-modules/condition-checklist title="CorningWare Authentication Checklist" description="Check applicable items to help identify if your piece is valuable vintage CorningWare:" >}}
-  {{< interactive-modules/checklist-item label="Piece is made of Pyroceram (not stoneware)" / />}}
-  {{< interactive-modules/checklist-item label="Has 'CORNING WARE' and 'PYROCERAM' markings" / />}}
-  {{< interactive-modules/checklist-item label="Displays 'Made in USA' on the bottom" / />}}
-  {{< interactive-modules/checklist-item label="Features an A, P, F, or B series model number" / />}}
-  {{< interactive-modules/checklist-item label="Pattern matches one of the known rare designs" / />}}
-  {{< interactive-modules/checklist-item label="Has original lids (Pyrex or CorningWare)" / />}}
-  {{< interactive-modules/checklist-item label="Shows minimal wear, no chips or cracks" / />}}
-  {{< interactive-modules/checklist-item label="Has been properly authenticated by an expert" / />}}
+  {{< interactive-modules/checklist-item label="Piece is made of Pyroceram (not stoneware)" /  >}}
+  {{< interactive-modules/checklist-item label="Has 'CORNING WARE' and 'PYROCERAM' markings" /  >}}
+  {{< interactive-modules/checklist-item label="Displays 'Made in USA' on the bottom" /  >}}
+  {{< interactive-modules/checklist-item label="Features an A, P, F, or B series model number" /  >}}
+  {{< interactive-modules/checklist-item label="Pattern matches one of the known rare designs" /  >}}
+  {{< interactive-modules/checklist-item label="Has original lids (Pyrex or CorningWare)" /  >}}
+  {{< interactive-modules/checklist-item label="Shows minimal wear, no chips or cracks" /  >}}
+  {{< interactive-modules/checklist-item label="Has been properly authenticated by an expert" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Remember that some sellers may incorrectly label common patterns as "rare" to inflate prices. Using this checklist can help you make more informed purchasing decisions.
@@ -303,7 +303,7 @@ Many floral-decorated CorningWare pieces were produced in large quantities. Whil
 
 Any CorningWare made after the company stopped using Pyroceram has minimal collectible value, regardless of pattern. These stoneware pieces typically sell for less than $20.
 
-{{< data-modules/stats-highlight title="CorningWare Market Reality Check" columns="3" / / />}}
+{{< data-modules/stats-highlight title="CorningWare Market Reality Check" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Where to Find Rare CorningWare Patterns" level="2" >}}
 For collectors seeking rare patterns, knowing where to look can make all the difference.

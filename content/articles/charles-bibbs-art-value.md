@@ -131,7 +131,7 @@ According to [Charles Bibbs' official website](https://www.cbibbs.com/), his ori
 
 Limited edition prints are more accessible, with prices generally ranging from $200 to $1,100 depending on the edition size and the popularity of the image. These prints offer collectors an opportunity to own Bibbs' work at a more moderate price point while still maintaining good investment potential.
 
-{{< data-modules/stats-highlight title="Charles Bibbs Art Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Charles Bibbs Art Market Insights" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Factors That Determine Charles Bibbs Art Value" level="2" >}}
 Several key factors influence the market value of Charles Bibbs artwork. Understanding these elements can help collectors make informed decisions when purchasing or selling his works.
@@ -285,14 +285,14 @@ Trace the artwork's history of ownership:
 - Direct purchase from the artist's official website ([cbibbs.com](https://www.cbibbs.com/))
 
 {{< interactive-modules/condition-checklist title="Charles Bibbs Artwork Authentication Checklist" description="Use this checklist to assess the authenticity of a Charles Bibbs artwork" >}}
-  {{< interactive-modules/checklist-item label="Signature matches known examples of Bibbs' signature" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity from an authorized dealer" / />}}
-  {{< interactive-modules/checklist-item label="Edition numbering is clear and consistent with the stated edition size" / />}}
-  {{< interactive-modules/checklist-item label="Printed on high-quality, acid-free paper (for prints)" / />}}
-  {{< interactive-modules/checklist-item label="Colors are vibrant and true to Bibbs' known palette" / />}}
-  {{< interactive-modules/checklist-item label="Image details are crisp and well-defined" / />}}
-  {{< interactive-modules/checklist-item label="Provenance can be verified through legitimate sources" / />}}
-  {{< interactive-modules/checklist-item label="Print or artwork dimensions match known specifications" / />}}
+  {{< interactive-modules/checklist-item label="Signature matches known examples of Bibbs' signature" /  >}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity from an authorized dealer" /  >}}
+  {{< interactive-modules/checklist-item label="Edition numbering is clear and consistent with the stated edition size" /  >}}
+  {{< interactive-modules/checklist-item label="Printed on high-quality, acid-free paper (for prints)" /  >}}
+  {{< interactive-modules/checklist-item label="Colors are vibrant and true to Bibbs' known palette" /  >}}
+  {{< interactive-modules/checklist-item label="Image details are crisp and well-defined" /  >}}
+  {{< interactive-modules/checklist-item label="Provenance can be verified through legitimate sources" /  >}}
+  {{< interactive-modules/checklist-item label="Print or artwork dimensions match known specifications" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Collecting Charles Bibbs: Investment Considerations" level="2" >}}

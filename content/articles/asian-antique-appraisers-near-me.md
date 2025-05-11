@@ -123,7 +123,7 @@ Asian art and antiques represent some of the most complex items to appraise in t
 
 Using a general appraiser for valuable Asian artifacts is risky, as they may miss critical details that significantly impact value. For example, a seemingly minor detail like a specific reign mark on Chinese porcelain could mean the difference between a $100 reproduction and a $10,000 authentic piece.
 
-{{< data-modules/stats-highlight title="Asian Antiques Appraisal Market" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Asian Antiques Appraisal Market" columns="3" / /  >}}
 
 {{< content-modules/section-header title="How to Find Qualified Asian Antique Appraisers" level="2" >}}
   Locating reputable appraisers with Asian art expertise requires knowing where to look and what qualifications to seek.
@@ -338,16 +338,16 @@ Be aware of the major categories your items might fall into:
 - **Cloisonné and enamelware**: Decorative vessels and ornaments
 
 {{< interactive-modules/condition-checklist title="Asian Antique Condition Assessment" description="Use this checklist to evaluate the condition of your Asian antiques before appraisal" >}}
-  {{< interactive-modules/checklist-item label="No visible cracks or chips" / />}}
-  {{< interactive-modules/checklist-item label="Original surface patina intact" / />}}
-  {{< interactive-modules/checklist-item label="No significant restoration or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Marks, signatures or seals present and legible" / />}}
-  {{< interactive-modules/checklist-item label="Original mounting or display elements included" / />}}
-  {{< interactive-modules/checklist-item label="No excessive fading or color loss" / />}}
-  {{< interactive-modules/checklist-item label="Documentation of provenance available" / />}}
-  {{< interactive-modules/checklist-item label="All components complete (for multi-part items)" / />}}
-  {{< interactive-modules/checklist-item label="No active deterioration (rust, mold, insect damage)" / />}}
-  {{< interactive-modules/checklist-item label="Original box or storage container present" / />}}
+  {{< interactive-modules/checklist-item label="No visible cracks or chips" /  >}}
+  {{< interactive-modules/checklist-item label="Original surface patina intact" /  >}}
+  {{< interactive-modules/checklist-item label="No significant restoration or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Marks, signatures or seals present and legible" /  >}}
+  {{< interactive-modules/checklist-item label="Original mounting or display elements included" /  >}}
+  {{< interactive-modules/checklist-item label="No excessive fading or color loss" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation of provenance available" /  >}}
+  {{< interactive-modules/checklist-item label="All components complete (for multi-part items)" /  >}}
+  {{< interactive-modules/checklist-item label="No active deterioration (rust, mold, insect damage)" /  >}}
+  {{< interactive-modules/checklist-item label="Original box or storage container present" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="What to Expect During an Asian Antique Appraisal" level="2" >}}

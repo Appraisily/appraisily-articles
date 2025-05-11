@@ -125,7 +125,7 @@ Native American artifacts represent a rich cultural heritage spanning thousands 
 
 Before attempting to identify any potential Native American artifact, it's important to understand the ethical and legal considerations. In the United States, laws like the Native American Graves Protection and Repatriation Act (NAGPRA) and the Archaeological Resources Protection Act (ARPA) protect cultural items and archaeological resources on federal and tribal lands. Always ensure you're acting within legal boundaries when collecting or identifying artifacts.
 
-{{< data-modules/stats-highlight title="Native American Artifact Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Native American Artifact Facts" columns="3" / /  >}}
   <div class="stat-card">
     <div class="stat-value">15,000+</div>
     <div class="stat-label">Years of History</div>
@@ -210,13 +210,13 @@ Key identification features of Native American pottery include:
 ### Authentication Checklist
 
 {{< interactive-modules/condition-checklist title="Artifact Authentication Indicators" description="Check for these features when identifying potential artifacts" >}}
-  {{< interactive-modules/checklist-item label="Evidence of human modification (flaking, grinding, carving)" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate material for the artifact type and region" / />}}
-  {{< interactive-modules/checklist-item label="Presence of patina or surface aging consistent with antiquity" / />}}
-  {{< interactive-modules/checklist-item label="Use-wear patterns consistent with the tool's purpose" / />}}
-  {{< interactive-modules/checklist-item label="Stylistic elements consistent with known cultural patterns" / />}}
-  {{< interactive-modules/checklist-item label="Weight and density appropriate for material type" / />}}
-  {{< interactive-modules/checklist-item label="No evidence of modern manufacturing techniques" / />}}
+  {{< interactive-modules/checklist-item label="Evidence of human modification (flaking, grinding, carving)" /  >}}
+  {{< interactive-modules/checklist-item label="Appropriate material for the artifact type and region" /  >}}
+  {{< interactive-modules/checklist-item label="Presence of patina or surface aging consistent with antiquity" /  >}}
+  {{< interactive-modules/checklist-item label="Use-wear patterns consistent with the tool's purpose" /  >}}
+  {{< interactive-modules/checklist-item label="Stylistic elements consistent with known cultural patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Weight and density appropriate for material type" /  >}}
+  {{< interactive-modules/checklist-item label="No evidence of modern manufacturing techniques" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Signs of Authenticity vs. Natural Objects

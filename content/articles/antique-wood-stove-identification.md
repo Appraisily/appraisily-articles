@@ -110,7 +110,7 @@ These large, multipurpose wood stoves were the heart of many American kitchens f
 
 These tall, vertical stoves featured a simple cylindrical shape and were designed primarily for heating. They were often less decorative than parlor stoves but more elegant than basic box stoves.
 
-{{< data-modules/stats-highlight title="Antique Wood Stove Key Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Wood Stove Key Facts" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Identifying Manufacturers and Brands" level="2" >}}
   Identifying the manufacturer is crucial in determining the age, authenticity, and value of an antique wood stove.
@@ -195,14 +195,14 @@ The construction methods used can also provide dating clues:
 4. **Materials**: The presence of materials like nickel, chrome, porcelain enamel, or mica windows can indicate different manufacturing periods
 
 {{< interactive-modules/condition-checklist title="Antique Wood Stove Age Assessment Checklist" description="Check applicable items to help determine the approximate age of your stove" >}}
-  {{< interactive-modules/checklist-item label="Simple design with minimal decoration" / />}}
-  {{< interactive-modules/checklist-item label="Visible bolts connecting major components" / />}}
-  {{< interactive-modules/checklist-item label="Highly ornate Victorian-style decoration" / />}}
-  {{< interactive-modules/checklist-item label="Nickel-plated trim elements" / />}}
-  {{< interactive-modules/checklist-item label="Ceramic or porcelain enamel components" / />}}
-  {{< interactive-modules/checklist-item label="Patent dates from before 1900" / />}}
-  {{< interactive-modules/checklist-item label="Thick, heavy cast iron construction" / />}}
-  {{< interactive-modules/checklist-item label="Mica windows in doors or panels" / />}}
+  {{< interactive-modules/checklist-item label="Simple design with minimal decoration" /  >}}
+  {{< interactive-modules/checklist-item label="Visible bolts connecting major components" /  >}}
+  {{< interactive-modules/checklist-item label="Highly ornate Victorian-style decoration" /  >}}
+  {{< interactive-modules/checklist-item label="Nickel-plated trim elements" /  >}}
+  {{< interactive-modules/checklist-item label="Ceramic or porcelain enamel components" /  >}}
+  {{< interactive-modules/checklist-item label="Patent dates from before 1900" /  >}}
+  {{< interactive-modules/checklist-item label="Thick, heavy cast iron construction" /  >}}
+  {{< interactive-modules/checklist-item label="Mica windows in doors or panels" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Assessing Value and Authenticity" level="2" >}}

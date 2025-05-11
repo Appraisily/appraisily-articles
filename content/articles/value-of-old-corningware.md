@@ -80,7 +80,7 @@ Those blue and white casserole dishes in your mother's or grandmother's kitchen 
 
 CorningWare revolutionized home cooking when it was introduced in 1958. Made from Pyroceram, a glass-ceramic material originally developed for missile nose cones, these durable dishes could withstand extreme temperature changes, moving directly from freezer to oven without cracking. Over the decades, numerous patterns, shapes, and sizes were produced, with some becoming significantly more valuable than others.
 
-{{< data-modules/stats-highlight title="Vintage CorningWare Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage CorningWare Market Highlights" columns="3" / /  >}}
 - **$10,000+**: Top auction prices for the rarest patterns
 - **60+ years**: Age of the oldest CorningWare pieces (since 1958)
 - **287%**: Average value increase for rare patterns since 2020
@@ -138,14 +138,14 @@ The pattern is often the single biggest determinant of CorningWare value. While 
 The condition of vintage CorningWare dramatically affects its value. Pieces with minimal wear, no cracks, chips, or crazing will command premium prices.
 
 {{< interactive-modules/condition-checklist title="CorningWare Condition Assessment" description="Check applicable items to gauge value impact" >}}
-  {{< interactive-modules/checklist-item label="No chips or cracks in the dish or lid" / />}}
-  {{< interactive-modules/checklist-item label="Pattern is bright with minimal fading" / />}}
-  {{< interactive-modules/checklist-item label="Original lid is present and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="No signs of crazing (tiny cracks in the glaze)" / />}}
-  {{< interactive-modules/checklist-item label="Original box or packaging is included" / />}}
-  {{< interactive-modules/checklist-item label="No discoloration or staining" / />}}
-  {{< interactive-modules/checklist-item label="Minimal utensil marks on the interior" / />}}
-  {{< interactive-modules/checklist-item label="Complete set with accessories (trivets, holders)" / />}}
+  {{< interactive-modules/checklist-item label="No chips or cracks in the dish or lid" /  >}}
+  {{< interactive-modules/checklist-item label="Pattern is bright with minimal fading" /  >}}
+  {{< interactive-modules/checklist-item label="Original lid is present and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="No signs of crazing (tiny cracks in the glaze)" /  >}}
+  {{< interactive-modules/checklist-item label="Original box or packaging is included" /  >}}
+  {{< interactive-modules/checklist-item label="No discoloration or staining" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal utensil marks on the interior" /  >}}
+  {{< interactive-modules/checklist-item label="Complete set with accessories (trivets, holders)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness of Sets

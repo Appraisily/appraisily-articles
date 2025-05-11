@@ -122,7 +122,7 @@ The charming blue and white scenes of Americana depicted on Currier and Ives din
 
 Whether you've inherited a set of these classic dishes or discovered them at an estate sale, understanding their value, history, and collectibility can help you make informed decisions about your Currier and Ives treasures. This comprehensive guide focuses specifically on "The Old Grist Mill" pattern, one of the most recognizable and sought-after designs in the Currier and Ives dinnerware collection.
 
-{{< data-modules/stats-highlight title="Currier and Ives Old Grist Mill Quick Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Currier and Ives Old Grist Mill Quick Facts" columns="3" / /  >}}
 - **Production Era**: 1949-1986
 - **Manufacturer**: Royal China Company (primarily)
 - **Material**: Ironstone
@@ -196,14 +196,14 @@ Authentic Royal China Currier and Ives "The Old Grist Mill" pieces feature:
 - Even coloration throughout the pattern
 
 {{< interactive-modules/condition-checklist title="Authentication Checklist" description="Use this checklist to help verify authentic Currier and Ives 'The Old Grist Mill' pieces" >}}
-  {{< interactive-modules/checklist-item label="Has proper backstamp with 'Royal China' marking" / />}}
-  {{< interactive-modules/checklist-item label="Blue print is under the glaze (not on top)" / />}}
-  {{< interactive-modules/checklist-item label="Scene depicts mill with water wheel and surrounding landscape" / />}}
-  {{< interactive-modules/checklist-item label="Has substantial weight typical of ironstone" / />}}
-  {{< interactive-modules/checklist-item label="Glaze is smooth with minimal crazing (tiny cracks)" / />}}
-  {{< interactive-modules/checklist-item label="Blue color has consistent tone throughout" / />}}
-  {{< interactive-modules/checklist-item label="Edges and rims have precise, clean finishing" / />}}
-  {{< interactive-modules/checklist-item label="Shows appropriate wear consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Has proper backstamp with 'Royal China' marking" /  >}}
+  {{< interactive-modules/checklist-item label="Blue print is under the glaze (not on top)" /  >}}
+  {{< interactive-modules/checklist-item label="Scene depicts mill with water wheel and surrounding landscape" /  >}}
+  {{< interactive-modules/checklist-item label="Has substantial weight typical of ironstone" /  >}}
+  {{< interactive-modules/checklist-item label="Glaze is smooth with minimal crazing (tiny cracks)" /  >}}
+  {{< interactive-modules/checklist-item label="Blue color has consistent tone throughout" /  >}}
+  {{< interactive-modules/checklist-item label="Edges and rims have precise, clean finishing" /  >}}
+  {{< interactive-modules/checklist-item label="Shows appropriate wear consistent with age" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 It's worth noting that reproduction pieces have appeared on the market, particularly in recent decades. As collector interest has grown, the appeal of these nostalgic patterns has led to unauthorized copies. However, these typically lack the quality and specific backstamp elements of authentic Royal China pieces.
@@ -341,14 +341,14 @@ Several issues commonly affect the condition and value of "The Old Grist Mill" d
 To preserve the condition and value of Currier and Ives "The Old Grist Mill" dishes, follow these care guidelines:
 
 {{< interactive-modules/condition-checklist title="Care Guidelines for Currier and Ives Dinnerware" description="Follow these practices to maintain your collection's condition and value" >}}
-  {{< interactive-modules/checklist-item label="Hand wash with mild soap and warm (not hot) water" / />}}
-  {{< interactive-modules/checklist-item label="Avoid dishwasher cleaning, which causes fading and crazing" / />}}
-  {{< interactive-modules/checklist-item label="Use soft cloths or sponges, never abrasive scrubbers" / />}}
-  {{< interactive-modules/checklist-item label="Store plates with felt separators to prevent scratching" / />}}
-  {{< interactive-modules/checklist-item label="Display pieces away from direct sunlight to prevent fading" / />}}
-  {{< interactive-modules/checklist-item label="Handle by the base or rim, not by handles or protruding elements" / />}}
-  {{< interactive-modules/checklist-item label="Clean any food residue promptly to prevent staining" / />}}
-  {{< interactive-modules/checklist-item label="Avoid sudden temperature changes that could cause cracking" / />}}
+  {{< interactive-modules/checklist-item label="Hand wash with mild soap and warm (not hot) water" /  >}}
+  {{< interactive-modules/checklist-item label="Avoid dishwasher cleaning, which causes fading and crazing" /  >}}
+  {{< interactive-modules/checklist-item label="Use soft cloths or sponges, never abrasive scrubbers" /  >}}
+  {{< interactive-modules/checklist-item label="Store plates with felt separators to prevent scratching" /  >}}
+  {{< interactive-modules/checklist-item label="Display pieces away from direct sunlight to prevent fading" /  >}}
+  {{< interactive-modules/checklist-item label="Handle by the base or rim, not by handles or protruding elements" /  >}}
+  {{< interactive-modules/checklist-item label="Clean any food residue promptly to prevent staining" /  >}}
+  {{< interactive-modules/checklist-item label="Avoid sudden temperature changes that could cause cracking" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to ceramics conservators, the biggest threats to vintage dinnerware like "The Old Grist Mill" pattern are improper washing and storage. While these dishes were designed for everyday use, collectors seeking to preserve value should consider them more as display pieces than functional tableware.
@@ -377,7 +377,7 @@ Specialized collectors of Currier and Ives "The Old Grist Mill" dinnerware often
 
 As with most collectibles, the investment potential of "The Old Grist Mill" dinnerware depends on several market factors:
 
-{{< data-modules/stats-highlight title="Investment Considerations" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Investment Considerations" columns="3" / /  >}}
 - **Scarcity Trend**: ↗️ Increasing as sets are broken up and pieces damaged
 - **Collector Demographics**: ↔️ Stable interest from nostalgic buyers and Americana collectors
 - **Condition Premium**: ↗️ Growing gap between prices for mint vs. damaged pieces

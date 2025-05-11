@@ -82,7 +82,7 @@ Antique fire extinguishers are fascinating collectibles that combine historical 
 
 In this comprehensive guide, we'll explore the world of antique fire extinguisher valuation, covering the various types, identifying valuable models, condition assessment, price ranges, and where to buy or sell these collectible items. Whether you've discovered an old extinguisher in a forgotten corner or you're actively building a collection, this article will help you understand what factors determine the value of these historical artifacts.
 
-{{< data-modules/stats-highlight title="Antique Fire Extinguisher Market at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Fire Extinguisher Market at a Glance" columns="3" / /  >}}
   <tr>
     <td>Average Value Range</td>
     <td>$100-$500</td>
@@ -177,14 +177,14 @@ Extinguishers with documented history, especially those from famous buildings, s
 Many antique fire extinguishers are purchased for decorative purposes rather than as firefighting collectibles. Those with aesthetic appeal—particularly polished copper models—can command higher prices in the decorative antiques market compared to plainer versions.
 
 {{< interactive-modules/condition-checklist title="Antique Fire Extinguisher Condition Assessment" description="Check applicable items to assess the condition of your antique fire extinguisher" >}}
-  {{< interactive-modules/checklist-item label="Original paint and labels present and legible" / />}}
-  {{< interactive-modules/checklist-item label="No significant dents, corrosion, or damage to body" / />}}
-  {{< interactive-modules/checklist-item label="Brass/copper components retain original finish or patina" / />}}
-  {{< interactive-modules/checklist-item label="All valves, gauges, and mechanical components intact" / />}}
-  {{< interactive-modules/checklist-item label="Original mounting brackets or base included" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer markings and serial numbers visible" / />}}
-  {{< interactive-modules/checklist-item label="No leakage or residue from chemicals" / />}}
-  {{< interactive-modules/checklist-item label="Has documented provenance or history" / />}}
+  {{< interactive-modules/checklist-item label="Original paint and labels present and legible" /  >}}
+  {{< interactive-modules/checklist-item label="No significant dents, corrosion, or damage to body" /  >}}
+  {{< interactive-modules/checklist-item label="Brass/copper components retain original finish or patina" /  >}}
+  {{< interactive-modules/checklist-item label="All valves, gauges, and mechanical components intact" /  >}}
+  {{< interactive-modules/checklist-item label="Original mounting brackets or base included" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturer markings and serial numbers visible" /  >}}
+  {{< interactive-modules/checklist-item label="No leakage or residue from chemicals" /  >}}
+  {{< interactive-modules/checklist-item label="Has documented provenance or history" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Vintage American LaFrance fire extinguisher with original red paint and brass fittings](https://ik.imagekit.io/appraisily/SEO/antique-fire-extinguisher-value/antique-fire-extinguisher-value-image-4_Gbi32FG4I.png)

@@ -153,7 +153,7 @@ Celluloid, an early plastic invented in the 1860s, was used to imitate ivory in 
 - **Mother-of-Pearl**: Often used as inlay or for complete backs, valued for its iridescent beauty
 - **Porcelain**: Hand-painted porcelain plaques were incorporated into high-end mirrors
 
-{{< data-modules/stats-highlight title="Material Value Impact" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Material Value Impact" columns="3" / /  >}}
 
 |Material|Value Range|Collectibility Factor|
 |--------|-----------|---------------------|
@@ -266,16 +266,16 @@ When assessing the decorative elements:
 - **Repairs**: Poor quality repairs can reduce value by 50% or more
 
 {{< interactive-modules/condition-checklist title="Antique Hand Mirror Condition Assessment" description="Check applicable items to help determine your mirror's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Mirror glass is original (not replaced)" / />}}
-  {{< interactive-modules/checklist-item label="Glass shows appropriate age-related wear/foxing" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or chips in the mirror glass" / />}}
-  {{< interactive-modules/checklist-item label="Frame/handle retains original finish" / />}}
-  {{< interactive-modules/checklist-item label="All decorative elements intact (no missing pieces)" / />}}
-  {{< interactive-modules/checklist-item label="No major dents or structural damage" / />}}
-  {{< interactive-modules/checklist-item label="No poorly executed repairs or restoration" / />}}
-  {{< interactive-modules/checklist-item label="Original hallmarks or maker's marks visible" / />}}
-  {{< interactive-modules/checklist-item label="Patina consistent with age" / />}}
-  {{< interactive-modules/checklist-item label="Back plate or cover intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Mirror glass is original (not replaced)" /  >}}
+  {{< interactive-modules/checklist-item label="Glass shows appropriate age-related wear/foxing" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks or chips in the mirror glass" /  >}}
+  {{< interactive-modules/checklist-item label="Frame/handle retains original finish" /  >}}
+  {{< interactive-modules/checklist-item label="All decorative elements intact (no missing pieces)" /  >}}
+  {{< interactive-modules/checklist-item label="No major dents or structural damage" /  >}}
+  {{< interactive-modules/checklist-item label="No poorly executed repairs or restoration" /  >}}
+  {{< interactive-modules/checklist-item label="Original hallmarks or maker's marks visible" /  >}}
+  {{< interactive-modules/checklist-item label="Patina consistent with age" /  >}}
+  {{< interactive-modules/checklist-item label="Back plate or cover intact (if applicable)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Value Multipliers and Detractors

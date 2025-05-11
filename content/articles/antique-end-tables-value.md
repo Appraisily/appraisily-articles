@@ -107,7 +107,7 @@ End tables differ slightly from side tables in both purpose and design. As noted
 Several important elements contribute to an antique end table's market value. Understanding these factors will help you assess the worth of your piece or make informed purchasing decisions.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Determinants" columns="3" / /  >}}
 
 ### Age and Provenance
 
@@ -213,14 +213,14 @@ Authentic antiques typically show consistent signs of age:
 Each period has distinctive design characteristics. Inconsistencies in style elements may indicate a reproduction or heavily modified piece. Study reference materials to become familiar with authentic period details.
 
 {{< interactive-modules/condition-checklist title="Antique End Table Authentication Checklist" description="Use this checklist to help authenticate a potential antique end table" >}}
-  {{< interactive-modules/checklist-item label="Consistent patina across the piece" / />}}
-  {{< interactive-modules/checklist-item label="Hand-cut joinery appropriate to the period" / />}}
-  {{< interactive-modules/checklist-item label="Original hardware or appropriate replacements" / />}}
-  {{< interactive-modules/checklist-item label="Style details consistent with claimed period" / />}}
-  {{< interactive-modules/checklist-item label="Appropriate wood species for claimed origin" / />}}
-  {{< interactive-modules/checklist-item label="Logical wear patterns in expected areas" / />}}
-  {{< interactive-modules/checklist-item label="Secondary woods typical of period construction" / />}}
-  {{< interactive-modules/checklist-item label="Visible maker's marks or labels (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Consistent patina across the piece" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-cut joinery appropriate to the period" /  >}}
+  {{< interactive-modules/checklist-item label="Original hardware or appropriate replacements" /  >}}
+  {{< interactive-modules/checklist-item label="Style details consistent with claimed period" /  >}}
+  {{< interactive-modules/checklist-item label="Appropriate wood species for claimed origin" /  >}}
+  {{< interactive-modules/checklist-item label="Logical wear patterns in expected areas" /  >}}
+  {{< interactive-modules/checklist-item label="Secondary woods typical of period construction" /  >}}
+  {{< interactive-modules/checklist-item label="Visible maker's marks or labels (if applicable)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for Antique End Tables" level="2" >}}

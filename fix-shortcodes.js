@@ -53,14 +53,17 @@ allMarkdownFiles.forEach(filePath => {
         updatedContent = updatedContent.replace(closingTagPattern, '');
       }
 
-      // 2. Convert open tags without self-closing syntax to be self-closing
-      const openTagPattern = new RegExp(`{{<\\s*${shortcode}([^>]*)>}}`, 'g');
-      if (openTagPattern.test(updatedContent)) {
+      // 2. Convert open tags that mistakingly use " />}}" to the correct ">}}" form
+      const erroneousSelfClosePattern = new RegExp(`{{<\\s*${shortcode}([^>]*)\\s*/>}}`, 'g');
+      if (erroneousSelfClosePattern.test(updatedContent)) {
         fileHasChanges = true;
-        updatedContent = updatedContent.replace(openTagPattern, (match, p1) => {
-          return `{{< ${shortcode}${p1} />}}`;
+        updatedContent = updatedContent.replace(erroneousSelfClosePattern, (match, p1) => {
+          return `{{< ${shortcode}${p1} >}}`;
         });
       }
+
+      // 3. Convert open tags *without* a trailing slash that are already correct – leave untouched
+      // (no replacement needed)
     });
 
     // If changes were made, save the file

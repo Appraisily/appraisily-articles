@@ -140,7 +140,7 @@ Mearto is an online platform that connects users with professional appraisers to
 
 The company offers appraisals across numerous categories including fine art, jewelry, furniture, decorative arts, and collectibles. Unlike traditional in-person appraisals that might cost hundreds of dollars, Mearto's service is designed to be more budget-friendly while still providing professional expertise.
 
-{{< data-modules/stats-highlight title="Mearto at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Mearto at a Glance" columns="3" / /  >}}
 - **Founded:** 2015
 - **Appraisal Response Time:** 24-48 hours
 - **User Rating:** 4.6/5 stars
@@ -265,11 +265,11 @@ Common criticisms include:
 According to a discussion on [Reddit](https://www.reddit.com/r/Antiques/comments/nwt91m/paid_online_appraisals_does_anyone_have_any/), some users believe online appraisal services "give inflated prices to keep you subscribed to their services" and suggest that "if you had something of real value an auction house would tell you for free."
 
 {{< interactive-modules/condition-checklist title="When Mearto May Be Right For You" description="Consider these factors when deciding whether to use Mearto's services" >}}
-  {{< interactive-modules/checklist-item label="You need a quick preliminary valuation" / />}}
-  {{< interactive-modules/checklist-item label="You're working with a limited budget for appraisals" / />}}
-  {{< interactive-modules/checklist-item label="The item doesn't require hands-on authentication" / />}}
-  {{< interactive-modules/checklist-item label="You need a general price range rather than an exact value" / />}}
-  {{< interactive-modules/checklist-item label="Your location doesn't have easy access to qualified appraisers" / />}}
+  {{< interactive-modules/checklist-item label="You need a quick preliminary valuation" /  >}}
+  {{< interactive-modules/checklist-item label="You're working with a limited budget for appraisals" /  >}}
+  {{< interactive-modules/checklist-item label="The item doesn't require hands-on authentication" /  >}}
+  {{< interactive-modules/checklist-item label="You need a general price range rather than an exact value" /  >}}
+  {{< interactive-modules/checklist-item label="Your location doesn't have easy access to qualified appraisers" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Mearto vs. Competitors: How It Compares" level="2" >}}

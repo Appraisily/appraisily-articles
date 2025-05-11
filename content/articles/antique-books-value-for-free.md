@@ -71,7 +71,7 @@ structured_data:
 
 That dusty old book in your attic or basement might be more than just a family heirloom – it could be a valuable treasure. But how can you determine its worth without spending money on professional appraisal services? This comprehensive guide will walk you through free resources and methods to help you discover the value of your antique books.
 
-{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/antique-books-value-for-free/antique-books-value-for-free-image-1_uPxFVE4Jd.png" alt="Collection of antique leather-bound books with gold embossing" caption="Antique books can vary significantly in value based on numerous factors including condition, rarity, and edition." />}}
+{{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/antique-books-value-for-free/antique-books-value-for-free-image-1_uPxFVE4Jd.png" alt="Collection of antique leather-bound books with gold embossing" caption="Antique books can vary significantly in value based on numerous factors including condition, rarity, and edition." >}}
 
 ## Table of Contents
 - [Understanding What Makes Books Valuable](#understanding-what-makes-books-valuable)
@@ -91,10 +91,10 @@ Not all old books are valuable. In fact, many antique books hold more sentimenta
 
 ![Rare book collector examining a first edition with a magnifying glass](https://ik.imagekit.io/appraisily/SEO/antique-books-value-for-free/antique-books-value-for-free-image-2_KX65oRtsf.png)
 
-{{< data-modules/stats-highlight title="Key Antique Book Value Determinants" columns="3"  />}}
-{{< data-modules/stat-card stat="70%" label="of a book's value can be determined by its condition" icon="condition"  />}}
-{{< data-modules/stat-card stat="10x" label="price increase possible for first editions of popular works" icon="first-edition"  />}}
-{{< data-modules/stat-card stat="80%" label="value added by original dust jackets on collectible books" icon="dust-jacket"  />}}
+{{< data-modules/stats-highlight title="Key Antique Book Value Determinants" columns="3" >}}
+{{< data-modules/stat-card stat="70%" label="of a book's value can be determined by its condition" icon="condition" >}}
+{{< data-modules/stat-card stat="10x" label="price increase possible for first editions of popular works" icon="first-edition" >}}
+{{< data-modules/stat-card stat="80%" label="value added by original dust jackets on collectible books" icon="dust-jacket" >}}
 
 The three fundamental elements that determine a book's value are:
 
@@ -196,12 +196,12 @@ Publishers use various methods to identify first editions:
    - Modern Library: Special indicators in the binding and dust jacket
 
 {{< interactive-modules/condition-checklist title="First Edition Verification Checklist" description="Check these elements to help determine if you have a first edition" >}}
-  {{< interactive-modules/checklist-item label="Copyright date matches the publication date"  />}}
-  {{< interactive-modules/checklist-item label="Number line includes '1' or starts with '1'"  />}}
-  {{< interactive-modules/checklist-item label="Contains the words 'First Edition' or 'First Printing'"  />}}
-  {{< interactive-modules/checklist-item label="No references to additional printings or editions"  />}}
-  {{< interactive-modules/checklist-item label="Price on dust jacket matches original issue price (if known)"  />}}
-  {{< interactive-modules/checklist-item label="Binding and typographical details match known first edition descriptions"  />}}
+  {{< interactive-modules/checklist-item label="Copyright date matches the publication date" >}}
+  {{< interactive-modules/checklist-item label="Number line includes '1' or starts with '1'" >}}
+  {{< interactive-modules/checklist-item label="Contains the words 'First Edition' or 'First Printing'" >}}
+  {{< interactive-modules/checklist-item label="No references to additional printings or editions" >}}
+  {{< interactive-modules/checklist-item label="Price on dust jacket matches original issue price (if known)" >}}
+  {{< interactive-modules/checklist-item label="Binding and typographical details match known first edition descriptions" >}}
 {{< /interactive-modules/condition-checklist >}}
 
 For definitive identification, consider referring to specialized guides like "Collected Books: The Guide to Values" by Allen and Patricia Ahearn or "Book Collecting: A Comprehensive Guide" by Allen and Patricia Ahearn.
@@ -420,14 +420,14 @@ How and where you store books matters:
 4. **Location** - Avoid basement and attic storage
 
 {{< interactive-modules/condition-checklist title="Book Preservation Checklist" description="Essential steps to maintain book condition and value" >}}
-  {{< interactive-modules/checklist-item label="Books stored upright on sturdy shelves"  />}}
-  {{< interactive-modules/checklist-item label="Environment free from excessive humidity"  />}}
-  {{< interactive-modules/checklist-item label="Protected from direct sunlight"  />}}
-  {{< interactive-modules/checklist-item label="Dust jackets have protective covers"  />}}
-  {{< interactive-modules/checklist-item label="Regular gentle dusting with soft brush"  />}}
-  {{< interactive-modules/checklist-item label="Rare volumes stored in acid-free boxes"  />}}
-  {{< interactive-modules/checklist-item label="Books not tightly packed on shelves"  />}}
-  {{< interactive-modules/checklist-item label="No food or beverages near book storage"  />}}
+  {{< interactive-modules/checklist-item label="Books stored upright on sturdy shelves" >}}
+  {{< interactive-modules/checklist-item label="Environment free from excessive humidity" >}}
+  {{< interactive-modules/checklist-item label="Protected from direct sunlight" >}}
+  {{< interactive-modules/checklist-item label="Dust jackets have protective covers" >}}
+  {{< interactive-modules/checklist-item label="Regular gentle dusting with soft brush" >}}
+  {{< interactive-modules/checklist-item label="Rare volumes stored in acid-free boxes" >}}
+  {{< interactive-modules/checklist-item label="Books not tightly packed on shelves" >}}
+  {{< interactive-modules/checklist-item label="No food or beverages near book storage" >}}
 {{< /interactive-modules/condition-checklist >}}
 
 For particularly valuable books, consider consulting a professional conservator for personalized preservation advice.

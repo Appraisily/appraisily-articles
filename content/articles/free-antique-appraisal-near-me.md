@@ -84,7 +84,7 @@ When you've discovered an intriguing antique in your attic or inherited family h
 
 Whether you're a serious collector or simply curious about a family heirloom, understanding the true value of your antiques can be both enlightening and potentially profitable. Free appraisal options exist in most communities, though the depth and accuracy may vary from quick verbal estimates to more detailed evaluations.
 
-{{< data-modules/stats-highlight title="Antique Appraisal Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Appraisal Facts" columns="3" / /  >}}
 <tr>
   <td>95%</td>
   <td>Of collectors seek professional opinions before selling valuable items</td>
@@ -168,12 +168,12 @@ Many specialty auction houses offer free online appraisals for items in their ar
 Similarly, [Fine Art at Heritage Auctions](https://fineart.ha.com/free-appraisals.s) specializes in fine art and antique evaluations, providing free assessments for potential auction consignments.
 
 {{< interactive-modules/condition-checklist title="Online Appraisal Submission Checklist" description="Ensure your online appraisal submission is thorough by including these elements:" >}}
-  {{< interactive-modules/checklist-item label="Multiple high-resolution photos from different angles" / />}}
-  {{< interactive-modules/checklist-item label="Close-up images of signatures, maker's marks, and any damage" / />}}
-  {{< interactive-modules/checklist-item label="Measurements (height, width, depth, weight if relevant)" / />}}
-  {{< interactive-modules/checklist-item label="Known provenance or history of the item" / />}}
-  {{< interactive-modules/checklist-item label="Previous restoration work or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Any documentation, certificates, or receipts" / />}}
+  {{< interactive-modules/checklist-item label="Multiple high-resolution photos from different angles" /  >}}
+  {{< interactive-modules/checklist-item label="Close-up images of signatures, maker's marks, and any damage" /  >}}
+  {{< interactive-modules/checklist-item label="Measurements (height, width, depth, weight if relevant)" /  >}}
+  {{< interactive-modules/checklist-item label="Known provenance or history of the item" /  >}}
+  {{< interactive-modules/checklist-item label="Previous restoration work or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Any documentation, certificates, or receipts" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Understanding the Limitations of Free Appraisals" level="2" >}}

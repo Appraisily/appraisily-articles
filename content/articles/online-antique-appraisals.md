@@ -159,7 +159,7 @@ The online appraisal process typically follows these steps:
 Online appraisal services offer numerous benefits over traditional in-person valuations, making them increasingly popular among collectors of all levels.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Key Benefits of Online Appraisals" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Benefits of Online Appraisals" columns="3" / /  >}}
 
 1. **Convenience**: Submit your items for appraisal from anywhere in the world, at any time, without needing to transport valuable or fragile pieces.
 
@@ -196,13 +196,13 @@ Despite their convenience, online appraisals do have several potential drawbacks
 6. **Not Legally Binding**: Many online appraisals are considered "verbal approximations of value" rather than formal appraisals that would be accepted for insurance, tax, or legal purposes.
 
 {{< interactive-modules/condition-checklist title="Is Your Item Suitable for Online Appraisal?" description="Consider these factors when deciding whether to use an online appraisal service:" >}}
-  {{< interactive-modules/checklist-item label="Item can be adequately represented in photographs" / />}}
-  {{< interactive-modules/checklist-item label="No suspected serious damage that requires physical inspection" / />}}
-  {{< interactive-modules/checklist-item label="Not an extremely high-value item requiring authentication" / />}}
-  {{< interactive-modules/checklist-item label="Distinctive markings and signatures are visible" / />}}
-  {{< interactive-modules/checklist-item label="You have adequate lighting to capture clear images" / />}}
-  {{< interactive-modules/checklist-item label="You can provide multiple angles and detail shots" / />}}
-  {{< interactive-modules/checklist-item label="You can measure dimensions accurately" / />}}
+  {{< interactive-modules/checklist-item label="Item can be adequately represented in photographs" /  >}}
+  {{< interactive-modules/checklist-item label="No suspected serious damage that requires physical inspection" /  >}}
+  {{< interactive-modules/checklist-item label="Not an extremely high-value item requiring authentication" /  >}}
+  {{< interactive-modules/checklist-item label="Distinctive markings and signatures are visible" /  >}}
+  {{< interactive-modules/checklist-item label="You have adequate lighting to capture clear images" /  >}}
+  {{< interactive-modules/checklist-item label="You can provide multiple angles and detail shots" /  >}}
+  {{< interactive-modules/checklist-item label="You can measure dimensions accurately" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Popular Online Antique Appraisal Services" level="2" >}}

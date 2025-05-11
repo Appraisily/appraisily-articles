@@ -26,7 +26,7 @@ The 1907 Indian Head penny represents one of the final issues of this iconic Ame
 
 The 1907 Indian Head penny holds significant historical value as one of the last years of production before the introduction of the Lincoln cent in 1909. With over 108 million produced at the Philadelphia Mint, these pennies are relatively common, yet still highly collectible. Whether you've discovered one in an old collection, received it as an inheritance, or are actively seeking to add one to your numismatic portfolio, understanding its value is essential.
 
-{{< data-modules/stats-highlight title="Key Facts About 1907 Indian Head Pennies" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Facts About 1907 Indian Head Pennies" columns="3" / /  >}}
 
 <tr>
   <td>Mintage</td>
@@ -171,12 +171,12 @@ Understanding the distinctive features of the 1907 Indian Head penny helps in bo
 - **Diameter**: 19.05 mm
 
 {{< interactive-modules/condition-checklist title="Authenticity Check for 1907 Indian Head Pennies" description="Use this checklist to verify your coin's authenticity" >}}
-  {{< interactive-modules/checklist-item label="LIBERTY is visible in the headband (may be worn on circulated coins)" / />}}
-  {{< interactive-modules/checklist-item label="Design shows appropriate style for 1907 (compared to reference images)" / />}}
-  {{< interactive-modules/checklist-item label="Weight is approximately 3.11 grams (can vary slightly with wear)" / />}}
-  {{< interactive-modules/checklist-item label="Diameter measures 19.05 mm (penny-sized)" / />}}
-  {{< interactive-modules/checklist-item label="Metal appears to be copper/bronze (not magnetic)" / />}}
-  {{< interactive-modules/checklist-item label="Details align with known design elements (no unusual features)" / />}}
+  {{< interactive-modules/checklist-item label="LIBERTY is visible in the headband (may be worn on circulated coins)" /  >}}
+  {{< interactive-modules/checklist-item label="Design shows appropriate style for 1907 (compared to reference images)" /  >}}
+  {{< interactive-modules/checklist-item label="Weight is approximately 3.11 grams (can vary slightly with wear)" /  >}}
+  {{< interactive-modules/checklist-item label="Diameter measures 19.05 mm (penny-sized)" /  >}}
+  {{< interactive-modules/checklist-item label="Metal appears to be copper/bronze (not magnetic)" /  >}}
+  {{< interactive-modules/checklist-item label="Details align with known design elements (no unusual features)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## 1907 Indian Head Penny Proof Coins

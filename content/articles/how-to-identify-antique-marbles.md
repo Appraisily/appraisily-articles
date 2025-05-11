@@ -130,7 +130,7 @@ The world of antique marbles is fascinating but can be complex for beginners. Wh
 
 By learning to recognize handmade versus machine-made marbles, identifying pontil marks, distinguishing between different manufacturing periods, and recognizing valuable rare specimens, you'll develop the expertise to assess both the authenticity and potential value of any marble in your collection.
 
-{{< data-modules/stats-highlight title="Antique Marble Collecting Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Marble Collecting Facts" columns="3" / /  >}}
 
 - **Late 1800s-Early 1900s**: Peak era for handmade marble production
 - **$25,000+**: Record prices for the rarest antique marbles
@@ -355,14 +355,14 @@ Specific features can help narrow down when a marble was made:
 - **Post-1960s**: Decline in American production, increase in Asian imports
 
 {{< interactive-modules/condition-checklist title="Antique Marble Authentication Checklist" description="Use this checklist to evaluate whether your marble is likely a genuine antique" >}}
-  {{< interactive-modules/checklist-item label="Contains a visible pontil mark on one or both sides" / />}}
-  {{< interactive-modules/checklist-item label="Shows slight imperfections in spherical shape" / />}}
-  {{< interactive-modules/checklist-item label="Features authentic period colors (not neon or modern hues)" / />}}
-  {{< interactive-modules/checklist-item label="Shows appropriate signs of age and wear" / />}}
-  {{< interactive-modules/checklist-item label="Pattern matches known antique styles and techniques" / />}}
-  {{< interactive-modules/checklist-item label="Contains no modern materials (plastic, synthetic resins)" / />}}
-  {{< interactive-modules/checklist-item label="When compared to known examples, shows period-correct craftsmanship" / />}}
-  {{< interactive-modules/checklist-item label="Glass has appropriate clarity, opacity, or translucency for the period" / />}}
+  {{< interactive-modules/checklist-item label="Contains a visible pontil mark on one or both sides" /  >}}
+  {{< interactive-modules/checklist-item label="Shows slight imperfections in spherical shape" /  >}}
+  {{< interactive-modules/checklist-item label="Features authentic period colors (not neon or modern hues)" /  >}}
+  {{< interactive-modules/checklist-item label="Shows appropriate signs of age and wear" /  >}}
+  {{< interactive-modules/checklist-item label="Pattern matches known antique styles and techniques" /  >}}
+  {{< interactive-modules/checklist-item label="Contains no modern materials (plastic, synthetic resins)" /  >}}
+  {{< interactive-modules/checklist-item label="When compared to known examples, shows period-correct craftsmanship" /  >}}
+  {{< interactive-modules/checklist-item label="Glass has appropriate clarity, opacity, or translucency for the period" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Rare and Valuable Antique Marbles" level="2" >}}

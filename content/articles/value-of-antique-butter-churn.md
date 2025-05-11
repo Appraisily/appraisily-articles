@@ -75,7 +75,7 @@ Antique butter churns come in various styles, each reflecting the technological 
 
 The value of an antique butter churn depends on several key factors: age, condition, rarity, manufacturer, materials, and functionality. Understanding these elements is essential for collectors, sellers, and buyers looking to determine accurate market values in this specialized collecting category.
 
-{{< data-modules/stats-highlight title="Antique Butter Churn Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Butter Churn Market Highlights" columns="3" / /  >}}
 <tr>
   <td>Average Price Range</td>
   <td>$25 - $500</td>
@@ -189,14 +189,14 @@ Older churns generally command higher prices, with pre-1900 examples being parti
 ### Condition Assessment
 
 {{< interactive-modules/condition-checklist title="Butter Churn Condition Checklist" description="Assess your butter churn's condition using these criteria" >}}
-  {{< interactive-modules/checklist-item label="Original dasher or paddles present and intact" / />}}
-  {{< interactive-modules/checklist-item label="No cracks in glass, ceramic, or wooden components" / />}}
-  {{< interactive-modules/checklist-item label="Original metal fittings without significant rust" / />}}
-  {{< interactive-modules/checklist-item label="Working mechanical parts (for crank models)" / />}}
-  {{< interactive-modules/checklist-item label="Original paint or finish visible" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's markings legible" / />}}
-  {{< interactive-modules/checklist-item label="No significant repairs or replacements" / />}}
-  {{< interactive-modules/checklist-item label="Authentic patina consistent with age" / />}}
+  {{< interactive-modules/checklist-item label="Original dasher or paddles present and intact" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks in glass, ceramic, or wooden components" /  >}}
+  {{< interactive-modules/checklist-item label="Original metal fittings without significant rust" /  >}}
+  {{< interactive-modules/checklist-item label="Working mechanical parts (for crank models)" /  >}}
+  {{< interactive-modules/checklist-item label="Original paint or finish visible" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturer's markings legible" /  >}}
+  {{< interactive-modules/checklist-item label="No significant repairs or replacements" /  >}}
+  {{< interactive-modules/checklist-item label="Authentic patina consistent with age" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Condition significantly impacts value, with complete, working examples commanding premiums of 50-300% over damaged or incomplete specimens. Original components (especially dashers, lids, and mechanical parts) are essential for maximum value.

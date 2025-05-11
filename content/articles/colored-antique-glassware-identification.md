@@ -72,7 +72,7 @@ Color is one of the most distinctive features of antique glassware and often pro
 
 **Milk Glass:** Opaque white glass that's been produced since the 16th century. American milk glass from companies like Westmoreland and Fenton saw peak popularity in the late 19th to mid-20th centuries.
 
-{{< data-modules/stats-highlight title="Colored Glass Value Indicators" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Colored Glass Value Indicators" columns="3" / /  >}}
 
 **Age Impact:** Glassware over 100 years old can command 200-400% higher prices than similar mid-century pieces.
 
@@ -110,11 +110,11 @@ Identifying makers' marks is crucial for authenticating colored antique glasswar
 **Tiffin/US Glass:** Made high-quality colored glassware from 1888-1980. Marks include "Tiffin" in script or "US Glass" with a number.
 
 {{< interactive-modules/condition-checklist title="Makers' Mark Verification Checklist" description="Use this checklist to verify the authenticity of makers' marks on colored glass" >}}
-  {{< interactive-modules/checklist-item label="Check if the mark is period-appropriate for the suspected era" / />}}
-  {{< interactive-modules/checklist-item label="Verify the mark's consistency with known examples from the manufacturer" / />}}
-  {{< interactive-modules/checklist-item label="Examine the quality of the etching or impression (crude marks may indicate reproduction)" / />}}
-  {{< interactive-modules/checklist-item label="Look for appropriate wear consistent with the piece's age" / />}}
-  {{< interactive-modules/checklist-item label="Compare with reference guides or manufacturer catalogs" / />}}
+  {{< interactive-modules/checklist-item label="Check if the mark is period-appropriate for the suspected era" /  >}}
+  {{< interactive-modules/checklist-item label="Verify the mark's consistency with known examples from the manufacturer" /  >}}
+  {{< interactive-modules/checklist-item label="Examine the quality of the etching or impression (crude marks may indicate reproduction)" /  >}}
+  {{< interactive-modules/checklist-item label="Look for appropriate wear consistent with the piece's age" /  >}}
+  {{< interactive-modules/checklist-item label="Compare with reference guides or manufacturer catalogs" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Physical Characteristics for Authentication" level="2" >}}
@@ -243,12 +243,12 @@ Several technologies can help verify the authenticity of colored antique glass:
 ![Close-up of a piece of uranium glass glowing bright green under UV light, demonstrating authentication techniques](https://ik.imagekit.io/appraisily/SEO/colored-antique-glassware-identification/colored-antique-glassware-identification-image-5_jfIaHX-o5.png)
 
 {{< interactive-modules/condition-checklist title="Reproduction Detection Checklist" description="Key indicators that may suggest a reproduction or fake" >}}
-  {{< interactive-modules/checklist-item label="Glass has unusual brightness or clarity for its supposed age" / />}}
-  {{< interactive-modules/checklist-item label="Patterns lack the sharpness or detail of authentic pieces" / />}}
-  {{< interactive-modules/checklist-item label="Weight feels too light compared to known authentic examples" / />}}
-  {{< interactive-modules/checklist-item label="Colors appear too uniform or vibrant for the alleged period" / />}}
-  {{< interactive-modules/checklist-item label="Wear patterns seem artificial or inconsistent with natural aging" / />}}
-  {{< interactive-modules/checklist-item label="Modern manufacturing marks are present (machine-perfect seams, etc.)" / />}}
+  {{< interactive-modules/checklist-item label="Glass has unusual brightness or clarity for its supposed age" /  >}}
+  {{< interactive-modules/checklist-item label="Patterns lack the sharpness or detail of authentic pieces" /  >}}
+  {{< interactive-modules/checklist-item label="Weight feels too light compared to known authentic examples" /  >}}
+  {{< interactive-modules/checklist-item label="Colors appear too uniform or vibrant for the alleged period" /  >}}
+  {{< interactive-modules/checklist-item label="Wear patterns seem artificial or inconsistent with natural aging" /  >}}
+  {{< interactive-modules/checklist-item label="Modern manufacturing marks are present (machine-perfect seams, etc.)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Factors Affecting Value and Collectibility" level="2" >}}

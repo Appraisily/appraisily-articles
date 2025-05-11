@@ -52,7 +52,7 @@ Typewriters revolutionized written communication for over a century before compu
 
 According to recent market analysis, typewriter values can range dramatically from under $50 for common office machines to several thousand dollars for rare, early models or those with historical significance. The key is knowing what factors influence value and how to identify potentially valuable machines.
 
-{{< data-modules/stats-highlight title="Typewriter Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Typewriter Market Highlights" columns="3" / /  >}}
 
 | Statistic | Value | Context |
 |-----------|-------|---------|
@@ -109,13 +109,13 @@ Certain manufacturers and specific models consistently command higher prices in 
 Condition is perhaps the most critical factor in determining a typewriter's value. Even rare models will see their value significantly diminished if they're in poor condition.
 
 {{< interactive-modules/condition-checklist title="Typewriter Condition Checklist" description="Factors that affect a typewriter's value assessment" >}}
-  {{< interactive-modules/checklist-item label="All keys function properly" / />}}
-  {{< interactive-modules/checklist-item label="Carriage moves smoothly" / />}}
-  {{< interactive-modules/checklist-item label="No rust or significant cosmetic damage" / />}}
-  {{< interactive-modules/checklist-item label="Original paint in good condition" / />}}
-  {{< interactive-modules/checklist-item label="All parts present and original" / />}}
-  {{< interactive-modules/checklist-item label="Original case included" / />}}
-  {{< interactive-modules/checklist-item label="Documentation or instruction manuals present" / />}}
+  {{< interactive-modules/checklist-item label="All keys function properly" /  >}}
+  {{< interactive-modules/checklist-item label="Carriage moves smoothly" /  >}}
+  {{< interactive-modules/checklist-item label="No rust or significant cosmetic damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original paint in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="All parts present and original" /  >}}
+  {{< interactive-modules/checklist-item label="Original case included" /  >}}
+  {{< interactive-modules/checklist-item label="Documentation or instruction manuals present" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Historical Significance

@@ -79,7 +79,7 @@ Antique and vintage vises are coveted workshop treasures that combine historical
 
 Many old vises lack obvious manufacturer markings or have had identifiers worn away through decades of use. However, distinctive design elements, casting patterns, and construction techniques can reveal a vise's origins, manufacturing period, and potential value to collectors. Understanding these subtle clues requires knowledge of major manufacturers and historical production methods.
 
-{{< data-modules/stats-highlight title="Vintage Vise Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Vise Market Insights" columns="3" / /  >}}
 <div class="stat-card">
   <h3 class="stat-value">1850-1970</h3>
   <p class="stat-label">Golden Age</p>
@@ -222,14 +222,14 @@ When evaluating a vintage vise, inspect it carefully for these common issues:
 According to [MIVise's guide on evaluating used vises](https://mivise.com/evaluating-used-vise/), the most critical structural issue to look for is cracking in the slide area. Often you'll find welds or brazing in that area, indicating a previous repair. The end of the slide is particularly vulnerable to cracking, usually caused by someone using it as an improvised anvil.
 
 {{< interactive-modules/condition-checklist title="Vintage Vise Condition Assessment" description="Use this checklist to evaluate the condition of a vintage vise" >}}
-  {{< interactive-modules/checklist-item label="Main casting is free of cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Screw operates smoothly through full range of motion" / />}}
-  {{< interactive-modules/checklist-item label="Slide shows no signs of cracking or damage" / />}}
-  {{< interactive-modules/checklist-item label="Jaws close evenly and have minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Swivel base functions properly (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original parts (no replacement handles or hardware)" / />}}
-  {{< interactive-modules/checklist-item label="Retains period-appropriate finish or patina" / />}}
-  {{< interactive-modules/checklist-item label="Maker marks or logos are visible" / />}}
+  {{< interactive-modules/checklist-item label="Main casting is free of cracks or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Screw operates smoothly through full range of motion" /  >}}
+  {{< interactive-modules/checklist-item label="Slide shows no signs of cracking or damage" /  >}}
+  {{< interactive-modules/checklist-item label="Jaws close evenly and have minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="Swivel base functions properly (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Original parts (no replacement handles or hardware)" /  >}}
+  {{< interactive-modules/checklist-item label="Retains period-appropriate finish or patina" /  >}}
+  {{< interactive-modules/checklist-item label="Maker marks or logos are visible" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Detecting Reproductions and Altered Vises

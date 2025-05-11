@@ -44,7 +44,7 @@ Antique 15 gallon crocks were workhorses in American households from the mid-19t
 
 The value of a 15 gallon crock can vary significantly depending on several key factors. According to expert appraisals, these substantial pieces typically sell for between $200 and $550 in today's market, though exceptional examples can command prices well over $1,000.
 
-{{< data-modules/stats-highlight title="Key Factors Affecting 15 Gallon Crock Values" columns="3" / />}}
+{{< data-modules/stats-highlight title="Key Factors Affecting 15 Gallon Crock Values" columns="3" /  >}}
 
 {{< visual-modules/hero-image src="https://ik.imagekit.io/appraisily/SEO/antique-15-gallon-crock-value/antique-15-gallon-crock-value-image-2__Dz0ji16M.png" alt="Red Wing 15 gallon crock with distinctive wing marking" caption="A Red Wing 15 gallon crock showing the distinctive wing marking that adds significant value to these antique pieces" />}}
 
@@ -116,14 +116,14 @@ Cracks, repairs, and major chips can drastically reduce value. A 15 gallon crock
 Authentic antique crocks display a distinctive shiny appearance resulting from the salt glazing process. This traditional finishing technique not only made the vessels watertight but also gives them their characteristic appearance that collectors prize today.
 
 {{< interactive-modules/condition-checklist title="15 Gallon Crock Condition Assessment" description="Check applicable items to help determine your crock's condition grade" >}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs visible anywhere on the crock" />}}
-  {{< interactive-modules/checklist-item label="Original glaze intact without significant wear" />}}
-  {{< interactive-modules/checklist-item label="Original lid present and in matching condition" />}}
-  {{< interactive-modules/checklist-item label="Manufacturer's mark clearly visible" />}}
-  {{< interactive-modules/checklist-item label="Handles (if applicable) intact without repairs" />}}
-  {{< interactive-modules/checklist-item label="No significant chips on rim or base" />}}
-  {{< interactive-modules/checklist-item label="Original decoration or design has vibrant color" />}}
-  {{< interactive-modules/checklist-item label="No staining or interior damage" />}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs visible anywhere on the crock"  >}}
+  {{< interactive-modules/checklist-item label="Original glaze intact without significant wear"  >}}
+  {{< interactive-modules/checklist-item label="Original lid present and in matching condition"  >}}
+  {{< interactive-modules/checklist-item label="Manufacturer's mark clearly visible"  >}}
+  {{< interactive-modules/checklist-item label="Handles (if applicable) intact without repairs"  >}}
+  {{< interactive-modules/checklist-item label="No significant chips on rim or base"  >}}
+  {{< interactive-modules/checklist-item label="Original decoration or design has vibrant color"  >}}
+  {{< interactive-modules/checklist-item label="No staining or interior damage"  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Antique 15 gallon crock showing size comparison with everyday objects](https://ik.imagekit.io/appraisily/SEO/antique-15-gallon-crock-value/antique-15-gallon-crock-value-image-4_6BO0CS2CF.png)

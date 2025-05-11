@@ -128,7 +128,7 @@ Multiple elements determine the market value of vintage tin toys, from condition
 
 The valuation of vintage tin toys isn't an exact science, but rather depends on a combination of factors that collectors and appraisers consider when determining market worth.
 
-{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Value Determinants" columns="3" / /  >}}
 
 ### Condition
 
@@ -187,14 +187,14 @@ The construction techniques can help date a tin toy:
 Look for patent numbers, copyright dates, or trademark information, which can precisely date a toy's manufacturing period.
 
 {{< interactive-modules/condition-checklist title="Tin Toy Authentication Checklist" description="Use this checklist to help authenticate vintage tin toys" >}}
-  {{< interactive-modules/checklist-item label="Examine maker's marks and country of origin stamps" / />}}
-  {{< interactive-modules/checklist-item label="Assess construction methods (hand-soldered vs. tab construction)" / />}}
-  {{< interactive-modules/checklist-item label="Check for patent numbers or copyright dates" / />}}
-  {{< interactive-modules/checklist-item label="Verify lithography style matches the purported era" / />}}
-  {{< interactive-modules/checklist-item label="Inspect for period-appropriate materials (early plastic, types of metal)" / />}}
-  {{< interactive-modules/checklist-item label="Look for hand-painting vs. machine lithography" / />}}
-  {{< interactive-modules/checklist-item label="Ensure mechanisms are consistent with manufacturing period" / />}}
-  {{< interactive-modules/checklist-item label="Research the specific model in collector guides and catalogs" / />}}
+  {{< interactive-modules/checklist-item label="Examine maker's marks and country of origin stamps" /  >}}
+  {{< interactive-modules/checklist-item label="Assess construction methods (hand-soldered vs. tab construction)" /  >}}
+  {{< interactive-modules/checklist-item label="Check for patent numbers or copyright dates" /  >}}
+  {{< interactive-modules/checklist-item label="Verify lithography style matches the purported era" /  >}}
+  {{< interactive-modules/checklist-item label="Inspect for period-appropriate materials (early plastic, types of metal)" /  >}}
+  {{< interactive-modules/checklist-item label="Look for hand-painting vs. machine lithography" /  >}}
+  {{< interactive-modules/checklist-item label="Ensure mechanisms are consistent with manufacturing period" /  >}}
+  {{< interactive-modules/checklist-item label="Research the specific model in collector guides and catalogs" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values" level="2" >}}

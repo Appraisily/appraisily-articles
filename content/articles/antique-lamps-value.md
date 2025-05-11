@@ -154,7 +154,7 @@ The value of an antique lamp is primarily determined by:
 5. **Materials**: Quality materials like leaded glass, bronze, and hand-painted shades enhance value.
 6. **Artistic Merit**: The aesthetic appeal, craftsmanship, and design sophistication contribute significantly to valuation.
 
-{{< data-modules/stats-highlight title="Key Antique Lamp Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Antique Lamp Market Statistics" columns="3" / /  >}}
   <div class="stat-card" data-value="10-30%" data-label="Annual appreciation" data-color="green">
     Average appreciation rate for rare Tiffany lamps
   </div>
@@ -193,13 +193,13 @@ Examine the lamp's construction for indicators of quality and authenticity:
 - **Shade Construction**: Leaded glass, hand-painted glass, or slag glass shades indicate quality pieces
 
 {{< interactive-modules/condition-checklist title="Antique Lamp Identification Checklist" description="Check applicable items to help identify valuable antique lamps" >}}
-  {{< interactive-modules/checklist-item label="Visible maker's mark or signature" / />}}
-  {{< interactive-modules/checklist-item label="Hand-crafted construction with attention to detail" / />}}
-  {{< interactive-modules/checklist-item label="High-quality materials (bronze, leaded glass, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Consistent patina and aging across all components" / />}}
-  {{< interactive-modules/checklist-item label="Distinctive artistic style associated with a particular period" / />}}
-  {{< interactive-modules/checklist-item label="Original components (or period-appropriate replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of hand craftsmanship rather than machine production" / />}}
+  {{< interactive-modules/checklist-item label="Visible maker's mark or signature" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-crafted construction with attention to detail" /  >}}
+  {{< interactive-modules/checklist-item label="High-quality materials (bronze, leaded glass, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Consistent patina and aging across all components" /  >}}
+  {{< interactive-modules/checklist-item label="Distinctive artistic style associated with a particular period" /  >}}
+  {{< interactive-modules/checklist-item label="Original components (or period-appropriate replacements)" /  >}}
+  {{< interactive-modules/checklist-item label="Evidence of hand craftsmanship rather than machine production" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Famous Lamp Makers and Their Values" level="2" id="famous-lamp-makers-and-their-values" >}}

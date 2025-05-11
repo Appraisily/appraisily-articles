@@ -139,7 +139,7 @@ Cars with factory errors, such as mismatched wheels, wrong color interiors, or a
 
 ![Rare Hot Wheels cars displayed with price tags showing their collector value](https://ik.imagekit.io/appraisily/SEO/old-hot-wheels-value/old-hot-wheels-value-image-2_GmIfuaVDo.png)
 
-{{< data-modules/stats-highlight title="Hot Wheels Collection Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Hot Wheels Collection Facts" columns="3" / /  >}}
 
 ## Most Valuable Vintage Hot Wheels Models
 
@@ -230,12 +230,12 @@ Research your specific model to determine if it's one of the more valuable types
 Be honest about the condition of your car. Collectors use these general condition categories:
 
 {{< interactive-modules/condition-checklist title="Hot Wheels Condition Assessment" description="Use this checklist to evaluate your vintage Hot Wheels condition" >}}
-  {{< interactive-modules/checklist-item label="Mint: Perfect condition with no visible flaws" / />}}
-  {{< interactive-modules/checklist-item label="Near Mint: Extremely minor wear, barely noticeable" / />}}
-  {{< interactive-modules/checklist-item label="Excellent: Very slight play wear, all parts intact" / />}}
-  {{< interactive-modules/checklist-item label="Good: Noticeable play wear but still very presentable" / />}}
-  {{< interactive-modules/checklist-item label="Fair: Significant wear, may have minor damage" / />}}
-  {{< interactive-modules/checklist-item label="Poor: Heavy wear, missing parts, or damage" / />}}
+  {{< interactive-modules/checklist-item label="Mint: Perfect condition with no visible flaws" /  >}}
+  {{< interactive-modules/checklist-item label="Near Mint: Extremely minor wear, barely noticeable" /  >}}
+  {{< interactive-modules/checklist-item label="Excellent: Very slight play wear, all parts intact" /  >}}
+  {{< interactive-modules/checklist-item label="Good: Noticeable play wear but still very presentable" /  >}}
+  {{< interactive-modules/checklist-item label="Fair: Significant wear, may have minor damage" /  >}}
+  {{< interactive-modules/checklist-item label="Poor: Heavy wear, missing parts, or damage" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Look for Original Packaging

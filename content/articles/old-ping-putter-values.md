@@ -84,7 +84,7 @@ PING putters, particularly vintage models, have become highly collectible items 
 
 This comprehensive guide will help you understand what makes old PING putters valuable, how to identify collectible models, and current market values for these iconic golf clubs. Whether you've discovered an old PING putter in your garage or you're actively building a collection, this information will help you determine its potential worth.
 
-{{< data-modules/stats-highlight title="Key PING Putter Value Indicators" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key PING Putter Value Indicators" columns="3" / /  >}}
 
 - **Location:** Redwood City putters (1967-1969) typically worth $1,000+
 - **Production Era:** Scottsdale putters with ZIP code (1966-1973) valued $100-500+
@@ -182,14 +182,14 @@ PING putters often feature colored dots that indicate the lie angle:
 While the colored dots primarily indicate fitting specifications rather than directly affecting value, original and correct color coding can be important to collectors seeking authentic examples.
 
 {{< interactive-modules/condition-checklist title="PING Putter Condition Assessment" description="Check applicable items to assess your putter's condition" >}}
-  {{< interactive-modules/checklist-item label="Original grip in good condition" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or reshafting" / />}}
-  {{< interactive-modules/checklist-item label="Clear, readable manufacturer's stamps" / />}}
-  {{< interactive-modules/checklist-item label="No significant face wear or damage" / />}}
-  {{< interactive-modules/checklist-item label="Original finish largely intact" / />}}
-  {{< interactive-modules/checklist-item label="Shaft is straight without dents" / />}}
-  {{< interactive-modules/checklist-item label="No significant nicks or dents on head" / />}}
-  {{< interactive-modules/checklist-item label="Has original headcover (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original grip in good condition" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or reshafting" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, readable manufacturer's stamps" /  >}}
+  {{< interactive-modules/checklist-item label="No significant face wear or damage" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish largely intact" /  >}}
+  {{< interactive-modules/checklist-item label="Shaft is straight without dents" /  >}}
+  {{< interactive-modules/checklist-item label="No significant nicks or dents on head" /  >}}
+  {{< interactive-modules/checklist-item label="Has original headcover (if applicable)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Current Market Values for Vintage PING Putters" level="2" >}}

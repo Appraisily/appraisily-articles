@@ -110,7 +110,7 @@ For collectors and inheritors alike, determining the value of old stamps can see
 
 The world of philately (stamp collecting) is filled with fascinating stories and remarkable treasures. Whether you've inherited a collection or are actively building one, understanding stamp values is essential. According to experts, approximately 98% of stamps are worth only their face value or slightly more, but the remaining 2% can be quite valuable, with the rarest examples selling for millions at auction.
 
-{{< data-modules/stats-highlight title="Stamp Collecting Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Stamp Collecting Market Statistics" columns="3" / /  >}}
 
 ## Understanding the Value of Old Stamps
 
@@ -137,13 +137,13 @@ Before examining specific price ranges, it's important to understand what makes 
 5. **Demand**: Collector interest in certain themes, countries, or periods affects market values.
 
 {{< interactive-modules/condition-checklist title="Stamp Condition Assessment" description="Check applicable items to assess your stamp's condition" >}}
-    {{< interactive-modules/checklist-item label="Original gum intact (for unused stamps)" / />}}
-    {{< interactive-modules/checklist-item label="No tears, creases, or folds" / />}}
-    {{< interactive-modules/checklist-item label="Strong, unfaded colors" / />}}
-    {{< interactive-modules/checklist-item label="Good centering (design centered within margins)" / />}}
-    {{< interactive-modules/checklist-item label="No thinning or paper loss" / />}}
-    {{< interactive-modules/checklist-item label="Perforations intact and undamaged" / />}}
-    {{< interactive-modules/checklist-item label="No stains, discoloration, or foxing" / />}}
+    {{< interactive-modules/checklist-item label="Original gum intact (for unused stamps)" /  >}}
+    {{< interactive-modules/checklist-item label="No tears, creases, or folds" /  >}}
+    {{< interactive-modules/checklist-item label="Strong, unfaded colors" /  >}}
+    {{< interactive-modules/checklist-item label="Good centering (design centered within margins)" /  >}}
+    {{< interactive-modules/checklist-item label="No thinning or paper loss" /  >}}
+    {{< interactive-modules/checklist-item label="Perforations intact and undamaged" /  >}}
+    {{< interactive-modules/checklist-item label="No stains, discoloration, or foxing" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Rare U.S. Stamps Price List

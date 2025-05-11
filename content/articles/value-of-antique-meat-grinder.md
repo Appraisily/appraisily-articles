@@ -130,7 +130,7 @@ The first step in determining the value of your antique meat grinder is identify
 
 5. **Keystone** - Made by the Reading Hardware Company, these grinders feature the Keystone logo and typically include model numbers.
 
-{{< data-modules/stats-highlight title="Collectible Meat Grinder Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Collectible Meat Grinder Facts" columns="3" / /  >}}
 
 ### Determining Age and Authenticity
 
@@ -155,14 +155,14 @@ The condition of an antique meat grinder significantly impacts its value. Collec
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Meat Grinder Condition Assessment" description="Check applicable items to estimate your grinder's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer markings are clear and legible" / />}}
-  {{< interactive-modules/checklist-item label="Hand crank turns smoothly without binding" / />}}
-  {{< interactive-modules/checklist-item label="All original cutting plates are present" / />}}
-  {{< interactive-modules/checklist-item label="Grinder includes original clamp for mounting" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs to the cast iron body" / />}}
-  {{< interactive-modules/checklist-item label="Original tinning is present (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Wood handle is original with no replacements" / />}}
+  {{< interactive-modules/checklist-item label="Original finish is intact with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturer markings are clear and legible" /  >}}
+  {{< interactive-modules/checklist-item label="Hand crank turns smoothly without binding" /  >}}
+  {{< interactive-modules/checklist-item label="All original cutting plates are present" /  >}}
+  {{< interactive-modules/checklist-item label="Grinder includes original clamp for mounting" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs to the cast iron body" /  >}}
+  {{< interactive-modules/checklist-item label="Original tinning is present (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Wood handle is original with no replacements" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness and Original Parts

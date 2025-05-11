@@ -91,7 +91,7 @@ In this comprehensive guide, we'll explore what value means in artistic contexts
 
 Value is exclusively concerned with how light or dark a color appears, regardless of its hue (the actual color) or saturation (the color's intensity). For example, a light yellow and a light blue may have the same value despite being different colors. Similarly, a dark red and a dark green might share the same value despite their different hues.
 
-{{< data-modules/stats-highlight title="Key Aspects of Value in Art" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Aspects of Value in Art" columns="3" / /  >}}
 
 The concept of value encompasses several important aspects:
 
@@ -282,14 +282,14 @@ In digital art, additional techniques include:
 As Artplacer notes, "Value in art might refer to a defining element of the composition of an art piece that gives it depth, contrast, and balance." These techniques are the practical means by which artists achieve those qualities.
 
 {{< interactive-modules/condition-checklist title="Value Assessment in Artwork" description="Use this checklist to evaluate how effectively value is used in a piece of art" >}}
-  {{< interactive-modules/checklist-item label="Contains a full range of values from light to dark" / />}}
-  {{< interactive-modules/checklist-item label="Shows clear value relationships that create depth" / />}}
-  {{< interactive-modules/checklist-item label="Uses value contrast to establish focal points" / />}}
-  {{< interactive-modules/checklist-item label="Demonstrates consistent light source direction" / />}}
-  {{< interactive-modules/checklist-item label="Employs value to create form and volume" / />}}
-  {{< interactive-modules/checklist-item label="Uses value to establish atmospheric effects" / />}}
-  {{< interactive-modules/checklist-item label="Shows technical skill in value transitions" / />}}
-  {{< interactive-modules/checklist-item label="Creates emotional impact through value choices" / />}}
+  {{< interactive-modules/checklist-item label="Contains a full range of values from light to dark" /  >}}
+  {{< interactive-modules/checklist-item label="Shows clear value relationships that create depth" /  >}}
+  {{< interactive-modules/checklist-item label="Uses value contrast to establish focal points" /  >}}
+  {{< interactive-modules/checklist-item label="Demonstrates consistent light source direction" /  >}}
+  {{< interactive-modules/checklist-item label="Employs value to create form and volume" /  >}}
+  {{< interactive-modules/checklist-item label="Uses value to establish atmospheric effects" /  >}}
+  {{< interactive-modules/checklist-item label="Shows technical skill in value transitions" /  >}}
+  {{< interactive-modules/checklist-item label="Creates emotional impact through value choices" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Famous Examples of Value in Art History" level="2" >}}

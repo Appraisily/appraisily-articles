@@ -86,7 +86,7 @@ The value of antique Singer sewing machines varies significantly based on severa
 
 In this comprehensive guide, we'll explore how to identify valuable Singer models, assess condition factors, and navigate the current market landscape to determine the true worth of your antique sewing machine. We'll also highlight the most sought-after models and provide resources for further research and appraisal.
 
-{{< data-modules/stats-highlight title="Antique Singer Sewing Machine Market Snapshot" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Singer Sewing Machine Market Snapshot" columns="3" / /  >}}
 - **$50-$500**: Average value range for most vintage Singer models
 - **100+ years**: Age threshold for true "antique" designation
 - **1851**: Year Isaac Singer patented his first sewing machine
@@ -210,16 +210,16 @@ The condition of an antique Singer sewing machine dramatically impacts its value
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Assessment" description="Check applicable items to help determine your machine's condition" >}}
-  {{< interactive-modules/checklist-item label="Machine operates smoothly when hand wheel is turned" / />}}
-  {{< interactive-modules/checklist-item label="All original decals are intact and vibrant" / />}}
-  {{< interactive-modules/checklist-item label="No rust or significant paint loss on metal parts" / />}}
-  {{< interactive-modules/checklist-item label="Original finish on wooden cabinet/case is present" / />}}
-  {{< interactive-modules/checklist-item label="All original attachments and accessories included" / />}}
-  {{< interactive-modules/checklist-item label="Original manual and documentation present" / />}}
-  {{< interactive-modules/checklist-item label="Treadle mechanism (if applicable) works properly" / />}}
-  {{< interactive-modules/checklist-item label="No replacement parts or modern repairs visible" / />}}
-  {{< interactive-modules/checklist-item label="Cabinet/case has no significant damage" / />}}
-  {{< interactive-modules/checklist-item label="Machine produces proper stitches" / />}}
+  {{< interactive-modules/checklist-item label="Machine operates smoothly when hand wheel is turned" /  >}}
+  {{< interactive-modules/checklist-item label="All original decals are intact and vibrant" /  >}}
+  {{< interactive-modules/checklist-item label="No rust or significant paint loss on metal parts" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish on wooden cabinet/case is present" /  >}}
+  {{< interactive-modules/checklist-item label="All original attachments and accessories included" /  >}}
+  {{< interactive-modules/checklist-item label="Original manual and documentation present" /  >}}
+  {{< interactive-modules/checklist-item label="Treadle mechanism (if applicable) works properly" /  >}}
+  {{< interactive-modules/checklist-item label="No replacement parts or modern repairs visible" /  >}}
+  {{< interactive-modules/checklist-item label="Cabinet/case has no significant damage" /  >}}
+  {{< interactive-modules/checklist-item label="Machine produces proper stitches" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Functional Condition

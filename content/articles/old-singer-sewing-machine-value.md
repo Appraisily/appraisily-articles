@@ -154,7 +154,7 @@ Once you've located the serial number, you can use the [Singer Serial Number Dat
 
 Understanding which model you have is crucial for determining value:
 
-{{< data-modules/stats-highlight title="Most Collectible Singer Models" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Most Collectible Singer Models" columns="3" / /  >}}
 - **Singer Model 66**: First introduced in 1900, known for its "Red Eye" decals
 - **Singer Model 99**: A 3/4-size version of the Model 66, popular for its portability
 - **Singer Model 221 (Featherweight)**: Highly collectible portable machine from 1933
@@ -182,13 +182,13 @@ Some Singer models are inherently more valuable than others due to their rarity,
 Condition is perhaps the most significant factor in determining value:
 
 {{< interactive-modules/condition-checklist title="Singer Sewing Machine Condition Checklist" description="Use this checklist to assess your machine's condition" >}}
-  {{< interactive-modules/checklist-item label="Machine runs smoothly when hand wheel is turned" / />}}
-  {{< interactive-modules/checklist-item label="Motor runs properly (for electric models)" / />}}
-  {{< interactive-modules/checklist-item label="Original decals are intact and not significantly worn" / />}}
-  {{< interactive-modules/checklist-item label="No significant rust or damage to the metal components" / />}}
-  {{< interactive-modules/checklist-item label="Wooden cabinet or case is in good condition (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Original attachments and accessories are present" / />}}
-  {{< interactive-modules/checklist-item label="Has original manual and paperwork" / />}}
+  {{< interactive-modules/checklist-item label="Machine runs smoothly when hand wheel is turned" /  >}}
+  {{< interactive-modules/checklist-item label="Motor runs properly (for electric models)" /  >}}
+  {{< interactive-modules/checklist-item label="Original decals are intact and not significantly worn" /  >}}
+  {{< interactive-modules/checklist-item label="No significant rust or damage to the metal components" /  >}}
+  {{< interactive-modules/checklist-item label="Wooden cabinet or case is in good condition (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Original attachments and accessories are present" /  >}}
+  {{< interactive-modules/checklist-item label="Has original manual and paperwork" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness

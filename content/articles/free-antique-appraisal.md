@@ -118,7 +118,7 @@ Have you ever wondered about the value of that unique piece sitting in your atti
 
 In this comprehensive guide, we'll explore the various options for obtaining free antique appraisals, what to expect from the process, and how to maximize your chances of receiving an accurate valuation. We'll also discuss when it might be worth investing in a paid professional appraisal.
 
-{{< data-modules/stats-highlight title="Free Antique Appraisal Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Free Antique Appraisal Statistics" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Types of Free Antique Appraisal Services" level="2" id="appraisal-service-types" >}}
 Free antique appraisal services come in several forms, each with its own advantages and limitations. Understanding these options will help you choose the best approach for your specific needs.
@@ -203,12 +203,12 @@ Before seeking an appraisal, gather as much information about your item as possi
 For online appraisals, quality photographs are essential:
 
 {{< interactive-modules/condition-checklist title="Photo Checklist for Online Appraisals" description="Follow these guidelines when photographing items for appraisal submission" >}}
-  {{< interactive-modules/checklist-item label="Take multiple angles (front, back, top, bottom, sides)" / />}}
-  {{< interactive-modules/checklist-item label="Include close-ups of signatures, marks, and any damage" / />}}
-  {{< interactive-modules/checklist-item label="Use natural lighting without flash when possible" / />}}
-  {{< interactive-modules/checklist-item label="Include a ruler or common object for scale" / />}}
-  {{< interactive-modules/checklist-item label="Ensure photos are in focus and high resolution" / />}}
-  {{< interactive-modules/checklist-item label="Clean the item (if safe to do so) before photographing" / />}}
+  {{< interactive-modules/checklist-item label="Take multiple angles (front, back, top, bottom, sides)" /  >}}
+  {{< interactive-modules/checklist-item label="Include close-ups of signatures, marks, and any damage" /  >}}
+  {{< interactive-modules/checklist-item label="Use natural lighting without flash when possible" /  >}}
+  {{< interactive-modules/checklist-item label="Include a ruler or common object for scale" /  >}}
+  {{< interactive-modules/checklist-item label="Ensure photos are in focus and high resolution" /  >}}
+  {{< interactive-modules/checklist-item label="Clean the item (if safe to do so) before photographing" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ![Multiple photographs of an antique item prepared for online appraisal](https://ik.imagekit.io/appraisily/SEO/free-antique-appraisal/free-antique-appraisal-image-4_Im70iTK1Q.png)

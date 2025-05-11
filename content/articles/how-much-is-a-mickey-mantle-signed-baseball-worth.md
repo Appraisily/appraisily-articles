@@ -97,7 +97,7 @@ For baseball enthusiasts and memorabilia collectors alike, few items generate as
 
 ![Mickey Mantle signed baseball with authentication certificate](https://ik.imagekit.io/appraisily/SEO/how-much-is-a-mickey-mantle-signed-baseball-worth/how-much-is-a-mickey-mantle-signed-baseball-worth-image-1_MdtTcnZ9J.png)
 
-{{< data-modules/stats-highlight title="Mickey Mantle Signed Baseball Market Overview" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Mickey Mantle Signed Baseball Market Overview" columns="3" / /  >}}
 <tr>
   <td>Average Market Value</td>
   <td>$700-$1,200</td>
@@ -155,14 +155,14 @@ The physical condition of the baseball itself matters significantly:
 - **Age-appropriate baseballs** from Mantle's era add authenticity and value
 
 {{< interactive-modules/condition-checklist title="Mickey Mantle Signed Baseball Condition Assessment" description="Check applicable items to estimate condition quality" >}}
-  {{< interactive-modules/checklist-item label="Clean, unblemished baseball surface" / />}}
-  {{< interactive-modules/checklist-item label="Dark, clearly legible signature" / />}}
-  {{< interactive-modules/checklist-item label="Signature on the baseball's sweet spot" / />}}
-  {{< interactive-modules/checklist-item label="Includes inscription (No.7, HOF, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Official American League baseball" / />}}
-  {{< interactive-modules/checklist-item label="Contemporary to Mantle's career/lifetime" / />}}
-  {{< interactive-modules/checklist-item label="Includes original display case" / />}}
-  {{< interactive-modules/checklist-item label="Top-tier authentication (PSA/DNA, JSA)" / />}}
+  {{< interactive-modules/checklist-item label="Clean, unblemished baseball surface" /  >}}
+  {{< interactive-modules/checklist-item label="Dark, clearly legible signature" /  >}}
+  {{< interactive-modules/checklist-item label="Signature on the baseball's sweet spot" /  >}}
+  {{< interactive-modules/checklist-item label="Includes inscription (No.7, HOF, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Official American League baseball" /  >}}
+  {{< interactive-modules/checklist-item label="Contemporary to Mantle's career/lifetime" /  >}}
+  {{< interactive-modules/checklist-item label="Includes original display case" /  >}}
+  {{< interactive-modules/checklist-item label="Top-tier authentication (PSA/DNA, JSA)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Provenance and Documentation

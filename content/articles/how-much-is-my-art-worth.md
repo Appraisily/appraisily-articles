@@ -157,7 +157,7 @@ Prints, while still valuable in certain cases, are typically worth less than ori
 
 4. **Edition numbers**: Limited edition prints often have numbers like "15/100" (indicating the 15th print of 100 total) written in pencil near the artist's signature.
 
-{{< data-modules/stats-highlight title="Art Identification Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Art Identification Statistics" columns="3" / /  >}}
 
 {{< content-modules/section-header title="7 Key Factors That Determine Art Value" level="2" >}}
 Professional appraisers evaluate multiple aspects when determining an artwork's market value. Understanding these factors helps set realistic price expectations.
@@ -180,12 +180,12 @@ Provenance—the documented history of an artwork's ownership—can significantl
 The physical condition of artwork dramatically affects its value:
 
 {{< interactive-modules/condition-checklist title="Artwork Condition Assessment" description="Check applicable items to understand your artwork's condition status" >}}
-    {{< interactive-modules/checklist-item label="No visible damage or repairs" / />}}
-    {{< interactive-modules/checklist-item label="Colors retain original vibrancy" / />}}
-    {{< interactive-modules/checklist-item label="Canvas/paper is not warped or yellowed" / />}}
-    {{< interactive-modules/checklist-item label="Frame is original or period-appropriate" / />}}
-    {{< interactive-modules/checklist-item label="No restoration or overpainting visible" / />}}
-    {{< interactive-modules/checklist-item label="No mold, water damage, or insect damage" / />}}
+    {{< interactive-modules/checklist-item label="No visible damage or repairs" /  >}}
+    {{< interactive-modules/checklist-item label="Colors retain original vibrancy" /  >}}
+    {{< interactive-modules/checklist-item label="Canvas/paper is not warped or yellowed" /  >}}
+    {{< interactive-modules/checklist-item label="Frame is original or period-appropriate" /  >}}
+    {{< interactive-modules/checklist-item label="No restoration or overpainting visible" /  >}}
+    {{< interactive-modules/checklist-item label="No mold, water damage, or insect damage" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### 4. Rarity and Scarcity

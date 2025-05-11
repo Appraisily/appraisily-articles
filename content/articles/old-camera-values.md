@@ -95,20 +95,20 @@ Premium brands that typically command higher values include:
 - **Nikon** - Early Nikon rangefinders and professional F-series SLRs
 - **Canon** - Particularly valuable models include early rangefinders and professional F-1 series
 
-{{< data-modules/stats-highlight title="Most Valuable Camera Brands" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Most Valuable Camera Brands" columns="3" / /  >}}
 
 ### Condition Assessment
 
 Camera condition is perhaps the most significant factor affecting value. A camera in excellent working condition can be worth several times more than the same model in poor condition.
 
 {{< interactive-modules/condition-checklist title="Camera Condition Rating Guide" description="Key factors that determine a camera's condition grade" >}}
-  {{< interactive-modules/checklist-item label="Fully functioning shutter at all speeds" / />}}
-  {{< interactive-modules/checklist-item label="Clean, fungus-free lens elements" / />}}
-  {{< interactive-modules/checklist-item label="Accurate light meter (if equipped)" / />}}
-  {{< interactive-modules/checklist-item label="Intact leatherette or covering with no peeling" / />}}
-  {{< interactive-modules/checklist-item label="Minimal brassing (wear on metal surfaces)" / />}}
-  {{< interactive-modules/checklist-item label="Complete with original accessories" / />}}
-  {{< interactive-modules/checklist-item label="Original box and documentation" / />}}
+  {{< interactive-modules/checklist-item label="Fully functioning shutter at all speeds" /  >}}
+  {{< interactive-modules/checklist-item label="Clean, fungus-free lens elements" /  >}}
+  {{< interactive-modules/checklist-item label="Accurate light meter (if equipped)" /  >}}
+  {{< interactive-modules/checklist-item label="Intact leatherette or covering with no peeling" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal brassing (wear on metal surfaces)" /  >}}
+  {{< interactive-modules/checklist-item label="Complete with original accessories" /  >}}
+  {{< interactive-modules/checklist-item label="Original box and documentation" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Common condition ratings for vintage cameras include:
@@ -348,7 +348,7 @@ For rare or exceptionally valuable cameras (typically $1,000+), consider special
 
 For the best results, match your selling venue to your camera's value and target market. High-end collectible Leicas will fare better at specialty auctions, while common SLRs might sell more quickly on eBay or to a local shop.
 
-{{< data-modules/stats-highlight title="Camera Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Camera Market Statistics" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Vintage Camera Lenses Value" level="2" >}}
 Camera lenses can sometimes be more valuable than the cameras themselves. Here's what makes vintage lenses desirable and valuable.

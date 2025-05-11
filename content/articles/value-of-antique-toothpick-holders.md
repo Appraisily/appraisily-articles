@@ -178,7 +178,7 @@ Silver and silverplate toothpick holders represent some of the most valuable exa
 
 Silverplate examples from companies like WMF (Württembergische Metallwarenfabrik) often feature Art Nouveau designs and can be particularly valuable. Cast iron holders, while less common, are also highly collectible, especially the woodpecker design that dispensed toothpicks when a lever was pressed.
 
-{{< data-modules/stats-highlight title="Current Market Statistics for Antique Toothpick Holders" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Current Market Statistics for Antique Toothpick Holders" columns="3" / /  >}}
 
 {{< data-modules/price-table title="Price Ranges by Material and Type" description="Current market values based on recent sales and listings" >}}
   <tr>
@@ -245,14 +245,14 @@ Condition significantly impacts value, with mint or near-mint examples commandin
 - Repairs or restorations
 
 {{< interactive-modules/condition-checklist title="Condition Assessment for Toothpick Holders" description="Use this checklist to evaluate the condition of an antique toothpick holder" >}}
-  {{< interactive-modules/checklist-item label="No chips, cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" / />}}
-  {{< interactive-modules/checklist-item label="No significant scratches or abrasions" / />}}
-  {{< interactive-modules/checklist-item label="All decorative elements intact and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="Original color with no fading" / />}}
-  {{< interactive-modules/checklist-item label="No tarnish or pitting (for metal items)" / />}}
-  {{< interactive-modules/checklist-item label="Original patina appropriate for age" / />}}
-  {{< interactive-modules/checklist-item label="No staining or discoloration" / />}}
+  {{< interactive-modules/checklist-item label="No chips, cracks or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Original finish intact with minimal wear" /  >}}
+  {{< interactive-modules/checklist-item label="No significant scratches or abrasions" /  >}}
+  {{< interactive-modules/checklist-item label="All decorative elements intact and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="Original color with no fading" /  >}}
+  {{< interactive-modules/checklist-item label="No tarnish or pitting (for metal items)" /  >}}
+  {{< interactive-modules/checklist-item label="Original patina appropriate for age" /  >}}
+  {{< interactive-modules/checklist-item label="No staining or discoloration" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 While minor wear consistent with age is acceptable, significant damage dramatically reduces value. Repairs, unless done by a professional conservator, typically decrease value by 50% or more compared to undamaged examples.

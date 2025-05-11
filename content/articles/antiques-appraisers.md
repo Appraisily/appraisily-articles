@@ -102,7 +102,7 @@ Beyond just assigning a dollar value, professional appraisers provide:
 
 Unlike dealers or auctioneers who may provide free estimates, professional appraisers offer comprehensive, unbiased valuations, typically in writing, that can be used for insurance, estate planning, tax purposes, charitable donations, or legal matters.
 
-{{< data-modules/stats-highlight title="Antiques Appraisal Industry Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antiques Appraisal Industry Statistics" columns="3" / /  >}}
 
 <div class="stat-card">
   <span class="stat-value">57%</span>
@@ -200,14 +200,14 @@ Don't overlook resources in your own community:
 - Local historical societies
 
 {{< interactive-modules/condition-checklist title="Appraiser Qualification Checklist" description="Use this checklist to evaluate potential appraisers before hiring" >}}
-  {{< interactive-modules/checklist-item label="Holds credentials from a recognized appraisal organization (ISA, ASA, AAA)" / />}}
-  {{< interactive-modules/checklist-item label="Complies with USPAP (Uniform Standards of Professional Appraisal Practice)" / />}}
-  {{< interactive-modules/checklist-item label="Specializes in your specific type of item or collection" / />}}
-  {{< interactive-modules/checklist-item label="Has verifiable references or testimonials" / />}}
-  {{< interactive-modules/checklist-item label="Provides clear information about fees and services upfront" / />}}
-  {{< interactive-modules/checklist-item label="Maintains appropriate professional distance (no conflicts of interest)" / />}}
-  {{< interactive-modules/checklist-item label="Willing to explain their appraisal methodology" / />}}
-  {{< interactive-modules/checklist-item label="Carries errors and omissions insurance" / />}}
+  {{< interactive-modules/checklist-item label="Holds credentials from a recognized appraisal organization (ISA, ASA, AAA)" /  >}}
+  {{< interactive-modules/checklist-item label="Complies with USPAP (Uniform Standards of Professional Appraisal Practice)" /  >}}
+  {{< interactive-modules/checklist-item label="Specializes in your specific type of item or collection" /  >}}
+  {{< interactive-modules/checklist-item label="Has verifiable references or testimonials" /  >}}
+  {{< interactive-modules/checklist-item label="Provides clear information about fees and services upfront" /  >}}
+  {{< interactive-modules/checklist-item label="Maintains appropriate professional distance (no conflicts of interest)" /  >}}
+  {{< interactive-modules/checklist-item label="Willing to explain their appraisal methodology" /  >}}
+  {{< interactive-modules/checklist-item label="Carries errors and omissions insurance" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Online Appraisal Services

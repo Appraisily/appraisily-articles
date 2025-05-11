@@ -86,7 +86,7 @@ Antique electric hurricane lamps combine classic hurricane lamp design with mode
 
 While traditional hurricane lamps were designed to protect flames from drafts (hence the name "hurricane"), electric versions retained the distinctive glass chimney and decorative base purely for aesthetic appeal. Today, these lamps are sought after by collectors for their ornate designs, colorful glass shades, and vintage charm. Their value varies significantly based on manufacturer, age, condition, and decorative elements.
 
-{{< data-modules/stats-highlight title="Electric Hurricane Lamp Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Electric Hurricane Lamp Market Highlights" columns="3" / /  >}}
 
 | Stat | Value | Description |
 |------|-------|-------------|
@@ -224,14 +224,14 @@ While all antique and vintage items generally increase in value with age, authen
 Condition is paramount in determining value, with several specific concerns for electric hurricane lamps:
 
 {{< interactive-modules/condition-checklist title="Electric Hurricane Lamp Condition Assessment" description="Factors that impact value based on condition" >}}
-  {{< interactive-modules/checklist-item label="Original glass shade intact without cracks or chips" / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted decoration not faded or worn" / />}}
-  {{< interactive-modules/checklist-item label="Original wiring present (even if replaced for safety)" / />}}
-  {{< interactive-modules/checklist-item label="Functional electrical components" / />}}
-  {{< interactive-modules/checklist-item label="Original finials and hardware present" / />}}
-  {{< interactive-modules/checklist-item label="Base free from damage or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Matching shade and base (not from different lamps)" / />}}
-  {{< interactive-modules/checklist-item label="Original manufacturer marks or labels" / />}}
+  {{< interactive-modules/checklist-item label="Original glass shade intact without cracks or chips" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-painted decoration not faded or worn" /  >}}
+  {{< interactive-modules/checklist-item label="Original wiring present (even if replaced for safety)" /  >}}
+  {{< interactive-modules/checklist-item label="Functional electrical components" /  >}}
+  {{< interactive-modules/checklist-item label="Original finials and hardware present" /  >}}
+  {{< interactive-modules/checklist-item label="Base free from damage or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Matching shade and base (not from different lamps)" /  >}}
+  {{< interactive-modules/checklist-item label="Original manufacturer marks or labels" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to collectors on [Quora](https://www.quora.com/How-much-is-a-vintage-hurricane-glass-lamp-worth), the condition spectrum dramatically affects pricing: "Some hurricanes can be had for as little as $10, others go for 1000's" depending largely on condition and completeness.

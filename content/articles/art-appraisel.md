@@ -99,7 +99,7 @@ An art appraisal is an expert evaluation that determines the monetary value of a
 
 Professional appraisers use established methodologies and market expertise to provide accurate valuations based on factors like authenticity, condition, provenance, rarity, and current market trends. While online resources can provide preliminary estimates, a professional appraisal offers the most reliable valuation, especially for significant pieces.
 
-{{< data-modules/stats-highlight title="Art Appraisal Key Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Art Appraisal Key Statistics" columns="3" / /  >}}
 <tr>
   <td>$125-$350</td>
   <td>Average hourly rate for professional art appraisers</td>
@@ -238,14 +238,14 @@ A professional appraisal culminates in a detailed written report that typically 
 - Terms and conditions of the appraisal
 
 {{< interactive-modules/condition-checklist title="Artwork Condition Assessment" description="Key factors that appraisers evaluate when determining condition" >}}
-  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" / />}}
-  {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" / />}}
-  {{< interactive-modules/checklist-item label="Evidence of previous restoration or conservation" / />}}
-  {{< interactive-modules/checklist-item label="Frame condition and appropriateness" / />}}
-  {{< interactive-modules/checklist-item label="Structural stability of the artwork" / />}}
-  {{< interactive-modules/checklist-item label="Signs of environmental damage (water, light, etc.)" / />}}
-  {{< interactive-modules/checklist-item label="Canvas tension and warping (for paintings)" / />}}
-  {{< interactive-modules/checklist-item label="Signature clarity and authenticity" / />}}
+  {{< interactive-modules/checklist-item label="Surface integrity (no cracks, flaking, or losses)" /  >}}
+  {{< interactive-modules/checklist-item label="Color vibrancy and fading assessment" /  >}}
+  {{< interactive-modules/checklist-item label="Evidence of previous restoration or conservation" /  >}}
+  {{< interactive-modules/checklist-item label="Frame condition and appropriateness" /  >}}
+  {{< interactive-modules/checklist-item label="Structural stability of the artwork" /  >}}
+  {{< interactive-modules/checklist-item label="Signs of environmental damage (water, light, etc.)" /  >}}
+  {{< interactive-modules/checklist-item label="Canvas tension and warping (for paintings)" /  >}}
+  {{< interactive-modules/checklist-item label="Signature clarity and authenticity" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Finding Qualified Art Appraisers" level="2" >}}

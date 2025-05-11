@@ -89,7 +89,7 @@ Sotheby's, one of the world's premier auction houses, offers expert art appraisa
 
 Sotheby's has been valuing and selling fine art and collectibles since 1744, establishing itself as an authority in the art market. Their valuations department provides specialized appraisal services that are recognized by government agencies, financial institutions, and insurance companies worldwide. This article explores the comprehensive details of Sotheby's art appraisal offerings, how to submit items for valuation, what to expect during the process, and the factors that influence their expert assessments.
 
-{{< data-modules/stats-highlight title="Sotheby's Appraisal Services at a Glance" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Sotheby's Appraisal Services at a Glance" columns="3" / /  >}}
   <tr>
     <td>Global Specialists</td>
     <td>1,000+</td>
@@ -129,11 +129,11 @@ For more comprehensive documentation, Sotheby's offers formal written appraisals
 These formal appraisals are fee-based services and are commonly used for:
 
 {{< interactive-modules/condition-checklist title="Common Uses for Formal Sotheby's Appraisals" description="These professional valuations serve multiple purposes:" >}}
-  {{< interactive-modules/checklist-item label="Insurance coverage documentation" / />}}
-  {{< interactive-modules/checklist-item label="Estate planning and tax purposes" / />}}
-  {{< interactive-modules/checklist-item label="Charitable donation substantiation" / />}}
-  {{< interactive-modules/checklist-item label="Asset division for divorce proceedings" / />}}
-  {{< interactive-modules/checklist-item label="Collection management and inventory" / />}}
+  {{< interactive-modules/checklist-item label="Insurance coverage documentation" /  >}}
+  {{< interactive-modules/checklist-item label="Estate planning and tax purposes" /  >}}
+  {{< interactive-modules/checklist-item label="Charitable donation substantiation" /  >}}
+  {{< interactive-modules/checklist-item label="Asset division for divorce proceedings" /  >}}
+  {{< interactive-modules/checklist-item label="Collection management and inventory" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Collection Inventories
@@ -399,7 +399,7 @@ Smaller auction houses can be valuable alternatives for certain items:
 - Can offer more personalized service and attention
 - May provide market access for items not suited to major international auctions
 
-{{< data-modules/stats-highlight title="Sotheby's by the Numbers" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Sotheby's by the Numbers" columns="3" / /  >}}
   <tr>
     <td>Founded</td>
     <td>1744</td>

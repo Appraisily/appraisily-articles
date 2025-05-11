@@ -101,7 +101,7 @@ If you're wondering about the value of 8 grams of 10K gold—whether you're look
 
 Based on current gold prices (as of today), 8 grams of 10K gold is worth approximately **$358.32**. This value fluctuates daily with the gold market and is calculated based on the current spot price of gold and the purity of 10K gold (41.7% pure gold).
 
-{{< data-modules/stats-highlight title="8 Grams of 10K Gold: Key Value Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="8 Grams of 10K Gold: Key Value Facts" columns="3" / /  >}}
 
 | Measurement | Value | Details |
 |-------------|-------|---------|
@@ -197,11 +197,11 @@ Different buyers offer different percentages of the spot price:
 The physical form and condition of your gold can significantly impact its value:
 
 {{< interactive-modules/condition-checklist title="10K Gold Value Factors" description="Factors that can increase your gold's value beyond melt price" >}}
-  {{< interactive-modules/checklist-item label="Antique or vintage jewelry with historical significance" / />}}
-  {{< interactive-modules/checklist-item label="Jewelry from prestigious designers or brands" / />}}
-  {{< interactive-modules/checklist-item label="Items with gemstones or diamonds" / />}}
-  {{< interactive-modules/checklist-item label="Pieces with intricate craftsmanship" / />}}
-  {{< interactive-modules/checklist-item label="Collectible coins or limited edition items" / />}}
+  {{< interactive-modules/checklist-item label="Antique or vintage jewelry with historical significance" /  >}}
+  {{< interactive-modules/checklist-item label="Jewelry from prestigious designers or brands" /  >}}
+  {{< interactive-modules/checklist-item label="Items with gemstones or diamonds" /  >}}
+  {{< interactive-modules/checklist-item label="Pieces with intricate craftsmanship" /  >}}
+  {{< interactive-modules/checklist-item label="Collectible coins or limited edition items" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 For standard or damaged 10K gold items without special characteristics, the melt value will typically determine the selling price.

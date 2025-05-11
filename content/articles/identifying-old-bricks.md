@@ -82,7 +82,7 @@ Antique bricks are more than just building materials – they're historical arti
 
 Unlike modern mass-produced bricks with their uniform appearance, historic bricks exhibit unique characteristics that reflect their production methods, materials, and age. Learning to identify these features not only helps in authentication but also enhances appreciation for these tangible pieces of architectural history.
 
-{{< data-modules/stats-highlight title="Key Facts About Antique Bricks" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Key Facts About Antique Bricks" columns="3" / /  >}}
 - Different regions used distinct clay sources resulting in unique colors and textures
 - Prior to 1870, most American bricks were hand-molded in wooden forms
 - Properly identified antique bricks can sell for $1-$5 per brick, with rare specimens fetching significantly more
@@ -235,14 +235,14 @@ The value of historic bricks varies significantly based on several factors, with
 ### Condition Assessment for Historic Bricks
 
 {{< interactive-modules/condition-checklist title="Antique Brick Condition Checklist" description="Assess these factors when evaluating brick condition and value" >}}
-  {{< interactive-modules/checklist-item label="Structural integrity (no cracks or major chips)" / />}}
-  {{< interactive-modules/checklist-item label="Original edges and corners intact" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible maker's marks (if present)" / />}}
-  {{< interactive-modules/checklist-item label="Minimal mortar residue" / />}}
-  {{< interactive-modules/checklist-item label="Authentic patina and weathering" / />}}
-  {{< interactive-modules/checklist-item label="No modern paint or surface treatments" / />}}
-  {{< interactive-modules/checklist-item label="Free from significant salt damage or spalling" / />}}
-  {{< interactive-modules/checklist-item label="Documented provenance (for premium specimens)" / />}}
+  {{< interactive-modules/checklist-item label="Structural integrity (no cracks or major chips)" /  >}}
+  {{< interactive-modules/checklist-item label="Original edges and corners intact" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, legible maker's marks (if present)" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal mortar residue" /  >}}
+  {{< interactive-modules/checklist-item label="Authentic patina and weathering" /  >}}
+  {{< interactive-modules/checklist-item label="No modern paint or surface treatments" /  >}}
+  {{< interactive-modules/checklist-item label="Free from significant salt damage or spalling" /  >}}
+  {{< interactive-modules/checklist-item label="Documented provenance (for premium specimens)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to a discussion on [Reddit's r/centuryhomes](https://www.reddit.com/r/centuryhomes/comments/165k7jj/is_it_possible_to_estimate_the_age_of_these/), the value of historic bricks is highly dependent on both condition and quantity: "You need enough matching bricks to make an architectural feature – single specimens are primarily of interest to collectors."

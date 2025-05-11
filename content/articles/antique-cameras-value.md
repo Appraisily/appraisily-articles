@@ -105,7 +105,7 @@ In this comprehensive guide, we'll explore the key factors that influence antiqu
 The value of a vintage camera isn't arbitrary—several specific factors work together to determine its worth in today's collector market. Understanding these elements will help you accurately assess any antique camera's potential value.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Value Influencers" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Influencers" columns="3" / /  >}}
 
 ### Brand and Model Reputation
 
@@ -126,15 +126,15 @@ As noted in [LoveToKnow's article on valuable old cameras](https://www.lovetokno
 Condition remains one of the most critical factors in vintage camera valuation. Working cameras generally command significantly higher prices than non-functioning models, making mechanical condition especially important.
 
 {{< interactive-modules/condition-checklist title="Camera Condition Assessment Checklist" description="Use this checklist to evaluate your vintage camera's condition" >}}
-  {{< interactive-modules/checklist-item label="Shutter works correctly at all speeds" / />}}
-  {{< interactive-modules/checklist-item label="Aperture opens and closes smoothly without oil" / />}}
-  {{< interactive-modules/checklist-item label="Lens is clear with no fungus, haze, or separation" / />}}
-  {{< interactive-modules/checklist-item label="Viewfinder is clean and clear" / />}}
-  {{< interactive-modules/checklist-item label="Light meter functions accurately (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Film advance operates smoothly" / />}}
-  {{< interactive-modules/checklist-item label="Body has minimal brassing, dents, or scratches" / />}}
-  {{< interactive-modules/checklist-item label="Leather/covering is intact without peeling" / />}}
-  {{< interactive-modules/checklist-item label="Original parts (no replacements or repairs)" / />}}
+  {{< interactive-modules/checklist-item label="Shutter works correctly at all speeds" /  >}}
+  {{< interactive-modules/checklist-item label="Aperture opens and closes smoothly without oil" /  >}}
+  {{< interactive-modules/checklist-item label="Lens is clear with no fungus, haze, or separation" /  >}}
+  {{< interactive-modules/checklist-item label="Viewfinder is clean and clear" /  >}}
+  {{< interactive-modules/checklist-item label="Light meter functions accurately (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Film advance operates smoothly" /  >}}
+  {{< interactive-modules/checklist-item label="Body has minimal brassing, dents, or scratches" /  >}}
+  {{< interactive-modules/checklist-item label="Leather/covering is intact without peeling" /  >}}
+  {{< interactive-modules/checklist-item label="Original parts (no replacements or repairs)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Original Accessories and Packaging

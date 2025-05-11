@@ -99,7 +99,7 @@ Since their introduction in 1988, Holiday Barbie dolls have captivated collector
 
 Despite their "collectible" status, many Holiday Barbies haven't appreciated in value as significantly as collectors might have hoped. This comprehensive guide will help you understand what factors determine a Holiday Barbie's worth, which editions command premium prices, and how to assess the value of your own collection.
 
-{{< data-modules/stats-highlight title="Holiday Barbie Market Overview" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Holiday Barbie Market Overview" columns="3" / /  >}}
 
 <tr>
   <td>Average Value Range</td>
@@ -160,14 +160,14 @@ The production year significantly impacts value, with the earliest Holiday Barbi
 The condition of both the doll and packaging dramatically affects value:
 
 {{< interactive-modules/condition-checklist title="Holiday Barbie Condition Assessment" description="Check applicable items to understand your doll's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Box is sealed/never opened (NRFB - Never Removed From Box)" / />}}
-  {{< interactive-modules/checklist-item label="Box is intact with minimal shelf wear" / />}}
-  {{< interactive-modules/checklist-item label="Certificate of authenticity present (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Doll's hair is pristine with no styling or frizzing" / />}}
-  {{< interactive-modules/checklist-item label="Dress and accessories show no discoloration" / />}}
-  {{< interactive-modules/checklist-item label="No damage to gown's fabric, sequins, or embellishments" / />}}
-  {{< interactive-modules/checklist-item label="Original plastic supports and ties intact" / />}}
-  {{< interactive-modules/checklist-item label="No yellowing of plastic or vinyl components" / />}}
+  {{< interactive-modules/checklist-item label="Box is sealed/never opened (NRFB - Never Removed From Box)" /  >}}
+  {{< interactive-modules/checklist-item label="Box is intact with minimal shelf wear" /  >}}
+  {{< interactive-modules/checklist-item label="Certificate of authenticity present (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Doll's hair is pristine with no styling or frizzing" /  >}}
+  {{< interactive-modules/checklist-item label="Dress and accessories show no discoloration" /  >}}
+  {{< interactive-modules/checklist-item label="No damage to gown's fabric, sequins, or embellishments" /  >}}
+  {{< interactive-modules/checklist-item label="Original plastic supports and ties intact" /  >}}
+  {{< interactive-modules/checklist-item label="No yellowing of plastic or vinyl components" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Special Variations and Misprints

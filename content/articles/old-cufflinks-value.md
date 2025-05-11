@@ -169,7 +169,7 @@ Cufflinks from certain eras tend to command higher prices:
 
 Cufflinks from prestigious jewelry houses and designers command significant premiums:
 
-{{< data-modules/stats-highlight title="Value Premium for Prestigious Makers" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Premium for Prestigious Makers" columns="3" / /  >}}
 
 - **Cartier**: 300-500% premium over comparable non-designer pieces
 - **Tiffany & Co.**: 200-400% premium, especially for vintage blue box pieces
@@ -219,12 +219,12 @@ Period-specific materials can help date cufflinks:
 - **Gemstone Cuts**: Old mine cut diamonds (pre-1920s), calibré-cut gems (Art Deco era)
 
 {{< interactive-modules/condition-checklist title="Vintage Cufflink Identification Checklist" description="Use this checklist to help identify authentic vintage cufflinks" >}}
-  {{< interactive-modules/checklist-item label="Examine all metal surfaces for hallmarks and purity stamps" / />}}
-  {{< interactive-modules/checklist-item label="Check for patina consistent with age (not artificially created)" / />}}
-  {{< interactive-modules/checklist-item label="Inspect connections and mechanisms for period-appropriate construction" / />}}
-  {{< interactive-modules/checklist-item label="Look for hand-finishing details typical of the era" / />}}
-  {{< interactive-modules/checklist-item label="Verify any gemstones have appropriate cutting styles for the period" / />}}
-  {{< interactive-modules/checklist-item label="Research any maker's marks against known historical manufacturers" / />}}
+  {{< interactive-modules/checklist-item label="Examine all metal surfaces for hallmarks and purity stamps" /  >}}
+  {{< interactive-modules/checklist-item label="Check for patina consistent with age (not artificially created)" /  >}}
+  {{< interactive-modules/checklist-item label="Inspect connections and mechanisms for period-appropriate construction" /  >}}
+  {{< interactive-modules/checklist-item label="Look for hand-finishing details typical of the era" /  >}}
+  {{< interactive-modules/checklist-item label="Verify any gemstones have appropriate cutting styles for the period" /  >}}
+  {{< interactive-modules/checklist-item label="Research any maker's marks against known historical manufacturers" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Determining Age and Authenticity" level="2" >}}
@@ -399,7 +399,7 @@ This growth demonstrates the enduring appeal of fine cufflinks as both fashion a
 
 The market can be broadly divided into these value categories:
 
-{{< data-modules/stats-highlight title="Cufflink Market Segments" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Cufflink Market Segments" columns="3" / /  >}}
 
 - **Entry-Level Collectibles**: $50-$250 for quality vintage pairs in base metals or silver
 - **Mid-Range Investment Pieces**: $300-$1,000 for gold or designer silver examples

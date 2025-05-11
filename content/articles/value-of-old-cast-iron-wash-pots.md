@@ -90,7 +90,7 @@ Antique cast iron wash pots are more than just rustic relics; they're valuable p
 
 Before diving into specific values, it's important to understand that cast iron wash pots come in various sizes, conditions, and with different provenance – all factors that significantly impact their worth. Whether you've inherited one of these heavy-duty pots or are considering adding one to your collection, this guide will help you determine its potential value and historical significance.
 
-{{< data-modules/stats-highlight title="Cast Iron Wash Pot Market Overview" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Cast Iron Wash Pot Market Overview" columns="3" / /  >}}
 
 <tr>
   <td>Average Price Range</td>
@@ -155,11 +155,11 @@ Cast iron wash pots typically range from 10 to 40 gallons in capacity, with the 
 One of the most significant value factors is the presence of a foundry mark or manufacturer's name:
 
 {{< interactive-modules/condition-checklist title="Check for These Valuable Markings" description="Look closely at the bottom or sides of your wash pot" >}}
-  {{< interactive-modules/checklist-item label="Foundry name (e.g., Griswold, Wagner, Atlanta Stove Works)" / />}}
-  {{< interactive-modules/checklist-item label="Capacity number (often stamped on the bottom or rim)" / />}}
-  {{< interactive-modules/checklist-item label="City/state of manufacture" / />}}
-  {{< interactive-modules/checklist-item label="Patent dates or numbers" / />}}
-  {{< interactive-modules/checklist-item label="Gate marks (indicating pre-1890s production)" / />}}
+  {{< interactive-modules/checklist-item label="Foundry name (e.g., Griswold, Wagner, Atlanta Stove Works)" /  >}}
+  {{< interactive-modules/checklist-item label="Capacity number (often stamped on the bottom or rim)" /  >}}
+  {{< interactive-modules/checklist-item label="City/state of manufacture" /  >}}
+  {{< interactive-modules/checklist-item label="Patent dates or numbers" /  >}}
+  {{< interactive-modules/checklist-item label="Gate marks (indicating pre-1890s production)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 According to the [Cast Iron Collector forums](https://www.castironcollector.com/forum/threads/help-with-large-cauldron-wash-pot.387/), pots with clear, legible markings from well-known manufacturers like Griswold or Wagner typically fetch the highest prices, sometimes reaching $600-$800 for exceptional examples.
@@ -192,14 +192,14 @@ The condition of a cast iron wash pot is perhaps the single most important facto
 {{< /content-modules/section-header >}}
 
 {{< interactive-modules/condition-checklist title="Cast Iron Wash Pot Condition Assessment" description="Check all conditions that apply to determine the approximate condition rating" >}}
-  {{< interactive-modules/checklist-item label="Complete with original bail handle intact" / />}}
-  {{< interactive-modules/checklist-item label="All legs present and undamaged" / />}}
-  {{< interactive-modules/checklist-item label="No cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Minimal to no rust (surface rust only)" / />}}
-  {{< interactive-modules/checklist-item label="Original patina preserved" / />}}
-  {{< interactive-modules/checklist-item label="Clear, readable markings (if present)" / />}}
-  {{< interactive-modules/checklist-item label="No pitting or significant erosion" / />}}
-  {{< interactive-modules/checklist-item label="No warping or damage from excessive heat" / />}}
+  {{< interactive-modules/checklist-item label="Complete with original bail handle intact" /  >}}
+  {{< interactive-modules/checklist-item label="All legs present and undamaged" /  >}}
+  {{< interactive-modules/checklist-item label="No cracks or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal to no rust (surface rust only)" /  >}}
+  {{< interactive-modules/checklist-item label="Original patina preserved" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, readable markings (if present)" /  >}}
+  {{< interactive-modules/checklist-item label="No pitting or significant erosion" /  >}}
+  {{< interactive-modules/checklist-item label="No warping or damage from excessive heat" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Condition Ratings and Impact on Value
@@ -351,13 +351,13 @@ Proper restoration can enhance the value of a cast iron wash pot, while improper
 ## Restoration Do's and Don'ts
 
 {{< interactive-modules/condition-checklist title="Cast Iron Restoration Guidelines" description="Follow these recommendations to maintain value" >}}
-  {{< interactive-modules/checklist-item label="DO remove loose rust with wire brushes or steel wool" / />}}
-  {{< interactive-modules/checklist-item label="DO apply food-grade mineral oil to prevent future rusting" / />}}
-  {{< interactive-modules/checklist-item label="DO document the pot before restoration (for provenance)" / />}}
-  {{< interactive-modules/checklist-item label="DON'T use harsh chemicals like lye on unmarked areas" / />}}
-  {{< interactive-modules/checklist-item label="DON'T sandblast or power-tool the surface (destroys patina)" / />}}
-  {{< interactive-modules/checklist-item label="DON'T repaint unless absolutely necessary" / />}}
-  {{< interactive-modules/checklist-item label="DON'T attempt to repair cracks yourself" / />}}
+  {{< interactive-modules/checklist-item label="DO remove loose rust with wire brushes or steel wool" /  >}}
+  {{< interactive-modules/checklist-item label="DO apply food-grade mineral oil to prevent future rusting" /  >}}
+  {{< interactive-modules/checklist-item label="DO document the pot before restoration (for provenance)" /  >}}
+  {{< interactive-modules/checklist-item label="DON'T use harsh chemicals like lye on unmarked areas" /  >}}
+  {{< interactive-modules/checklist-item label="DON'T sandblast or power-tool the surface (destroys patina)" /  >}}
+  {{< interactive-modules/checklist-item label="DON'T repaint unless absolutely necessary" /  >}}
+  {{< interactive-modules/checklist-item label="DON'T attempt to repair cracks yourself" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ## Long-Term Preservation

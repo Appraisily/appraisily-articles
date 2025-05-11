@@ -108,7 +108,7 @@ As with most antiques, condition significantly impacts value. Milk cans in excel
 
 Milk cans were made from various metals, with some materials being more desirable than others:
 
-{{< data-modules/stats-highlight title="Material Value Impact" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Material Value Impact" columns="3" / /  >}}
 
 - **Brass/Copper**: Often the most valuable, especially with decorative elements
 - **Stainless Steel**: Generally durable and maintains a good appearance
@@ -243,13 +243,13 @@ Based on recent online marketplace listings and auction results:
 Certain features can significantly increase the value of an antique milk can:
 
 {{< interactive-modules/condition-checklist title="Value-Adding Features" description="Features that can increase an antique milk can's value" >}}
-  {{< interactive-modules/checklist-item label="Original, unrestored condition with natural patina" / />}}
-  {{< interactive-modules/checklist-item label="Clear dairy name, maker's mark, or identifying text" / />}}
-  {{< interactive-modules/checklist-item label="Pre-1920s manufacturing date" / />}}
-  {{< interactive-modules/checklist-item label="Unusual size or shape" / />}}
-  {{< interactive-modules/checklist-item label="Hand-painted decorative elements" / />}}
-  {{< interactive-modules/checklist-item label="Documented historical significance" / />}}
-  {{< interactive-modules/checklist-item label="Complete with original lid and components" / />}}
+  {{< interactive-modules/checklist-item label="Original, unrestored condition with natural patina" /  >}}
+  {{< interactive-modules/checklist-item label="Clear dairy name, maker's mark, or identifying text" /  >}}
+  {{< interactive-modules/checklist-item label="Pre-1920s manufacturing date" /  >}}
+  {{< interactive-modules/checklist-item label="Unusual size or shape" /  >}}
+  {{< interactive-modules/checklist-item label="Hand-painted decorative elements" /  >}}
+  {{< interactive-modules/checklist-item label="Documented historical significance" /  >}}
+  {{< interactive-modules/checklist-item label="Complete with original lid and components" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Value By Type and Style

@@ -103,7 +103,7 @@ In this comprehensive guide, we'll explore the factors that influence antique fi
 
 On average, common antique soda-acid fire extinguishers in unrestored condition typically sell for $100 to $200, though they often fetch about half of their estimated values at auction. However, more rare and desirable models, especially those made of copper or brass with ornate detailing, can command significantly higher prices.
 
-{{< data-modules/stats-highlight title="Antique Fire Extinguisher Market Values" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Fire Extinguisher Market Values" columns="3" / /  >}}
 
 * Average unrestored soda-acid extinguisher: $100-$200
 * Restored brass models: $200-$500
@@ -224,14 +224,14 @@ The materials used significantly impact value:
 The condition of an antique fire extinguisher is perhaps the most important factor in determining its value:
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Use this checklist to evaluate the condition of your antique fire extinguisher" >}}
-  {{< interactive-modules/checklist-item label="Original paint with minimal wear or fading" / />}}
-  {{< interactive-modules/checklist-item label="No significant dents, dings, or damage to body" / />}}
-  {{< interactive-modules/checklist-item label="Complete with all original parts including handles, nozzles, and brackets" / />}}
-  {{< interactive-modules/checklist-item label="Clear, legible manufacturer markings and labels" / />}}
-  {{< interactive-modules/checklist-item label="No repairs or modern replacements of components" / />}}
-  {{< interactive-modules/checklist-item label="Natural patina appropriate for age (for brass/copper models)" / />}}
-  {{< interactive-modules/checklist-item label="Free from serious corrosion or rust" / />}}
-  {{< interactive-modules/checklist-item label="Original pressure gauge intact (if applicable)" / />}}
+  {{< interactive-modules/checklist-item label="Original paint with minimal wear or fading" /  >}}
+  {{< interactive-modules/checklist-item label="No significant dents, dings, or damage to body" /  >}}
+  {{< interactive-modules/checklist-item label="Complete with all original parts including handles, nozzles, and brackets" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, legible manufacturer markings and labels" /  >}}
+  {{< interactive-modules/checklist-item label="No repairs or modern replacements of components" /  >}}
+  {{< interactive-modules/checklist-item label="Natural patina appropriate for age (for brass/copper models)" /  >}}
+  {{< interactive-modules/checklist-item label="Free from serious corrosion or rust" /  >}}
+  {{< interactive-modules/checklist-item label="Original pressure gauge intact (if applicable)" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Completeness

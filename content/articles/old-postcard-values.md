@@ -93,7 +93,7 @@ What started as simple communication tools have transformed into sought-after co
 
 Today's collectors appreciate vintage postcards not just for their aesthetic appeal but also for the window they provide into our shared past. Each postcard tells a story about the time it was created—the fashions, architecture, social customs, and cultural attitudes that defined an era.
 
-{{< data-modules/stats-highlight title="Vintage Postcard Market Insights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Vintage Postcard Market Insights" columns="3" / /  >}}
   <tr>
     <td>1905-1915</td>
     <td>Golden Age of Postcards</td>
@@ -155,15 +155,15 @@ Generally, older postcards tend to be more valuable, but the era matters signifi
 The condition of a vintage postcard dramatically impacts its value. According to experts at [Warwick & Warwick](https://www.warwickandwarwick.com/news/guides/how-to-value-old-postcards), condition can affect value by 30-50%.
 
 {{< interactive-modules/condition-checklist title="Postcard Condition Assessment Checklist" description="Use this checklist to evaluate your postcards' condition" >}}
-  {{< interactive-modules/checklist-item label="No creases, folds, or bends" / />}}
-  {{< interactive-modules/checklist-item label="Sharp, uncrimped corners" / />}}
-  {{< interactive-modules/checklist-item label="No tears or paper loss" / />}}
-  {{< interactive-modules/checklist-item label="No stains, spots, or discoloration" / />}}
-  {{< interactive-modules/checklist-item label="No writing or marks on the image side" / />}}
-  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" / />}}
-  {{< interactive-modules/checklist-item label="No tape, glue, or adhesive residue" / />}}
-  {{< interactive-modules/checklist-item label="No postal markings obscuring the image" / />}}
-  {{< interactive-modules/checklist-item label="No evidence of being removed from an album" / />}}
+  {{< interactive-modules/checklist-item label="No creases, folds, or bends" /  >}}
+  {{< interactive-modules/checklist-item label="Sharp, uncrimped corners" /  >}}
+  {{< interactive-modules/checklist-item label="No tears or paper loss" /  >}}
+  {{< interactive-modules/checklist-item label="No stains, spots, or discoloration" /  >}}
+  {{< interactive-modules/checklist-item label="No writing or marks on the image side" /  >}}
+  {{< interactive-modules/checklist-item label="Vibrant, unfaded colors" /  >}}
+  {{< interactive-modules/checklist-item label="No tape, glue, or adhesive residue" /  >}}
+  {{< interactive-modules/checklist-item label="No postal markings obscuring the image" /  >}}
+  {{< interactive-modules/checklist-item label="No evidence of being removed from an album" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Desirability

@@ -81,7 +81,7 @@ According to [Wikipedia's definition](https://en.wikipedia.org/wiki/Cultivator),
 
 Antique cultivators generally fall into several main categories:
 
-{{< data-modules/stats-highlight title="Major Antique Cultivator Categories" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Major Antique Cultivator Categories" columns="3" / /  >}}
 
 - **Horse-Drawn Cultivators**: These larger implements were pulled by horses or mules and allowed farmers to cultivate between crop rows.
 
@@ -121,14 +121,14 @@ Rare brands or models with limited production runs typically attract serious col
 ### Condition and Completeness
 
 {{< interactive-modules/condition-checklist title="Condition Assessment Checklist" description="Factors that affect an antique cultivator's condition rating" >}}
-  {{< interactive-modules/checklist-item label="Original paint and patina preserved" / />}}
-  {{< interactive-modules/checklist-item label="All parts present and original (not replacements)" / />}}
-  {{< interactive-modules/checklist-item label="Functional mechanical components" / />}}
-  {{< interactive-modules/checklist-item label="Minimal rust or just surface patina" / />}}
-  {{< interactive-modules/checklist-item label="Original wooden handles intact (if applicable)" / />}}
-  {{< interactive-modules/checklist-item label="Manufacturer markings are legible" / />}}
-  {{< interactive-modules/checklist-item label="No significant breaks, cracks or repairs" / />}}
-  {{< interactive-modules/checklist-item label="Period-appropriate hardware and fasteners" / />}}
+  {{< interactive-modules/checklist-item label="Original paint and patina preserved" /  >}}
+  {{< interactive-modules/checklist-item label="All parts present and original (not replacements)" /  >}}
+  {{< interactive-modules/checklist-item label="Functional mechanical components" /  >}}
+  {{< interactive-modules/checklist-item label="Minimal rust or just surface patina" /  >}}
+  {{< interactive-modules/checklist-item label="Original wooden handles intact (if applicable)" /  >}}
+  {{< interactive-modules/checklist-item label="Manufacturer markings are legible" /  >}}
+  {{< interactive-modules/checklist-item label="No significant breaks, cracks or repairs" /  >}}
+  {{< interactive-modules/checklist-item label="Period-appropriate hardware and fasteners" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Cultivators with original parts, intact mechanisms, and minimal damage naturally bring higher prices. While some surface rust is expected and even desired for authentic patina, excessive deterioration significantly reduces value.
@@ -382,7 +382,7 @@ Full restoration involves returning the cultivator to its original appearance an
 
 The value impact of restoration varies:
 
-{{< data-modules/stats-highlight title="Value Impact of Different Restoration Approaches" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Value Impact of Different Restoration Approaches" columns="3" / /  >}}
 
 1. **Careful, Authentic Restoration**: Can increase value for common models or severely deteriorated pieces
    

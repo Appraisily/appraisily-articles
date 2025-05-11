@@ -138,7 +138,7 @@ Pocket Monster cards, better known in the West as Pokémon cards, have become on
 Pocket Monster cards have evolved from a children's game to serious collectibles with some cards fetching thousands or even millions of dollars. However, the average card is typically worth far less. Understanding what makes certain cards valuable is crucial before setting expectations for your collection.
 {{< /content-modules/section-header >}}
 
-{{< data-modules/stats-highlight title="Pocket Monster Card Market Statistics" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Pocket Monster Card Market Statistics" columns="3" / /  >}}
 
 According to data from MAVIN, the average value of Pocket Monster cards is approximately $27.04, with sold comparables ranging from as low as $1.00 to as high as $540.50. However, these figures can be misleading, as the most valuable cards can sell for significantly more, while common cards may be worth less than a dollar.
 
@@ -197,12 +197,12 @@ A card's edition can be identified by looking for specific symbols:
 The physical condition of your cards dramatically impacts their value. Professional grading services like PSA (Professional Sports Authenticator) or BGS (Beckett Grading Services) use a 10-point scale to grade cards:
 
 {{< interactive-modules/condition-checklist title="Card Condition Assessment Factors" description="Key elements that determine a card's condition grade" >}}
-  {{< interactive-modules/checklist-item label="No visible surface scratches on the card front" / />}}
-  {{< interactive-modules/checklist-item label="Sharp corners with no white showing" / />}}
-  {{< interactive-modules/checklist-item label="Perfect centering of the image and borders" / />}}
-  {{< interactive-modules/checklist-item label="No visible print lines or defects" / />}}
-  {{< interactive-modules/checklist-item label="Clean card back with no marks or stains" / />}}
-  {{< interactive-modules/checklist-item label="No creases or bends in the card" / />}}
+  {{< interactive-modules/checklist-item label="No visible surface scratches on the card front" /  >}}
+  {{< interactive-modules/checklist-item label="Sharp corners with no white showing" /  >}}
+  {{< interactive-modules/checklist-item label="Perfect centering of the image and borders" /  >}}
+  {{< interactive-modules/checklist-item label="No visible print lines or defects" /  >}}
+  {{< interactive-modules/checklist-item label="Clean card back with no marks or stains" /  >}}
+  {{< interactive-modules/checklist-item label="No creases or bends in the card" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 A PSA 10 (Gem Mint) card can be worth many times more than the same card in PSA 7 (Near Mint) condition. For example, a first edition holographic Charizard in PSA 10 condition has sold for over $300,000, while the same card in PSA 7 might sell for under $15,000.
@@ -358,13 +358,13 @@ With the high values associated with some Pocket Monster cards, counterfeits hav
 ### How to Spot Fake Pocket Monster Cards
 
 {{< interactive-modules/condition-checklist title="Authenticity Verification Checklist" description="Use these checks to identify potential counterfeit cards" >}}
-  {{< interactive-modules/checklist-item label="Check for the accent mark in 'Pokémon'" / />}}
-  {{< interactive-modules/checklist-item label="Examine card stock thickness and feel" / />}}
-  {{< interactive-modules/checklist-item label="Look for the blue inner layer when viewing card edge" / />}}
-  {{< interactive-modules/checklist-item label="Verify proper font and text spacing" / />}}
-  {{< interactive-modules/checklist-item label="Examine holographic pattern quality" / />}}
-  {{< interactive-modules/checklist-item label="Check back of card for correct coloration and pattern" / />}}
-  {{< interactive-modules/checklist-item label="Examine copyright information for accuracy" / />}}
+  {{< interactive-modules/checklist-item label="Check for the accent mark in 'Pokémon'" /  >}}
+  {{< interactive-modules/checklist-item label="Examine card stock thickness and feel" /  >}}
+  {{< interactive-modules/checklist-item label="Look for the blue inner layer when viewing card edge" /  >}}
+  {{< interactive-modules/checklist-item label="Verify proper font and text spacing" /  >}}
+  {{< interactive-modules/checklist-item label="Examine holographic pattern quality" /  >}}
+  {{< interactive-modules/checklist-item label="Check back of card for correct coloration and pattern" /  >}}
+  {{< interactive-modules/checklist-item label="Examine copyright information for accuracy" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 Key warning signs of fake cards include:

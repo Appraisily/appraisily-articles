@@ -152,7 +152,7 @@ Korean art blends indigenous traditions with Chinese influences while maintainin
 
 - **Himalayan Art**: Tibetan and Nepalese thangkas (religious paintings) and bronze sculptures of Buddhist deities.
 
-{{< data-modules/stats-highlight title="Asian Art Market Highlights" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Asian Art Market Highlights" columns="3" / /  >}}
 <div class="stat-card">
   <div class="stat-value" style="color: var(--color-primary);">$5.7B</div>
   <div class="stat-label">Annual Global Sales</div>
@@ -220,14 +220,14 @@ Many Asian artworks bear seals or signatures that must be carefully evaluated:
 - **Signatures**: Japanese prints and paintings frequently bear artist signatures that skilled appraisers can evaluate for authenticity.
 
 {{< interactive-modules/condition-checklist title="Authentication Red Flags" description="Check for these warning signs when evaluating Asian art" >}}
-  {{< interactive-modules/checklist-item label="Artificially aged appearance or patina" / />}}
-  {{< interactive-modules/checklist-item label="Inconsistent wear patterns" / />}}
-  {{< interactive-modules/checklist-item label="Incorrect proportion or scale for the purported period" / />}}
-  {{< interactive-modules/checklist-item label="Unexpected or anachronistic materials" / />}}
-  {{< interactive-modules/checklist-item label="Modern manufacturing marks or techniques" / />}}
-  {{< interactive-modules/checklist-item label="Suspicious or incomplete provenance" / />}}
-  {{< interactive-modules/checklist-item label="Incorrect or poorly executed reign marks" / />}}
-  {{< interactive-modules/checklist-item label="Too-perfect condition for the claimed age" / />}}
+  {{< interactive-modules/checklist-item label="Artificially aged appearance or patina" /  >}}
+  {{< interactive-modules/checklist-item label="Inconsistent wear patterns" /  >}}
+  {{< interactive-modules/checklist-item label="Incorrect proportion or scale for the purported period" /  >}}
+  {{< interactive-modules/checklist-item label="Unexpected or anachronistic materials" /  >}}
+  {{< interactive-modules/checklist-item label="Modern manufacturing marks or techniques" /  >}}
+  {{< interactive-modules/checklist-item label="Suspicious or incomplete provenance" /  >}}
+  {{< interactive-modules/checklist-item label="Incorrect or poorly executed reign marks" /  >}}
+  {{< interactive-modules/checklist-item label="Too-perfect condition for the claimed age" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Key Factors Affecting Asian Art Valuation" level="2" >}}

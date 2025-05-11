@@ -137,7 +137,7 @@ An antique furniture appraisal involves much more than simply assigning a price 
 
 Whether you need an appraisal for insurance purposes, estate planning, potential sale, or personal knowledge, this comprehensive guide will walk you through everything you need to know about antique furniture appraisal.
 
-{{< data-modules/stats-highlight title="Antique Furniture Appraisal: Key Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Antique Furniture Appraisal: Key Facts" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Why Professional Appraisals Matter" level="2" >}}
 While many antique enthusiasts develop a good eye for quality pieces, professional appraisals offer numerous benefits that casual assessments cannot provide. Understanding the importance of expert evaluation can help you make informed decisions about your valuable items.
@@ -183,13 +183,13 @@ The provenance—or ownership history—of an antique can dramatically impact it
 The condition of antique furniture significantly affects its appraisal value. While some patina and signs of age are expected and often desirable, extensive damage, poor repairs, or significant alterations can drastically reduce worth.
 
 {{< interactive-modules/condition-checklist title="Antique Furniture Condition Assessment" description="Professional appraisers evaluate these condition factors:" >}}
-    {{< interactive-modules/checklist-item label="Original finish and hardware" / />}}
-    {{< interactive-modules/checklist-item label="Structural integrity" / />}}
-    {{< interactive-modules/checklist-item label="Evidence of professional restoration" / />}}
-    {{< interactive-modules/checklist-item label="Appropriate patina for age" / />}}
-    {{< interactive-modules/checklist-item label="Presence of alterations or modifications" / />}}
-    {{< interactive-modules/checklist-item label="Signs of insect damage or wood rot" / />}}
-    {{< interactive-modules/checklist-item label="Completeness of set pieces" / />}}
+    {{< interactive-modules/checklist-item label="Original finish and hardware" /  >}}
+    {{< interactive-modules/checklist-item label="Structural integrity" /  >}}
+    {{< interactive-modules/checklist-item label="Evidence of professional restoration" /  >}}
+    {{< interactive-modules/checklist-item label="Appropriate patina for age" /  >}}
+    {{< interactive-modules/checklist-item label="Presence of alterations or modifications" /  >}}
+    {{< interactive-modules/checklist-item label="Signs of insect damage or wood rot" /  >}}
+    {{< interactive-modules/checklist-item label="Completeness of set pieces" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 ### Rarity and Demand

@@ -123,7 +123,7 @@ Art appraisals serve multiple purposes, and understanding why you need one will 
 
 Many people underestimate the importance of professional art appraisals until facing significant financial consequences from inaccurate or missing valuations. Homeowner's insurance typically provides limited coverage for art unless specifically scheduled, making proper appraisals essential.
 
-{{< data-modules/stats-highlight title="Fine Art Appraisal Market Facts" columns="3" / / />}}
+{{< data-modules/stats-highlight title="Fine Art Appraisal Market Facts" columns="3" / /  >}}
 
 {{< content-modules/section-header title="Finding Qualified Art Appraisers in Your Area" level="2" >}}
   Locating a professional fine art appraiser requires research to ensure you're working with a qualified expert who specializes in your specific type of artwork.
@@ -156,13 +156,13 @@ Beyond national directories, explore these local options:
 5. **Local Art Associations**: Community art organizations often maintain relationships with trusted appraisers.
 
 {{< interactive-modules/condition-checklist title="Essential Appraiser Credential Checklist" description="Use this checklist to verify appraiser qualifications" >}}
-  {{< interactive-modules/checklist-item label="Membership in professional appraisal organizations (AAA, ISA, ASA)" / />}}
-  {{< interactive-modules/checklist-item label="Specialized education or certification in your type of artwork" / />}}
-  {{< interactive-modules/checklist-item label="Complies with Uniform Standards of Professional Appraisal Practice (USPAP)" / />}}
-  {{< interactive-modules/checklist-item label="Experience with your specific art medium or period" / />}}
-  {{< interactive-modules/checklist-item label="No conflicts of interest (doesn't buy or sell art they appraise)" / />}}
-  {{< interactive-modules/checklist-item label="References from previous clients or institutions" / />}}
-  {{< interactive-modules/checklist-item label="Clear, written fee structure" / />}}
+  {{< interactive-modules/checklist-item label="Membership in professional appraisal organizations (AAA, ISA, ASA)" /  >}}
+  {{< interactive-modules/checklist-item label="Specialized education or certification in your type of artwork" /  >}}
+  {{< interactive-modules/checklist-item label="Complies with Uniform Standards of Professional Appraisal Practice (USPAP)" /  >}}
+  {{< interactive-modules/checklist-item label="Experience with your specific art medium or period" /  >}}
+  {{< interactive-modules/checklist-item label="No conflicts of interest (doesn't buy or sell art they appraise)" /  >}}
+  {{< interactive-modules/checklist-item label="References from previous clients or institutions" /  >}}
+  {{< interactive-modules/checklist-item label="Clear, written fee structure" /  >}}
 {{< /interactive-modules/condition-checklist >}}
 
 {{< content-modules/section-header title="Types of Fine Art Appraisals" level="2" >}}
