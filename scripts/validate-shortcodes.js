@@ -58,9 +58,14 @@ async function validateShortcodes(filePath) {
         for (const match of openMatches) {
           const shortcodeName = match.match(/{{<\s*([a-zA-Z0-9\/-]+)/)[1];
           
-          // Check if this should be self-closing
-          if (mustBeSelfClosing.includes(shortcodeName) && !match.includes('/>}}')) {
-            errors.push(`Line ${lineNum}: Shortcode '${shortcodeName}' must be self-closing (use />}}).`);
+          // Self-closing shortcodes (stats-highlight, stat-card, checklist-item, etc.)
+          // No explicit '/>}}' is required any longer. We simply treat the opening tag
+          // itself as the complete element and do NOT expect or allow a separate
+          // closing tag further down.
+          if (mustBeSelfClosing.includes(shortcodeName)) {
+            // Make sure we do not accidentally consider it "open" for later matching
+            // Skip any further nesting bookkeeping for this shortcode
+            continue;
           }
           
           // Update context stack for special parent-child relationships
@@ -68,8 +73,9 @@ async function validateShortcodes(filePath) {
             contextStack.push(shortcodeName);
           }
           
-          // If not self-closing, add to stack
-          if (!match.includes('/>}}') && mustBeNested.includes(shortcodeName)) {
+          // For normal nested shortcodes (those that require a separate closing tag),
+          // add to the open stack so we can match them later.
+          if (mustBeNested.includes(shortcodeName)) {
             openShortcodes.push({ name: shortcodeName, line: lineNum });
             lineShortcodeOpened[shortcodeName] = lineShortcodeOpened[shortcodeName] || [];
             lineShortcodeOpened[shortcodeName].push(lineNum);
